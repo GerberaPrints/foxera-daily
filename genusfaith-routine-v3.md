@@ -11,6 +11,7 @@
 | 2 | **Locale trình duyệt = VN** → Amazon lọc bỏ listing không ship VN → đếm 6 kết quả, kết luận nhầm "white space" | **BẮT BUỘC chốt locale US/USD trước mọi lần quét.** Ghi `"locale"` vào JSON. |
 | 3 | **Nhầm review cấp SHOP ↔ cấp LISTING** (3 lần trong 2 ngày) | Mọi số review **bắt buộc có nhãn** `(listing rv)` hoặc `(shop rv)`. Không nhãn = không được dùng. |
 | 4 | Số của extension overlay (BrandSearch/IXSPY) sai lệch (báo $44M/tháng cho 1 cái ví) | **Bỏ qua mặc định.** Chỉ dùng khi ghi rõ nguồn + đánh dấu "bên thứ 3". |
+| 6 | **GAS v1 chỉ gửi B1–B6** → Khối 7 bị bỏ rơi, không bao giờ lên Telegram | GAS **v2**: thêm `fxSendBlock7` + `fxSendBlock8` + trigger 07:30/07:45; vá `pt_send_` cắt thô 4000 ký tự làm đứt thẻ HTML; thêm `fxHealthCheck` cảnh báo data cũ ngày. |
 | 5 | 4 job cùng push vào 1 repo → nguy cơ đè nhau | **Chỉ `git add` đúng 2 file namespace. TUYỆT ĐỐI không `git add -A`.** Luôn `git pull --rebase` trước push. |
 
 ---
@@ -81,6 +82,7 @@ rm -rf /tmp/fxrepo && git clone "https://x-access-token:${TOKEN}@github.com/Gerb
    • B4 Format/SP mới nổi: size/tier, personalization, **bundle bag+wallet**, gift-box, church-functional, real-photo.
    • B5 Niche mới + kết hợp: N1–N7 (Anglo, Hispanic, Black Catholic, Mother, Grief/Memorial, Modern, Scripture), B2B parish, **Confirmation/RCIA**, feast-day calendar.
    • B6 Evergreen Theme Bank = KHO tham chiếu; cập nhật khi biến động mạnh, còn lại "không đổi".
+   • B8 KHO ASIN/LISTING (đào ý tưởng): mỗi ngày thu ASIN thật + Etsy listing/shop → {asin, title, reviews_listing, price_usd, link}. Rút CÔNG THỨC (title pipe-separated · tên Latin+tagline · BỘ bag+wallet · double-sided 3 size · devotion ngoài Guadalupe · occasion). Kết bằng 2–3 IDEA MỚI dùng SKU sẵn có. Cách lấy ASIN hàng loạt: Chrome javascript_tool → querySelectorAll('div[data-asin]'). Ghi kèm link search BỀN vì ASIN hay chết.
    • B7 COMPETITOR & MARKETPLACE RADAR: Top-3/đối thủ + velocity. Mở bằng "🧭 Cấu trúc thị trường" (2 cụm operator). Tin B7b = Marketplace (Etsy top + Amazon top). Cuối B7 ghi "👉 Chốt:".
      VELOCITY: so {brand,label} với `genusfaith-metrics.jsonl` ngày trước → "▲ +N rv/X ngày" · "▬ đứng" · "🆕 mới lọt top". Thiếu dữ liệu → "baseline". KHÔNG bịa delta.
 
@@ -98,7 +100,7 @@ rm -rf /tmp/fxrepo && git clone "https://x-access-token:${TOKEN}@github.com/Gerb
 6) Mỗi khối: có tín hiệu mới → mảng tin (HTML Telegram chỉ `<b>,<i>,<code>`; KHUNG Việt/DATA Anh; mỗi tin **<3900 ký tự**; escape `&,<,>`). Không mới → 1 tin `⏸ <b>Khối X — {tên}</b>\nKhông đổi so với hôm qua (dd/mm).`
 7) GHI FILE (namespace genusfaith — KHÔNG đụng file job khác):
    a) `/tmp/fxrepo/genusfaith-daily.json`:
-      `{"date":"YYYY-MM-DD","locale":"US ZIP 10001 / USD","blocks":{"B1":[...],...,"B7":[...]}}`
+      `{"date":"YYYY-MM-DD","locale":"US ZIP 10001 / USD","blocks":{"B1":[...],...,"B7":[...],"B8":[...]}}`
       Kiểm tra: `python3 -c "import json;json.load(open('/tmp/fxrepo/genusfaith-daily.json'))"`
    b) APPEND 1 dòng vào `/tmp/fxrepo/genusfaith-metrics.jsonl`:
       `{"date":"...","locale":"US/USD","snapshots":[{"src":"dtc|etsy|amazon","brand":...,"label":...,"reviews_listing":N,"reviews_shop":N,"shop_sales":N,"price_anchor_usd":...,"price_now_usd":...,"note":...}]}`
