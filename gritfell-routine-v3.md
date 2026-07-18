@@ -1,5 +1,5 @@
-# GritFell Daily Research Updater — QUY TRÌNH v3
-**Lập 18/07/2026.** v3 = v2 + bài học quét chéo GenusFaith / FoxEra Etsy / Job / GerberaPrints (xem `SYSTEM.md` — kiến trúc & luật chung toàn hệ thống).
+# GritFell Daily Updater — QUY TRÌNH v3/v4 (ALL-IN-ONE)
+**Lập 18/07/2026, cập nhật cùng ngày lên v4.** v3 = v2 + bài học quét chéo GenusFaith / FoxEra Etsy / Job / GerberaPrints (xem `SYSTEM.md` — kiến trúc & luật chung toàn hệ thống). **v4 = gộp MỌI THỨ GritFell vào 1 task duy nhất 05:30**: thêm **B7 — Ads & Hook radar** (public-only: Meta Ad Library theo brand đối thủ, hook/angle — học công thức, không chép creative; không có số spend public → định tính, không bịa). GAS nâng **v2** kèm theo (`gritfelldaily-v2.gs`): sender `fxSendBlock7` + trigger 08:30 — đúng bài học GenusFaith #6, thêm khối phải thêm sender TRƯỚC, không để khối mồ côi. Self-check đổi thành "đủ 7 khối B1..B7". Prompt v4 nằm trong scheduled task "🎣 GritFell · ALL-IN-ONE (Research + Ads) v4".
 
 ---
 
@@ -19,9 +19,9 @@
 ## Nhịp trong ngày (đồng hồ Bangkok)
 
 ```
-05:30  Claude research → push gritfell-daily.json + gritfell-metrics.jsonl
+05:30  Claude research (B1–B6 thị trường + B7 ads/hook) → push gritfell-daily.json + gritfell-metrics.jsonl
 06:45  GAS fxHealthCheck — data cũ → cảnh báo 1 tin, KHÔNG đăng bản cũ
-07:00–08:15  GAS gửi B1→B6 vào nhóm "GritFell - Daily Market Research"
+07:00–08:30  GAS v2 gửi B1→B7 vào nhóm "GritFell - Daily Market Research"
 ```
 
 ---
