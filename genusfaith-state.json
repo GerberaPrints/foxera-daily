@@ -1,0 +1,99 @@
+{
+ "updated": "2026-07-20",
+ "oos_watch": {
+  "feratia:gratia-leather-handbag": {
+   "oos_since": "2026-07-19",
+   "last_seen_oos": "2026-07-20",
+   "note": "flagship 369 rv_listing"
+  },
+  "feratia:eucharist-leather-handbag": {
+   "oos_since": "2026-07-18",
+   "last_seen_oos": "2026-07-20",
+   "note": "approx start; 8 rv_listing small-batch caveat"
+  },
+  "feratia:adora-circle-crossbody": {
+   "oos_since": "2026-07-18",
+   "last_seen_oos": "2026-07-20",
+   "note": "part of 10/13 crossbody OOS wave"
+  },
+  "feratia:circle-crossbody-collection": {
+   "oos_since": "2026-07-19",
+   "last_seen_oos": "2026-07-20",
+   "note": "10/13 SKU OOS; in stock only Regina/Rosaria/Gratia; Alaris absent from collection since 19/07"
+  },
+  "blessac:faith-leather-handbag": {
+   "oos_since": "2026-07-19",
+   "last_seen_oos": "2026-07-20",
+   "note": "780 rv_listing"
+  },
+  "beaheart:our-lady-belt-bag": {
+   "oos_since": "2026-07-18",
+   "last_seen_oos": "2026-07-20",
+   "note": "on catholiccompany.com; no restock notice"
+  }
+ },
+ "badge_watch": {
+  "westcoastcatholic:marian-belt-bag": {
+   "badge": "low-stock",
+   "since": "2026-07-18",
+   "rv_at_start": 75,
+   "note": "rv flat +0 since start; Rule 9 trigger at 2026-07-25 if unchanged"
+  }
+ },
+ "ideas": {
+  "crossbody-belt-bag-spec": {
+   "proposed": "2026-07-18",
+   "tier": "green",
+   "last_promoted": "2026-07-19",
+   "score": null,
+   "note": "spec decision pending; demand evidence 4 sources"
+  },
+  "assumption-art-lock": {
+   "proposed": "2026-07-20",
+   "tier": "green",
+   "last_promoted": "2026-07-20",
+   "score": null,
+   "note": "hard deadline 15/08"
+  },
+  "in-stock-collection-shopify": {
+   "proposed": "2026-07-20",
+   "tier": "green",
+   "last_promoted": "2026-07-20",
+   "score": null,
+   "note": "SHIPPING TRUTH: no ships-fast claim, 'In Stock' only (per pack 20/07 GenusFaith ships 10-15d std)"
+  },
+  "bundle-bag-wallet": {
+   "proposed": "2026-07-18",
+   "tier": "yellow",
+   "last_promoted": null,
+   "score": null,
+   "note": "signal weakened 20/07 - Feratia /ads empty"
+  },
+  "eucharist-panis-angelicus-sku": {
+   "proposed": "2026-07-18",
+   "tier": "yellow",
+   "last_promoted": null,
+   "score": null,
+   "note": "Feratia Eucharist OOS but only 8 rv"
+  },
+  "b2b-wholesale-catholic-retailers": {
+   "proposed": "2026-07-19",
+   "tier": "yellow",
+   "last_promoted": null,
+   "score": null,
+   "note": ">=8 retailers carry Be A Heart belt bag"
+  }
+ },
+ "blocked_sources": {
+  "churchofsanctus.com": {
+   "since": "2026-07-18",
+   "retry": "weekly-mon",
+   "last_try": "2026-07-20"
+  },
+  "amazon-dp-pages": {
+   "since": "2026-07-14",
+   "retry": "weekly-mon",
+   "last_try": "2026-07-19"
+  }
+ }
+}
