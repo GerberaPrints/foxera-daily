@@ -1,35 +1,35 @@
 {
- "updated": "2026-07-20",
+ "updated": "2026-07-21",
  "oos_watch": {
   "feratia:gratia-leather-handbag": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-20",
-   "note": "flagship 369 rv_listing"
+   "last_seen_oos": "2026-07-21",
+   "note": "flagship 369 rv_listing; day 3"
   },
   "feratia:eucharist-leather-handbag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-20",
+   "last_seen_oos": "2026-07-21",
    "note": "approx start; 8 rv_listing small-batch caveat"
   },
   "feratia:adora-circle-crossbody": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-20",
-   "note": "part of 10/13 crossbody OOS wave"
+   "last_seen_oos": "2026-07-21",
+   "note": "part of crossbody OOS wave; day 4"
+  },
+  "feratia:alaris-circle-crossbody": {
+   "oos_since": "2026-07-19",
+   "last_seen_oos": "2026-07-21",
+   "note": "absent from collection 19-20/07, RE-LISTED as sold out 21/07 - treat absence period as OOS"
   },
   "feratia:circle-crossbody-collection": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-20",
-   "note": "10/13 SKU OOS; in stock only Regina/Rosaria/Gratia; Alaris absent from collection since 19/07"
-  },
-  "blessac:faith-leather-handbag": {
-   "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-20",
-   "note": "780 rv_listing"
+   "last_seen_oos": "2026-07-21",
+   "note": "10-11/14 SKU OOS day 3; in stock only Regina/Rosaria/Gratia"
   },
   "beaheart:our-lady-belt-bag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-20",
-   "note": "on catholiccompany.com; no restock notice"
+   "last_seen_oos": "2026-07-21",
+   "note": "OOS day 4 on catholiccompany.com AND (new 21/07) beaheart.com own site; no restock notice"
   }
  },
  "badge_watch": {
@@ -37,37 +37,44 @@
    "badge": "low-stock",
    "since": "2026-07-18",
    "rv_at_start": 75,
-   "note": "rv flat +0 since start; Rule 9 trigger at 2026-07-25 if unchanged"
+   "note": "day 4; rv flat +0 since start; Rule 9 trigger at 2026-07-25 if unchanged"
   }
  },
  "ideas": {
   "crossbody-belt-bag-spec": {
    "proposed": "2026-07-18",
-   "tier": "green",
+   "tier": "yellow",
    "last_promoted": "2026-07-19",
    "score": null,
-   "note": "spec decision pending; demand evidence 4 sources"
+   "note": "AUTO-DEMOTED 21/07 per Rule 6 (3 days no action); demand evidence STRONGER than ever (Feratia day-3 OOS, BeAHeart both-sites OOS) - re-promote instantly when user decides spec"
   },
   "assumption-art-lock": {
    "proposed": "2026-07-20",
    "tier": "green",
-   "last_promoted": "2026-07-20",
+   "last_promoted": "2026-07-21",
    "score": null,
-   "note": "hard deadline 15/08"
+   "note": "hard deadline: order cutoff ~25-28/07 given 10-15d shipping; else pivot to Queenship 22/08"
   },
   "in-stock-collection-shopify": {
    "proposed": "2026-07-20",
    "tier": "green",
-   "last_promoted": "2026-07-20",
+   "last_promoted": "2026-07-21",
    "score": null,
-   "note": "SHIPPING TRUTH: no ships-fast claim, 'In Stock' only (per pack 20/07 GenusFaith ships 10-15d std)"
+   "note": "SHIPPING TRUTH: no ships-fast claim, 'In Stock' only"
+  },
+  "bible-cover-price-corridor": {
+   "proposed": "2026-07-21",
+   "tier": "green",
+   "last_promoted": "2026-07-21",
+   "score": 8.0,
+   "note": "PROMOTED 21/07; corridor 39.95-44.95 between mass 28-38 and Catholight 49.95 (23 SKU); weakest: saturation 5, margin 6; kill gates PASS pending COGS floor check by user"
   },
   "bundle-bag-wallet": {
    "proposed": "2026-07-18",
    "tier": "yellow",
    "last_promoted": null,
    "score": null,
-   "note": "signal weakened 20/07 - Feratia /ads empty"
+   "note": "small new signal 21/07: Blessac review mentions matching wallet gifted together (1 mention only)"
   },
   "eucharist-panis-angelicus-sku": {
    "proposed": "2026-07-18",
@@ -81,7 +88,7 @@
    "tier": "yellow",
    "last_promoted": null,
    "score": null,
-   "note": ">=8 retailers carry Be A Heart belt bag"
+   "note": "strengthened 21/07: BeAHeart OOS on own site too - >=8 retailers hungry for belt-bag format"
   }
  },
  "blocked_sources": {
