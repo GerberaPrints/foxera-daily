@@ -1,0 +1,278 @@
+[
+  {
+    "id": "internal_idea_engine_v04",
+    "type": "internal",
+    "title": "GRITFELL IDEA ENGINE — CONSOLIDATED HANDOFF v0.4",
+    "evidence": "INTERNAL_LOCKED",
+    "note": "Primary source of brand filter, taxonomy, production rules, and open decisions."
+  },
+  {
+    "id": "internal_phase1_briefs",
+    "type": "internal",
+    "title": "_phase1_briefs_day11.json",
+    "evidence": "INTERNAL_HYPOTHESIS",
+    "note": "Concept seeds, modeled personas, hooks, pricing and bundles. Forecasts and competitor-performance claims are unverified."
+  },
+  {
+    "id": "internal_deep_research",
+    "type": "internal",
+    "title": "GritFell Idea System Synthesis",
+    "evidence": "INTERNAL_OBSERVED",
+    "note": "Earlier creative framework; v0.4 overrides conflicts."
+  },
+  {
+    "id": "gritfell_swim",
+    "url": "https://gritfell.com/collections/mens-swim-short",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "B2G1",
+      "free shipping $75+",
+      "highest swim-short price $39"
+    ]
+  },
+  {
+    "id": "gritfell_hunting_button",
+    "url": "https://gritfell.com/collections/hunting-button-shirt",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "11 items",
+      "highest price $55",
+      "B2G1",
+      "free shipping $75+"
+    ]
+  },
+  {
+    "id": "gritfell_marlin",
+    "url": "https://gritfell.com/products/marlin-button-shirt",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "$55",
+      "140 GSM imitation linen",
+      "breathable",
+      "wrinkle resistant",
+      "S-5XL"
+    ]
+  },
+  {
+    "id": "gritfell_archery_elk_hat",
+    "url": "https://gritfell.com/products/archery-elk-hat",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "premium embroidery",
+      "structured or relaxed fit",
+      "adjustable up to 62 cm"
+    ]
+  },
+  {
+    "id": "burlebo_polos",
+    "url": "https://www.burlebo.com/collections/performance-polos",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT"
+  },
+  {
+    "id": "burlebo_buttonups",
+    "url": "https://www.burlebo.com/collections/performance-button-ups",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "$64 short sleeve",
+      "$74 long sleeve",
+      "fishing/hunting/lifestyle/patriotic/camo"
+    ]
+  },
+  {
+    "id": "burlebo_polo_product",
+    "url": "https://www.burlebo.com/products/performance-polo-usa-eagle-navy",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "$59",
+      "91% polyester/9% spandex",
+      "quick dry",
+      "UPF 50",
+      "antimicrobial"
+    ]
+  },
+  {
+    "id": "poncho_home",
+    "url": "https://www.ponchooutdoors.com/",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "free and fast shipping",
+      "free-gift cart ladder",
+      "Original/Western/Ultra-Lite/Field Polos"
+    ]
+  },
+  {
+    "id": "poncho_faq",
+    "url": "https://www.ponchooutdoors.com/pages/faq",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "free gifts unlocked by shirt quantity"
+    ]
+  },
+  {
+    "id": "poncho_prices",
+    "url": "https://www.ponchooutdoors.com/collections/special-discount",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "representative products $89.95-$99.95"
+    ]
+  },
+  {
+    "id": "marshwear_polo",
+    "url": "https://www.marshwearclothing.com/products/pensacola-polo-smoke",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "regular $59",
+      "selected sale $39.99",
+      "free shipping $100+"
+    ]
+  },
+  {
+    "id": "duckcamp_shirt",
+    "url": "https://duckcamp.com/products/mens-lightweight-fishing-shirt-long-sleeve-birch",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "$109",
+      "cooling fabric positioning"
+    ]
+  },
+  {
+    "id": "duckcamp_offer",
+    "url": "https://duckcamp.com/pages/fishing-tops",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "15% first order $50+"
+    ]
+  },
+  {
+    "id": "aftco_polos",
+    "url": "https://www.aftco.com/collections/mens-performance-fishing-polos/filter-size-m",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "$59-$69"
+    ]
+  },
+  {
+    "id": "aftco_product",
+    "url": "https://www.aftco.com/products/link-short-sleeve-fishing-polo-shirt",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "free shipping $99+",
+      "10% profit donation statement"
+    ]
+  },
+  {
+    "id": "huk_polos",
+    "url": "https://huk.com/collections/mens-polos",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "free shipping $150+"
+    ]
+  },
+  {
+    "id": "howler_polos",
+    "url": "https://howlerbros.com/collections/mens-polo-shirts",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT"
+  },
+  {
+    "id": "freefly_buttondowns",
+    "url": "https://freeflyapparel.com/collections/mens-button-downs",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT"
+  },
+  {
+    "id": "drake_polos",
+    "url": "https://www.drakewaterfowl.com/collections/men-cas-shirts-polos",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT"
+  },
+  {
+    "id": "sitka_home",
+    "url": "https://www.sitkagear.com/",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "Gear for the obsessed",
+      "engineered fishing systems"
+    ]
+  },
+  {
+    "id": "tombeckbe_hat",
+    "url": "https://tombeckbe.com/products/performance-5-panel-hat",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT"
+  },
+  {
+    "id": "tombeckbe_story",
+    "url": "https://tombeckbe.com/blogs/field-journal/the-jacket-that-started-it-all-the-tensaw",
+    "type": "official_site",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "field performance plus office/town wear"
+    ]
+  },
+  {
+    "id": "oia_participation",
+    "url": "https://oia.outdoorindustry.org/participation-trends-report-exec-summary",
+    "type": "official_report",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "hiking/camping/fishing each +2M participants",
+      "seniors +7.4%",
+      "youth +5.6%",
+      "core users +5M"
+    ]
+  },
+  {
+    "id": "oia_retail",
+    "url": "https://oia.outdoorindustry.org/exec-summary-outdoor-retail-sales-trends-2025",
+    "type": "official_report",
+    "observed_at": "2026-07-20",
+    "evidence": "OBSERVED_CURRENT",
+    "facts": [
+      "$28B 2024 market",
+      "accessories strong",
+      "apparel flat",
+      "casual driving sales"
+    ]
+  }
+]

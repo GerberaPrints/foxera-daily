@@ -1,0 +1,38 @@
+{
+  "00_README_CLAUDE_DESKTOP.md": {
+    "bytes": 1518,
+    "sha256": "02d5b46d1fe6a2921e5cbbfe85dae99153c5f4d04d44286844d637ea35e16198"
+  },
+  "01_GRITFELL_MASTER_CONTEXT.md": {
+    "bytes": 9100,
+    "sha256": "7ad89c8e4a5ab8abf4667672a396e72ace38d098a38c2ca1038ad592b2986197"
+  },
+  "02_MARKET_AND_COMPETITOR_INTELLIGENCE.md": {
+    "bytes": 14066,
+    "sha256": "4b1d5c5d23f8cce7249e8907b0c57b2139482031626c98762a9776117e873e19"
+  },
+  "03_CREATIVE_HOOK_ANGLE_LIBRARY.md": {
+    "bytes": 7369,
+    "sha256": "6f990262d995e34bc0ac5de8ce9ba2508a3068e576b698dbb6c779d6676348dc"
+  },
+  "04_AI_AGENT_ARCHITECTURE.md": {
+    "bytes": 6326,
+    "sha256": "89c547602718e7371ea5d799908a7c3b0bce74417d0ead8bcf7656f558bd3dee"
+  },
+  "05_AGENT_SYSTEM_PROMPT.md": {
+    "bytes": 3131,
+    "sha256": "cf0830b1883d69367646a3a28285bd14266a08a4b55f6ffdb7d11209085f885d"
+  },
+  "06_DATA_SCHEMA.json": {
+    "bytes": 3505,
+    "sha256": "f97ad4791977e7b963396082fcdcc35680a14f7eb37f7215b392136618b783f0"
+  },
+  "07_SOURCE_REGISTRY.json": {
+    "bytes": 7503,
+    "sha256": "22eda433c3c30422a98808942485b2ccdd2bbc5a431677ca792e03f4a64fe604"
+  },
+  "08_CONFLICTS_GAPS_DECISIONS.md": {
+    "bytes": 4135,
+    "sha256": "1963c11027087d02da3063f697f20cb4d2f0cbe94d0538a7f2fc74163849cb5a"
+  }
+}

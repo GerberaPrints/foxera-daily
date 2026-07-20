@@ -1,0 +1,144 @@
+{
+  "record_version": "1.0",
+  "required_common_fields": {
+    "record_id": "string",
+    "record_type": "product|price|promotion|creative|market_signal|competitor_profile|opportunity",
+    "brand": "string",
+    "observed_at": "YYYY-MM-DD",
+    "source_url": "string",
+    "source_title": "string",
+    "source_type": "official_site|official_report|social|ad_library|retailer|internal",
+    "evidence_label": "INTERNAL_LOCKED|INTERNAL_OBSERVED|INTERNAL_HYPOTHESIS|OBSERVED_CURRENT|INFERRED|STALE_RISK|UNVERIFIED",
+    "confidence_score": "0-11",
+    "freshness_days": "integer",
+    "notes": "string"
+  },
+  "product_record": {
+    "product_name": "string",
+    "category": "string",
+    "sub_category": "string",
+    "pursuit": [
+      "string"
+    ],
+    "species_or_place": [
+      "string"
+    ],
+    "price_current_usd": "number|null",
+    "price_regular_usd": "number|null",
+    "currency": "USD",
+    "materials": [
+      "string"
+    ],
+    "verified_claims": [
+      "string"
+    ],
+    "sizes": [
+      "string"
+    ],
+    "colors": [
+      "string"
+    ],
+    "status": "new|bestseller|sale|regular|sold_out|unknown"
+  },
+  "promotion_record": {
+    "promotion_type": "percent|fixed|bogo|free_gift|shipping|bundle|loyalty",
+    "headline": "string",
+    "threshold_usd": "number|null",
+    "required_quantity": "number|null",
+    "reward": "string",
+    "start_date": "YYYY-MM-DD|null",
+    "end_date": "YYYY-MM-DD|null",
+    "terms": "string"
+  },
+  "creative_record": {
+    "channel": "meta|instagram|tiktok|youtube|email|site|search",
+    "format": "static|carousel|video|ugc|email|landing_page",
+    "funnel_stage": "awareness|consideration|conversion|retention",
+    "audience": "string",
+    "product": "string",
+    "hook_text": "string",
+    "angle": "string",
+    "proof": "string",
+    "cta": "string",
+    "visual_grammar": {
+      "setting": "string",
+      "subject": "string",
+      "product_visibility": "string",
+      "palette": [
+        "string"
+      ],
+      "props": [
+        "string"
+      ],
+      "camera": "string"
+    },
+    "copy_sample_short": "string",
+    "copyright_note": "store only short necessary excerpts"
+  },
+  "competitor_profile": {
+    "positioning": "string",
+    "price_tier": "accessible|mid|premium|luxury",
+    "primary_audience": "string",
+    "categories": [
+      "string"
+    ],
+    "selling_strategy": [
+      "string"
+    ],
+    "promotion_strategy": [
+      "string"
+    ],
+    "trust_mechanisms": [
+      "string"
+    ],
+    "creative_territories": [
+      "string"
+    ],
+    "hook_patterns": [
+      "string"
+    ],
+    "angle_patterns": [
+      "string"
+    ],
+    "gritfell_opportunity": [
+      "string"
+    ],
+    "gritfell_risk": [
+      "string"
+    ]
+  },
+  "opportunity_record": {
+    "opportunity_name": "string",
+    "audience": "string",
+    "niche": "string",
+    "sub_niche": "string",
+    "customer_truth": "string",
+    "market_evidence_ids": [
+      "record_id"
+    ],
+    "competitor_precedent_ids": [
+      "record_id"
+    ],
+    "differentiation": "string",
+    "product_formats": [
+      "string"
+    ],
+    "price_hypothesis": "string",
+    "offer_hypothesis": "string",
+    "creative_hooks": [
+      "string"
+    ],
+    "creative_angles": [
+      "string"
+    ],
+    "production_feasibility": "string",
+    "brand_filter": "PASS|REJECT|REVIEW",
+    "risks": [
+      "string"
+    ],
+    "test_plan": "string",
+    "kill_criteria": "string",
+    "opportunity_score": "1-5",
+    "confidence": "LOW|MEDIUM|HIGH"
+  }
+}
