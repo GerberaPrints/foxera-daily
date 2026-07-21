@@ -1,35 +1,45 @@
 {
- "updated": "2026-07-21",
+ "updated": "2026-07-22",
  "oos_watch": {
-  "feratia:gratia-leather-handbag": {
-   "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-21",
-   "note": "flagship 369 rv_listing; day 3"
-  },
   "feratia:eucharist-leather-handbag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-21",
-   "note": "approx start; 8 rv_listing small-batch caveat"
+   "last_seen_oos": "2026-07-22",
+   "note": "~day 5; 8 rv_listing small-batch caveat"
   },
   "feratia:adora-circle-crossbody": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-21",
+   "last_seen_oos": "2026-07-22",
    "note": "part of crossbody OOS wave; day 4"
   },
   "feratia:alaris-circle-crossbody": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-21",
+   "last_seen_oos": "2026-07-22",
    "note": "absent from collection 19-20/07, RE-LISTED as sold out 21/07 - treat absence period as OOS"
   },
   "feratia:circle-crossbody-collection": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-21",
-   "note": "10-11/14 SKU OOS day 3; in stock only Regina/Rosaria/Gratia"
+   "last_seen_oos": "2026-07-22",
+   "note": "10/13 OOS day 4; full list Gloria/Clara/Adora/Credo/Serena/Famoria/Ora/Mystica/Lumina/Amoris; in stock Regina/Rosaria/Gratia"
   },
   "beaheart:our-lady-belt-bag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-21",
-   "note": "OOS day 4 on catholiccompany.com AND (new 21/07) beaheart.com own site; no restock notice"
+   "last_seen_oos": "2026-07-22",
+   "note": "OOS day 5 both sites; TCC page shows delivery Jul 26-29 (possible restock ETA, unconfirmed)"
+  },
+  "blessac:faith-leather-handbag": {
+   "oos_since": "2026-07-22",
+   "last_seen_oos": "2026-07-22",
+   "note": "RE-OOS ~24h after 21/07 restock; prior OOS 19-20/07; flip-flop = thin batches"
+  },
+  "blessac:tote-oos-wave": {
+   "oos_since": "2026-07-22",
+   "last_seen_oos": "2026-07-22",
+   "note": "Presence/Waymaker/Lighthouse Tote + several Mini Satchels; first tote-format OOS wave at Blessac"
+  },
+  "catholight:sacred-heart-of-grace-leather-bag": {
+   "oos_since": "2026-07-22",
+   "last_seen_oos": "2026-07-22",
+   "note": "MTO flagship sold out + notify-me; MTO leadtime 10-15d prod + 7d ship disclosed on page"
   }
  },
  "badge_watch": {
@@ -37,7 +47,7 @@
    "badge": "low-stock",
    "since": "2026-07-18",
    "rv_at_start": 75,
-   "note": "day 4; rv flat +0 since start; Rule 9 trigger at 2026-07-25 if unchanged"
+   "note": "day 5; rv MOVED +1 on 22/07 (75->76) - Rule 9 requires rv+0, decoration clock weakened; keep watching to 25/07"
   }
  },
  "ideas": {
@@ -51,21 +61,21 @@
   "assumption-art-lock": {
    "proposed": "2026-07-20",
    "tier": "green",
-   "last_promoted": "2026-07-21",
+   "last_promoted": "2026-07-22",
    "score": null,
-   "note": "hard deadline: order cutoff ~25-28/07 given 10-15d shipping; else pivot to Queenship 22/08"
+   "note": "DAY 3 green - auto-demote 23/07 per Rule 6 if no action; hard order cutoff ~25-28/07; else pivot Queenship 22/08"
   },
   "in-stock-collection-shopify": {
    "proposed": "2026-07-20",
    "tier": "green",
-   "last_promoted": "2026-07-21",
+   "last_promoted": "2026-07-22",
    "score": null,
-   "note": "SHIPPING TRUTH: no ships-fast claim, 'In Stock' only"
+   "note": "DAY 3 green - auto-demote 23/07 if no action; evidence stronger: Albuquerque thin-batch flip-flops (Gratia 3d OOS restock, Blessac 24h flip)"
   },
   "bible-cover-price-corridor": {
    "proposed": "2026-07-21",
    "tier": "green",
-   "last_promoted": "2026-07-21",
+   "last_promoted": "2026-07-22",
    "score": 8.0,
    "note": "PROMOTED 21/07; corridor 39.95-44.95 between mass 28-38 and Catholight 49.95 (23 SKU); weakest: saturation 5, margin 6; kill gates PASS pending COGS floor check by user"
   },
@@ -81,14 +91,14 @@
    "tier": "yellow",
    "last_promoted": null,
    "score": null,
-   "note": "Feratia Eucharist OOS but only 8 rv"
+   "note": "small new signal 22/07: real review 'Bible and Catechism to Adoration Chapel' (1 mention, stays yellow)"
   },
   "b2b-wholesale-catholic-retailers": {
    "proposed": "2026-07-19",
    "tier": "yellow",
    "last_promoted": null,
    "score": null,
-   "note": "strengthened 21/07: BeAHeart OOS on own site too - >=8 retailers hungry for belt-bag format"
+   "note": "BeAHeart OOS day 5 both sites; network >=8 retailers still hungry; test = 1 line-sheet email"
   }
  },
  "blocked_sources": {
