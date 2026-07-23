@@ -1,50 +1,45 @@
 {
- "updated": "2026-07-23",
+ "updated": "2026-07-24",
  "oos_watch": {
   "feratia:eucharist-leather-handbag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-23",
-   "note": "~day 6; 8 rv_listing small-batch caveat"
+   "last_seen_oos": "2026-07-24",
+   "note": "day 7; 8 rv_listing small-batch caveat"
   },
   "feratia:adora-circle-crossbody": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-23",
-   "note": "part of crossbody OOS wave; day 4"
+   "last_seen_oos": "2026-07-24",
+   "note": "part of crossbody OOS wave; day 6 (wave count)"
   },
   "feratia:alaris-circle-crossbody": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-23",
-   "note": "absent from collection 19-20/07, RE-LISTED as sold out 21/07 - treat absence period as OOS"
+   "last_seen_oos": "2026-07-24",
+   "note": "still sold-out on /all 24/07; likely the 14th item of crossbody collection (count 14 vs 13 named)"
   },
   "feratia:circle-crossbody-collection": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-23",
-   "note": "10/13 OOS day 5; list unchanged; in stock Regina/Rosaria/Gratia"
+   "last_seen_oos": "2026-07-24",
+   "note": "10/14 OOS day 6; list unchanged; in stock Regina/Rosaria/Gratia"
   },
   "beaheart:our-lady-belt-bag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-23",
-   "note": "OOS day 6 both sites; 'Delivers by' widget confirmed ROLLING (27-30 vs 26-29) - no real restock ETA"
-  },
-  "blessac:faith-leather-handbag": {
-   "oos_since": "2026-07-22",
-   "last_seen_oos": "2026-07-23",
-   "note": "OOS day 2 after 24h flip-flop; prior OOS 19-20/07"
+   "last_seen_oos": "2026-07-24",
+   "note": "OOS day 7 both sites; 'Delivers by Jul 27-30' did NOT roll today - widget behavior mixed, still NOT a restock ETA"
   },
   "blessac:tote-oos-wave": {
    "oos_since": "2026-07-22",
-   "last_seen_oos": "2026-07-23",
-   "note": "Tote: Presence/Waymaker/Lighthouse day 2; Mini Satchel NAMED 23/07: Redeem/Blessed/Pure/Courage; crossbody 8/8 in stock"
+   "last_seen_oos": "2026-07-24",
+   "note": "day 3 unchanged: Tote Presence/Waymaker/Lighthouse; Mini Satchel Redeem/Blessed/Pure/Courage; crossbody 9 named all in stock"
   },
   "catholight:sacred-heart-of-grace-leather-bag": {
    "oos_since": "2026-07-22",
    "last_seen_oos": "2026-07-22",
-   "note": "MTO flagship sold out 22/07; NOT re-checked 23/07 (page not in daily core) - recheck when in rotation"
+   "note": "MTO flagship sold out 22/07; NOT re-checked 23-24/07 (not in daily core) - recheck when in rotation"
   },
   "feratia:gratia-leather-handbag": {
    "oos_since": "2026-07-23",
-   "last_seen_oos": "2026-07-23",
-   "note": "RE-OOS ~24h after 22/07 restock (cart shortage msg); prior OOS 19-21/07; flip-flop #2 in cluster"
+   "last_seen_oos": "2026-07-24",
+   "note": "RE-OOS day 2; rv +4/1d WHILE OOS (first cluster movement in 5d); prior OOS 19-21/07"
   }
  },
  "badge_watch": {
@@ -52,7 +47,7 @@
    "badge": "low-stock",
    "since": "2026-07-18",
    "rv_at_start": 75,
-   "note": "day 6; rv 76 (+1 total since 18/07, on 22/07 only); Rule 9 checkpoint 25/07 - if rv stays flat, declare decoration"
+   "note": "DAY 7 (since 18/07); rv 76 = +1 total (22/07 only), +0/2d; Rule 9 checkpoint 25/07 - if unchanged, downgrade badge to decoration/OBSERVATION (caveat: +1 rv means strict 'rv +0' not met)"
   }
  },
  "ideas": {
@@ -61,14 +56,14 @@
    "tier": "yellow",
    "last_promoted": "2026-07-19",
    "score": null,
-   "note": "yellow awaiting user spec; 23/07 NEW spec input from real reviews: fit iPhone Plus + medium wallet + sunglasses; avoid strap-tail hanging; size-expectation + peeling objections logged"
+   "note": "yellow awaiting user spec; corridor supply-starved day 6-7 (Feratia 10/14 d6, BeAHeart d7); spec from real reviews on file 23/07"
   },
   "assumption-art-lock": {
    "proposed": "2026-07-20",
    "tier": "yellow",
    "last_promoted": "2026-07-22",
    "score": null,
-   "note": "AUTO-DEMOTED 23/07 per Rule 6 (day 4 green, no action); rescuable within 48h (order cutoff ~25-28/07), else pivot Queenship 22/08 + October Rosary"
+   "note": "FINAL CALL 24/07: order cutoff ~25-28/07 = 1-4 days left; no action in 24-48h -> kill and pivot Queenship 22/08 + October Rosary"
   },
   "in-stock-collection-shopify": {
    "proposed": "2026-07-20",
@@ -79,17 +74,17 @@
   },
   "bible-cover-price-corridor": {
    "proposed": "2026-07-21",
-   "tier": "green",
+   "tier": "yellow",
    "last_promoted": "2026-07-23",
    "score": 8.0,
-   "note": "GREEN DAY 3 (final) - auto-demote 24/07 if no action; minimal keep-alive action = COGS floor + 1 art test; score 8.0"
+   "note": "AUTO-DEMOTED 24/07 per Rule 6 (green day 3 ended 23/07, no action); score 8.0 kept on file; evidence still strengthening (Manna 'Bible Purse' positioning, Christianbook mass-tier slot churned); rescue = COGS floor + 1 art test -> re-promote instantly"
   },
   "bundle-bag-wallet": {
    "proposed": "2026-07-18",
    "tier": "yellow",
    "last_promoted": null,
    "score": null,
-   "note": "small new signal 21/07: Blessac review mentions matching wallet gifted together (1 mention only)"
+   "note": "signal #2 on 24/07: Blessac PDP 'Build Your Bundle' 364.80->164.13 observed (first record, may pre-exist); still yellow - competitor behavior, not measured demand"
   },
   "eucharist-panis-angelicus-sku": {
    "proposed": "2026-07-18",
@@ -116,6 +111,12 @@
    "since": "2026-07-14",
    "retry": "weekly-mon",
    "last_try": "2026-07-19"
+  },
+  "mannacovers.com-deep-pages": {
+   "since": "2026-07-24",
+   "retry": "weekly-mon",
+   "last_try": "2026-07-24",
+   "note": "homepage fetches OK; /collections, /products, /reviews return 403/404 (mixed WP/Shopify paths); Monday is its satellite day anyway"
   }
  }
 }
