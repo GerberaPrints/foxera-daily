@@ -1,0 +1,18 @@
+{
+ "_readme": "Ledger de xuat CHO NGUOI DUYET. Bot: doc moi run, render muc '⏳ CHỜ DUYỆT' cuoi B1 (kem so ngay den kill_date). Bot duoc ADD item pending moi (moi y 🟢 co de xuat can duyet), duoc cap nhat last_rescore/score, KHONG BAO GIO tu chuyen sang decided. Qua kill_date chua co quyet dinh -> bot chuyen sang decided voi status EXPIRED + ghi chu trong B1. Nguoi duyet: sua status thanh APPROVED/REJECTED + them note roi push.",
+ "pending": [
+  {
+   "id": "OPENER-CAPSULE-2026",
+   "title": "Opener Countdown — dove/teal species-art capsule (creative prep de san sang dau thang 8)",
+   "proposed": "2026-07-21",
+   "last_rescore": "2026-07-24",
+   "score": "4/5",
+   "kill_date": "2026-08-07",
+   "kill_criteria": "(1) T1 drop fall collection day dac truoc khi GritFell co creative san -> doi sang Christmas window; (2) DECOY/Duck Camp tung species-art dove truoc -> mat differentiation, xet lai",
+   "evidence": "Drake homepage escalation 24/07 + clearance wave 3/9 brand + DECOY van 1 SKU (lane species-art con trong)",
+   "status": "PENDING",
+   "needs": "NGUOI DUYET: co lam capsule creative dove/teal cho dau Aug khong? (creative prep — chua dung gia/offer/ads)"
+  }
+ ],
+ "decided": []
+}
