@@ -118,5 +118,57 @@
    "last_try": "2026-07-24",
    "note": "homepage fetches OK; /collections, /products, /reviews return 403/404 (mixed WP/Shopify paths); Monday is its satellite day anyway"
   }
+ },
+ "trend_watch": {
+  "catholic-core": {
+   "first_seen": "2026-07-24",
+   "source": "websearch+press",
+   "status": "emerging",
+   "last_checked": "2026-07-24",
+   "note": "Gen-Z aesthetic; press Numero Netherlands (rosary micro-trend, D&G SS27 rosaries, Pinterest front page); NO commercial bag signal yet; persona bridge = gift daughter->mom/grandma; auto-dead 07/08 if no commercial signal"
+  },
+  "catholight-bag-tiktok-cluster": {
+   "first_seen": "2026-07-24",
+   "source": "websearch",
+   "status": "emerging",
+   "last_checked": "2026-07-24",
+   "note": "TikTok discover page 'Catholight Bag' exists = competitor searched enough to form cluster (OBSERVATION; view counts unreadable - direct fetch blocked)"
+  },
+  "biblestudybag-hashtag": {
+   "first_seen": "2026-07-24",
+   "source": "websearch",
+   "status": "emerging",
+   "last_checked": "2026-07-24",
+   "note": "#biblestudybag #biblebag #christiantiktok ecosystem; small canvas sellers active (dimpleddannidesigns); direct relevance to BC- line; watch for commercial signal"
+  },
+  "genz-catholic-influencer-wave": {
+   "first_seen": "2026-07-24",
+   "source": "press",
+   "status": "emerging",
+   "last_checked": "2026-07-24",
+   "note": "Walops: named creators ~100K-2.9M followers; '68% French converts credit YT/IG/TikTok' (3rd party, unverified); principle for organic content only - NO influencer names in ads"
+  }
+ },
+ "offer_fingerprints": {
+  "blessac:faith-build-your-bundle": {
+   "value": "364.80->164.13 (HB+wallet+mini wallet+tote, SUMMER26)",
+   "first_seen": "2026-07-24",
+   "last_confirmed": "2026-07-24"
+  },
+  "albuquerque:summer26-coupon": {
+   "value": "SUMMER26 -50to60%",
+   "first_seen": "2026-07-14",
+   "last_confirmed": "2026-07-24"
+  },
+  "catholight:instock-ship-claim": {
+   "value": "AZ, USA... 4-6 days | 24 SKU $89.95",
+   "first_seen": "2026-07-20",
+   "last_confirmed": "2026-07-24"
+  },
+  "afroyla:bogo-sitewide": {
+   "value": "Buy 1 Get 1 Free sitewide",
+   "first_seen": "2026-07-21",
+   "last_confirmed": "2026-07-24"
+  }
  }
 }
