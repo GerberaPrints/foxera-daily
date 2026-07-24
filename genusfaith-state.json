@@ -1,45 +1,40 @@
 {
- "updated": "2026-07-24",
+ "updated": "2026-07-25",
  "oos_watch": {
   "feratia:eucharist-leather-handbag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-24",
-   "note": "day 7; 8 rv_listing small-batch caveat"
+   "last_seen_oos": "2026-07-25",
+   "note": "day 8; 8 rv_listing small-batch caveat; rv flat (RV-LAG: not readable as demand stop)"
   },
   "feratia:adora-circle-crossbody": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-24",
+   "last_seen_oos": "2026-07-25",
    "note": "part of crossbody OOS wave; day 6 (wave count)"
   },
   "feratia:alaris-circle-crossbody": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-24",
-   "note": "still sold-out on /all 24/07; likely the 14th item of crossbody collection (count 14 vs 13 named)"
+   "last_seen_oos": "2026-07-25",
+   "note": "still sold-out on /all and collection 25/07"
   },
   "feratia:circle-crossbody-collection": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-24",
-   "note": "10/14 OOS day 6; list unchanged; in stock Regina/Rosaria/Gratia"
+   "last_seen_oos": "2026-07-25",
+   "note": "11/14 OOS day 7 (10 named + Alaris); in stock Regina/Rosaria/Gratia"
   },
   "beaheart:our-lady-belt-bag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-24",
-   "note": "OOS day 7 both sites; 'Delivers by Jul 27-30' did NOT roll today - widget behavior mixed, still NOT a restock ETA"
+   "last_seen_oos": "2026-07-25",
+   "note": "OOS day 8 both sites; 'Delivers by Jul 27-30' static 2nd day = static widget confirmed"
   },
   "blessac:tote-oos-wave": {
    "oos_since": "2026-07-22",
-   "last_seen_oos": "2026-07-24",
-   "note": "day 3 unchanged: Tote Presence/Waymaker/Lighthouse; Mini Satchel Redeem/Blessed/Pure/Courage; crossbody 9 named all in stock"
+   "last_seen_oos": "2026-07-25",
+   "note": "day 4 unchanged: Tote Presence/Waymaker/Lighthouse; Mini Satchel Redeem/Blessed/Pure/Courage; HB Poise/Redeem/Joyful/Pure; crossbody 9/9 in stock"
   },
   "catholight:sacred-heart-of-grace-leather-bag": {
    "oos_since": "2026-07-22",
    "last_seen_oos": "2026-07-22",
-   "note": "MTO flagship sold out 22/07; NOT re-checked 23-24/07 (not in daily core) - recheck when in rotation"
-  },
-  "feratia:gratia-leather-handbag": {
-   "oos_since": "2026-07-23",
-   "last_seen_oos": "2026-07-24",
-   "note": "RE-OOS day 2; rv +4/1d WHILE OOS (first cluster movement in 5d); prior OOS 19-21/07"
+   "note": "MTO flagship sold out 22/07; 25/07 NOT found on /all sample (29 pages, inconclusive); recheck in rotation"
   }
  },
  "badge_watch": {
@@ -47,7 +42,7 @@
    "badge": "low-stock",
    "since": "2026-07-18",
    "rv_at_start": 75,
-   "note": "DAY 7 (since 18/07); rv 76 = +1 total (22/07 only), +0/2d; Rule 9 checkpoint 25/07 - if unchanged, downgrade badge to decoration/OBSERVATION (caveat: +1 rv means strict 'rv +0' not met)"
+   "note": "RULE 9 FIRED 25/07: badge day 8, rv 76 = +1/8d (within +<=1/7d tolerance) -> badge = DECORATION, excluded from demand evidence; keep entry for reversal check only"
   }
  },
  "ideas": {
@@ -56,28 +51,28 @@
    "tier": "yellow",
    "last_promoted": "2026-07-19",
    "score": null,
-   "note": "yellow awaiting user spec; corridor supply-starved day 6-7 (Feratia 10/14 d6, BeAHeart d7); spec from real reviews on file 23/07"
+   "note": "yellow awaiting user spec; corridor supply-starved day 7-8 (Feratia 11/14 d7, BeAHeart d8); WCC badge downgraded to decoration 25/07 (Rule 9) - corridor case now rests on real OOS only"
   },
   "assumption-art-lock": {
    "proposed": "2026-07-20",
    "tier": "yellow",
    "last_promoted": "2026-07-22",
    "score": null,
-   "note": "FINAL CALL 24/07: order cutoff ~25-28/07 = 1-4 days left; no action in 24-48h -> kill and pivot Queenship 22/08 + October Rosary"
+   "note": "LAST CALL 25/07 (window 25-28/07); no action today -> KILL tomorrow and pivot Queenship 22/08 + October Rosary; push sent 25/07"
   },
   "in-stock-collection-shopify": {
    "proposed": "2026-07-20",
    "tier": "yellow",
    "last_promoted": "2026-07-22",
    "score": null,
-   "note": "AUTO-DEMOTED 23/07 per Rule 6; evidence STRONGER same day (Gratia re-OOS 24h flip-flop #2) - re-promote instantly on any action"
+   "note": "evidence stronger again 25/07: Gratia restock = flip-flop #3; re-promote instantly on any action"
   },
   "bible-cover-price-corridor": {
    "proposed": "2026-07-21",
-   "tier": "yellow",
-   "last_promoted": "2026-07-23",
+   "tier": "green",
+   "last_promoted": "2026-07-25",
    "score": 8.0,
-   "note": "AUTO-DEMOTED 24/07 per Rule 6 (green day 3 ended 23/07, no action); score 8.0 kept on file; evidence still strengthening (Manna 'Bible Purse' positioning, Christianbook mass-tier slot churned); rescue = COGS floor + 1 art test -> re-promote instantly"
+   "note": "RE-PROMOTED 25/07 (2nd green run, day 1/3): NEW commercial signal - TikTok Shop 'bible bag' shoppable cluster (trend biblestudybag->commercial) + Manna positioning + Christianbook churn; score 8.0 on file (weakest: production reliability, saturation-inverse); rescue = COGS floor + 1 art test"
   },
   "bundle-bag-wallet": {
    "proposed": "2026-07-18",
@@ -124,28 +119,28 @@
    "first_seen": "2026-07-24",
    "source": "websearch+press",
    "status": "emerging",
-   "last_checked": "2026-07-24",
-   "note": "Gen-Z aesthetic; press Numero Netherlands (rosary micro-trend, D&G SS27 rosaries, Pinterest front page); NO commercial bag signal yet; persona bridge = gift daughter->mom/grandma; auto-dead 07/08 if no commercial signal"
+   "last_checked": "2026-07-25",
+   "note": "Gen-Z aesthetic; press adds Woke Waves 25/07 (lace veils, rosaries styled into outfits; no purchasing behavior); still NO commercial bag signal; persona bridge = gift daughter->mom/grandma; auto-dead 07/08 if no commercial signal"
   },
   "catholight-bag-tiktok-cluster": {
    "first_seen": "2026-07-24",
    "source": "websearch",
    "status": "emerging",
-   "last_checked": "2026-07-24",
-   "note": "TikTok discover page 'Catholight Bag' exists = competitor searched enough to form cluster (OBSERVATION; view counts unreadable - direct fetch blocked)"
+   "last_checked": "2026-07-25",
+   "note": "25/07: owned account @catholight_usdaily found posting regularly (#catholightbag #MassBag #CatholicTikTok; 'ordered vs got' format) + NEW discover cluster 'Catholight Bag Review'; competitor runs organic TikTok channel; view counts unreadable; still emerging (their media, not a demand trend for us)"
   },
   "biblestudybag-hashtag": {
    "first_seen": "2026-07-24",
    "source": "websearch",
-   "status": "emerging",
-   "last_checked": "2026-07-24",
-   "note": "#biblestudybag #biblebag #christiantiktok ecosystem; small canvas sellers active (dimpleddannidesigns); direct relevance to BC- line; watch for commercial signal"
+   "status": "commercial",
+   "last_checked": "2026-07-25",
+   "note": "PROMOTED 25/07: TikTok Shop shoppable 'bible bag' product cluster + discover 'Bible Tote Bag'/'Bible Study Tote Bundle' + >=3 active sellers (msfabcreations, kingfolkco, treasured.trinket - names for tracking only, NOT for ads); direct relevance BC- line; evidence = WebSearch surface (Rule 10)"
   },
   "genz-catholic-influencer-wave": {
    "first_seen": "2026-07-24",
    "source": "press",
    "status": "emerging",
-   "last_checked": "2026-07-24",
+   "last_checked": "2026-07-25",
    "note": "Walops: named creators ~100K-2.9M followers; '68% French converts credit YT/IG/TikTok' (3rd party, unverified); principle for organic content only - NO influencer names in ads"
   }
  },
@@ -153,22 +148,22 @@
   "blessac:faith-build-your-bundle": {
    "value": "364.80->164.13 (HB+wallet+mini wallet+tote, SUMMER26)",
    "first_seen": "2026-07-24",
-   "last_confirmed": "2026-07-24"
+   "last_confirmed": "2026-07-25"
   },
   "albuquerque:summer26-coupon": {
    "value": "SUMMER26 -50to60%",
    "first_seen": "2026-07-14",
-   "last_confirmed": "2026-07-24"
+   "last_confirmed": "2026-07-25"
   },
   "catholight:instock-ship-claim": {
    "value": "AZ, USA... 4-6 days | 24 SKU $89.95",
    "first_seen": "2026-07-20",
-   "last_confirmed": "2026-07-24"
+   "last_confirmed": "2026-07-25"
   },
   "afroyla:bogo-sitewide": {
    "value": "Buy 1 Get 1 Free sitewide",
    "first_seen": "2026-07-21",
-   "last_confirmed": "2026-07-24"
+   "last_confirmed": "2026-07-25"
   }
  }
 }
