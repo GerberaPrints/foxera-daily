@@ -1,40 +1,45 @@
 {
- "updated": "2026-07-25",
+ "updated": "2026-07-26",
  "oos_watch": {
   "feratia:eucharist-leather-handbag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-25",
-   "note": "day 8; 8 rv_listing small-batch caveat; rv flat (RV-LAG: not readable as demand stop)"
+   "last_seen_oos": "2026-07-26",
+   "note": "day 9; rv 8 flat (RV-LAG: not readable as demand stop)"
   },
   "feratia:adora-circle-crossbody": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-25",
+   "last_seen_oos": "2026-07-26",
    "note": "part of crossbody OOS wave; day 6 (wave count)"
   },
   "feratia:alaris-circle-crossbody": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-25",
+   "last_seen_oos": "2026-07-26",
    "note": "still sold-out on /all and collection 25/07"
   },
   "feratia:circle-crossbody-collection": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-25",
-   "note": "11/14 OOS day 7 (10 named + Alaris); in stock Regina/Rosaria/Gratia"
-  },
-  "beaheart:our-lady-belt-bag": {
-   "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-25",
-   "note": "OOS day 8 both sites; 'Delivers by Jul 27-30' static 2nd day = static widget confirmed"
+   "last_seen_oos": "2026-07-26",
+   "note": "11/14 OOS day 8 (10 named + Alaris); in stock Regina/Rosaria/Gratia"
   },
   "blessac:tote-oos-wave": {
    "oos_since": "2026-07-22",
-   "last_seen_oos": "2026-07-25",
-   "note": "day 4 unchanged: Tote Presence/Waymaker/Lighthouse; Mini Satchel Redeem/Blessed/Pure/Courage; HB Poise/Redeem/Joyful/Pure; crossbody 9/9 in stock"
+   "last_seen_oos": "2026-07-26",
+   "note": "day 5 unchanged: Tote Presence/Waymaker/Lighthouse; Mini Satchel Redeem/Blessed/Pure/Courage; HB Poise/Redeem/Joyful/Pure; crossbody 9/9 in stock"
   },
   "catholight:sacred-heart-of-grace-leather-bag": {
    "oos_since": "2026-07-22",
    "last_seen_oos": "2026-07-22",
    "note": "MTO flagship sold out 22/07; 25/07 NOT found on /all sample (29 pages, inconclusive); recheck in rotation"
+  },
+  "feratia:gratia-leather-handbag": {
+   "oos_since": "2026-07-26",
+   "last_seen_oos": "2026-07-26",
+   "note": "flip-flop #4 (19-21 OOS, 22 restock, 23-24 OOS, 25 restock, 26 OOS); rv +6/1d while OOS"
+  },
+  "beaheart-own:our-lady-belt-bag": {
+   "oos_since": "2026-07-18",
+   "last_seen_oos": "2026-07-26",
+   "note": "own-site beaheart.com OOS day 9; TCC side RESTOCKED 26/07 after 8 days (thin: 'Less than 10 remaining') -> restock message posted in B7"
   }
  },
  "badge_watch": {
@@ -42,7 +47,13 @@
    "badge": "low-stock",
    "since": "2026-07-18",
    "rv_at_start": 75,
-   "note": "RULE 9 FIRED 25/07: badge day 8, rv 76 = +1/8d (within +<=1/7d tolerance) -> badge = DECORATION, excluded from demand evidence; keep entry for reversal check only"
+   "note": "decoration since Rule 9 fired 25/07; day 9, rv 76 (+1/9d); watching only for reversal"
+  },
+  "beaheart-tcc:our-lady-belt-bag": {
+   "badge": "Less than 10 remaining",
+   "since": "2026-07-26",
+   "rv_at_start": null,
+   "note": "appeared at 26/07 restock; thin-restock context, not static yet; Rule 9 checkpoint 02/08"
   }
  },
  "ideas": {
@@ -51,35 +62,35 @@
    "tier": "yellow",
    "last_promoted": "2026-07-19",
    "score": null,
-   "note": "yellow awaiting user spec; corridor supply-starved day 7-8 (Feratia 11/14 d7, BeAHeart d8); WCC badge downgraded to decoration 25/07 (Rule 9) - corridor case now rests on real OOS only"
+   "note": "corridor supply-starved day 8-9 (Feratia 11/14 d8; BeAHeart own-site OOS d9, TCC restock thin <10 units); WCC badge stays decoration; awaiting user spec (review-based spec on file 23/07)"
   },
   "assumption-art-lock": {
    "proposed": "2026-07-20",
-   "tier": "yellow",
+   "tier": "red",
    "last_promoted": "2026-07-22",
    "score": null,
-   "note": "LAST CALL 25/07 (window 25-28/07); no action today -> KILL tomorrow and pivot Queenship 22/08 + October Rosary; push sent 25/07"
+   "note": "KILLED 26/07: last call 25/07 passed with no action; production+ship math no longer reaches 15/08; pivot = Queenship 22/08 (order window closes ~31/07) + October Rosary (art before 30/09)"
   },
   "in-stock-collection-shopify": {
    "proposed": "2026-07-20",
    "tier": "yellow",
    "last_promoted": "2026-07-22",
    "score": null,
-   "note": "evidence stronger again 25/07: Gratia restock = flip-flop #3; re-promote instantly on any action"
+   "note": "evidence stronger 26/07: Gratia RE-OOS = flip-flop #4; re-promote instantly on any action"
   },
   "bible-cover-price-corridor": {
    "proposed": "2026-07-21",
    "tier": "green",
    "last_promoted": "2026-07-25",
    "score": 8.0,
-   "note": "RE-PROMOTED 25/07 (2nd green run, day 1/3): NEW commercial signal - TikTok Shop 'bible bag' shoppable cluster (trend biblestudybag->commercial) + Manna positioning + Christianbook churn; score 8.0 on file (weakest: production reliability, saturation-inverse); rescue = COGS floor + 1 art test"
+   "note": "GREEN day 2/3 (auto-demote after 27/07 if no action). NEW evidence 26/07: Catholight MTO Bible Cover 24 SKU $49.95-59 FACT (first record) + their MTO 17-22d neutralizes our ship gap + JesusSpirit nav 'trending' + FLOE quilted & Montana West on TikTok Shop; rescue action = lock COGS floor (single number)"
   },
   "bundle-bag-wallet": {
    "proposed": "2026-07-18",
    "tier": "yellow",
    "last_promoted": null,
    "score": null,
-   "note": "signal #2 on 24/07: Blessac PDP 'Build Your Bundle' 364.80->164.13 observed (first record, may pre-exist); still yellow - competitor behavior, not measured demand"
+   "note": "signal #3 on 26/07: Amazon formula operator SET ASIN B0GJFM5J58 (Bag & Wallet Set) — 3 independent signals now (Blessac bundle, Catholight Faith Set, Amazon set); still yellow (competitor behavior, not measured demand); promote-candidate when action slot free (score on promotion)"
   },
   "eucharist-panis-angelicus-sku": {
    "proposed": "2026-07-18",
@@ -93,7 +104,7 @@
    "tier": "yellow",
    "last_promoted": null,
    "score": null,
-   "note": "BeAHeart OOS day 5 both sites; network >=8 retailers still hungry; test = 1 line-sheet email"
+   "note": "BeAHeart TCC restock after 8d is THIN (<10 units) -> network of >=8 retailers still supply-constrained; test = 1 line-sheet email"
   }
  },
  "blocked_sources": {
@@ -133,8 +144,8 @@
    "first_seen": "2026-07-24",
    "source": "websearch",
    "status": "commercial",
-   "last_checked": "2026-07-25",
-   "note": "PROMOTED 25/07: TikTok Shop shoppable 'bible bag' product cluster + discover 'Bible Tote Bag'/'Bible Study Tote Bundle' + >=3 active sellers (msfabcreations, kingfolkco, treasured.trinket - names for tracking only, NOT for ads); direct relevance BC- line; evidence = WebSearch surface (Rule 10)"
+   "last_checked": "2026-07-26",
+   "note": "COMMERCIAL (since 25/07); 26/07 evidence thickened: TikTok Shop PDP FLOE puffer/quilted bible bag + Montana West leather bible cover #giftsforher; >=3 small sellers active; quilted format intersects BC- AND Quilted Tote; evidence = WebSearch surface (Rule 10)"
   },
   "genz-catholic-influencer-wave": {
    "first_seen": "2026-07-24",
@@ -148,22 +159,32 @@
   "blessac:faith-build-your-bundle": {
    "value": "364.80->164.13 (HB+wallet+mini wallet+tote, SUMMER26)",
    "first_seen": "2026-07-24",
-   "last_confirmed": "2026-07-25"
+   "last_confirmed": "2026-07-26"
   },
   "albuquerque:summer26-coupon": {
    "value": "SUMMER26 -50to60%",
    "first_seen": "2026-07-14",
-   "last_confirmed": "2026-07-25"
+   "last_confirmed": "2026-07-26"
   },
   "catholight:instock-ship-claim": {
    "value": "AZ, USA... 4-6 days | 24 SKU $89.95",
    "first_seen": "2026-07-20",
-   "last_confirmed": "2026-07-25"
+   "last_confirmed": "2026-07-26"
   },
   "afroyla:bogo-sitewide": {
    "value": "Buy 1 Get 1 Free sitewide",
    "first_seen": "2026-07-21",
-   "last_confirmed": "2026-07-25"
+   "last_confirmed": "2026-07-26"
+  },
+  "catholight:mto-bible-cover-line": {
+   "value": "24 SKU $49.95-59.00; MTO 10-15d making + up to 7d delivery",
+   "first_seen": "2026-07-26",
+   "last_confirmed": "2026-07-26"
+  },
+  "beaheart-tcc:pray4usa-free-rosary": {
+   "value": "code PRAY4USA free rosary (qualifying orders)",
+   "first_seen": "2026-07-26",
+   "last_confirmed": "2026-07-26"
   }
  }
 }
