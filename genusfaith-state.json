@@ -1,30 +1,30 @@
 {
- "updated": "2026-07-26",
+ "updated": "2026-07-27",
  "oos_watch": {
   "feratia:eucharist-leather-handbag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-26",
-   "note": "day 9; rv 8 flat (RV-LAG: not readable as demand stop)"
+   "last_seen_oos": "2026-07-27",
+   "note": "day 10; rv 8 flat (RV-LAG: not readable as demand stop)"
   },
   "feratia:adora-circle-crossbody": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-26",
+   "last_seen_oos": "2026-07-27",
    "note": "part of crossbody OOS wave; day 6 (wave count)"
   },
   "feratia:alaris-circle-crossbody": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-26",
-   "note": "still sold-out on /all and collection 25/07"
+   "last_seen_oos": "2026-07-27",
+   "note": "27/07 conflict: collection counts 4 available (names only 3), /all still Sold Out -> keep OOS, recheck 28/07"
   },
   "feratia:circle-crossbody-collection": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-26",
-   "note": "11/14 OOS day 8 (10 named + Alaris); in stock Regina/Rosaria/Gratia"
+   "last_seen_oos": "2026-07-27",
+   "note": "10/14 OOS day 9 per collection page (was 11/14); in stock Regina/Rosaria/Gratia (+1 counted, unnamed — conflict w/ /all Alaris)"
   },
   "blessac:tote-oos-wave": {
    "oos_since": "2026-07-22",
-   "last_seen_oos": "2026-07-26",
-   "note": "day 5 unchanged: Tote Presence/Waymaker/Lighthouse; Mini Satchel Redeem/Blessed/Pure/Courage; HB Poise/Redeem/Joyful/Pure; crossbody 9/9 in stock"
+   "last_seen_oos": "2026-07-27",
+   "note": "day 6, GREW +1: Presence Mini Satchel added -> 12 SKU (4 HB + 3 Tote + 5 Mini Satchel); crossbody 9/9 in stock"
   },
   "catholight:sacred-heart-of-grace-leather-bag": {
    "oos_since": "2026-07-22",
@@ -33,13 +33,23 @@
   },
   "feratia:gratia-leather-handbag": {
    "oos_since": "2026-07-26",
-   "last_seen_oos": "2026-07-26",
-   "note": "flip-flop #4 (19-21 OOS, 22 restock, 23-24 OOS, 25 restock, 26 OOS); rv +6/1d while OOS"
+   "last_seen_oos": "2026-07-27",
+   "note": "flip-flop #4 day 2; rv +2/1d while OOS (3rd rv rise during OOS in 5d)"
   },
   "beaheart-own:our-lady-belt-bag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-26",
-   "note": "own-site beaheart.com OOS day 9; TCC side RESTOCKED 26/07 after 8 days (thin: 'Less than 10 remaining') -> restock message posted in B7"
+   "last_seen_oos": "2026-07-27",
+   "note": "own-site OOS day 10; TCC thin restock held day 2 (<10 remaining)"
+  },
+  "blessac:faith-leather-handbag": {
+   "oos_since": "2026-07-27",
+   "last_seen_oos": "2026-07-27",
+   "note": "flip-flop #4 (OOS 20, restock 21, OOS 22-23, restock 24-26, OOS 27); rv 783 flat at re-OOS"
+  },
+  "mannacovers:last-supper-bible-cover-small": {
+   "oos_since": "2026-07-27",
+   "last_seen_oos": "2026-07-27",
+   "note": "first read of full catalog — sold out at $80 tier (may pre-date today); benchmark sell-through evidence"
   }
  },
  "badge_watch": {
@@ -47,13 +57,13 @@
    "badge": "low-stock",
    "since": "2026-07-18",
    "rv_at_start": 75,
-   "note": "decoration since Rule 9 fired 25/07; day 9, rv 76 (+1/9d); watching only for reversal"
+   "note": "decoration (Rule 9 fired 25/07); day 10, rv 76 (+1/10d); watching only for reversal"
   },
   "beaheart-tcc:our-lady-belt-bag": {
    "badge": "Less than 10 remaining",
    "since": "2026-07-26",
    "rv_at_start": null,
-   "note": "appeared at 26/07 restock; thin-restock context, not static yet; Rule 9 checkpoint 02/08"
+   "note": "'Less than 10 remaining' day 2 + 'Delivers by Jul 30 - Aug 2' verbatim-static day 2; Rule 9 checkpoint 02/08"
   }
  },
  "ideas": {
@@ -62,7 +72,7 @@
    "tier": "yellow",
    "last_promoted": "2026-07-19",
    "score": null,
-   "note": "corridor supply-starved day 8-9 (Feratia 11/14 d8; BeAHeart own-site OOS d9, TCC restock thin <10 units); WCC badge stays decoration; awaiting user spec (review-based spec on file 23/07)"
+   "note": "corridor supply-starved day 9-10 (Feratia 10/14 d9; BeAHeart own OOS d10; TCC thin restock d2 <10 units); WCC badge decoration d10; awaiting user spec"
   },
   "assumption-art-lock": {
    "proposed": "2026-07-20",
@@ -76,21 +86,21 @@
    "tier": "yellow",
    "last_promoted": "2026-07-22",
    "score": null,
-   "note": "evidence stronger 26/07: Gratia RE-OOS = flip-flop #4; re-promote instantly on any action"
+   "note": "evidence stronger 27/07: BLESSAC Faith re-OOS = their flip-flop #4 — thin-batch model now proven on BOTH Albuquerque flagships; re-promote instantly on any action"
   },
   "bible-cover-price-corridor": {
    "proposed": "2026-07-21",
    "tier": "green",
    "last_promoted": "2026-07-25",
    "score": 8.0,
-   "note": "GREEN day 2/3 (auto-demote after 27/07 if no action). NEW evidence 26/07: Catholight MTO Bible Cover 24 SKU $49.95-59 FACT (first record) + their MTO 17-22d neutralizes our ship gap + JesusSpirit nav 'trending' + FLOE quilted & Montana West on TikTok Shop; rescue action = lock COGS floor (single number)"
+   "note": "GREEN day 3/3 — LAST DAY 27/07 (auto-demote 28/07 if no action). New 27/07: Manna full catalog FACT 80-95 + Last Supper Small SOLD OUT at $80 (premium sell-through); corridor all-FACT 4 rungs; rescue = lock COGS floor; PUSH sent 27/07"
   },
   "bundle-bag-wallet": {
    "proposed": "2026-07-18",
    "tier": "yellow",
    "last_promoted": null,
    "score": null,
-   "note": "signal #3 on 26/07: Amazon formula operator SET ASIN B0GJFM5J58 (Bag & Wallet Set) — 3 independent signals now (Blessac bundle, Catholight Faith Set, Amazon set); still yellow (competitor behavior, not measured demand); promote-candidate when action slot free (score on promotion)"
+   "note": "signal #4 on 27/07: B0G4QQXPD1 'Matching Wallet' in Amazon title (after Blessac bundle, Catholight Faith Set, B0GJFM5J58 Set); still yellow (competitor behavior, not measured demand)"
   },
   "eucharist-panis-angelicus-sku": {
    "proposed": "2026-07-18",
@@ -111,18 +121,12 @@
   "churchofsanctus.com": {
    "since": "2026-07-18",
    "retry": "weekly-mon",
-   "last_try": "2026-07-20"
+   "last_try": "2026-07-27"
   },
   "amazon-dp-pages": {
    "since": "2026-07-14",
    "retry": "weekly-mon",
-   "last_try": "2026-07-19"
-  },
-  "mannacovers.com-deep-pages": {
-   "since": "2026-07-24",
-   "retry": "weekly-mon",
-   "last_try": "2026-07-24",
-   "note": "homepage fetches OK; /collections, /products, /reviews return 403/404 (mixed WP/Shopify paths); Monday is its satellite day anyway"
+   "last_try": "2026-07-27"
   }
  },
  "trend_watch": {
@@ -144,8 +148,8 @@
    "first_seen": "2026-07-24",
    "source": "websearch",
    "status": "commercial",
-   "last_checked": "2026-07-26",
-   "note": "COMMERCIAL (since 25/07); 26/07 evidence thickened: TikTok Shop PDP FLOE puffer/quilted bible bag + Montana West leather bible cover #giftsforher; >=3 small sellers active; quilted format intersects BC- AND Quilted Tote; evidence = WebSearch surface (Rule 10)"
+   "last_checked": "2026-07-27",
+   "note": "COMMERCIAL; 27/07 sub-signals: TikTok Shop k-page 'bible tote bags' + discover 'Personalized Bible Tote w/ Cup Holder' (personalization + church-utility feature angle); quilted intersect BC-/Quilted Tote holds"
   },
   "genz-catholic-influencer-wave": {
    "first_seen": "2026-07-24",
@@ -159,22 +163,22 @@
   "blessac:faith-build-your-bundle": {
    "value": "364.80->164.13 (HB+wallet+mini wallet+tote, SUMMER26)",
    "first_seen": "2026-07-24",
-   "last_confirmed": "2026-07-26"
+   "last_confirmed": "2026-07-27"
   },
   "albuquerque:summer26-coupon": {
    "value": "SUMMER26 -50to60%",
    "first_seen": "2026-07-14",
-   "last_confirmed": "2026-07-26"
+   "last_confirmed": "2026-07-27"
   },
   "catholight:instock-ship-claim": {
    "value": "AZ, USA... 4-6 days | 24 SKU $89.95",
    "first_seen": "2026-07-20",
-   "last_confirmed": "2026-07-26"
+   "last_confirmed": "2026-07-27"
   },
   "afroyla:bogo-sitewide": {
    "value": "Buy 1 Get 1 Free sitewide",
    "first_seen": "2026-07-21",
-   "last_confirmed": "2026-07-26"
+   "last_confirmed": "2026-07-27"
   },
   "catholight:mto-bible-cover-line": {
    "value": "24 SKU $49.95-59.00; MTO 10-15d making + up to 7d delivery",
@@ -184,7 +188,12 @@
   "beaheart-tcc:pray4usa-free-rosary": {
    "value": "code PRAY4USA free rosary (qualifying orders)",
    "first_seen": "2026-07-26",
-   "last_confirmed": "2026-07-26"
+   "last_confirmed": "2026-07-27"
+  },
+  "afroyla:price-architecture": {
+   "value": "142.95->71.47 (-50%), was 249.95->124.97",
+   "first_seen": "2026-07-26",
+   "last_confirmed": "2026-07-27"
   }
  }
 }
