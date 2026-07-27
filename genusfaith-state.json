@@ -1,55 +1,50 @@
 {
- "updated": "2026-07-27",
+ "updated": "2026-07-28",
  "oos_watch": {
   "feratia:eucharist-leather-handbag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-27",
-   "note": "day 10; rv 8 flat (RV-LAG: not readable as demand stop)"
+   "last_seen_oos": "2026-07-28",
+   "note": "day 11; rv 8 flat (RV-LAG: not readable as demand stop)"
   },
   "feratia:adora-circle-crossbody": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-27",
+   "last_seen_oos": "2026-07-28",
    "note": "part of crossbody OOS wave; day 6 (wave count)"
   },
   "feratia:alaris-circle-crossbody": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-27",
-   "note": "27/07 conflict: collection counts 4 available (names only 3), /all still Sold Out -> keep OOS, recheck 28/07"
+   "last_seen_oos": "2026-07-28",
+   "note": "28/07: REMOVED from crossbody collection page (14->13) while /all still Sold Out — delist-watch; keep OOS"
   },
   "feratia:circle-crossbody-collection": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-27",
-   "note": "10/14 OOS day 9 per collection page (was 11/14); in stock Regina/Rosaria/Gratia (+1 counted, unnamed — conflict w/ /all Alaris)"
+   "last_seen_oos": "2026-07-28",
+   "note": "10/13 OOS day 10 (collection now 13 items, Alaris removed); in stock Regina/Rosaria/Gratia"
   },
   "blessac:tote-oos-wave": {
    "oos_since": "2026-07-22",
-   "last_seen_oos": "2026-07-27",
-   "note": "day 6, GREW +1: Presence Mini Satchel added -> 12 SKU (4 HB + 3 Tote + 5 Mini Satchel); crossbody 9/9 in stock"
+   "last_seen_oos": "2026-07-28",
+   "note": "day 7, unchanged 12 SKU (4 HB + 3 Tote + 5 Mini Satchel); crossbody 9/9 in stock"
   },
   "catholight:sacred-heart-of-grace-leather-bag": {
    "oos_since": "2026-07-22",
    "last_seen_oos": "2026-07-22",
-   "note": "MTO flagship sold out 22/07; 25/07 NOT found on /all sample (29 pages, inconclusive); recheck in rotation"
-  },
-  "feratia:gratia-leather-handbag": {
-   "oos_since": "2026-07-26",
-   "last_seen_oos": "2026-07-27",
-   "note": "flip-flop #4 day 2; rv +2/1d while OOS (3rd rv rise during OOS in 5d)"
+   "note": "MTO flagship sold out 22/07; 28/07 not on /all first page (inconclusive); recheck in rotation"
   },
   "beaheart-own:our-lady-belt-bag": {
    "oos_since": "2026-07-18",
    "last_seen_oos": "2026-07-27",
-   "note": "own-site OOS day 10; TCC thin restock held day 2 (<10 remaining)"
-  },
-  "blessac:faith-leather-handbag": {
-   "oos_since": "2026-07-27",
-   "last_seen_oos": "2026-07-27",
-   "note": "flip-flop #4 (OOS 20, restock 21, OOS 22-23, restock 24-26, OOS 27); rv 783 flat at re-OOS"
+   "note": "own-site fetch fail x2 on 28/07; OOS day 11 per last read 27/07"
   },
   "mannacovers:last-supper-bible-cover-small": {
    "oos_since": "2026-07-27",
    "last_seen_oos": "2026-07-27",
    "note": "first read of full catalog — sold out at $80 tier (may pre-date today); benchmark sell-through evidence"
+  },
+  "catholight:roses-of-guadalupe-leather-bag": {
+   "oos_since": "2026-07-28",
+   "last_seen_oos": "2026-07-28",
+   "note": "first non-MTO Boulder SKU seen OOS (product page FACT; collection page conflict — recheck 29/07); Guadalupe = P2 persona; rv_listing 143"
   }
  },
  "badge_watch": {
@@ -57,13 +52,13 @@
    "badge": "low-stock",
    "since": "2026-07-18",
    "rv_at_start": 75,
-   "note": "decoration (Rule 9 fired 25/07); day 10, rv 76 (+1/10d); watching only for reversal"
+   "note": "decoration (Rule 9 fired 25/07); day 11, rv 76 (+1/11d); watching only for reversal"
   },
   "beaheart-tcc:our-lady-belt-bag": {
    "badge": "Less than 10 remaining",
    "since": "2026-07-26",
    "rv_at_start": null,
-   "note": "'Less than 10 remaining' day 2 + 'Delivers by Jul 30 - Aug 2' verbatim-static day 2; Rule 9 checkpoint 02/08"
+   "note": "'Less than 10 remaining' day 3 + 'Delivers by Jul 30 - Aug 2' verbatim-static day 3; Rule 9 checkpoint 02/08"
   }
  },
  "ideas": {
@@ -72,7 +67,7 @@
    "tier": "yellow",
    "last_promoted": "2026-07-19",
    "score": null,
-   "note": "corridor supply-starved day 9-10 (Feratia 10/14 d9; BeAHeart own OOS d10; TCC thin restock d2 <10 units); WCC badge decoration d10; awaiting user spec"
+   "note": "corridor supply-starved day 10-11 (Feratia 10/13 d10 + Alaris delisted from collection; BeAHeart own OOS d11*, TCC <10 d3); *own-site fetch fail 28/07; awaiting user spec"
   },
   "assumption-art-lock": {
    "proposed": "2026-07-20",
@@ -86,14 +81,14 @@
    "tier": "yellow",
    "last_promoted": "2026-07-22",
    "score": null,
-   "note": "evidence stronger 27/07: BLESSAC Faith re-OOS = their flip-flop #4 — thin-batch model now proven on BOTH Albuquerque flagships; re-promote instantly on any action"
+   "note": "28/07: Feratia Gratia restock after 2d closes flip-flop #4; BOTH Albuquerque flagships >=4 flip-flops in 10d — thin-batch behavior is FACT; re-promote instantly on any action"
   },
   "bible-cover-price-corridor": {
    "proposed": "2026-07-21",
-   "tier": "green",
+   "tier": "yellow",
    "last_promoted": "2026-07-25",
    "score": 8.0,
-   "note": "GREEN day 3/3 — LAST DAY 27/07 (auto-demote 28/07 if no action). New 27/07: Manna full catalog FACT 80-95 + Last Supper Small SOLD OUT at $80 (premium sell-through); corridor all-FACT 4 rungs; rescue = lock COGS floor; PUSH sent 27/07"
+   "note": "AUTO-DEMOTED green->yellow 28/07 per Rule 6 (3 green days no action; push sent 27/07). Evidence still strengthening: Christianbook mass tier FACT 11.43-43.52 on 28/07 -> 4-rung corridor all-FACT. Rescue = lock COGS floor (1 number); score 8.0 retained"
   },
   "bundle-bag-wallet": {
    "proposed": "2026-07-18",
@@ -115,6 +110,13 @@
    "last_promoted": null,
    "score": null,
    "note": "BeAHeart TCC restock after 8d is THIN (<10 units) -> network of >=8 retailers still supply-constrained; test = 1 line-sheet email"
+  },
+  "guadalupana-flagship-sku": {
+   "proposed": "2026-07-28",
+   "tier": "yellow",
+   "last_promoted": null,
+   "score": null,
+   "note": "3 independent signals 28/07: Catholight Roses of Guadalupe SOLD OUT + 2 ES-language reviews verbatim + Venxara repeat buyer ('third purchase'); to green: need search-intent FACT or repeat sold-out; N2-FIX-01 agave ban applies"
   }
  },
  "blocked_sources": {
@@ -141,15 +143,15 @@
    "first_seen": "2026-07-24",
    "source": "websearch",
    "status": "emerging",
-   "last_checked": "2026-07-25",
-   "note": "25/07: owned account @catholight_usdaily found posting regularly (#catholightbag #MassBag #CatholicTikTok; 'ordered vs got' format) + NEW discover cluster 'Catholight Bag Review'; competitor runs organic TikTok channel; view counts unreadable; still emerging (their media, not a demand trend for us)"
+   "last_checked": "2026-07-28",
+   "note": "28/07: discover cluster still surfacing in query; no new info beyond 25/07 (@catholight_usdaily owned account); still emerging (their media, not a demand trend for us)"
   },
   "biblestudybag-hashtag": {
    "first_seen": "2026-07-24",
    "source": "websearch",
    "status": "commercial",
-   "last_checked": "2026-07-27",
-   "note": "COMMERCIAL; 27/07 sub-signals: TikTok Shop k-page 'bible tote bags' + discover 'Personalized Bible Tote w/ Cup Holder' (personalization + church-utility feature angle); quilted intersect BC-/Quilted Tote holds"
+   "last_checked": "2026-07-28",
+   "note": "COMMERCIAL; 28/07 no new sub-signal; known clusters resurface in daily query; Walmart canvas Christian totes (VIVACITE) = adjacent channel observation, no premium leather Catholic there"
   },
   "genz-catholic-influencer-wave": {
    "first_seen": "2026-07-24",
@@ -168,12 +170,12 @@
   "albuquerque:summer26-coupon": {
    "value": "SUMMER26 -50to60%",
    "first_seen": "2026-07-14",
-   "last_confirmed": "2026-07-27"
+   "last_confirmed": "2026-07-28"
   },
   "catholight:instock-ship-claim": {
    "value": "AZ, USA... 4-6 days | 24 SKU $89.95",
    "first_seen": "2026-07-20",
-   "last_confirmed": "2026-07-27"
+   "last_confirmed": "2026-07-28"
   },
   "afroyla:bogo-sitewide": {
    "value": "Buy 1 Get 1 Free sitewide",
@@ -188,7 +190,7 @@
   "beaheart-tcc:pray4usa-free-rosary": {
    "value": "code PRAY4USA free rosary (qualifying orders)",
    "first_seen": "2026-07-26",
-   "last_confirmed": "2026-07-27"
+   "last_confirmed": "2026-07-28"
   },
   "afroyla:price-architecture": {
    "value": "142.95->71.47 (-50%), was 249.95->124.97",
