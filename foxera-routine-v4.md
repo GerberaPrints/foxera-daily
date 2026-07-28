@@ -8,7 +8,8 @@
 > 2. **Luật 18** — mọi tín hiệu trend PHẢI gắn nhãn độ sớm 🌱EARLY / 📈RISING / 🔥PEAK / 🪦CLOSED; **CẤM dùng listicle aggregator làm nguồn PHÁT HIỆN trend**.
 > 3. **Khối B10 — Trend-to-Design Arbitrage** ⇒ JSON `blocks` từ nay GIỮ ĐỦ **"B1".."B10"** (trigger prompt ghi B1..B9 là CŨ, **v5 thắng — đừng làm rớt B10**).
 >
-> Bot ĐỌC file này mỗi sáng và LÀM THEO. v4 GIỮ toàn bộ kỷ luật v3 (luật 1–11) và THÊM luật 12–16 + nguồn dữ liệu mới + Khối B9. Khi mâu thuẫn, v4 thắng.
+> Bot ĐỌC file này mỗi sáng và LÀM THEO. v4 GIỮ toàn bộ kỷ luật v3 (luật 1–11) và THÊM luật 12–16 + nguồn dữ liệu mới + Khối B9. Khi mâu thuẫn, v4 thắng — TRỪ khi v5 (mục trên) nói khác.
+> **Ghi chú 28/07/2026 (2 phiên chạm cùng lúc):** một phiên trước đã đề xuất vá B10 trực tiếp vào file này; phiên sau (chính chủ namespace FoxEra) đã tách đúng thành `foxera-routine-v5.md` theo quy ước SYSTEM.md §10 (mỗi bài học mới → file vN+1 riêng, không sửa đè). Bản vá trực tiếp trong file này đã được RÚT LẠI để tránh 2 định nghĩa "Luật 17" khác nhau tồn tại song song — xem `foxera-routine-v5.md` để có phiên bản CHUẨN, DUY NHẤT.
 > Lý do ra đời v4 (bằng chứng từ chính lịch sử chạy 14→24/07): WebFetch Etsy/Amazon bị PROVENANCE_REQUIRED **5 ngày liên tiếp (20→24/07)**; anchor `back_to_school_teacher` đóng băng 2200/1300/1200 suốt **9 ngày**; note phình 421→887 ký tự trong khi anchor mới = 0. Kết luận: fetch chi tiết là **điểm mù cấu trúc của môi trường cloud**, không phải sự cố tạm. v4 ngừng "chờ fetch", chuyển sang nguồn số THẬT khác.
 
 ---
@@ -52,6 +53,8 @@ Mỗi luận điểm meta ("thêu là format cross-niche", "năm-số lặp"…)
 - `v-discover`: trang TikTok/hashtag/discover, "trend page" → ĐỊNH HƯỚNG, không phải số xác minh.
 - `v-meta`: Meta interest `audience_size` → SỐ THẬT; ghi interest_id + rõ "global" hay "US" (US = dùng estimate_audience_size + geo). KHÔNG bịa view/like/share.
 
+*(Luật 17 và 18 đã chuyển sang `foxera-routine-v5.md` — xem file đó để tránh trùng số luật. Tóm tắt: Luật 17 = mỗi khối B1..B10 kết bằng khối "📌 CẦN CHÚ Ý" 3 gạch; Luật 18 = mọi tín hiệu trend gắn nhãn độ sớm 🌱/📈/🔥/🪦.)*
+
 ## C) NGUỒN DỮ LIỆU v4 (deep + wide)
 **A. WebSearch** (freshness engine, headless US) — luôn chạy; dùng luật 15 (demand-evidence).
 **B. Meta Ads MCP** (mcp__Facebook_Ads__*) — NGUỒN SỐ THẬT chính thay cho fetch chết:
@@ -75,11 +78,11 @@ Vì WebFetch cloud chặn vĩnh viễn, số listing rv/shop sales thật cần 
 > "Mở 8–10 URL Etsy trong /tmp/fxrepo/foxera-daily.json khối Watch-list + B8 candidate. Với mỗi listing: đọc (listing rv) tab 'Reviews for this item', (shop rv), (shop sales), giá, ngày. Ghi đè anchors trong foxera-metrics.jsonl dòng CN với reverified_live=true. Commit+push. Locale US/USD."
 Kết quả: mỗi tuần reset anchor_age về 0, health status = ok.
 
-## F) SELF-CHECK + PUSH (giữ v3 + thêm health)
-Trước push: đủ B1..B9, mỗi khối ≥1 "🔗 Nguồn:", JSON có "health", json.load OK, mỗi tin <3900 ký tự (giữ thẻ <a href>, escape &<> nội dung thường). Push: chỉ `git push`, kiểm ls-remote HEAD==local. Lỗi auth → PushNotification token. Kích hoạt cảnh báo health theo luật 13.
+## F) SELF-CHECK + PUSH (giữ v3 + thêm health; B10 + Luật 17/18 xem v5)
+Trước push: đủ B1..B9 (B10 thêm từ v5), mỗi khối ≥1 "🔗 Nguồn:", JSON có "health", json.load OK, mỗi tin <3900 ký tự (giữ thẻ <a href>, escape &<> nội dung thường). Push: chỉ `git push`, kiểm ls-remote HEAD==local. Lỗi auth → PushNotification token. Kích hoạt cảnh báo health theo luật 13.
 
-## G) VĂN PHONG (giữ v3)
-Mỗi niche 1 dòng VIBE+emoji; mỗi khối kết "👉 Chốt:"; mỗi khối "🔗 Nguồn:"; KHÔNG bịa %; luôn nhãn review; TM-safe.
+## G) VĂN PHONG (giữ v3; Luật 17/18 xem v5)
+Mỗi niche 1 dòng VIBE+emoji; mỗi khối kết "👉 Chốt:"; mỗi khối "🔗 Nguồn:"; KHÔNG bịa %; luôn nhãn review; TM-safe. Từ v5: sau "👉 Chốt:" còn có khối "📌 CẦN CHÚ Ý" bắt buộc (Luật 17 v5).
 
 ## H) CHI TIẾT TỪNG KHỐI (đầy đủ — nguồn chân lý, bootstrap trigger tham chiếu file này)
 - **B1 Keyword & Sản phẩm + Mùa vụ:** velocity anchor so ngày trước (▲/▬/🆕/baseline); tín hiệu tươi hôm nay (tầng ghi rõ); lịch mùa (BTS→Halloween→Thanksgiving→Q4→1776 nền cả năm); "Top việc hôm nay" 4–5 gạch. ≥1 🔗 Nguồn (eRank/Seller Handbook + market slug).
