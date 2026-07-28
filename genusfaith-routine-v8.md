@@ -1,3 +1,16 @@
+> # 🔴🔴 CHẶN ĐẦU — ĐỌC `SYSTEM-v2.md` TRƯỚC KHI LÀM BẤT CỨ GÌ 🔴🔴
+> **BẮT BUỘC ngay sau khi clone repo: `cat SYSTEM-v2.md` và TUÂN THEO.** Ưu tiên khi mâu thuẫn: **SYSTEM-v2 > routine riêng của bot này > trigger prompt**.
+> SYSTEM-v2 (28/07/2026) là bài học PHỔ QUÁT rút từ audit 14 ngày bot Job; quét chéo metrics của cả 4 bot cùng ngày xác nhận các lỗ hổng này **không của riêng bot nào**. 11 luật S1–S11, nhớ tối thiểu 6 cái:
+> - **S1** CẤM kết luận velocity từ review **thang k** (làm tròn hiển thị + chỉ 1–5% người mua để lại review + trễ 2–4 tuần). Chỉ đo velocity cho đơn vị **<500 review**; ≥1k → nhịp **TUẦN** + ghi *"dưới ngưỡng phân giải"*. CẤM viết "đứng / nguội / khai tử / bão hoà" từ vài ngày đứng yên.
+> - **S2** **% giảm giá = kịch giá neo ảo phổ cập**, KHÔNG phải chiến tranh giá. Chỉ ghi **GIÁ CUỐI**; cấm "price war / sập giá" trừ khi có ≥2 điểm đo giá cuối của **cùng một** đơn vị.
+> - **S3** Nhãn kỹ thuật/chất liệu trong title **nói dối ở cả hai đầu giá** (rẻ: in nhồi keyword; đắt: giá cao hoá ra không phải kỹ thuật đó). Chưa verify → gắn dấu `?`, không dùng để kết luận band.
+> - **S4** ⭐ **TIÊU CHÍ CHỌN NGÁCH = đơn vị KHÔNG chạy Ad mà vẫn giữ GIÁ CAO** (= personalization sâu / thẩm mỹ đẹp). Phụ thuộc Ad ≈ commodity. Mạnh hơn review count. *(Quét 28/07: cả 4 bot gần như chưa dùng tiêu chí này.)*
+> - **S6** 🔴 **KHÔNG CÓ DÒNG BIÊN LỢI NHUẬN THÌ KHÔNG ĐƯỢC ĐỀ XUẤT.** 0/4 bot từng viết một dòng nào về giá vốn. Chưa có COGS thật → chỉ được ghi **"thăm dò"**, KHÔNG được ghi "scale", và phải nhắc user gửi số.
+> - **S7** **Khung mua là biến giá độc lập**: slug/khung *"quà tặng"* cho mặt bằng giá cao hơn hẳn slug *"sản phẩm"* (bằng chứng Job: $62.90 vs $26.90 cùng tệp). Mỗi đối tượng phải có **cả hai khung** trong ledger.
+> Còn lại: **S5** (tỉ lệ Ad badge page 1 ≠ dữ liệu thị trường — đó là trang sàn trả cho *bot lạnh*) · **S8** (ghi "giả thuyết bị bác bỏ" vào field `rejected`, không hồi sinh) · **S9** (mỗi tuần 1 ngày quét rộng ≥12 đơn vị theo 4 trục, đầu ra là **bảng xếp hạng**) · **S10** (ngày 0 nguồn live → báo cáo **NGẮN**, cấm nống chữ) · **S11** (đừng thử lại mỗi ngày 2 việc cloud KHÔNG làm được: đọc ngày tháng review vì sàn render JS, và lấy tên shop ở list view — đó là việc của scheduled task LOCAL).
+>
+> *(Khối này do phiên bot Job thêm 28/07/2026 theo SYSTEM v1 §5.10 "bài học là tài sản chung". Nội dung gốc của file giữ NGUYÊN, không sửa dòng nào.)*
+
 <!-- ═══════════════════════════════════════════════════════════════
      BẢN v8.1 — 28/07/2026 — TREND→DESIGN ARBITRAGE + SOURCE TIER + META PROBE
      BÀI HỌC NHẬP TỪ FOXERA (28/07): bot cũ săn "trend đang nóng" rồi dừng ở
