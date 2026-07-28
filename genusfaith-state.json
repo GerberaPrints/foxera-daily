@@ -113,10 +113,10 @@
   },
   "guadalupana-flagship-sku": {
    "proposed": "2026-07-28",
-   "tier": "yellow",
-   "last_promoted": null,
-   "score": null,
-   "note": "3 independent signals 28/07: Catholight Roses of Guadalupe SOLD OUT + 2 ES-language reviews verbatim + Venxara repeat buyer ('third purchase'); to green: need search-intent FACT or repeat sold-out; N2-FIX-01 agave ban applies"
+   "tier": "green",
+   "last_promoted": "2026-07-28",
+   "score": 8.4,
+   "note": "PROMOTED to green 28/07 12:30+ delta: search-intent FACT via Google Suggest (tier A) 'virgen de guadalupe purse' #3 + 'lady of guadalupe purse' #4; plus Catholight Roses of Guadalupe SOLD OUT + 2 ES reviews + Venxara repeat buyer = 4 independent signals. Score 8.4; weakest: saturation-inverse 2/5, production reliability 6/10. Auto-demote 31/07. Smallest action = approve 1 Guadalupana art brief. N2-FIX-01 agave ban."
   }
  },
  "blocked_sources": {
@@ -136,29 +136,46 @@
    "first_seen": "2026-07-24",
    "source": "websearch+press",
    "status": "emerging",
-   "last_checked": "2026-07-25",
-   "note": "Gen-Z aesthetic; press adds Woke Waves 25/07 (lace veils, rosaries styled into outfits; no purchasing behavior); still NO commercial bag signal; persona bridge = gift daughter->mom/grandma; auto-dead 07/08 if no commercial signal"
+   "last_checked": "2026-07-28",
+   "note": "Gen-Z aesthetic; press adds Woke Waves 25/07 (lace veils, rosaries styled into outfits; no purchasing behavior); still NO commercial bag signal; persona bridge = gift daughter->mom/grandma; auto-dead 07/08 if no commercial signal",
+   "source_tier": "C",
+   "earliness": "mid"
   },
   "catholight-bag-tiktok-cluster": {
    "first_seen": "2026-07-24",
    "source": "websearch",
    "status": "emerging",
    "last_checked": "2026-07-28",
-   "note": "28/07: discover cluster still surfacing in query; no new info beyond 25/07 (@catholight_usdaily owned account); still emerging (their media, not a demand trend for us)"
+   "note": "28/07: discover cluster still surfacing in query; no new info beyond 25/07 (@catholight_usdaily owned account); still emerging (their media, not a demand trend for us)",
+   "source_tier": "B",
+   "earliness": "mid"
   },
   "biblestudybag-hashtag": {
    "first_seen": "2026-07-24",
    "source": "websearch",
    "status": "commercial",
    "last_checked": "2026-07-28",
-   "note": "COMMERCIAL; 28/07 no new sub-signal; known clusters resurface in daily query; Walmart canvas Christian totes (VIVACITE) = adjacent channel observation, no premium leather Catholic there"
+   "note": "COMMERCIAL; 28/07 no new sub-signal; known clusters resurface in daily query; Walmart canvas Christian totes (VIVACITE) = adjacent channel observation, no premium leather Catholic there",
+   "source_tier": "B",
+   "earliness": "mid"
   },
   "genz-catholic-influencer-wave": {
    "first_seen": "2026-07-24",
    "source": "press",
    "status": "emerging",
-   "last_checked": "2026-07-25",
-   "note": "Walops: named creators ~100K-2.9M followers; '68% French converts credit YT/IG/TikTok' (3rd party, unverified); principle for organic content only - NO influencer names in ads"
+   "last_checked": "2026-07-28",
+   "note": "Walops: named creators ~100K-2.9M followers; '68% French converts credit YT/IG/TikTok' (3rd party, unverified); principle for organic content only - NO influencer names in ads",
+   "source_tier": "C",
+   "earliness": "mid"
+  },
+  "catholic-bag-charm": {
+   "first_seen": "2026-07-28",
+   "source": "suggest",
+   "source_tier": "A",
+   "earliness": "early",
+   "status": "emerging",
+   "last_checked": "2026-07-28",
+   "note": "v8 day-1 find: suggest 'catholic bag' #2 'catholic bag charm' + suggest 'guadalupe purse' #5 '...purse charm' (2 independent); supply side Manna bag charms $11.99-14.99 (27/07). Passed all 4 gates -> design_arb brief CH-. No purchase-demand evidence yet."
   }
  },
  "offer_fingerprints": {
@@ -196,6 +213,67 @@
    "value": "142.95->71.47 (-50%), was 249.95->124.97",
    "first_seen": "2026-07-26",
    "last_confirmed": "2026-07-27"
+  }
+ },
+ "design_arb": {
+  "catholic-leather-bag-charm": {
+   "trend": "catholic-bag-charm",
+   "first_seen": "2026-07-28",
+   "gates": {
+    "art": true,
+    "devotion": true,
+    "accessory": true,
+    "ip": true
+   },
+   "tier": "charm",
+   "board": "tiktok-fb",
+   "status": "brief",
+   "note": "CH- Leather Bag Charm $16.95-22.95; attach-rate to LH-/LT- + standalone gift; video angle = charm swing + leather grain light-run; review 07/08 if no brief approved"
+  }
+ },
+ "suggest_baseline": {
+  "catholic bag": {
+   "top": [
+    "catholic bags",
+    "catholic bag charm",
+    "catholic bags for women",
+    "catholic bagpipe songs"
+   ],
+   "last_checked": "2026-07-28",
+   "note": "#2 charm = accessory niche with real intent"
+  },
+  "guadalupe purse": {
+   "top": [
+    "guadalupe purse",
+    "guadalupe county purse bingo",
+    "virgen de guadalupe purse",
+    "lady of guadalupe purse",
+    "virgen de guadalupe purse charm"
+   ],
+   "last_checked": "2026-07-28",
+   "note": "unlocked green for guadalupana idea; #2 is noise (bingo)"
+  },
+  "catholic gift for grandma": {
+   "top": [
+    "catholic gift for grandma",
+    "religious gift for grandma",
+    "catholic gift for grandparents"
+   ],
+   "last_checked": "2026-07-28",
+   "note": "'grandparents' cluster unexploited in radar"
+  },
+  "bible cover": {
+   "top": [
+    "bible covers",
+    "bible covers for men",
+    "bible cover for women",
+    "bible covers near me",
+    "bible cover pattern",
+    "bible cover sewing pattern",
+    "bible covers leather"
+   ],
+   "last_checked": "2026-07-28",
+   "note": "BC- intent confirmed for women+leather; caution: 2 DIY suggestions = part of demand self-makes"
   }
  }
 }
