@@ -24,12 +24,14 @@
     "id": "gritfell_swim",
     "url": "https://gritfell.com/collections/mens-swim-short",
     "type": "official_site",
-    "observed_at": "2026-07-20",
+    "observed_at": "2026-07-29",
     "evidence": "OBSERVED_CURRENT",
     "facts": [
+      "13 products",
+      "all $39",
+      "highest swim-short price $39",
       "B2G1",
-      "free shipping $75+",
-      "highest swim-short price $39"
+      "free shipping $75+"
     ]
   },
   {
@@ -146,7 +148,10 @@
       "regular $59",
       "selected sale $39.99",
       "free shipping $100+"
-    ]
+    ],
+    "status": "OK_WRONG_DOMAIN_CORRECTED",
+    "last_ok": "2026-07-28",
+    "note": "CANONICAL DOMAIN = marshwearclothing.com. marshwear.com is a WRONG URL (DNS/robots fail) and caused a false 'blocked' report on 27/07 and 28/07 — see routine v5.4 section A. Never fetch marshwear.com. Verify day = T3."
   },
   {
     "id": "duckcamp_shirt",
@@ -157,17 +162,24 @@
     "facts": [
       "$109",
       "cooling fabric positioning"
-    ]
+    ],
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-29",
+    "note": "STALE_CACHE cleared 29/07: on 25/07 this domain served 'Fall 23' cached content; on 29/07 it serves live 'New for Fall 26'. Verify day = T4."
   },
   {
     "id": "duckcamp_offer",
     "url": "https://duckcamp.com/pages/fishing-tops",
     "type": "official_site",
-    "observed_at": "2026-07-20",
+    "observed_at": "2026-07-29",
     "evidence": "OBSERVED_CURRENT",
     "facts": [
-      "15% first order $50+"
-    ]
+      "15% first order $50+",
+      "free shipping $119+",
+      "membership $12/yr = 10% store credit on every order + free shipping $50+"
+    ],
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-29"
   },
   {
     "id": "aftco_polos",
@@ -177,7 +189,9 @@
     "evidence": "OBSERVED_CURRENT",
     "facts": [
       "$59-$69"
-    ]
+    ],
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-29"
   },
   {
     "id": "aftco_product",
@@ -274,5 +288,100 @@
       "apparel flat",
       "casual driving sales"
     ]
+  },
+  {
+    "id": "gritfell_home",
+    "url": "https://gritfell.com/",
+    "type": "official_site",
+    "observed_at": "2026-07-29",
+    "evidence": "OBSERVED_CURRENT",
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-29",
+    "facts": [
+      "announcement bar 'SPRING GEAR. BUY 2 GET 1 FREE!'",
+      "free ground shipping $75+",
+      "hero 'Just Dropped - Men's Polos'",
+      "polos $50",
+      "button shirts $55",
+      "swim shorts $39",
+      "hats $34"
+    ],
+    "note": "Self-audit anchor (v5.4 section B). Fetched every run. Season mismatch flagged since 28/07."
+  },
+  {
+    "id": "duckcamp_hats",
+    "url": "https://duckcamp.com/collections/hats",
+    "type": "official_site",
+    "observed_at": "2026-07-29",
+    "evidence": "OBSERVED_CURRENT",
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-29",
+    "facts": [
+      "32 hats",
+      "Game Series species embroidery",
+      "$36 list, 14/32 at $25",
+      "Brrr tier $39-59",
+      "Crushable Flats $69",
+      "no dove SKU",
+      "no teal SKU"
+    ],
+    "note": "Direct competitor to GritFell's $34 embroidered-hat tier. Added 29/07."
+  },
+  {
+    "id": "aftco_home",
+    "url": "https://www.aftco.com/",
+    "type": "official_site",
+    "observed_at": "2026-07-29",
+    "evidence": "OBSERVED_CURRENT",
+    "status": "STALE_CACHE",
+    "last_ok": "2026-07-29",
+    "facts": [
+      "free shipping $99+",
+      "Pinnacle Shorts $79",
+      "Swiftwater Shorts $59",
+      "Tailwind LS Hooded $79",
+      "Samurai SS Hooded $39",
+      "Air-O Mesh $65",
+      "Adapt $79-85"
+    ],
+    "note": "Banner reads 'NEW ARRIVALS FOR SPRING' at end of July -> suspected cached homepage (v5.4 rule C2). Prices are usable observations; seasonal positioning is NOT. Re-verify on rotation day T4."
+  },
+  {
+    "id": "decoy_home",
+    "url": "https://decoyapparelco.com/",
+    "type": "official_site",
+    "observed_at": "2026-07-25",
+    "evidence": "OBSERVED_CURRENT",
+    "status": "BLOCKED",
+    "blocked_since": "2026-07-25",
+    "last_ok": "2026-07-24",
+    "note": "Fetch blocked. Per v5.4 rule C1, retry ONCE PER WEEK on its rotation day (T7) only. Do not fetch or raise a separate warning on other days."
+  },
+  {
+    "id": "hunthide_home",
+    "url": "https://hunthide.com/",
+    "type": "competitor_new_entrant",
+    "observed_at": "2026-07-29",
+    "evidence": "OBSERVED_CURRENT",
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-29",
+    "facts": [
+      "Hawaiian-style hunting shirts 'From $39.95'",
+      "Buy 2 Get 10% OFF / Buy 5 Get 20% OFF",
+      "free shipping $100+",
+      "categories: turkey, deer, duck",
+      "homepage carries NO dove messaging despite 9 active dove ads"
+    ],
+    "note": "New entrant found 29/07 via Meta Ad Library, NOT one of the 11 rotation brands. Running the dove-opener paid angle GritFell had assumed was unclaimed. POD/discount-ladder tier."
+  },
+  {
+    "id": "meta_ad_library_mcp",
+    "url": "https://www.facebook.com/ads/library/",
+    "type": "mcp_tool",
+    "observed_at": "2026-07-29",
+    "evidence": "Meta Ad Library (live)",
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-29",
+    "note": "mcp__MCP_Facebook_Ads__ads_library_search authorized and WORKING as of 29/07 (first successful run; previously unauthorized since 21/07). Matches on CREATIVE TEXT, not page name — brand lookups need a distinctive copy term, so a null result does NOT prove a brand is not advertising. Direct WebFetch of the Ad Library remains forbidden."
   }
 ]
