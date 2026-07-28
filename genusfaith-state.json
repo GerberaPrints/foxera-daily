@@ -274,6 +274,27 @@
    ],
    "last_checked": "2026-07-28",
    "note": "BC- intent confirmed for women+leather; caution: 2 DIY suggestions = part of demand self-makes"
+  },
+  "_meta_interest_probe": {
+   "top": [
+    "Handbags id=6003198476967 413.4M-486.1M global"
+   ],
+   "last_checked": "2026-07-28",
+   "note": "v8.1 TESTED 28/07: religion targeting REMOVED by Meta — search_interests Catholic=noise, Rosary=empty, Bible=media brands only. Use product axis. estimate_audience_size BLOCKED until 2026-08-03 (Pipeboard 3-account/month trial limit)."
+  }
+ },
+ "account_health": {
+  "act_491997713840919": {
+   "name": "01. GenusFaith",
+   "status": "ACTIVE",
+   "reason": "",
+   "last_checked": "2026-07-28"
+  },
+  "act_1803150516844674": {
+   "name": "07. GenusFaith",
+   "status": "DISABLED",
+   "reason": "Your ad account was flagged because of unusual activity. All your ads have been paused. To restart them, contact Facebook to confirm your account information.",
+   "last_checked": "2026-07-28"
   }
  }
 }

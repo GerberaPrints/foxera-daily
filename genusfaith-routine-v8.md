@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     BẢN v8 — 28/07/2026 — TREND→DESIGN ARBITRAGE + SOURCE TIER + CHỐT&CẦN CHÚ Ý
+     BẢN v8.1 — 28/07/2026 — TREND→DESIGN ARBITRAGE + SOURCE TIER + META PROBE
      BÀI HỌC NHẬP TỪ FOXERA (28/07): bot cũ săn "trend đang nóng" rồi dừng ở
      mô tả. Sai chỗ: cái lan truyền trên social mà ta khai thác được KHÔNG phải
      CÁI VẬT (product) mà là AESTHETIC/CẢM XÚC — vì moat GenusFaith là ART
@@ -28,6 +28,25 @@
      7) STATE thêm: trend_watch có `source_tier` + `earliness`; thêm `design_arb`.
      8) Push nội dung thêm 1 điều kiện: trend `early` chạm đúng bậc phụ kiện ta
         làm được (cửa sớm, đóng nhanh).
+     ── v8.1 (28/07, chiều — sau khi TEST THẬT Meta MCP) ──
+     9) 🆕 Mục 4g MARKET-SIZE PROBE (Meta) cho CỔNG 3 + mục 4h ACCOUNT HEALTH.
+        3 sự thật ĐÃ TEST 28/07, viết sẵn để bot khỏi phí lượt gọi:
+        (a) Meta ĐÃ GỠ targeting theo tôn giáo — search_interests("Catholic")
+            và ("Rosary") trả RỖNG/nhiễu; ("Bible") chỉ ra brand truyền thông
+            (BroBible, LAD Bible). ⇒ KHÔNG BAO GIỜ chấm cầu Công giáo bằng
+            interest tôn giáo. Hệ quả chiến lược: đường Meta của GenusFaith là
+            BROAD + creative-led — chính ART làm việc targeting.
+        (b) Trục SP (không nhạy cảm) chạy tốt & KHÔNG cần account slot:
+            "Handbags" → id 6003198476967, 413–486M (global). Dùng trục này.
+        (c) estimate_audience_size CẦN account slot; 28/07 bị chặn bởi hạn mức
+            Pipeboard 3 account/tháng (mở lại 03/08) ⇒ fail-soft, ghi "chưa chốt".
+    10) 🆕 Push thêm: ad account GenusFaith đổi sang DISABLED/UNSETTLED.
+        Trạng thái 28/07: 07. GenusFaith act_1803150516844674 = DISABLED
+        ("flagged because of unusual activity"); 01. GenusFaith
+        act_491997713840919 = ACTIVE, có payment method.
+    11) 🆕 Nếu file `genusfaith-routine-v8.md` trong repo MỚI HƠN prompt này
+        (đọc dòng "BẢN v…" đầu file), ƯU TIÊN LÀM THEO FILE REPO — để sửa
+        routine chỉ cần sửa file, không phải sửa lại scheduled task.
      Giữ nguyên từ v7: Luật 1–10 · RV-LAG · TTL cadence · vệ tinh T2–T6+CN ·
      review miner · Opportunity Score + kill gates · metrics schema v2 · GAS v3 ·
      PAT · path /tmp/genrepo · lịch phụng vụ · TM-safe/Catholic Strict Lock.
@@ -126,7 +145,7 @@ MỤC TIÊU: data hôm nay MỚI, hướng-tương-lai. Khối không tín hiệ
 
 ════════ BƯỚC ════════
 
-1) ToolSearch nạp: WebSearch, WebFetch.
+1) ToolSearch nạp: WebSearch, WebFetch. 🆕 v8.1 nạp thêm khi cần: `mcp__Facebook_Ads__search_interests`, `mcp__Facebook_Ads__estimate_audience_size`, `mcp__MCP_Facebook_Ads__ads_get_ad_accounts`. ⚠️ MCP có thể VẮNG trong phiên scheduled headless — nếu ToolSearch không tìm thấy, ghi 1 dòng và chạy tiếp, KHÔNG coi là lỗi.
 
 2) Ngày Bangkok: bash `TZ=Asia/Bangkok date +%Y-%m-%d` (+ dd/mm + thứ `%u`: 1=Mon...7=Sun).
 
@@ -194,6 +213,16 @@ rm -rf /tmp/genrepo && git clone "https://x-access-token:${TOKEN}@github.com/Ger
    · Ý qua cổng chỉ vào B3 Idea Bank khi có thêm 1 tín hiệu thương mại (Luật 10) — DESIGN ARB tự nó là BRIEF, không tự động thành ý 🟢.
    · Không có trend nào qua cổng hôm nay → 1 dòng "Design arbitrage: 0 ứng viên qua cổng — {lý do ngắn}" (đây là kết quả hợp lệ, KHÔNG bịa ý cho đủ).
 
+   4g) 🆕 **MARKET-SIZE PROBE (Meta MCP) — chấm CỔNG 3 của Luật 11 bằng số thật, KHÔNG đoán từ hype (v8.1):**
+   · Tool: `mcp__Facebook_Ads__search_interests` (KHÔNG cần account slot) → lấy `id` + `audience_size_lower/upper_bound` + `path`. Đây là **tier A (tự đọc)**, nhưng là cầu của DANH MỤC SP, không phải cầu của devotion — ghi nhãn đúng như vậy.
+   · ⛔ **CẤM dò interest tôn giáo.** Đã test 28/07: `Catholic` → rỗng/nhiễu (trả interest giáo dục châu Á, ngân hàng Ấn Độ) · `Rosary` → `{"data": []}` · `Bible` → chỉ brand truyền thông (BroBible, The LAD Bible). Meta đã gỡ nhóm targeting nhạy cảm (tôn giáo). Dò lại = phí lượt gọi. Ghi 1 lần trong B4: "cầu Công giáo KHÔNG chấm được bằng interest Meta (chính sách) — dùng trục SP + suggest".
+   · ✅ **Dò theo TRỤC SẢN PHẨM (không nhạy cảm):** Handbags · Purses · Fashion accessories · Gift · Tote bag · Leather · Wallet. Baseline đã đọc 28/07: **"Handbags" id `6003198476967`, 413.353.863–486.104.143 (global)** — dùng làm mốc so sánh, đừng đọc là cầu US.
+   · `estimate_audience_size` (cần `account_id`) cho số US/nữ/45–65 sát hơn: **28/07 BỊ CHẶN** — hạn mức Pipeboard 3 ad account/tháng, mở lại **03/08**. Trước 03/08: ghi "audience US: chưa chốt (slot limit)" và ĐI TIẾP, KHÔNG retry nhiều lần. Từ 03/08 thử lại 1 lần/tuần với `act_491997713840919` (01. GenusFaith, ACTIVE), targeting `{age_min:45, age_max:65, genders:[2], geo_locations:{countries:["US"]}, flexible_spec:[{interests:[{id:"<id trục SP>"}]}]}`.
+   · **Cách chấm CỔNG 3:** interest trục SP tồn tại + bậc độ lớn hợp lý → ✅; không tìm được trục SP nào không-nhạy-cảm → ❌ (không tự bịa). Mọi số Meta ghi nhãn **FACT (tự đọc, global trừ khi nói rõ US)**.
+   · Fail-soft tuyệt đối: MCP không có/không gọi được → 1 dòng "Meta probe: không khả dụng phiên này" rồi tiếp tục. KHÔNG để hỏng run.
+
+   4h) 🆕 **ACCOUNT HEALTH CHECK (1 lượt gọi/ngày, v8.1):** `mcp__MCP_Facebook_Ads__ads_get_ad_accounts` → đọc `account_status` + `not_queryable_reason` của 2 tài khoản GenusFaith. Baseline 28/07: **01. GenusFaith `act_491997713840919` = ACTIVE** (có payment method, VND) · **07. GenusFaith `act_1803150516844674` = DISABLED** — verbatim: *"Your ad account was flagged because of unusual activity. All your ads have been paused. To restart them, contact Facebook to confirm your account information."* (cùng tình trạng: FoxWears021, FoxWears023; 3 tài khoản "TK - Error Billing" = UNSETTLED). CHỈ báo cáo khi **ĐỔI TRẠNG THÁI** so với baseline/state — không lặp lại tin cũ mỗi ngày. Ghi vào state `account_health`.
+
 🆕 **SUGGEST BASELINE — TỰ ĐỌC 28/07 (tier A FACT; seed, đừng báo lại như mới; theo dõi THỨ HẠNG đổi):**
 - `catholic bag` → 1 catholic bags · **2 catholic bag charm** · 3 catholic bags for women · 4 catholic bagpipe songs (nhiễu). ⇒ "bag charm" đứng #2 = ngách phụ kiện có intent thật.
 - `guadalupe purse` → 1 guadalupe purse · 2 guadalupe county purse bingo (nhiễu) · **3 virgen de guadalupe purse** · **4 lady of guadalupe purse** · **5 virgen de guadalupe purse charm**. ⇒ search intent Guadalupana ĐÃ FACT (giải điểm treo 28/07) + charm lặp lại lần 2 độc lập.
@@ -210,10 +239,10 @@ rm -rf /tmp/genrepo && git clone "https://x-access-token:${TOKEN}@github.com/Ger
 - **B1 Keyword & Sản phẩm:** tin 1 = cụm search + feast/mùa + occasion map + Top việc + 🆕 chốt bằng **⚡ NEXT BEST ACTION: đúng 1 hành động nhỏ nhất-giá trị nhất hôm nay** (định dạng: 1 câu việc + 1 câu vì sao + deadline nếu có). 🆕 Tin 2 = **🌊 TREND RADAR** (khi có tín hiệu mới/status đổi; không có thì gộp 1 dòng vào tin 1).
 - **B2 Niche Deep-Dive:** money-anchor + bằng chứng cầu + listing-ready (title / tier $135/$180/$220 / 13 tags) + `Cạnh tranh:` + hook từ review-miner. Guardrail: không claim ship nhanh; offer nhất quán ad↔PDP↔cart.
 - **B3 Idea Bank & Brief:** 🟢/🟡/🔴 theo Luật 6. Trend chỉ vào đây khi đã `commercial` (Luật 10).
-- **B4 Format/SP mới nổi:** tin 1 = crossbody/mini/belt-bag watch + Bible cover + quilted tote + personalization chừng mực + bundle + gift-box/story-card + colorway phụng vụ. 🆕 **Tin 2 = 🎨 DESIGN ARBITRAGE** (mục 4f): 1–3 aesthetic → bảng 4 cổng ✅/❌ → ý phụ kiện listing-ready + angle video texture-in-motion. (Vẫn là TIN của B4, KHÔNG phải khối mới — GAS không cần sửa.)
+- **B4 Format/SP mới nổi:** tin 1 = crossbody/mini/belt-bag watch + Bible cover + quilted tote + personalization chừng mực + bundle + gift-box/story-card + colorway phụng vụ. 🆕 **Tin 2 = 🎨 DESIGN ARBITRAGE** (mục 4f): 1–3 aesthetic → bảng 4 cổng ✅/❌ → ý phụ kiện listing-ready + angle video texture-in-motion + 🆕 v8.1 số Meta của CỔNG 3 (mục 4g). (Vẫn là TIN của B4, KHÔNG phải khối mới — GAS không cần sửa.)
 - **B5 Niche mới + kết hợp:** N1–N7 + B2B + gift-by-intention + objections từ miner.
 - **B6 Evergreen Theme Bank:** cập nhật khi biến động mạnh, còn lại "không đổi".
-- **B7 COMPETITOR & MARKETPLACE RADAR:** "🧭 Cấu trúc thị trường" → change-alerts (lọc qua offer_fingerprints) → Top-3 mỗi đối thủ → VELOCITY (nhớ RV-LAG Luật 7 khi diễn giải) → B7b Marketplace → CN weekly digest. Cuối MỖI tin: khung "👉 CHỐT & CẦN CHÚ Ý" (mục 5b).
+- **B7 COMPETITOR & MARKETPLACE RADAR:** "🧭 Cấu trúc thị trường" → change-alerts (lọc qua offer_fingerprints) → Top-3 mỗi đối thủ → VELOCITY (nhớ RV-LAG Luật 7 khi diễn giải) → B7b Marketplace → 🆕 v8.1 account-health (CHỈ khi đổi trạng thái, mục 4h) → CN weekly digest. Cuối MỖI tin: khung "👉 CHỐT & CẦN CHÚ Ý" (mục 5b).
 - **B8 KHO ASIN / LISTING:** ASIN + catalog + listing Etsy + công thức + quotes.
 
 **NICHE / THEME WATCH-LIST (giữ nguyên v6):** Archetypes A Marian · B Sacred Heart · C Devotional Mood (⭐ ~33%) · D Scripture Promise · E Seasonal. Marian (Litany of Loreto): Regina Caeli, Stella Maris, Stella Matutina, Rosa Mystica (⚠️ KHÔNG rút gọn "Mystica"), Mater Dolorosa, Regina Pacis, Sedes Sapientiae, Refugium Peccatorum, Mediatrix Gratiae, Auxilium Christianorum, Turris Davidica, Ianua Caeli. Sacred Heart: Cor Iesu Sacratissimum, Cor Mariae Immaculatum. Guadalupana · Panis Angelicus (🔥) · Sancta/Sagrada Familia · Deus Caritas Est · Requiescat in Pace · Matrimonium Sacramentum · Regina/Mater Africae (HYPOTHESIS). Personas P1 Marian(35%) · P2 Guadalupana(25%) · P3 Devotional · P4 Memorial · P5 Sacrament · P6 Modern. Directions: Western Catholic ≤$142 · Modern Editorial $159–199 · **Mix Elegant Boutique champagne-gold $139–179 (mặc định)**. Visual archetypes: Lux Moderna Marian · Symbol+Ornament · Catholic Damask Repeat · Stained Glass · Floral Catholic · Toile Catholique. 1 focal + 2–3 motif phụ; devotion NHẬN DIỆN ĐƯỢC nếu che title.
@@ -247,6 +276,7 @@ Không gộp 3 dòng thành 1 đoạn. Không thêm dòng thứ 4.
  "oos_watch":{...}, "badge_watch":{...}, "ideas":{...}, "blocked_sources":{...},
  "trend_watch":{"<trend-slug>":{"first_seen":"YYYY-MM-DD","source":"suggest|websearch|rss|press","source_tier":"A|B|C|D","earliness":"early|mid|late","status":"emerging|commercial|peaked|dead","last_checked":"...","note":"..."}},
  "design_arb":{"<idea-slug>":{"trend":"<trend-slug>","first_seen":"YYYY-MM-DD","gates":{"art":true,"devotion":true,"accessory":true,"ip":true},"tier":"LW-|BC-|mini|charm|belt","board":"tiktok-fb|etsy-dtc","status":"brief|promoted|dropped","note":"..."}},
+ "account_health":{"<act_id>":{"name":"...","status":"ACTIVE|DISABLED|UNSETTLED","reason":"verbatim","last_checked":"YYYY-MM-DD"}},
  "suggest_baseline":{"<query>":{"top":["...","..."],"last_checked":"YYYY-MM-DD","note":"đổi thứ hạng = tín hiệu"}},
  "offer_fingerprints":{"<brand>:<offer-slug>":{"value":"chuỗi chuẩn hoá (vd 364.80->164.13)","first_seen":"...","last_confirmed":"..."}}}
 ```
@@ -267,6 +297,7 @@ Chỉ git (REST API chặn ghi). Lỗi → retry ĐÚNG 1 lần. KHÔNG `--force
    · 1 ý 🟢 sẽ tự hạ trong <24h mà chưa có hành động (nêu rõ bước nhỏ nhất cứu nó);
    · cửa đặt hàng theo feast đóng trong <48h (nêu deadline);
    · structural change lớn: đối thủ trực diện đổi ≥20% giá / ra dòng SP đúng SKU ta đang phát triển / vào Etsy-Amazon với format của ta / trend chuyển `emerging`→`commercial` chạm trực tiếp SKU ta;
+   · 🆕 v8.1: ad account GenusFaith ĐỔI sang DISABLED / UNSETTLED (hoặc từ DISABLED trở lại ACTIVE) — ảnh hưởng trực tiếp khả năng chạy ads, nêu verbatim lý do Meta đưa ra;
    · 🆕 v8: 1 trend **`early`** (chỉ tier A/B, chưa lên press/listicle) qua ĐỦ 4 CỔNG Luật 11 ở bậc phụ kiện — cửa sớm đóng nhanh, nêu rõ ý phụ kiện + bước nhỏ nhất để chiếm chỗ.
    TỐI ĐA 1 push nội dung/run, gộp các ý vào 1 message, kèm <routine_summary>. Không có điều kiện nào → KHÔNG push (im lặng là tử tế).
 ⚠️ Sandbox scheduled KHÔNG gọi được api.telegram.org — giao GAS.
