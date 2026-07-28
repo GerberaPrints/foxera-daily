@@ -12,15 +12,32 @@
  *   hàm này tự xoá trigger cũ trước khi cài, không bị trùng).
  ************************************************************************/
 
-const PT_TOKEN = '8788178603:AAGwnrDjAiC7PsM_m86HghP0uyMOsOO3cEU';   // bot GritFell
-const PT_CHAT  = '-5145103118';                                     // nhóm GritFell - Daily Market Research
+/* v2.1 (28/07/2026) — BẢO MẬT: repo này là PUBLIC, token KHÔNG được nằm trong code nữa.
+ * Token đọc từ Script Properties. CÀI 1 LẦN:
+ *   1) BotFather /revoke -> lấy token MỚI (token cũ đã lộ trong git history, bắt buộc đổi).
+ *   2) Apps Script -> Project Settings -> Script Properties: PT_TOKEN = <token mới>, PT_CHAT = -5145103118
+ *      (hoặc sửa 2 giá trị trong fxSetSecrets() rồi chạy hàm đó đúng 1 lần, sau đó xoá lại giá trị trong code).
+ */
+function fx_prop_(k) {
+  var v = PropertiesService.getScriptProperties().getProperty(k);
+  if (!v) throw new Error('Thiếu Script Property "' + k + '". Xem hướng dẫn đầu file (fxSetSecrets).');
+  return v;
+}
+function fxSetSecrets() {
+  // Điền tạm rồi chạy 1 lần, xong XOÁ lại 2 giá trị này khỏi code trước khi lưu/commit.
+  var TOKEN = '';               // <- token MỚI từ BotFather
+  var CHAT  = '-5145103118';    // nhóm GritFell - Daily Market Research
+  if (!TOKEN) throw new Error('Điền TOKEN mới vào fxSetSecrets() rồi chạy lại.');
+  PropertiesService.getScriptProperties().setProperties({ PT_TOKEN: TOKEN, PT_CHAT: CHAT });
+  Logger.log('Đã lưu PT_TOKEN + PT_CHAT vào Script Properties. Giờ xoá giá trị trong code.');
+}
 const PT_DELAY = 3500;
 const FX_TZ    = 'Asia/Bangkok';
 const RAW_URL  = 'https://raw.githubusercontent.com/GerberaPrints/foxera-daily/main/gritfell-daily.json';
 
 function pt_api_(method, payload) {
   for (var a = 0; a < 4; a++) {
-    var res = UrlFetchApp.fetch('https://api.telegram.org/bot' + PT_TOKEN + '/' + method, {
+    var res = UrlFetchApp.fetch('https://api.telegram.org/bot' + fx_prop_('PT_TOKEN') + '/' + method, {
       method: 'post', contentType: 'application/json', payload: JSON.stringify(payload), muteHttpExceptions: true });
     var d = JSON.parse(res.getContentText());
     if (d.ok) return d;
@@ -47,8 +64,8 @@ function pt_send_(html) {
   html = String(html).replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, '<a href="$2">$1</a>');
   var parts = pt_chunk_(html, 3900);
   for (var i = 0; i < parts.length; i++) {
-    var r = pt_api_('sendMessage', { chat_id: PT_CHAT, text: parts[i], parse_mode: 'HTML', disable_web_page_preview: true });
-    if (!r.ok) { Logger.log('HTML fail -> plain fallback: ' + parts[i].substring(0, 80)); pt_api_('sendMessage', { chat_id: PT_CHAT, text: parts[i].replace(/<[^>]+>/g, ''), disable_web_page_preview: true }); }
+    var r = pt_api_('sendMessage', { chat_id: fx_prop_('PT_CHAT'), text: parts[i], parse_mode: 'HTML', disable_web_page_preview: true });
+    if (!r.ok) { Logger.log('HTML fail -> plain fallback: ' + parts[i].substring(0, 80)); pt_api_('sendMessage', { chat_id: fx_prop_('PT_CHAT'), text: parts[i].replace(/<[^>]+>/g, ''), disable_web_page_preview: true }); }
     if (i < parts.length - 1) Utilities.sleep(1200);
   }
 }
@@ -70,7 +87,7 @@ function fx_staleMsg_(data) {
   return '⚠️ <b>GritFell — DỮ LIỆU CHƯA CẬP NHẬT HÔM NAY</b>\n' +
     Utilities.formatDate(new Date(), FX_TZ, 'EEE dd/MM/yyyy') + '\n' +
     'File GitHub vẫn là ngày <b>' + (fx_dataDate_(data) || '?') + '</b> → research task 05:30 <b>chưa chạy/push thành công</b>.\n' +
-    'KHÔNG đăng bản cũ. Kiểm tra scheduled task "🎣 GritFell · ALL-IN-ONE (Research + Ads) v4 · 05:30".';
+    'KHÔNG đăng bản cũ. Kiểm tra scheduled task "🎣 GritFell · ALL-IN-ONE v5.4 (Arbitrage+Internal) · 05:30".';
 }
 
 function fx_sendBlock_(key, isFirst) {
