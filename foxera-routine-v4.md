@@ -1,4 +1,13 @@
 # FoxEra Daily Research — ROUTINE v4 (bản nâng cấp: phá điểm mù + data sâu/rộng + social/viral radar)
+
+> # 🔴🔴 CHẶN ĐẦU — ĐỌC TIẾP v5 TRƯỚC KHI LÀM BẤT CỨ GÌ 🔴🔴
+> **BẮT BUỘC ngay sau khi đọc xong file này, chạy: `cat /tmp/fxrepo/foxera-routine-v5.md` và TUÂN THEO.**
+> Thứ tự ưu tiên khi mâu thuẫn: **v5 > v4 > trigger prompt**.
+> v5 (28/07/2026) THÊM 3 thứ mà trigger prompt CHƯA có — nếu bỏ qua là chạy SAI:
+> 1. **Luật 17** — mỗi khối PHẢI kết bằng `📌 CẦN CHÚ Ý:` (3 gạch: Số liệu / Rủi ro / Việc cần làm), kể cả khối `⏸ Không đổi`.
+> 2. **Luật 18** — mọi tín hiệu trend PHẢI gắn nhãn độ sớm 🌱EARLY / 📈RISING / 🔥PEAK / 🪦CLOSED; **CẤM dùng listicle aggregator làm nguồn PHÁT HIỆN trend**.
+> 3. **Khối B10 — Trend-to-Design Arbitrage** ⇒ JSON `blocks` từ nay GIỮ ĐỦ **"B1".."B10"** (trigger prompt ghi B1..B9 là CŨ, **v5 thắng — đừng làm rớt B10**).
+>
 > Bot ĐỌC file này mỗi sáng và LÀM THEO. v4 GIỮ toàn bộ kỷ luật v3 (luật 1–11) và THÊM luật 12–16 + nguồn dữ liệu mới + Khối B9. Khi mâu thuẫn, v4 thắng.
 > Lý do ra đời v4 (bằng chứng từ chính lịch sử chạy 14→24/07): WebFetch Etsy/Amazon bị PROVENANCE_REQUIRED **5 ngày liên tiếp (20→24/07)**; anchor `back_to_school_teacher` đóng băng 2200/1300/1200 suốt **9 ngày**; note phình 421→887 ký tự trong khi anchor mới = 0. Kết luận: fetch chi tiết là **điểm mù cấu trúc của môi trường cloud**, không phải sự cố tạm. v4 ngừng "chờ fetch", chuyển sang nguồn số THẬT khác.
 
