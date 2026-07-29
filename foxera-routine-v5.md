@@ -96,3 +96,17 @@ Hệ quả: **listicle "Top N TikTok/Etsy products" KHÔNG được dùng làm n
 - SELF-CHECK trước push, thêm 2 mục: (a) **mọi khối B1..B10 có `📌 CẦN CHÚ Ý`**; (b) **mọi tín hiệu trend có nhãn độ sớm** (🌱/📈/🔥/🪦).
 - Metrics jsonl: thêm niche B10 dạng `{"niche":"trend_to_design_<slug>","metric":"gate_score","signal":"pinterest_predicts_<trend>_earliness_EARLY_gates_4","anchors":[]}`.
 - Bước 10 KẾT: nêu rõ **B7 + B9 + B10 + health status**.
+
+---
+
+## LUẬT 19 — CẦU NỐI LOCAL-VERIFY (thêm 29/07/2026, kiến trúc 2 luồng)
+
+Hệ chạy 2 LUỒNG tách biệt, hợp đồng = file JSON trong cùng repo (xem `local-verify/README.md`):
+- **Luồng CLOUD** (routine này, 04:30): snippet + Meta interest + trend → daily.json → push.
+- **Luồng DESKTOP** (Python `local-verify/verify_listings.py`, CN hằng tuần trên máy user): mở listing Etsy bằng browser thật → ghi `local-verify/foxera-live.json`.
+
+Bổ sung BƯỚC 3 (sau khi clone): `cat /tmp/fxrepo/local-verify/foxera-live.json` (nếu tồn tại).
+- `verified_at ≤ 7 ngày` → dùng `reviews_listing`/`price` làm anchor tầng **"live (local-verify dd/mm)"** — đây là tầng (a) kỷ luật #10; `anchor_age_days` = số ngày từ `verified_at`; health có thể lên `ok`.
+- `verified_at > 7 ngày` hoặc file vắng → như cũ (anchor "lịch sử"), ghi rõ "local-verify chưa chạy N ngày".
+- Chỉ nhận record `status == "live"`; record captcha/error KHÔNG được đếm. KHÔNG bịa số.
+- Velocity: so `reviews_listing` giữa 2 lần local-verify liên tiếp (▲ +N/tuần) — đây là nguồn velocity THẬT duy nhất của hệ.
