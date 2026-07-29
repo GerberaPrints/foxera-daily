@@ -94,25 +94,26 @@ rm -rf /tmp/gbrepo && git clone "https://x-access-token:${TOKEN}@github.com/Gerb
 4) RESEARCH:
 a) DROP MỚI + SOLD-OUT (web_fetch products.json; created_at/published_at trong 48h = drop mới):
 https://bogeybros.co/products.json?limit=5
-https://badbirdie.com/products.json?limit=5
+https://badbirdiegolf.com/products.json?limit=5
 https://swannies.co/products.json?limit=5
 https://pinsandaces.com/products.json?limit=3
 https://shankitgolf.com/products.json?limit=5
 https://usuckatgolf.com/products.json?limit=5
 b) GIÁ ANCHOR (theo LUẬT 2 — KHÔNG lấy từ feed trên): quét collection/homepage của T1, lấy giá mode của dòng core:
 https://bogeybros.co/collections/shop
-https://badbirdie.com/collections/mens-polos
+https://badbirdiegolf.com/collections/mens-polos
 https://swannies.co/collections/polos
 Ghi giá kèm nhãn nguồn.
 
 ⚠️ BÀI HỌC ĐÃ TRẢ GIÁ:
 - bogeybros.com = SAI (rỗng 7+ ngày, từng chẩn đoán NHẦM là "chặn bot"). ĐÚNG: bogeybros.co.
 - wagglegolf.com ☠️ chết — ĐÃ BỎ.
-- ⚠️ NGHI VẤN MỚI 28/07 (chưa xác nhận qua fetch, web_fetch chặn ngày đó): nhiều lượt WebSearch chỉ trả về domain `badbirdiegolf.com` cho Bad Birdie, KHÔNG một kết quả nào trả `badbirdie.com`. Có thể lặp lại bài học bogeybros.com→.co — khi web_fetch phục hồi, thử CẢ HAI domain 1 lần để xác nhận, rồi cập nhật URL feed nếu đúng.
+- ✅ ĐÃ SỬA 29/07 (phiên live, xác nhận qua fetch trực tiếp): badbirdie.com → <b>badbirdiegolf.com</b> — domain Bad Birdie ĐÃ đổi (không còn là nghi vấn). Cấu trúc URL feed/collection giữ nguyên, chỉ đổi tên miền gốc. Đã cập nhật URL feed/collection ở trên và trong prompt task tự động. Bài học: nghi vấn domain qua WebSearch (28/07) → xác nhận được ngay khi có phiên live/interactive để fetch trực tiếp, không cần đợi "web_fetch phục hồi" (vì phiên tự động vẫn sẽ tiếp tục bị chặn — xem mục hạ tầng bên dưới).
 - Pins & Aces feed rất dài → JSON bị cắt. Dùng limit=3. Vẫn tràn → parse tolerant bằng json.JSONDecoder().raw_decode() cuộn từng object, ghi rõ "đọc N/M SP".
 - Fore Play (store.barstoolsports.com) = T1 nhưng không phải Shopify feed chuẩn → best-effort WebSearch; không có thì ghi "không quét được".
 - **Etsy & Amazon CHẶN fetch headless** (xác minh 17/07 qua FoxEra). → B8 CHỈ dùng link BỀN (search/Best-Sellers), KHÔNG tự nhận đọc live. Bài học FoxEra: "review-count giữ mốc verify hôm trước, KHÔNG tự nhận đọc live hôm nay".
 - Feed rỗng/lỗi → GHI RÕ, KHÔNG bịa, KHÔNG kết luận "chặn bot" khi chưa thử domain thay thế.
+- 🆕 BÀI HỌC HẠ TẦNG 29/07: `web_fetch` bị `PROVENANCE_REQUIRED` liên tục 9 ngày (20–28/07) trong PHIÊN TỰ ĐỘNG/scheduled, nhưng hoạt động BÌNH THƯỜNG ngay khi thử lại trong 1 phiên live/interactive (29/07, 08:49 giờ Bangkok) — kể cả domain đối chứng ngoài T1. Kết luận: đây là giới hạn của phiên KHÔNG có người dùng trực tiếp phê duyệt fetch (không có ai trả lời prompt xin phép), KHÔNG phải lỗi hạ tầng/domain bị chặn vĩnh viễn. → Phiên tự động sẽ TIẾP TỤC dùng WebSearch thay thế như cũ (không có gì để sửa ở đó); nhưng nếu có phiên live/interactive bất kỳ, NÊN tranh thủ fetch trực tiếp để làm mới anchor giá thay vì chỉ dựa WebSearch.
 
 So với gerbera-metrics.jsonl ngày trước → nhãn: "▲ tăng giá" · "▼ giảm giá" · "▬ đứng" · "🔴 mới sold-out" · "🟢 restock" · "🆕 mới xuất hiện". Thiếu dữ liệu ngày trước → "baseline", KHÔNG bịa delta.
 
