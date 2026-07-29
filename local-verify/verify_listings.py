@@ -68,14 +68,38 @@ def parse_jsonld(html: str):
             if it.get("@type") == "Product":
                 out["title"] = (it.get("name") or "")[:120]
                 ar = it.get("aggregateRating") or {}
-                if ar.get("ratingCount"):
-                    out["reviews_listing"] = int(ar["ratingCount"])   # nhãn: (listing rv)
+                rc = ar.get("ratingCount") or ar.get("reviewCount")
+                if rc:
+                    out["reviews_listing"] = int(str(rc).replace(",", "").replace(".", ""))  # nhãn: (listing rv)
                 off = it.get("offers") or {}
                 if isinstance(off, dict):
                     p = off.get("price") or off.get("lowPrice")
                     if p: out["price"] = float(p)
                     out["currency"] = off.get("priceCurrency", "")
     return out
+
+LOCALE_DONE = {"ok": False}
+
+def ensure_usd_locale(page):
+    """Kỷ luật #1 (US/USD): nếu Etsy đang hiện VND/tiếng Việt → hướng dẫn chỉnh footer 1 lần.
+    Profile bền sẽ nhớ lựa chọn này cho mọi lần chạy sau."""
+    if LOCALE_DONE["ok"]:
+        return
+    try:
+        page.goto("https://www.etsy.com", timeout=60000, wait_until="domcontentloaded")
+        time.sleep(2)
+        html = page.content()
+        while ("₫" in html) or ("VND" in html) or ("(VND)" in html):
+            print("\n  ⚠️  Etsy đang hiển thị VND/tiếng Việt — số giá sẽ SAI locale (phải là USD).")
+            print("      → Trong cửa sổ Chrome: kéo xuống CUỐI TRANG (footer) → bấm nút chọn khu vực/tiền tệ")
+            print("        → Region: United States · Language: English (US) · Currency: $ USD → Save.")
+            input("      Chỉnh xong quay lại đây bấm ENTER... ")
+            page.reload(timeout=60000); time.sleep(2)
+            html = page.content()
+        print("  ✅ Locale OK: USD/English (profile sẽ nhớ cho các lần sau).")
+    except Exception as e:
+        print("  ⚠️ Không kiểm tra được locale:", e)
+    LOCALE_DONE["ok"] = True
 
 BLOCK_SIGNS = ("Access is temporarily restricted", "unusual activity", "captcha")
 
@@ -92,6 +116,7 @@ def verify_project(name: str, browser):
         print(f"[{name}] không có URL listing nào trong daily.json"); return None
     print(f"[{name}] verify {len(urls)} listing…")
     page = browser.new_page() if hasattr(browser, "new_page") else browser.pages[0]
+    ensure_usd_locale(page)   # KỶ LUẬT #1: bắt buộc US/USD trước khi đọc số
     results = []
     blocked_prompted = False
     for lid, url in urls:
@@ -115,8 +140,15 @@ def verify_project(name: str, browser):
                     break
             info = parse_jsonld(html)
             if info.get("reviews_listing") is None:
-                m = re.search(r'([\d,]+)\s+reviews', html)   # fallback nếu JSON-LD thiếu
-                if m: info["reviews_listing"] = int(m.group(1).replace(",", ""))
+                # fallback đa pattern (trang có thể hiển thị tiếng Việt "đánh giá")
+                for pat in (r'"rating_count"\s*:\s*(\d+)', r'"review_count"\s*:\s*(\d+)',
+                            r'([\d.,]+)\s*(?:reviews|đánh giá)'):
+                    m = re.search(pat, html, re.I)
+                    if m:
+                        info["reviews_listing"] = int(re.sub(r"[.,]", "", m.group(1))); break
+            if info.get("currency") and info["currency"] != "USD":
+                info.pop("price", None)   # KHÔNG ghi giá sai locale (VND...) — kỷ luật #1
+                info["price_note"] = "bo_gia_vi_currency_" + info["currency"]
             if info.get("reviews_listing") is not None or info.get("price"):
                 row.update(info); row["status"] = "live"
             else:
