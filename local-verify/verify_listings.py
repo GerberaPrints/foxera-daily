@@ -28,7 +28,7 @@ import json, re, sys, time, random, subprocess, pathlib, datetime
 
 REPO = pathlib.Path(__file__).resolve().parent.parent
 MAX_LISTINGS = 12          # trần số listing mỗi project mỗi lần chạy
-DELAY_RANGE = (4, 9)       # giây nghỉ ngẫu nhiên giữa 2 listing (lịch sự với Etsy)
+DELAY_RANGE = (8, 16)       # giây nghỉ ngẫu nhiên giữa 2 listing (lịch sự với Etsy)
 
 PROJECTS = {
     "foxera":     "foxera-daily.json",
@@ -77,6 +77,12 @@ def parse_jsonld(html: str):
                     out["currency"] = off.get("priceCurrency", "")
     return out
 
+BLOCK_SIGNS = ("Access is temporarily restricted", "unusual activity", "captcha")
+
+def is_blocked(html: str) -> bool:
+    low = html.lower()
+    return any(sig.lower() in low for sig in BLOCK_SIGNS) and '"@type"' not in html
+
 def verify_project(name: str, browser):
     daily = REPO / PROJECTS[name]
     if not daily.exists():
@@ -85,22 +91,36 @@ def verify_project(name: str, browser):
     if not urls:
         print(f"[{name}] không có URL listing nào trong daily.json"); return None
     print(f"[{name}] verify {len(urls)} listing…")
-    page = browser.new_page(locale="en-US")   # LOCALE: US (kỷ luật #1)
+    page = browser.new_page() if hasattr(browser, "new_page") else browser.pages[0]
     results = []
+    blocked_prompted = False
     for lid, url in urls:
         row = {"listing_id": lid, "url": url}
         try:
-            page.goto(url, timeout=45000, wait_until="domcontentloaded")
-            time.sleep(2)
+            page.goto(url, timeout=60000, wait_until="domcontentloaded")
+            time.sleep(3)
             html = page.content()
-            if "captcha" in html.lower() and "listing" not in page.url:
-                row["status"] = "captcha"      # ghi thật, KHÔNG bịa số
+            if is_blocked(html):
+                if not blocked_prompted:
+                    blocked_prompted = True
+                    print("\n  ⚠️  Etsy đang chặn (Access temporarily restricted).")
+                    print("      → Trong cửa sổ Chrome vừa mở: giải captcha / bấm vào trang cho nó load bình thường,")
+                    input("      rồi quay lại đây bấm ENTER để thử tiếp... ")
+                    page.goto(url, timeout=60000, wait_until="domcontentloaded"); time.sleep(3)
+                    html = page.content()
+                if is_blocked(html):
+                    row["status"] = "blocked_by_etsy"   # ghi thật, KHÔNG bịa số
+                    results.append(row)
+                    print("   ", lid, row["status"], "→ DỪNG sớm để IP nguội (chạy lại sau 30-60 phút)")
+                    break
+            info = parse_jsonld(html)
+            if info.get("reviews_listing") is None:
+                m = re.search(r'([\d,]+)\s+reviews', html)   # fallback nếu JSON-LD thiếu
+                if m: info["reviews_listing"] = int(m.group(1).replace(",", ""))
+            if info.get("reviews_listing") is not None or info.get("price"):
+                row.update(info); row["status"] = "live"
             else:
-                info = parse_jsonld(html)
-                if info.get("reviews_listing") is not None or info.get("price"):
-                    row.update(info); row["status"] = "live"
-                else:
-                    row["status"] = "parsed_empty"  # trang mở được nhưng không thấy JSON-LD
+                row["status"] = "parsed_empty"
         except Exception as e:
             row["status"] = f"error:{type(e).__name__}"
         results.append(row)
@@ -125,9 +145,18 @@ def main():
     names = list(PROJECTS) if target == "all" else [target]
     from playwright.sync_api import sync_playwright
     written = []
+    profile_dir = REPO / "local-verify" / ".chrome-profile"   # profile bền: cookie/session như người thật
     with sync_playwright() as p:
-        # headless=False: Etsy chặn headless — cần cửa sổ browser thật (điểm CHỈ desktop làm được)
-        browser = p.chromium.launch(headless=False)
+        # Dùng CHROME THẬT của máy (channel="chrome") — "Chrome for Testing" của Playwright bị Etsy
+        # nhận diện bot ngay. Persistent profile + tắt cờ automation = fingerprint như người dùng thường.
+        launch_kw = dict(headless=False, viewport=None,
+                         args=["--disable-blink-features=AutomationControlled", "--start-maximized"],
+                         locale="en-US")
+        try:
+            browser = p.chromium.launch_persistent_context(str(profile_dir), channel="chrome", **launch_kw)
+        except Exception:
+            print("Không thấy Google Chrome cài sẵn → fallback Chromium (dễ bị chặn hơn).")
+            browser = p.chromium.launch_persistent_context(str(profile_dir), **launch_kw)
         for n in names:
             try:
                 w = verify_project(n, browser)
