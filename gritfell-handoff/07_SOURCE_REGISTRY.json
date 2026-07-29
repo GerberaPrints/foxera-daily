@@ -293,10 +293,10 @@
     "id": "gritfell_home",
     "url": "https://gritfell.com/",
     "type": "official_site",
-    "observed_at": "2026-07-29",
+    "observed_at": "2026-07-30",
     "evidence": "OBSERVED_CURRENT",
     "status": "LIVE_OK",
-    "last_ok": "2026-07-29",
+    "last_ok": "2026-07-30",
     "facts": [
       "announcement bar 'SPRING GEAR. BUY 2 GET 1 FREE!'",
       "free ground shipping $75+",
@@ -306,7 +306,7 @@
       "swim shorts $39",
       "hats $34"
     ],
-    "note": "Self-audit anchor (v5.4 section B). Fetched every run. Season mismatch flagged since 28/07."
+    "note": "Self-audit anchor (v5.4 section B). Fetched every run. Season mismatch ('SPRING GEAR') flagged since 28/07 — day 3 on 30/07."
   },
   {
     "id": "duckcamp_hats",
@@ -383,5 +383,89 @@
     "status": "LIVE_OK",
     "last_ok": "2026-07-29",
     "note": "mcp__MCP_Facebook_Ads__ads_library_search authorized and WORKING as of 29/07 (first successful run; previously unauthorized since 21/07). Matches on CREATIVE TEXT, not page name — brand lookups need a distinctive copy term, so a null result does NOT prove a brand is not advertising. Direct WebFetch of the Ad Library remains forbidden."
+  },
+  {
+    "id": "gritfell_hats",
+    "url": "https://gritfell.com/collections/hat",
+    "type": "official_site",
+    "observed_at": "2026-07-30",
+    "evidence": "OBSERVED_CURRENT",
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-30",
+    "facts": [
+      "36 products",
+      "all $34",
+      "no sale pricing",
+      "17 fish / 8 bird dog / 5 big game / 4 waterfowl / 2 upland",
+      "CONTAINS 'Early Teal' and 'Pheasant Opener'",
+      "NO dove SKU (all 36 names verified)",
+      "no program name and no season tag, unlike Duck Camp 'Game Series'"
+    ],
+    "note": "CANONICAL SLUG = /collections/hat (singular). /collections/hats, /collections/mens-hats and /collections/mens-hat ALL return 404 — tested 30/07. Never re-guess. T5 rotation collection for the v5.4 self-audit. This page falsified the long-carried 'no teal SKU' claim."
+  },
+  {
+    "id": "drake_home",
+    "url": "https://www.drakewaterfowl.com/",
+    "type": "official_site",
+    "observed_at": "2026-07-30",
+    "evidence": "OBSERVED_CURRENT",
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-30",
+    "facts": [
+      "banner 'Past Season Sale - Save Up to 60%!'",
+      "'Dock Shorts Back for a Limited Time!'",
+      "free shipping $99+ ONLY for Hunt Club Members (loyalty-gate)",
+      "Wingshooter Cross Hatch Shirt $69.99",
+      "LST Silencer Fleece-Lined Hoodie $69.99",
+      "Camp Deck Boot $69.99",
+      "Throwback 80 Backpack $89.99",
+      "Guardian Elite HND Waders $499.99",
+      "BMF1600 Kevlar Wader $999.99"
+    ],
+    "note": "Rotation day T5. Record FINAL prices only (S2). No opener/countdown messaging 33 days before the 01/09 dove opener."
+  },
+  {
+    "id": "freefly_home",
+    "url": "https://freeflyapparel.com/",
+    "type": "official_site",
+    "observed_at": "2026-07-30",
+    "evidence": "OBSERVED_CURRENT",
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-30",
+    "facts": [
+      "banner 'UP TO 50% OFF | Shop End of Summer Sale Now'",
+      "free shipping $150+ (highest threshold in radar)",
+      "Bamboo Lightweight Hoodie $74",
+      "Breeze Pant $98",
+      "Bamboo Shade Hoodie $54.99 (list $78)"
+    ],
+    "note": "Rotation day T5."
+  },
+  {
+    "id": "dove_lane_new_entrants",
+    "url": "https://www.facebook.com/ads/library/",
+    "type": "competitor_new_entrant",
+    "observed_at": "2026-07-30",
+    "evidence": "Meta Ad Library (live 30/07)",
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-30",
+    "facts": [
+      "Cordia — 'Performance Dove Season Apparel' + 'The Coolest Dove Shirts in the Field' + 'Dove Season Is Almost Here' + 'Free Shipping and Returns', 2 ads created 29/07",
+      "Dove Gear — 'The Last Bird Vest You'll Ever Need', created 29/07",
+      "Rack and Wing Co. — 'Dove Field Pocket Tee', created 29/07",
+      "Hunthide — still active, latest observed 28/07",
+      "'teal season' query returns ZERO hunting-apparel advertisers"
+    ],
+    "note": "Dove paid lane went from 1 advertiser (29/07) to >=4 (30/07) in 24h; none belong to the 11 rotation brands. Teal, same season window, remains empty. Re-count on 05/08: >=6 advertisers means the dove window is closed for this season."
+  },
+  {
+    "id": "shopify_connector",
+    "url": "mcp__Shopify__get-shop-info",
+    "type": "mcp_tool",
+    "observed_at": "2026-07-30",
+    "evidence": "INTERNAL_OBSERVED",
+    "status": "WRONG_STORE",
+    "last_ok": "2026-07-27",
+    "note": "Degradation log: 27/07 gritfell.com verified OK -> 28/07 returned 'Genus Faith' -> 29/07 tools absent from session -> 30/07 returns 'Gerbera Prints' (gerberaprints.com). Never call switch-shop in a scheduled session (guard). Needs a human to re-authorize and select the GritFell store. Fallback while broken = public self-audit, label OBSERVED_CURRENT."
   }
 ]
