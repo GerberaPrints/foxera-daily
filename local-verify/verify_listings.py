@@ -81,24 +81,16 @@ def parse_jsonld(html: str):
 LOCALE_DONE = {"ok": False}
 
 def ensure_usd_locale(page):
-    """Kỷ luật #1 (US/USD): nếu Etsy đang hiện VND/tiếng Việt → hướng dẫn chỉnh footer 1 lần.
-    Profile bền sẽ nhớ lựa chọn này cho mọi lần chạy sau."""
+    """Warm-up phiên (mở trang chủ 1 lần). Việc kiểm tra locale THẬT làm ở từng listing
+    qua JSON-LD priceCurrency — nguồn chân lý, không quét chữ trên trang (footer Etsy
+    luôn chứa chữ "VND" trong dropdown chọn tiền tệ → quét chữ bị false-positive)."""
     if LOCALE_DONE["ok"]:
         return
     try:
         page.goto("https://www.etsy.com", timeout=60000, wait_until="domcontentloaded")
         time.sleep(2)
-        html = page.content()
-        while ("₫" in html) or ("VND" in html) or ("(VND)" in html):
-            print("\n  ⚠️  Etsy đang hiển thị VND/tiếng Việt — số giá sẽ SAI locale (phải là USD).")
-            print("      → Trong cửa sổ Chrome: kéo xuống CUỐI TRANG (footer) → bấm nút chọn khu vực/tiền tệ")
-            print("        → Region: United States · Language: English (US) · Currency: $ USD → Save.")
-            input("      Chỉnh xong quay lại đây bấm ENTER... ")
-            page.reload(timeout=60000); time.sleep(2)
-            html = page.content()
-        print("  ✅ Locale OK: USD/English (profile sẽ nhớ cho các lần sau).")
-    except Exception as e:
-        print("  ⚠️ Không kiểm tra được locale:", e)
+    except Exception:
+        pass
     LOCALE_DONE["ok"] = True
 
 BLOCK_SIGNS = ("Access is temporarily restricted", "unusual activity", "captcha")
@@ -147,7 +139,16 @@ def verify_project(name: str, browser):
                     if m:
                         info["reviews_listing"] = int(re.sub(r"[.,]", "", m.group(1))); break
             if info.get("currency") and info["currency"] != "USD":
-                info.pop("price", None)   # KHÔNG ghi giá sai locale (VND...) — kỷ luật #1
+                if not LOCALE_DONE.get("prompted"):
+                    LOCALE_DONE["prompted"] = True
+                    print("\n  ⚠️  Listing đang trả giá " + info["currency"] + " (phải là USD).")
+                    print("      → Trong cửa sổ Chrome: kéo xuống CUỐI TRANG → chọn Region United States ·")
+                    print("        Language English (US) · Currency $ USD → Save.")
+                    input("      Chỉnh xong bấm ENTER để đọc lại listing này... ")
+                    page.goto(url, timeout=60000, wait_until="domcontentloaded"); time.sleep(3)
+                    info = parse_jsonld(page.content())
+            if info.get("currency") and info["currency"] != "USD":
+                info.pop("price", None)   # vẫn non-USD -> KHÔNG ghi giá sai locale — kỷ luật #1
                 info["price_note"] = "bo_gia_vi_currency_" + info["currency"]
             if info.get("reviews_listing") is not None or info.get("price"):
                 row.update(info); row["status"] = "live"
