@@ -1,0 +1,40 @@
+{
+  "project": "foxera",
+  "verified_at": "2026-07-29",
+  "locale": "US/USD",
+  "provenance": "live_local_browser",
+  "listings": [
+    {
+      "listing_id": "1808392997",
+      "url": "https://www.etsy.com/listing/1808392997",
+      "title": "Embroidered Fall Crewneck: Maple Leaf, Pumpkin Spice, Autumn-Themed Apparel",
+      "price": 483196.0,
+      "currency": "VND",
+      "status": "live"
+    },
+    {
+      "listing_id": "4372273258",
+      "url": "https://www.etsy.com/listing/4372273258",
+      "title": "Cozy Bookish Fall Vibes Sweatshirt: Pumpkin Spice, Coffee, and Books",
+      "price": 413223.0,
+      "currency": "VND",
+      "status": "live"
+    },
+    {
+      "listing_id": "4348610286",
+      "url": "https://www.etsy.com/listing/4348610286",
+      "status": "error:TargetClosedError"
+    },
+    {
+      "listing_id": "4339783239",
+      "url": "https://www.etsy.com/listing/4339783239",
+      "status": "error:TargetClosedError"
+    },
+    {
+      "listing_id": "4336064749",
+      "url": "https://www.etsy.com/listing/4336064749",
+      "status": "error:TargetClosedError"
+    }
+  ],
+  "live_count": 2
+}
