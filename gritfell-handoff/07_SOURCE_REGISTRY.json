@@ -293,20 +293,21 @@
     "id": "gritfell_home",
     "url": "https://gritfell.com/",
     "type": "official_site",
-    "observed_at": "2026-07-30",
+    "observed_at": "2026-07-31",
     "evidence": "OBSERVED_CURRENT",
     "status": "LIVE_OK",
-    "last_ok": "2026-07-30",
+    "last_ok": "2026-07-31",
     "facts": [
       "announcement bar 'SPRING GEAR. BUY 2 GET 1 FREE!'",
+      "hero 'NEW SPRING ARRIVALS'",
       "free ground shipping $75+",
-      "hero 'Just Dropped - Men's Polos'",
       "polos $50",
       "button shirts $55",
       "swim shorts $39",
-      "hats $34"
+      "hats $34",
+      "nav has NO new-arrivals collection despite the hero wording"
     ],
-    "note": "Self-audit anchor (v5.4 section B). Fetched every run. Season mismatch ('SPRING GEAR') flagged since 28/07 — day 3 on 30/07."
+    "note": "Self-audit anchor (v5.4 section B). Fetched every run. Season mismatch ('SPRING GEAR') flagged since 28/07 - day 4 on 31/07. Nav collections confirmed 31/07: mens-button-shirt, mens-polo, mens-swim-short, fishing-collection, fishing-polo, fishing-button-shirt, hunting-collection, hunting-polo, hunting-button-shirt, hat."
   },
   {
     "id": "duckcamp_hats",
@@ -378,11 +379,11 @@
     "id": "meta_ad_library_mcp",
     "url": "https://www.facebook.com/ads/library/",
     "type": "mcp_tool",
-    "observed_at": "2026-07-29",
+    "observed_at": "2026-07-31",
     "evidence": "Meta Ad Library (live)",
     "status": "LIVE_OK",
-    "last_ok": "2026-07-29",
-    "note": "mcp__MCP_Facebook_Ads__ads_library_search authorized and WORKING as of 29/07 (first successful run; previously unauthorized since 21/07). Matches on CREATIVE TEXT, not page name — brand lookups need a distinctive copy term, so a null result does NOT prove a brand is not advertising. Direct WebFetch of the Ad Library remains forbidden."
+    "last_ok": "2026-07-31",
+    "note": "mcp__MCP_Facebook_Ads__ads_library_search authorized and WORKING since 29/07. METHOD CORRECTION 31/07: the earlier note claimed it matches CREATIVE TEXT only and not page name, so empty results were treated as unknowable. Tested 31/07 - querying a brand name DOES return that brand's own page ads ('Howler Brothers', 'Tom Beckbe', 'Free Fly Apparel' all resolved). Results are mixed with unrelated pages, so filter on page_name. An empty brand query is now weak evidence of not advertising, not 'unknown'. Direct WebFetch of the Ad Library remains forbidden."
   },
   {
     "id": "gritfell_hats",
@@ -439,7 +440,7 @@
       "Breeze Pant $98",
       "Bamboo Shade Hoodie $54.99 (list $78)"
     ],
-    "note": "Rotation day T5."
+    "note": "Rotation day T5. | 31/07 (paid channel, Meta MCP): Free Fly IS running ads - '50% OFF dog-days essentials' created 22/07 and still active, plus a product carousel created 27/07 delivering from 28/07 (Bamboo Everyday Flex LS, Tradewind Short, Latitude Short, Bamboo Flex Pocket Tee). This resolves the 30/07 'inconclusive' entry: the discount is the hook in paid, not just on-site."
   },
   {
     "id": "dove_lane_new_entrants",
@@ -462,10 +463,108 @@
     "id": "shopify_connector",
     "url": "mcp__Shopify__get-shop-info",
     "type": "mcp_tool",
-    "observed_at": "2026-07-30",
+    "observed_at": "2026-07-31",
     "evidence": "INTERNAL_OBSERVED",
     "status": "WRONG_STORE",
     "last_ok": "2026-07-27",
-    "note": "Degradation log: 27/07 gritfell.com verified OK -> 28/07 returned 'Genus Faith' -> 29/07 tools absent from session -> 30/07 returns 'Gerbera Prints' (gerberaprints.com). Never call switch-shop in a scheduled session (guard). Needs a human to re-authorize and select the GritFell store. Fallback while broken = public self-audit, label OBSERVED_CURRENT."
+    "note": "Degradation log: 27/07 gritfell.com verified OK -> 28/07 'Genus Faith' -> 29/07 tools absent from session -> 30/07 'Gerbera Prints' -> 31/07 'Genus Faith' again (day 4 of no internal data). Never call switch-shop in a scheduled session (guard). Needs a human to re-authorize and select the GritFell store. Fallback while broken = public self-audit, label OBSERVED_CURRENT."
+  },
+  {
+    "id": "gritfell_all",
+    "url": "https://gritfell.com/collections/all",
+    "type": "official_site",
+    "observed_at": "2026-07-31",
+    "evidence": "OBSERVED_CURRENT",
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-31",
+    "facts": [
+      "90 products total (4 pages, all names read)",
+      "price band $34-$55",
+      "0/90 SKUs carry sale pricing (Sale price == Regular price on every item)",
+      "default sort Alphabetically A-Z",
+      "36 hats $34 (36 unique designs)",
+      "21 polos $50",
+      "20 button shirts $55",
+      "13 swim shorts $39",
+      "54 apparel SKUs are only 23 distinct designs replicated across 2-3 blanks",
+      "ZERO design names shared between the hat library and the apparel library"
+    ],
+    "note": "T6 rotation collection for the v5.4 self-audit. First complete catalogue sweep, 31/07. Hat-only designs incl The Mallard, Pintail Drake, Early Teal, Copper Tail Redfish, Rut Vigil, Turkey Camp, Pheasant Opener, Archery Elk, Topwater Strike and 8 breed-specific bird dogs; apparel-only designs incl Mallard Marsh, Marsh Flight, Bait Ball, Tuna Season, Buck Fever, Bluewater Run, Wild Sign. Use ?page=2..4 to page through. This page is the cheapest way to check inventory BEFORE proposing a new design idea."
+  },
+  {
+    "id": "howler_home",
+    "url": "https://howlerbros.com/",
+    "type": "official_site",
+    "observed_at": "2026-07-31",
+    "evidence": "OBSERVED_CURRENT",
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-31",
+    "facts": [
+      "dynamic cart-progress bar 'You're $59.00 away from free shipping'",
+      "free shipping $59+ = lowest threshold in the 11-brand radar",
+      "no discounting anywhere",
+      "hero 'The weekend's closer than you think. Time to gear up. Shop Surf & Swim' (summer, not fall)",
+      "Guayabera Shirt $145",
+      "H Bar B Tech Longsleeve $119",
+      "H Bar B Snapshirt $95",
+      "Loggerhead Hoodie $85",
+      "Horizon Walk Shorts $85",
+      "Emerger Tech Shirt $85",
+      "Deep Set Boardshorts $79",
+      "Ranchero Polo $75-85",
+      "Redfish Feedstore Snapback $35"
+    ],
+    "note": "Rotation day T6. Meta (31/07): ads active but newest creative created 09-10/07 - three weeks without new creative; hooks are bare product names."
+  },
+  {
+    "id": "tombeckbe_home",
+    "url": "https://tombeckbe.com/",
+    "type": "official_site",
+    "observed_at": "2026-07-31",
+    "evidence": "OBSERVED_CURRENT",
+    "status": "LIVE_OK",
+    "last_ok": "2026-07-31",
+    "facts": [
+      "banner 'Free Shipping on Orders Over $95 + Easy Returns'",
+      "hero 'Tom Beckbe x Ducks Unlimited', CTA 'Shop New Arrivals'",
+      "zero discounting",
+      "Women's Steward Jacket $495",
+      "DU Fowler Vest $495",
+      "Baldwin Jacket $425",
+      "Chatom Jacket $375",
+      "DU Double Timber Bag $375",
+      "Prescott Estate Twill Shirt $215",
+      "Reid Chino $195",
+      "BTT Boat Tote $195",
+      "Women's Tidewater Shirt $120",
+      "Cotton Trucker Hat $45"
+    ],
+    "note": "Rotation day T6. FIRST of the 11 rotation brands to lead with waterfowl/conservation in late July - corrects the carried claim '0/11 touching waterfowl' to '0/11 running opener-countdown creative'. Meta (31/07): creative created 24-25/07 pushing Tensaw and Baldwin jackets. Second independent precedent for conservation-collab-instead-of-discount after Free Fly x Trout Unlimited."
+  },
+  {
+    "id": "gulf_coast_report",
+    "url": "https://gulfcoastfishingreport.com/",
+    "type": "fishing_report",
+    "observed_at": "2026-07-31",
+    "evidence": "live",
+    "status": "LIVE_OK_STALE_CONTENT",
+    "last_ok": "2026-07-31",
+    "facts": [
+      "latest report period 25-26 July 2026 as of 31/07 (5 days without a new edition)"
+    ],
+    "note": "Page loads fine every day; the PUBLICATION is what lags. Not blocked, do not mark BLOCKED. Rule: when this and the NW FL index are both >=3 days stale, species signal must come from editorial (outdoorlife.com/fishing, fieldandstream.com/fishing)."
+  },
+  {
+    "id": "nwfl_report_index",
+    "url": "https://greatdaysoutdoors.com/category/fishing-report/northwest-florida-fishing-report/",
+    "type": "fishing_report",
+    "observed_at": "2026-07-31",
+    "evidence": "live",
+    "status": "LIVE_OK_STALE_CONTENT",
+    "last_ok": "2026-07-31",
+    "facts": [
+      "latest report period 10-16 July 2026 as of 31/07 (15 days without a new edition)"
+    ],
+    "note": "Page loads fine; publication cadence is the problem. Not blocked."
   }
 ]
