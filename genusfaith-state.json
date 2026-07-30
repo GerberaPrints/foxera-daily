@@ -1,40 +1,35 @@
 {
- "updated": "2026-07-30",
+ "updated": "2026-07-31",
  "oos_watch": {
   "feratia:eucharist-leather-handbag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-30",
-   "note": "day 13; rv 8 flat (RV-LAG: not readable as demand stop)"
+   "last_seen_oos": "2026-07-31",
+   "note": "day 14; rv 8 flat (RV-LAG a: not readable as demand stop). Unit <500 but number too small = noise"
   },
   "feratia:adora-circle-crossbody": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-30",
-   "note": "day 13; part of crossbody OOS wave"
-  },
-  "feratia:alaris-circle-crossbody": {
-   "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-30",
-   "note": "delist-watch day 3 UNRESOLVED: absent from crossbody collection (13 listed) but Sold Out on /all (both base + Offer). Today no header count shown so no comparison to yesterday's 14-vs-13. Close the watch 31/07 if still inconclusive"
+   "last_seen_oos": "2026-07-31",
+   "note": "day 14; part of crossbody OOS wave (10/13)"
   },
   "feratia:circle-crossbody-collection": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-07-30",
-   "note": "10 of 13 SOLD OUT day 12; in stock Regina/Rosaria/Gratia (identical to 29/07); New Arrivals still EMPTY"
+   "last_seen_oos": "2026-07-31",
+   "note": "10 of 13 SOLD OUT day 13; in stock Regina/Rosaria/Gratia (identical 4 days running); New Arrivals still EMPTY"
   },
   "blessac:tote-oos-wave": {
    "oos_since": "2026-07-22",
-   "last_seen_oos": "2026-07-30",
-   "note": "day 9: only carousel-level today (Poise/Redeem/Joyful/Pure Sold Out). Not enumerable from PDP - do a collection-level read next rotation"
+   "last_seen_oos": "2026-07-31",
+   "note": "day 10 - FIRST collection-level enumeration: 5 totes Sold Out (Serene/Presence/Poise/Waymaker/Lighthouse), 13 in stock. Handbag line 4 OOS (Poise/Redeem/Joyful/Pure). Crossbody line 0 OOS. Mini satchel 5 OOS"
   },
   "catholight:sacred-heart-of-grace-leather-bag": {
    "oos_since": "2026-07-22",
    "last_seen_oos": "2026-07-22",
-   "note": "not on /all first page or In-Stock collection 28-30/07 (inconclusive - 29 pages of pagination); recheck in rotation"
+   "note": "not seen in In-Stock collection 28-31/07 (24 SKU enumerated, all $89.95, 0 sold out). Inconclusive - deep pagination not readable. Recheck in rotation"
   },
   "beaheart-own:our-lady-belt-bag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-07-30",
-   "note": "OOS day 13 CONFIRMED direct read (rv 16, $47.99); still no waitlist offered"
+   "last_seen_oos": "2026-07-31",
+   "note": "OOS day 14 CONFIRMED direct read (rv 16 +0, $47.99); still no waitlist/notify offered"
   },
   "mannacovers:last-supper-bible-cover-small": {
    "oos_since": "2026-07-27",
@@ -43,8 +38,8 @@
   },
   "feratia:gratia-leather-handbag": {
    "oos_since": "2026-07-29",
-   "last_seen_oos": "2026-07-30",
-   "note": "OOS day 2. FLIP-FLOP #5 CONFIRMED (in stock exactly 1 day). rv 381 flat. Thin-batch behavior now FACT on both Albuquerque flagships"
+   "last_seen_oos": "2026-07-31",
+   "note": "OOS day 3 after flip-flop #5. rv 381 flat. Thin-batch behavior FACT"
   }
  },
  "badge_watch": {
@@ -52,13 +47,13 @@
    "badge": "Only a few left in stock!",
    "since": "2026-07-18",
    "rv_at_start": 75,
-   "note": "DECORATION confirmed (Rule 9 fired 25/07); day 13, rv 76 (+1/13d = within tolerance); watching only for reversal"
+   "note": "DECORATION confirmed (Rule 9 fired 25/07); day 14, rv 76 (+0 over 14 days = well within tolerance); watching only for reversal"
   },
   "beaheart-tcc:our-lady-belt-bag": {
    "badge": "Less than 10 remaining",
    "since": "2026-07-26",
    "rv_at_start": null,
-   "note": "day 5; not re-read today (own-site OOS read prioritised); Rule 9 checkpoint 02/08"
+   "note": "day 6; not re-read 31/07 (Venxara was the Friday satellite). Rule 9 checkpoint 02/08"
   }
  },
  "ideas": {
@@ -67,7 +62,7 @@
    "tier": "yellow",
    "last_promoted": "2026-07-19",
    "score": null,
-   "note": "yellow. Supply still starved 30/07: BeAHeart own OOS d13 FACT, Feratia crossbody 10/13 OOS d12, TCC badge d5. But frame is SELF-PURCHASE function-first $39.99-47.99 (S7) - not our gift frame. Competitor weakness = PEELING after 1 week. No spec"
+   "note": "yellow, STRENGTHENED 31/07 (still competitor behavior, not measured demand). First full Blessac enumeration: they run Circle Crossbody $49.47 (9 items, 0 OOS) AND Mini Satchel $49.47 (11 in stock, 5 OOS) - so BOTH Albuquerque operators run 4+ formats while GenusFaith runs 3. FACT. Rule 3 caution: this is a gap in OUR catalog, not an evidenced market gap. S7: this format sells in the SELF-PURCHASE/function frame $39.99-49.47, not our gift frame"
   },
   "assumption-art-lock": {
    "proposed": "2026-07-20",
@@ -88,7 +83,7 @@
    "tier": "yellow",
    "last_promoted": "2026-07-25",
    "score": 8.0,
-   "note": "yellow, score 8.0. STRENGTHENED 30/07: Manna full ladder now FACT (Large $90-95, Small $80-85, VEGAN leather) + Last Supper Small OOS day 4. NEW PRICING FINDING: our planned $39.95-44.95 sits BELOW every premium competitor => propose entry tier $49.95-59.95. NOT promoted to green - evidence is supply-side + 1 OOS SKU, no measurable demand. Rescue = 1 COGS number"
+   "note": "yellow, score 8.0. No new signal 31/07 (Manna is the Monday satellite). Entry-tier proposal holds at $49.95-59.95 (above our planned $39.95-44.95, below Manna $80-95 and inside Catholight MTO $49.95-59.00). Suggest supports axis: 'bible cover for women' #3, 'bible covers leather' #7. Still blocked on COGS (S6)"
   },
   "bundle-bag-wallet": {
    "proposed": "2026-07-18",
@@ -109,28 +104,28 @@
    "tier": "yellow",
    "last_promoted": null,
    "score": null,
-   "note": "30/07 SECOND independent tier-A support: suggest 'rosary cases in bulk' #3, on top of 'religious gifts for women in bulk' #10 (29/07). BeAHeart network still supply-constrained (own OOS d13). House of Joppa shows only an Affiliate Program in footer - no public wholesale portal seen (homepage-level). Test = 1 line-sheet email to 3 addresses"
+   "note": "31/07 THIRD independent tier-A confirmation: 'religious gifts for women in bulk' holds #10 in suggest 'catholic gifts for women' (also #3 'rosary cases in bulk' 30/07, #10 29/07). BeAHeart network still supply-constrained (own belt bag OOS day 14) => decent moment to pitch. Test = 1 line-sheet email to 3 addresses"
   },
   "guadalupana-flagship-sku": {
    "proposed": "2026-07-28",
-   "tier": "green",
+   "tier": "yellow",
    "last_promoted": "2026-07-28",
    "score": 8.4,
-   "note": "green DAY 3 - LAST DAY. No new signal 30/07 (neutral). AUTO-DEMOTE to yellow on 31/07 per Rule 6. Same-day 31/07 is also the Queenship 22/08 order-window close => one approval unlocks both. Smallest action = approve 1 Guadalupana art brief (pick visual direction + confirm N2-FIX-01 agave ban). Score 8.4 retained"
+   "note": "AUTO-DEMOTED green->yellow on 31/07 per Rule 6 (green since 28/07, day 4, no action taken). Score 8.4 RETAINED - the demotion is about approval, not quality. New signal 31/07 is NEUTRAL-to-negative: Venxara sells 'Our Lady of Guadalupe Handbag for Women' at $68.00, rv 2, IN STOCK, made-to-order 5-7d + 6-12d ship => the keyword is occupied and NOT supply-starved. Gap here is ART QUALITY, not price or availability. Queenship 22/08 order window closed 31/07. Rescue = approve ONE visual direction (Lux Moderna Marian OR Floral Catholic) + confirm agave ban. If nothing by 03/08, bury it like assumption-art-lock rather than let it occupy a slot"
   },
   "catholic-leather-wallet-listing": {
    "proposed": "2026-07-29",
    "tier": "yellow",
    "last_promoted": null,
    "score": 7.7,
-   "note": "yellow, score 7.7 (below green threshold). No new signal 30/07. Verdict holds: do listing/SEO, do NOT put ad spend behind it"
+   "note": "yellow, score 7.7 (below green threshold). No new signal 31/07. Verdict holds: do listing/SEO, do NOT put ad spend behind it"
   },
   "rosary-case-leather-RC": {
    "proposed": "2026-07-30",
    "tier": "red",
    "last_promoted": null,
    "score": null,
-   "note": "NEW 30/07, logged NOT scored. Tier-A intent: suggest 'rosary case leather' #9, 'for women' #5, 'in bulk' #3. FAILS design-arb GATE 1 (needs a small leather pouch/zip-case blank we do not have). OPEN QUESTION FOR USER (2nd blank question after magsafe): does the current supplier offer a small leather pouch blank? If yes, gate 1 opens and RC- becomes a brief same-day"
+   "note": "red, blocked at GATE 1 (needs a small leather pouch/zip-case blank). OPEN QUESTION FOR USER still unanswered as of 31/07 (day 2). Tier-A intent is real. One 'yes' turns this into a same-day brief"
   }
  },
  "blocked_sources": {
@@ -147,14 +142,20 @@
   "amazon-search-pages": {
    "since": "2026-07-29",
    "retry": "daily",
-   "last_try": "2026-07-30",
-   "note": "ROBOTS_DISALLOWED day 2 (29+30/07) - watch whether permanent"
+   "last_try": "2026-07-31",
+   "note": "ROBOTS_DISALLOWED day 3 (29+30+31/07). Starting to look permanent rather than transient. Keep daily retry one more week then move to weekly"
   },
   "catholight-new-collection-slug": {
    "since": "2026-07-30",
    "retry": "weekly",
    "last_try": "2026-07-30",
-   "note": "/collections/new-collection returns 404 - slug guess wrong; find real slug from nav on next read"
+   "note": "/collections/new-collection returns 404 - slug guess wrong. Not retried 31/07. Find the real slug from site nav on the next Catholight read; 'Sacred Devotion Collection' fingerprint stays UNCONFIRMED"
+  },
+  "suggestqueries-google-shell": {
+   "since": "2026-07-31",
+   "retry": "n/a - WORKAROUND FOUND",
+   "last_try": "2026-07-31",
+   "note": "NEW 31/07: bash curl to suggestqueries.google.com returns 403 'Host not in allowlist' = sandbox EGRESS block, not a Google block. WORKAROUND VERIFIED SAME DAY: WebFetch on the same URL returns the raw JSON fine. Suggest remains a tier-A source. Relevant to ALL FoxEra bots - do not report this as a lost source."
   }
  },
  "trend_watch": {
@@ -162,8 +163,8 @@
    "first_seen": "2026-07-24",
    "source": "websearch+press",
    "status": "emerging",
-   "last_checked": "2026-07-30",
-   "note": "Gen-Z aesthetic; press adds Woke Waves 25/07 (lace veils, rosaries styled into outfits; no purchasing behavior); still NO commercial bag signal; persona bridge = gift daughter->mom/grandma; auto-dead 07/08 if no commercial signal | 29/07 no new signal | 30/07 no new signal",
+   "last_checked": "2026-07-31",
+   "note": "Gen-Z aesthetic; press adds Woke Waves 25/07 (lace veils, rosaries styled into outfits; no purchasing behavior); still NO commercial bag signal; persona bridge = gift daughter->mom/grandma; auto-dead 07/08 if no commercial signal | 29/07 no new signal | 30/07 no new signal | 31/07 no new signal (day 8 with no commercial signal) - auto-dead 07/08 stands",
    "source_tier": "C",
    "earliness": "mid"
   },
@@ -171,8 +172,8 @@
    "first_seen": "2026-07-24",
    "source": "websearch",
    "status": "emerging",
-   "last_checked": "2026-07-30",
-   "note": "28/07: discover cluster still surfacing in query; no new info beyond 25/07 (@catholight_usdaily owned account); still emerging (their media, not a demand trend for us) | 30/07 no new signal",
+   "last_checked": "2026-07-31",
+   "note": "28/07: discover cluster still surfacing in query; no new info beyond 25/07 (@catholight_usdaily owned account); still emerging (their media, not a demand trend for us) | 30/07 no new signal | 31/07 no new signal",
    "source_tier": "B",
    "earliness": "mid"
   },
@@ -180,8 +181,8 @@
    "first_seen": "2026-07-24",
    "source": "websearch",
    "status": "commercial",
-   "last_checked": "2026-07-30",
-   "note": "COMMERCIAL. 29/07 new OBS: TikTok Shop has a 'bible tote bags' category page + generic scripture tote products = real commercial channel, but stock there is Protestant generic-verse, not premium Catholic leather. Does not touch our moat | 30/07 no new signal",
+   "last_checked": "2026-07-31",
+   "note": "COMMERCIAL. 29/07 new OBS: TikTok Shop has a 'bible tote bags' category page + generic scripture tote products = real commercial channel, but stock there is Protestant generic-verse, not premium Catholic leather. Does not touch our moat | 30/07 no new signal | 31/07 WebSearch confirms the surrounding content is canvas totes + Hosanna Revival Bibles, Protestant aesthetic, cheap tier - still does not touch our leather moat",
    "source_tier": "B",
    "earliness": "mid"
   },
@@ -189,8 +190,8 @@
    "first_seen": "2026-07-24",
    "source": "press",
    "status": "emerging",
-   "last_checked": "2026-07-30",
-   "note": "Walops: named creators ~100K-2.9M followers; '68% French converts credit YT/IG/TikTok' (3rd party, unverified); principle for organic content only - NO influencer names in ads | 30/07 no new signal",
+   "last_checked": "2026-07-31",
+   "note": "Walops: named creators ~100K-2.9M followers; '68% French converts credit YT/IG/TikTok' (3rd party, unverified); principle for organic content only - NO influencer names in ads | 30/07 no new signal | 31/07 no new signal",
    "source_tier": "C",
    "earliness": "mid"
   },
@@ -200,8 +201,8 @@
    "source_tier": "B",
    "earliness": "mid",
    "status": "commercial",
-   "last_checked": "2026-07-30",
-   "note": "30/07 STATUS CHANGE emerging->COMMERCIAL, earliness early->mid. Commercial evidence: TikTok Shop PDPs (rosary purse charm, bible bag charm, Personalizable Catholic Bag Charm gold-plated keychain, Christian Cross pearl+diamond charm) + TikTok discover pages + Etsy auto-generated >=5 market pages = sellers already poured in. COUNTER-EVIDENCE: mainstream host trend is TIER D (WhoWhatWear/Elle/Numero/Yahoo 2026 listicles) => generic arbitrage window CLOSED. All observed supply is metal/resin/keychain $11.99-14.99, mostly Christian-generic; premium REAL-LEATHER Catholic slot still unoccupied but it is now an art-competition play, not an arbitrage play. Manna charm has 1 review = no measurable demand at this tier"
+   "last_checked": "2026-07-31",
+   "note": "30/07 STATUS CHANGE emerging->COMMERCIAL, earliness early->mid. Commercial evidence: TikTok Shop PDPs (rosary purse charm, bible bag charm, Personalizable Catholic Bag Charm gold-plated keychain, Christian Cross pearl+diamond charm) + TikTok discover pages + Etsy auto-generated >=5 market pages = sellers already poured in. COUNTER-EVIDENCE: mainstream host trend is TIER D (WhoWhatWear/Elle/Numero/Yahoo 2026 listicles) => generic arbitrage window CLOSED. All observed supply is metal/resin/keychain $11.99-14.99, mostly Christian-generic; premium REAL-LEATHER Catholic slot still unoccupied but it is now an art-competition play, not an arbitrage play. Manna charm has 1 review = no measurable demand at this tier | 31/07 no new signal; stays OUT of the arbitrage lane"
   },
   "catholic-bag-scarf": {
    "first_seen": "2026-07-29",
@@ -209,8 +210,17 @@
    "source_tier": "A",
    "earliness": "early",
    "status": "emerging",
-   "last_checked": "2026-07-30",
-   "note": "30/07: holds #8 in suggest 'catholic bag' (tier A, day 2). Still FAILS design-arb GATE 1 (scarf is not an existing leather blank). Watch only; auto-dead 12/08"
+   "last_checked": "2026-07-31",
+   "note": "31/07: holds #8 in suggest 'catholic bag' (tier A, day 3). Still FAILS design-arb GATE 1 (scarf is not an existing leather blank). Watch only; auto-dead 12/08"
+  },
+  "church-bag-wimb-video-format": {
+   "first_seen": "2026-07-31",
+   "source": "websearch",
+   "source_tier": "B",
+   "earliness": "mid",
+   "status": "emerging",
+   "last_checked": "2026-07-31",
+   "note": "NOT a product/aesthetic trend - a native VIDEO FORMAT: 'pack my tote bag with me for church' / what's-in-my-bag, hashtags #biblestudybag #biblebag #churchbag #christiangiftideas. Observed goods in those clips are canvas totes + Hosanna Revival Bibles (Protestant, cheap) => NOT demand evidence for our SKU (Rule 10). Value is production technique only: hands + contents + macro texture, no model, no face, no voice, no influencer name, no ship claim => fully TM-safe and near-zero cost. Applied as the LT- video angle 31/07"
   }
  },
  "offer_fingerprints": {
@@ -222,19 +232,20 @@
   "albuquerque:summer26-coupon": {
    "value": "SUMMER26 -50to60%",
    "first_seen": "2026-07-14",
-   "last_confirmed": "2026-07-30",
-   "note": "30/07 observed depth: Feratia ~60%, Blessac ~55% (S2: record FINAL price only, do NOT read as price war)"
+   "last_confirmed": "2026-07-31",
+   "note": "31/07 observed final prices: Feratia LH $57.18 / crossbody $43.98; Blessac LH $64.32 / tote $59.37 / crossbody $49.47 / satchel $49.47; Afroyla -$71.47 on $142.95. S2: FINAL prices only, do NOT read as a price war"
   },
   "catholight:instock-ship-claim": {
-   "value": "AZ, USA... 4-6 days | In-Stock collection: page says 21 products, enumerates 24; ZERO sold out",
+   "value": "Ships from USA; Free Shipping on Orders $200+; In-Stock collection header says 20 products across 2 pages but enumerates 24, ZERO sold out",
    "first_seen": "2026-07-20",
-   "last_confirmed": "2026-07-30"
+   "last_confirmed": "2026-07-31",
+   "note": "header count drifted 21->20 while the enumeration stayed 24 => theme counting bug, NOT a catalog change. Do not report as a signal"
   },
   "afroyla:bogo-sitewide": {
-   "value": "REMOVED - replaced by SUMMER26 -50%",
+   "value": "Buy 1 Get 1 Free - add any 2 items, lower-priced item free at checkout; applies to Top Grain too",
    "first_seen": "2026-07-21",
-   "last_confirmed": "2026-07-27",
-   "note": "CHANGE CONFIRMED 30/07: not observed 2 consecutive days (29+30/07). Now treated as a real offer change, not a read miss"
+   "last_confirmed": "2026-07-31",
+   "note": "CORRECTION 31/07: the 30/07 'BOGO REMOVED' change-alert was WRONG. Read directly on the Godfidence PDP today, BOGO is intact and was never removed - 29+30/07 were homepage-level reads that simply did not surface it. RULE LEARNED: never declare an offer removed on homepage-level reads alone; confirm at PDP level."
   },
   "catholight:mto-bible-cover-line": {
    "value": "24 SKU $49.95-59.00; MTO 10-15d making + up to 7d delivery",
@@ -256,7 +267,7 @@
   "catholight:buy1get2-free": {
    "value": "BUY 1 GET 2 FREE collection; terms line still says 'Buy 1 Get 1... not eligible with other discount code' (self-inconsistent); Free Shipping $200+",
    "first_seen": "2026-07-29",
-   "last_confirmed": "2026-07-30"
+   "last_confirmed": "2026-07-31"
   },
   "catholight:sacred-devotion-collection": {
    "value": "NEW LINE 4 SKU $89.95: Marian Garden, Eucharistic Bloom, Sacred Vineyard, Marian Dove",
@@ -286,6 +297,24 @@
    "first_seen": "2026-07-30",
    "last_confirmed": "2026-07-30",
    "note": "first fingerprint - baseline. NO bags/wallets in catalog; jewelry $34-64"
+  },
+  "blessac:full-format-ladder": {
+   "value": "LH $142.95->64.32 (4 OOS) | Tote $131.95->59.37 (5 OOS) | Circle Crossbody $109.95->49.47 (0 OOS) | Mini Satchel $109.95->49.47 (5 OOS); shop widget 1006 reviews / 183 followers; 'Ship From USA' '4-6 Days Delivery' Goodyear AZ '30-Day Easy Returns'",
+   "first_seen": "2026-07-31",
+   "last_confirmed": "2026-07-31",
+   "note": "FIRST full enumeration - baseline, do NOT report as a change"
+  },
+  "venxara:guadalupe-handbag": {
+   "value": "$68.00, rv_listing 2, IN STOCK, no badge, no coupon; custom made-on-demand 5-7d production + 6-12d shipping; 'arrive by regular post within 2-4 weeks'; refund if not received in 45 days",
+   "first_seen": "2026-07-31",
+   "last_confirmed": "2026-07-31",
+   "note": "FIRST fingerprint - baseline. Most direct competitor on the Guadalupana keyword. Publishes a slow delivery schedule just like ours and still sells => our 12-22 day truth is not disqualifying"
+  },
+  "etsy:catholic-leather-layer": {
+   "value": "SuperMiniStudio Virgin Mary PU Leather Tote $59.90 (anchor $119.80) rv_listing 6 / rv_shop 919, 4.8k shop sales, Star Seller, ships CN, delivery Aug 13-14 | Marchstyle Catholic Leather Handbag or Wallet $30.45 (anchor $40.60) rv_listing 1 / rv_shop 377, 1.3k shop sales, 5 yrs, ships CN, 7-21d processing + 10-20d shipping = 20-41 days",
+   "first_seen": "2026-07-31",
+   "last_confirmed": "2026-07-31",
+   "note": "FIRST Etsy measurement point. Confirms Rule 8 twice over with independent samples (6 vs 919; 1 vs 377). Structural read: the Etsy layer of this niche is China-shipped PU at $30-60 with 20-41 day delivery => we do not compete on price there, but we are FASTER. Measurement points #2 and #3 due 07/08 and 14/08 before any velocity claim (S1)"
   }
  },
  "design_arb": {
@@ -301,7 +330,7 @@
    "tier": "charm",
    "board": "tiktok-fb",
    "status": "brief",
-   "note": "30/07 DOWNGRADED OUT OF THE ARBITRAGE LANE. All 4 gates still pass, but earliness early->mid (tier-D host listicles + >=5 Etsy market pages + TikTok Shop PDPs) => Rule 12 bars it from design-arbitrage. New verdict = ordinary listing/SEO play, NO ad spend (same as LW-). Extra caution: Manna charm tier has 1 review = zero measurable demand. GATE 3 numeric 30/07: Meta 'Fashion accessories' id 6003348604581 = 978.2M-1.15B GLOBAL. Video angle unchanged (charm swing + leather grain light-run, hook 'Devotion small enough to carry daily'). Review 07/08 -> dropped if no brief approved"
+   "note": "30/07 DOWNGRADED OUT OF THE ARBITRAGE LANE. All 4 gates still pass, but earliness early->mid (tier-D host listicles + >=5 Etsy market pages + TikTok Shop PDPs) => Rule 12 bars it from design-arbitrage. New verdict = ordinary listing/SEO play, NO ad spend (same as LW-). Extra caution: Manna charm tier has 1 review = zero measurable demand. GATE 3 numeric 30/07: Meta 'Fashion accessories' id 6003348604581 = 978.2M-1.15B GLOBAL. Video angle unchanged (charm swing + leather grain light-run, hook 'Devotion small enough to carry daily'). Review 07/08 -> dropped if no brief approved | 31/07 unchanged, still out of the lane. Review 07/08 -> dropped if no brief approved"
   },
   "catholic-magsafe-phone-wallet": {
    "trend": "catholic-bag-charm",
@@ -315,7 +344,7 @@
    "tier": "LW-",
    "board": "tiktok-fb",
    "status": "dropped",
-   "note": "Tier-A intent strong (suggest 'catholic wallet' #7 phone wallet, #8 magsafe wallet) but GATE 1 FAILS: needs a new card-holder + magnet blank. OPEN QUESTION FOR USER: does the current supplier offer a magsafe card-holder blank? If yes, gate 1 opens immediately and this becomes a brief"
+   "note": "Tier-A intent strong (suggest 'catholic wallet' #7 phone wallet, #8 magsafe wallet) but GATE 1 FAILS: needs a new card-holder + magnet blank. OPEN QUESTION FOR USER: does the current supplier offer a magsafe card-holder blank? If yes, gate 1 opens immediately and this becomes a brief | 31/07: user question still unanswered (day 2)"
   },
   "catholic-leather-rosary-case": {
    "trend": "rosary-case-suggest",
@@ -329,7 +358,7 @@
    "tier": "pouch",
    "board": "tiktok-fb",
    "status": "dropped",
-   "note": "GATE 1 FAILS: needs a small leather pouch/zip-case blank not in the current LH-/LT-/LW-/BC- range. Tier-A intent is real (suggest 'rosary case leather' #9, 'for women' #5, 'in bulk' #3 - the bulk one also feeds B2B). OPEN QUESTION FOR USER: does the supplier offer a small leather pouch blank? If yes gate 1 opens immediately"
+   "note": "GATE 1 FAILS: needs a small leather pouch/zip-case blank not in the current LH-/LT-/LW-/BC- range. Tier-A intent is real (suggest 'rosary case leather' #9, 'for women' #5, 'in bulk' #3 - the bulk one also feeds B2B). OPEN QUESTION FOR USER: does the supplier offer a small leather pouch blank? If yes gate 1 opens immediately | 31/07: user question still unanswered (day 1)"
   }
  },
  "suggest_baseline": {
@@ -346,8 +375,8 @@
     "baguio catholic church",
     "bagshot catholic church"
    ],
-   "last_checked": "2026-07-30",
-   "note": "30/07: top-3 UNCHANGED, charm holds #2 DAY 3, scarf holds #8. Tail #9/#10 are church-name noise"
+   "last_checked": "2026-07-31",
+   "note": "31/07: top-3 UNCHANGED; 'catholic bag charm' holds #2 DAY 4; 'catholic bag scarf' holds #8 DAY 3. Tail is church-name noise. Read via WebFetch (shell curl now 403)"
   },
   "guadalupe purse": {
    "top": [
@@ -386,10 +415,12 @@
    "top": [
     "Handbags id=6003198476967 413.4M-486.1M global",
     "Wallet(accessory) id=6003343542656 54.4M-64.0M global",
-    "Fashion accessories id=6003348604581 978.2M-1150.4M global"
+    "Fashion accessories id=6003348604581 978.2M-1150.4M global",
+    "Tote bag -> EMPTY data (31/07)",
+    "Purses -> noise: art museum 98.0-115.2M + Coach Inc 669.4-787.2K (31/07)"
    ],
-   "last_checked": "2026-07-30",
-   "note": "Religion targeting REMOVED by Meta (tested 28/07) - product axis only. estimate_audience_size BLOCKED until 2026-08-03 (Pipeboard 3-account/month); try once weekly from then with act_491997713840919. All figures GLOBAL, not US"
+   "last_checked": "2026-07-31",
+   "note": "31/07: narrow product axes are ALSO dead (Tote bag empty, Purses noise). Only 3 usable axes remain, all GLOBAL not US. Religion targeting removed by Meta (28/07). STRATEGIC CONSEQUENCE CONFIRMED: GenusFaith's Meta lane must be BROAD + creative-led - the ART does the targeting. estimate_audience_size BLOCKED until 2026-08-03 (Pipeboard 3-account/month); then try ONCE weekly with act_491997713840919"
   },
   "catholic wallet": {
    "top": [
@@ -430,11 +461,13 @@
     "catholic gifts for women under $15",
     "catholic gifts for women etsy",
     "religious gifts for women",
+    "religious gifts for women nearby",
+    "religious gifts for women amazon",
     "religious gifts for women under $10",
     "religious gifts for women in bulk"
    ],
-   "last_checked": "2026-07-29",
-   "note": "NEW 29/07: the ONLY price modifiers are under $15 / under $10 => REJECTS premium-price read of this broad cluster; #10 'in bulk' supports B2B lane"
+   "last_checked": "2026-07-31",
+   "note": "31/07 re-read, structure UNCHANGED. Only price modifiers remain 'under $15'/'under $10' => still REJECTS a premium read of this broad cluster. '...in bulk' at #10 = 3rd independent tier-A support for the B2B lane"
   },
   "mass bag": {
    "top": [
@@ -467,6 +500,15 @@
    ],
    "last_checked": "2026-07-30",
    "note": "NEW 30/07. #9 'leather' = tier-A leather intent at accessory tier; #3 'in bulk' = B2B signal #2; #5 'for women'. #4+#10 DIY. Men (#2) ranks above women (#5) - mixed persona"
+  },
+  "first communion gift for mom": {
+   "top": [
+    "first communion gifts precious moments",
+    "do you give a gift for first communion",
+    "what to gift on first communion"
+   ],
+   "last_checked": "2026-07-31",
+   "note": "NEW 31/07 - NEGATIVE finding, only 3 suggestions and NONE mention mothers. Intent is 'should I gift at all', aimed at the child. Logged in rejected. Scan the Confirmation axis instead"
   }
  },
  "account_health": {
@@ -474,14 +516,15 @@
    "name": "01. GenusFaith",
    "status": "ACTIVE",
    "reason": "",
-   "last_checked": "2026-07-30"
+   "last_checked": "2026-07-31"
   },
   "act_1803150516844674": {
    "name": "07. GenusFaith",
    "status": "DISABLED",
    "reason": "Your ad account was flagged because of unusual activity. All your ads have been paused. To restart them, contact Facebook to confirm your account information.",
-   "last_checked": "2026-07-30"
-  }
+   "last_checked": "2026-07-31"
+  },
+  "_note": "31/07 NO STATUS CHANGE on either GenusFaith account => not reported per Rule 4h. Wider context (not GenusFaith): FoxWears021 + FoxWears023 also DISABLED with identical verbatim reason; 3 'TK - Error Billing' accounts UNSETTLED"
  },
  "rejected": [
   {
@@ -513,6 +556,41 @@
    "date": "2026-07-30",
    "claim": "Bac gia BC- $39.95-44.95 la dung voi thi truong",
    "why": "Manna giu $80-95 bang VEGAN leather va Catholight $49.95-59.00 voi nut that MTO 10-15 ngay; phoi DA that + art Cong giao dang tu dinh gia thap. De xuat $49.95-59.95"
+  },
+  {
+   "date": "2026-07-31",
+   "claim": "First Communion la cua qua huong toi NGUOI ME (mua tui cho me nhan dip con rung le lan dau)",
+   "why": "tier-A Google Suggest 'first communion gift for mom' chi tra ve 3 goi y va KHONG cai nao ve me: 'first communion gifts precious moments', 'do you give a gift for first communion', 'what to gift on first communion'. Y dinh that la phan van CO NEN tang cho DUA TRE hay khong. Khong dung SKU xuan quanh truc nay; quet truc Confirmation thay the"
   }
- ]
+ ],
+ "closed_watches": {
+  "feratia:alaris-circle-crossbody": {
+   "closed": "2026-07-31",
+   "days": 4,
+   "verdict": "CLOSED as agreed on 31/07. Alaris absent from crossbody collection (13 items) 4 days running, but still present on /all as Sold Out (base + Offer). Decisive detail: 10 OTHER Sold Out crossbodies ARE still displayed inside the collection => the disappearance is NOT stock-driven; it is a deliberate collection removal (INFERENCE, not FACT - a tag error cannot be excluded). Do not track further unless Alaris reappears."
+  }
+ },
+ "design_arb_daily_result": {
+  "date": "2026-07-31",
+  "candidates_passing_all_4_gates": 0,
+  "reason": "Both still-early trends (catholic-bag-scarf, and the rosary-case/magsafe intents) fail GATE 1 art-translatable because they require a blank we do not have. The one trend that IS art-translatable (catholic-bag-charm) has fallen to earliness=mid (tier-D listicles + TikTok Shop PDPs + >=5 Etsy market pages) so Rule 12 bars it from the arbitrage lane. No idea invented to fill the quota.",
+  "usable_output": "Video angle only, for an EXISTING SKU (LT-): 'pack my bag for church' texture-in-motion, hook 'Everything she carries to Mass', organic TikTok/FB only (no paid - $135 tier fails Rule 11 gate 3)."
+ },
+ "open_questions_for_user": {
+  "1_small_leather_pouch_blank": {
+   "asked": "2026-07-30",
+   "status": "unanswered",
+   "unlocks": "rosary-case-leather-RC brief same-day"
+  },
+  "2_magsafe_card_holder_blank": {
+   "asked": "2026-07-29",
+   "status": "unanswered",
+   "unlocks": "catholic-magsafe-phone-wallet brief same-day"
+  },
+  "3_cogs_one_sku": {
+   "asked": "2026-07-31",
+   "status": "unanswered",
+   "unlocks": "S6 - lifts every proposal above 'exploratory'; currently NOTHING can be called scalable"
+  }
+ }
 }
