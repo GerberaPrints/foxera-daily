@@ -588,5 +588,35 @@
   ],
   "owner_periods_ngan": {
     "E-roster 'Ngân'": "T1-T5/2026 = Ngân Trần (T5 user chốt 31/07 theo nghi vấn) · T6-T7 = Ngân Huỳnh"
+  },
+  "scan_conflicts_2026-07-31": {
+    "public_active_but_registry_sus": [
+      "E48",
+      "E77",
+      "E107",
+      "E127",
+      "E146",
+      "E150",
+      "E155",
+      "E185",
+      "E190"
+    ],
+    "note": "Quet local browser 31/07: 9 shop SUS hien trang active (sales an). 2 gia thuyet: (a) Etsy mo lai, (b) vo public chua go. Cho team login xac nhan qua ban tin 06:10. KHONG tu doi status.",
+    "matched_not_selling": [
+      "E169",
+      "E114",
+      "E109",
+      "E84",
+      "E47",
+      "E1",
+      "E85",
+      "E93",
+      "E92",
+      "E55",
+      "E62",
+      "E188",
+      "E172",
+      "E61"
+    ]
   }
 }
