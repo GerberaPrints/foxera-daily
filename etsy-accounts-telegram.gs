@@ -1,7 +1,10 @@
 /************************************************************************
- * ACCOUNTS → TELEGRAM v5.2 — file BỔ SUNG cho project "FoxEra - Etsy Order Tracking"
+ * ACCOUNTS → TELEGRAM v5.3 — file BỔ SUNG cho project "FoxEra - Etsy Order Tracking"
  * (dán ĐÈ AccountsTelegram.gs; tương thích scorecard v2.30+)
  *
+ * v5.3 (31/07 đêm — API v2.32): phân loại theo x.regStatus (LIVE|SUS|SUS_NEW)
+ *   thay vì regex shopStatus (status thô của sàn — lý do đếm '0 SUS NEW');
+ *   bank từ x.bank; ownerless=true -> mục ⏳ CHỜ PHÂN CÔNG.
  * v5.2 (31/07 đêm — quy tắc MỘT ĐỒNG HỒ của Hub): action từ accScorecardJSON()
  *   là CHUẨN phân nhóm — 🔴 chỉ khi action bắt đầu ⚡/🚨/⛔/❓; ✅/🌱 luôn 🟢
  *   bất kể P của Cloud. P daily.json chỉ in THAM KHẢO. daily.json cũ >24h
@@ -78,12 +81,20 @@ function accTg_rows_(){
             sales: accTg_num_(x.sales),
             orders: accTg_num_(x.orders) != null ? accTg_num_(x.orders) : accTg_num_(x.o90),
             lossUsd: accTg_num_(x.lossUsd),
-            stateRaw: stateRaw, cls: accTg_state_(stateRaw),
+            stateRaw: stateRaw,
+            reg: String(x.regStatus || '').toUpperCase(),
+            ownerless: !!x.ownerless,
+            cls: (function(reg, raw){
+              if (reg === 'SUS_NEW') return 'susnew';
+              if (reg === 'SUS') return 'sus';
+              if (reg === 'LIVE') return 'live';
+              return accTg_state_(raw);   // fallback khi file chính < v2.32
+            })(String(x.regStatus || '').toUpperCase(), stateRaw),
             act: String(x.action || ''),
             d1S: accTg_num_(x.d1Sales), d7S: accTg_num_(x.d7Sales),
             d1R: accTg_num_(x.d1Reviews), d7R: accTg_num_(x.d7Reviews),
             listings: accTg_num_(x.listings), d1L: accTg_num_(x.d1Listings), d7L: accTg_num_(x.d7Listings),
-            bank: /bank\s*ok/i.test(stateRaw) ? 'OK' : (/bank\s*no/i.test(stateRaw) ? 'NO' : ''),
+            bank: String(x.bank || '').toUpperCase() || (/bank\s*ok/i.test(stateRaw) ? 'OK' : (/bank\s*no/i.test(stateRaw) ? 'NO' : '')),
             seller: String(x.seller || x.owner || ''), why: String(x.why||'')
           };
         });
@@ -131,7 +142,7 @@ function accTg_build_(){
   var ar = accTg_actions_(), acts = ar.mp, prev = accTg_prev_();
   var dstr = Utilities.formatDate(new Date(), 'Asia/Bangkok', 'dd/MM');
   var URGENT = /^\s*(⚡|🚨|⛔|❓)/, WATCH = /^\s*(🔧|📈|⏳|🪧|💬)/, CLOSED = /🗂/;
-  var alerts = [], urgent = [], watch = [], healthy = [], closedSus = 0, closedNew = 0;
+  var alerts = [], urgent = [], watch = [], healthy = [], pending = [], closedSus = 0, closedNew = 0;
 
   rows.forEach(function(a){
     var p = prev[a.code];
@@ -140,7 +151,11 @@ function accTg_build_(){
       alerts.push('P1 🔴 <b>'+a.code+'</b> vừa rơi ĐÌNH CHỈ hôm nay!');
     if (a.cls === 'susnew') { closedNew++; return; }
     if (CLOSED.test(a.act)) { closedSus++; return; }
-    if (a.cls === 'sus') { if (URGENT.test(a.act)) urgent.push(a); else closedSus++; return; }
+    if (a.cls === 'sus') {
+      if (URGENT.test(a.act)) { (a.ownerless ? pending : urgent).push(a); } else closedSus++;
+      return;
+    }
+    if (a.ownerless && (URGENT.test(a.act) || WATCH.test(a.act))) { pending.push(a); return; }
     if (URGENT.test(a.act)) { urgent.push(a); return; }
     if (WATCH.test(a.act)) { watch.push(a); return; }
     healthy.push(a);   // ✅/🌱/khác -> 🟢 bất kể P Cloud (quy tắc một-đồng-hồ)
@@ -157,6 +172,7 @@ function accTg_build_(){
   if (watch.length) parts.push('<b>🟡 THEO DÕI ('+watch.length+')</b>' + NL + watch.map(function(a){ return accTg_line_(a, acts, ar.stale); }).join(NL));
   var hS=0,hR=0,hL=0;
   healthy.forEach(function(a){ hS+=(a.d7S||0); hR+=(a.d7R||0); hL+=(a.d7L||0); });
+  if (pending.length) parts.push('<b>⏳ CHỜ PHÂN CÔNG ('+pending.length+')</b> — có việc nhưng CHƯA CÓ NGƯỜI QUẢN LÝ:' + NL + pending.map(function(a){ return accTg_line_(a, acts, ar.stale); }).join(NL));
   if (healthy.length) parts.push('<b>🟢 KHỎE ('+healthy.length+')</b>: Σ +'+hS+' sale · +'+hR+' rv · +'+hL+' lst /7d — không cần đụng');
   if (closedSus + closedNew) parts.push('<b>🗂️ ĐÓNG SỔ ('+(closedSus+closedNew)+')</b>: '+closedNew+' SUS NEW + '+closedSus+' SUS — danh sách cố định, chỉ báo khi có biến');
 

@@ -84,6 +84,8 @@ Không truy vấn owner lịch sử nữa. Trường duy nhất đáng quan tâm
 
 12. (31/07 đêm) User chốt: 21 account vô chủ (20 '(chuyển team TT)' + 1 '(?)') ghi nhãn **'chưa có người quản lý'** — trạng thái chính thức, không gán bừa; Hub hiển thị nhãn này thay ghi chú; việc nhóm này vào 'chờ phân công'. Cloud đã ghi registry key `unmanaged_accounts` + `cohort_environment` (chuẩn so môi trường = first-sale cohort: Năng 4/10 · Dâng 1/14 · Minh 1/13 · Ly 0/10 — chống đọc nhầm từ bảng gộp).
 
+13. (31/07 khuya) CLOUD ack v2.32.0: bot v5.3 đã phân loại theo `regStatus` (LIVE/SUS/SUS_NEW), `bank` từ field, `ownerless=true` → mục ⏳ CHỜ PHÂN CÔNG riêng trong bản tin. Hết lỗi '0 SUS NEW'. E244 đã có link đúng = MorbixLab (user gửi) — hết cặp trùng SnurbiNest, Hub bỏ note nhân đôi.
+
 ## Việc mở
 0. **Hub v2.29.x**: map `action` + `priority` + `top_issue` từ foxera-accounts-daily.json vào cột **'Đề xuất (Claude)'** trong sheet 🏪 Accounts (contract đã mở rộng fields) — để đề xuất từng account hiện ngay trong hệ thống, team không cần lật Telegram.
 1. User gửi thêm: 2 mã SUS NEW thiếu · bảng so sánh setup Năng06 vs Ly09 (→ Cloud chạy phân tích tương quan môi trường).
