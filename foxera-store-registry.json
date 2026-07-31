@@ -1041,5 +1041,18 @@
       "shop": "torvexa"
     }
   },
-  "operator_policy": "User chot 31/07: KHONG truy van owner lich su. Truong quan trong duy nhat = nguoi van hanh HIEN TAI (current_operator); nhan su thay doi lien tuc la binh thuong. Account chua gan ai = 'chua co nguoi dam nhan' — la TRANG THAI HOP LE, khong phai gap can hoi. Lich su chi giu cho phan bo don/loss theo thoi ky (OWNER_PERIODS phia Hub)."
+  "operator_policy": "User chot 31/07: KHONG truy van owner lich su. Truong quan trong duy nhat = nguoi van hanh HIEN TAI (current_operator); nhan su thay doi lien tuc la binh thuong. Account chua gan ai = 'chua co nguoi dam nhan' — la TRANG THAI HOP LE, khong phai gap can hoi. Lich su chi giu cho phan bo don/loss theo thoi ky (OWNER_PERIODS phia Hub).",
+  "unmanaged_accounts": {
+    "label": "chưa có người quản lý",
+    "note": "User chốt 31/07: nhóm '(chuyển team TT)' (~20 account đang sống) + 1 account '(?)' = CHƯA CÓ NGƯỜI QUẢN LÝ — ghi đúng trạng thái này, không gán bừa. Danh sách mã cụ thể theo Store Links phía Hub; hệ quả vận hành: không ai list/không ai nhận cảnh báo cho nhóm này đến khi được gán — bản tin xếp việc của nhóm vào 'chờ phân công'."
+  },
+  "cohort_environment": {
+    "note": "CHUẨN so sánh môi trường (chống đọc nhầm từ bảng gộp): CHỈ tính account ĐÃ CHẠM FIRST SALE (đã kích hoạt review). Account 0 đơn 'sống' vì chưa bị phơi ra trước Etsy, không phải vì vận hành tốt.",
+    "survival_first_sale_cohort": {
+      "Năng Phan": "4/10",
+      "Dâng Trần": "1/14",
+      "Minh Huỳnh": "1/13",
+      "Ly Nguyễn": "0/10"
+    }
+  }
 }

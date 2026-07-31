@@ -173,3 +173,5 @@ GAS bound-script của Sheet CRM (v2.26.0+) TỰ fetch shop-page Etsy 04:30 và 
 - (31/07 tối) Khi history.jsonl ≥2 ngày: routine ghi delta_listings_7d / delta_sales_7d / delta_reviews_7d vào scores[] — Hub SUM theo seller cho trục khối lượng thật (listing lên sàn, không chỉ Trello).
 
 ## LUẬT 26 — OPERATOR HIỆN TẠI (user chốt 31/07): routine không hỏi/không flag owner lịch sử. Mỗi account chỉ mang current_operator; trống = 'chưa có người đảm nhận' (hợp lệ). Đề xuất giao việc theo current_operator; account không người đảm nhận → việc rơi vào nhóm 'chờ phân công' trong bản tin thay vì gán bừa.
+
+- (Luật 26 bổ sung 31/07) Nhóm 'chưa có người quản lý' ((chuyển team TT) + (?)) là trạng thái chính thức; việc của nhóm này vào mục 'chờ phân công'. CHUẨN phân tích môi trường = cohort first-sale (Năng 4/10 · Dâng 1/14 · Minh 1/13 · Ly 0/10) — KHÔNG đọc tỷ lệ sống từ bảng gộp có account 0 đơn.

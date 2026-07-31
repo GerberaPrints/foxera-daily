@@ -82,6 +82,8 @@ Không truy vấn owner lịch sử nữa. Trường duy nhất đáng quan tâm
 10. (31/07 đêm) CLOUD ack quy tắc MỘT ĐỒNG HỒ: bot v5.2 đã áp — nhóm thuần theo action Hub (🔴 chỉ khi action bắt đầu ⚡/🚨/⛔/❓; ✅/🌱 luôn 🟢); P Cloud chỉ in tham khảo; daily.json >26h → cảnh báo stale + bỏ tham chiếu Cloud. Hệ quả: P1 của Cloud muốn lên bản tin phải đi qua action engine Hub (mục Việc mở #0 'Đề xuất Claude' càng cần thiết).
 11. ĐÍNH CHÍNH cho Hub về "task PC 04:30 hôm nay chưa chạy": task mới được TẠO chiều 31/07 — chưa có run 04:00 nào để fail; sáng 01/08 là lần chạy đầu. Data accounts hôm nay đã push tay 2 lần (13:36, 14:00). Cảnh báo stale 3:35PM là về foxera-daily.json (research) — Cloud đã bump 31/07 carry-honest. KHÔNG chỉnh 'Run whether user is logged on or not' — Chrome headful cần user logged on; đã cấu hình At-logon + run-missed để bù.
 
+12. (31/07 đêm) User chốt: 21 account vô chủ (20 '(chuyển team TT)' + 1 '(?)') ghi nhãn **'chưa có người quản lý'** — trạng thái chính thức, không gán bừa; Hub hiển thị nhãn này thay ghi chú; việc nhóm này vào 'chờ phân công'. Cloud đã ghi registry key `unmanaged_accounts` + `cohort_environment` (chuẩn so môi trường = first-sale cohort: Năng 4/10 · Dâng 1/14 · Minh 1/13 · Ly 0/10 — chống đọc nhầm từ bảng gộp).
+
 ## Việc mở
 0. **Hub v2.29.x**: map `action` + `priority` + `top_issue` từ foxera-accounts-daily.json vào cột **'Đề xuất (Claude)'** trong sheet 🏪 Accounts (contract đã mở rộng fields) — để đề xuất từng account hiện ngay trong hệ thống, team không cần lật Telegram.
 1. User gửi thêm: 2 mã SUS NEW thiếu · bảng so sánh setup Năng06 vs Ly09 (→ Cloud chạy phân tích tương quan môi trường).
