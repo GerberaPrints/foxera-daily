@@ -163,3 +163,8 @@ GAS bound-script của Sheet CRM (v2.26.0+) TỰ fetch shop-page Etsy 04:30 và 
 - Sự thật kỹ thuật: GAS bị Etsy 429 (chặn dải IP Google) · Cloud bị PROVENANCE_REQUIRED (không fetch, không lách). MẮT DUY NHẤT = browser thật máy user qua local-verify/verify_shops.py v2 (tự merge sales/rating/reviews/listings/shopStatus/checkedAt vào foxera-accounts-daily.json rồi user push).
 - Routine 04:30: KHÔNG thử fetch Etsy. Việc của routine = kiểm tra shops-live.json/daily JSON: checkedAt ≤7 ngày → dùng làm tầng live; cũ hơn → carry, ghi rõ mốc. Nếu shopStatus mới mâu thuẫn registry (vd registry LIVE mà quét ra not_selling) → alert P1 (luật 23-2) + cập nhật registry kèm ngày.
 - Hub đọc foxera-accounts-daily.json qua raw URL làm nguồn external (contract: external_fetch_contract trong JSON). Cloud là người MERGE và gác chất lượng, không phải người fetch.
+
+## LUẬT 25 — TĂNG TRƯỞNG THEO ACCOUNT (chốt 31/07)
+- Nguồn: local-verify/foxera-shops-history.jsonl (mỗi lần quét append 1 dòng/shop: date, status, sales, rating, reviews, listings).
+- Routine 04:30 tính Δ1d và Δ7d cho sales/reviews/rating từng account → ghi vào scores[] (delta_sales_7d, delta_reviews_7d, delta_rating_7d) và bản tin hiện ▲/▼. Cần ≥2 ngày data mới có Δ — KHÔNG suy tăng trưởng từ nguồn không đồng nhất (số report tay ≠ số quét browser, ví dụ E193 460 vs 1160 là 2 hệ đếm khác nhau, không được trừ cho nhau).
+- Đề xuất account viết lại MỖI NGÀY dựa trên: trạng thái registry + số quét mới nhất + Δ tăng trưởng + loss nội bộ (Hub). Rating giảm ≥0.1 hoặc reviews tăng mà rating giảm = cờ chất lượng sản phẩm → P1/P2 tùy mức.

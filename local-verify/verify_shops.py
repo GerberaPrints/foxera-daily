@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-LOCAL-VERIFY SHOPS v6 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
+LOCAL-VERIFY SHOPS v7 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
 v3: chống bot-wall (Chrome thật + profile lưu cookie + ẩn webdriver);
 gặp captcha thì DỪNG CHỜ bạn giải tay trong cửa sổ rồi bấm Enter — giải 1 lần, cookie nhớ.
 (GAS bị Etsy chặn 429 · Cloud bị chặn PROVENANCE — chỉ browser thật trên MÁY BẠN quét được)
@@ -187,6 +187,12 @@ async def main():
     payload = {"project": "foxera", "verified_at": date.today().isoformat(),
                "provenance": "live_local_browser", "shops": sorted(old.values(), key=lambda x: x["code"])}
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    # v7: append lịch sử — mỗi shop 1 dòng JSON mỗi lần quét => tính được tăng trưởng sales/reviews/rating theo ngày
+    hist = OUT.parent / "foxera-shops-history.jsonl"
+    with open(hist, "a", encoding="utf-8") as hf:
+        for rec2 in results:
+            hf.write(json.dumps({"d": date.today().isoformat(), **{k: rec2.get(k) for k in
+                ("code","status","sales","rating","reviews","listings") if rec2.get(k) is not None}}, ensure_ascii=False) + "\n")
     merge_daily(list(old.values()))
     print(f"\nĐã ghi {OUT.name} ({len(old)} shop). Nhớ: git add -A && git commit && git push")
 
