@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-LOCAL-VERIFY SHOPS v3 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
+LOCAL-VERIFY SHOPS v4 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
 v3: chống bot-wall (Chrome thật + profile lưu cookie + ẩn webdriver);
 gặp captcha thì DỪNG CHỜ bạn giải tay trong cửa sổ rồi bấm Enter — giải 1 lần, cookie nhớ.
 (GAS bị Etsy chặn 429 · Cloud bị chặn PROVENANCE — chỉ browser thật trên MÁY BẠN quét được)
@@ -147,8 +147,18 @@ async def main():
             results.append(rec)
             print(f"[{i}/{len(targets)}] {acc['code']} {acc['shop']}: {rec.get('status')} "
                   f"sales={rec.get('sales','-')} rating={rec.get('rating','-')}")
-            await page.wait_for_timeout(random.randint(3500, 6500))
-        await ctx.close()
+            if str(rec.get("status","")).startswith("error:TargetClosed"):
+                print(">>> Cửa sổ Chrome đã bị ĐÓNG — dừng quét, lưu phần đã có. (Lần sau: đừng đóng cửa sổ; giải captcha xong quay lại đây bấm Enter)")
+                break
+            try:
+                await page.wait_for_timeout(random.randint(3500, 6500))
+            except Exception:
+                print(">>> Cửa sổ Chrome đã bị ĐÓNG — dừng quét, lưu phần đã có.")
+                break
+        try:
+            await ctx.close()
+        except Exception:
+            pass
     # merge với record cũ nếu quét 1 phần
     old = {}
     if OUT.exists():
