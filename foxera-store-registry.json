@@ -497,7 +497,7 @@
     "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
     "E185 đổi chủ giữa snapshot (Năng06 -> Ly09) — chờ xác nhận owner thật",
     "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
-    "Link dot 4 (31/07): +5 (E167,E150,E147,E136,E131; ma moi: E131, E136, E147, E167). THIEU LINK con lai: E195, E181, E173, E125, E78 (E125/E78 ma moi chua co ten -> chua quet duoc; E119/E93/E92 da co ten tu truoc nen van quet binh thuong)"
+    "THIEU LINK con lai (31/07 cuoi ngay): E195, E181, E173, E78 — 4 ma mu cuoi cung (E92 co ten NoviForm nen van quet)"
   ],
   "seller_emails": {
     "Seller01": {
@@ -866,6 +866,18 @@
     "E131": {
       "url": "https://koryvexa.etsy.com",
       "shop": "koryvexa"
+    },
+    "E125": {
+      "url": "https://zelvoryx.etsy.com",
+      "shop": "zelvoryx"
+    },
+    "E119": {
+      "url": "https://zyvorexa.etsy.com",
+      "shop": "zyvorexa"
+    },
+    "E93": {
+      "url": "https://www.etsy.com/shop/Arvyno",
+      "shop": "Arvyno"
     }
   }
 }
