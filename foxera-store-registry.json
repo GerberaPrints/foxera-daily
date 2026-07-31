@@ -465,12 +465,14 @@
   "data_quality_flags": [
     "E254 xuất hiện 2 lần trong SUS NEW (Tường Vy VÀ Hoài Thu) — cần chốt thuộc ai (Hoài Thu có thể là E255/E258 gõ nhầm?)",
     "SUS NEW ghi TỔNG 37 nhưng liệt kê 36 dòng / 35 mã duy nhất — thiếu 1-2 mã so với tiêu đề",
-    "'Thúy Ngân' không xác định được là Ngân Trần (nghỉ 15/06) hay Ngân Huỳnh (nghỉ 24/07) — cả 2 đã nghỉ, E267 mồ côi",
     "Nguồn gõ 'VERY BANK' — hiểu là VERIFY BANK; 'E150Elvarixo' thiếu dấu gạch — đã chuẩn hoá E150-Elvarixo",
     "Cả 22 shop SUS đều NOT FIX, hạn TIME FIX 20/07/2026 đã QUÁ 11 ngày (0/22 xử lý)",
     "4 store LIVE của Năng Phan (E42,E43,E81,E80) + 1 SUS-bank-NO của Nga Phạm... — chủ đã nghỉ 30/06 → cần bàn giao người mới",
     "Email đúng chính tả gốc: seller02foxeraA (2 chữ a), seller13.foxera (có dấu chấm) — map login phải dùng nguyên văn",
-    "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò"
+    "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
+    "E267 'Thúy Ngân': vẫn chưa rõ Trần/Huỳnh (câu riêng, khác câu T5 đã chốt)",
+    "E185 đổi chủ giữa snapshot (Năng06 -> Ly09) — chờ xác nhận owner thật",
+    "SUS NEW tổng 37 vs 36 dòng + E254 trùng: user sẽ gửi data bổ sung — flag giữ nguyên chờ"
   ],
   "seller_emails": {
     "Seller01": {
@@ -522,5 +524,70 @@
       "since": "2026-07-08",
       "note": "User xác nhận 31/07: account Hạnh Lâm bàn giao Tuấn Nguyễn ngày 8/7 — khớp PERSON_TRANSFERS của Hub. Đơn/hành động trước 08/07 tính Hạnh Lâm, từ 08/07 tính Tuấn Nguyễn."
     }
-  ]
+  ],
+  "sus_timeline": {
+    "_note": "sus_window = khoảng giữa 2 snapshot mà account rơi LIVE→SUS. Nguồn: 6 snapshot 16,18,22,25,28,30/07.",
+    "E155": {
+      "first_order": "2026-07-15",
+      "sus_window": "15-16/07",
+      "days_to_kill": "~1"
+    },
+    "E190": {
+      "first_order": "2026-07-15",
+      "sus_window": "15-16/07",
+      "days_to_kill": "~1"
+    },
+    "E47": {
+      "sus_window": "17-18/07",
+      "bank": "OK"
+    },
+    "E48": {
+      "sus_window": "19-22/07",
+      "bank": "OK",
+      "live_from": "2026-04-29"
+    },
+    "E109": {
+      "sus_window": "19-22/07",
+      "bank": "OK"
+    },
+    "E107": {
+      "first_order": "2026-07-25",
+      "sus_window": "25/07",
+      "days_to_kill": "0"
+    },
+    "E77": {
+      "first_order": "2026-07-26",
+      "sus_window": "26-28/07",
+      "days_to_kill": "~1-2"
+    },
+    "E185": {
+      "sus_window": "26-28/07",
+      "bank": "NO->OK (22/07)",
+      "owner_conflict": "Năng-Seller06 (16-25/07) -> Ly-Seller09 (28/07+) — CHỜ XÁC NHẬN ai thật"
+    },
+    "E114": {
+      "sus_window": "28-30/07",
+      "bank": "OK",
+      "live_from": "2026-05-25"
+    },
+    "E150": {
+      "first_order": "2026-07-28",
+      "sus_window": "28-30/07",
+      "days_to_kill": "~1-2",
+      "bank": "NO"
+    },
+    "E169": {
+      "sus_window": "28-30/07",
+      "bank": "OK"
+    }
+  },
+  "death_mechanisms": [
+    "1. FIRST SALE = công tắc review: fo trên account bank NO -> chết 0-2 ngày (E155,E190,E107,E77,E150). Quy tắc: bank chưa verify thì KHÔNG cho nhận đơn (vacation mode).",
+    "2. ASSOCIATION SWEEP sau deadline 20/07: 6 account bank OK sống lâu (E47,E48,E109,E185,E114,E169) chết dần 22->30/07 vì cụm chứa 16 account bank NO quá hạn không fix. Quy tắc: quá deadline không fix -> ĐÓNG chủ động, không để treo làm mồi liên đới.",
+    "3. SUS NEW 37 = chết tầng danh tính (dải mã liền E195-E208/E232-E240/E243-E256, chặn ngay onboarding) -> lỗi môi trường tạo account (fingerprint/proxy/email-phone), không phải hành vi bán.",
+    "Tỷ lệ sống theo seller: Năng06 40% · Dâng01 7% · Minh02 8% · Ly09 0% -> biến số ở môi trường/quy trình từng seller; profile seller09 coi như đã bị đánh dấu, NGỪNG dùng tạo mới."
+  ],
+  "owner_periods_ngan": {
+    "E-roster 'Ngân'": "T1-T5/2026 = Ngân Trần (T5 user chốt 31/07 theo nghi vấn) · T6-T7 = Ngân Huỳnh"
+  }
 }

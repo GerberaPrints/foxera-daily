@@ -152,3 +152,9 @@ GAS bound-script của Sheet CRM (v2.26.0+) TỰ fetch shop-page Etsy 04:30 và 
 - Bàn giao theo thời kỳ: Hạnh Lâm→Tuấn Nguyễn từ 08/07/2026; 'Ngân' = Ngân Trần T1-T4, Ngân Huỳnh T6-T7 (T5 chưa chốt). Số trước mốc tính người cũ, sau mốc tính người mới.
 - Thang ưu tiên SUS (chuẩn v1.0): SUS + bank NO = P1 🔴 · SUS + bank OK = P2 🟠 · SUS NEW chủ đã nghỉ = P2 🟠 (bàn giao) · SUS NEW chủ đang làm = P3 🟡 · LIVE = P4 🟢.
 - Data quality: KHÔNG lấp gap bằng đoán — flag treo trong registry.data_quality_flags (E254 trùng 2 chủ, tổng 37≠36 dòng, 'Thúy Ngân' chưa rõ ai) và hỏi user; chỉ xoá flag khi user chốt.
+
+## LUẬT 23 — CƠ CHẾ CHẾT ACCOUNT (chốt 31/07 từ timeline 16-30/07) — routine daily PHẢI canh 4 điều
+1. First sale trên account bank NO = kích hoạt review, chết 0-2 ngày → alert P1 nếu phát hiện account bank NO có đơn đầu.
+2. Liên đới cụm: account bank OK vẫn chết dần khi cụm chứa account vi phạm quá hạn → alert P1 khi 1 account tier A/LIVE rơi SUS mà bank OK (dấu hiệu sweep đang lan).
+3. SUS NEW = chết tầng danh tính (môi trường tạo account) → không tính là lỗi vận hành seller khi chấm điểm người.
+4. Tỷ lệ sống theo seller là chỉ số theo dõi hằng ngày (Năng06 40% vs Ly09 0%); 'Ngân' roster: T1-T5 = Ngân Trần (T5 đã chốt), T6-T7 = Ngân Huỳnh. Treo: E254, E267 Thúy Ngân, tổng SUS NEW 37 (user sẽ gửi thêm data), E185 owner conflict.

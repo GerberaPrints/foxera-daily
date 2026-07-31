@@ -95,7 +95,7 @@
       "sales_public": 3,
       "listings": 77,
       "top_issue": "LIVE (first order 2026-05-11, bank OK) · chua cat canh",
-      "action": "gop hoac dung lam shop test niche moi",
+      "action": "gop hoac dung lam shop test niche moi | LIVE giua song lien doi: khong tao them account tu cung moi truong; giu bank/thong tin sach; theo doi daily",
       "likert": 3,
       "priority": "P3"
     },
@@ -138,7 +138,7 @@
       "sales_public": 3,
       "listings": 43,
       "top_issue": "LIVE (first order 2026-06-08, bank OK) · khong discount -> vo hinh",
-      "action": "bat discount 25-40% hoac buong (quyet trong 2 tuan)",
+      "action": "bat discount 25-40% hoac buong (quyet trong 2 tuan) | LIVE giua song lien doi: khong tao them account tu cung moi truong; giu bank/thong tin sach; theo doi daily",
       "likert": 2,
       "priority": "P3"
     },
@@ -151,7 +151,7 @@
       "sales_public": 1,
       "listings": 43,
       "top_issue": "LIVE (first order 2026-05-31, bank OK) · khong discount -> vo hinh",
-      "action": "nhu E43",
+      "action": "nhu E43 | LIVE giua song lien doi: khong tao them account tu cung moi truong; giu bank/thong tin sach; theo doi daily",
       "likert": 2,
       "priority": "P3"
     },
@@ -429,7 +429,7 @@
       "score": 10,
       "likert": 1,
       "status": "suspended",
-      "top_issue": "SUS co don (first order 2026-07-05) · bank OK",
+      "top_issue": "SUS co don (first order 2026-07-05) · bank OK · OWNER CONFLICT Nang06->Ly09 cho xac nhan",
       "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "priority": "P2",
       "seller": "Ly Nguyễn",
@@ -442,7 +442,7 @@
       "score": 10,
       "likert": 1,
       "status": "suspended",
-      "top_issue": "SUS co don (first order 2026-07-28) · bank NO",
+      "top_issue": "CHET NHANH: fo 28/07 bank NO -> SUS trong ~1-2 ngay (first-sale trigger)",
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Minh Huỳnh",
@@ -450,5 +450,11 @@
     }
   ],
   "standard": "FoxEra Status Color Coding & Rating Standards v1.0 (31/07/2026): Likert chat luong 1-5 (CAO=tot; band 1.5/2.5/3.5/4.5; mau 1#DC2626 2#F97316 3#FACC15 4#22C55E 5#15803D); khan cap P1-P4 (P1=xu ly NGAY); lead priority 1-4. Quy tac: doc MAU truoc, so chi co nghia trong thang cua no; khong so so giua 2 thang.",
-  "registry_note": "foxera-store-registry.json = nguồn chuẩn store→seller→status (LIVE/SUS/SUS-NEW, bank verify, fix deadline). Cap nhat 31/07."
+  "registry_note": "foxera-store-registry.json = nguồn chuẩn store→seller→status (LIVE/SUS/SUS-NEW, bank verify, fix deadline). Cap nhat 31/07.",
+  "ops_rules": [
+    "Bank NO -> vacation mode, khong nhan first sale",
+    "Qua deadline fix -> dong chu dong (chong lien doi)",
+    "Dong bang tao account moi den khi so sanh setup Nang06 vs Ly09",
+    "Profile seller09: ngung dung tao account moi"
+  ]
 }
