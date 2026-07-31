@@ -97,7 +97,8 @@
       "code": "E172",
       "shop": "Aurelinx",
       "url": "https://www.etsy.com/shop/Aurelinx",
-      "status": "not_selling",
+      "status": "active",
+      "on_sale": false,
       "verified_at": "2026-07-31"
     },
     {
@@ -112,7 +113,8 @@
       "code": "E188",
       "shop": "Elorianestudio",
       "url": "https://www.etsy.com/shop/Elorianestudio",
-      "status": "not_selling",
+      "status": "active",
+      "on_sale": false,
       "verified_at": "2026-07-31"
     },
     {
@@ -234,7 +236,8 @@
       "code": "E61",
       "shop": "WillowPeakStudio",
       "url": "https://www.etsy.com/shop/WillowPeakStudio",
-      "status": "not_selling",
+      "status": "active",
+      "on_sale": false,
       "verified_at": "2026-07-31"
     },
     {

@@ -386,7 +386,7 @@
       "priority": "P1",
       "seller": "Dâng Trần",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
+      "shopStatus": "active",
       "checkedAt": "2026-07-31",
       "fetch_provenance": "live_local_browser"
     },
@@ -402,7 +402,7 @@
       "priority": "P1",
       "seller": "Nga Phạm",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
+      "shopStatus": "active",
       "checkedAt": "2026-07-31",
       "fetch_provenance": "live_local_browser"
     },
@@ -434,7 +434,7 @@
       "priority": "P1",
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
+      "shopStatus": "active",
       "checkedAt": "2026-07-31",
       "fetch_provenance": "live_local_browser"
     },
