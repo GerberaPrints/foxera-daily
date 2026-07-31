@@ -495,7 +495,7 @@
     "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
     "E185 đổi chủ giữa snapshot (Năng06 -> Ly09) — chờ xác nhận owner thật",
     "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
-    "THIEU LINK con lai: E181, E173, E78 — 3 ma mu cuoi (31/07 23h)"
+    "31/07 23h: LINK PHU KIN 100% — khong con ma mu. store_links_extra + roster + registry = toan bo ma da biet deu quet duoc tu 04:00 mai."
   ],
   "seller_emails": {
     "Seller01": {
@@ -880,6 +880,18 @@
     "E195": {
       "url": "https://www.etsy.com/shop/OrvantaArtStudio",
       "shop": "OrvantaArtStudio"
+    },
+    "E181": {
+      "url": "https://zynorqel.etsy.com",
+      "shop": "Zynorqel"
+    },
+    "E173": {
+      "url": "https://xavelyn.etsy.com",
+      "shop": "Xavelyn"
+    },
+    "E78": {
+      "url": "https://nayqo.etsy.com",
+      "shop": "NAYQO"
     }
   }
 }
