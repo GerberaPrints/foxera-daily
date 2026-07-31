@@ -421,6 +421,19 @@
         "E201",
         "E239",
         "E240"
+      ],
+      "shops": {
+        "E196": "ElvoraDesignHouse",
+        "E197": "VeltronaWorkshop",
+        "E198": "NovarynCreations",
+        "E199": "SolvaneCollective",
+        "E200": "ArvelloCrafted",
+        "E201": "LumetraDesigns",
+        "E239": "OrvynCraftStudio",
+        "E240": "NexoraDesignLab"
+      },
+      "missing_link": [
+        "E195"
       ]
     },
     {
@@ -477,7 +490,8 @@
     "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
     "E185 đổi chủ giữa snapshot (Năng06 -> Ly09) — chờ xác nhận owner thật",
     "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
-    "14 link user bo sung 31/07; 9 ma MOI chua co trong registry (owner/status chua ro): E35, E66, E100, E133, E137, E138, E152, E163, E189 — cho user/Ly Nguyen bo sung owner+status; 2 trong so nay co the la 2 ma SUS NEW thieu (37 vs 35) — KHONG tu suy"
+    "14 link user bo sung 31/07; 9 ma MOI chua co trong registry (owner/status chua ro): E35, E66, E100, E133, E137, E138, E152, E163, E189 — cho user/Ly Nguyen bo sung owner+status; 2 trong so nay co the la 2 ma SUS NEW thieu (37 vs 35) — KHONG tu suy",
+    "Dot link 2 (31/07): +10 link (nhom Truong Dang co ten shop); E195 user de TRONG link — cho bo sung; ma moi chua ro owner: E187, E288"
   ],
   "seller_emails": {
     "Seller01": {
@@ -690,6 +704,46 @@
     "E35": {
       "url": "https://artiswovencrafts.etsy.com",
       "shop": "artiswovencrafts"
+    },
+    "E288": {
+      "url": "https://aeromintstudio.etsy.com",
+      "shop": "aeromintstudio"
+    },
+    "E240": {
+      "url": "https://www.etsy.com/shop/NexoraDesignLab",
+      "shop": "NexoraDesignLab"
+    },
+    "E239": {
+      "url": "https://www.etsy.com/shop/OrvynCraftStudio",
+      "shop": "OrvynCraftStudio"
+    },
+    "E201": {
+      "url": "https://www.etsy.com/shop/LumetraDesigns",
+      "shop": "LumetraDesigns"
+    },
+    "E200": {
+      "url": "https://www.etsy.com/shop/ArvelloCrafted",
+      "shop": "ArvelloCrafted"
+    },
+    "E199": {
+      "url": "https://www.etsy.com/shop/SolvaneCollective",
+      "shop": "SolvaneCollective"
+    },
+    "E198": {
+      "url": "https://www.etsy.com/shop/NovarynCreations",
+      "shop": "NovarynCreations"
+    },
+    "E197": {
+      "url": "https://www.etsy.com/shop/VeltronaWorkshop",
+      "shop": "VeltronaWorkshop"
+    },
+    "E196": {
+      "url": "https://www.etsy.com/shop/ElvoraDesignHouse",
+      "shop": "ElvoraDesignHouse"
+    },
+    "E187": {
+      "url": "https://lumestoryco.etsy.com",
+      "shop": "lumestoryco"
     }
   }
 }
