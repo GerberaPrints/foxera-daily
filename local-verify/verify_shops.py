@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-LOCAL-VERIFY SHOPS v2 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
+LOCAL-VERIFY SHOPS v3 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
+v3: chống bot-wall (Chrome thật + profile lưu cookie + ẩn webdriver);
+gặp captcha thì DỪNG CHỜ bạn giải tay trong cửa sổ rồi bấm Enter — giải 1 lần, cookie nhớ.
 (GAS bị Etsy chặn 429 · Cloud bị chặn PROVENANCE — chỉ browser thật trên MÁY BẠN quét được)
 
 Nguồn danh sách: foxera-accounts.json + foxera-store-registry.json (live + sus_with_sales).
@@ -27,6 +29,11 @@ ROSTER = ROOT / "foxera-accounts.json"
 REGISTRY = ROOT / "foxera-store-registry.json"
 DAILY = ROOT / "foxera-accounts-daily.json"
 OUT = Path(__file__).resolve().parent / "foxera-shops-live.json"
+PROFILE = Path(__file__).resolve().parent / ".pw-profile"   # cookie/captcha lưu ở đây giữa các lần chạy
+
+def is_botwall(low):
+    return ("captcha" in low or "datadome" in low or "verify you are a human" in low
+            or "unusual activity" in low) and "sales" not in low
 
 def load_targets():
     seen, out = set(), []
@@ -56,12 +63,17 @@ async def scrape_shop(page, acc):
         await page.wait_for_timeout(2500)
         html = await page.content()
         low = html.lower()
+        if is_botwall(low):
+            print(">>> CAPTCHA/bot-wall tại", acc["code"], "— GIẢI TAY trong cửa sổ Chrome, xong quay lại đây bấm Enter...")
+            input()
+            await page.wait_for_timeout(1500)
+            html = await page.content(); low = html.lower()
+            if is_botwall(low):
+                rec["status"] = "error:captcha"; return rec
         if "currently not selling" in low:
             rec["status"] = "not_selling"; return rec
         if "taking a short break" in low:
             rec["status"] = "on_break"; return rec
-        if "captcha" in low and "sales" not in low:
-            rec["status"] = "error:captcha"; return rec
         rec["status"] = "active"
         m = re.search(r'([\d,.]+)\s*Sales', html, re.I)
         if m: rec["sales"] = int(re.sub(r"[^\d]", "", m.group(1)))
@@ -109,16 +121,34 @@ async def main():
     print(f"Quét {len(targets)} shop (roster + registry)...")
     results = []
     async with async_playwright() as pw:
-        browser = await pw.chromium.launch(headless=False)  # headful giảm captcha
-        ctx = await browser.new_context(locale="en-US")
-        page = await ctx.new_page()
+        # Chrome THẬT + profile bền (cookie/captcha nhớ giữa các lần) + ẩn dấu automation
+        args = ["--disable-blink-features=AutomationControlled"]
+        try:
+            ctx = await pw.chromium.launch_persistent_context(str(PROFILE), headless=False,
+                    channel="chrome", args=args, locale="en-US",
+                    viewport={"width": 1280, "height": 850})
+        except Exception:
+            print("(Không thấy Chrome cài sẵn — dùng Chromium)")
+            ctx = await pw.chromium.launch_persistent_context(str(PROFILE), headless=False,
+                    args=args, locale="en-US", viewport={"width": 1280, "height": 850})
+        await ctx.add_init_script("Object.defineProperty(navigator,'webdriver',{get:()=>undefined})")
+        page = ctx.pages[0] if ctx.pages else await ctx.new_page()
+        # Khởi động ấm: vào trang chủ Etsy trước, nếu dính wall thì giải 1 lần tại đây
+        try:
+            await page.goto("https://www.etsy.com/", wait_until="domcontentloaded", timeout=45000)
+            await page.wait_for_timeout(2500)
+            if is_botwall((await page.content()).lower()):
+                print(">>> Bot-wall ngay trang chủ — GIẢI TAY trong cửa sổ Chrome rồi bấm Enter...")
+                input()
+        except Exception as e:
+            print("warm-up skip:", e)
         for i, acc in enumerate(targets, 1):
             rec = await scrape_shop(page, acc)
             results.append(rec)
             print(f"[{i}/{len(targets)}] {acc['code']} {acc['shop']}: {rec.get('status')} "
                   f"sales={rec.get('sales','-')} rating={rec.get('rating','-')}")
-            await page.wait_for_timeout(random.randint(3000, 5500))
-        await browser.close()
+            await page.wait_for_timeout(random.randint(3500, 6500))
+        await ctx.close()
     # merge với record cũ nếu quét 1 phần
     old = {}
     if OUT.exists():
