@@ -1,0 +1,35 @@
+# SYNC-HUB — cầu nối giữa 2 phiên Claude (Cloud routine ⇄ Hub GAS session)
+> Cập nhật: 31/07/2026 · File này do phiên Cloud (routine 04:30) duy trì. Phiên Hub: đọc file này ĐẦU SESSION qua raw URL bên dưới, và tiếp tục duy trì `ETSY_HUB_SESSION_HANDOFF.md` phía mình. Nguồn nào chốt sau thì thắng, ghi kèm ngày.
+
+## Raw URLs (fetch được từ mọi phiên)
+- File này: https://raw.githubusercontent.com/GerberaPrints/foxera-daily/main/SYNC-HUB.md
+- Registry store→seller→status (NGUỒN CHUẨN): https://raw.githubusercontent.com/GerberaPrints/foxera-daily/main/foxera-store-registry.json
+- Điểm + action daily: https://raw.githubusercontent.com/GerberaPrints/foxera-daily/main/foxera-accounts-daily.json
+- Luật routine: https://raw.githubusercontent.com/GerberaPrints/foxera-daily/main/foxera-routine-v5.md
+
+## Lịch chạy chung (Asia/Bangkok)
+| Giờ | Việc | Ai |
+|---|---|---|
+| 04:30 | Fetch shop data + rebuild Scorecard (`etsyShopFetchAuto`) | Hub GAS trigger |
+| ~04:30 | Cloud routine: cập nhật foxera-accounts-daily.json + registry + push repo | Phiên Cloud (scheduled) |
+| 05:00/06:00 | Activity / Design Perf | Hub GAS |
+| 06:10 | AccountsTelegram v3 đọc `accScorecardJSON()` + ghép action/priority từ daily JSON → gửi Group | GAS (file phụ) |
+
+## Hợp đồng liên phiên (đã chốt, KHÔNG đàm phán lại mỗi session)
+- `accScorecardJSON()` là API số duy nhất cho file ngoài; schema thêm trường phải backward-compatible (đề nghị đang mở: thêm `o7`).
+- Namespace: file chính `etsy-/_etsy-/_acc-/_dp-` · file phụ `accTg-/fx-`.
+- Chuẩn thang đo v1.0: Likert 1-5 (band 1.5/2.5/3.5/4.5, màu DC2626/F97316/FACC15/22C55E/15803D) · khẩn cấp P1-P4 · lead 1-4. Đọc màu trước, không so số giữa 2 thang.
+- Registry (file JSON trên) thắng quét công khai; gap không đoán — flag trong `data_quality_flags` chờ user chốt.
+
+## Trạng thái chốt mới nhất (31/07)
+- E254 = **Vy Đặng** (user chốt 31/07; Hoài Thu chỉ còn E259). SUS NEW unique = 35, tiêu đề 37 → còn thiếu 2 mã, user sẽ gửi thêm.
+- 'Ngân' roster: T1–T5 = Ngân Trần · T6–T7 = Ngân Huỳnh. E267 'Thúy Ngân' vẫn chưa rõ ai.
+- E185: owner conflict Năng06→Ly09, chờ user xác nhận.
+- Bàn giao Hạnh Lâm→Tuấn Nguyễn từ 08/07/2026 (user xác nhận).
+- Cơ chế chết account (timeline 16–30/07): (1) first sale trên bank NO = chết 0-2 ngày; (2) association sweep sau deadline 20/07 giết cả bank OK (E185 verify muộn 22/07 vẫn chết → fix bank muộn không cứu được cụm đã nhiễm); (3) SUS NEW 37 chết tầng danh tính. Tỷ lệ sống: Năng06 40% · Dâng01 7% · Minh02 8% · Ly09 0%.
+- Ops rules đang hiệu lực: bank NO → vacation mode; quá deadline không fix → đóng chủ động; đóng băng tạo account mới; ngừng dùng profile seller09.
+
+## Việc mở
+1. User gửi thêm: 2 mã SUS NEW thiếu · xác nhận E267 · xác nhận E185 · bảng so sánh setup Năng06 vs Ly09 (→ Cloud chạy phân tích tương quan môi trường).
+2. Hub cân nhắc thêm `o7` vào accScorecardJSON().
+3. Report của Ly Nguyễn nên thêm cột bank-status cho account CHƯA có đơn đang đổ traffic (điểm mù: khoảng giữa tạo account và first sale).

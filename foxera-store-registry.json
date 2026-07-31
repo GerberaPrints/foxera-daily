@@ -449,9 +449,9 @@
       "owner": "Thu Trương",
       "owner_status": "đang làm",
       "codes": [
-        "E254",
         "E259"
-      ]
+      ],
+      "note": "E254 user chốt 31/07 thuộc Vy Đặng — bỏ khỏi Hoài Thu"
     },
     {
       "owner_raw": "Thúy Ngân",
@@ -463,7 +463,6 @@
     }
   ],
   "data_quality_flags": [
-    "E254 xuất hiện 2 lần trong SUS NEW (Tường Vy VÀ Hoài Thu) — cần chốt thuộc ai (Hoài Thu có thể là E255/E258 gõ nhầm?)",
     "SUS NEW ghi TỔNG 37 nhưng liệt kê 36 dòng / 35 mã duy nhất — thiếu 1-2 mã so với tiêu đề",
     "Nguồn gõ 'VERY BANK' — hiểu là VERIFY BANK; 'E150Elvarixo' thiếu dấu gạch — đã chuẩn hoá E150-Elvarixo",
     "Cả 22 shop SUS đều NOT FIX, hạn TIME FIX 20/07/2026 đã QUÁ 11 ngày (0/22 xử lý)",
@@ -472,7 +471,7 @@
     "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
     "E267 'Thúy Ngân': vẫn chưa rõ Trần/Huỳnh (câu riêng, khác câu T5 đã chốt)",
     "E185 đổi chủ giữa snapshot (Năng06 -> Ly09) — chờ xác nhận owner thật",
-    "SUS NEW tổng 37 vs 36 dòng + E254 trùng: user sẽ gửi data bổ sung — flag giữ nguyên chờ"
+    "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)"
   ],
   "seller_emails": {
     "Seller01": {
