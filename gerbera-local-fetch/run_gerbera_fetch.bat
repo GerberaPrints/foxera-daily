@@ -27,5 +27,10 @@ git add gerbera-live-fetch.json gerbera-local-fetch/fetch_log.txt
 git commit -m "gerbera pc-fetch %date% %time%"
 git pull --rebase origin main
 git push origin HEAD:main
+if errorlevel 1 (
+  echo [gerbera_fetch] PUSH FAILED - kiem tra remote URL co PAT that chua:
+  echo   git remote set-url origin "https://x-access-token:TOKEN@github.com/GerberaPrints/foxera-daily.git"
+  exit /b 1
+)
 
 echo [gerbera_fetch] DONE
