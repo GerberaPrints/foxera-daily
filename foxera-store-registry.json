@@ -405,7 +405,14 @@
         "E205",
         "E206",
         "E207"
-      ]
+      ],
+      "shops": {
+        "E202": "NorviqueStudio",
+        "E204": "VelmorinStudio",
+        "E205": "NorvellaCraft",
+        "E206": "SolvantaDesign",
+        "E207": "LunverraStudio"
+      }
     },
     {
       "owner_raw": "Trương Dâng",
@@ -490,8 +497,7 @@
     "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
     "E185 đổi chủ giữa snapshot (Năng06 -> Ly09) — chờ xác nhận owner thật",
     "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
-    "14 link user bo sung 31/07; 9 ma MOI chua co trong registry (owner/status chua ro): E35, E66, E100, E133, E137, E138, E152, E163, E189 — cho user/Ly Nguyen bo sung owner+status; 2 trong so nay co the la 2 ma SUS NEW thieu (37 vs 35) — KHONG tu suy",
-    "Dot link 2 (31/07): +10 link (nhom Truong Dang co ten shop); E195 user de TRONG link — cho bo sung; ma moi chua ro owner: E187, E288"
+    "Link 3 dot (31/07): store_links_extra=48 ma. THIEU LINK: E195, E181, E173 (E181/E173 la ma moi, chua co ca ten shop -> chua quet duoc; E188 da co ten Elorianestudio nen van quet). Ma moi chua ro owner (3 dot don): E46, E49, E52, E53, E73, E74, E75, E76, E103, E121, E134, E148, E149, E165, E166, E180, E203"
   ],
   "seller_emails": {
     "Seller01": {
@@ -744,6 +750,102 @@
     "E187": {
       "url": "https://lumestoryco.etsy.com",
       "shop": "lumestoryco"
+    },
+    "E180": {
+      "url": "https://qivorlyn.etsy.com",
+      "shop": "qivorlyn"
+    },
+    "E172": {
+      "url": "https://www.etsy.com/shop/Aurelinx",
+      "shop": "Aurelinx"
+    },
+    "E166": {
+      "url": "https://rivoxelir.etsy.com",
+      "shop": "rivoxelir"
+    },
+    "E165": {
+      "url": "https://norvalyrex.etsy.com",
+      "shop": "norvalyrex"
+    },
+    "E149": {
+      "url": "https://xavonetra.etsy.com",
+      "shop": "xavonetra"
+    },
+    "E148": {
+      "url": "https://velorixan.etsy.com",
+      "shop": "velorixan"
+    },
+    "E134": {
+      "url": "https://qarvynox.etsy.com",
+      "shop": "qarvynox"
+    },
+    "E121": {
+      "url": "https://velqirax.etsy.com",
+      "shop": "velqirax"
+    },
+    "E103": {
+      "url": "https://zelviroq.etsy.com",
+      "shop": "zelviroq"
+    },
+    "E76": {
+      "url": "https://yexaro.etsy.com",
+      "shop": "yexaro"
+    },
+    "E75": {
+      "url": "https://kavixo.etsy.com",
+      "shop": "kavixo"
+    },
+    "E74": {
+      "url": "https://noryxel.etsy.com",
+      "shop": "noryxel"
+    },
+    "E73": {
+      "url": "https://zuvion.etsy.com",
+      "shop": "zuvion"
+    },
+    "E53": {
+      "url": "https://velvetoakdesigns.etsy.com",
+      "shop": "velvetoakdesigns"
+    },
+    "E52": {
+      "url": "https://moonharborstudio.etsy.com",
+      "shop": "moonharborstudio"
+    },
+    "E49": {
+      "url": "https://harborleafstudio.etsy.com",
+      "shop": "harborleafstudio"
+    },
+    "E48": {
+      "url": "https://www.etsy.com/shop/StarlitCoveCo",
+      "shop": "StarlitCoveCo"
+    },
+    "E46": {
+      "url": "https://tinysproutcraft.etsy.com",
+      "shop": "tinysproutcraft"
+    },
+    "E207": {
+      "url": "https://www.etsy.com/shop/LunverraStudio",
+      "shop": "LunverraStudio"
+    },
+    "E206": {
+      "url": "https://www.etsy.com/shop/SolvantaDesign",
+      "shop": "SolvantaDesign"
+    },
+    "E205": {
+      "url": "https://www.etsy.com/shop/NorvellaCraft",
+      "shop": "NorvellaCraft"
+    },
+    "E204": {
+      "url": "https://www.etsy.com/shop/VelmorinStudio",
+      "shop": "VelmorinStudio"
+    },
+    "E203": {
+      "url": "https://velmoracreative.etsy.com",
+      "shop": "velmoracreative"
+    },
+    "E202": {
+      "url": "https://www.etsy.com/shop/NorviqueStudio",
+      "shop": "NorviqueStudio"
     }
   }
 }
