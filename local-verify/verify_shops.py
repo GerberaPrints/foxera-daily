@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-LOCAL-VERIFY SHOPS v4 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
+LOCAL-VERIFY SHOPS v5 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
 v3: chống bot-wall (Chrome thật + profile lưu cookie + ẩn webdriver);
 gặp captcha thì DỪNG CHỜ bạn giải tay trong cửa sổ rồi bấm Enter — giải 1 lần, cookie nhớ.
 (GAS bị Etsy chặn 429 · Cloud bị chặn PROVENANCE — chỉ browser thật trên MÁY BẠN quét được)
@@ -77,9 +77,11 @@ async def scrape_shop(page, acc):
         rec["status"] = "active"
         m = re.search(r'([\d,.]+)\s*Sales', html, re.I)
         if m: rec["sales"] = int(re.sub(r"[^\d]", "", m.group(1)))
-        m = re.search(r'aria-label="([\d.]+) out of 5 stars"', html) or \
-            re.search(r'"ratingValue"\s*:\s*"?([\d.]+)', html)
-        if m: rec["rating"] = float(m.group(1))
+        # rating: ưu tiên aggregateRating JSON-LD (chuẩn shop), fallback aria-label — v5 fix vụ E29 4.1 bị đọc 4.0
+        m = re.search(r'"aggregateRating"[^}]*?"ratingValue"\s*:\s*"?([\d.]+)', html, re.S) or \
+            re.search(r'"ratingValue"\s*:\s*"?([\d.]+)', html) or \
+            re.search(r'aria-label="([\d.]+) out of 5 stars"', html)
+        if m: rec["rating"] = round(float(m.group(1)), 1)
         m = re.search(r'\(([\d,]+)\)\s*</span>', html) or \
             re.search(r'"reviewCount"\s*:\s*"?([\d,]+)', html)
         if m: rec["reviews"] = int(re.sub(r"[^\d]", "", m.group(1)))
@@ -168,6 +170,10 @@ async def main():
         except Exception:
             pass
     for r in results:
+        prev = old.get(r["code"])
+        if prev and prev.get("status") and prev.get("status") != r.get("status"):
+            r["prev_status"] = prev.get("status"); r["prev_checked"] = prev.get("verified_at")
+            print(f"  ⚠️ {r['code']} đổi status {prev.get('status')} -> {r.get('status')} (cần 2 lần liên tiếp mới tin)")
         old[r["code"]] = {**r, "verified_at": date.today().isoformat()}
     payload = {"project": "foxera", "verified_at": date.today().isoformat(),
                "provenance": "live_local_browser", "shops": sorted(old.values(), key=lambda x: x["code"])}

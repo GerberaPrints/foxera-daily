@@ -617,6 +617,14 @@
       "E188",
       "E172",
       "E61"
-    ]
+    ],
+    "status_flapping": {
+      "codes": [
+        "E188",
+        "E172"
+      ],
+      "note": "2 lan quet cach 30' (13:32 vs 14:00) cho ket qua nguoc nhau not_selling<->active. Tin hieu public voi nhom SUS KHONG on dinh -> quy tac: chi tin doi status khi 2 lan quet lien tiep cung ket qua + team login xac nhan. v5 da tu ghi prev_status khi flap."
+    },
+    "scraper_correction": "E29: rating that 4.1 (screenshot nguoi xem 13:48), scraper v4 doc 4.0 do vo nham widget -> v5 uu tien aggregateRating JSON-LD"
   }
 }

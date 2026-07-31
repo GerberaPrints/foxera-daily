@@ -16,7 +16,7 @@
   },
   "blocks": {
     "B1": [
-      "<b>🚨 PHÁT HIỆN QUÉT SÀN 31/07 (browser thật, 35/35 shop)</b>\n<i>Khẩn cấp P1🔴→P4🟢</i>\n\n• <b>P1 🔴 E29 Velarionne: rating TỤT 4.1→4.0</b> — sát ngưỡng Etsy bóp organic. Việc hôm nay: sửa listing acrylic, KHÔNG scale Ads.\n• <b>P2 🟠 9 shop registry SUS nhưng trang public đang ACTIVE:</b> E48 E77 E107 E127 E146 E150 E155 E185 E190. TEAM login thử Shop Manager 2-3 con (E48, E185 trước): vào được = Etsy ĐÃ MỞ LẠI → báo ngay (manh mối lớn cho câu 'Etsy quét gì'); hiện suspension = chỉ là vỏ public.\n• 🟢 6 store LIVE đều còn sống (E135 E42 E43 E81 E119 E80) — sweep chưa lan thêm hôm nay.\n• 💚 E193 HoanElly public sales 1.160 (×2.5 từ mốc tiếp nhận) — đầu tàu tăng tốc tốt.",
+      "<b>🚨 PHÁT HIỆN QUÉT SÀN 31/07 (browser thật, 35/35 shop)</b>\n<i>Khẩn cấp P1🔴→P4🟢</i>\n\n• <b>P1 🔴 E29 Velarionne: rating 4.1 (xác nhận bằng mắt 31/07)</b> — vẫn là bom hẹn giờ sát ngưỡng 4.0. Việc hôm nay: sửa listing acrylic, KHÔNG scale Ads. <i>(Đính chính: số 4.0 báo trước đó là lỗi đọc trang, đã sửa tool.)</i>\n• <b>P2 🟠 11 shop registry SUS nhưng trang public hiện ACTIVE (E188, E172 còn NHẤP NHÁY giữa 2 lần quét cách 30'):</b> E48 E77 E107 E127 E146 E150 E155 E185 E190 (+E188 E172 flap). TEAM login thử Shop Manager 2-3 con (E48, E185 trước): vào được = Etsy ĐÃ MỞ LẠI → báo ngay (manh mối lớn cho câu 'Etsy quét gì'); hiện suspension = chỉ là vỏ public.\n• 🟢 6 store LIVE đều còn sống (E135 E42 E43 E81 E119 E80) — sweep chưa lan thêm hôm nay.\n• 💚 E193 HoanElly public sales 1.160 (×2.5 từ mốc tiếp nhận) — đầu tàu tăng tốc tốt.",
       "<b>💚 BLOCK A — ĐANG SỐNG & VIỆC P1 HÔM NAY · 31/07</b>\n<i>Likert: 🔴1 🟠2 🟡3 🟢4 💚5 · Khẩn cấp P1🔴→P4🟢</i>\n\n<b>6 store LIVE</b> (đều bank OK): E135 VDKHandmade · E42 GoldenMossWorks · E43 DreamPineCo · E81 VELNIXA · E119 Zyvorexa · E80 TORVEXA — 4/6 của Năng Phan (đã nghỉ) → P2 bàn giao gấp.\n\n<b>P1 🔴 hôm nay:</b>\n• E29 Velarionne: sửa gap acrylic (rating 4.1 = bom hẹn giờ) — KHÔNG scale Ads trước khi sửa.\n• 15 shop SUS bank NO: verify bank + kháng cáo — quá hạn 20/07 đã 11 ngày.\n• Bất kỳ account bank NO nào còn sống: BẬT VACATION MODE — first sale = tự bấm nút gọi Etsy quét.\n\n👉 <b>Chốt:</b> làm theo P1 → P4; 6 store sống là chuông báo sweep — 1 con rơi là alert đỏ ngay."
     ],
     "B2": [
@@ -93,20 +93,21 @@
       "tier": "A",
       "score": 75,
       "status": "active",
-      "rating": 4.0,
+      "rating": 4.1,
       "review_count": 101,
       "sales_public": 707,
       "listings": 697,
       "loss_pct": 4.9,
-      "top_issue": "RATING TUT 4.1->4.0 (quet 31/07) - sat nguong Etsy bop organic",
-      "action": "P1 HOM NAY: sua listing acrylic ('printed acrylic not glass' + anh that + dong goi chong vo). KHONG scale Ads. Duoi 4.0 la mat organic",
+      "top_issue": "rating 4.1 giu nguyen - van la bom hen gio acrylic (101 rv, 697 listing ALL on sale)",
+      "action": "P1: sua listing acrylic ('printed acrylic not glass' + anh that + dong goi chong vo); KHONG scale Ads truoc khi sua; canh nguong 4.0",
       "likert": 3,
       "priority": "P1",
       "sales": 707,
       "reviews": 101,
       "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "live_local_browser"
+      "fetch_provenance": "live_local_browser",
+      "rating_note": "4.1 xac nhan bang mat nguoi (screenshot shop page 31/07 13:48). So 4.0 tu scraper = doc nham widget khac, DA SUA parser v5."
     },
     {
       "code": "E135",
