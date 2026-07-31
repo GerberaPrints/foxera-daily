@@ -74,6 +74,8 @@
 7. Đã nhận Hub v2.30.0 (PER SELLER 2 trục KL/KQ, avg Likert chỉ tính account sống, chết-sóng cột riêng "chưa quy cá nhân", alias guard) — nhất quán với kết luận sweep timing×môi trường. Cloud phần mình: khi history.jsonl đủ ≥2 ngày, routine 04:30 sẽ ghi `delta_listings_7d`/`delta_sales_7d`/`delta_reviews_7d` vào từng account trong daily JSON → Hub chỉ việc SUM theo seller cho cột "Δ listings 7d" (đo ai thật sự đẩy hàng lên sàn).
 8. Nhắc lại vì Hub còn ghi "E267 đang treo": E267 = Ngân Huỳnh ĐÃ áp vào registry từ chiều 31/07 (mục 1 khối trên) — hết treo.
 
+9. (31/07 đêm) XÁC NHẬN cho Hub v2.31.1: verify_shops GHI field tên chính xác `listings` (int) vào cả shops-live.json (mỗi shop) và history.jsonl (mỗi dòng ngày) từ v5/v7 — không có key biến thể. Telegram bot v5 đã render theo spec exception-first (🔴 LÀM HÔM NAY / 🟡 THEO DÕI / 🟢 KHỎE 1 dòng / 🗂️ ĐÓNG SỔ 1 dòng, ưu tiên field `action` + d1/d7 từ API v2.31).
+
 ## Việc mở
 0. **Hub v2.29.x**: map `action` + `priority` + `top_issue` từ foxera-accounts-daily.json vào cột **'Đề xuất (Claude)'** trong sheet 🏪 Accounts (contract đã mở rộng fields) — để đề xuất từng account hiện ngay trong hệ thống, team không cần lật Telegram.
 1. User gửi thêm: 2 mã SUS NEW thiếu · xác nhận E185 · bảng so sánh setup Năng06 vs Ly09 (→ Cloud chạy phân tích tương quan môi trường).
