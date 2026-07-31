@@ -1,0 +1,1877 @@
+{
+ "schema_version": "1.0",
+ "source": "pc-local (gerbera_fetch.py, Task Scheduler)",
+ "date": "2026-07-31",
+ "fetched_at": "2026-07-31T15:37:26.527895+07:00",
+ "locale_note": "US/USD (products.json shop default) — máy quét ở VN, giá feed theo market mặc định shop",
+ "feeds": {
+  "Pins & Aces": {
+   "url": "https://pinsandaces.com/products.json?limit=3",
+   "truncated": false,
+   "read_count": 3,
+   "products": [
+    {
+     "title": "Lemon Guy - Ball Marker",
+     "product_type": "Accessories - Ball Markers",
+     "handle": "lemon-guy-ball-marker",
+     "created_at": "2026-06-19T11:38:55-06:00",
+     "published_at": "2026-07-29T13:55:41-06:00",
+     "price_min": 14.95,
+     "price_max": 14.95,
+     "compare_at_max": 14.95,
+     "variants_total": 1,
+     "variants_unavailable": [],
+     "sold_out_level": null
+    },
+    {
+     "title": "Ice Cubes Ball Marker",
+     "product_type": "Accessories - Ball Markers",
+     "handle": "ice-cubes-ball-marker",
+     "created_at": "2026-07-29T00:45:18-06:00",
+     "published_at": "2026-07-29T13:55:23-06:00",
+     "price_min": 14.95,
+     "price_max": 14.95,
+     "compare_at_max": 14.95,
+     "variants_total": 1,
+     "variants_unavailable": [],
+     "sold_out_level": null
+    },
+    {
+     "title": "Transfusion Bag - Perforated Rope Hat",
+     "product_type": "Accessories - Hats",
+     "handle": "transfusion-bag-perforated-rope-hat",
+     "created_at": "2026-07-29T00:45:14-06:00",
+     "published_at": "2026-07-29T10:47:43-06:00",
+     "price_min": 34.95,
+     "price_max": 34.95,
+     "compare_at_max": 34.95,
+     "variants_total": 1,
+     "variants_unavailable": [],
+     "sold_out_level": null
+    }
+   ]
+  }
+ },
+ "anchors": {},
+ "collections": {
+  "Pins & Aces": [
+   {
+    "title": "14-Way Black Golf Bags",
+    "handle": "14-way-black-golf-bags",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T01:08:45-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "14-Way Golf Bags",
+    "handle": "14-way-golf-bags",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:08:33-06:00",
+    "products_count": 22
+   },
+   {
+    "title": "14-Way Golf Stand Bags",
+    "handle": "14-way-golf-stand-bags",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:06:05-06:00",
+    "products_count": 21
+   },
+   {
+    "title": "14-Way Green Golf Bags",
+    "handle": "14-way-green-golf-bags",
+    "updated_at": "2026-07-06T12:12:29-06:00",
+    "published_at": "2025-10-07T01:08:56-06:00",
+    "products_count": 2
+   },
+   {
+    "title": "14-Way Orange Golf Bags",
+    "handle": "14-way-orange-golf-bags",
+    "updated_at": "2026-07-06T12:12:30-06:00",
+    "published_at": "2025-10-07T01:09:07-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "14-Way White Golf Bags",
+    "handle": "14-way-white-golf-bags",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:09:30-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "3 Wood Covers",
+    "handle": "3-wood-covers",
+    "updated_at": "2026-07-31T02:14:42-06:00",
+    "published_at": "2025-10-07T00:57:54-06:00",
+    "products_count": 99
+   },
+   {
+    "title": "30 for 30 for 30",
+    "handle": "30-for-30-for-30",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2026-03-18T15:54:31-06:00",
+    "products_count": 32
+   },
+   {
+    "title": "420 Golf Collection",
+    "handle": "420",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2023-04-05T16:35:23-06:00",
+    "products_count": 26
+   },
+   {
+    "title": "4th Of July Golf Collections",
+    "handle": "4th-of-july",
+    "updated_at": "2026-07-31T02:14:42-06:00",
+    "published_at": "2023-06-16T08:55:10-06:00",
+    "products_count": 85
+   },
+   {
+    "title": "5 Wood Covers",
+    "handle": "5-wood-covers",
+    "updated_at": "2026-07-31T02:14:42-06:00",
+    "published_at": "2025-10-07T00:58:06-06:00",
+    "products_count": 99
+   },
+   {
+    "title": "5-Way Black Golf Bags",
+    "handle": "5-way-black-golf-bags",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T01:06:58-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "5-Way Golf Bags",
+    "handle": "5-way-golf-bags",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:08:18-06:00",
+    "products_count": 27
+   },
+   {
+    "title": "5-Way Golf Stand Bags",
+    "handle": "5-way-golf-stand-bags",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:05:55-06:00",
+    "products_count": 21
+   },
+   {
+    "title": "5-Way Green Golf Bags",
+    "handle": "5-way-green-golf-bags",
+    "updated_at": "2026-07-06T12:12:29-06:00",
+    "published_at": "2025-10-07T01:07:06-06:00",
+    "products_count": 2
+   },
+   {
+    "title": "5-Way Orange Golf Bags",
+    "handle": "5-way-orange-golf-bags",
+    "updated_at": "2026-07-06T12:12:29-06:00",
+    "published_at": "2025-10-07T01:07:16-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "5-Way White Golf Bags",
+    "handle": "5-way-white-golf-bags",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:07:40-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "7 Wood Covers",
+    "handle": "7-wood-covers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:58:16-06:00",
+    "products_count": 99
+   },
+   {
+    "title": "9 at 9 early access",
+    "handle": "members-only-collection-test",
+    "updated_at": "2026-07-30T10:52:47-06:00",
+    "published_at": "2026-02-03T13:25:12-07:00",
+    "products_count": 51
+   },
+   {
+    "title": "Alignment Stick Covers",
+    "handle": "alignment-stick-covers",
+    "updated_at": "2026-07-06T12:12:10-06:00",
+    "published_at": "2019-06-29T21:10:18-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "All Golf Outerwear",
+    "handle": "all-golf-outerwear",
+    "updated_at": "2026-07-31T02:14:43-06:00",
+    "published_at": "2025-11-04T11:08:48-07:00",
+    "products_count": 164
+   },
+   {
+    "title": "All Polos",
+    "handle": "all-polos",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2026-01-15T13:59:10-07:00",
+    "products_count": 406
+   },
+   {
+    "title": "All Products",
+    "handle": "all-products",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2019-01-27T13:02:12-07:00",
+    "products_count": 759
+   },
+   {
+    "title": "Animal Driver Covers",
+    "handle": "animal-driver-covers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:49:22-06:00",
+    "products_count": 37
+   },
+   {
+    "title": "Animal Golf Headcovers",
+    "handle": "animal-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:45:25-06:00",
+    "products_count": 101
+   },
+   {
+    "title": "Animal Putter Covers",
+    "handle": "animal-putter-covers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:51:33-06:00",
+    "products_count": 28
+   },
+   {
+    "title": "Augusta Golf Collection",
+    "handle": "augusta-collection-members-only",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2020-11-11T07:01:23-07:00",
+    "products_count": 28
+   },
+   {
+    "title": "BEST SELLERS",
+    "handle": "best-sellers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2021-02-24T12:07:37-07:00",
+    "products_count": 312
+   },
+   {
+    "title": "Best Selling Ball Markers",
+    "handle": "best-selling-ball-markers",
+    "updated_at": "2026-07-31T02:14:44-06:00",
+    "published_at": "2024-11-04T16:40:25-07:00",
+    "products_count": 127
+   },
+   {
+    "title": "Best Selling Golf Apparel",
+    "handle": "best-selling-golf-apparel",
+    "updated_at": "2026-07-31T02:14:47-06:00",
+    "published_at": "2024-11-01T15:09:44-06:00",
+    "products_count": 562
+   },
+   {
+    "title": "Best Selling Headcovers",
+    "handle": "best-selling-headcovers",
+    "updated_at": "2026-07-31T02:14:49-06:00",
+    "published_at": "2024-11-01T15:01:59-06:00",
+    "products_count": 713
+   },
+   {
+    "title": "Best Selling Men's Polos",
+    "handle": "best-selling-mens-polos",
+    "updated_at": "2026-07-31T02:14:50-06:00",
+    "published_at": "2024-11-04T11:55:52-07:00",
+    "products_count": 157
+   },
+   {
+    "title": "Black Driver Headcovers",
+    "handle": "black-driver-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:49:50-06:00",
+    "products_count": 12
+   },
+   {
+    "title": "Black Friday Golf Deals",
+    "handle": "blackfriday",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2024-11-04T16:03:48-07:00",
+    "products_count": 73
+   },
+   {
+    "title": "Black Golf Bags",
+    "handle": "black-golf-bags",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T01:10:10-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "Black Golf Hats",
+    "handle": "black-golf-hats",
+    "updated_at": "2026-07-30T08:20:25-06:00",
+    "published_at": "2025-10-07T01:16:06-06:00",
+    "products_count": 23
+   },
+   {
+    "title": "Black Golf Headcovers",
+    "handle": "black-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:01:07-06:00",
+    "products_count": 42
+   },
+   {
+    "title": "Black Golf Rope Hats",
+    "handle": "black-rope-hats",
+    "updated_at": "2026-07-30T08:20:25-06:00",
+    "published_at": "2025-10-07T01:15:17-06:00",
+    "products_count": 33
+   },
+   {
+    "title": "Black Golf Towels",
+    "handle": "black-golf-towels",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T01:13:52-06:00",
+    "products_count": 3
+   },
+   {
+    "title": "Black Hybrid Headcovers",
+    "handle": "black-hybrid-headcovers",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T01:00:13-06:00",
+    "products_count": 4
+   },
+   {
+    "title": "Black Putter Covers",
+    "handle": "black-putter-covers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:52:33-06:00",
+    "products_count": 16
+   },
+   {
+    "title": "Blade Putter Covers",
+    "handle": "blade-putter-covers",
+    "updated_at": "2026-07-31T02:14:50-06:00",
+    "published_at": "2025-10-07T00:52:22-06:00",
+    "products_count": 143
+   },
+   {
+    "title": "Blue Driver Headcovers",
+    "handle": "blue-driver-headcovers",
+    "updated_at": "2026-07-30T08:27:34-06:00",
+    "published_at": "2025-10-07T00:50:04-06:00",
+    "products_count": 23
+   },
+   {
+    "title": "Blue Golf Hats",
+    "handle": "blue-golf-hats",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T01:23:25-06:00",
+    "products_count": 17
+   },
+   {
+    "title": "Blue Golf Headcovers",
+    "handle": "blue-headcovers",
+    "updated_at": "2026-07-30T08:27:34-06:00",
+    "published_at": "2025-10-07T01:01:17-06:00",
+    "products_count": 68
+   },
+   {
+    "title": "Blue Golf Towels",
+    "handle": "blue-golf-towels",
+    "updated_at": "2026-07-17T05:07:47-06:00",
+    "published_at": "2025-10-07T01:14:05-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "Blue Hybrid Headcovers",
+    "handle": "blue-hybrid-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:00:34-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Blue Putter Covers",
+    "handle": "blue-putter-covers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:52:43-06:00",
+    "products_count": 27
+   },
+   {
+    "title": "Blue Women's Sleeveless Golf Shirts",
+    "handle": "blue-womens-sleeveless-golf-shirts",
+    "updated_at": "2026-07-28T05:09:03-06:00",
+    "published_at": "2025-09-10T13:47:17-06:00",
+    "products_count": 4
+   },
+   {
+    "title": "Boxing Day Golf Deals",
+    "handle": "boxing-day",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2023-12-23T12:36:06-07:00",
+    "products_count": 58
+   },
+   {
+    "title": "Boxing Glove Headcovers",
+    "handle": "boxing-glove-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:46:13-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Brown Golf Headcovers",
+    "handle": "brown-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:01:27-06:00",
+    "products_count": 29
+   },
+   {
+    "title": "Bud Light Golf Collections",
+    "handle": "bud-light",
+    "updated_at": "2026-07-06T12:12:13-06:00",
+    "published_at": "2021-08-24T15:28:38-06:00",
+    "products_count": 25
+   },
+   {
+    "title": "California Golf Headcovers",
+    "handle": "california-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:47:29-06:00",
+    "products_count": 3
+   },
+   {
+    "title": "Canal Products",
+    "handle": "canal-products",
+    "updated_at": "2026-07-13T08:51:37-06:00",
+    "published_at": "2026-07-06T12:12:40-06:00",
+    "products_count": 0
+   },
+   {
+    "title": "Cartoon Golf Headcovers",
+    "handle": "cartoon-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:48:07-06:00",
+    "products_count": 25
+   },
+   {
+    "title": "Christmas Power Hour 2025",
+    "handle": "christmas-power-hour-2025",
+    "updated_at": "2026-07-31T02:14:51-06:00",
+    "published_at": "2025-12-10T14:24:06-07:00",
+    "products_count": 84
+   },
+   {
+    "title": "Cigar Cases",
+    "handle": "cigar-cases",
+    "updated_at": "2026-07-22T05:07:37-06:00",
+    "published_at": "2020-11-26T21:43:36-07:00",
+    "products_count": 4
+   },
+   {
+    "title": "Cinco De Mayo Golf Collection",
+    "handle": "cinco-de-mayo-collection",
+    "updated_at": "2026-07-29T05:08:19-06:00",
+    "published_at": "2025-04-28T14:45:45-06:00",
+    "products_count": 41
+   },
+   {
+    "title": "Classic Golf Headcovers",
+    "handle": "classic-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:45:15-06:00",
+    "products_count": 145
+   },
+   {
+    "title": "Coca-Cola Golf Collection",
+    "handle": "coca-cola-collection",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-12-04T15:57:21-07:00",
+    "products_count": 18
+   },
+   {
+    "title": "Collaborations",
+    "handle": "collaborations",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2024-01-23T06:58:04-07:00",
+    "products_count": 85
+   },
+   {
+    "title": "Colorado Golf Association",
+    "handle": "cga",
+    "updated_at": "2026-07-06T12:12:15-06:00",
+    "published_at": "2023-08-21T15:57:41-06:00",
+    "products_count": 2
+   },
+   {
+    "title": "Colorado Golf Collection",
+    "handle": "colorado-collection",
+    "updated_at": "2026-07-29T05:08:14-06:00",
+    "published_at": "2019-01-15T10:17:54-07:00",
+    "products_count": 15
+   },
+   {
+    "title": "Colorado Limited Edition",
+    "handle": "colorado-tpc-limited-edition",
+    "updated_at": "2026-07-06T12:12:15-06:00",
+    "published_at": "2023-07-11T17:05:13-06:00",
+    "products_count": 4
+   },
+   {
+    "title": "Cool Golf Headcovers",
+    "handle": "cool-headcovers",
+    "updated_at": "2026-07-30T08:26:15-06:00",
+    "published_at": "2025-10-07T00:47:44-06:00",
+    "products_count": 111
+   },
+   {
+    "title": "Cyber Monday Golf Deals",
+    "handle": "cybermonday",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2021-11-26T07:13:34-07:00",
+    "products_count": 117
+   },
+   {
+    "title": "Discount Golf Deals",
+    "handle": "discount-collection",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2020-08-22T22:21:34-06:00",
+    "products_count": 2476
+   },
+   {
+    "title": "DOORBUSTERS",
+    "handle": "doorbusters",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-11-28T08:33:11-07:00",
+    "products_count": 52
+   },
+   {
+    "title": "Everything But...",
+    "handle": "everything-but",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2022-11-10T16:03:42-07:00",
+    "products_count": 2508
+   },
+   {
+    "title": "Father Son Matching Golf Polos",
+    "handle": "father-son-matching-polos",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:45:00-06:00",
+    "products_count": 57
+   },
+   {
+    "title": "Fins And Fairways Golf Collection",
+    "handle": "fins-fairways",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2024-09-16T10:43:01-06:00",
+    "products_count": 10
+   },
+   {
+    "title": "First Responders",
+    "handle": "first-responders",
+    "updated_at": "2026-07-06T12:12:10-06:00",
+    "published_at": "2019-05-22T21:02:52-06:00",
+    "products_count": 5
+   },
+   {
+    "title": "Flag Golf Headcovers",
+    "handle": "flag-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:46:03-06:00",
+    "products_count": 31
+   },
+   {
+    "title": "Flamingo Golf Collection",
+    "handle": "flamingo",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2021-03-09T15:23:11-07:00",
+    "products_count": 17
+   },
+   {
+    "title": "Florida Golf Collection",
+    "handle": "florida",
+    "updated_at": "2026-07-28T05:08:59-06:00",
+    "published_at": "2019-08-28T15:45:34-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Funny Driver Covers",
+    "handle": "funny-driver-covers",
+    "updated_at": "2026-07-30T08:27:34-06:00",
+    "published_at": "2025-10-07T00:48:51-06:00",
+    "products_count": 72
+   },
+   {
+    "title": "Funny Golf Headcovers",
+    "handle": "funny-headcovers",
+    "updated_at": "2026-07-30T08:27:34-06:00",
+    "published_at": "2025-10-07T00:45:37-06:00",
+    "products_count": 195
+   },
+   {
+    "title": "Funny Hybrid Headcovers",
+    "handle": "funny-hybrid-headcovers",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T00:59:31-06:00",
+    "products_count": 12
+   },
+   {
+    "title": "Funny Putter Covers",
+    "handle": "funny-putter-covers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:51:22-06:00",
+    "products_count": 66
+   },
+   {
+    "title": "Gifts for Anyone",
+    "handle": "gifts-for-anyone",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-11-28T09:55:31-07:00",
+    "products_count": 26
+   },
+   {
+    "title": "Glove & Hat Caddies",
+    "handle": "glove-accessory-caddy",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2023-09-08T10:53:49-06:00",
+    "products_count": 13
+   },
+   {
+    "title": "Glove & Hat Caddies",
+    "handle": "glove-hat-caddies",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-07-02T15:03:44-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Golf Accessories",
+    "handle": "accessories",
+    "updated_at": "2026-07-31T02:14:52-06:00",
+    "published_at": "2019-08-29T23:10:03-06:00",
+    "products_count": 236
+   },
+   {
+    "title": "Golf Alignment Sticks",
+    "handle": "alignment-sticks",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-01-31T12:21:28-07:00",
+    "products_count": 17
+   },
+   {
+    "title": "Golf Apparel",
+    "handle": "apparel",
+    "updated_at": "2026-07-31T02:14:53-06:00",
+    "published_at": "2025-10-07T09:22:52-06:00",
+    "products_count": 1162
+   },
+   {
+    "title": "Golf Bags",
+    "handle": "golf-bags",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2019-08-28T15:45:34-06:00",
+    "products_count": 45
+   },
+   {
+    "title": "Golf Ball Markers",
+    "handle": "ball-markers",
+    "updated_at": "2026-07-31T02:14:54-06:00",
+    "published_at": "2020-03-21T19:08:01-06:00",
+    "products_count": 210
+   },
+   {
+    "title": "Golf Ball Stamps",
+    "handle": "ball-stamps",
+    "updated_at": "2026-07-06T12:12:11-06:00",
+    "published_at": "2020-09-21T16:16:21-06:00",
+    "products_count": 17
+   },
+   {
+    "title": "Golf Balls Accessories",
+    "handle": "golf-balls-accessories",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:12:47-06:00",
+    "products_count": 239
+   },
+   {
+    "title": "Golf Beanies",
+    "handle": "golf-beanies",
+    "updated_at": "2026-07-06T12:12:31-06:00",
+    "published_at": "2025-10-07T01:14:38-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Golf Beer Sleeve Ice Pucks",
+    "handle": "beer-sleeve-ice-pucks",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T01:11:16-06:00",
+    "products_count": 12
+   },
+   {
+    "title": "Golf Beer Sleeves",
+    "handle": "beer-sleeves",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2021-06-26T15:17:42-06:00",
+    "products_count": 14
+   },
+   {
+    "title": "Golf Bucket Hats",
+    "handle": "bucket-hats",
+    "updated_at": "2026-07-06T12:12:18-06:00",
+    "published_at": "2024-12-12T11:24:45-07:00",
+    "products_count": 3
+   },
+   {
+    "title": "Golf Cart Bags",
+    "handle": "cart-bags",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:04:24-06:00",
+    "products_count": 3
+   },
+   {
+    "title": "Golf Cartoon Collection",
+    "handle": "golf-cartoon-collection",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:34:12-06:00",
+    "products_count": 25
+   },
+   {
+    "title": "Golf Club Grips",
+    "handle": "golf-club-grips",
+    "updated_at": "2026-07-06T12:12:31-06:00",
+    "published_at": "2025-10-07T01:14:26-06:00",
+    "products_count": 4
+   },
+   {
+    "title": "Golf Don't Tread On Me Collection",
+    "handle": "dont-tread-on-me",
+    "updated_at": "2026-07-06T12:12:11-06:00",
+    "published_at": "2020-06-07T21:32:06-06:00",
+    "products_count": 3
+   },
+   {
+    "title": "Golf Drink Accessories",
+    "handle": "golf-drink-accessories",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2024-10-29T11:47:46-06:00",
+    "products_count": 18
+   },
+   {
+    "title": "Golf Drink Dispensers",
+    "handle": "golf-drink-dispensers",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2024-01-03T08:51:24-07:00",
+    "products_count": 6
+   },
+   {
+    "title": "Golf Driver Covers",
+    "handle": "driver-covers",
+    "updated_at": "2026-07-31T02:14:55-06:00",
+    "published_at": "2020-03-21T19:29:42-06:00",
+    "products_count": 191
+   },
+   {
+    "title": "Golf Easter Collection",
+    "handle": "easter-collection",
+    "updated_at": "2026-07-29T05:08:14-06:00",
+    "published_at": "2025-04-17T12:01:09-06:00",
+    "products_count": 24
+   },
+   {
+    "title": "Golf Fairway Covers",
+    "handle": "fairway-wood-covers",
+    "updated_at": "2026-07-31T02:14:55-06:00",
+    "published_at": "2020-03-21T19:29:42-06:00",
+    "products_count": 87
+   },
+   {
+    "title": "Golf Fall Collection",
+    "handle": "fall-collection",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2022-10-22T12:51:44-06:00",
+    "products_count": 61
+   },
+   {
+    "title": "Golf Gadgets",
+    "handle": "golf-gadgets",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2020-08-21T12:03:23-06:00",
+    "products_count": 21
+   },
+   {
+    "title": "Golf Gifts",
+    "handle": "gifts",
+    "updated_at": "2026-07-31T02:14:57-06:00",
+    "published_at": "2023-10-25T11:53:53-06:00",
+    "products_count": 202
+   },
+   {
+    "title": "Golf Gifts For Boyfriends",
+    "handle": "gifts-for-boyfriend",
+    "updated_at": "2026-07-31T02:14:57-06:00",
+    "published_at": "2025-10-07T01:25:57-06:00",
+    "products_count": 186
+   },
+   {
+    "title": "Golf Gifts For Brothers",
+    "handle": "gifts-for-brother",
+    "updated_at": "2026-07-31T02:14:57-06:00",
+    "published_at": "2025-10-07T01:26:34-06:00",
+    "products_count": 267
+   },
+   {
+    "title": "Golf Gifts For Dads",
+    "handle": "deals-for-dads",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2023-06-05T12:35:31-06:00",
+    "products_count": 183
+   },
+   {
+    "title": "Golf Gifts For Girlfriend",
+    "handle": "gifts-for-girlfriend",
+    "updated_at": "2026-07-31T02:14:57-06:00",
+    "published_at": "2025-10-07T01:30:14-06:00",
+    "products_count": 104
+   },
+   {
+    "title": "Golf Gifts For Her",
+    "handle": "for-her",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-03-18T09:24:27-06:00",
+    "products_count": 39
+   },
+   {
+    "title": "Golf Gifts For Him",
+    "handle": "for-him",
+    "updated_at": "2026-07-31T02:14:58-06:00",
+    "published_at": "2025-03-18T09:29:13-06:00",
+    "products_count": 258
+   },
+   {
+    "title": "Golf Gifts For Moms",
+    "handle": "gifts-for-moms",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:27:33-06:00",
+    "products_count": 75
+   },
+   {
+    "title": "Golf Gifts Under $100",
+    "handle": "gifts-under-100",
+    "updated_at": "2026-07-31T02:15:03-06:00",
+    "published_at": "2022-11-02T11:53:04-06:00",
+    "products_count": 1029
+   },
+   {
+    "title": "Golf Gifts Under $50",
+    "handle": "gifts-under-50",
+    "updated_at": "2026-07-31T02:15:08-06:00",
+    "published_at": "2022-11-02T11:49:57-06:00",
+    "products_count": 865
+   },
+   {
+    "title": "Golf Gloves",
+    "handle": "golf-gloves",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2020-11-19T19:10:06-07:00",
+    "products_count": 8
+   },
+   {
+    "title": "Golf Halloween Collection",
+    "handle": "halloween-collection",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2022-10-25T16:07:23-06:00",
+    "products_count": 36
+   },
+   {
+    "title": "Golf Hat Caddies",
+    "handle": "hat-caddies",
+    "updated_at": "2026-07-30T05:06:31-06:00",
+    "published_at": "2025-10-07T01:15:50-06:00",
+    "products_count": 3
+   },
+   {
+    "title": "Golf Hats",
+    "handle": "hats",
+    "updated_at": "2026-07-31T02:15:09-06:00",
+    "published_at": "2020-11-03T10:04:39-07:00",
+    "products_count": 197
+   },
+   {
+    "title": "Golf Headcover Sets",
+    "handle": "head-cover-sets",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2024-10-22T21:41:18-06:00",
+    "products_count": 92
+   },
+   {
+    "title": "Golf Headcovers",
+    "handle": "headcovers",
+    "updated_at": "2026-07-31T02:15:10-06:00",
+    "published_at": "2019-08-23T14:42:54-06:00",
+    "products_count": 736
+   },
+   {
+    "title": "Golf Headcovers Bundles",
+    "handle": "bundle-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2022-09-27T08:20:32-06:00",
+    "products_count": 773
+   },
+   {
+    "title": "Golf Headcovers Racks",
+    "handle": "headcover-racks",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-02-25T09:55:38-07:00",
+    "products_count": 2
+   },
+   {
+    "title": "Golf Holiday Gifts",
+    "handle": "holiday-gift-packs",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2024-10-24T11:18:50-06:00",
+    "products_count": 49
+   },
+   {
+    "title": "Golf Holiday Power Hour",
+    "handle": "holiday-power-hour",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2024-12-09T10:02:42-07:00",
+    "products_count": 77
+   },
+   {
+    "title": "Golf Hybrid Covers",
+    "handle": "hybrid",
+    "updated_at": "2026-07-31T02:15:10-06:00",
+    "published_at": "2020-06-13T20:03:50-06:00",
+    "products_count": 56
+   },
+   {
+    "title": "Golf Joker Collection",
+    "handle": "joker",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2021-03-04T14:18:13-07:00",
+    "products_count": 21
+   },
+   {
+    "title": "Golf Kraken Collection",
+    "handle": "kraken",
+    "updated_at": "2026-07-29T05:08:10-06:00",
+    "published_at": "2023-11-24T09:27:04-07:00",
+    "products_count": 13
+   },
+   {
+    "title": "Golf Margaritaville Collection",
+    "handle": "margaritaville",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2023-10-12T10:47:39-06:00",
+    "products_count": 20
+   },
+   {
+    "title": "Golf NASA Collection",
+    "handle": "nasa",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2024-01-23T06:55:40-07:00",
+    "products_count": 11
+   },
+   {
+    "title": "Golf Patriotic Collection",
+    "handle": "patriotic",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2022-07-27T14:35:44-06:00",
+    "products_count": 51
+   },
+   {
+    "title": "Golf Polos Bundles",
+    "handle": "bundle-polos",
+    "updated_at": "2026-07-29T05:08:19-06:00",
+    "published_at": "2022-08-15T13:30:40-06:00",
+    "products_count": 100
+   },
+   {
+    "title": "Golf Presidental Collection",
+    "handle": "keep-american-great",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2019-01-05T09:33:12-07:00",
+    "products_count": 42
+   },
+   {
+    "title": "Golf Putter Covers",
+    "handle": "putter-covers",
+    "updated_at": "2026-07-31T02:15:10-06:00",
+    "published_at": "2020-05-30T09:21:03-06:00",
+    "products_count": 232
+   },
+   {
+    "title": "Golf Putter Grips",
+    "handle": "putter-grip",
+    "updated_at": "2026-07-06T12:12:14-06:00",
+    "published_at": "2023-03-06T13:36:54-07:00",
+    "products_count": 4
+   },
+   {
+    "title": "Golf Rope Hats",
+    "handle": "rope-hats",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:14:51-06:00",
+    "products_count": 167
+   },
+   {
+    "title": "Golf Royal Collection",
+    "handle": "royal-collection",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2024-07-16T17:12:56-06:00",
+    "products_count": 26
+   },
+   {
+    "title": "Golf Royal Flush",
+    "handle": "royal-flush",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2022-08-02T17:40:11-06:00",
+    "products_count": 59
+   },
+   {
+    "title": "Golf Shock Power Hour Collection",
+    "handle": "shock-power-hour",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-01-14T20:46:19-07:00",
+    "products_count": 86
+   },
+   {
+    "title": "Golf South Park",
+    "handle": "south-park",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2023-06-15T13:57:03-06:00",
+    "products_count": 13
+   },
+   {
+    "title": "Golf Spooky Season",
+    "handle": "spooky-season",
+    "updated_at": "2026-07-29T05:08:19-06:00",
+    "published_at": "2023-10-03T11:39:58-06:00",
+    "products_count": 49
+   },
+   {
+    "title": "Golf Spring Collection",
+    "handle": "spring-collection",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2021-05-07T18:46:34-06:00",
+    "products_count": 136
+   },
+   {
+    "title": "Golf St Paddy's Day",
+    "handle": "st-paddys-day",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2021-03-10T09:55:03-07:00",
+    "products_count": 12
+   },
+   {
+    "title": "Golf Stand Bags",
+    "handle": "golf-stand-bags",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:05:44-06:00",
+    "products_count": 24
+   },
+   {
+    "title": "Golf Stocking Stuffers",
+    "handle": "stocking-stuffers",
+    "updated_at": "2026-07-31T02:15:11-06:00",
+    "published_at": "2024-12-04T11:06:41-07:00",
+    "products_count": 76
+   },
+   {
+    "title": "Golf Tees",
+    "handle": "golf-tees",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2020-11-26T21:43:57-07:00",
+    "products_count": 8
+   },
+   {
+    "title": "Golf TMNT Collection",
+    "handle": "tmnt",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2023-07-17T13:19:14-06:00",
+    "products_count": 33
+   },
+   {
+    "title": "Golf Top Gun Collection",
+    "handle": "golf-top-gun-collection",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:32:45-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Golf Tournaments Collection",
+    "handle": "golf-tournaments-collection",
+    "updated_at": "2026-07-06T12:12:17-06:00",
+    "published_at": "2024-11-22T12:27:05-07:00",
+    "products_count": 7
+   },
+   {
+    "title": "Golf Towels",
+    "handle": "towels",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2020-05-30T09:21:03-06:00",
+    "products_count": 29
+   },
+   {
+    "title": "Golf Trucker Hats",
+    "handle": "trucker-hats",
+    "updated_at": "2026-07-28T05:09:03-06:00",
+    "published_at": "2025-10-07T01:15:39-06:00",
+    "products_count": 4
+   },
+   {
+    "title": "Golf USA Tribute Collection",
+    "handle": "usa-tribute-collection",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2018-10-06T12:59:15-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Golf Wallets",
+    "handle": "wallets",
+    "updated_at": "2026-07-06T12:12:18-06:00",
+    "published_at": "2024-12-12T11:12:10-07:00",
+    "products_count": 10
+   },
+   {
+    "title": "Golf Yellowstone Collection",
+    "handle": "yellowstone-x-pins-aces",
+    "updated_at": "2026-07-28T05:09:03-06:00",
+    "published_at": "2024-10-28T13:53:08-06:00",
+    "products_count": 11
+   },
+   {
+    "title": "Golfer Gift Packs",
+    "handle": "golfer-gift-packs",
+    "updated_at": "2026-07-06T12:12:33-06:00",
+    "published_at": "2025-11-28T09:53:25-07:00",
+    "products_count": 10
+   },
+   {
+    "title": "Grab Bag Or Mystery Items",
+    "handle": "grab-bag-or-mystery-items",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-11-14T08:19:07-07:00",
+    "products_count": 45
+   },
+   {
+    "title": "Green Driver Headcovers",
+    "handle": "green-driver-headcovers",
+    "updated_at": "2026-07-30T08:26:15-06:00",
+    "published_at": "2025-10-07T00:50:15-06:00",
+    "products_count": 16
+   },
+   {
+    "title": "Green Golf Bags",
+    "handle": "green-golf-bags",
+    "updated_at": "2026-07-06T12:12:30-06:00",
+    "published_at": "2025-10-07T01:10:21-06:00",
+    "products_count": 3
+   },
+   {
+    "title": "Green Golf Ball Markers",
+    "handle": "green-golf-ball-markers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:12:58-06:00",
+    "products_count": 25
+   },
+   {
+    "title": "Green Golf Headcovers",
+    "handle": "green-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:02:05-06:00",
+    "products_count": 61
+   },
+   {
+    "title": "Green Hybrid Headcovers",
+    "handle": "green-hybrid-headcovers",
+    "updated_at": "2026-07-29T05:08:19-06:00",
+    "published_at": "2025-10-07T01:00:44-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Green Putter Covers",
+    "handle": "green-putter-covers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:52:52-06:00",
+    "products_count": 26
+   },
+   {
+    "title": "Green Women's Sleeveless Golf Shirts",
+    "handle": "green-womens-sleeveless-shirts",
+    "updated_at": "2026-07-06T12:12:23-06:00",
+    "published_at": "2025-10-07T00:38:19-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "Grey Golf Headcovers",
+    "handle": "gray-headcovers",
+    "updated_at": "2026-07-29T05:08:14-06:00",
+    "published_at": "2025-10-07T01:01:55-06:00",
+    "products_count": 17
+   },
+   {
+    "title": "Grip It. Rip It. Own It.",
+    "handle": "grip-it-rip-it-own-it",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-08-19T06:42:33-06:00",
+    "products_count": 18
+   },
+   {
+    "title": "Handmade Golf Headcovers",
+    "handle": "handmade-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:47:54-06:00",
+    "products_count": 40
+   },
+   {
+    "title": "Hats With Ball Marker",
+    "handle": "hats-with-ball-marker",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-11-28T07:30:24-07:00",
+    "products_count": 21
+   },
+   {
+    "title": "Headcovers - Fairway",
+    "handle": "headcovers-fairway",
+    "updated_at": "2026-07-31T02:15:11-06:00",
+    "published_at": "2025-11-12T19:12:10-07:00",
+    "products_count": 99
+   },
+   {
+    "title": "Heydude X Pins And Aces",
+    "handle": "heydude-x-pins-and-aces",
+    "updated_at": "2026-07-06T12:12:19-06:00",
+    "published_at": "2025-03-03T12:02:36-07:00",
+    "products_count": 17
+   },
+   {
+    "title": "His And Hers Matching Collections",
+    "handle": "his-hers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2024-09-17T11:45:57-06:00",
+    "products_count": 60
+   },
+   {
+    "title": "Home page",
+    "handle": "frontpage",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2017-10-08T16:27:55-06:00",
+    "products_count": 265
+   },
+   {
+    "title": "Hoodies",
+    "handle": "hoodies-1",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-11-12T19:04:21-07:00",
+    "products_count": 79
+   },
+   {
+    "title": "House Cleaning",
+    "handle": "house-cleaning",
+    "updated_at": "2026-07-06T12:12:15-06:00",
+    "published_at": "2023-08-19T09:19:03-06:00",
+    "products_count": 19
+   },
+   {
+    "title": "Icee",
+    "handle": "icee",
+    "updated_at": "2026-07-06T12:12:14-06:00",
+    "published_at": "2022-09-29T16:43:46-06:00",
+    "products_count": 4
+   },
+   {
+    "title": "Insane Savings + BOGO Polo's",
+    "handle": "insane-polos",
+    "updated_at": "2026-07-31T02:15:12-06:00",
+    "published_at": "2025-11-28T15:15:39-07:00",
+    "products_count": 85
+   },
+   {
+    "title": "Joker Golf Headcovers",
+    "handle": "joker-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:46:55-06:00",
+    "products_count": 7
+   },
+   {
+    "title": "JUST IN",
+    "handle": "just-in",
+    "updated_at": "2026-07-30T08:45:24-06:00",
+    "published_at": "2020-11-19T13:02:48-07:00",
+    "products_count": 1182
+   },
+   {
+    "title": "L Size Men's Golf Polo Shirts",
+    "handle": "l-size-mens-polo-shirts",
+    "updated_at": "2026-07-30T12:29:59-06:00",
+    "published_at": "2025-10-07T00:29:15-06:00",
+    "products_count": 87
+   },
+   {
+    "title": "L Size Women's Golf Polo Shirts",
+    "handle": "l-size-womens-polo-shirts",
+    "updated_at": "2026-07-28T05:09:03-06:00",
+    "published_at": "2025-10-07T00:37:05-06:00",
+    "products_count": 48
+   },
+   {
+    "title": "L Size Women's Golf Skirts",
+    "handle": "l-size-golf-skirts",
+    "updated_at": "2026-07-06T12:12:25-06:00",
+    "published_at": "2025-10-07T00:44:30-06:00",
+    "products_count": 12
+   },
+   {
+    "title": "L Size Women's Sleeveless Golf Shirts",
+    "handle": "l-size-womens-sleeveless-shirts",
+    "updated_at": "2026-07-28T05:09:03-06:00",
+    "published_at": "2025-10-07T00:40:25-06:00",
+    "products_count": 13
+   },
+   {
+    "title": "Large Golf Gloves",
+    "handle": "l-golf-gloves",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T01:12:13-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Large Golf Hats",
+    "handle": "large-golf-hats",
+    "updated_at": "2026-07-06T12:12:32-06:00",
+    "published_at": "2025-10-07T01:25:33-06:00",
+    "products_count": 23
+   },
+   {
+    "title": "LAST CALL",
+    "handle": "last-call",
+    "updated_at": "2026-07-06T12:12:20-06:00",
+    "published_at": "2025-07-25T07:48:32-06:00",
+    "products_count": 0
+   },
+   {
+    "title": "Last Chance",
+    "handle": "last-chance",
+    "updated_at": "2026-07-06T12:12:15-06:00",
+    "published_at": "2023-07-07T10:57:43-06:00",
+    "products_count": 13
+   },
+   {
+    "title": "Leather Golf Headcovers",
+    "handle": "leather-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T01:03:31-06:00",
+    "products_count": 316
+   },
+   {
+    "title": "Left Handed Golf Gloves",
+    "handle": "left-hand-gloves",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T01:11:39-06:00",
+    "products_count": 5
+   },
+   {
+    "title": "Limited Edition Golf Headcovers",
+    "handle": "limited-edition-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2019-04-16T10:08:04-06:00",
+    "products_count": 223
+   },
+   {
+    "title": "LiquorStick 3.0",
+    "handle": "golf-liquorsticks",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2024-11-20T23:25:34-07:00",
+    "products_count": 25
+   },
+   {
+    "title": "LP-wls collection",
+    "handle": "lp-wls-collection",
+    "updated_at": "2026-07-06T12:12:16-06:00",
+    "published_at": "2024-06-27T02:04:11-06:00",
+    "products_count": 20
+   },
+   {
+    "title": "M Size Men's Golf Polo Shirts",
+    "handle": "m-size-mens-polo-shirts",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:29:09-06:00",
+    "products_count": 392
+   },
+   {
+    "title": "M Size Women's Golf Polo Shirts",
+    "handle": "m-size-womens-polo-shirts",
+    "updated_at": "2026-07-28T05:09:03-06:00",
+    "published_at": "2025-10-07T00:36:58-06:00",
+    "products_count": 48
+   },
+   {
+    "title": "M Size Women's Golf Skirts",
+    "handle": "m-size-golf-skirts",
+    "updated_at": "2026-07-06T12:12:25-06:00",
+    "published_at": "2025-10-07T00:44:24-06:00",
+    "products_count": 12
+   },
+   {
+    "title": "M Size Women's Sleeveless Golf Shirts",
+    "handle": "m-size-womens-sleeveless-shirts",
+    "updated_at": "2026-07-28T05:09:03-06:00",
+    "published_at": "2025-10-07T00:40:19-06:00",
+    "products_count": 13
+   },
+   {
+    "title": "Magnetic Golf Towels",
+    "handle": "magnetic-towels",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T01:13:41-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Mallet Putter Covers",
+    "handle": "mallet-putter-covers",
+    "updated_at": "2026-07-31T02:15:12-06:00",
+    "published_at": "2025-10-07T00:52:08-06:00",
+    "products_count": 120
+   },
+   {
+    "title": "Medium Golf Gloves",
+    "handle": "m-golf-gloves",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T01:12:02-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Membership Polos",
+    "handle": "membership-polos",
+    "updated_at": "2026-07-31T02:15:14-06:00",
+    "published_at": "2026-01-19T12:35:09-07:00",
+    "products_count": 426
+   },
+   {
+    "title": "Memorial Day Golf Sale",
+    "handle": "memorial-day-sale",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-05-22T09:40:46-06:00",
+    "products_count": 19
+   },
+   {
+    "title": "Men's Athletic Golf Shorts",
+    "handle": "athletic-shorts",
+    "updated_at": "2026-07-21T05:08:38-06:00",
+    "published_at": "2025-10-07T00:04:33-06:00",
+    "products_count": 8
+   },
+   {
+    "title": "Men's Black Golf Belts",
+    "handle": "mens-black-golf-belts",
+    "updated_at": "2026-07-06T12:12:22-06:00",
+    "published_at": "2025-10-07T00:31:13-06:00",
+    "products_count": 5
+   },
+   {
+    "title": "Men's Black Golf Joggers",
+    "handle": "mens-black-golf-joggers",
+    "updated_at": "2026-07-21T05:08:38-06:00",
+    "published_at": "2025-10-07T00:03:15-06:00",
+    "products_count": 2
+   },
+   {
+    "title": "Men's Black Golf Polo Shirts",
+    "handle": "mens-black-polo-shirts",
+    "updated_at": "2026-07-30T08:22:03-06:00",
+    "published_at": "2025-10-07T00:24:45-06:00",
+    "products_count": 15
+   },
+   {
+    "title": "Men's Black Golf Shorts",
+    "handle": "mens-black-golf-shorts",
+    "updated_at": "2026-07-26T05:06:59-06:00",
+    "published_at": "2025-10-07T00:04:45-06:00",
+    "products_count": 2
+   },
+   {
+    "title": "Men's Blue Golf Polo Shirts",
+    "handle": "mens-blue-polo-shirts",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:24:56-06:00",
+    "products_count": 38
+   },
+   {
+    "title": "Men's Blue Golf Shorts",
+    "handle": "mens-blue-golf-shorts",
+    "updated_at": "2026-07-24T05:07:36-06:00",
+    "published_at": "2025-10-07T00:04:57-06:00",
+    "products_count": 4
+   },
+   {
+    "title": "Men's Bottoms",
+    "handle": "bottoms",
+    "updated_at": "2026-07-31T02:15:15-06:00",
+    "published_at": "2025-10-07T09:57:49-06:00",
+    "products_count": 22
+   },
+   {
+    "title": "Men's Brown Golf Polo Shirts",
+    "handle": "mens-brown-polo-shirts",
+    "updated_at": "2026-07-06T12:12:21-06:00",
+    "published_at": "2025-10-07T00:25:08-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Men's Golf Apparel",
+    "handle": "mens-golf-apparel",
+    "updated_at": "2026-07-31T02:15:15-06:00",
+    "published_at": "2020-08-07T15:08:54-06:00",
+    "products_count": 559
+   },
+   {
+    "title": "Men's Golf Belts",
+    "handle": "belts",
+    "updated_at": "2026-07-29T02:13:12-06:00",
+    "published_at": "2020-11-02T13:35:21-07:00",
+    "products_count": 23
+   },
+   {
+    "title": "Men's Golf Hoodies",
+    "handle": "hoodies",
+    "updated_at": "2026-07-31T02:15:16-06:00",
+    "published_at": "2023-03-29T18:30:34-06:00",
+    "products_count": 79
+   },
+   {
+    "title": "Men's Golf Joggers",
+    "handle": "mens-joggers",
+    "updated_at": "2026-07-31T02:15:16-06:00",
+    "published_at": "2023-03-03T12:10:14-07:00",
+    "products_count": 12
+   },
+   {
+    "title": "Men's Golf Lifestyle Hoodies",
+    "handle": "lifestyle-hoodies",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-01-31T12:13:03-07:00",
+    "products_count": 14
+   },
+   {
+    "title": "Men's Golf Outerwear",
+    "handle": "mens-outerwear",
+    "updated_at": "2026-07-31T02:15:17-06:00",
+    "published_at": "2022-08-03T09:49:22-06:00",
+    "products_count": 36
+   },
+   {
+    "title": "Men's Golf Pants",
+    "handle": "mens-pants",
+    "updated_at": "2026-07-26T05:06:59-06:00",
+    "published_at": "2025-10-07T00:24:20-06:00",
+    "products_count": 10
+   },
+   {
+    "title": "Men's Golf Performance Hoodies",
+    "handle": "perfomance-hoodie",
+    "updated_at": "2026-07-31T02:15:17-06:00",
+    "published_at": "2023-03-03T09:15:46-07:00",
+    "products_count": 55
+   },
+   {
+    "title": "Men's Golf Performance Shorts",
+    "handle": "performance-shorts",
+    "updated_at": "2026-07-23T02:17:37-06:00",
+    "published_at": "2023-09-08T07:03:43-06:00",
+    "products_count": 5
+   },
+   {
+    "title": "Men's Golf Polos",
+    "handle": "mens-polos",
+    "updated_at": "2026-07-31T02:15:17-06:00",
+    "published_at": "2022-07-11T12:21:44-06:00",
+    "products_count": 161
+   },
+   {
+    "title": "Men's Golf Pullovers",
+    "handle": "pullovers",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2021-02-05T10:06:14-07:00",
+    "products_count": 95
+   },
+   {
+    "title": "Men's Golf Shorts",
+    "handle": "mens-shorts",
+    "updated_at": "2026-07-30T02:13:47-06:00",
+    "published_at": "2024-05-17T12:35:12-06:00",
+    "products_count": 13
+   },
+   {
+    "title": "Men's Golf Shorts Size 30",
+    "handle": "mens-golf-shorts-size-30",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T00:08:13-06:00",
+    "products_count": 15
+   },
+   {
+    "title": "Men's Golf Shorts Size 32",
+    "handle": "mens-golf-shorts-size-32",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T00:08:27-06:00",
+    "products_count": 15
+   },
+   {
+    "title": "Men's Golf Shorts Size 34",
+    "handle": "mens-golf-shorts-size-34",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T00:23:32-06:00",
+    "products_count": 15
+   },
+   {
+    "title": "Men's Golf Shorts Size 36",
+    "handle": "mens-golf-shorts-size-36",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T00:23:43-06:00",
+    "products_count": 15
+   },
+   {
+    "title": "Men's Golf Shorts Size 38",
+    "handle": "mens-golf-shorts-size-38",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T00:23:57-06:00",
+    "products_count": 15
+   },
+   {
+    "title": "Men's Golf Shorts Size 40",
+    "handle": "mens-golf-shorts-size-40",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-10-07T00:24:10-06:00",
+    "products_count": 15
+   },
+   {
+    "title": "Men's Golf Street Wear",
+    "handle": "street-wear",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2022-09-29T13:46:26-06:00",
+    "products_count": 82
+   },
+   {
+    "title": "Men's Golf Sweatshirts",
+    "handle": "mens-sweatshirts",
+    "updated_at": "2026-07-30T05:06:36-06:00",
+    "published_at": "2025-05-07T12:43:18-06:00",
+    "products_count": 14
+   },
+   {
+    "title": "Men's Golf T-Shirts",
+    "handle": "tee-shirts",
+    "updated_at": "2026-07-28T02:19:53-06:00",
+    "published_at": "2021-03-05T10:57:25-07:00",
+    "products_count": 48
+   },
+   {
+    "title": "Men's Golf Tops",
+    "handle": "mens-tops",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:24:32-06:00",
+    "products_count": 529
+   },
+   {
+    "title": "Men's Gray Golf Joggers",
+    "handle": "mens-gray-golf-joggers",
+    "updated_at": "2026-07-18T05:07:52-06:00",
+    "published_at": "2025-10-07T00:03:57-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "Men's Gray Golf Polo Shirts",
+    "handle": "mens-gray-polo-shirts",
+    "updated_at": "2026-07-28T05:09:03-06:00",
+    "published_at": "2025-10-07T00:25:18-06:00",
+    "products_count": 14
+   },
+   {
+    "title": "Men's Gray Golf Shorts",
+    "handle": "mens-gray-golf-shorts",
+    "updated_at": "2026-07-06T12:12:20-06:00",
+    "published_at": "2025-10-07T00:05:09-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "Men's Green Golf Polo Shirts",
+    "handle": "mens-green-polo-shirts",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:27:16-06:00",
+    "products_count": 19
+   },
+   {
+    "title": "Men's Green Golf Shorts",
+    "handle": "mens-green-golf-shorts",
+    "updated_at": "2026-07-20T05:06:52-06:00",
+    "published_at": "2025-10-07T00:05:20-06:00",
+    "products_count": 2
+   },
+   {
+    "title": "Men's Grey Golf Belts",
+    "handle": "mens-gray-golf-belts",
+    "updated_at": "2026-07-06T12:12:22-06:00",
+    "published_at": "2025-10-07T00:31:24-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "Men's Leather Golf Belts",
+    "handle": "mens-leather-golf-belts",
+    "updated_at": "2026-07-06T12:12:24-06:00",
+    "published_at": "2025-10-07T00:33:35-06:00",
+    "products_count": 2
+   },
+   {
+    "title": "Men's Navy Golf Joggers",
+    "handle": "mens-navy-golf-joggers",
+    "updated_at": "2026-07-24T05:07:36-06:00",
+    "published_at": "2025-10-07T00:04:08-06:00",
+    "products_count": 2
+   },
+   {
+    "title": "Men's Navy Golf Shorts",
+    "handle": "mens-navy-golf-shorts",
+    "updated_at": "2026-07-24T05:07:36-06:00",
+    "published_at": "2025-10-07T00:05:31-06:00",
+    "products_count": 2
+   },
+   {
+    "title": "Men's Orange Golf Polo Shirts",
+    "handle": "mens-orange-polo-shirts",
+    "updated_at": "2026-07-06T12:12:21-06:00",
+    "published_at": "2025-10-07T00:27:28-06:00",
+    "products_count": 4
+   },
+   {
+    "title": "Men's Orange Golf Shorts",
+    "handle": "mens-orange-golf-shorts",
+    "updated_at": "2026-07-20T05:06:48-06:00",
+    "published_at": "2025-10-07T00:05:46-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "Men's Pink Golf Belts",
+    "handle": "mens-pink-golf-belts",
+    "updated_at": "2026-07-06T12:12:22-06:00",
+    "published_at": "2025-10-07T00:31:56-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "Men's Pink Golf Polo Shirts",
+    "handle": "mens-pink-polo-shirts",
+    "updated_at": "2026-07-06T12:12:22-06:00",
+    "published_at": "2025-10-07T00:27:38-06:00",
+    "products_count": 15
+   },
+   {
+    "title": "Men's Red Golf Belts",
+    "handle": "mens-red-golf-belts",
+    "updated_at": "2026-07-28T05:09:03-06:00",
+    "published_at": "2025-10-07T00:32:08-06:00",
+    "products_count": 2
+   },
+   {
+    "title": "Men's Red Golf Polo Shirts",
+    "handle": "mens-red-polo-shirts",
+    "updated_at": "2026-07-06T12:12:22-06:00",
+    "published_at": "2025-10-07T00:27:49-06:00",
+    "products_count": 5
+   },
+   {
+    "title": "Men's White Golf Belts",
+    "handle": "mens-white-golf-belts",
+    "updated_at": "2026-07-28T05:09:03-06:00",
+    "published_at": "2025-10-07T00:32:24-06:00",
+    "products_count": 3
+   },
+   {
+    "title": "Men's White Golf Joggers",
+    "handle": "mens-white-golf-joggers",
+    "updated_at": "2026-07-06T12:12:20-06:00",
+    "published_at": "2025-10-07T00:04:20-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "Men's White Golf Polo Shirts",
+    "handle": "mens-white-polo-shirts",
+    "updated_at": "2026-07-28T05:09:03-06:00",
+    "published_at": "2025-10-07T00:27:59-06:00",
+    "products_count": 10
+   },
+   {
+    "title": "Men's White Golf Shorts",
+    "handle": "mens-white-golf-shorts",
+    "updated_at": "2026-07-09T05:08:32-06:00",
+    "published_at": "2025-10-07T00:06:00-06:00",
+    "products_count": 1
+   },
+   {
+    "title": "Navy Driver Headcovers",
+    "handle": "navy-driver-headcovers",
+    "updated_at": "2026-07-30T05:06:41-06:00",
+    "published_at": "2025-10-07T00:50:25-06:00",
+    "products_count": 4
+   }
+  ]
+ },
+ "errors": [
+  {
+   "brand": "Bogey Bros",
+   "url": "https://bogeybros.co/products.json?limit=5",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  },
+  {
+   "brand": "Bad Birdie",
+   "url": "https://badbirdiegolf.com/products.json?limit=5",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  },
+  {
+   "brand": "Swannies",
+   "url": "https://swannies.co/products.json?limit=5",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  },
+  {
+   "brand": "Shank It",
+   "url": "https://shankitgolf.com/products.json?limit=5",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  },
+  {
+   "brand": "U Suck",
+   "url": "https://usuckatgolf.com/products.json?limit=5",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  },
+  {
+   "brand": "Bogey Bros",
+   "url": "https://bogeybros.co/collections/shop/products.json?limit=250",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  },
+  {
+   "brand": "Bad Birdie",
+   "url": "https://badbirdiegolf.com/collections/mens-polos/products.json?limit=250",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  },
+  {
+   "brand": "Swannies",
+   "url": "https://swannies.co/collections/polos/products.json?limit=250",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  },
+  {
+   "brand": "Bogey Bros",
+   "url": "https://bogeybros.co/collections.json?limit=250",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  },
+  {
+   "brand": "Bad Birdie",
+   "url": "https://badbirdiegolf.com/collections.json?limit=250",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  },
+  {
+   "brand": "Swannies",
+   "url": "https://swannies.co/collections.json?limit=250",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  },
+  {
+   "brand": "Shank It",
+   "url": "https://shankitgolf.com/collections.json?limit=250",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  },
+  {
+   "brand": "U Suck",
+   "url": "https://usuckatgolf.com/collections.json?limit=250",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+  }
+ ]
+}
