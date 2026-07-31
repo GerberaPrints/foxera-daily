@@ -50,7 +50,7 @@ function accTg_seller_(s){
 // Phân loại trạng thái từ chuỗi state của Hub / quét local — v4
 function accTg_state_(st){
   var s = String(st||'').toLowerCase();
-  if (/sus\s*new/.test(s)) return 'susnew';
+  if (/sus[\s_-]*new/.test(s)) return 'susnew';
   if (/blocked_429|429|chưa fetch|chua fetch|error/.test(s)) return 'err';   // lỗi fetch ≠ chết
   if (/not.?selling|suspend|⛔|closed|dead/.test(s)) return 'sus';
   if (/\bsus\b|sus ·|sus·|sus \(/.test(s)) return 'sus';
@@ -116,7 +116,7 @@ function accTg_delta_(a){
 function accTg_line_(a, acts){
   var ac = acts[a.code] || {};
   var badge = ac.prio ? accTg_prio_(ac.prio)+' ' : '';
-  var act = a.act || (ac.act ? ac.act : '');
+  var act = a._useMy ? ac.act : (a.act || (ac.act ? ac.act : ''));
   var s = '• <b>'+a.code+'</b> '+badge+act+accTg_delta_(a);
   if (a.seller) s += ' · '+accTg_seller_(a.seller);
   return s;
@@ -141,7 +141,10 @@ function accTg_build_(){
       if (URGENT.test(a.act) || /^p1/i.test(String(ac.prio))) urgent.push(a); else closedSus++;
       return;
     }
-    if (URGENT.test(a.act) || /^p1/i.test(String(ac.prio))) { urgent.push(a); return; }
+    if (URGENT.test(a.act) || /^p1/i.test(String(ac.prio))) {
+      if (!URGENT.test(a.act) && ac.act) a._useMy = true;  // vào urgent vì P1 Cloud -> hiện action Cloud
+      urgent.push(a); return;
+    }
     if (WATCH.test(a.act)) { watch.push(a); return; }
     healthy.push(a);
   });
