@@ -38,6 +38,13 @@
 - Wave detection: đã chuyển sang diff shops-live.json + 2-strike (Hub v2.29.1). Band-edge guard: rating trong ±0.05 quanh ngưỡng 4.0/4.3/4.6 → flag 'sát ngưỡng — verify bằng mắt' (áp cả 2 phía).
 - Review-text: đã duyệt, scope 4 store sống E29→E4→E257→E193, 10-20 review mới nhất (Cloud build trong verify_shops v8).
 
+## 📬 CLOUD→HUB (31/07 chiều — Hub đọc là coi như đã nhận, khỏi chờ user dán)
+1. E267 = Ngân Huỳnh: ĐÃ áp registry, xoá câu treo. Còn treo: 2 mã SUS NEW thiếu · E185 owner · bảng setup Năng06 vs Ly09.
+2. Entry mẫu daily JSON (E29) đã gửi user chuyển; reader lưu ý mọi trường optional trừ `code`; map action/priority/top_issue.
+3. Review-text v8 ĐÃ ship (E29,E4,E257,E193, ≤20 review, JSON-LD+fallback) → local-verify/foxera-reviews.json từ lần quét 04:00 mai.
+4. Band-edge guard ±0.05 đã áp phía Cloud. Quy trình DECISIONS 2 chiều hiệu lực.
+5. **User bổ sung 14 link store** → registry key `store_links_extra` (code→url+shop); 9 mã MỚI chưa rõ owner/status: E35 E66 E100 E133 E137 E138 E152 E163 E189 — Hub nếu có 2 mã này trong 'Store Links'/roster thì chốt owner giúp; 2 trong nhóm có thể là 2 mã SUS NEW thiếu. verify_shops đã tự quét thêm nhóm này (coverage 35→44+).
+
 ## Việc mở
 0. **Hub v2.29.x**: map `action` + `priority` + `top_issue` từ foxera-accounts-daily.json vào cột **'Đề xuất (Claude)'** trong sheet 🏪 Accounts (contract đã mở rộng fields) — để đề xuất từng account hiện ngay trong hệ thống, team không cần lật Telegram.
 1. User gửi thêm: 2 mã SUS NEW thiếu · xác nhận E185 · bảng so sánh setup Năng06 vs Ly09 (→ Cloud chạy phân tích tương quan môi trường).

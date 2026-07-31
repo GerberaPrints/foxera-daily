@@ -75,6 +75,8 @@ def load_targets():
         for sec in ("live", "sus_with_sales"):
             for x in r.get(sec, []):
                 add(x["code"], x.get("shop"))
+        for code, v in (r.get("store_links_extra") or {}).items():
+            add(code, v.get("shop"), v.get("url"))
     except Exception as e:
         print("registry skip:", e)
     return out

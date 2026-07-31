@@ -377,7 +377,12 @@
         "E238",
         "E237",
         "E236"
-      ]
+      ],
+      "shops": {
+        "E238": "VantixoArtHouse",
+        "E237": "ElzoraStudioCo",
+        "E236": "NuviroCraftWorks"
+      }
     },
     {
       "owner_raw": "Thị Năng",
@@ -471,7 +476,8 @@
     "Email đúng chính tả gốc: seller02foxeraA (2 chữ a), seller13.foxera (có dấu chấm) — map login phải dùng nguyên văn",
     "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
     "E185 đổi chủ giữa snapshot (Năng06 -> Ly09) — chờ xác nhận owner thật",
-    "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)"
+    "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
+    "14 link user bo sung 31/07; 9 ma MOI chua co trong registry (owner/status chua ro): E35, E66, E100, E133, E137, E138, E152, E163, E189 — cho user/Ly Nguyen bo sung owner+status; 2 trong so nay co the la 2 ma SUS NEW thieu (37 vs 35) — KHONG tu suy"
   ],
   "seller_emails": {
     "Seller01": {
@@ -627,5 +633,63 @@
     },
     "scraper_correction": "E29: rating that 4.1 (screenshot nguoi xem 13:48), scraper v4 doc 4.0 do vo nham widget -> v5 uu tien aggregateRating JSON-LD"
   },
-  "wave_detection": "Hub v2.29.1 (31/07): wave = diff foxera-shops-live.json giua cac lan quet + quy tac 2-lan-lien-tiep (lan 1 not_selling = nghi, lan 2 = xac nhan + dem vao song). GAS-fetch chi con du phong khi live cu >48h."
+  "wave_detection": "Hub v2.29.1 (31/07): wave = diff foxera-shops-live.json giua cac lan quet + quy tac 2-lan-lien-tiep (lan 1 not_selling = nghi, lan 2 = xac nhan + dem vao song). GAS-fetch chi con du phong khi live cu >48h.",
+  "store_links_extra": {
+    "E238": {
+      "url": "https://www.etsy.com/shop/VantixoArtHouse",
+      "shop": "VantixoArtHouse"
+    },
+    "E237": {
+      "url": "https://www.etsy.com/shop/ElzoraStudioCo",
+      "shop": "ElzoraStudioCo"
+    },
+    "E236": {
+      "url": "https://www.etsy.com/shop/NuviroCraftWorks",
+      "shop": "NuviroCraftWorks"
+    },
+    "E189": {
+      "url": "https://velorinatelier.etsy.com",
+      "shop": "velorinatelier"
+    },
+    "E163": {
+      "url": "https://zenvorilax.etsy.com",
+      "shop": "zenvorilax"
+    },
+    "E152": {
+      "url": "https://kalverixo.etsy.com",
+      "shop": "kalverixo"
+    },
+    "E146": {
+      "url": "https://www.etsy.com/shop/Lunavexor",
+      "shop": "Lunavexor"
+    },
+    "E138": {
+      "url": "https://auviramarket.etsy.com",
+      "shop": "auviramarket"
+    },
+    "E137": {
+      "url": "https://norvynstudio.etsy.com",
+      "shop": "norvynstudio"
+    },
+    "E133": {
+      "url": "https://vyxanore.etsy.com",
+      "shop": "vyxanore"
+    },
+    "E100": {
+      "url": "https://zyvexora.etsy.com",
+      "shop": "zyvexora"
+    },
+    "E85": {
+      "url": "https://www.etsy.com/shop/NOVIXRA",
+      "shop": "NOVIXRA"
+    },
+    "E66": {
+      "url": "https://cedarmiststudio.etsy.com",
+      "shop": "cedarmiststudio"
+    },
+    "E35": {
+      "url": "https://artiswovencrafts.etsy.com",
+      "shop": "artiswovencrafts"
+    }
+  }
 }
