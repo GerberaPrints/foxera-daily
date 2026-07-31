@@ -1,0 +1,302 @@
+{
+  "project": "foxera",
+  "verified_at": "2026-07-31",
+  "provenance": "live_local_browser",
+  "shops": [
+    {
+      "code": "E1",
+      "shop": "Stitchavita",
+      "url": "https://www.etsy.com/shop/Stitchavita",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E107",
+      "shop": "Xenavyra",
+      "url": "https://www.etsy.com/shop/Xenavyra",
+      "status": "active",
+      "on_sale": false,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E109",
+      "shop": "Zarvynix",
+      "url": "https://www.etsy.com/shop/Zarvynix",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E114",
+      "shop": "Zyvaneli",
+      "url": "https://www.etsy.com/shop/Zyvaneli",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E119",
+      "shop": "Zyvorexa",
+      "url": "https://www.etsy.com/shop/Zyvorexa",
+      "status": "active",
+      "sales": 2,
+      "rating": 5.0,
+      "reviews": 1,
+      "on_sale": true,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E127",
+      "shop": "Xaloryva",
+      "url": "https://www.etsy.com/shop/Xaloryva",
+      "status": "active",
+      "on_sale": false,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E135",
+      "shop": "VDKHandmade",
+      "url": "https://www.etsy.com/shop/VDKHandmade",
+      "status": "active",
+      "sales": 3,
+      "rating": 5.0,
+      "reviews": 1,
+      "on_sale": true,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E146",
+      "shop": "LUNAVEXOR",
+      "url": "https://www.etsy.com/shop/LUNAVEXOR",
+      "status": "active",
+      "on_sale": false,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E150",
+      "shop": "Elvarixo",
+      "url": "https://www.etsy.com/shop/Elvarixo",
+      "status": "active",
+      "on_sale": false,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E155",
+      "shop": "Valnexiro",
+      "url": "https://www.etsy.com/shop/Valnexiro",
+      "status": "active",
+      "on_sale": false,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E169",
+      "shop": "Kindelora",
+      "url": "https://www.etsy.com/shop/Kindelora",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E172",
+      "shop": "Aurelinx",
+      "url": "https://www.etsy.com/shop/Aurelinx",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E185",
+      "shop": "Norivelledesign",
+      "url": "https://www.etsy.com/shop/Norivelledesign",
+      "status": "active",
+      "on_sale": false,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E188",
+      "shop": "Elorianestudio",
+      "url": "https://www.etsy.com/shop/Elorianestudio",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E190",
+      "shop": "Avenorhomely",
+      "url": "https://www.etsy.com/shop/Avenorhomely",
+      "status": "active",
+      "on_sale": false,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E193",
+      "shop": "HoanElly",
+      "url": "https://www.etsy.com/shop/HoanElly",
+      "status": "active",
+      "sales": 1160,
+      "rating": 4.5,
+      "reviews": 163,
+      "on_sale": true,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E24",
+      "shop": "Celivandora",
+      "url": "https://www.etsy.com/shop/Celivandora",
+      "status": "active",
+      "sales": 77,
+      "rating": 3.5,
+      "reviews": 11,
+      "on_sale": true,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E257",
+      "shop": "VintagebyTung",
+      "url": "https://www.etsy.com/shop/VintagebyTung",
+      "status": "active",
+      "sales": 573,
+      "rating": 4.5,
+      "reviews": 80,
+      "on_sale": true,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E26",
+      "shop": "Aurevanelis",
+      "url": "https://www.etsy.com/shop/Aurevanelis",
+      "status": "active",
+      "sales": 59,
+      "rating": 2.5,
+      "reviews": 5,
+      "on_sale": true,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E29",
+      "shop": "Velarionne",
+      "url": "https://www.etsy.com/shop/Velarionne",
+      "status": "active",
+      "sales": 707,
+      "rating": 4.0,
+      "reviews": 101,
+      "on_sale": true,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E4",
+      "shop": "ThreadMelodia",
+      "url": "https://www.etsy.com/shop/ThreadMelodia",
+      "status": "active",
+      "sales": 681,
+      "rating": 4.5,
+      "reviews": 113,
+      "on_sale": true,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E42",
+      "shop": "GoldenMossWorks",
+      "url": "https://www.etsy.com/shop/GoldenMossWorks",
+      "status": "active",
+      "reviews": 43,
+      "on_sale": false,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E43",
+      "shop": "DreamPineCo",
+      "url": "https://www.etsy.com/shop/DreamPineCo",
+      "status": "active",
+      "sales": 3,
+      "reviews": 43,
+      "on_sale": false,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E47",
+      "shop": "BlueWillowWorks",
+      "url": "https://www.etsy.com/shop/BlueWillowWorks",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E48",
+      "shop": "StarlitCoveCo",
+      "url": "https://www.etsy.com/shop/StarlitCoveCo",
+      "status": "active",
+      "on_sale": false,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E55",
+      "shop": "NovaBirchStudio",
+      "url": "https://www.etsy.com/shop/NovaBirchStudio",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E61",
+      "shop": "WillowPeakStudio",
+      "url": "https://www.etsy.com/shop/WillowPeakStudio",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E62",
+      "shop": "MoonSprigDesigns",
+      "url": "https://www.etsy.com/shop/MoonSprigDesigns",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E77",
+      "shop": "ZAVYNTA",
+      "url": "https://www.etsy.com/shop/ZAVYNTA",
+      "status": "active",
+      "on_sale": false,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E80",
+      "shop": "TORVEXA",
+      "url": "https://www.etsy.com/shop/TORVEXA",
+      "status": "active",
+      "reviews": 44,
+      "on_sale": true,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E81",
+      "shop": "VELNIXA",
+      "url": "https://www.etsy.com/shop/VELNIXA",
+      "status": "active",
+      "reviews": 46,
+      "on_sale": true,
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E84",
+      "shop": "ARVIXON",
+      "url": "https://arvixon.etsy.com",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E85",
+      "shop": "NOVIXRA",
+      "url": "https://www.etsy.com/shop/NOVIXRA",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E92",
+      "shop": "NoviForm",
+      "url": "https://www.etsy.com/shop/NoviForm",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    },
+    {
+      "code": "E93",
+      "shop": "Arvyno",
+      "url": "https://www.etsy.com/shop/Arvyno",
+      "status": "not_selling",
+      "verified_at": "2026-07-31"
+    }
+  ]
+}

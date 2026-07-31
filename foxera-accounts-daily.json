@@ -39,7 +39,12 @@
       "top_issue": "phu thuoc Ads + discount 60% bao mon bien",
       "action": "theo doi ACOS; test giam discount 45-50%; canh rating 4.3 nguong can thiep",
       "likert": 5,
-      "priority": "P2"
+      "priority": "P2",
+      "sales": 1160,
+      "reviews": 163,
+      "shopStatus": "active",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E4",
@@ -47,14 +52,19 @@
       "tier": "A",
       "score": 78,
       "status": "active",
-      "rating": 4.4,
+      "rating": 4.5,
       "review_count": 113,
       "sales_public": 680,
       "listings": 348,
       "top_issue": "5 tuan khong listing moi",
       "action": "day 10-15 listing back-to-school teacher",
       "likert": 4,
-      "priority": "P3"
+      "priority": "P3",
+      "sales": 681,
+      "reviews": 113,
+      "shopStatus": "active",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E257",
@@ -62,14 +72,19 @@
       "tier": "A",
       "score": 78,
       "status": "active",
-      "rating": 4.3,
+      "rating": 4.5,
       "review_count": 80,
       "sales_public": 573,
       "listings": 459,
       "top_issue": "tote $10.95 ban re",
       "action": "test nang tote $12.95-13.95; tach section Tote",
       "likert": 4,
-      "priority": "P3"
+      "priority": "P3",
+      "sales": 573,
+      "reviews": 80,
+      "shopStatus": "active",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E29",
@@ -77,7 +92,7 @@
       "tier": "A",
       "score": 75,
       "status": "active",
-      "rating": 4.1,
+      "rating": 4.0,
       "review_count": 101,
       "sales_public": 707,
       "listings": 697,
@@ -85,7 +100,12 @@
       "top_issue": "rating 4.1 - gap ky vong acrylic (sticker/plastic)",
       "action": "GAP: sua anh/title 'printed acrylic not glass' + dong goi chong vo; KHONG scale Ads truoc khi sua",
       "likert": 3,
-      "priority": "P1"
+      "priority": "P1",
+      "sales": 707,
+      "reviews": 101,
+      "shopStatus": "active",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E135",
@@ -103,7 +123,9 @@
       "priority": "P3",
       "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser",
+      "sales": 3,
+      "reviews": 1
     },
     {
       "code": "E26",
@@ -111,14 +133,19 @@
       "tier": "B",
       "score": 40,
       "status": "dormant",
-      "rating": 2.4,
+      "rating": 2.5,
       "review_count": 5,
       "sales_public": 59,
       "listings": 309,
       "top_issue": "rating 2.4 - 'sticker on plastic'",
       "action": "KHONG bom Ads; neu giu phai thay toan bo anh sang anh that",
       "likert": 2,
-      "priority": "P2"
+      "priority": "P2",
+      "sales": 59,
+      "reviews": 5,
+      "shopStatus": "active",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E24",
@@ -133,7 +160,12 @@
       "top_issue": "cung loi ky vong acrylic",
       "action": "nghieng sang hat; sua anh neu giu suncatcher",
       "likert": 2,
-      "priority": "P3"
+      "priority": "P3",
+      "sales": 77,
+      "reviews": 11,
+      "shopStatus": "active",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E43",
@@ -149,7 +181,9 @@
       "priority": "P3",
       "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser",
+      "sales": 3,
+      "reviews": 43
     },
     {
       "code": "E42",
@@ -165,7 +199,8 @@
       "priority": "P3",
       "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser",
+      "reviews": 43
     },
     {
       "code": "E1",
@@ -178,7 +213,10 @@
       "top_issue": "dinh chi du rating tot",
       "action": "nop/kiem tra khang cao Etsy - tai san dang cuu",
       "likert": 1,
-      "priority": "P2"
+      "priority": "P2",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E169",
@@ -193,7 +231,7 @@
       "top_issue": "SUS co don (first order 2026-06-18) · bank OK",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E114",
@@ -208,7 +246,7 @@
       "top_issue": "SUS co don (first order 2026-05-25) · bank OK",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E109",
@@ -222,7 +260,7 @@
       "priority": "P2",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E84",
@@ -237,7 +275,7 @@
       "top_issue": "SUS co don (first order 2026-05-25) · bank OK",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E47",
@@ -252,7 +290,7 @@
       "top_issue": "SUS co don (first order 2026-06-22) · bank OK",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E85",
@@ -268,7 +306,7 @@
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E93",
@@ -284,7 +322,7 @@
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E92",
@@ -300,7 +338,7 @@
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E55",
@@ -316,7 +354,7 @@
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E62",
@@ -332,7 +370,7 @@
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E172",
@@ -348,7 +386,7 @@
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E61",
@@ -364,7 +402,7 @@
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E127",
@@ -378,9 +416,9 @@
       "priority": "P1",
       "seller": "Năng Phan",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
+      "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E188",
@@ -396,7 +434,7 @@
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "not_selling",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E146",
@@ -410,9 +448,9 @@
       "priority": "P1",
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
+      "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E155",
@@ -426,9 +464,9 @@
       "priority": "P1",
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
+      "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E190",
@@ -442,9 +480,9 @@
       "priority": "P1",
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
+      "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E48",
@@ -458,9 +496,9 @@
       "priority": "P2",
       "seller": "Dâng Trần",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
+      "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E107",
@@ -474,9 +512,9 @@
       "priority": "P1",
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
+      "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E77",
@@ -490,9 +528,9 @@
       "priority": "P1",
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
+      "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E185",
@@ -506,9 +544,9 @@
       "priority": "P2",
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
+      "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E150",
@@ -522,9 +560,38 @@
       "priority": "P1",
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
+      "shopStatus": "active",
       "checkedAt": "2026-07-31",
-      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E81",
+      "shop": "VELNIXA",
+      "tier": "B",
+      "reviews": 46,
+      "shopStatus": "active",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E119",
+      "shop": "Zyvorexa",
+      "tier": "B",
+      "sales": 2,
+      "rating": 5.0,
+      "reviews": 1,
+      "shopStatus": "active",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E80",
+      "shop": "TORVEXA",
+      "tier": "B",
+      "reviews": 44,
+      "shopStatus": "active",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "live_local_browser"
     }
   ],
   "standard": "FoxEra Status Color Coding & Rating Standards v1.0 (31/07/2026): Likert chat luong 1-5 (CAO=tot; band 1.5/2.5/3.5/4.5; mau 1#DC2626 2#F97316 3#FACC15 4#22C55E 5#15803D); khan cap P1-P4 (P1=xu ly NGAY); lead priority 1-4. Quy tac: doc MAU truoc, so chi co nghia trong thang cua no; khong so so giua 2 thang.",
@@ -553,5 +620,6 @@
       "error:*"
     ],
     "freshness_rule": "checkedAt >7 ngay = carry, Hub nen hien thi kem moc ngay"
-  }
+  },
+  "shops_live_merged_at": "2026-07-31"
 }
