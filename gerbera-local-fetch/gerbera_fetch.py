@@ -32,7 +32,7 @@ FEEDS = {
 # collection core: để tính GIÁ ANCHOR = mode của dòng core (LUẬT 2)
 ANCHOR_COLLECTIONS = {
     "Bogey Bros": "https://bogeybros.co/collections/shop/products.json?limit=250",
-    "Bad Birdie": "https://badbirdiegolf.com/collections/mens-polos/products.json?limit=250",
+    "Bad Birdie": "https://badbirdiegolf.com/collections/polos/products.json?limit=250",  # mens-polos khong expose products.json (kiem chung 31/07), polos tra 17 SKU mode $88
     "Swannies":   "https://swannies.co/collections/polos/products.json?limit=250",
 }
 # collections.json: cho B11 (động tĩnh — collection mới/promotion). updated_at bị bump
