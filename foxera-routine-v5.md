@@ -132,3 +132,7 @@ Mỗi run 04:30, NGOÀI foxera-daily.json, PHẢI sinh thêm **foxera-accounts-d
 
 ### LUẬT 20b — NGUỒN VELOCITY TỪ GOOGLE SHEET (31/07/2026)
 Sheet CRM: 1axz9lV0q21574wF_8A2TN5wn7U0bkNKyBCjVjiZRItc (tab Orders, mỗi đơn gắn mã E<code>-<shop>). Nếu Drive MCP CÓ trong run: đọc Orders, đếm đơn/store 7 ngày gần nhất → điểm velocity THẬT + cập nhật summary. Drive MCP VẮNG (run headless không auth) → dùng velocity của foxera-accounts-daily.json hôm trước, ghi "velocity carry (mốc dd/mm)" trong CẦN CHÚ Ý — KHÔNG treo, KHÔNG bịa.
+
+### LUẬT 20c — TÍCH HỢP SCORECARD GAS "FoxEra - Etsy Order Tracking" (31/07/2026, THẮNG 20/20b khi mâu thuẫn)
+GAS bound-script của Sheet CRM (v2.26.0+) TỰ fetch shop-page Etsy 04:30 và chấm SCORE 0-110/Grade A-F vào sheet 'Accounts'; file etsy-accounts-telegram.gs (trong repo) đẩy Telegram 06:10 và tự fetch foxera-accounts-daily.json để ghép dòng hành động.
+=> Vai trò cloud routine từ nay: (1) đọc Sheet qua Drive MCP (tab Accounts nếu thấy, kèm Orders cho velocity) làm NGUỒN SỐ CHÍNH — verify_shops.py chỉ còn là fallback; (2) foxera-accounts-daily.json vẫn ghi ĐỦ scores[] nhưng trọng tâm là top_issue + action CHẤT LƯỢNG cho từng account (GAS sẽ hiển thị nguyên văn); (3) KHÔNG cần GAS multibot đăng FOXACC nếu user dùng bản tích hợp (CHAT_FOXACC bỏ trống); (4) blocks B1-B3 trong file vẫn giữ làm fallback khi user muốn đăng qua multibot. Drive MCP vắng trong run headless -> carry theo 20b.
