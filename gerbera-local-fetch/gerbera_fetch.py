@@ -17,7 +17,7 @@ from datetime import datetime, timezone, timedelta
 BANGKOK = timezone(timedelta(hours=7))
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"}
 TIMEOUT = 25
-SCHEMA_VERSION = "1.0"
+SCHEMA_VERSION = "1.1"
 
 # ── Nguồn quét ──────────────────────────────────────────────────────────────
 # feed limit=N: CHỈ để phát hiện drop 48h + sold-out (LUẬT 2 — không dùng làm anchor)
@@ -46,17 +46,46 @@ COLLECTIONS = {
     "U Suck":      "https://usuckatgolf.com/collections.json?limit=250",
 }
 
+# ── TLS contexts: thang 3 bậc (v1.1 — fix "certificate has expired" do root store may cu) ──
+# 1) certifi (bo CA Mozilla, luon moi — `pip install certifi`)  2) system store  3) unverified (co canh bao)
+def _build_contexts():
+    ctxs = []
+    try:
+        import certifi
+        c = ssl.create_default_context(cafile=certifi.where())
+        ctxs.append(("certifi", c))
+    except Exception:
+        pass
+    ctxs.append(("system", ssl.create_default_context()))
+    u = ssl._create_unverified_context()
+    ctxs.append(("unverified", u))
+    return ctxs
+
+_CTXS = _build_contexts()
+TLS_USED = {}  # url -> mode ("certifi"/"system"/"unverified")
+
 def http_get(url, retries=1):
     last = None
     for _ in range(retries + 1):
-        try:
-            req = urllib.request.Request(url, headers=UA)
-            ctx = ssl.create_default_context()
-            with urllib.request.urlopen(req, timeout=TIMEOUT, context=ctx) as r:
-                return r.read().decode("utf-8", errors="replace"), None
-        except Exception as e:
-            last = "%s: %s" % (type(e).__name__, e)
-            time.sleep(2)
+        for mode, ctx in _CTXS:
+            try:
+                req = urllib.request.Request(url, headers=UA)
+                with urllib.request.urlopen(req, timeout=TIMEOUT, context=ctx) as r:
+                    TLS_USED[url] = mode
+                    return r.read().decode("utf-8", errors="replace"), None
+            except ssl.SSLCertVerificationError as e:
+                last = "SSLCertVerificationError(%s): %s" % (mode, e)
+                continue  # thu bac tiep theo ngay, khong sleep
+            except urllib.error.URLError as e:
+                if isinstance(getattr(e, "reason", None), ssl.SSLCertVerificationError):
+                    last = "SSLCertVerificationError(%s): %s" % (mode, e.reason)
+                    continue
+                last = "%s: %s" % (type(e).__name__, e)
+                break  # loi khong phai cert -> khong can doi context
+            except Exception as e:
+                last = "%s: %s" % (type(e).__name__, e)
+                break
+        time.sleep(2)
     return None, last
 
 def parse_json_tolerant(text):
@@ -163,6 +192,7 @@ def main():
         "anchors": {},        # mode price dòng core (LUẬT 2: đây mới là anchor)
         "collections": {},    # cho B11 — cloud áp LUẬT 8.3 trước khi tin updated_at
         "errors": [],
+        "tls_warnings": [],   # URL nào phải dùng unverified → cloud biết mức tin cậy
     }
 
     for brand, url in FEEDS.items():
@@ -215,6 +245,10 @@ def main():
             }
             for c in cols
         ]
+
+    out["tls_warnings"] = sorted(u for u, m in TLS_USED.items() if m == "unverified")
+    if out["tls_warnings"]:
+        out["tls_note"] = "Cac URL nay fetch voi TLS unverified (root store may cu, chua co certifi) — du lieu gia cong khai, rui ro thap, nhung nen `pip install certifi` de het canh bao."
 
     repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
     dest = os.path.join(repo_root, "gerbera-live-fetch.json")
