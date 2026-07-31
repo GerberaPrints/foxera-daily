@@ -1,0 +1,197 @@
+{
+  "date": "2026-07-31",
+  "locale": "US/USD",
+  "source": "SEED 31/07: quét công khai 31/07/2026 (báo cáo đánh giá 15 store) + số nội bộ (đơn 2026/loss). Từ lần sau: local-verify/foxera-shops-live.json + Sheet nội bộ.",
+  "provenance_note": "Tầng dữ liệu: (a) live_local_browser khi shops-live.json có verified_at ≤7 ngày; (b) seed/carry ghi rõ mốc dd/mm. Số 'đơn 2026'/'loss' = nội bộ, không phải số công khai Etsy.",
+  "summary": {
+    "total": 15,
+    "tier_A": 4,
+    "tier_B": 5,
+    "tier_C": 6,
+    "new_suspended_today": 0
+  },
+  "blocks": {
+    "B1": [
+      "<b>🟢 BLOCK A — ĐANG CHẠY (4 store) · 31/07</b>\n<i>Điểm /100 = trạng thái 30 + rating 25 + velocity 20 + listing 15 + loss 10 (mốc quét 31/07)</i>\n\n<b>1. E193 HoanElly — 90đ</b> 🥇\n• 655 đơn 2026 (nội bộ) · rating 4.5★ (mốc tiếp nhận) · loss 1,8% · Ads mạnh + discount 60%\n• ⚠️ XỬ LÝ: (1) theo dõi ACOS — phụ thuộc Ads; (2) discount 60% kéo dài bào mòn biên → test giảm về 45-50%; (3) canh rating realtime, chạm 4.3★ phải sửa listing acrylic ngay.\n\n<b>2. E4 ThreadMelodia — 78đ</b>\n• 680 sales · 4.4★ (113 rv) · 348 listing (Patch 142/Cap 81/Sweatshirt 76) · hoạt động 24/06\n• ⚠️ XỬ LÝ: store embroidery khỏe nhất còn sống nhưng 5 tuần chưa có listing mới → đẩy 10-15 listing back-to-school teacher (mùa đang cao điểm).\n\n<b>3. E257 VintagebyTung — 78đ</b>\n• 573 sales · 4.3★ (80 rv) · 459 listing (Tote 266!) · active nhất (30/07)\n• ⚠️ XỬ LÝ: tote $10.95 đang rẻ — test nâng $12.95-13.95; tách section Tote làm mũi nhọn khác biệt.\n\n<b>4. E29 Velarionne — 75đ</b> ⏳bom hẹn giờ\n• 707 sales · <b>4.1★</b> (101 rv) · 697 listing · loss 4,9%\n• 🔴 XỬ LÝ GẤP (quan trọng nhất hệ thống): sửa gap kỳ vọng acrylic — ảnh/title ghi rõ 'printed acrylic, not glass' + ảnh thật dưới nắng + đóng gói chống vỡ. Rating 4.1★ = Etsy hạ hiển thị organic; KHÔNG scale Ads trước khi sửa.\n\n👉 <b>Chốt:</b> HoanElly gánh đơn, Velarionne gánh rủi ro. Việc số 1 hôm nay: sửa listing acrylic của E29.\n📌 <b>CẦN CHÚ Ý:</b> • <i>Số liệu:</i> quét công khai 31/07 + đơn/loss nội bộ (mốc 31/07, chưa qua verify_shops.py) • <i>Rủi ro:</i> rating 4.1 E29 = rủi ro tồn vong, không chỉ mỹ quan • <i>Việc:</i> chạy local-verify shops CN này để có tầng live.",
+      "<b>💰 BLOCK A+ — CỜ ĐỊNH GIÁ (áp cho cả 4 store sống)</b>\n• Sweatshirt $14.95 vs thị trường $17-27 → <b>đang bán rẻ 15-45%</b>. Test nâng $17.95-18.95 trên 20% listing; đảo chiều nếu CVR giảm >15%.\n• Suncatcher ~$10 = đáy dải ($13-25) → size 10-12in nâng $16-20.\n• Patch $3.95 & Hat $19.95: giữ nguyên (sát mặt bằng).\n👉 <b>Chốt:</b> tăng giá có kiểm soát TRƯỚC khi tăng ngân sách Ads.\n📌 <b>CẦN CHÚ Ý:</b> • <i>Số liệu:</i> benchmark 31/07 (DecoratedBliss/HungryBearDesigns/MECOLLECTION15 — một phần là số lịch sử Alura 2023) • <i>Rủi ro:</i> tăng giá đồng loạt có thể sốc CVR → test 20% listing trước • <i>Việc:</i> chốt danh sách listing test giá trong tuần."
+    ],
+    "B2": [
+      "<b>🟡 BLOCK B — DORMANT/THEO DÕI (5 store) · 31/07</b>\n\n• <b>E135 VDKHandmade — 44đ</b>: 3 sales · 5★(1rv) · 77 listing. Chưa cất cánh; ứng viên gộp hoặc làm shop test niche mới.\n• <b>E26 Aurevanelis — 40đ</b>: 59 sales · <b>2.4★</b> · 309 listing. KHÔNG bơm Ads. Nếu giữ: thay toàn bộ ảnh/video sang ảnh thật sản phẩm nhựa trước.\n• <b>E24 Celivandora — 40đ</b>: 77 sales · <b>3.5★</b> · 268 listing. Cùng lỗi 'sticker trên nhựa'; nghiêng dần sang hat (149 listing cap).\n• <b>E43 DreamPineCo — 39đ</b>: 3 sales · không discount → gần như vô hình. Bật discount 25-40% hoặc buông.\n• <b>E42 GoldenMossWorks — 37đ</b>: 1 sale · không discount. Như trên.\n\n👉 <b>Chốt:</b> block B không đẻ đơn — quyết định giữ/gộp/buông trong 2 tuần, đừng để treo.\n📌 <b>CẦN CHÚ Ý:</b> • <i>Số liệu:</i> mốc 31/07, chưa live-verify • <i>Rủi ro:</i> 2 shop rating <3.6 gần như không phục hồi organic • <i>Việc:</i> chốt số phận E43/E42 (bật discount hay buông)."
+    ],
+    "B3": [
+      "<b>🔴 BLOCK C — ĐÌNH CHỈ (6 store) · 31/07</b>\n<i>Chỉ báo chi tiết khi CÓ THÊM shop mới chết. Hôm nay: 0 shop mới ✅</i>\n\n• <b>E1 Stitchavita — 23đ</b> (đau nhất): 620 sales · 4.5★ mà bị 'not selling'. Nếu chưa kháng cáo → nộp appeal Etsy; tài sản 620 sales + 4.5★ đáng cứu.\n• E169 Kindelora · E114 Zyvaneli · E109 Zarvynix · E84 ARVIXON · E47 BlueWillowWorks: đình chỉ, 2-3 sales — <b>buông</b>, không tốn nguồn lực.\n\n👉 <b>Chốt:</b> chỉ E1 đáng cứu; 5 shop còn lại xóa khỏi vòng quan tâm hằng ngày (vẫn quét tuần để phát hiện được mở lại).\n📌 <b>CẦN CHÚ Ý:</b> • <i>Số liệu:</i> trạng thái chụp 31/07; Etsy có thể mở/đóng bất kỳ lúc nào • <i>Rủi ro:</i> nếu ngày mai có shop tier A rơi vào block C → alert đỏ ngay • <i>Việc:</i> xác nhận trạng thái kháng cáo E1."
+    ]
+  },
+  "scores": [
+    {
+      "code": "E193",
+      "shop": "HoanElly",
+      "tier": "A",
+      "score": 90,
+      "status": "active",
+      "rating": 4.5,
+      "sales_public": 460,
+      "orders_2026_internal": 655,
+      "loss_pct": 1.8,
+      "top_issue": "phu thuoc Ads + discount 60% bao mon bien",
+      "action": "theo doi ACOS; test giam discount 45-50%; canh rating 4.3 nguong can thiep"
+    },
+    {
+      "code": "E4",
+      "shop": "ThreadMelodia",
+      "tier": "A",
+      "score": 78,
+      "status": "active",
+      "rating": 4.4,
+      "review_count": 113,
+      "sales_public": 680,
+      "listings": 348,
+      "top_issue": "5 tuan khong listing moi",
+      "action": "day 10-15 listing back-to-school teacher"
+    },
+    {
+      "code": "E257",
+      "shop": "VintagebyTung",
+      "tier": "A",
+      "score": 78,
+      "status": "active",
+      "rating": 4.3,
+      "review_count": 80,
+      "sales_public": 573,
+      "listings": 459,
+      "top_issue": "tote $10.95 ban re",
+      "action": "test nang tote $12.95-13.95; tach section Tote"
+    },
+    {
+      "code": "E29",
+      "shop": "Velarionne",
+      "tier": "A",
+      "score": 75,
+      "status": "active",
+      "rating": 4.1,
+      "review_count": 101,
+      "sales_public": 707,
+      "listings": 697,
+      "loss_pct": 4.9,
+      "top_issue": "rating 4.1 - gap ky vong acrylic (sticker/plastic)",
+      "action": "GAP: sua anh/title 'printed acrylic not glass' + dong goi chong vo; KHONG scale Ads truoc khi sua"
+    },
+    {
+      "code": "E135",
+      "shop": "VDKHandmade",
+      "tier": "B",
+      "score": 44,
+      "status": "dormant",
+      "rating": 5.0,
+      "review_count": 1,
+      "sales_public": 3,
+      "listings": 77,
+      "top_issue": "chua cat canh",
+      "action": "gop hoac dung lam shop test niche moi"
+    },
+    {
+      "code": "E26",
+      "shop": "Aurevanelis",
+      "tier": "B",
+      "score": 40,
+      "status": "dormant",
+      "rating": 2.4,
+      "review_count": 5,
+      "sales_public": 59,
+      "listings": 309,
+      "top_issue": "rating 2.4 - 'sticker on plastic'",
+      "action": "KHONG bom Ads; neu giu phai thay toan bo anh sang anh that"
+    },
+    {
+      "code": "E24",
+      "shop": "Celivandora",
+      "tier": "B",
+      "score": 40,
+      "status": "dormant",
+      "rating": 3.5,
+      "review_count": 11,
+      "sales_public": 77,
+      "listings": 268,
+      "top_issue": "cung loi ky vong acrylic",
+      "action": "nghieng sang hat; sua anh neu giu suncatcher"
+    },
+    {
+      "code": "E43",
+      "shop": "DreamPineCo",
+      "tier": "B",
+      "score": 39,
+      "status": "dormant",
+      "sales_public": 3,
+      "listings": 43,
+      "top_issue": "khong discount -> vo hinh",
+      "action": "bat discount 25-40% hoac buong (quyet trong 2 tuan)"
+    },
+    {
+      "code": "E42",
+      "shop": "GoldenMossWorks",
+      "tier": "B",
+      "score": 37,
+      "status": "dormant",
+      "sales_public": 1,
+      "listings": 43,
+      "top_issue": "khong discount -> vo hinh",
+      "action": "nhu E43"
+    },
+    {
+      "code": "E1",
+      "shop": "Stitchavita",
+      "tier": "C",
+      "score": 23,
+      "status": "suspended",
+      "rating": 4.5,
+      "sales_public": 620,
+      "top_issue": "dinh chi du rating tot",
+      "action": "nop/kiem tra khang cao Etsy - tai san dang cuu"
+    },
+    {
+      "code": "E169",
+      "shop": "Kindelora",
+      "tier": "C",
+      "score": 5,
+      "status": "suspended",
+      "sales_public": 2,
+      "action": "buong"
+    },
+    {
+      "code": "E114",
+      "shop": "Zyvaneli",
+      "tier": "C",
+      "score": 5,
+      "status": "suspended",
+      "sales_public": 3,
+      "action": "buong"
+    },
+    {
+      "code": "E109",
+      "shop": "Zarvynix",
+      "tier": "C",
+      "score": 5,
+      "status": "suspended",
+      "top_issue": "khong truy cap duoc trang",
+      "action": "buong"
+    },
+    {
+      "code": "E84",
+      "shop": "ARVIXON",
+      "tier": "C",
+      "score": 5,
+      "status": "suspended",
+      "sales_public": 2,
+      "action": "buong"
+    },
+    {
+      "code": "E47",
+      "shop": "BlueWillowWorks",
+      "tier": "C",
+      "score": 5,
+      "status": "suspended",
+      "sales_public": 2,
+      "action": "buong"
+    }
+  ]
+}

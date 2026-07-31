@@ -110,3 +110,22 @@ Bổ sung BƯỚC 3 (sau khi clone): `cat /tmp/fxrepo/local-verify/foxera-live.j
 - `verified_at > 7 ngày` hoặc file vắng → như cũ (anchor "lịch sử"), ghi rõ "local-verify chưa chạy N ngày".
 - Chỉ nhận record `status == "live"`; record captcha/error KHÔNG được đếm. KHÔNG bịa số.
 - Velocity: so `reviews_listing` giữa 2 lần local-verify liên tiếp (▲ +N/tuần) — đây là nguồn velocity THẬT duy nhất của hệ.
+
+---
+
+## LUẬT 20 — ACCOUNT SCORING DAILY (thêm 31/07/2026 — chấm điểm ~200 store, đẩy Group riêng)
+
+Mỗi run 04:30, NGOÀI foxera-daily.json, PHẢI sinh thêm **foxera-accounts-daily.json**:
+
+1. ĐỌC: `foxera-accounts.json` (roster + rubric) · `local-verify/foxera-shops-live.json` (nếu có, tầng live khi verified_at ≤7 ngày) · số nội bộ nếu có trong repo/Sheet-export.
+2. CHẤM ĐIỂM /100 theo rubric trong roster (status 30 · rating 25 · velocity 20 · listing/pricing 15 · loss 10). Thiếu dữ liệu → dùng mức "unknown" của rubric, KHÔNG bịa.
+3. XẾP TIER: A ≥60 (đang chạy) · B 30-59 (dormant/theo dõi) · C <30 hoặc suspended.
+4. GHI blocks B1/B2/B3 (HTML Telegram <3900 ký tự, chuẩn luật 17 CẦN CHÚ Ý):
+   - B1 = tier A: mỗi store 2-3 dòng (điểm, Δ so hôm qua, 1 dòng XỬ LÝ). Kèm tin phụ "cờ định giá" nếu có.
+   - B2 = tier B: gom gọn, chỉ nêu chi tiết store CÓ BIẾN ĐỘNG (điểm ±5, rating ±0.1, trạng thái đổi).
+   - B3 = tier C: mặc định 1 dòng "0 shop mới đình chỉ ✅". CÓ shop mới rơi vào C → 🔴 ALERT chi tiết + PushNotification cho user.
+5. GHI mảng "scores" đầy đủ mọi account (machine-readable, làm mốc so Δ ngày sau) + "summary".
+6. VELOCITY/Δ: so scores hôm nay vs foxera-accounts-daily.json hôm trước (đọc trước khi ghi đè). Shop tier A rớt ≥10đ hoặc rating giảm ≥0.1 → nêu đầu B1.
+7. Khi roster mở rộng (~200 account): B1 giữ chi tiết tối đa 15 store điểm cao nhất + mọi store có alert; B2/B3 gom nhóm + đếm; mỗi tin <3900 ký tự, tối đa ~10 tin.
+8. shops-live.json verified_at >7 ngày → hạ tầng dữ liệu xuống "mốc dd/mm" trong CẦN CHÚ Ý + nhắc user chạy `python local-verify/verify_shops.py`.
+9. GIT: `git add -A` đã bao gồm file này (bước 8 v4). GAS multibot đọc qua project FOXACC (xem hướng dẫn trong etsy-multibot-gas-v1.gs / README).

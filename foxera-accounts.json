@@ -1,0 +1,30 @@
+{
+  "updated": "2026-07-31",
+  "source_sheet": "https://docs.google.com/spreadsheets/d/1axz9lV0q21574wF_8A2TN5wn7U0bkNKyBCjVjiZRItc/edit?gid=1545430011#gid=1545430011",
+  "note": "Roster account Etsy FoxEra. Cloud routine doc file nay moi ngay de cham diem. Cap nhat roster: sua file nay hoac dong bo tu Sheet (export CSV -> local-verify/sync_roster). Muc tieu ~200 account.",
+  "scoring_rubric": {
+    "status": {"weight": 30, "rule": "active=30, dormant(con mo, <5 don/30d)=15, suspended/not-selling=0"},
+    "rating": {"weight": 25, "rule": ">=4.6:25 | 4.3-4.5:18 | 4.1-4.2:10 | <4.1:3 | chua co review:12"},
+    "velocity": {"weight": 20, "rule": "don 7 ngay tu so noi bo (Sheet); cloud khong tu lay duoc. >=20:20 | 5-19:14 | 1-4:7 | 0:0. Thieu so -> 10 (unknown)"},
+    "listing_pricing": {"weight": 15, "rule": ">=100 listing + co discount:15 | >=100 khong discount:8 | <100 co discount:10 | <100 khong discount:5. Co 'ban re' flag (sweatshirt <$17) thi ghi chu, khong tru diem"},
+    "loss": {"weight": 10, "rule": "loss <2%:10 | 2-5%:6 | >5%:2 | unknown:5"}
+  },
+  "tiers": {"A": ">=60 dang chay - de xuat hanh dong toi uu", "B": "30-59 theo doi/dormant - chi bao khi bien dong", "C": "<30 hoac suspended - chi alert khi TANG THEM shop chet"},
+  "accounts": [
+    {"no": 1,  "type": "Loai 1", "code": "E29",  "shop": "Velarionne",      "url": "https://www.etsy.com/shop/Velarionne",      "note": "Active"},
+    {"no": 2,  "type": "Loai 1", "code": "E26",  "shop": "Aurevanelis",     "url": "https://www.etsy.com/shop/Aurevanelis",     "note": "Active"},
+    {"no": 3,  "type": "Loai 1", "code": "E24",  "shop": "Celivandora",     "url": "https://www.etsy.com/shop/Celivandora",     "note": "Active"},
+    {"no": 4,  "type": "Loai 1", "code": "E169", "shop": "Kindelora",       "url": "https://www.etsy.com/shop/Kindelora",       "note": "Active"},
+    {"no": 5,  "type": "Loai 1", "code": "E135", "shop": "VDKHandmade",     "url": "https://www.etsy.com/shop/VDKHandmade",     "note": "Active"},
+    {"no": 6,  "type": "Loai 1", "code": "E114", "shop": "Zyvaneli",        "url": "https://www.etsy.com/shop/Zyvaneli",        "note": "Active"},
+    {"no": 7,  "type": "Loai 1", "code": "E109", "shop": "Zarvynix",        "url": "https://www.etsy.com/shop/Zarvynix",        "note": "Active"},
+    {"no": 8,  "type": "Loai 1", "code": "E84",  "shop": "ARVIXON",         "url": "https://arvixon.etsy.com",                  "note": "Active"},
+    {"no": 9,  "type": "Loai 1", "code": "E47",  "shop": "BlueWillowWorks", "url": "https://www.etsy.com/shop/BlueWillowWorks", "note": "Active"},
+    {"no": 10, "type": "Loai 1", "code": "E43",  "shop": "DreamPineCo",     "url": "https://www.etsy.com/shop/DreamPineCo",     "note": "Active"},
+    {"no": 11, "type": "Loai 1", "code": "E42",  "shop": "GoldenMossWorks", "url": "https://www.etsy.com/shop/GoldenMossWorks", "note": "Active"},
+    {"no": 12, "type": "Loai 2", "code": "E1",   "shop": "Stitchavita",     "url": "https://www.etsy.com/shop/Stitchavita",     "note": "Active"},
+    {"no": 13, "type": "Loai 2", "code": "E4",   "shop": "ThreadMelodia",   "url": "https://www.etsy.com/shop/ThreadMelodia",   "note": "Active"},
+    {"no": 14, "type": "Loai 3", "code": "E257", "shop": "VintagebyTung",   "url": "https://www.etsy.com/shop/VintagebyTung",   "note": "Active"},
+    {"no": 15, "type": "Loai 3", "code": "E193", "shop": "HoanElly",        "url": "https://www.etsy.com/shop/HoanElly",        "note": "Active"}
+  ]
+}
