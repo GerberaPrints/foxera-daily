@@ -471,7 +471,10 @@
         "E245",
         "E246",
         "E247"
-      ]
+      ],
+      "shops": {
+        "E247": "BumboHouse"
+      }
     },
     {
       "owner_raw": "Hoài Thu",
@@ -1039,6 +1042,22 @@
     "E80": {
       "url": "https://torvexa.etsy.com",
       "shop": "torvexa"
+    },
+    "E79": {
+      "url": "https://qerivo.etsy.com",
+      "shop": "qerivo"
+    },
+    "E45": {
+      "url": "https://amberpeakco.etsy.com",
+      "shop": "amberpeakco"
+    },
+    "E44": {
+      "url": "https://wildferncreates.etsy.com",
+      "shop": "wildferncreates"
+    },
+    "E247": {
+      "url": "https://www.etsy.com/shop/BumboHouse",
+      "shop": "BumboHouse"
     }
   },
   "operator_policy": "User chot 31/07: KHONG truy van owner lich su. Truong quan trong duy nhat = nguoi van hanh HIEN TAI (current_operator); nhan su thay doi lien tuc la binh thuong. Account chua gan ai = 'chua co nguoi dam nhan' — la TRANG THAI HOP LE, khong phai gap can hoi. Lich su chi giu cho phan bo don/loss theo thoi ky (OWNER_PERIODS phia Hub).",
