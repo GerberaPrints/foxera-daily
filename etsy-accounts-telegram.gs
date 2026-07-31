@@ -1,7 +1,12 @@
 /************************************************************************
- * ACCOUNTS → TELEGRAM v4 — file BỔ SUNG cho project "FoxEra - Etsy Order Tracking"
+ * ACCOUNTS → TELEGRAM v5 — file BỔ SUNG cho project "FoxEra - Etsy Order Tracking"
  * (dán ĐÈ AccountsTelegram.gs; tương thích scorecard v2.30+)
  *
+ * v5 (31/07 — spec exception-first của Hub v2.31): bản tin ~15 dòng.
+ *   🔴 LÀM HÔM NAY (action ⚡🚨⛔❓ hoặc P1) · 🟡 THEO DÕI (🔧📈⏳🪧💬)
+ *   🟢 KHỎE = 1 DÒNG tổng (Σ Δ7d, không liệt kê) · 🗂️ ĐÓNG SỔ = 1 dòng đếm.
+ *   Action lấy từ rule engine của Hub (accScorecardJSON().action) + Δ1d/Δ7d
+ *   sale/review/listing từ counter-diff. Account không đổi -> không xuất hiện.
  * v4 (31/07 tối — theo feedback bản tin đầu):
  *  1) FIX phân loại: 'blocked_429'/'chưa fetch' = LỖI FETCH, không phải chết
  *     (trước đó E193/E4/E257/E29 bị ném vào Block C vì chữ 'block');
@@ -70,6 +75,10 @@ function accTg_rows_(){
             orders: accTg_num_(x.orders) != null ? accTg_num_(x.orders) : accTg_num_(x.o90),
             lossUsd: accTg_num_(x.lossUsd),
             stateRaw: stateRaw, cls: accTg_state_(stateRaw),
+            act: String(x.action || ''),
+            d1S: accTg_num_(x.d1Sales), d7S: accTg_num_(x.d7Sales),
+            d1R: accTg_num_(x.d1Reviews), d7R: accTg_num_(x.d7Reviews),
+            listings: accTg_num_(x.listings), d1L: accTg_num_(x.d1Listings), d7L: accTg_num_(x.d7Listings),
             bank: /bank\s*ok/i.test(stateRaw) ? 'OK' : (/bank\s*no/i.test(stateRaw) ? 'NO' : ''),
             seller: String(x.seller || x.owner || ''), why: String(x.why||'')
           };
@@ -97,82 +106,65 @@ function accTg_savePrev_(rows){
   PropertiesService.getScriptProperties().setProperty('ACC_TG_LAST', JSON.stringify(o));
 }
 
-function accTg_card_(a, acts){
-  var d = (a._delta===null||a._delta===0) ? '' : (a._delta>0 ? ' ▲+'+a._delta : ' ▼'+a._delta);
-  var s = '<b>'+a.name+'</b> — '+accTg_likert_(a.likert)+' · '+Math.round(a.score)+'đ'+d;
-  var bits = [];
-  if (a.rating != null) bits.push(a.rating+'★'+(a.reviews!=null?'('+a.reviews+')':''));
-  if (a.sales != null) bits.push(a.sales+' sales');
-  if (a.orders) bits.push(a.orders+' đơn/90d');
-  if (a.lossUsd) bits.push('loss $'+a.lossUsd);
-  if (a.seller) bits.push(accTg_seller_(a.seller));
-  if (bits.length) s += '\n• ' + bits.join(' · ');
-  var ac = acts[a.code];
-  if (ac && ac.act) s += '\n👉 ' + accTg_prio_(ac.prio) + ' ' + ac.act;
-  else if (a.why) s += '\n👉 P3 🟡 ' + a.why;
+function accTg_delta_(a){
+  var b = [];
+  if (a.d1S) b.push('+'+a.d1S+' sale hôm nay'); else if (a.d7S) b.push('+'+a.d7S+' sale/7d');
+  if (a.d1R) b.push('+'+a.d1R+' rv'); else if (a.d7R) b.push('+'+a.d7R+' rv/7d');
+  if (a.d1L) b.push('+'+a.d1L+' lst'); else if (a.d7L) b.push('+'+a.d7L+' lst/7d');
+  return b.length ? ' <i>('+b.join(' · ')+')</i>' : '';
+}
+function accTg_line_(a, acts){
+  var ac = acts[a.code] || {};
+  var badge = ac.prio ? accTg_prio_(ac.prio)+' ' : '';
+  var act = a.act || (ac.act ? ac.act : '');
+  var s = '• <b>'+a.code+'</b> '+badge+act+accTg_delta_(a);
+  if (a.seller) s += ' · '+accTg_seller_(a.seller);
   return s;
 }
-// cụm 1 dòng: gom mã theo chủ
-function accTg_cluster_(list){
-  var by = {};
-  list.forEach(function(a){
-    var k = accTg_seller_(a.seller || '?');
-    (by[k] = by[k] || []).push(a.code);
-  });
-  return Object.keys(by).sort().map(function(k){
-    return '• ' + k + ' (' + by[k].length + '): ' + by[k].join(' ');
-  });
-}
-
 function accTg_build_(){
   var rows = accTg_rows_();
   if (!rows.length) throw new Error('0 account.');
   var acts = accTg_actions_(), prev = accTg_prev_();
   var dstr = Utilities.formatDate(new Date(), 'Asia/Bangkok', 'dd/MM');
-  var alerts = [], p1 = [], liveCards = [], dorm = [], susNO = [], susOK = [], susNew = [], errStale = [];
+  var URGENT = /⚡|🚨|⛔|❓/, WATCH = /🔧|📈|⏳|🪧|💬/, CLOSED = /🗂/;
+  var alerts = [], urgent = [], watch = [], healthy = [], closedSus = 0, closedNew = 0;
 
   rows.forEach(function(a){
     var p = prev[a.code];
-    a._delta = (p && typeof p.score==='number') ? Math.round(a.score - p.score) : null;
+    a._delta = (p && typeof p.score === 'number') ? Math.round(a.score - p.score) : null;
     if (p && p.cls && p.cls !== 'sus' && p.cls !== 'susnew' && a.cls === 'sus')
-      alerts.push('P1 🔴 <b>'+a.name+'</b> vừa rơi vào ĐÌNH CHỈ hôm nay — xử lý NGAY!');
-    if (p && a._delta !== null && a._delta <= -10 && a.cls === 'live')
-      alerts.push('P2 🟠 <b>'+a.name+'</b> rớt '+Math.abs(a._delta)+'đ.');
-
-    var ac = acts[a.code];
-    if (a.cls === 'susnew') { susNew.push(a); return; }
-    if (a.cls === 'sus') { (a.bank === 'OK' ? susOK : susNO).push(a); return; }
-    // sống / lỗi fetch / unknown → xét theo hoạt động
-    if (ac && /^p1/i.test(String(ac.prio))) { p1.push(a); return; }
-    var hasData = (a.sales||0) > 0 || (a.orders||0) >= 3 || (a.rating != null) || (ac && ac.act);
-    if (hasData) liveCards.push(a); else dorm.push(a);
+      alerts.push('P1 🔴 <b>'+a.code+'</b> vừa rơi ĐÌNH CHỈ hôm nay!');
+    var ac = acts[a.code] || {};
+    if (a.cls === 'susnew') { closedNew++; return; }
+    if (CLOSED.test(a.act)) { closedSus++; return; }
+    if (a.cls === 'sus') {
+      if (URGENT.test(a.act) || /^p1/i.test(String(ac.prio))) urgent.push(a); else closedSus++;
+      return;
+    }
+    if (URGENT.test(a.act) || /^p1/i.test(String(ac.prio))) { urgent.push(a); return; }
+    if (WATCH.test(a.act)) { watch.push(a); return; }
+    healthy.push(a);
   });
-  liveCards.sort(function(x,y){ return y.score - x.score; });
+  var byD7 = function(x,y){ return (y.d7S||0)-(x.d7S||0); };
+  urgent.sort(byD7); watch.sort(byD7);
 
-  var msgs = [];
-  if (alerts.length) msgs.push('<b>🚨 ALERT '+dstr+'</b>\n\n'+alerts.join('\n'));
+  var head = '<b>🏪 ACCOUNTS '+dstr+'</b> · '+rows.length+' acc' + String.fromCharCode(10) + ACC_TG_LEGEND + String.fromCharCode(10) + String.fromCharCode(10);
+  var NL = String.fromCharCode(10);
+  var parts = [];
+  if (alerts.length) parts.push('<b>🚨 ALERT</b>' + NL + alerts.join(NL));
+  if (urgent.length) parts.push('<b>🔴 LÀM HÔM NAY ('+urgent.length+')</b>' + NL + urgent.map(function(a){ return accTg_line_(a, acts); }).join(NL));
+  if (watch.length) parts.push('<b>🟡 THEO DÕI ('+watch.length+')</b>' + NL + watch.map(function(a){ return accTg_line_(a, acts); }).join(NL));
+  var hS=0,hR=0,hL=0;
+  healthy.forEach(function(a){ hS+=(a.d7S||0); hR+=(a.d7R||0); hL+=(a.d7L||0); });
+  if (healthy.length) parts.push('<b>🟢 KHỎE ('+healthy.length+')</b>: Σ +'+hS+' sale · +'+hR+' rv · +'+hL+' lst /7d — không cần đụng');
+  if (closedSus + closedNew) parts.push('<b>🗂️ ĐÓNG SỔ ('+(closedSus+closedNew)+')</b>: '+closedNew+' SUS NEW + '+closedSus+' SUS — danh sách cố định, chỉ báo khi có biến');
 
-  if (p1.length)
-    msgs = msgs.concat(accTg_chunk_('<b>🚨 P1 — XỬ LÝ NGAY HÔM NAY ('+p1.length+') · '+dstr+'</b>\n'+ACC_TG_LEGEND+'\n\n',
-      p1.map(function(a){ return accTg_card_(a, acts); }), ''));
-
-  msgs = msgs.concat(accTg_chunk_('<b>💚 ĐANG CHẠY — CÓ SỐ ('+liveCards.length+') · '+dstr+'</b>\n\n',
-    liveCards.map(function(a){ return accTg_card_(a, acts); }),
-    ''));
-
-  if (dorm.length)
-    msgs = msgs.concat(accTg_chunk_('<b>🌱 DORMANT 0 ĐƠN ('+dorm.length+') — gom theo chủ</b>\n\n',
-      accTg_cluster_(dorm),
-      '\n👉 <b>P3 🟡 cả nhóm:</b> quyết giữ/gộp/buông chu kỳ 2 tuần. Chủ đã nghỉ → <b>P2 🟠 bàn giao</b> trước.'));
-
-  var susLines = [];
-  if (susNO.length) susLines.push('<b>P1 🔴 bank NO ('+susNO.length+'):</b> verify bank + kháng cáo — quá hạn 20/07\n' + accTg_cluster_(susNO).join('\n'));
-  if (susOK.length) susLines.push('<b>P2 🟠 bank OK ('+susOK.length+'):</b> kháng cáo (ưu tiên shop nhiều sales)\n' + accTg_cluster_(susOK).join('\n'));
-  if (susNew.length) susLines.push('<b>⚫ SUS NEW ('+susNew.length+'):</b> chết tầng danh tính — KHÔNG quy cá nhân, đóng băng tạo mới\n' + accTg_cluster_(susNew).join('\n'));
-  if (susLines.length)
-    msgs = msgs.concat(accTg_chunk_('<b>🔴 ĐÌNH CHỈ ('+(susNO.length+susOK.length+susNew.length)+') · '+dstr+'</b>\n\n',
-      susLines, ''));
-
+  var msgs = [], cur = head;
+  parts.forEach(function(pt){
+    if ((cur + pt).length > ACC_TG_MAXLEN) { msgs.push(cur); cur = ''; }
+    cur += pt + NL + NL;
+  });
+  msgs.push(cur);
   return { msgs: msgs, rows: rows };
 }
 
