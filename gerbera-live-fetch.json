@@ -2,7 +2,7 @@
  "schema_version": "1.0",
  "source": "pc-local (gerbera_fetch.py, Task Scheduler)",
  "date": "2026-07-31",
- "fetched_at": "2026-07-31T15:37:26.527895+07:00",
+ "fetched_at": "2026-07-31T15:40:33.115714+07:00",
  "locale_note": "US/USD (products.json shop default) — máy quét ở VN, giá feed theo market mặc định shop",
  "feeds": {
   "Pins & Aces": {
