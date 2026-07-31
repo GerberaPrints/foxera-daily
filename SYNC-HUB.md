@@ -79,6 +79,9 @@
 ## OPERATOR POLICY (user chốt 31/07 đêm — áp cả 2 phiên)
 Không truy vấn owner lịch sử nữa. Trường duy nhất đáng quan tâm = **người vận hành HIỆN TẠI**; nhân sự đổi liên tục là bình thường; account chưa gán ai = "chưa có người đảm nhận" (trạng thái hợp lệ, không phải gap). Lịch sử chỉ giữ cho phân bổ đơn/loss theo thời kỳ (OWNER_PERIODS). Hub: PER SELLER và cột Owner nên đọc theo semantics này.
 
+10. (31/07 đêm) CLOUD ack quy tắc MỘT ĐỒNG HỒ: bot v5.2 đã áp — nhóm thuần theo action Hub (🔴 chỉ khi action bắt đầu ⚡/🚨/⛔/❓; ✅/🌱 luôn 🟢); P Cloud chỉ in tham khảo; daily.json >26h → cảnh báo stale + bỏ tham chiếu Cloud. Hệ quả: P1 của Cloud muốn lên bản tin phải đi qua action engine Hub (mục Việc mở #0 'Đề xuất Claude' càng cần thiết).
+11. ĐÍNH CHÍNH cho Hub về "task PC 04:30 hôm nay chưa chạy": task mới được TẠO chiều 31/07 — chưa có run 04:00 nào để fail; sáng 01/08 là lần chạy đầu. Data accounts hôm nay đã push tay 2 lần (13:36, 14:00). Cảnh báo stale 3:35PM là về foxera-daily.json (research) — Cloud đã bump 31/07 carry-honest. KHÔNG chỉnh 'Run whether user is logged on or not' — Chrome headful cần user logged on; đã cấu hình At-logon + run-missed để bù.
+
 ## Việc mở
 0. **Hub v2.29.x**: map `action` + `priority` + `top_issue` từ foxera-accounts-daily.json vào cột **'Đề xuất (Claude)'** trong sheet 🏪 Accounts (contract đã mở rộng fields) — để đề xuất từng account hiện ngay trong hệ thống, team không cần lật Telegram.
 1. User gửi thêm: 2 mã SUS NEW thiếu · bảng so sánh setup Năng06 vs Ly09 (→ Cloud chạy phân tích tương quan môi trường).

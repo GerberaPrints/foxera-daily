@@ -1,7 +1,11 @@
 /************************************************************************
- * ACCOUNTS → TELEGRAM v5 — file BỔ SUNG cho project "FoxEra - Etsy Order Tracking"
+ * ACCOUNTS → TELEGRAM v5.2 — file BỔ SUNG cho project "FoxEra - Etsy Order Tracking"
  * (dán ĐÈ AccountsTelegram.gs; tương thích scorecard v2.30+)
  *
+ * v5.2 (31/07 đêm — quy tắc MỘT ĐỒNG HỒ của Hub): action từ accScorecardJSON()
+ *   là CHUẨN phân nhóm — 🔴 chỉ khi action bắt đầu ⚡/🚨/⛔/❓; ✅/🌱 luôn 🟢
+ *   bất kể P của Cloud. P daily.json chỉ in THAM KHẢO. daily.json cũ >24h
+ *   -> in cảnh báo stale + bỏ tham chiếu Cloud, không trộn 2 nhịp data.
  * v5 (31/07 — spec exception-first của Hub v2.31): bản tin ~15 dòng.
  *   🔴 LÀM HÔM NAY (action ⚡🚨⛔❓ hoặc P1) · 🟡 THEO DÕI (🔧📈⏳🪧💬)
  *   🟢 KHỎE = 1 DÒNG tổng (Σ Δ7d, không liệt kê) · 🗂️ ĐÓNG SỔ = 1 dòng đếm.
@@ -90,15 +94,16 @@ function accTg_rows_(){
 }
 
 function accTg_actions_(){
-  var mp = {};
+  var mp = {}, dt = '';
   try {
     var d = JSON.parse(UrlFetchApp.fetch(ACC_TG_RAWJSON, {muteHttpExceptions:true}).getContentText());
+    dt = String(d.date || '');
     (d.scores||[]).forEach(function(s){
       var c = String(s.code||'').toUpperCase();
       if (c) mp[c] = { act: s.action || s.top_issue || '', prio: s.priority || '' };
     });
   } catch(e){ Logger.log('actions fetch fail: ' + e); }
-  return mp;
+  return { mp: mp, date: dt, stale: dt ? ((new Date() - new Date(dt)) > 26*3600*1000) : true };
 }
 function accTg_prev_(){ try { return JSON.parse(accTg_prop_('ACC_TG_LAST')||'{}'); } catch(e){ return {}; } }
 function accTg_savePrev_(rows){
@@ -113,20 +118,19 @@ function accTg_delta_(a){
   if (a.d1L) b.push('+'+a.d1L+' lst'); else if (a.d7L) b.push('+'+a.d7L+' lst/7d');
   return b.length ? ' <i>('+b.join(' · ')+')</i>' : '';
 }
-function accTg_line_(a, acts){
+function accTg_line_(a, acts, stale){
   var ac = acts[a.code] || {};
-  var badge = ac.prio ? accTg_prio_(ac.prio)+' ' : '';
-  var act = a._useMy ? ac.act : (a.act || (ac.act ? ac.act : ''));
-  var s = '• <b>'+a.code+'</b> '+badge+act+accTg_delta_(a);
+  var s = '• <b>'+a.code+'</b> '+(a.act || '')+accTg_delta_(a);
+  if (!stale && ac.prio) s += ' · <i>Cloud: '+accTg_prio_(ac.prio)+'</i>';   // tham khảo, không quyết định nhóm
   if (a.seller) s += ' · '+accTg_seller_(a.seller);
   return s;
 }
 function accTg_build_(){
   var rows = accTg_rows_();
   if (!rows.length) throw new Error('0 account.');
-  var acts = accTg_actions_(), prev = accTg_prev_();
+  var ar = accTg_actions_(), acts = ar.mp, prev = accTg_prev_();
   var dstr = Utilities.formatDate(new Date(), 'Asia/Bangkok', 'dd/MM');
-  var URGENT = /⚡|🚨|⛔|❓/, WATCH = /🔧|📈|⏳|🪧|💬/, CLOSED = /🗂/;
+  var URGENT = /^\s*(⚡|🚨|⛔|❓)/, WATCH = /^\s*(🔧|📈|⏳|🪧|💬)/, CLOSED = /🗂/;
   var alerts = [], urgent = [], watch = [], healthy = [], closedSus = 0, closedNew = 0;
 
   rows.forEach(function(a){
@@ -134,19 +138,12 @@ function accTg_build_(){
     a._delta = (p && typeof p.score === 'number') ? Math.round(a.score - p.score) : null;
     if (p && p.cls && p.cls !== 'sus' && p.cls !== 'susnew' && a.cls === 'sus')
       alerts.push('P1 🔴 <b>'+a.code+'</b> vừa rơi ĐÌNH CHỈ hôm nay!');
-    var ac = acts[a.code] || {};
     if (a.cls === 'susnew') { closedNew++; return; }
     if (CLOSED.test(a.act)) { closedSus++; return; }
-    if (a.cls === 'sus') {
-      if (URGENT.test(a.act) || /^p1/i.test(String(ac.prio))) urgent.push(a); else closedSus++;
-      return;
-    }
-    if (URGENT.test(a.act) || /^p1/i.test(String(ac.prio))) {
-      if (!URGENT.test(a.act) && ac.act) a._useMy = true;  // vào urgent vì P1 Cloud -> hiện action Cloud
-      urgent.push(a); return;
-    }
+    if (a.cls === 'sus') { if (URGENT.test(a.act)) urgent.push(a); else closedSus++; return; }
+    if (URGENT.test(a.act)) { urgent.push(a); return; }
     if (WATCH.test(a.act)) { watch.push(a); return; }
-    healthy.push(a);
+    healthy.push(a);   // ✅/🌱/khác -> 🟢 bất kể P Cloud (quy tắc một-đồng-hồ)
   });
   var byD7 = function(x,y){ return (y.d7S||0)-(x.d7S||0); };
   urgent.sort(byD7); watch.sort(byD7);
@@ -154,9 +151,10 @@ function accTg_build_(){
   var head = '<b>🏪 ACCOUNTS '+dstr+'</b> · '+rows.length+' acc' + String.fromCharCode(10) + ACC_TG_LEGEND + String.fromCharCode(10) + String.fromCharCode(10);
   var NL = String.fromCharCode(10);
   var parts = [];
+  if (ar.stale) parts.push('⚠️ <i>Đề xuất Cloud (daily.json) cũ' + (ar.date ? ' — ngày '+ar.date : '') + '; bản tin dùng thuần action Hub.</i>');
   if (alerts.length) parts.push('<b>🚨 ALERT</b>' + NL + alerts.join(NL));
-  if (urgent.length) parts.push('<b>🔴 LÀM HÔM NAY ('+urgent.length+')</b>' + NL + urgent.map(function(a){ return accTg_line_(a, acts); }).join(NL));
-  if (watch.length) parts.push('<b>🟡 THEO DÕI ('+watch.length+')</b>' + NL + watch.map(function(a){ return accTg_line_(a, acts); }).join(NL));
+  if (urgent.length) parts.push('<b>🔴 LÀM HÔM NAY ('+urgent.length+')</b>' + NL + urgent.map(function(a){ return accTg_line_(a, acts, ar.stale); }).join(NL));
+  if (watch.length) parts.push('<b>🟡 THEO DÕI ('+watch.length+')</b>' + NL + watch.map(function(a){ return accTg_line_(a, acts, ar.stale); }).join(NL));
   var hS=0,hR=0,hL=0;
   healthy.forEach(function(a){ hS+=(a.d7S||0); hR+=(a.d7R||0); hL+=(a.d7L||0); });
   if (healthy.length) parts.push('<b>🟢 KHỎE ('+healthy.length+')</b>: Σ +'+hS+' sale · +'+hR+' rv · +'+hL+' lst /7d — không cần đụng');
