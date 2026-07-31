@@ -497,7 +497,7 @@
     "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
     "E185 đổi chủ giữa snapshot (Năng06 -> Ly09) — chờ xác nhận owner thật",
     "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
-    "Link 3 dot (31/07): store_links_extra=48 ma. THIEU LINK: E195, E181, E173 (E181/E173 la ma moi, chua co ca ten shop -> chua quet duoc; E188 da co ten Elorianestudio nen van quet). Ma moi chua ro owner (3 dot don): E46, E49, E52, E53, E73, E74, E75, E76, E103, E121, E134, E148, E149, E165, E166, E180, E203"
+    "Link dot 4 (31/07): +5 (E167,E150,E147,E136,E131; ma moi: E131, E136, E147, E167). THIEU LINK con lai: E195, E181, E173, E125, E78 (E125/E78 ma moi chua co ten -> chua quet duoc; E119/E93/E92 da co ten tu truoc nen van quet binh thuong)"
   ],
   "seller_emails": {
     "Seller01": {
@@ -846,6 +846,26 @@
     "E202": {
       "url": "https://www.etsy.com/shop/NorviqueStudio",
       "shop": "NorviqueStudio"
+    },
+    "E167": {
+      "url": "https://kalyvexino.etsy.com",
+      "shop": "kalyvexino"
+    },
+    "E150": {
+      "url": "https://www.etsy.com/shop/Elvarixo",
+      "shop": "Elvarixo"
+    },
+    "E147": {
+      "url": "https://norvaxilo.etsy.com",
+      "shop": "norvaxilo"
+    },
+    "E136": {
+      "url": "https://brivonstudio.etsy.com",
+      "shop": "brivonstudio"
+    },
+    "E131": {
+      "url": "https://koryvexa.etsy.com",
+      "shop": "koryvexa"
     }
   }
 }
