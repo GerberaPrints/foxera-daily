@@ -393,7 +393,13 @@
         "E233",
         "E232",
         "E208"
-      ]
+      ],
+      "shops": {
+        "E235": "EchoLightStudio",
+        "E233": "PureGlowStudioX",
+        "E232": "SoftLightCollect",
+        "E208": "VirelloCraftLab"
+      }
     },
     {
       "owner_raw": "Nhật Minh",
@@ -495,7 +501,8 @@
     "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
     "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
     "31/07 23h: LINK PHU KIN 100% — khong con ma mu. store_links_extra + roster + registry = toan bo ma da biet deu quet duoc tu 04:00 mai.",
-    "Theo operator_policy: cac ma moi trong store_links_extra mac dinh 'chua co nguoi dam nhan' cho den khi user/report gan — khong hoi lai."
+    "Theo operator_policy: cac ma moi trong store_links_extra mac dinh 'chua co nguoi dam nhan' cho den khi user/report gan — khong hoi lai.",
+    "Link dot 7 (31/07 dem): +24 (nhom Thi Nang named du; ma moi: E82, E83, E106, E108, E120, E128, E140, E143, E156, E171, E177, E192)"
   ],
   "seller_emails": {
     "Seller01": {
@@ -936,6 +943,102 @@
     "E190": {
       "url": "https://www.etsy.com/shop/Avenorhomely",
       "shop": "Avenorhomely"
+    },
+    "E62": {
+      "url": "https://www.etsy.com/shop/MoonSprigDesigns",
+      "shop": "MoonSprigDesigns"
+    },
+    "E61": {
+      "url": "https://www.etsy.com/shop/WillowPeakStudio",
+      "shop": "WillowPeakStudio"
+    },
+    "E235": {
+      "url": "https://www.etsy.com/shop/EchoLightStudio",
+      "shop": "EchoLightStudio"
+    },
+    "E233": {
+      "url": "https://www.etsy.com/shop/PureGlowStudioX",
+      "shop": "PureGlowStudioX"
+    },
+    "E232": {
+      "url": "https://www.etsy.com/shop/SoftLightCollect",
+      "shop": "SoftLightCollect"
+    },
+    "E208": {
+      "url": "https://www.etsy.com/shop/VirelloCraftLab",
+      "shop": "VirelloCraftLab"
+    },
+    "E192": {
+      "url": "https://lumestory.etsy.com",
+      "shop": "lumestory"
+    },
+    "E185": {
+      "url": "https://www.etsy.com/shop/Norivelledesign",
+      "shop": "Norivelledesign"
+    },
+    "E177": {
+      "url": "https://qelvirox.etsy.com",
+      "shop": "qelvirox"
+    },
+    "E171": {
+      "url": "https://warmivon.etsy.com",
+      "shop": "warmivon"
+    },
+    "E156": {
+      "url": "https://zenvorixal.etsy.com",
+      "shop": "zenvorixal"
+    },
+    "E155": {
+      "url": "https://www.etsy.com/shop/Valnexiro",
+      "shop": "Valnexiro"
+    },
+    "E143": {
+      "url": "https://zanvix.etsy.com",
+      "shop": "zanvix"
+    },
+    "E140": {
+      "url": "https://kenvix.etsy.com",
+      "shop": "kenvix"
+    },
+    "E128": {
+      "url": "https://zyvankor.etsy.com",
+      "shop": "zyvankor"
+    },
+    "E127": {
+      "url": "https://www.etsy.com/shop/Xaloryva",
+      "shop": "Xaloryva"
+    },
+    "E120": {
+      "url": "https://xenavory.etsy.com",
+      "shop": "xenavory"
+    },
+    "E108": {
+      "url": "https://velqoryn.etsy.com",
+      "shop": "velqoryn"
+    },
+    "E107": {
+      "url": "https://www.etsy.com/shop/Xenavyra",
+      "shop": "Xenavyra"
+    },
+    "E106": {
+      "url": "https://qalvirox.etsy.com",
+      "shop": "qalvirox"
+    },
+    "E83": {
+      "url": "https://neuxa.etsy.com",
+      "shop": "neuxa"
+    },
+    "E82": {
+      "url": "https://rezviah.etsy.com",
+      "shop": "rezviah"
+    },
+    "E81": {
+      "url": "https://velnixa.etsy.com",
+      "shop": "velnixa"
+    },
+    "E80": {
+      "url": "https://torvexa.etsy.com",
+      "shop": "torvexa"
     }
   },
   "operator_policy": "User chot 31/07: KHONG truy van owner lich su. Truong quan trong duy nhat = nguoi van hanh HIEN TAI (current_operator); nhan su thay doi lien tuc la binh thuong. Account chua gan ai = 'chua co nguoi dam nhan' — la TRANG THAI HOP LE, khong phai gap can hoi. Lich su chi giu cho phan bo don/loss theo thoi ky (OWNER_PERIODS phia Hub)."
