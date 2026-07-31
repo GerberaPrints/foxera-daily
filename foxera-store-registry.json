@@ -459,7 +459,16 @@
         "E253",
         "E254",
         "E256"
-      ]
+      ],
+      "shops": {
+        "E248": "KlimboArtCo",
+        "E249": "NibloCraftCo",
+        "E250": "DorbixStudio",
+        "E252": "ToveliCraftCo",
+        "E253": "OrbiloArtLab",
+        "E254": "NorbixStudio",
+        "E256": "SnugliArtCo"
+      }
     },
     {
       "owner_raw": "Thanh Thúy",
@@ -509,7 +518,8 @@
     "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
     "31/07 23h: LINK PHU KIN 100% — khong con ma mu. store_links_extra + roster + registry = toan bo ma da biet deu quet duoc tu 04:00 mai.",
     "Theo operator_policy: cac ma moi trong store_links_extra mac dinh 'chua co nguoi dam nhan' cho den khi user/report gan — khong hoi lai.",
-    "Link dot 7 (31/07 dem): +24 (nhom Thi Nang named du; ma moi: E82, E83, E106, E108, E120, E128, E140, E143, E156, E171, E177, E192)"
+    "Link dot 7 (31/07 dem): +24 (nhom Thi Nang named du; ma moi: E82, E83, E106, E108, E120, E128, E140, E143, E156, E171, E177, E192)",
+    "Ghi chu E194 = foxeracoltd (shop mang ten cong ty) — dang luu y rieng"
   ],
   "seller_emails": {
     "Seller01": {
@@ -1142,6 +1152,86 @@
     "E258": {
       "url": "https://velvetmoonstudio99.etsy.com",
       "shop": "velvetmoonstudio99"
+    },
+    "E256": {
+      "url": "https://www.etsy.com/shop/SnugliArtCo",
+      "shop": "SnugliArtCo"
+    },
+    "E254": {
+      "url": "https://www.etsy.com/shop/NorbixStudio",
+      "shop": "NorbixStudio"
+    },
+    "E253": {
+      "url": "https://www.etsy.com/shop/OrbiloArtLab",
+      "shop": "OrbiloArtLab"
+    },
+    "E252": {
+      "url": "https://www.etsy.com/shop/ToveliCraftCo",
+      "shop": "ToveliCraftCo"
+    },
+    "E250": {
+      "url": "https://www.etsy.com/shop/DorbixStudio",
+      "shop": "DorbixStudio"
+    },
+    "E249": {
+      "url": "https://www.etsy.com/shop/NibloCraftCo",
+      "shop": "NibloCraftCo"
+    },
+    "E248": {
+      "url": "https://www.etsy.com/shop/KlimboArtCo",
+      "shop": "KlimboArtCo"
+    },
+    "E226": {
+      "url": "https://simpletonemarket.etsy.com",
+      "shop": "simpletonemarket"
+    },
+    "E194": {
+      "url": "https://foxeracoltd.etsy.com",
+      "shop": "foxeracoltd"
+    },
+    "E280": {
+      "url": "https://luminaresinstudio.etsy.com",
+      "shop": "luminaresinstudio"
+    },
+    "E279": {
+      "url": "https://blueharborcraftsco.etsy.com",
+      "shop": "blueharborcraftsco"
+    },
+    "E278": {
+      "url": "https://arcticglowforge.etsy.com",
+      "shop": "arcticglowforge"
+    },
+    "E277": {
+      "url": "https://clayversecrafts.etsy.com",
+      "shop": "clayversecrafts"
+    },
+    "E276": {
+      "url": "https://honeywillowsstudio.etsy.com",
+      "shop": "honeywillowsstudio"
+    },
+    "E275": {
+      "url": "https://rusticcharmss10.etsy.com",
+      "shop": "rusticcharmss10"
+    },
+    "E274": {
+      "url": "https://sunnythreadsshop1111.etsy.com",
+      "shop": "sunnythreadsshop1111"
+    },
+    "E287": {
+      "url": "https://driftwoodglowworks.etsy.com",
+      "shop": "driftwoodglowworks"
+    },
+    "E286": {
+      "url": "https://auroraneststudiono1.etsy.com",
+      "shop": "auroraneststudiono1"
+    },
+    "E285": {
+      "url": "https://oceanicembercraft.etsy.com",
+      "shop": "oceanicembercraft"
+    },
+    "E284": {
+      "url": "https://crystalcurrentart.etsy.com",
+      "shop": "crystalcurrentart"
     }
   },
   "operator_policy": "User chot 31/07: KHONG truy van owner lich su. Truong quan trong duy nhat = nguoi van hanh HIEN TAI (current_operator); nhan su thay doi lien tuc la binh thuong. Account chua gan ai = 'chua co nguoi dam nhan' — la TRANG THAI HOP LE, khong phai gap can hoi. Lich su chi giu cho phan bo don/loss theo thoi ky (OWNER_PERIODS phia Hub).",
