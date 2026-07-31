@@ -77,7 +77,7 @@ Mỗi nhịp là 1 execution độc lập — nhịp này chết KHÔNG kéo nh�
 | v3.6 | Dời market 07:30 → **08:30** | Race condition: GAS đọc lúc task chưa push xong → đổ oan "task fail" |
 | v3.7 | **5 nhịp** + sửa thước BE ROAS **1.0 → 1.45** | Mọi ad ROAS 1.0–1.45 đang bị coi là LÃI, thực tế LỖ |
 | v3.8 | Top SKU từ `SKU Raw Data`, xếp theo **UNITS**; nhịp 1d/3d | Xếp theo gross = tự bơm điểm B2G1 (món tặng vẫn mang price) rồi khuyên scale nhầm |
-| **v3.9** | **7 nhịp** (+B10 09:45, +B11 10:00), health "⏳ chưa tới giờ", fix placeholder `` | Placeholder ký tự thô bị mất khi copy/paste → mọi con số trong tin bị thay nhầm thành thẻ HTML |
+| **v3.9** | **7 nhịp** (+B10 09:45, +B11 10:00), health "⏳ chưa tới giờ", fix placeholder escape tường minh | Placeholder ký tự thô bị mất khi copy/paste → mọi con số trong tin bị thay nhầm thành thẻ HTML |
 
 ### 4.2 Cloud task — 8 luật dữ liệu tích luỹ
 | Luật | Nội dung | Giá đã trả |
