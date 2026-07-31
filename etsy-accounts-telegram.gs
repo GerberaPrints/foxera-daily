@@ -26,8 +26,16 @@ function accTg_prop_(k){ return PropertiesService.getScriptProperties().getPrope
 
 // ---------- đọc sheet Accounts (header-driven, không phụ thuộc vị trí cột) ----------
 function accTg_readAccounts_() {
-  var sh = SpreadsheetApp.getActive().getSheetByName(ACC_TG_SHEET);
-  if (!sh) throw new Error("Không thấy sheet '" + ACC_TG_SHEET + "' — chạy scorecard (etsyShopFetchAuto) trước.");
+  var ss = SpreadsheetApp.getActive();
+  var sh = ss.getSheetByName(ACC_TG_SHEET);
+  if (!sh) { // tên tab có thể kèm emoji (vd '💳 Accounts') -> tìm mờ, loại 'Team & Accounts'
+    var cands = ss.getSheets().filter(function(s){
+      var n = s.getName(); return /account/i.test(n) && !/team/i.test(n);
+    });
+    if (cands.length) { sh = cands[0]; Logger.log("Dùng sheet: '" + sh.getName() + "'"); }
+  }
+  if (!sh) throw new Error("Không thấy sheet Accounts — chạy etsyShopFetchAuto 1-2 lần cho scorecard sinh sheet trước. Các tab hiện có: " +
+    ss.getSheets().map(function(s){ return s.getName(); }).join(' | '));
   var vals = sh.getDataRange().getDisplayValues();
   // tìm hàng header: có ô match 'account' hoặc 'store' VÀ ô match 'score'
   var hRow = -1, map = {};
