@@ -158,3 +158,8 @@ GAS bound-script của Sheet CRM (v2.26.0+) TỰ fetch shop-page Etsy 04:30 và 
 2. Liên đới cụm: account bank OK vẫn chết dần khi cụm chứa account vi phạm quá hạn → alert P1 khi 1 account tier A/LIVE rơi SUS mà bank OK (dấu hiệu sweep đang lan).
 3. SUS NEW = chết tầng danh tính (môi trường tạo account) → không tính là lỗi vận hành seller khi chấm điểm người.
 4. Tỷ lệ sống theo seller là chỉ số theo dõi hằng ngày (Năng06 40% vs Ly09 0%); 'Ngân' roster: T1-T5 = Ngân Trần (T5 đã chốt), T6-T7 = Ngân Huỳnh. Treo: E254, E267 Thúy Ngân, tổng SUS NEW 37 (user sẽ gửi thêm data), E185 owner conflict.
+
+## LUẬT 24 — SỐ CÔNG KHAI ETSY: AI FETCH, AI MERGE, AI ĐỌC (chốt 31/07)
+- Sự thật kỹ thuật: GAS bị Etsy 429 (chặn dải IP Google) · Cloud bị PROVENANCE_REQUIRED (không fetch, không lách). MẮT DUY NHẤT = browser thật máy user qua local-verify/verify_shops.py v2 (tự merge sales/rating/reviews/listings/shopStatus/checkedAt vào foxera-accounts-daily.json rồi user push).
+- Routine 04:30: KHÔNG thử fetch Etsy. Việc của routine = kiểm tra shops-live.json/daily JSON: checkedAt ≤7 ngày → dùng làm tầng live; cũ hơn → carry, ghi rõ mốc. Nếu shopStatus mới mâu thuẫn registry (vd registry LIVE mà quét ra not_selling) → alert P1 (luật 23-2) + cập nhật registry kèm ngày.
+- Hub đọc foxera-accounts-daily.json qua raw URL làm nguồn external (contract: external_fetch_contract trong JSON). Cloud là người MERGE và gác chất lượng, không phải người fetch.

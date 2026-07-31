@@ -100,7 +100,10 @@
       "top_issue": "LIVE (first order 2026-05-11, bank OK) · chua cat canh",
       "action": "gop hoac dung lam shop test niche moi | LIVE giua song lien doi: khong tao them account tu cung moi truong; giu bank/thong tin sach; theo doi daily",
       "likert": 3,
-      "priority": "P3"
+      "priority": "P3",
+      "shopStatus": "active",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E26",
@@ -143,7 +146,10 @@
       "top_issue": "LIVE (first order 2026-06-08, bank OK) · khong discount -> vo hinh",
       "action": "bat discount 25-40% hoac buong (quyet trong 2 tuan) | LIVE giua song lien doi: khong tao them account tu cung moi truong; giu bank/thong tin sach; theo doi daily",
       "likert": 2,
-      "priority": "P3"
+      "priority": "P3",
+      "shopStatus": "active",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E42",
@@ -156,7 +162,10 @@
       "top_issue": "LIVE (first order 2026-05-31, bank OK) · khong discount -> vo hinh",
       "action": "nhu E43 | LIVE giua song lien doi: khong tao them account tu cung moi truong; giu bank/thong tin sach; theo doi daily",
       "likert": 2,
-      "priority": "P3"
+      "priority": "P3",
+      "shopStatus": "active",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E1",
@@ -181,7 +190,10 @@
       "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "likert": 1,
       "priority": "P2",
-      "top_issue": "SUS co don (first order 2026-06-18) · bank OK"
+      "top_issue": "SUS co don (first order 2026-06-18) · bank OK",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E114",
@@ -193,7 +205,10 @@
       "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "likert": 1,
       "priority": "P2",
-      "top_issue": "SUS co don (first order 2026-05-25) · bank OK"
+      "top_issue": "SUS co don (first order 2026-05-25) · bank OK",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E109",
@@ -204,7 +219,10 @@
       "top_issue": "SUS co don (first order 2026-06-17) · bank OK",
       "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "likert": 1,
-      "priority": "P2"
+      "priority": "P2",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E84",
@@ -216,7 +234,10 @@
       "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "likert": 1,
       "priority": "P2",
-      "top_issue": "SUS co don (first order 2026-05-25) · bank OK"
+      "top_issue": "SUS co don (first order 2026-05-25) · bank OK",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E47",
@@ -228,7 +249,10 @@
       "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "likert": 1,
       "priority": "P2",
-      "top_issue": "SUS co don (first order 2026-06-22) · bank OK"
+      "top_issue": "SUS co don (first order 2026-06-22) · bank OK",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E85",
@@ -241,7 +265,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Ly Nguyễn",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E93",
@@ -254,7 +281,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Minh Huỳnh",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E92",
@@ -267,7 +297,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Minh Huỳnh",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E55",
@@ -280,7 +313,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Minh Huỳnh",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E62",
@@ -293,7 +329,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Nga Phạm",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E172",
@@ -306,7 +345,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Dâng Trần",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E61",
@@ -319,7 +361,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Nga Phạm",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E127",
@@ -332,7 +377,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Năng Phan",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E188",
@@ -345,7 +393,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Minh Huỳnh",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E146",
@@ -358,7 +409,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Ly Nguyễn",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E155",
@@ -371,7 +425,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Ly Nguyễn",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E190",
@@ -384,7 +441,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Ly Nguyễn",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E48",
@@ -397,7 +457,10 @@
       "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "priority": "P2",
       "seller": "Dâng Trần",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E107",
@@ -410,7 +473,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Ly Nguyễn",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E77",
@@ -423,7 +489,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Minh Huỳnh",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E185",
@@ -436,7 +505,10 @@
       "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "priority": "P2",
       "seller": "Ly Nguyễn",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     },
     {
       "code": "E150",
@@ -449,7 +521,10 @@
       "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
       "priority": "P1",
       "seller": "Minh Huỳnh",
-      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+      "provenance": "user registry 31/07 (STORE FIRST SALE)",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-07-31",
+      "fetch_provenance": "registry (user-confirmed), chua co so cong khai live"
     }
   ],
   "standard": "FoxEra Status Color Coding & Rating Standards v1.0 (31/07/2026): Likert chat luong 1-5 (CAO=tot; band 1.5/2.5/3.5/4.5; mau 1#DC2626 2#F97316 3#FACC15 4#22C55E 5#15803D); khan cap P1-P4 (P1=xu ly NGAY); lead priority 1-4. Quy tac: doc MAU truoc, so chi co nghia trong thang cua no; khong so so giua 2 thang.",
@@ -459,5 +534,24 @@
     "Qua deadline fix -> dong chu dong (chong lien doi)",
     "Dong bang tao account moi den khi so sanh setup Nang06 vs Ly09",
     "Profile seller09: ngung dung tao account moi"
-  ]
+  ],
+  "external_fetch_contract": {
+    "note": "Hub doc cac truong nay thay fetch Etsy truc tiep (GAS bi 429). Nguon so cong khai = local-verify/verify_shops.py chay tren may user (browser that) -> merge vao day. Cloud KHONG fetch duoc Etsy (PROVENANCE_REQUIRED) - chi merge.",
+    "fields": [
+      "sales",
+      "rating",
+      "reviews",
+      "listings",
+      "shopStatus",
+      "checkedAt",
+      "fetch_provenance"
+    ],
+    "shopStatus_values": [
+      "active",
+      "not_selling",
+      "on_break",
+      "error:*"
+    ],
+    "freshness_rule": "checkedAt >7 ngay = carry, Hub nen hien thi kem moc ngay"
+  }
 }
