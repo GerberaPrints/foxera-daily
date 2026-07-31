@@ -46,7 +46,8 @@ const MB_PROJECTS = [
   { id: 'GENUSFAITH', label: '✝️ GenusFaith',    file: 'genusfaith-daily.json' },
   { id: 'GRITFELL',   label: '🏋️ Gritfell',      file: 'gritfell-daily.json' },
   { id: 'GERBERA',    label: '🌼 Gerbera Market', file: 'gerbera-market.json' },
-  { id: 'FOXJOB',     label: '💼 FoxEra Job',    file: 'foxera-job.json' }
+  { id: 'FOXJOB',     label: '💼 FoxEra Job',    file: 'foxera-job.json' },
+  { id: 'FOXACC',     label: '🏪 FoxEra Accounts', file: 'foxera-accounts-daily.json' }
 ];
 
 // ====== props ======

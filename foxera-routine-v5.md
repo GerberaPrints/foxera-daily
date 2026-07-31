@@ -129,3 +129,6 @@ Mỗi run 04:30, NGOÀI foxera-daily.json, PHẢI sinh thêm **foxera-accounts-d
 7. Khi roster mở rộng (~200 account): B1 giữ chi tiết tối đa 15 store điểm cao nhất + mọi store có alert; B2/B3 gom nhóm + đếm; mỗi tin <3900 ký tự, tối đa ~10 tin.
 8. shops-live.json verified_at >7 ngày → hạ tầng dữ liệu xuống "mốc dd/mm" trong CẦN CHÚ Ý + nhắc user chạy `python local-verify/verify_shops.py`.
 9. GIT: `git add -A` đã bao gồm file này (bước 8 v4). GAS multibot đọc qua project FOXACC (xem hướng dẫn trong etsy-multibot-gas-v1.gs / README).
+
+### LUẬT 20b — NGUỒN VELOCITY TỪ GOOGLE SHEET (31/07/2026)
+Sheet CRM: 1axz9lV0q21574wF_8A2TN5wn7U0bkNKyBCjVjiZRItc (tab Orders, mỗi đơn gắn mã E<code>-<shop>). Nếu Drive MCP CÓ trong run: đọc Orders, đếm đơn/store 7 ngày gần nhất → điểm velocity THẬT + cập nhật summary. Drive MCP VẮNG (run headless không auth) → dùng velocity của foxera-accounts-daily.json hôm trước, ghi "velocity carry (mốc dd/mm)" trong CẦN CHÚ Ý — KHÔNG treo, KHÔNG bịa.
