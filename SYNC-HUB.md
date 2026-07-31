@@ -24,7 +24,7 @@
 ## Trạng thái chốt mới nhất (31/07)
 - E254 = **Vy Đặng** (user chốt 31/07; Hoài Thu chỉ còn E259). SUS NEW unique = 35, tiêu đề 37 → còn thiếu 2 mã, user sẽ gửi thêm.
 - 'Ngân' roster: T1–T5 = Ngân Trần · T6–T7 = Ngân Huỳnh. **E267 = Ngân Huỳnh** (Hub chốt 31/07, evidence board F12).
-- E185: owner conflict Năng06→Ly09, chờ user xác nhận.
+- E185: GIẢI QUYẾT theo operator_policy — người vận hành hiện tại = Ly Nguyễn; lịch sử Năng06 chỉ dùng phân bổ đơn theo thời kỳ.
 - Bàn giao Hạnh Lâm→Tuấn Nguyễn từ 08/07/2026 (user xác nhận).
 - Cơ chế chết account (timeline 16–30/07): (1) first sale trên bank NO = chết 0-2 ngày; (2) association sweep sau deadline 20/07 giết cả bank OK (E185 verify muộn 22/07 vẫn chết → fix bank muộn không cứu được cụm đã nhiễm); (3) SUS NEW 37 chết tầng danh tính. Tỷ lệ sống: Năng06 40% · Dâng01 7% · Minh02 8% · Ly09 0%.
 - Ops rules đang hiệu lực: bank NO → vacation mode; quá deadline không fix → đóng chủ động; đóng băng tạo account mới; ngừng dùng profile seller09.
@@ -76,8 +76,11 @@
 
 9. (31/07 đêm) XÁC NHẬN cho Hub v2.31.1: verify_shops GHI field tên chính xác `listings` (int) vào cả shops-live.json (mỗi shop) và history.jsonl (mỗi dòng ngày) từ v5/v7 — không có key biến thể. Telegram bot v5 đã render theo spec exception-first (🔴 LÀM HÔM NAY / 🟡 THEO DÕI / 🟢 KHỎE 1 dòng / 🗂️ ĐÓNG SỔ 1 dòng, ưu tiên field `action` + d1/d7 từ API v2.31).
 
+## OPERATOR POLICY (user chốt 31/07 đêm — áp cả 2 phiên)
+Không truy vấn owner lịch sử nữa. Trường duy nhất đáng quan tâm = **người vận hành HIỆN TẠI**; nhân sự đổi liên tục là bình thường; account chưa gán ai = "chưa có người đảm nhận" (trạng thái hợp lệ, không phải gap). Lịch sử chỉ giữ cho phân bổ đơn/loss theo thời kỳ (OWNER_PERIODS). Hub: PER SELLER và cột Owner nên đọc theo semantics này.
+
 ## Việc mở
 0. **Hub v2.29.x**: map `action` + `priority` + `top_issue` từ foxera-accounts-daily.json vào cột **'Đề xuất (Claude)'** trong sheet 🏪 Accounts (contract đã mở rộng fields) — để đề xuất từng account hiện ngay trong hệ thống, team không cần lật Telegram.
-1. User gửi thêm: 2 mã SUS NEW thiếu · xác nhận E185 · bảng so sánh setup Năng06 vs Ly09 (→ Cloud chạy phân tích tương quan môi trường).
+1. User gửi thêm: 2 mã SUS NEW thiếu · bảng so sánh setup Năng06 vs Ly09 (→ Cloud chạy phân tích tương quan môi trường).
 2. Hub cân nhắc thêm `o7` vào accScorecardJSON().
 3. Report của Ly Nguyễn nên thêm cột bank-status cho account CHƯA có đơn đang đổ traffic (điểm mù: khoảng giữa tạo account và first sale).

@@ -493,10 +493,9 @@
     "4 store LIVE của Năng Phan (E42,E43,E81,E80) + 1 SUS-bank-NO của Nga Phạm... — chủ đã nghỉ 30/06 → cần bàn giao người mới",
     "Email đúng chính tả gốc: seller02foxeraA (2 chữ a), seller13.foxera (có dấu chấm) — map login phải dùng nguyên văn",
     "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
-    "E185 đổi chủ giữa snapshot (Năng06 -> Ly09) — chờ xác nhận owner thật",
     "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
     "31/07 23h: LINK PHU KIN 100% — khong con ma mu. store_links_extra + roster + registry = toan bo ma da biet deu quet duoc tu 04:00 mai.",
-    "Link dot cuoi (31/07 dem): +9 (E77,E56,E55,E54,E51,E50,E40,E39,E38); ma moi chua ro owner: E38, E39, E40, E50, E51, E54, E56"
+    "Theo operator_policy: cac ma moi trong store_links_extra mac dinh 'chua co nguoi dam nhan' cho den khi user/report gan — khong hoi lai."
   ],
   "seller_emails": {
     "Seller01": {
@@ -587,7 +586,7 @@
     "E185": {
       "sus_window": "26-28/07",
       "bank": "NO->OK (22/07)",
-      "owner_conflict": "Năng-Seller06 (16-25/07) -> Ly-Seller09 (28/07+) — CHỜ XÁC NHẬN ai thật"
+      "owner_conflict": "GIAI QUYET theo operator_policy 31/07: nguoi van hanh hien tai = Ly Nguyen (snapshot 28-30/07); lich su Nang06 chi dung cho phan bo don theo thoi ky."
     },
     "E114": {
       "sus_window": "28-30/07",
@@ -929,6 +928,15 @@
     "E38": {
       "url": "https://novahollowshop.etsy.com",
       "shop": "novahollowshop"
+    },
+    "E183": {
+      "url": "https://floravelyn.etsy.com",
+      "shop": "floravelyn"
+    },
+    "E190": {
+      "url": "https://www.etsy.com/shop/Avenorhomely",
+      "shop": "Avenorhomely"
     }
-  }
+  },
+  "operator_policy": "User chot 31/07: KHONG truy van owner lich su. Truong quan trong duy nhat = nguoi van hanh HIEN TAI (current_operator); nhan su thay doi lien tuc la binh thuong. Account chua gan ai = 'chua co nguoi dam nhan' — la TRANG THAI HOP LE, khong phai gap can hoi. Lich su chi giu cho phan bo don/loss theo thoi ky (OWNER_PERIODS phia Hub)."
 }

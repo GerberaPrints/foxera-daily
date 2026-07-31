@@ -171,3 +171,5 @@ GAS bound-script của Sheet CRM (v2.26.0+) TỰ fetch shop-page Etsy 04:30 và 
 
 - BAND-EDGE GUARD (31/07, đề xuất Hub): rating nằm trong ±0.05 quanh ngưỡng band (4.0/4.3/4.6) → KHÔNG tự chấm, flag 'sát ngưỡng — verify bằng mắt' trong bản tin. Sai 0.1 quanh ngưỡng = nhảy nguyên bậc Likert.
 - (31/07 tối) Khi history.jsonl ≥2 ngày: routine ghi delta_listings_7d / delta_sales_7d / delta_reviews_7d vào scores[] — Hub SUM theo seller cho trục khối lượng thật (listing lên sàn, không chỉ Trello).
+
+## LUẬT 26 — OPERATOR HIỆN TẠI (user chốt 31/07): routine không hỏi/không flag owner lịch sử. Mỗi account chỉ mang current_operator; trống = 'chưa có người đảm nhận' (hợp lệ). Đề xuất giao việc theo current_operator; account không người đảm nhận → việc rơi vào nhóm 'chờ phân công' trong bản tin thay vì gán bừa.
