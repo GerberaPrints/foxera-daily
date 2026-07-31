@@ -41,10 +41,10 @@
       "action": "theo doi ACOS; test giam discount 45-50%; canh rating 4.3 nguong can thiep",
       "likert": 5,
       "priority": "P2",
-      "sales": 1160,
+      "sales": 1162,
       "reviews": 163,
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -62,9 +62,9 @@
       "likert": 4,
       "priority": "P3",
       "sales": 681,
-      "reviews": 113,
+      "reviews": 114,
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -81,10 +81,10 @@
       "action": "test nang tote $12.95-13.95; tach section Tote",
       "likert": 4,
       "priority": "P3",
-      "sales": 573,
+      "sales": 574,
       "reviews": 80,
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -93,7 +93,7 @@
       "tier": "A",
       "score": 75,
       "status": "active",
-      "rating": 4.1,
+      "rating": 4.0,
       "review_count": 101,
       "sales_public": 707,
       "listings": 697,
@@ -103,9 +103,9 @@
       "likert": 3,
       "priority": "P1",
       "sales": 707,
-      "reviews": 101,
+      "reviews": 102,
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser",
       "rating_note": "4.1 xac nhan bang mat nguoi (screenshot shop page 31/07 13:48). So 4.0 tu scraper = doc nham widget khac, DA SUA parser v5."
     },
@@ -124,7 +124,7 @@
       "likert": 3,
       "priority": "P3",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser",
       "sales": 3,
       "reviews": 1
@@ -146,7 +146,7 @@
       "sales": 59,
       "reviews": 5,
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -166,7 +166,7 @@
       "sales": 77,
       "reviews": 11,
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -182,7 +182,7 @@
       "likert": 2,
       "priority": "P3",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser",
       "sales": 3,
       "reviews": 43
@@ -200,7 +200,7 @@
       "likert": 2,
       "priority": "P3",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser",
       "reviews": 43
     },
@@ -217,7 +217,7 @@
       "likert": 1,
       "priority": "P2",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -232,7 +232,7 @@
       "priority": "P2",
       "top_issue": "SUS co don (first order 2026-06-18) · bank OK",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -247,7 +247,7 @@
       "priority": "P2",
       "top_issue": "SUS co don (first order 2026-05-25) · bank OK",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -261,7 +261,7 @@
       "likert": 1,
       "priority": "P2",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -276,7 +276,7 @@
       "priority": "P2",
       "top_issue": "SUS co don (first order 2026-05-25) · bank OK",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -291,7 +291,7 @@
       "priority": "P2",
       "top_issue": "SUS co don (first order 2026-06-22) · bank OK",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -307,7 +307,7 @@
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -322,8 +322,8 @@
       "priority": "P1",
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -338,8 +338,8 @@
       "priority": "P1",
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -355,7 +355,7 @@
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -371,7 +371,7 @@
       "seller": "Nga Phạm",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -387,7 +387,7 @@
       "seller": "Dâng Trần",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -403,7 +403,7 @@
       "seller": "Nga Phạm",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -419,7 +419,7 @@
       "seller": "Năng Phan",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -435,7 +435,7 @@
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -451,7 +451,7 @@
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -467,7 +467,7 @@
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -483,7 +483,7 @@
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -499,7 +499,7 @@
       "seller": "Dâng Trần",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -515,7 +515,7 @@
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -531,7 +531,7 @@
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -547,7 +547,7 @@
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -563,7 +563,7 @@
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -572,7 +572,7 @@
       "tier": "B",
       "reviews": 46,
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -583,7 +583,7 @@
       "rating": 5.0,
       "reviews": 1,
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -592,7 +592,975 @@
       "tier": "B",
       "reviews": 44,
       "shopStatus": "active",
-      "checkedAt": "2026-07-31",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E238",
+      "shop": "VantixoArtHouse",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E237",
+      "shop": "ElzoraStudioCo",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E236",
+      "shop": "NuviroCraftWorks",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E189",
+      "shop": "velorinatelier",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E163",
+      "shop": "zenvorilax",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E152",
+      "shop": "kalverixo",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E138",
+      "shop": "auviramarket",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E137",
+      "shop": "norvynstudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E133",
+      "shop": "vyxanore",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E100",
+      "shop": "zyvexora",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E66",
+      "shop": "cedarmiststudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E35",
+      "shop": "artiswovencrafts",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E288",
+      "shop": "aeromintstudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E240",
+      "shop": "NexoraDesignLab",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E239",
+      "shop": "OrvynCraftStudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E201",
+      "shop": "LumetraDesigns",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E200",
+      "shop": "ArvelloCrafted",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E199",
+      "shop": "SolvaneCollective",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E198",
+      "shop": "NovarynCreations",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E197",
+      "shop": "VeltronaWorkshop",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E196",
+      "shop": "ElvoraDesignHouse",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E187",
+      "shop": "lumestoryco",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E180",
+      "shop": "qivorlyn",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E166",
+      "shop": "rivoxelir",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E165",
+      "shop": "norvalyrex",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E149",
+      "shop": "xavonetra",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E148",
+      "shop": "velorixan",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E134",
+      "shop": "qarvynox",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E121",
+      "shop": "velqirax",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E103",
+      "shop": "zelviroq",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E76",
+      "shop": "yexaro",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E75",
+      "shop": "kavixo",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E74",
+      "shop": "noryxel",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E73",
+      "shop": "zuvion",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E53",
+      "shop": "velvetoakdesigns",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E52",
+      "shop": "moonharborstudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E49",
+      "shop": "harborleafstudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E46",
+      "shop": "tinysproutcraft",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E207",
+      "shop": "LunverraStudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E206",
+      "shop": "SolvantaDesign",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E205",
+      "shop": "NorvellaCraft",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E204",
+      "shop": "VelmorinStudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E203",
+      "shop": "velmoracreative",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E202",
+      "shop": "NorviqueStudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E167",
+      "shop": "kalyvexino",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E147",
+      "shop": "norvaxilo",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E136",
+      "shop": "brivonstudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E131",
+      "shop": "koryvexa",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E125",
+      "shop": "zelvoryx",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E195",
+      "shop": "OrvantaArtStudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E181",
+      "shop": "Zynorqel",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E173",
+      "shop": "Xavelyn",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E78",
+      "shop": "NAYQO",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E56",
+      "shop": "driftmoondesigns",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E54",
+      "shop": "puresproutstudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E51",
+      "shop": "asterbloomco",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E50",
+      "shop": "willowsparkdesign",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E40",
+      "shop": "brightelmstudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E39",
+      "shop": "minthollowshop",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E38",
+      "shop": "novahollowshop",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E183",
+      "shop": "floravelyn",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E235",
+      "shop": "EchoLightStudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E233",
+      "shop": "PureGlowStudioX",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E232",
+      "shop": "SoftLightCollect",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E208",
+      "shop": "VirelloCraftLab",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E192",
+      "shop": "lumestory",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E177",
+      "shop": "qelvirox",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E171",
+      "shop": "warmivon",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E156",
+      "shop": "zenvorixal",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E143",
+      "shop": "zanvix",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E140",
+      "shop": "kenvix",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E128",
+      "shop": "zyvankor",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E120",
+      "shop": "xenavory",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E108",
+      "shop": "velqoryn",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E106",
+      "shop": "qalvirox",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E83",
+      "shop": "neuxa",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E82",
+      "shop": "rezviah",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E79",
+      "shop": "qerivo",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E45",
+      "shop": "amberpeakco",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E44",
+      "shop": "wildferncreates",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E247",
+      "shop": "BumboHouse",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E246",
+      "shop": "RoccaCraft",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E245",
+      "shop": "SnurbiNest",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E244",
+      "shop": "MorbixLab",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E243",
+      "shop": "PebloWorks",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E227",
+      "shop": "zenithformstudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E217",
+      "shop": "nexmoradesigncollect",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E273",
+      "shop": "goldenfern9981run",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E272",
+      "shop": "aluvialeshopone",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E271",
+      "shop": "cozycreaturedesign",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E270",
+      "shop": "lunalittleart",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E269",
+      "shop": "vividclaystudio999",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E268",
+      "shop": "whimsicalcooart",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E266",
+      "shop": "starlightbyesta",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E265",
+      "shop": "urbanmeadowcoart",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E264",
+      "shop": "littlebirchstudioart",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E263",
+      "shop": "petalwildcrafts",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E262",
+      "shop": "velvetmaplestore",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E261",
+      "shop": "whisperingbyvithi",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E260",
+      "shop": "cozynestshop1",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E258",
+      "shop": "velvetmoonstudio99",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E256",
+      "shop": "SnugliArtCo",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E254",
+      "shop": "NorbixStudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E253",
+      "shop": "OrbiloArtLab",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E252",
+      "shop": "ToveliCraftCo",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E250",
+      "shop": "DorbixStudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E249",
+      "shop": "NibloCraftCo",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E248",
+      "shop": "KlimboArtCo",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E226",
+      "shop": "simpletonemarket",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E194",
+      "shop": "foxeracoltd",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E280",
+      "shop": "luminaresinstudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E279",
+      "shop": "blueharborcraftsco",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E278",
+      "shop": "arcticglowforge",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E277",
+      "shop": "clayversecrafts",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E276",
+      "shop": "honeywillowsstudio",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E275",
+      "shop": "rusticcharmss10",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E274",
+      "shop": "sunnythreadsshop1111",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E287",
+      "shop": "driftwoodglowworks",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E286",
+      "shop": "auroraneststudiono1",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E285",
+      "shop": "oceanicembercraft",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
+      "fetch_provenance": "live_local_browser"
+    },
+    {
+      "code": "E284",
+      "shop": "crystalcurrentart",
+      "tier": "B",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-01",
       "fetch_provenance": "live_local_browser"
     }
   ],
@@ -627,5 +1595,5 @@
     "freshness_rule": "checkedAt >7 ngay = carry, Hub nen hien thi kem moc ngay",
     "recommendation_note": "action (de xuat xu ly) + priority (P1-P4) + top_issue: Hub nen map vao cot 'De xuat (Claude)' trong sheet Accounts de team thay ngay trong he thong, khong chi Telegram."
   },
-  "shops_live_merged_at": "2026-07-31"
+  "shops_live_merged_at": "2026-08-01"
 }

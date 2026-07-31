@@ -1,0 +1,73 @@
+{
+  "updated": "2026-08-01",
+  "scope": [
+    "E193",
+    "E257",
+    "E29",
+    "E4"
+  ],
+  "shops": {
+    "E193": {
+      "shop": "HoanElly",
+      "d": "2026-08-01",
+      "reviews": [
+        "Milorad on Jul 31, 2026",
+        "Kerry on Jul 30, 2026",
+        "Etsy buyer on Jul 23, 2026",
+        "Ainsley on Jul 19, 2026",
+        "Brian on Jul 8, 2026",
+        "Jana on Jul 6, 2026",
+        "Isabella on Jul 5, 2026",
+        "Etsy buyer on Jul 4, 2026",
+        "Marcella on Jul 30, 2026"
+      ]
+    },
+    "E257": {
+      "shop": "VintagebyTung",
+      "d": "2026-08-01",
+      "reviews": [
+        "Deloris on Jun 11, 2026",
+        "Frank on Jun 9, 2026",
+        "Morgan on Jul 27, 2026",
+        "Karen on Jul 26, 2026",
+        "Douglas on Jul 20, 2026",
+        "Jackie on Jul 18, 2026",
+        "Deborah on Jul 15, 2026",
+        "Debra on Jul 14, 2026",
+        "Linda on Jul 12, 2026",
+        "Catherine on Jul 3, 2026"
+      ]
+    },
+    "E29": {
+      "shop": "Velarionne",
+      "d": "2026-08-01",
+      "reviews": [
+        "Tom on Jul 13, 2026",
+        "Annmarie on Jul 5, 2026",
+        "Deb on Feb 20, 2026",
+        "Melissa on Feb 13, 2026",
+        "Darlene on Jul 31, 2026",
+        "Julie on Jul 30, 2026",
+        "Jennifer on Jul 30, 2026",
+        "Inactive account on Jul 30, 2026",
+        "Felicitas on Jul 29, 2026",
+        "Bethany on Jul 29, 2026"
+      ]
+    },
+    "E4": {
+      "shop": "ThreadMelodia",
+      "d": "2026-08-01",
+      "reviews": [
+        "sandra on Jul 11, 2026",
+        "Sheila on Jun 17, 2026",
+        "Richard on Jun 9, 2026",
+        "Carlos on Jul 31, 2026",
+        "joseph on Jul 26, 2026",
+        "Meghan on Jul 25, 2026",
+        "Fusco on Jul 14, 2026",
+        "Etsy buyer on Jul 14, 2026",
+        "Tom on Jul 13, 2026"
+      ]
+    }
+  }
+}
