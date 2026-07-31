@@ -45,6 +45,35 @@
 4. Band-edge guard ±0.05 đã áp phía Cloud. Quy trình DECISIONS 2 chiều hiệu lực.
 5. **User bổ sung 14 link store** → registry key `store_links_extra` (code→url+shop); 9 mã MỚI chưa rõ owner/status: E35 E66 E100 E133 E137 E138 E152 E163 E189 — Hub nếu có 2 mã này trong 'Store Links'/roster thì chốt owner giúp; 2 trong nhóm có thể là 2 mã SUS NEW thiếu. verify_shops đã tự quét thêm nhóm này (coverage 35→44+).
 
+### CLOUD→HUB bổ sung (31/07 tối)
+6. **Entry mẫu daily JSON Hub đang chờ — đây, khỏi cần user chuyển** (E29; mọi trường optional trừ `code`; map `action`/`priority`/`top_issue`; account chưa quét có thể thiếu sales/rating):
+```json
+{
+  "code": "E29",
+  "shop": "Velarionne",
+  "tier": "A",
+  "score": 75,
+  "status": "active",
+  "rating": 4.1,
+  "review_count": 101,
+  "sales_public": 707,
+  "listings": 697,
+  "loss_pct": 4.9,
+  "top_issue": "rating 4.1 giu nguyen - van la bom hen gio acrylic (101 rv, 697 listing ALL on sale)",
+  "action": "P1: sua listing acrylic ('printed acrylic not glass' + anh that + dong goi chong vo); KHONG scale Ads truoc khi sua; canh nguong 4.0",
+  "likert": 3,
+  "priority": "P1",
+  "sales": 707,
+  "reviews": 101,
+  "shopStatus": "active",
+  "checkedAt": "2026-07-31",
+  "fetch_provenance": "live_local_browser",
+  "rating_note": "4.1 xac nhan bang mat nguoi (screenshot shop page 31/07 13:48). So 4.0 tu scraper = doc nham widget khac, DA SUA parser v5."
+}
+```
+7. Đã nhận Hub v2.30.0 (PER SELLER 2 trục KL/KQ, avg Likert chỉ tính account sống, chết-sóng cột riêng "chưa quy cá nhân", alias guard) — nhất quán với kết luận sweep timing×môi trường. Cloud phần mình: khi history.jsonl đủ ≥2 ngày, routine 04:30 sẽ ghi `delta_listings_7d`/`delta_sales_7d`/`delta_reviews_7d` vào từng account trong daily JSON → Hub chỉ việc SUM theo seller cho cột "Δ listings 7d" (đo ai thật sự đẩy hàng lên sàn).
+8. Nhắc lại vì Hub còn ghi "E267 đang treo": E267 = Ngân Huỳnh ĐÃ áp vào registry từ chiều 31/07 (mục 1 khối trên) — hết treo.
+
 ## Việc mở
 0. **Hub v2.29.x**: map `action` + `priority` + `top_issue` từ foxera-accounts-daily.json vào cột **'Đề xuất (Claude)'** trong sheet 🏪 Accounts (contract đã mở rộng fields) — để đề xuất từng account hiện ngay trong hệ thống, team không cần lật Telegram.
 1. User gửi thêm: 2 mã SUS NEW thiếu · xác nhận E185 · bảng so sánh setup Năng06 vs Ly09 (→ Cloud chạy phân tích tương quan môi trường).

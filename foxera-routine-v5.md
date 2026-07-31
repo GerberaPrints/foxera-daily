@@ -170,3 +170,4 @@ GAS bound-script của Sheet CRM (v2.26.0+) TỰ fetch shop-page Etsy 04:30 và 
 - Đề xuất account viết lại MỖI NGÀY dựa trên: trạng thái registry + số quét mới nhất + Δ tăng trưởng + loss nội bộ (Hub). Rating giảm ≥0.1 hoặc reviews tăng mà rating giảm = cờ chất lượng sản phẩm → P1/P2 tùy mức.
 
 - BAND-EDGE GUARD (31/07, đề xuất Hub): rating nằm trong ±0.05 quanh ngưỡng band (4.0/4.3/4.6) → KHÔNG tự chấm, flag 'sát ngưỡng — verify bằng mắt' trong bản tin. Sai 0.1 quanh ngưỡng = nhảy nguyên bậc Likert.
+- (31/07 tối) Khi history.jsonl ≥2 ngày: routine ghi delta_listings_7d / delta_sales_7d / delta_reviews_7d vào scores[] — Hub SUM theo seller cho trục khối lượng thật (listing lên sàn, không chỉ Trello).
