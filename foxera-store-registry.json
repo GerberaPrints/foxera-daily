@@ -1,0 +1,526 @@
+{
+  "updated": "2026-07-31",
+  "source": "User paste 31/07/2026 'FOXERA-ETSY STORE FIRST SALE' — nguồn chuẩn store→seller→status. Đã chuẩn hoá tên seller theo canon Hub (TRELLO_ALIAS/ROSTER_SHORT).",
+  "standard": "FoxEra v1.0: SUS+bank NO = P1 🔴 · SUS+bank OK = P2 🟠 · SUS NEW chủ đã nghỉ = P2 🟠 (bàn giao) · SUS NEW chủ đang làm = P3 🟡 · LIVE = P4 🟢 theo dõi",
+  "seller_canon": {
+    "Seller01": "Dâng Trần",
+    "Seller02": "Minh Huỳnh",
+    "Seller04": "Nga Phạm",
+    "Seller06": "Năng Phan",
+    "Seller09": "Ly Nguyễn",
+    "Trúc Ly": "Ly Nguyễn",
+    "Thị Năng": "Năng Phan",
+    "Nhật Minh": "Minh Huỳnh",
+    "Trương Dâng": "Dâng Trần",
+    "Tường Vy": "Vy Đặng",
+    "Thanh Thúy": "Thúy Trần",
+    "Hoài Thu": "Thu Trương",
+    "Thúy Ngân": "(Ngân — chưa rõ Trần/Huỳnh)",
+    "Seller10": "Vy Đặng",
+    "Seller11": "Thu Trương",
+    "Seller13": "Hằng Trần",
+    "Seller08": "Tuấn Nguyễn",
+    "Seller03": "Linh Nguyễn"
+  },
+  "sellers_left": {
+    "Nga Phạm": "30/06/2026",
+    "Năng Phan": "30/06/2026",
+    "Thúy Trần": "29/07/2026",
+    "Ngân Trần": "15/06/2026",
+    "Ngân Huỳnh": "24/07/2026",
+    "Giang Nguyễn": "05/2026"
+  },
+  "live": [
+    {
+      "code": "E135",
+      "shop": "VDKHandmade",
+      "seller": "Dâng Trần",
+      "seller_key": "Seller01",
+      "seller_status": "đang làm",
+      "first_order": "2026-05-11"
+    },
+    {
+      "code": "E42",
+      "shop": "GoldenMossWorks",
+      "seller": "Năng Phan",
+      "seller_key": "Seller06",
+      "seller_status": "nghỉ 30/06/2026",
+      "first_order": "2026-05-31"
+    },
+    {
+      "code": "E43",
+      "shop": "DreamPineCo",
+      "seller": "Năng Phan",
+      "seller_key": "Seller06",
+      "seller_status": "nghỉ 30/06/2026",
+      "first_order": "2026-06-08"
+    },
+    {
+      "code": "E81",
+      "shop": "VELNIXA",
+      "seller": "Năng Phan",
+      "seller_key": "Seller06",
+      "seller_status": "nghỉ 30/06/2026",
+      "first_order": "2026-06-25"
+    },
+    {
+      "code": "E119",
+      "shop": "Zyvorexa",
+      "seller": "Minh Huỳnh",
+      "seller_key": "Seller02",
+      "seller_status": "đang làm",
+      "first_order": "2026-06-26"
+    },
+    {
+      "code": "E80",
+      "shop": "TORVEXA",
+      "seller": "Năng Phan",
+      "seller_key": "Seller06",
+      "seller_status": "nghỉ 30/06/2026",
+      "first_order": "2026-06-28"
+    }
+  ],
+  "sus_with_sales": [
+    {
+      "code": "E85",
+      "shop": "NOVIXRA",
+      "seller": "Ly Nguyễn",
+      "seller_key": "Seller09",
+      "seller_status": "đang làm",
+      "first_order": "2026-06-05",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E93",
+      "shop": "Arvyno",
+      "seller": "Minh Huỳnh",
+      "seller_key": "Seller02",
+      "seller_status": "đang làm",
+      "first_order": "2026-06-05",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E92",
+      "shop": "NoviForm",
+      "seller": "Minh Huỳnh",
+      "seller_key": "Seller02",
+      "seller_status": "đang làm",
+      "first_order": "2026-06-14",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E55",
+      "shop": "NovaBirchStudio",
+      "seller": "Minh Huỳnh",
+      "seller_key": "Seller02",
+      "seller_status": "đang làm",
+      "first_order": "2026-06-16",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E62",
+      "shop": "MoonSprigDesigns",
+      "seller": "Nga Phạm",
+      "seller_key": "Seller04",
+      "seller_status": "nghỉ 30/06/2026",
+      "first_order": "2026-06-29",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E188",
+      "shop": "Elorianestudio",
+      "seller": "Minh Huỳnh",
+      "seller_key": "Seller02",
+      "seller_status": "đang làm",
+      "first_order": "2026-06-29",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E172",
+      "shop": "Aurelinx",
+      "seller": "Dâng Trần",
+      "seller_key": "Seller01",
+      "seller_status": "đang làm",
+      "first_order": "2026-07-03",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E61",
+      "shop": "WillowPeakStudio",
+      "seller": "Nga Phạm",
+      "seller_key": "Seller04",
+      "seller_status": "nghỉ 30/06/2026",
+      "first_order": "2026-07-03",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E127",
+      "shop": "Xaloryva",
+      "seller": "Năng Phan",
+      "seller_key": "Seller06",
+      "seller_status": "nghỉ 30/06/2026",
+      "first_order": "2026-07-06",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E146",
+      "shop": "LUNAVEXOR",
+      "seller": "Ly Nguyễn",
+      "seller_key": "Seller09",
+      "seller_status": "đang làm",
+      "first_order": "2026-07-10",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E155",
+      "shop": "Valnexiro",
+      "seller": "Ly Nguyễn",
+      "seller_key": "Seller09",
+      "seller_status": "đang làm",
+      "first_order": "2026-07-15",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E190",
+      "shop": "Avenorhomely",
+      "seller": "Ly Nguyễn",
+      "seller_key": "Seller09",
+      "seller_status": "đang làm",
+      "first_order": "2026-07-15",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E107",
+      "shop": "Xenavyra",
+      "seller": "Ly Nguyễn",
+      "seller_key": "Seller09",
+      "seller_status": "đang làm",
+      "first_order": "2026-07-25",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E77",
+      "shop": "ZAVYNTA",
+      "seller": "Minh Huỳnh",
+      "seller_key": "Seller02",
+      "seller_status": "đang làm",
+      "first_order": "2026-07-26",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E150",
+      "shop": "Elvarixo",
+      "seller": "Minh Huỳnh",
+      "seller_key": "Seller02",
+      "seller_status": "đang làm",
+      "first_order": "2026-07-28",
+      "bank_verified": false,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P1"
+    },
+    {
+      "code": "E48",
+      "shop": "StarlitCoveCo",
+      "seller": "Dâng Trần",
+      "seller_key": "Seller01",
+      "seller_status": "đang làm",
+      "first_order": "2026-04-29",
+      "bank_verified": true,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P2"
+    },
+    {
+      "code": "E84",
+      "shop": "ARVIXON",
+      "seller": "Ly Nguyễn",
+      "seller_key": "Seller09",
+      "seller_status": "đang làm",
+      "first_order": "2026-05-25",
+      "bank_verified": true,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P2"
+    },
+    {
+      "code": "E114",
+      "shop": "Zyvaneli",
+      "seller": "Dâng Trần",
+      "seller_key": "Seller01",
+      "seller_status": "đang làm",
+      "first_order": "2026-05-25",
+      "bank_verified": true,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P2"
+    },
+    {
+      "code": "E109",
+      "shop": "Zarvynix",
+      "seller": "Năng Phan",
+      "seller_key": "Seller06",
+      "seller_status": "nghỉ 30/06/2026",
+      "first_order": "2026-06-17",
+      "bank_verified": true,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P2"
+    },
+    {
+      "code": "E169",
+      "shop": "Kindelora",
+      "seller": "Minh Huỳnh",
+      "seller_key": "Seller02",
+      "seller_status": "đang làm",
+      "first_order": "2026-06-18",
+      "bank_verified": true,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P2"
+    },
+    {
+      "code": "E47",
+      "shop": "BlueWillowWorks",
+      "seller": "Dâng Trần",
+      "seller_key": "Seller01",
+      "seller_status": "đang làm",
+      "first_order": "2026-06-22",
+      "bank_verified": true,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P2"
+    },
+    {
+      "code": "E185",
+      "shop": "Norivelledesign",
+      "seller": "Ly Nguyễn",
+      "seller_key": "Seller09",
+      "seller_status": "đang làm",
+      "first_order": "2026-07-05",
+      "bank_verified": true,
+      "fix_status": "NOT_FIX",
+      "fix_deadline": "2026-07-20",
+      "overdue_days": 11,
+      "priority": "P2"
+    }
+  ],
+  "sus_new": [
+    {
+      "owner_raw": "Trúc Ly",
+      "owner": "Ly Nguyễn",
+      "owner_status": "đang làm",
+      "codes": [
+        "E238",
+        "E237",
+        "E236"
+      ]
+    },
+    {
+      "owner_raw": "Thị Năng",
+      "owner": "Năng Phan",
+      "owner_status": "nghỉ 30/06/2026",
+      "codes": [
+        "E235",
+        "E233",
+        "E232",
+        "E208"
+      ]
+    },
+    {
+      "owner_raw": "Nhật Minh",
+      "owner": "Minh Huỳnh",
+      "owner_status": "đang làm",
+      "codes": [
+        "E202",
+        "E204",
+        "E205",
+        "E206",
+        "E207"
+      ]
+    },
+    {
+      "owner_raw": "Trương Dâng",
+      "owner": "Dâng Trần",
+      "owner_status": "đang làm",
+      "codes": [
+        "E195",
+        "E196",
+        "E197",
+        "E198",
+        "E199",
+        "E200",
+        "E201",
+        "E239",
+        "E240"
+      ]
+    },
+    {
+      "owner_raw": "Tường Vy",
+      "owner": "Vy Đặng",
+      "owner_status": "đang làm",
+      "codes": [
+        "E248",
+        "E249",
+        "E250",
+        "E252",
+        "E253",
+        "E254",
+        "E256"
+      ]
+    },
+    {
+      "owner_raw": "Thanh Thúy",
+      "owner": "Thúy Trần",
+      "owner_status": "nghỉ 29/07/2026",
+      "codes": [
+        "E243",
+        "E244",
+        "E245",
+        "E246",
+        "E247"
+      ]
+    },
+    {
+      "owner_raw": "Hoài Thu",
+      "owner": "Thu Trương",
+      "owner_status": "đang làm",
+      "codes": [
+        "E254",
+        "E259"
+      ]
+    },
+    {
+      "owner_raw": "Thúy Ngân",
+      "owner": "(Ngân — chưa rõ Trần/Huỳnh)",
+      "owner_status": "chưa rõ",
+      "codes": [
+        "E267"
+      ]
+    }
+  ],
+  "data_quality_flags": [
+    "E254 xuất hiện 2 lần trong SUS NEW (Tường Vy VÀ Hoài Thu) — cần chốt thuộc ai (Hoài Thu có thể là E255/E258 gõ nhầm?)",
+    "SUS NEW ghi TỔNG 37 nhưng liệt kê 36 dòng / 35 mã duy nhất — thiếu 1-2 mã so với tiêu đề",
+    "'Thúy Ngân' không xác định được là Ngân Trần (nghỉ 15/06) hay Ngân Huỳnh (nghỉ 24/07) — cả 2 đã nghỉ, E267 mồ côi",
+    "Nguồn gõ 'VERY BANK' — hiểu là VERIFY BANK; 'E150Elvarixo' thiếu dấu gạch — đã chuẩn hoá E150-Elvarixo",
+    "Cả 22 shop SUS đều NOT FIX, hạn TIME FIX 20/07/2026 đã QUÁ 11 ngày (0/22 xử lý)",
+    "4 store LIVE của Năng Phan (E42,E43,E81,E80) + 1 SUS-bank-NO của Nga Phạm... — chủ đã nghỉ 30/06 → cần bàn giao người mới",
+    "Email đúng chính tả gốc: seller02foxeraA (2 chữ a), seller13.foxera (có dấu chấm) — map login phải dùng nguyên văn",
+    "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò"
+  ],
+  "seller_emails": {
+    "Seller01": {
+      "name": "Dâng Trần",
+      "full": "Trần Trương Dâng",
+      "email": "seller01foxera@gmail.com"
+    },
+    "Seller02": {
+      "name": "Minh Huỳnh",
+      "full": "Huỳnh Thị Nhật Minh",
+      "email": "seller02foxeraa@gmail.com"
+    },
+    "Seller03": {
+      "name": "Linh Nguyễn",
+      "full": "Nguyễn Thị Phương Linh",
+      "email": "seller03foxera@gmail.com",
+      "note": "NGƯỜI MỚI với hệ thống scorecard — chưa có trong map Trello/roster nào, chưa thấy account gán; cần xác nhận vai"
+    },
+    "Seller08": {
+      "name": "Tuấn Nguyễn",
+      "full": "Nguyễn Văn Tuấn",
+      "email": "seller08foxera@gmail.com"
+    },
+    "Seller09": {
+      "name": "Ly Nguyễn",
+      "full": "Nguyễn Thị Trúc Ly",
+      "email": "seller09foxera@gmail.com"
+    },
+    "Seller10": {
+      "name": "Vy Đặng",
+      "full": "Đặng Thị Tường Vy",
+      "email": "seller10foxera@gmail.com"
+    },
+    "Seller11": {
+      "name": "Thu Trương",
+      "full": "Trương Nguyễn Hoài Thu",
+      "email": "seller11foxera@gmail.com"
+    },
+    "Seller13": {
+      "name": "Hằng Trần",
+      "full": "Trần Thị Lệ Hằng",
+      "email": "seller13.foxera@gmail.com"
+    }
+  },
+  "person_transfers": [
+    {
+      "from": "Hạnh Lâm",
+      "to": "Tuấn Nguyễn",
+      "since": "2026-07-08",
+      "note": "User xác nhận 31/07: account Hạnh Lâm bàn giao Tuấn Nguyễn ngày 8/7 — khớp PERSON_TRANSFERS của Hub. Đơn/hành động trước 08/07 tính Hạnh Lâm, từ 08/07 tính Tuấn Nguyễn."
+    }
+  ]
+}

@@ -94,7 +94,7 @@
       "review_count": 1,
       "sales_public": 3,
       "listings": 77,
-      "top_issue": "chua cat canh",
+      "top_issue": "LIVE (first order 2026-05-11, bank OK) · chua cat canh",
       "action": "gop hoac dung lam shop test niche moi",
       "likert": 3,
       "priority": "P3"
@@ -137,7 +137,7 @@
       "status": "dormant",
       "sales_public": 3,
       "listings": 43,
-      "top_issue": "khong discount -> vo hinh",
+      "top_issue": "LIVE (first order 2026-06-08, bank OK) · khong discount -> vo hinh",
       "action": "bat discount 25-40% hoac buong (quyet trong 2 tuan)",
       "likert": 2,
       "priority": "P3"
@@ -150,7 +150,7 @@
       "status": "dormant",
       "sales_public": 1,
       "listings": 43,
-      "top_issue": "khong discount -> vo hinh",
+      "top_issue": "LIVE (first order 2026-05-31, bank OK) · khong discount -> vo hinh",
       "action": "nhu E43",
       "likert": 2,
       "priority": "P3"
@@ -175,9 +175,10 @@
       "score": 5,
       "status": "suspended",
       "sales_public": 2,
-      "action": "buong",
+      "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "likert": 1,
-      "priority": "P4"
+      "priority": "P2",
+      "top_issue": "SUS co don (first order 2026-06-18) · bank OK"
     },
     {
       "code": "E114",
@@ -186,9 +187,10 @@
       "score": 5,
       "status": "suspended",
       "sales_public": 3,
-      "action": "buong",
+      "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "likert": 1,
-      "priority": "P4"
+      "priority": "P2",
+      "top_issue": "SUS co don (first order 2026-05-25) · bank OK"
     },
     {
       "code": "E109",
@@ -196,10 +198,10 @@
       "tier": "C",
       "score": 5,
       "status": "suspended",
-      "top_issue": "khong truy cap duoc trang",
-      "action": "buong",
+      "top_issue": "SUS co don (first order 2026-06-17) · bank OK",
+      "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "likert": 1,
-      "priority": "P4"
+      "priority": "P2"
     },
     {
       "code": "E84",
@@ -208,9 +210,10 @@
       "score": 5,
       "status": "suspended",
       "sales_public": 2,
-      "action": "buong",
+      "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "likert": 1,
-      "priority": "P4"
+      "priority": "P2",
+      "top_issue": "SUS co don (first order 2026-05-25) · bank OK"
     },
     {
       "code": "E47",
@@ -219,10 +222,233 @@
       "score": 5,
       "status": "suspended",
       "sales_public": 2,
-      "action": "buong",
+      "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
       "likert": 1,
-      "priority": "P4"
+      "priority": "P2",
+      "top_issue": "SUS co don (first order 2026-06-22) · bank OK"
+    },
+    {
+      "code": "E85",
+      "shop": "NOVIXRA",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-06-05) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Ly Nguyễn",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E93",
+      "shop": "Arvyno",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-06-05) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Minh Huỳnh",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E92",
+      "shop": "NoviForm",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-06-14) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Minh Huỳnh",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E55",
+      "shop": "NovaBirchStudio",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-06-16) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Minh Huỳnh",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E62",
+      "shop": "MoonSprigDesigns",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-06-29) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Nga Phạm",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E172",
+      "shop": "Aurelinx",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-07-03) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Dâng Trần",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E61",
+      "shop": "WillowPeakStudio",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-07-03) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Nga Phạm",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E127",
+      "shop": "Xaloryva",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-07-06) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Năng Phan",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E188",
+      "shop": "Elorianestudio",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-06-29) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Minh Huỳnh",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E146",
+      "shop": "LUNAVEXOR",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-07-10) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Ly Nguyễn",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E155",
+      "shop": "Valnexiro",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-07-15) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Ly Nguyễn",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E190",
+      "shop": "Avenorhomely",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-07-15) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Ly Nguyễn",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E48",
+      "shop": "StarlitCoveCo",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-04-29) · bank OK",
+      "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
+      "priority": "P2",
+      "seller": "Dâng Trần",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E107",
+      "shop": "Xenavyra",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-07-25) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Ly Nguyễn",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E77",
+      "shop": "ZAVYNTA",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-07-26) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Minh Huỳnh",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E185",
+      "shop": "Norivelledesign",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-07-05) · bank OK",
+      "action": "khang cao Etsy (bank OK) — qua han fix 20/07 (+11d)",
+      "priority": "P2",
+      "seller": "Ly Nguyễn",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
+    },
+    {
+      "code": "E150",
+      "shop": "Elvarixo",
+      "tier": "C",
+      "score": 10,
+      "likert": 1,
+      "status": "suspended",
+      "top_issue": "SUS co don (first order 2026-07-28) · bank NO",
+      "action": "P1: VERIFY BANK chua xong + khang cao — qua han fix 20/07 (+11d)",
+      "priority": "P1",
+      "seller": "Minh Huỳnh",
+      "provenance": "user registry 31/07 (STORE FIRST SALE)"
     }
   ],
-  "standard": "FoxEra Status Color Coding & Rating Standards v1.0 (31/07/2026): Likert chat luong 1-5 (CAO=tot; band 1.5/2.5/3.5/4.5; mau 1#DC2626 2#F97316 3#FACC15 4#22C55E 5#15803D); khan cap P1-P4 (P1=xu ly NGAY); lead priority 1-4. Quy tac: doc MAU truoc, so chi co nghia trong thang cua no; khong so so giua 2 thang."
+  "standard": "FoxEra Status Color Coding & Rating Standards v1.0 (31/07/2026): Likert chat luong 1-5 (CAO=tot; band 1.5/2.5/3.5/4.5; mau 1#DC2626 2#F97316 3#FACC15 4#22C55E 5#15803D); khan cap P1-P4 (P1=xu ly NGAY); lead priority 1-4. Quy tac: doc MAU truoc, so chi co nghia trong thang cua no; khong so so giua 2 thang.",
+  "registry_note": "foxera-store-registry.json = nguồn chuẩn store→seller→status (LIVE/SUS/SUS-NEW, bank verify, fix deadline). Cap nhat 31/07."
 }

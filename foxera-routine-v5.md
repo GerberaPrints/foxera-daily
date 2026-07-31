@@ -145,3 +145,10 @@ GAS bound-script của Sheet CRM (v2.26.0+) TỰ fetch shop-page Etsy 04:30 và 
 - Ánh xạ điểm account /100 → Likert: ≥80→5 · 60-79→4 · 40-59→3 · 25-39→2 · <25 hoặc suspended→1 (rating <4.2 hoặc loss >4% thì trừ 1 band, sàn 1).
 - foxera-accounts-daily.json: mỗi phần tử scores[] PHẢI có `likert` (1-5) và `priority` (P1-P4 cho action). AccountsTelegram.gs v3 đọc 2 trường này; thiếu priority → mặc định P3.
 - Nguồn số likert khi có Hub: lấy `likert` từ accScorecardJSON() (file chính v2.26.2) làm chuẩn; JSON cloud chỉ bổ sung action + priority.
+
+## LUẬT 22 — SỔ ĐĂNG KÝ STORE (foxera-store-registry.json) = nguồn chuẩn store→seller→status
+- Mọi đánh giá/report account PHẢI tra registry trước: LIVE (6) / SUS có đơn (22, kèm bank verify + fix deadline) / SUS NEW (37 theo chủ). KHÔNG tự suy status từ quét công khai khi registry có dữ liệu — quét công khai chỉ để phát hiện THAY ĐỔI so với registry.
+- Tên seller luôn chuẩn hoá về canon (khớp Hub): Seller01=Dâng Trần · 02=Minh Huỳnh · 03=Linh Nguyễn · 04=Nga Phạm(nghỉ) · 06=Năng Phan(nghỉ) · 08=Tuấn Nguyễn · 09=Ly Nguyễn(Trúc Ly) · 10=Vy Đặng · 11=Thu Trương · 13=Hằng Trần. Email login lấy NGUYÊN VĂN từ registry.seller_emails (02 có 'aa', 13 có dấu chấm).
+- Bàn giao theo thời kỳ: Hạnh Lâm→Tuấn Nguyễn từ 08/07/2026; 'Ngân' = Ngân Trần T1-T4, Ngân Huỳnh T6-T7 (T5 chưa chốt). Số trước mốc tính người cũ, sau mốc tính người mới.
+- Thang ưu tiên SUS (chuẩn v1.0): SUS + bank NO = P1 🔴 · SUS + bank OK = P2 🟠 · SUS NEW chủ đã nghỉ = P2 🟠 (bàn giao) · SUS NEW chủ đang làm = P3 🟡 · LIVE = P4 🟢.
+- Data quality: KHÔNG lấp gap bằng đoán — flag treo trong registry.data_quality_flags (E254 trùng 2 chủ, tổng 37≠36 dòng, 'Thúy Ngân' chưa rõ ai) và hỏi user; chỉ xoá flag khi user chốt.
