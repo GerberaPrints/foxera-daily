@@ -229,7 +229,10 @@
       "code": "E55",
       "shop": "NovaBirchStudio",
       "url": "https://www.etsy.com/shop/NovaBirchStudio",
-      "status": "not_selling",
+      "status": "active",
+      "on_sale": false,
+      "prev_status": "not_selling",
+      "prev_checked": "2026-07-31",
       "verified_at": "2026-07-31"
     },
     {
@@ -244,7 +247,10 @@
       "code": "E62",
       "shop": "MoonSprigDesigns",
       "url": "https://www.etsy.com/shop/MoonSprigDesigns",
-      "status": "not_selling",
+      "status": "active",
+      "on_sale": false,
+      "prev_status": "not_selling",
+      "prev_checked": "2026-07-31",
       "verified_at": "2026-07-31"
     },
     {
@@ -291,14 +297,20 @@
       "code": "E92",
       "shop": "NoviForm",
       "url": "https://www.etsy.com/shop/NoviForm",
-      "status": "not_selling",
+      "status": "active",
+      "on_sale": false,
+      "prev_status": "not_selling",
+      "prev_checked": "2026-07-31",
       "verified_at": "2026-07-31"
     },
     {
       "code": "E93",
       "shop": "Arvyno",
       "url": "https://www.etsy.com/shop/Arvyno",
-      "status": "not_selling",
+      "status": "active",
+      "on_sale": false,
+      "prev_status": "not_selling",
+      "prev_checked": "2026-07-31",
       "verified_at": "2026-07-31"
     }
   ]
