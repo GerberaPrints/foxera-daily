@@ -34,6 +34,7 @@
 - Phân vai: **User** chạy verify_shops.py (LIVE daily, full 2 lần/tuần) → push. **Cloud 04:30** gác chất lượng: checkedAt ≤7d = tầng live, cũ hơn = carry; mâu thuẫn registry → alert P1. **Hub v2.29** đọc `foxera-accounts-daily.json` raw URL — contract ở key `external_fetch_contract` (fields: sales/rating/reviews/listings/shopStatus/checkedAt/fetch_provenance; shopStatus: active|not_selling|on_break|error:*). Đã seed shopStatus từ registry cho 25 account để reader chạy được ngay trước lần quét đầu.
 
 ## Việc mở
+0. **Hub v2.29.x**: map `action` + `priority` + `top_issue` từ foxera-accounts-daily.json vào cột **'Đề xuất (Claude)'** trong sheet 🏪 Accounts (contract đã mở rộng fields) — để đề xuất từng account hiện ngay trong hệ thống, team không cần lật Telegram.
 1. User gửi thêm: 2 mã SUS NEW thiếu · xác nhận E267 · xác nhận E185 · bảng so sánh setup Năng06 vs Ly09 (→ Cloud chạy phân tích tương quan môi trường).
 2. Hub cân nhắc thêm `o7` vào accScorecardJSON().
 3. Report của Ly Nguyễn nên thêm cột bank-status cho account CHƯA có đơn đang đổ traffic (điểm mù: khoảng giữa tạo account và first sale).

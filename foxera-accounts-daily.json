@@ -613,7 +613,10 @@
       "listings",
       "shopStatus",
       "checkedAt",
-      "fetch_provenance"
+      "fetch_provenance",
+      "action",
+      "priority",
+      "top_issue"
     ],
     "shopStatus_values": [
       "active",
@@ -621,7 +624,8 @@
       "on_break",
       "error:*"
     ],
-    "freshness_rule": "checkedAt >7 ngay = carry, Hub nen hien thi kem moc ngay"
+    "freshness_rule": "checkedAt >7 ngay = carry, Hub nen hien thi kem moc ngay",
+    "recommendation_note": "action (de xuat xu ly) + priority (P1-P4) + top_issue: Hub nen map vao cot 'De xuat (Claude)' trong sheet Accounts de team thay ngay trong he thong, khong chi Telegram."
   },
   "shops_live_merged_at": "2026-07-31"
 }

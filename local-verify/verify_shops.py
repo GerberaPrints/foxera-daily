@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-LOCAL-VERIFY SHOPS v5 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
+LOCAL-VERIFY SHOPS v6 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
 v3: chống bot-wall (Chrome thật + profile lưu cookie + ẩn webdriver);
 gặp captcha thì DỪNG CHỜ bạn giải tay trong cửa sổ rồi bấm Enter — giải 1 lần, cookie nhớ.
 (GAS bị Etsy chặn 429 · Cloud bị chặn PROVENANCE — chỉ browser thật trên MÁY BẠN quét được)
@@ -21,6 +21,7 @@ Script tự làm 2 việc: (1) ghi local-verify/foxera-shops-live.json;
 Nhịp khuyến nghị: 6 store LIVE quét DAILY (chuông báo sweep); full 2 lần/tuần.
 """
 import asyncio, json, random, re, sys
+AUTO = "--auto" in sys.argv   # chạy không người trực (Task Scheduler): captcha -> ghi lỗi, không chờ Enter
 from datetime import date
 from pathlib import Path
 
@@ -64,6 +65,8 @@ async def scrape_shop(page, acc):
         html = await page.content()
         low = html.lower()
         if is_botwall(low):
+            if AUTO:
+                rec["status"] = "error:captcha"; return rec
             print(">>> CAPTCHA/bot-wall tại", acc["code"], "— GIẢI TAY trong cửa sổ Chrome, xong quay lại đây bấm Enter...")
             input()
             await page.wait_for_timeout(1500)
@@ -107,7 +110,10 @@ def merge_daily(shops):
             d["scores"].append(row); by[rec["code"]] = row
         for k in ("sales", "rating", "reviews", "listings"):
             if k in rec: row[k] = rec[k]
-        row["shopStatus"] = rec.get("status", "")
+        st = rec.get("status", "")
+        if st.startswith("error:") and row.get("shopStatus") and not str(row.get("shopStatus","")).startswith("error:"):
+            continue  # quet loi -> giu nguyen so cu (carry), khong ghi de
+        row["shopStatus"] = st
         row["checkedAt"] = rec.get("verified_at", today)
         row["fetch_provenance"] = "live_local_browser"
     d["shops_live_merged_at"] = today
@@ -117,7 +123,7 @@ def merge_daily(shops):
 async def main():
     from playwright.async_api import async_playwright
     targets = load_targets()
-    only = {c.upper() for c in sys.argv[1:]}
+    only = {c.upper() for c in sys.argv[1:] if not c.startswith("--")}
     if only:
         targets = [a for a in targets if a["code"] in only]
     print(f"Quét {len(targets)} shop (roster + registry)...")
@@ -140,8 +146,11 @@ async def main():
             await page.goto("https://www.etsy.com/", wait_until="domcontentloaded", timeout=45000)
             await page.wait_for_timeout(2500)
             if is_botwall((await page.content()).lower()):
-                print(">>> Bot-wall ngay trang chủ — GIẢI TAY trong cửa sổ Chrome rồi bấm Enter...")
-                input()
+                if AUTO:
+                    print(">>> Bot-wall trang chủ (chế độ auto) — tiếp tục, shop nào dính sẽ ghi error:captcha (số cũ được giữ carry).")
+                else:
+                    print(">>> Bot-wall ngay trang chủ — GIẢI TAY trong cửa sổ Chrome rồi bấm Enter...")
+                    input()
         except Exception as e:
             print("warm-up skip:", e)
         for i, acc in enumerate(targets, 1):
