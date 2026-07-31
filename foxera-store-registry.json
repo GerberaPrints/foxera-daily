@@ -437,11 +437,9 @@
         "E200": "ArvelloCrafted",
         "E201": "LumetraDesigns",
         "E239": "OrvynCraftStudio",
-        "E240": "NexoraDesignLab"
-      },
-      "missing_link": [
-        "E195"
-      ]
+        "E240": "NexoraDesignLab",
+        "E195": "OrvantaArtStudio"
+      }
     },
     {
       "owner_raw": "Tường Vy",
@@ -497,7 +495,7 @@
     "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
     "E185 đổi chủ giữa snapshot (Năng06 -> Ly09) — chờ xác nhận owner thật",
     "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
-    "THIEU LINK con lai (31/07 cuoi ngay): E195, E181, E173, E78 — 4 ma mu cuoi cung (E92 co ten NoviForm nen van quet)"
+    "THIEU LINK con lai: E181, E173, E78 — 3 ma mu cuoi (31/07 23h)"
   ],
   "seller_emails": {
     "Seller01": {
@@ -878,6 +876,10 @@
     "E93": {
       "url": "https://www.etsy.com/shop/Arvyno",
       "shop": "Arvyno"
+    },
+    "E195": {
+      "url": "https://www.etsy.com/shop/OrvantaArtStudio",
+      "shop": "OrvantaArtStudio"
     }
   }
 }
