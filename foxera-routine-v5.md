@@ -136,3 +136,12 @@ Sheet CRM: 1axz9lV0q21574wF_8A2TN5wn7U0bkNKyBCjVjiZRItc (tab Orders, mỗi đơn
 ### LUẬT 20c — TÍCH HỢP SCORECARD GAS "FoxEra - Etsy Order Tracking" (31/07/2026, THẮNG 20/20b khi mâu thuẫn)
 GAS bound-script của Sheet CRM (v2.26.0+) TỰ fetch shop-page Etsy 04:30 và chấm SCORE 0-110/Grade A-F vào sheet 'Accounts'; file etsy-accounts-telegram.gs (trong repo) đẩy Telegram 06:10 và tự fetch foxera-accounts-daily.json để ghép dòng hành động.
 => Vai trò cloud routine từ nay: (1) đọc Sheet qua Drive MCP (tab Accounts nếu thấy, kèm Orders cho velocity) làm NGUỒN SỐ CHÍNH — verify_shops.py chỉ còn là fallback; (2) foxera-accounts-daily.json vẫn ghi ĐỦ scores[] nhưng trọng tâm là top_issue + action CHẤT LƯỢNG cho từng account (GAS sẽ hiển thị nguyên văn); (3) KHÔNG cần GAS multibot đăng FOXACC nếu user dùng bản tích hợp (CHAT_FOXACC bỏ trống); (4) blocks B1-B3 trong file vẫn giữ làm fallback khi user muốn đăng qua multibot. Drive MCP vắng trong run headless -> carry theo 20b.
+
+## LUẬT 21 — CHUẨN THANG ĐO CÔNG TY (FoxEra Rating Standards v1.0 · 31/07/2026) — BẮT BUỘC mọi báo cáo/scorecard
+- **3 thang, không trộn lẫn, không so số giữa 2 thang. Đọc MÀU trước, số sau.**
+  1. **Likert chất lượng 1-5** (CAO = tốt) — dùng cho KPI/scorecard/báo cáo hiệu suất. Band: <1.5→1 · <2.5→2 · <3.5→3 · <4.5→4 · còn lại 5. Màu: 1 đỏ #DC2626, 2 cam #F97316, 3 vàng #FACC15, 4 xanh #22C55E, 5 xanh đậm #15803D. Telegram: 🔴1 🟠2 🟡3 🟢4 💚5.
+  2. **Khẩn cấp P1-P4** (THẤP = khẩn; chuẩn incident) — dùng cho alert/hàng chờ/hành động. P1 🔴 ngay · P2 🟠 trong ngày · P3 🟡 theo kế hoạch · P4 🟢 thường lệ. KHÔNG dùng P0.
+  3. **Lead priority 1-4** (CAO = tiềm năng) — dùng cho lead/KOL/đối tác. 4 ưu tiên cao (xanh đậm) · 3 tiềm năng · 2 nuôi dưỡng · 1 xử lý sau. KHÔNG dùng dải 2-5.
+- Ánh xạ điểm account /100 → Likert: ≥80→5 · 60-79→4 · 40-59→3 · 25-39→2 · <25 hoặc suspended→1 (rating <4.2 hoặc loss >4% thì trừ 1 band, sàn 1).
+- foxera-accounts-daily.json: mỗi phần tử scores[] PHẢI có `likert` (1-5) và `priority` (P1-P4 cho action). AccountsTelegram.gs v3 đọc 2 trường này; thiếu priority → mặc định P3.
+- Nguồn số likert khi có Hub: lấy `likert` từ accScorecardJSON() (file chính v2.26.2) làm chuẩn; JSON cloud chỉ bổ sung action + priority.

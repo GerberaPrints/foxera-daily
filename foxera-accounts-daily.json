@@ -34,7 +34,9 @@
       "orders_2026_internal": 655,
       "loss_pct": 1.8,
       "top_issue": "phu thuoc Ads + discount 60% bao mon bien",
-      "action": "theo doi ACOS; test giam discount 45-50%; canh rating 4.3 nguong can thiep"
+      "action": "theo doi ACOS; test giam discount 45-50%; canh rating 4.3 nguong can thiep",
+      "likert": 5,
+      "priority": "P2"
     },
     {
       "code": "E4",
@@ -47,7 +49,9 @@
       "sales_public": 680,
       "listings": 348,
       "top_issue": "5 tuan khong listing moi",
-      "action": "day 10-15 listing back-to-school teacher"
+      "action": "day 10-15 listing back-to-school teacher",
+      "likert": 4,
+      "priority": "P3"
     },
     {
       "code": "E257",
@@ -60,7 +64,9 @@
       "sales_public": 573,
       "listings": 459,
       "top_issue": "tote $10.95 ban re",
-      "action": "test nang tote $12.95-13.95; tach section Tote"
+      "action": "test nang tote $12.95-13.95; tach section Tote",
+      "likert": 4,
+      "priority": "P3"
     },
     {
       "code": "E29",
@@ -74,7 +80,9 @@
       "listings": 697,
       "loss_pct": 4.9,
       "top_issue": "rating 4.1 - gap ky vong acrylic (sticker/plastic)",
-      "action": "GAP: sua anh/title 'printed acrylic not glass' + dong goi chong vo; KHONG scale Ads truoc khi sua"
+      "action": "GAP: sua anh/title 'printed acrylic not glass' + dong goi chong vo; KHONG scale Ads truoc khi sua",
+      "likert": 3,
+      "priority": "P1"
     },
     {
       "code": "E135",
@@ -87,7 +95,9 @@
       "sales_public": 3,
       "listings": 77,
       "top_issue": "chua cat canh",
-      "action": "gop hoac dung lam shop test niche moi"
+      "action": "gop hoac dung lam shop test niche moi",
+      "likert": 3,
+      "priority": "P3"
     },
     {
       "code": "E26",
@@ -100,7 +110,9 @@
       "sales_public": 59,
       "listings": 309,
       "top_issue": "rating 2.4 - 'sticker on plastic'",
-      "action": "KHONG bom Ads; neu giu phai thay toan bo anh sang anh that"
+      "action": "KHONG bom Ads; neu giu phai thay toan bo anh sang anh that",
+      "likert": 2,
+      "priority": "P2"
     },
     {
       "code": "E24",
@@ -113,7 +125,9 @@
       "sales_public": 77,
       "listings": 268,
       "top_issue": "cung loi ky vong acrylic",
-      "action": "nghieng sang hat; sua anh neu giu suncatcher"
+      "action": "nghieng sang hat; sua anh neu giu suncatcher",
+      "likert": 2,
+      "priority": "P3"
     },
     {
       "code": "E43",
@@ -124,7 +138,9 @@
       "sales_public": 3,
       "listings": 43,
       "top_issue": "khong discount -> vo hinh",
-      "action": "bat discount 25-40% hoac buong (quyet trong 2 tuan)"
+      "action": "bat discount 25-40% hoac buong (quyet trong 2 tuan)",
+      "likert": 2,
+      "priority": "P3"
     },
     {
       "code": "E42",
@@ -135,7 +151,9 @@
       "sales_public": 1,
       "listings": 43,
       "top_issue": "khong discount -> vo hinh",
-      "action": "nhu E43"
+      "action": "nhu E43",
+      "likert": 2,
+      "priority": "P3"
     },
     {
       "code": "E1",
@@ -146,7 +164,9 @@
       "rating": 4.5,
       "sales_public": 620,
       "top_issue": "dinh chi du rating tot",
-      "action": "nop/kiem tra khang cao Etsy - tai san dang cuu"
+      "action": "nop/kiem tra khang cao Etsy - tai san dang cuu",
+      "likert": 1,
+      "priority": "P2"
     },
     {
       "code": "E169",
@@ -155,7 +175,9 @@
       "score": 5,
       "status": "suspended",
       "sales_public": 2,
-      "action": "buong"
+      "action": "buong",
+      "likert": 1,
+      "priority": "P4"
     },
     {
       "code": "E114",
@@ -164,7 +186,9 @@
       "score": 5,
       "status": "suspended",
       "sales_public": 3,
-      "action": "buong"
+      "action": "buong",
+      "likert": 1,
+      "priority": "P4"
     },
     {
       "code": "E109",
@@ -173,7 +197,9 @@
       "score": 5,
       "status": "suspended",
       "top_issue": "khong truy cap duoc trang",
-      "action": "buong"
+      "action": "buong",
+      "likert": 1,
+      "priority": "P4"
     },
     {
       "code": "E84",
@@ -182,7 +208,9 @@
       "score": 5,
       "status": "suspended",
       "sales_public": 2,
-      "action": "buong"
+      "action": "buong",
+      "likert": 1,
+      "priority": "P4"
     },
     {
       "code": "E47",
@@ -191,7 +219,10 @@
       "score": 5,
       "status": "suspended",
       "sales_public": 2,
-      "action": "buong"
+      "action": "buong",
+      "likert": 1,
+      "priority": "P4"
     }
-  ]
+  ],
+  "standard": "FoxEra Status Color Coding & Rating Standards v1.0 (31/07/2026): Likert chat luong 1-5 (CAO=tot; band 1.5/2.5/3.5/4.5; mau 1#DC2626 2#F97316 3#FACC15 4#22C55E 5#15803D); khan cap P1-P4 (P1=xu ly NGAY); lead priority 1-4. Quy tac: doc MAU truoc, so chi co nghia trong thang cua no; khong so so giua 2 thang."
 }

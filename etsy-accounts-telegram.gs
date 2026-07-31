@@ -1,25 +1,47 @@
 /************************************************************************
- * ACCOUNTS → TELEGRAM v2 — file BỔ SUNG cho project "FoxEra - Etsy Order Tracking"
+ * ACCOUNTS → TELEGRAM v3 — file BỔ SUNG cho project "FoxEra - Etsy Order Tracking"
  * (dán ĐÈ file AccountsTelegram.gs; tương thích scorecard v2.26.2+)
  *
- * NGUỒN SỐ (ưu tiên): hàm API accScorecardJSON() của file chính v2.26.2 —
- *   schema: code/store/owner/seller/sales/rating/reviews/shopStatus/fetchedTs/
- *           orders/o90/delivPct/lossN/lossUsd/score(0-110)/likert(1-5)/why.
- *   Fallback: parse sheet '🏪 Accounts' (header ROW 3) nếu API vắng.
- * NGUỒN HÀNH ĐỘNG: foxera-accounts-daily.json trên GitHub (Claude viết ~04:30)
- *   → ghép dòng "⚠️ XỬ LÝ" theo mã E-code. Fetch fail -> vẫn gửi.
+ * CHUẨN CÔNG TY (FoxEra Status Color Coding & Rating Standards v1.0 · 31/07/2026):
+ *   1) Likert chất lượng 1-5 (CAO = tốt) — màu: 1 đỏ #DC2626, 2 cam #F97316,
+ *      3 vàng #FACC15, 4 xanh #22C55E, 5 xanh đậm #15803D. Ngưỡng band 1.5/2.5/3.5/4.5.
+ *      Telegram hiển thị: 🔴1 🟠2 🟡3 🟢4 💚5 — ĐỌC MÀU TRƯỚC, số chỉ có nghĩa trong thang của nó.
+ *   2) Khẩn cấp P1-P4 (THẤP = khẩn): P1 🔴 xử lý ngay · P2 🟠 trong ngày ·
+ *      P3 🟡 theo kế hoạch · P4 🟢 thường lệ. KHÔNG so số giữa 2 thang.
+ *
+ * NGUỒN SỐ (ưu tiên): accScorecardJSON() của file chính v2.26.2 —
+ *   {code store owner seller sales rating reviews shopStatus fetchedTs
+ *    orders o90 delivPct lossN lossUsd score(0-110) likert(1-5) why}
+ *   Fallback: parse sheet '🏪 Accounts' (header ROW 3, cột Likert).
+ * NGUỒN HÀNH ĐỘNG: foxera-accounts-daily.json (GitHub, Claude viết ~04:30)
+ *   → ghép "XỬ LÝ" + priority P1-P4 theo mã E-code. Fetch fail -> vẫn gửi.
  *
  * CÀI: Script Properties TG_BOT_TOKEN + TG_CHAT_ACCOUNTS
  *   -> accTgTest() (preview) -> accTgSendNow() -> accTgInstallTrigger() (06:10).
  * LƯU Ý: dùng file này thì Ở MULTIBOT KHÔNG set CHAT_FOXACC (tránh đăng trùng).
+ * NAMESPACE: file này chỉ dùng prefix accTg-/ACC_TG_ (hợp đồng với file chính).
  ************************************************************************/
 
 var ACC_TG_RAWJSON = 'https://raw.githubusercontent.com/GerberaPrints/foxera-daily/main/foxera-accounts-daily.json';
 var ACC_TG_MAXLEN  = 3900;
 var ACC_TG_DELAY   = 3500;
+var ACC_TG_LEGEND  = '<i>Likert: 🔴1 🟠2 🟡3 🟢4 💚5 (màu trước, số sau) · Khẩn cấp P1🔴→P4🟢</i>';
 
 function accTg_prop_(k){ return PropertiesService.getScriptProperties().getProperty(k); }
 function accTg_num_(v){ var n = parseFloat(String(v).replace(/[^\d.\-]/g,'')); return isNaN(n) ? null : n; }
+
+// Likert -> badge màu theo band công ty (1.5/2.5/3.5/4.5). Màu trước, số sau.
+function accTg_likert_(l) {
+  if (l == null) return '';
+  var band = (l < 1.5) ? 1 : (l < 2.5) ? 2 : (l < 3.5) ? 3 : (l < 4.5) ? 4 : 5;
+  return ['','🔴','🟠','🟡','🟢','💚'][band] + (Math.round(l*10)/10);
+}
+// Priority hành động -> badge (P1 khẩn nhất)
+function accTg_prio_(p) {
+  var mm = String(p || '').toUpperCase().match(/P?([1-4])/);
+  if (!mm) return 'P3 🟡';
+  return 'P' + mm[1] + ' ' + ['','🔴','🟠','🟡','🟢'][+mm[1]];
+}
 
 // ---------- NGUỒN 1: API accScorecardJSON() (v2.26.2) ----------
 function accTg_rows_() {
@@ -88,14 +110,14 @@ function accTg_sheetFallback_() {
   return out;
 }
 
-// ---------- hành động từ Claude (GitHub raw) ----------
+// ---------- hành động + priority từ Claude (GitHub raw) ----------
 function accTg_actions_() {
   var mp = {};
   try {
     var d = JSON.parse(UrlFetchApp.fetch(ACC_TG_RAWJSON, {muteHttpExceptions:true}).getContentText());
     (d.scores || []).forEach(function(s){
       var c = String(s.code || '').toUpperCase();
-      if (c) mp[c] = s.action || s.top_issue || '';
+      if (c) mp[c] = { act: s.action || s.top_issue || '', prio: s.priority || '' };
     });
   } catch(e) { Logger.log('actions fetch fail: ' + e); }
   return mp;
@@ -121,9 +143,9 @@ function accTg_build_() {
     var p = prev[a.code];
     a._delta = (p && typeof p.score === 'number') ? Math.round(a.score - p.score) : null;
     if (p && !/not.?selling|suspend|block/i.test(String(p.state||'')) && isDead(a))
-      alerts.push('🔴 <b>' + a.name + '</b> vừa rơi vào ĐÌNH CHỈ/BLOCKED hôm nay!');
+      alerts.push('P1 🔴 <b>' + a.name + '</b> vừa rơi vào ĐÌNH CHỈ/BLOCKED hôm nay — xử lý NGAY!');
     if (p && a._delta !== null && a._delta <= -10 && !isDead(a))
-      alerts.push('⚠️ <b>' + a.name + '</b> rớt ' + Math.abs(a._delta) + 'đ (' + Math.round(p.score) + '→' + Math.round(a.score) + ').');
+      alerts.push('P2 🟠 <b>' + a.name + '</b> rớt ' + Math.abs(a._delta) + 'đ (' + Math.round(p.score) + '→' + Math.round(a.score) + ') — xử lý trong ngày.');
     if (isDead(a)) tierC.push(a);
     else if ((a.likert != null && a.likert >= 3.5) || a.score >= 60) tierA.push(a);
     else tierB.push(a);
@@ -131,30 +153,35 @@ function accTg_build_() {
   var byScore = function(x,y){ return y.score - x.score; };
   tierA.sort(byScore); tierB.sort(byScore); tierC.sort(byScore);
 
-  function star(l){ return l == null ? '' : ' ' + '⭐'.repeat(Math.max(1, Math.round(l))); }
+  function avgLikert(arr){
+    var v = arr.filter(function(a){ return a.likert != null; });
+    if (!v.length) return '';
+    var s = v.reduce(function(t,a){ return t + a.likert; }, 0) / v.length;
+    return ' · Avg ' + accTg_likert_(s);
+  }
   function line(a, detail) {
     var d = (a._delta === null || a._delta === 0) ? '' : (a._delta > 0 ? ' ▲+' + a._delta : ' ▼' + a._delta);
-    var s = '<b>' + a.name + '</b> — ' + Math.round(a.score) + 'đ' + star(a.likert) + d;
+    var s = '<b>' + a.name + '</b> — ' + accTg_likert_(a.likert) + ' · ' + Math.round(a.score) + 'đ' + d;
     var bits = [];
     if (a.rating != null) bits.push(a.rating + '★' + (a.reviews != null ? '(' + a.reviews + ')' : ''));
     if (a.orders != null) bits.push(a.orders + ' đơn/90d'); else if (a.sales != null) bits.push(a.sales + ' sales');
     if (a.lossUsd) bits.push('loss $' + a.lossUsd);
     if (a.seller) bits.push(a.seller);
     if (bits.length) s += '\n• ' + bits.join(' · ');
-    var act = acts[a.code];
-    if (detail && act) s += '\n• ⚠️ XỬ LÝ: ' + act;
+    var ac = acts[a.code];
+    if (detail && ac && ac.act) s += '\n• ' + accTg_prio_(ac.prio) + ' XỬ LÝ: ' + ac.act;
     else if (detail && a.why) s += '\n• ⚠️ ' + a.why;
     return s;
   }
 
   var msgs = [];
-  if (alerts.length) msgs.push('<b>🚨 ALERT ' + dstr + '</b>\n\n' + alerts.join('\n'));
+  if (alerts.length) msgs.push('<b>🚨 ALERT ' + dstr + '</b>\n' + ACC_TG_LEGEND + '\n\n' + alerts.join('\n'));
   msgs = msgs.concat(accTg_chunk_(
-    '<b>🟢 BLOCK A — ĐANG CHẠY (' + tierA.length + ') · ' + dstr + '</b>\n<i>Điểm 0-110 + Likert ⭐1-5 (scorecard 04:30) · hành động từ Claude daily</i>\n\n',
+    '<b>💚 BLOCK A — ĐANG CHẠY (' + tierA.length + ')' + avgLikert(tierA) + ' · ' + dstr + '</b>\n' + ACC_TG_LEGEND + '\n\n',
     tierA.map(function(a){ return line(a, true); }),
-    '\n👉 <b>Chốt:</b> ưu tiên account có ▼ hoặc dòng XỬ LÝ trước.'));
+    '\n👉 <b>Chốt:</b> làm theo thứ tự P1 → P4; account có ▼ ưu tiên soi trước.'));
   if (tierB.length)
-    msgs = msgs.concat(accTg_chunk_('<b>🟡 BLOCK B — THEO DÕI/DORMANT (' + tierB.length + ') · ' + dstr + '</b>\n\n',
+    msgs = msgs.concat(accTg_chunk_('<b>🟡 BLOCK B — THEO DÕI/DORMANT (' + tierB.length + ')' + avgLikert(tierB) + ' · ' + dstr + '</b>\n\n',
       tierB.map(function(a){ return line(a, a._delta !== null && a._delta !== 0); }),
       '\n👉 <b>Chốt:</b> chỉ hành động với account biến động; còn lại quyết giữ/gộp/buông chu kỳ 2 tuần.'));
   var deadNew = alerts.some(function(x){ return x.indexOf('ĐÌNH CHỈ') >= 0; });
