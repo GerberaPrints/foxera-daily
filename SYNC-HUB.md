@@ -23,7 +23,7 @@
 
 ## Trạng thái chốt mới nhất (31/07)
 - E254 = **Vy Đặng** (user chốt 31/07; Hoài Thu chỉ còn E259). SUS NEW unique = 35, tiêu đề 37 → còn thiếu 2 mã, user sẽ gửi thêm.
-- 'Ngân' roster: T1–T5 = Ngân Trần · T6–T7 = Ngân Huỳnh. E267 'Thúy Ngân' vẫn chưa rõ ai.
+- 'Ngân' roster: T1–T5 = Ngân Trần · T6–T7 = Ngân Huỳnh. **E267 = Ngân Huỳnh** (Hub chốt 31/07, evidence board F12).
 - E185: owner conflict Năng06→Ly09, chờ user xác nhận.
 - Bàn giao Hạnh Lâm→Tuấn Nguyễn từ 08/07/2026 (user xác nhận).
 - Cơ chế chết account (timeline 16–30/07): (1) first sale trên bank NO = chết 0-2 ngày; (2) association sweep sau deadline 20/07 giết cả bank OK (E185 verify muộn 22/07 vẫn chết → fix bank muộn không cứu được cụm đã nhiễm); (3) SUS NEW 37 chết tầng danh tính. Tỷ lệ sống: Năng06 40% · Dâng01 7% · Minh02 8% · Ly09 0%.
@@ -33,8 +33,13 @@
 - GAS 429 ✔ đã biết. Nhưng **Cloud cũng KHÔNG fetch được Etsy** (PROVENANCE_REQUIRED — bản đánh giá 15 store trước đây là data user dán, không phải cloud quét). Người fetch duy nhất = browser thật máy user: `local-verify/verify_shops.py` v2 (đã nâng cấp: đọc roster + registry = 35 shop có URL, tự merge vào foxera-accounts-daily.json).
 - Phân vai: **User** chạy verify_shops.py (LIVE daily, full 2 lần/tuần) → push. **Cloud 04:30** gác chất lượng: checkedAt ≤7d = tầng live, cũ hơn = carry; mâu thuẫn registry → alert P1. **Hub v2.29** đọc `foxera-accounts-daily.json` raw URL — contract ở key `external_fetch_contract` (fields: sales/rating/reviews/listings/shopStatus/checkedAt/fetch_provenance; shopStatus: active|not_selling|on_break|error:*). Đã seed shopStatus từ registry cho 25 account để reader chạy được ngay trước lần quét đầu.
 
+## Quy trình DECISIONS (chốt 31/07 — cầu chỉ bền khi việc qua cầu <10 giây)
+- Mỗi phiên khi chốt điều gì: xuất khối `HUB-DECISIONS` / `CLOUD-DECISIONS` vài dòng cuối reply để user copy-paste cho phiên kia. Phiên nhận PHẢI áp ngay vào registry/SYNC-HUB rồi xác nhận. Ai chốt sau thắng, ghi kèm ngày.
+- Wave detection: đã chuyển sang diff shops-live.json + 2-strike (Hub v2.29.1). Band-edge guard: rating trong ±0.05 quanh ngưỡng 4.0/4.3/4.6 → flag 'sát ngưỡng — verify bằng mắt' (áp cả 2 phía).
+- Review-text: đã duyệt, scope 4 store sống E29→E4→E257→E193, 10-20 review mới nhất (Cloud build trong verify_shops v8).
+
 ## Việc mở
 0. **Hub v2.29.x**: map `action` + `priority` + `top_issue` từ foxera-accounts-daily.json vào cột **'Đề xuất (Claude)'** trong sheet 🏪 Accounts (contract đã mở rộng fields) — để đề xuất từng account hiện ngay trong hệ thống, team không cần lật Telegram.
-1. User gửi thêm: 2 mã SUS NEW thiếu · xác nhận E267 · xác nhận E185 · bảng so sánh setup Năng06 vs Ly09 (→ Cloud chạy phân tích tương quan môi trường).
+1. User gửi thêm: 2 mã SUS NEW thiếu · xác nhận E185 · bảng so sánh setup Năng06 vs Ly09 (→ Cloud chạy phân tích tương quan môi trường).
 2. Hub cân nhắc thêm `o7` vào accScorecardJSON().
 3. Report của Ly Nguyễn nên thêm cột bank-status cho account CHƯA có đơn đang đổ traffic (điểm mù: khoảng giữa tạo account và first sale).

@@ -168,3 +168,5 @@ GAS bound-script của Sheet CRM (v2.26.0+) TỰ fetch shop-page Etsy 04:30 và 
 - Nguồn: local-verify/foxera-shops-history.jsonl (mỗi lần quét append 1 dòng/shop: date, status, sales, rating, reviews, listings).
 - Routine 04:30 tính Δ1d và Δ7d cho sales/reviews/rating từng account → ghi vào scores[] (delta_sales_7d, delta_reviews_7d, delta_rating_7d) và bản tin hiện ▲/▼. Cần ≥2 ngày data mới có Δ — KHÔNG suy tăng trưởng từ nguồn không đồng nhất (số report tay ≠ số quét browser, ví dụ E193 460 vs 1160 là 2 hệ đếm khác nhau, không được trừ cho nhau).
 - Đề xuất account viết lại MỖI NGÀY dựa trên: trạng thái registry + số quét mới nhất + Δ tăng trưởng + loss nội bộ (Hub). Rating giảm ≥0.1 hoặc reviews tăng mà rating giảm = cờ chất lượng sản phẩm → P1/P2 tùy mức.
+
+- BAND-EDGE GUARD (31/07, đề xuất Hub): rating nằm trong ±0.05 quanh ngưỡng band (4.0/4.3/4.6) → KHÔNG tự chấm, flag 'sát ngưỡng — verify bằng mắt' trong bản tin. Sai 0.1 quanh ngưỡng = nhảy nguyên bậc Likert.

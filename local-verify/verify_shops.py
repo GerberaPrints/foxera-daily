@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-LOCAL-VERIFY SHOPS v7 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
+LOCAL-VERIFY SHOPS v8 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
 v3: chống bot-wall (Chrome thật + profile lưu cookie + ẩn webdriver);
 gặp captcha thì DỪNG CHỜ bạn giải tay trong cửa sổ rồi bấm Enter — giải 1 lần, cookie nhớ.
 (GAS bị Etsy chặn 429 · Cloud bị chặn PROVENANCE — chỉ browser thật trên MÁY BẠN quét được)
@@ -31,6 +31,28 @@ REGISTRY = ROOT / "foxera-store-registry.json"
 DAILY = ROOT / "foxera-accounts-daily.json"
 OUT = Path(__file__).resolve().parent / "foxera-shops-live.json"
 PROFILE = Path(__file__).resolve().parent / ".pw-profile"   # cookie/captcha lưu ở đây giữa các lần chạy
+REVIEWS_FOR = {"E29", "E4", "E257", "E193"}   # v8: chỉ 4 store sống mới đọc review text (scope Hub duyệt 31/07)
+REVIEWS_OUT = Path(__file__).resolve().parent / "foxera-reviews.json"
+
+def extract_reviews(html, cap=20):
+    """Đọc review text từ HTML shop page. Ưu tiên JSON-LD reviewBody; fallback block review hiển thị."""
+    out = []
+    for m in re.finditer(r'"reviewBody"\s*:\s*"((?:[^"\\]|\\.){10,600}?)"', html):
+        try:
+            t = m.group(1).encode("utf-8").decode("unicode_escape").strip()
+        except Exception:
+            t = m.group(1).strip()
+        if t and t not in out:
+            out.append(t[:400])
+        if len(out) >= cap: return out
+    # fallback: đoạn text trong block review hiển thị (heuristic)
+    for m in re.finditer(r'data-review-region[^>]*>.*?<p[^>]*>(.{15,600}?)</p>', html, re.S):
+        t = re.sub(r"<[^>]+>", " ", m.group(1))
+        t = re.sub(r"\s+", " ", t).strip()
+        if t and t not in out:
+            out.append(t[:400])
+        if len(out) >= cap: break
+    return out
 
 def is_botwall(low):
     return ("captcha" in low or "datadome" in low or "verify you are a human" in low
@@ -91,6 +113,13 @@ async def scrape_shop(page, acc):
         m = re.search(r'([\d,]+)\s+items?</', html, re.I)
         if m: rec["listings"] = int(re.sub(r"[^\d]", "", m.group(1)))
         rec["on_sale"] = bool(re.search(r'(\d+)% off', html))
+        if acc["code"] in REVIEWS_FOR:
+            rv = extract_reviews(html)
+            if rv:
+                rec["recent_reviews"] = rv
+                print(f"    ↳ đọc được {len(rv)} review text")
+            else:
+                rec["reviews_note"] = "khong parse duoc review text (Etsy co the render sau bang JS) — se tinh chinh theo log lan chay dau"
     except Exception as e:
         rec["status"] = f"error:{type(e).__name__}"
     return rec
@@ -187,6 +216,13 @@ async def main():
     payload = {"project": "foxera", "verified_at": date.today().isoformat(),
                "provenance": "live_local_browser", "shops": sorted(old.values(), key=lambda x: x["code"])}
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    # v8: gom review text 4 store sống vào file riêng (không phình daily JSON)
+    rvout = {s2["code"]: {"shop": s2.get("shop"), "d": s2.get("verified_at"), "reviews": s2.get("recent_reviews", [])}
+             for s2 in old.values() if s2.get("recent_reviews")}
+    if rvout:
+        REVIEWS_OUT.write_text(json.dumps({"updated": date.today().isoformat(), "scope": sorted(REVIEWS_FOR), "shops": rvout},
+                               ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"Đã ghi {REVIEWS_OUT.name} ({len(rvout)} store có review text)")
     # v7: append lịch sử — mỗi shop 1 dòng JSON mỗi lần quét => tính được tăng trưởng sales/reviews/rating theo ngày
     hist = OUT.parent / "foxera-shops-history.jsonl"
     with open(hist, "a", encoding="utf-8") as hf:

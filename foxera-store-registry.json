@@ -455,11 +455,12 @@
     },
     {
       "owner_raw": "Thúy Ngân",
-      "owner": "(Ngân — chưa rõ Trần/Huỳnh)",
-      "owner_status": "chưa rõ",
+      "owner": "Ngân Huỳnh",
+      "owner_status": "nghỉ 24/07/2026",
       "codes": [
         "E267"
-      ]
+      ],
+      "note": "Hub chốt 31/07: E267 = Ngân Huỳnh (evidence: board Trello ETSY-F12 'HUỲNH THỊ THÚY NGÂN')"
     }
   ],
   "data_quality_flags": [
@@ -469,7 +470,6 @@
     "4 store LIVE của Năng Phan (E42,E43,E81,E80) + 1 SUS-bank-NO của Nga Phạm... — chủ đã nghỉ 30/06 → cần bàn giao người mới",
     "Email đúng chính tả gốc: seller02foxeraA (2 chữ a), seller13.foxera (có dấu chấm) — map login phải dùng nguyên văn",
     "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
-    "E267 'Thúy Ngân': vẫn chưa rõ Trần/Huỳnh (câu riêng, khác câu T5 đã chốt)",
     "E185 đổi chủ giữa snapshot (Năng06 -> Ly09) — chờ xác nhận owner thật",
     "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)"
   ],
@@ -626,5 +626,6 @@
       "note": "2 lan quet cach 30' (13:32 vs 14:00) cho ket qua nguoc nhau not_selling<->active. Tin hieu public voi nhom SUS KHONG on dinh -> quy tac: chi tin doi status khi 2 lan quet lien tiep cung ket qua + team login xac nhan. v5 da tu ghi prev_status khi flap."
     },
     "scraper_correction": "E29: rating that 4.1 (screenshot nguoi xem 13:48), scraper v4 doc 4.0 do vo nham widget -> v5 uu tien aggregateRating JSON-LD"
-  }
+  },
+  "wave_detection": "Hub v2.29.1 (31/07): wave = diff foxera-shops-live.json giua cac lan quet + quy tac 2-lan-lien-tiep (lan 1 not_selling = nghi, lan 2 = xac nhan + dem vao song). GAS-fetch chi con du phong khi live cu >48h."
 }
