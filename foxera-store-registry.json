@@ -495,7 +495,8 @@
     "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
     "E185 đổi chủ giữa snapshot (Năng06 -> Ly09) — chờ xác nhận owner thật",
     "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
-    "31/07 23h: LINK PHU KIN 100% — khong con ma mu. store_links_extra + roster + registry = toan bo ma da biet deu quet duoc tu 04:00 mai."
+    "31/07 23h: LINK PHU KIN 100% — khong con ma mu. store_links_extra + roster + registry = toan bo ma da biet deu quet duoc tu 04:00 mai.",
+    "Link dot cuoi (31/07 dem): +9 (E77,E56,E55,E54,E51,E50,E40,E39,E38); ma moi chua ro owner: E38, E39, E40, E50, E51, E54, E56"
   ],
   "seller_emails": {
     "Seller01": {
@@ -892,6 +893,42 @@
     "E78": {
       "url": "https://nayqo.etsy.com",
       "shop": "NAYQO"
+    },
+    "E77": {
+      "url": "https://www.etsy.com/shop/ZAVYNTA",
+      "shop": "ZAVYNTA"
+    },
+    "E56": {
+      "url": "https://driftmoondesigns.etsy.com",
+      "shop": "driftmoondesigns"
+    },
+    "E55": {
+      "url": "https://www.etsy.com/shop/NovaBirchStudio",
+      "shop": "NovaBirchStudio"
+    },
+    "E54": {
+      "url": "https://puresproutstudio.etsy.com",
+      "shop": "puresproutstudio"
+    },
+    "E51": {
+      "url": "https://asterbloomco.etsy.com",
+      "shop": "asterbloomco"
+    },
+    "E50": {
+      "url": "https://willowsparkdesign.etsy.com",
+      "shop": "willowsparkdesign"
+    },
+    "E40": {
+      "url": "https://brightelmstudio.etsy.com",
+      "shop": "brightelmstudio"
+    },
+    "E39": {
+      "url": "https://minthollowshop.etsy.com",
+      "shop": "minthollowshop"
+    },
+    "E38": {
+      "url": "https://novahollowshop.etsy.com",
+      "shop": "novahollowshop"
     }
   }
 }
