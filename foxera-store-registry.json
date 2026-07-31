@@ -473,10 +473,11 @@
         "E247"
       ],
       "shops": {
-        "E247": "BumboHouse",
-        "E246": "RoccaCraft",
+        "E243": "PebloWorks",
+        "E244": "MorbixLab",
         "E245": "SnurbiNest",
-        "E244": "SnurbiNest (⚠️ trùng E245)"
+        "E246": "RoccaCraft",
+        "E247": "BumboHouse"
       }
     },
     {
@@ -508,8 +509,7 @@
     "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
     "31/07 23h: LINK PHU KIN 100% — khong con ma mu. store_links_extra + roster + registry = toan bo ma da biet deu quet duoc tu 04:00 mai.",
     "Theo operator_policy: cac ma moi trong store_links_extra mac dinh 'chua co nguoi dam nhan' cho den khi user/report gan — khong hoi lai.",
-    "Link dot 7 (31/07 dem): +24 (nhom Thi Nang named du; ma moi: E82, E83, E106, E108, E120, E128, E140, E143, E156, E171, E177, E192)",
-    "E244 va E245 cung link SnurbiNest — 1 shop 2 ma: kha nang go nham; quet se ra ket qua giong het nhau, cho user chot link dung cua E244"
+    "Link dot 7 (31/07 dem): +24 (nhom Thi Nang named du; ma moi: E82, E83, E106, E108, E120, E128, E140, E143, E156, E171, E177, E192)"
   ],
   "seller_emails": {
     "Seller01": {
@@ -1072,9 +1072,32 @@
       "shop": "SnurbiNest"
     },
     "E244": {
-      "url": "https://www.etsy.com/shop/SnurbiNest",
-      "shop": "SnurbiNest",
-      "flag": "TRUNG URL voi E245 — 2 ma cung 1 shop, kha nang 1 trong 2 go nham link; cho user soat"
+      "url": "https://www.etsy.com/shop/MorbixLab",
+      "shop": "MorbixLab"
+    },
+    "E243": {
+      "url": "https://www.etsy.com/shop/PebloWorks",
+      "shop": "PebloWorks"
+    },
+    "E227": {
+      "url": "https://zenithformstudio.etsy.com",
+      "shop": "zenithformstudio"
+    },
+    "E217": {
+      "url": "https://nexmoradesigncollect.etsy.com",
+      "shop": "nexmoradesigncollect"
+    },
+    "E273": {
+      "url": "https://goldenfern9981run.etsy.com",
+      "shop": "goldenfern9981run"
+    },
+    "E272": {
+      "url": "https://aluvialeshopone.etsy.com",
+      "shop": "aluvialeshopone"
+    },
+    "E271": {
+      "url": "https://cozycreaturedesign.etsy.com",
+      "shop": "cozycreaturedesign"
     }
   },
   "operator_policy": "User chot 31/07: KHONG truy van owner lich su. Truong quan trong duy nhat = nguoi van hanh HIEN TAI (current_operator); nhan su thay doi lien tuc la binh thuong. Account chua gan ai = 'chua co nguoi dam nhan' — la TRANG THAI HOP LE, khong phai gap can hoi. Lich su chi giu cho phan bo don/loss theo thoi ky (OWNER_PERIODS phia Hub).",
