@@ -1,25 +1,20 @@
 {
- "updated": "2026-08-02",
+ "updated": "2026-08-03",
  "oos_watch": {
   "feratia:eucharist-leather-handbag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-08-02",
-   "note": "day 16; rv 8 flat - too small to be signal, RV-LAG(a)"
-  },
-  "feratia:adora-circle-crossbody": {
-   "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-08-02",
-   "note": "day 16; part of crossbody OOS wave (10/13)"
+   "last_seen_oos": "2026-08-03",
+   "note": "day 17; rv 8 flat, no waitlist. RV-LAG(a) - n=8 too small, do NOT read as demand stopped"
   },
   "feratia:circle-crossbody-collection": {
    "oos_since": "2026-07-19",
-   "last_seen_oos": "2026-08-02",
-   "note": "10 of 13 SOLD OUT day 15; in stock Regina/Rosaria/Gratia IDENTICAL 6 days running; New Arrivals EMPTY day 15. KEY CONTRAST 02/08: Blessac crossbody 9 SKU ZERO OOS - same Albuquerque cluster, opposite result => thin-batch policy, not sell-through"
+   "last_seen_oos": "2026-08-03",
+   "note": "day 16. Collection now 14 items, 11 SOLD OUT. In-stock trio Regina/Rosaria/Gratia IDENTICAL 7 days. New Arrivals EMPTY day 16. Alaris REAPPEARED (see closed_watches reopen). Blessac crossbody 9 SKU still 0 OOS => thin-batch policy, not sell-through"
   },
   "blessac:tote-oos-wave": {
    "oos_since": "2026-07-22",
-   "last_seen_oos": "2026-08-02",
-   "note": "day 12. FULL re-enumeration 02/08: Handbag 20/4 OOS, Tote 18/5 OOS, Crossbody 9/0 OOS, Mini Satchel 16/5 OOS = 14/63 (22%). Composition IDENTICAL to 31/07 => wave neither spreading nor resolving"
+   "last_seen_oos": "2026-08-03",
+   "note": "day 13. NOT fully re-enumerated 03/08 (read redirected to the NEW bible cover line). Homepage shows Poise LH SOLD OUT. Composition unverified today - do not claim it resolved or spread"
   },
   "catholight:sacred-heart-of-grace-leather-bag": {
    "oos_since": "2026-07-22",
@@ -28,18 +23,23 @@
   },
   "beaheart-own:our-lady-belt-bag": {
    "oos_since": "2026-07-18",
-   "last_seen_oos": "2026-08-02",
-   "note": "OOS day 16 CONFIRMED direct read (rv 16 +0, $47.99); STILL no waitlist/notify - direct contrast with Catholight which DOES offer back-in-stock signup"
+   "last_seen_oos": "2026-08-03",
+   "note": "OOS day 17, $47.99, rv 16 (+0), still NO waitlist. NEW badge read 03/08: 'Seconds Sale - All items that are seconds or samples are final sale only'"
   },
   "mannacovers:last-supper-bible-cover-small": {
    "oos_since": "2026-07-27",
-   "last_seen_oos": "2026-08-01",
-   "note": "SOLD OUT day 6 (Manna is the Monday satellite - not re-read 01/08)"
+   "last_seen_oos": "2026-08-03",
+   "note": "SOLD OUT day 7 CONFIRMED (Monday satellite). 11 other Manna SKUs in stock => SKU-level, not catalogue-wide. Small $80 / Large $90 still listed"
   },
   "catholight:holy-family-sacred-leather-bag": {
    "oos_since": "2026-08-02",
-   "last_seen_oos": "2026-08-02",
-   "note": "NEW 02/08 CHANGE-ALERT. FIRST SKU-level sold-out inside Catholight's Ready-to-Ship/In-Stock collection. BOTH variants OOS (SMALL 9.8x7.5x4.5 AND MEDIUM 13.8x10.6x5.5) verified at PDP per the 29/07 variant-level lesson. Baseline 28/07-01/08 = 5 days, 24 SKU, ZERO sold out. Waitlist IS offered: 'Tell me when this item is back in stock!'. n=1 day 1 - do NOT read as supply failure yet"
+   "last_seen_oos": "2026-08-03",
+   "note": "DAY 2 confirmed. Still the ONLY sold-out SKU in the 24-SKU In-Stock collection. Roses of Guadalupe is back IN STOCK. n=2 days - still not a supply-failure read"
+  },
+  "feratia:adora-circle-crossbody": {
+   "oos_since": "2026-07-18",
+   "last_seen_oos": "2026-08-03",
+   "note": "day 16; still SOLD OUT inside the 11/14 wave"
   }
  },
  "badge_watch": {
@@ -54,6 +54,12 @@
    "since": "2026-07-26",
    "rv_at_start": null,
    "note": "day 8; not re-read 02/08 (own-site OOS + CN review-miner prioritised). Rule 9 checkpoint deferred to 04/08"
+  },
+  "beaheart-own:our-lady-belt-bag-seconds": {
+   "badge": "Seconds Sale - final sale only",
+   "since": "2026-08-03",
+   "rv_at_start": 16,
+   "note": "NEW 03/08. Not a scarcity badge - a returns-policy badge. Logged so it is not mistaken for stock scarcity later"
   }
  },
  "ideas": {
@@ -80,17 +86,17 @@
   },
   "bible-cover-price-corridor": {
    "proposed": "2026-07-21",
-   "tier": "yellow",
-   "last_promoted": "2026-07-25",
-   "score": 8.0,
-   "note": "yellow, score 8.0. No new signal 31/07 (Manna is the Monday satellite). Entry-tier proposal holds at $49.95-59.95 (above our planned $39.95-44.95, below Manna $80-95 and inside Catholight MTO $49.95-59.00). Suggest supports axis: 'bible cover for women' #3, 'bible covers leather' #7. Still blocked on COGS (S6)"
+   "tier": "GREEN",
+   "last_promoted": "2026-08-03",
+   "score": 8.6,
+   "note": "PROMOTED yellow->GREEN 03/08, score 8.6 = HIGHEST on the board. Trigger: Blessac opened a 19-SKU bible cover line ($39.97 grid / $49.97 PDP) + tier-A suggest 'catholic bible cover' returns 10/10 buy-intent suggestions with ZERO DIY + Manna Last Supper Small OOS day 7 + TikTok Shop leather-bible-cover category pages. Corridor holds $49.95-59.95 (above Blessac, below Manna $70-95, level with Catholight MTO $49.95-59.00). Score detail: audience 15 + church-ready 10 + gift 10 + intent 10 + visual 10 + crossSKU 9 + MARGIN 4 + PRODUCTION 5 + creative 5 + saturation 4 + repeat 4 = 86. Two weakest = margin (no COGS, S6) and production reliability (BC- blank not confirmed in hand, pen-slot unknown). AUTO-DEMOTE 06/08 if no art direction decided"
   },
   "bundle-bag-wallet": {
    "proposed": "2026-07-18",
    "tier": "yellow",
    "last_promoted": null,
    "score": null,
-   "note": "STRENGTHENED 02/08 - cross-SKU attach now evidenced by REVIEWS at a SECOND independent brand. Blessac verbatim: 'Rhonda and Danielle M.' bought bag + wallet, 'daughter loved her wallet'. Plus Feratia 01/08 ('I also purchased the small wallet. Love it!'). Two independent competitors, review-level not listing-level. Still yellow (their demand, not ours) but this is now the best-evidenced idea after guadalupana"
+   "note": "STRENGTHENED 02/08 - cross-SKU attach now evidenced by REVIEWS at a SECOND independent brand. Blessac verbatim: 'Rhonda and Danielle M.' bought bag + wallet, 'daughter loved her wallet'. Plus Feratia 01/08 ('I also purchased the small wallet. Love it!'). Two independent competitors, review-level not listing-level. Still yellow (their demand, not ours) but this is now the best-evidenced idea after guadalupana | 03/08 THIRD independent brand: Blessac bundles Bible Cover + Matching Leather Prayer Journal at $78.47 (anchor $156.95). Three competitors now bundle. Still yellow - their demand, not ours"
   },
   "eucharist-panis-angelicus-sku": {
    "proposed": "2026-07-18",
@@ -108,10 +114,10 @@
   },
   "guadalupana-flagship-sku": {
    "proposed": "2026-07-28",
-   "tier": "yellow",
+   "tier": "red",
    "last_promoted": "2026-07-28",
    "score": 8.4,
-   "note": "yellow, score 8.4 RETAINED (highest on board). BURY DATE 03/08 = TOMORROW. 02/08 adds two supports but NO new demand: (1) suggest 'guadalupe purse' re-read - top-5 IDENTICAL in order after 5 days, i.e. intent stable, not decaying; the new #6/#7 carry knowledge subtype [512,650,390], not purchase intent; (2) tier-A NEW: a real SPANISH-language buyer review at Catholight ('Me encato mi bolsa', 'Esta muy bien hecha') => the ES audience buys in this niche, no longer a hypothesis. DECISIVE ADDITION: the 3-brand review convergence (see review_convergence) shows the product's job is to be SEEN AND REMARKED ON at 1-2m => choose ONE BIG FOCAL (Lux Moderna Marian) over dispersed Floral Catholic. Rescue = approve that one direction + confirm the agave/maguey ban. Venxara still holds the keyword at $68.00 in stock rv 2 => the gap is ART QUALITY, not price or availability"
+   "note": "BURIED 03/08 - bury date reached with no action recorded. Reason is INACTION, not refutation: every support still stands (suggest top-5 stable 6 days, real Spanish-language buyer review at Catholight, Venxara holds the keyword at $68 with only rv 2 = the gap is ART QUALITY). NOT written to `rejected` - it was never disproven. One 'approve' from the user revives it same-day at score 8.4"
   },
   "catholic-leather-wallet-listing": {
    "proposed": "2026-07-29",
@@ -140,30 +146,38 @@
    "last_promoted": null,
    "score": null,
    "note": "NEW 02/08. Anchor: devotional leather accessory as a GIFT TO A PARISH SERVANT (ministry leader, catechist, choir, mothers' group). SKU/tier: LW- $44.95 (single) or LH- $135 (ceremonial). Evidence tier-A verbatim (Catholight): 'This is my 5th purchase. All of the purses are perfect.' + 'This is a gift for a ministry leader at church.' => simultaneously a NEW gift occasion AND the first repeat-purchase evidence ever recorded in this niche (the 5% repeat-purchase criterion in the 12-point score has always been blank). YELLOW ONLY: n=1 mention, below the 5-mention threshold (Rule 4c) - an anchored hypothesis, NOT measured demand. Cheapest test: read the next 20 Catholight/Feratia reviews counting 'gift for' + recipient role. Natural bridge between DTC and the parish B2B lane - same buyer, different quantity"
+  },
+  "bc-pen-slot-spec": {
+   "proposed": "2026-08-03",
+   "tier": "yellow",
+   "last_promoted": null,
+   "score": null,
+   "note": "NEW 03/08, a SPEC requirement not a design idea. Tier-A verbatim (Blessac bible cover): 'It holds all 6 of my pens, post it notes and highlighter!'. The bible-cover buyer is a NOTE-TAKER. A BC- blank without pen loops loses at the PDP no matter how good the art is. n=1 (Rule 4c) - anchored hypothesis. Became open question #5 to user"
   }
  },
  "blocked_sources": {
   "churchofsanctus.com": {
    "since": "2026-07-18",
    "retry": "weekly-mon",
-   "last_try": "2026-07-27"
+   "last_try": "2026-08-03",
+   "note": "03/08 Monday retry FAILED: robots.txt ConnectTimeout. Third consecutive failed week. Next try 10/08"
   },
   "amazon-dp-pages": {
    "since": "2026-07-14",
    "retry": "weekly-mon",
-   "last_try": "2026-07-27"
+   "last_try": "2026-08-03"
   },
   "amazon-search-pages": {
    "since": "2026-07-29",
-   "retry": "daily",
-   "last_try": "2026-08-01",
-   "note": "ROBOTS_DISALLOWED day 4 (29/07-01/08). Not deeply retried 01/08. Move to weekly if still blocked by 05/08"
+   "retry": "weekly-mon",
+   "last_try": "2026-08-03",
+   "note": "ROBOTS_DISALLOWED day 6 (29/07-03/08). Moved from daily to WEEKLY per the 01/08 rule (was: move to weekly if still blocked by 05/08). Next try Mon 10/08"
   },
   "catholight-new-collection-slug": {
    "since": "2026-07-30",
    "retry": "weekly",
-   "last_try": "2026-07-30",
-   "note": "/collections/new-collection returns 404 - slug guess wrong. Not retried 31/07. Find the real slug from site nav on the next Catholight read; 'Sacred Devotion Collection' fingerprint stays UNCONFIRMED"
+   "last_try": "2026-08-03",
+   "note": "03/08: /collections/new-rosary-launch also 404. TWO guessed slugs have now failed. STOP GUESSING - read the real hrefs off the Catholight nav on the next visit. 'Sacred Devotion Collection' and 'New Rosary Launch' both remain UNCONFIRMED"
   },
   "suggestqueries-google-shell": {
    "since": "2026-07-31",
@@ -177,8 +191,8 @@
    "first_seen": "2026-07-24",
    "source": "websearch+press",
    "status": "emerging",
-   "last_checked": "2026-08-02",
-   "note": "Gen-Z aesthetic; press adds Woke Waves 25/07 (lace veils, rosaries styled into outfits; no purchasing behavior); still NO commercial bag signal; persona bridge = gift daughter->mom/grandma; auto-dead 07/08 if no commercial signal | 29/07 no new signal | 30/07 no new signal | 31/07 no new signal (day 8 with no commercial signal) - auto-dead 07/08 stands | 01/08 FIRST TIER-A COUNTER-EVIDENCE: suggest 'catholic aesthetic' returns wallpaper/photos/pinterest/clothing/meme/background/reddit/symbols - ZERO bag or accessory intent. This is a content-consumption cluster, not a purchase cluster. auto-dead 07/08 now has a real reason, not just an expiry | 02/08 no new signal, day 9 with no commercial signal - auto-dead 07/08 stands",
+   "last_checked": "2026-08-03",
+   "note": "Gen-Z aesthetic; press adds Woke Waves 25/07 (lace veils, rosaries styled into outfits; no purchasing behavior); still NO commercial bag signal; persona bridge = gift daughter->mom/grandma; auto-dead 07/08 if no commercial signal | 29/07 no new signal | 30/07 no new signal | 31/07 no new signal (day 8 with no commercial signal) - auto-dead 07/08 stands | 01/08 FIRST TIER-A COUNTER-EVIDENCE: suggest 'catholic aesthetic' returns wallpaper/photos/pinterest/clothing/meme/background/reddit/symbols - ZERO bag or accessory intent. This is a content-consumption cluster, not a purchase cluster. auto-dead 07/08 now has a real reason, not just an expiry | 02/08 no new signal, day 9 with no commercial signal - auto-dead 07/08 stands | 03/08 no new signal (day 10; auto-dead 07/08 stands, 4 days left)",
    "source_tier": "C",
    "earliness": "mid"
   },
@@ -186,8 +200,8 @@
    "first_seen": "2026-07-24",
    "source": "websearch",
    "status": "emerging",
-   "last_checked": "2026-08-02",
-   "note": "28/07: discover cluster still surfacing in query; no new info beyond 25/07 (@catholight_usdaily owned account); still emerging (their media, not a demand trend for us) | 30/07 no new signal | 31/07 no new signal | 01/08 NEW OBS (tier B): their owned account published 'What I Ordered vs. What I Got - A Catholic Style Review'. They are pre-empting the ordered-vs-received frame while carrying a known Trustpilot delivery complaint. Technique note only - no comparative ads, no names",
+   "last_checked": "2026-08-03",
+   "note": "28/07: discover cluster still surfacing in query; no new info beyond 25/07 (@catholight_usdaily owned account); still emerging (their media, not a demand trend for us) | 30/07 no new signal | 31/07 no new signal | 01/08 NEW OBS (tier B): their owned account published 'What I Ordered vs. What I Got - A Catholic Style Review'. They are pre-empting the ordered-vs-received frame while carrying a known Trustpilot delivery complaint. Technique note only - no comparative ads, no names | 03/08 no new signal",
    "source_tier": "B",
    "earliness": "mid"
   },
@@ -195,8 +209,8 @@
    "first_seen": "2026-07-24",
    "source": "websearch",
    "status": "commercial",
-   "last_checked": "2026-08-02",
-   "note": "COMMERCIAL. 29/07 new OBS: TikTok Shop has a 'bible tote bags' category page + generic scripture tote products = real commercial channel, but stock there is Protestant generic-verse, not premium Catholic leather. Does not touch our moat | 30/07 no new signal | 31/07 WebSearch confirms the surrounding content is canvas totes + Hosanna Revival Bibles, Protestant aesthetic, cheap tier - still does not touch our leather moat",
+   "last_checked": "2026-08-03",
+   "note": "COMMERCIAL. 29/07 new OBS: TikTok Shop has a 'bible tote bags' category page + generic scripture tote products = real commercial channel, but stock there is Protestant generic-verse, not premium Catholic leather. Does not touch our moat | 30/07 no new signal | 31/07 WebSearch confirms the surrounding content is canvas totes + Hosanna Revival Bibles, Protestant aesthetic, cheap tier - still does not touch our leather moat | 03/08 REINFORCED: the same TikTok Shop surface also carries a bible-COVER tier, not just totes. Still canvas/PU cheap tier, still does not reach our leather moat",
    "source_tier": "B",
    "earliness": "mid"
   },
@@ -204,8 +218,8 @@
    "first_seen": "2026-07-24",
    "source": "press",
    "status": "emerging",
-   "last_checked": "2026-08-02",
-   "note": "Walops: named creators ~100K-2.9M followers; '68% French converts credit YT/IG/TikTok' (3rd party, unverified); principle for organic content only - NO influencer names in ads | 30/07 no new signal | 31/07 no new signal",
+   "last_checked": "2026-08-03",
+   "note": "Walops: named creators ~100K-2.9M followers; '68% French converts credit YT/IG/TikTok' (3rd party, unverified); principle for organic content only - NO influencer names in ads | 30/07 no new signal | 31/07 no new signal | 03/08 no new signal",
    "source_tier": "C",
    "earliness": "mid"
   },
@@ -215,8 +229,8 @@
    "source_tier": "B",
    "earliness": "mid",
    "status": "commercial",
-   "last_checked": "2026-08-02",
-   "note": "30/07 STATUS CHANGE emerging->COMMERCIAL, earliness early->mid. Commercial evidence: TikTok Shop PDPs (rosary purse charm, bible bag charm, Personalizable Catholic Bag Charm gold-plated keychain, Christian Cross pearl+diamond charm) + TikTok discover pages + Etsy auto-generated >=5 market pages = sellers already poured in. COUNTER-EVIDENCE: mainstream host trend is TIER D (WhoWhatWear/Elle/Numero/Yahoo 2026 listicles) => generic arbitrage window CLOSED. All observed supply is metal/resin/keychain $11.99-14.99, mostly Christian-generic; premium REAL-LEATHER Catholic slot still unoccupied but it is now an art-competition play, not an arbitrage play. Manna charm has 1 review = no measurable demand at this tier | 31/07 no new signal; stays OUT of the arbitrage lane | 01/08 no new signal; holds #2 in suggest 'catholic bag' DAY 5; still out of the arbitrage lane. Review 07/08 | 02/08 no new signal on the parent; but suggest 'guadalupe purse' #5 'virgen de guadalupe purse charm' held for a 5th day and was split off as a NARROWING candidate (design_arb: guadalupe-leather-charm). Parent still out of the arbitrage lane. Review 07/08"
+   "last_checked": "2026-08-03",
+   "note": "30/07 STATUS CHANGE emerging->COMMERCIAL, earliness early->mid. Commercial evidence: TikTok Shop PDPs (rosary purse charm, bible bag charm, Personalizable Catholic Bag Charm gold-plated keychain, Christian Cross pearl+diamond charm) + TikTok discover pages + Etsy auto-generated >=5 market pages = sellers already poured in. COUNTER-EVIDENCE: mainstream host trend is TIER D (WhoWhatWear/Elle/Numero/Yahoo 2026 listicles) => generic arbitrage window CLOSED. All observed supply is metal/resin/keychain $11.99-14.99, mostly Christian-generic; premium REAL-LEATHER Catholic slot still unoccupied but it is now an art-competition play, not an arbitrage play. Manna charm has 1 review = no measurable demand at this tier | 31/07 no new signal; stays OUT of the arbitrage lane | 01/08 no new signal; holds #2 in suggest 'catholic bag' DAY 5; still out of the arbitrage lane. Review 07/08 | 02/08 no new signal on the parent; but suggest 'guadalupe purse' #5 'virgen de guadalupe purse charm' held for a 5th day and was split off as a NARROWING candidate (design_arb: guadalupe-leather-charm). Parent still out of the arbitrage lane. Review 07/08 | 03/08 no new signal"
   },
   "catholic-bag-scarf": {
    "first_seen": "2026-07-29",
@@ -224,8 +238,8 @@
    "source_tier": "A",
    "earliness": "early",
    "status": "emerging",
-   "last_checked": "2026-08-02",
-   "note": "01/08: holds #8 in suggest 'catholic bag' (tier A, DAY 4). Still FAILS design-arb GATE 1 (scarf is not an existing leather blank). Watch only; auto-dead 12/08 | 02/08 not re-read (suggest rotation went to guadalupe purse + catholic gift for grandma). Still gate-1 blocked. auto-dead 12/08"
+   "last_checked": "2026-08-03",
+   "note": "01/08: holds #8 in suggest 'catholic bag' (tier A, DAY 4). Still FAILS design-arb GATE 1 (scarf is not an existing leather blank). Watch only; auto-dead 12/08 | 02/08 not re-read (suggest rotation went to guadalupe purse + catholic gift for grandma). Still gate-1 blocked. auto-dead 12/08 | 03/08 no new signal"
   },
   "church-bag-wimb-video-format": {
    "first_seen": "2026-07-31",
@@ -233,8 +247,8 @@
    "source_tier": "B",
    "earliness": "mid",
    "status": "emerging",
-   "last_checked": "2026-08-02",
-   "note": "NOT a product/aesthetic trend - a native VIDEO FORMAT: 'pack my tote bag with me for church' / what's-in-my-bag, hashtags #biblestudybag #biblebag #churchbag #christiangiftideas. Observed goods in those clips are canvas totes + Hosanna Revival Bibles (Protestant, cheap) => NOT demand evidence for our SKU (Rule 10). Value is production technique only: hands + contents + macro texture, no model, no face, no voice, no influencer name, no ship claim => fully TM-safe and near-zero cost. Applied as the LT- video angle 31/07"
+   "last_checked": "2026-08-03",
+   "note": "NOT a product/aesthetic trend - a native VIDEO FORMAT: 'pack my tote bag with me for church' / what's-in-my-bag, hashtags #biblestudybag #biblebag #churchbag #christiangiftideas. Observed goods in those clips are canvas totes + Hosanna Revival Bibles (Protestant, cheap) => NOT demand evidence for our SKU (Rule 10). Value is production technique only: hands + contents + macro texture, no model, no face, no voice, no influencer name, no ship claim => fully TM-safe and near-zero cost. Applied as the LT- video angle 31/07 | 03/08 no new signal"
   },
   "catholic-tote-zipper": {
    "first_seen": "2026-08-01",
@@ -242,8 +256,8 @@
    "source_tier": "A",
    "earliness": "early",
    "status": "emerging",
-   "last_checked": "2026-08-02",
-   "note": "NOT an aesthetic - a FORMAT/FEATURE axis. Two independent tier-A sources converge on ZIPPER: suggest 'catholic tote bag with zipper' #2, and Feratia review verbatim praising the zipper. Scored the 4 gates 01/08: art YES (LT- blank exists), devotion YES, ACCESSORY-TIER NO ($74.95-109.95 is not a social-board price), ip YES => 3/4, barred from the arbitrage lane, routed to listing/SEO (B2) instead. Watch for it becoming a supplier question if the current LT- blank has no zipper | 02/08 THIRD independent source and the FIRST on the negative side: Catholight review 'Im not sure yet of the zipper' / 'Zipper looks like not durable'. The axis now provably cuts both ways - competitors capture the buy-reason and leave the refuse-reason open. Still barred from the arbitrage lane (gate 3, price tier)"
+   "last_checked": "2026-08-03",
+   "note": "NOT an aesthetic - a FORMAT/FEATURE axis. Two independent tier-A sources converge on ZIPPER: suggest 'catholic tote bag with zipper' #2, and Feratia review verbatim praising the zipper. Scored the 4 gates 01/08: art YES (LT- blank exists), devotion YES, ACCESSORY-TIER NO ($74.95-109.95 is not a social-board price), ip YES => 3/4, barred from the arbitrage lane, routed to listing/SEO (B2) instead. Watch for it becoming a supplier question if the current LT- blank has no zipper | 02/08 THIRD independent source and the FIRST on the negative side: Catholight review 'Im not sure yet of the zipper' / 'Zipper looks like not durable'. The axis now provably cuts both ways - competitors capture the buy-reason and leave the refuse-reason open. Still barred from the arbitrage lane (gate 3, price tier) | 03/08 no new signal"
   },
   "catholic-gift-guide-saturation": {
    "first_seen": "2026-08-02",
@@ -251,8 +265,26 @@
    "source_tier": "D",
    "earliness": "late",
    "status": "peaked",
-   "last_checked": "2026-08-02",
-   "note": "NEW 02/08, logged as a NEGATIVE/boundary marker, not an opportunity. WebSearch 'viral catholic gift mom grandma' returned Etsy AUTO-GENERATED market pages ('Catholic Mom Gifts - 60+ Gift Ideas for 2026'), a CatholicCompany 2026 Mothers Day gift guide (tier C, out of season), and retailer category pages. ZERO early signal. Per Rule 12 tier D = door closed, barred as demand evidence. Value: SECOND confirmation (after bag-charm 30/07) that Etsy self-generated market pages are a reliable saturation marker - keep using them that way"
+   "last_checked": "2026-08-03",
+   "note": "NEW 02/08, logged as a NEGATIVE/boundary marker, not an opportunity. WebSearch 'viral catholic gift mom grandma' returned Etsy AUTO-GENERATED market pages ('Catholic Mom Gifts - 60+ Gift Ideas for 2026'), a CatholicCompany 2026 Mothers Day gift guide (tier C, out of season), and retailer category pages. ZERO early signal. Per Rule 12 tier D = door closed, barred as demand evidence. Value: SECOND confirmation (after bag-charm 30/07) that Etsy self-generated market pages are a reliable saturation marker - keep using them that way | 03/08 no new signal"
+  },
+  "leather-bible-cover-tiktok": {
+   "first_seen": "2026-08-03",
+   "source": "websearch",
+   "source_tier": "B",
+   "earliness": "mid",
+   "status": "commercial",
+   "last_checked": "2026-08-03",
+   "note": "NEW 03/08. TikTok Shop carries multiple dedicated category pages ('bible covers for women leather', 'bible cover leather', 'tooled leather bible covers') + discover pages + a real PDP (Floral Bible Case for Women, Large Leather Cover, PU, handle + bookmark). COMMERCIAL for the FORMAT. But the dominant aesthetic is Western / tooled / leopard / floral PU = Protestant + Americana at a cheap tier - does NOT touch our leather+Catholic moat. This is exactly the Rule 11 shape: the object has proven demand, the Catholic AESTHETIC is unoccupied on that board"
+  },
+  "catholic-bible-cover-suggest": {
+   "first_seen": "2026-08-03",
+   "source": "suggest",
+   "source_tier": "A",
+   "earliness": "early",
+   "status": "emerging",
+   "last_checked": "2026-08-03",
+   "note": "NEW 03/08, tier-A self-read. 10/10 suggestions are purchase-shaped, ZERO DIY/sewing - materially cleaner than generic 'bible cover' (2 DIY) and 'bible tote' (2 DIY). Key entries: #2 'catholic bible covers for women', #4 'catholic bible cover art' (art intent = our moat), #7 'new american bible cover' (Catholic-only edition = a functional hook Protestant sellers cannot use), #9 'catholic bible leather cover' (names our SKU exactly). No tier-D listicle found for this cluster => earliness EARLY. Contrast with catholic-bag-charm which hit tier-D hosts on 30/07"
   }
  },
  "offer_fingerprints": {
@@ -265,19 +297,19 @@
   "albuquerque:summer26-coupon": {
    "value": "SUMMER26 -50to60%",
    "first_seen": "2026-07-14",
-   "last_confirmed": "2026-08-01",
-   "note": "CHANGE-ALERT 01/08 - THE CLUSTER SPLIT. Blessac cut discount depth -55% -> -50%: Faith LH final 64.32 -> 71.47 (+11.1%) on an unchanged 142.95 anchor, and the bundle moved the identical +11.1%. Feratia HELD at -60% (57.18, unchanged). First divergence between the two Albuquerque operators since 14/07. S2: final prices only; this is a price INCREASE, not a price war"
+   "last_confirmed": "2026-08-03",
+   "note": "CHANGE-ALERT 01/08 - THE CLUSTER SPLIT. Blessac cut discount depth -55% -> -50%: Faith LH final 64.32 -> 71.47 (+11.1%) on an unchanged 142.95 anchor, and the bundle moved the identical +11.1%. Feratia HELD at -60% (57.18, unchanged). First divergence between the two Albuquerque operators since 14/07. S2: final prices only; this is a price INCREASE, not a price war | 03/08: Feratia still -60% (crossbody $109.95->$43.98, handbag $142.95->$57.18). Blessac still -50% on PDP. Divergence holds"
   },
   "catholight:instock-ship-claim": {
    "value": "Ships from USA; Free Shipping on Orders $200+; In-Stock collection header says 20 products across 2 pages but enumerates 24, ZERO sold out",
    "first_seen": "2026-07-20",
-   "last_confirmed": "2026-08-01",
-   "note": "header count drifted 21->20 while the enumeration stayed 24 => theme counting bug, NOT a catalog change. Do not report as a signal"
+   "last_confirmed": "2026-08-03",
+   "note": "header count drifted 21->20 while the enumeration stayed 24 => theme counting bug, NOT a catalog change. Do not report as a signal | 03/08: 24 SKU enumerated, 1 SOLD OUT (Holy Family, day 2). Ship claim verbatim now reads 'arriving to you in 4-6 days'. Nav shows a 'New Rosary Launch' entry - slug guess 404, UNCONFIRMED"
   },
   "afroyla:bogo-sitewide": {
    "value": "Buy 1 Get 1 Free - add any 2 items, lower-priced item free at checkout; applies to Top Grain too",
    "first_seen": "2026-07-21",
-   "last_confirmed": "2026-08-01",
+   "last_confirmed": "2026-08-03",
    "note": "CORRECTION 31/07: the 30/07 'BOGO REMOVED' change-alert was WRONG. Read directly on the Godfidence PDP today, BOGO is intact and was never removed - 29+30/07 were homepage-level reads that simply did not surface it. RULE LEARNED: never declare an offer removed on homepage-level reads alone; confirm at PDP level."
   },
   "catholight:mto-bible-cover-line": {
@@ -314,10 +346,10 @@
    "last_confirmed": "2026-07-29"
   },
   "mannacovers:price-ladder": {
-   "value": "Bible cover Large $90 (x4) / $95 (Dont Worry); Small $80 (x4) / $85; bag charms $11.99-14.99; Free US Ship $120+; VEGAN leather",
+   "value": "Bible cover Large $90 (x4) / $95 (Dont Worry) / $80 (The Wilderness); Small $80 (x4) / $85 (Dont Worry) / $70 (The Wilderness); bag charms $11.99-14.99 (Three Crosses / Fruits of the Spirit / Bread of Life); Free US Ship $120+; VEGAN leather",
    "first_seen": "2026-07-30",
-   "last_confirmed": "2026-07-30",
-   "note": "first full-catalog read since deep-page block 27/07 - baseline, do NOT report as a change"
+   "last_confirmed": "2026-08-03",
+   "note": "CHANGED 03/08: NEW LINE 'The Wilderness' at $70/$80 = first price point BELOW $80 at Manna. Catalogue now 6 designs x 2 sizes = 12 SKU. S2: a new lower price POINT on a NEW line, NOT 'Manna cutting prices'"
   },
   "houseofjoppa:hoj10": {
    "value": "HOJ10 -10% first purchase; Free US Ship $125+; 'Up To 50% Off' last chance",
@@ -354,6 +386,24 @@
    "first_seen": "2026-08-01",
    "last_confirmed": "2026-08-01",
    "note": "first recorded (new fingerprint, not necessarily new offer). They sell scarcity by EXCLUSIVITY rather than by stock scarcity - a different lever from the Albuquerque thin-batch model"
+  },
+  "blessac:bible-cover-line": {
+   "value": "19 SKU; grid $39.97 (anchor $79.95) / PDP $49.97 (anchor $99.95); Premium Faux Leather + Top-Grain Leather from Tuscany Italy; sizes M 6.3x9.2x1.6 and L 9x12x2.4; bundle Matching Leather Prayer Journal $78.47 (anchor $156.95) with SUMMER26; 0 sold out at grid level; rv_listing 3",
+   "first_seen": "2026-08-03",
+   "last_confirmed": "2026-08-03",
+   "note": "FIRST fingerprint. Treated as a CHANGE-ALERT (not a silent baseline) because the 31/07 and 02/08 FULL enumerations recorded 4 formats / 63 items with no bible covers - but those walked 4 collection URLs, not site nav, so 'new' is a STRONG INFERENCE, not a FACT. Re-confirm 04/08 to upgrade. Nav also newly shows 'Journals & Devotionals' and a 'For Him' section. Feratia (the Catholic sibling in the same Albuquerque cluster) has NO bible covers - /collections/bible-covers 404s"
+  },
+  "blessac:two-surface-discount": {
+   "value": "grid and PDP show DIFFERENT final prices for the same SKU; bible cover $39.97 grid vs $49.97 PDP; handbag $64.32 grid vs $71.47 PDP",
+   "first_seen": "2026-08-01",
+   "last_confirmed": "2026-08-03",
+   "note": "SECOND independent confirmation 03/08, now on a brand-new line. This is an OFFER INCONSISTENCY, not a price move (S2 - only final prices count, and here there are two depending on which surface the buyer looks at). Direct lesson: exactly the ad/PDP/cart mismatch our own B2 rule forbids"
+  },
+  "feratia:small-leather-handbag-format": {
+   "value": "'Small Leather Handbag' $52.78 final (anchor $131.95), plus Single and Offer variants",
+   "first_seen": "2026-08-03",
+   "last_confirmed": "2026-08-03",
+   "note": "FIRST RECORDED on /all - do NOT call it new. Prior Feratia reads used collection URLs. If it holds, Feratia runs 6 formats vs GenusFaith's 3"
   }
  },
  "design_arb": {
@@ -425,7 +475,21 @@
    "tier": "charm",
    "board": "tiktok-fb",
    "status": "brief",
-   "note": "NEW 02/08, split off from tier-A suggest 'virgen de guadalupe purse charm' (#5 in 'guadalupe purse', held 5 days). 4/4 GATES: art YES (inherits the charm blank accepted 28/07 - INHERITED, not re-verified), devotion YES (the tilma reads Catholic with the title hidden), accessory YES, ip YES (public domain; agave/maguey BANNED, N2-FIX-01). BUT the parent trend catholic-bag-charm sits at earliness mid with tier-D hosts => Rule 12 BARS it from the arbitrage lane. Logged as a NARROWING play: compete on ART inside the Guadalupana sub-niche, where observed supply is metal/resin keychains $11.99-14.99 and generic-Christian. NOT an early-door play. Review 12/08 -> dropped if no brief approved"
+   "note": "NEW 02/08, split off from tier-A suggest 'virgen de guadalupe purse charm' (#5 in 'guadalupe purse', held 5 days). 4/4 GATES: art YES (inherits the charm blank accepted 28/07 - INHERITED, not re-verified), devotion YES (the tilma reads Catholic with the title hidden), accessory YES, ip YES (public domain; agave/maguey BANNED, N2-FIX-01). BUT the parent trend catholic-bag-charm sits at earliness mid with tier-D hosts => Rule 12 BARS it from the arbitrage lane. Logged as a NARROWING play: compete on ART inside the Guadalupana sub-niche, where observed supply is metal/resin keychains $11.99-14.99 and generic-Christian. NOT an early-door play. Review 12/08 -> dropped if no brief approved | 03/08 unchanged, parent trend still mid"
+  },
+  "catholic-leather-bible-cover-BC": {
+   "trend": "catholic-bible-cover-suggest + leather-bible-cover-tiktok",
+   "first_seen": "2026-08-03",
+   "gates": {
+    "art": true,
+    "devotion": true,
+    "accessory": true,
+    "ip": true
+   },
+   "tier": "BC-",
+   "board": "tiktok-fb",
+   "status": "brief",
+   "note": "NEW 03/08 - FIRST candidate to enter the arbitrage lane after 5 consecutive zero days. 4/4 gates AND earliness EARLY (tier A+B only, no tier-D listicle). GATE 1 art: sublimation on the planned BC- blank, no new mould - WEAKEST point, the blank is not confirmed in hand and pen-slot presence is unknown. GATE 2 devotion: Latin Marian titles (Regina Caeli / Stella Maris / Rosa Mystica) read Catholic with the title hidden; no Gen-Z bridge needed, the 45-65 churchgoer is the primary buyer of this object. GATE 3 accessory tier: BC- is explicitly named in Rule 11; $49.95-59.95 is a social-board price; size risk is BINARY (compact vs large-print), not a size curve. GATE 3 NUMERIC (tier A, FACT, first US number ever recorded): Meta estimate_audience_size US women 45-65 x interest Handbags(6003198476967) = 18.4M-21.7M, point 20.05M. GATE 4 ip: Latin/public domain. EXPLICIT ANTI-PATTERN - do NOT copy Blessac's structure (all 19 SKU are translated Bible verses with version references); our Catholic Strict Lock already bars generic-Bible-verse-on-bag. Video angle: macro pen slots filling -> thumb across grain -> spine stitch -> cover closing over a large-print Bible; no model/face/voice/name/ship claim. Hook <=7 words: 'Holds six pens. Still closes flat.' Auto-drop 13/08 if not approved"
   }
  },
  "suggest_baseline": {
@@ -493,9 +557,10 @@
     "Unique Gifts id=6003273071999 7.75M-9.12M NEW 02/08",
     "NEGATIVE: Leather -> id=6003208762486 195.3M-229.7M is CRAFT SUPPLIES (people who MAKE leather goods) - DO NOT TARGET",
     "Tote bag / Tote bags -> EMPTY data",
-    "Purses -> noise (art museum + Coach Inc)"
+    "Purses -> noise (art museum + Coach Inc)",
+    "US-SPECIFIC (NEW 03/08, first ever): estimate_audience_size act_491997713840919, US women 45-65 x Handbags 6003198476967 = 18.4M-21.7M lower/upper, point 20.05M. Pipeboard slot limit reopened 03/08 exactly as forecast"
    ],
-   "last_checked": "2026-08-02",
+   "last_checked": "2026-08-03",
    "note": "02/08 BREAKTHROUGH: the GIFT axis IS probeable (429.6-505.2M global) and is larger than Handbags, so GATE 3 can now be scored numerically for any gift-framed idea - which is most of our board. Also a NEW NEGATIVE: 'Leather' resolves to leathercraft hobbyists (path Business and industry), wrong intent, must not be targeted. Interest NAMES return in Vietnamese (account locale) - trust IDs only, never names. Religion targeting still removed by Meta (28/07) => the Meta lane stays BROAD + creative-led, the ART does the targeting. estimate_audience_size unblocks 03/08"
   },
   "catholic wallet": {
@@ -637,6 +702,38 @@
    ],
    "last_checked": "2026-08-01",
    "note": "NEW 01/08, replaces the REJECTED 'first communion gift for mom' axis (S8, 31/07). 4 of 7 are uncertainty QUESTIONS = buyers who do not know what to buy => gift-guide content opportunity, not a high-price ad lane. #2 'confirmation SPONSOR gift for her' is a distinct buyer role worth a separate scan. Persona read = INFERENCE, the strings are FACT"
+  },
+  "catholic bible cover": {
+   "top": [
+    "catholic bible covers",
+    "catholic bible covers for women",
+    "catholic bible cover for men",
+    "catholic bible cover art",
+    "catholic book covers",
+    "catholic book cover design",
+    "new american bible cover",
+    "catholic bible case",
+    "catholic bible leather cover",
+    "catholic bible soft cover"
+   ],
+   "last_checked": "2026-08-03",
+   "note": "NEW 03/08 - CLEANEST axis measured to date. 10/10 purchase-shaped, ZERO DIY. #4 art intent, #7 New American Bible = Catholic-only functional hook, #9 names our SKU. Feeds design_arb catholic-leather-bible-cover-BC"
+  },
+  "bible cover for women": {
+   "top": [
+    "bible cover for women",
+    "bible cover for women nearby",
+    "bible cover for women amazon",
+    "bible cover for women leather",
+    "bible cover for women near me",
+    "bible cover for women large",
+    "bible cover for women small",
+    "bible cover for women under 1000 INR",
+    "bible cover for women walmart",
+    "bible covers for women with shoulder strap"
+   ],
+   "last_checked": "2026-08-03",
+   "note": "NEW 03/08 as a CONTROL for the Catholic axis. Retailer modifiers (amazon/walmart/nearby/near me) = commodity retail frame; #4 leather and #10 shoulder strap are format axes. WARNING: #8 carries an INR price modifier = Indian locale leak, discard it, it is not a US signal. Contrast proves the value of the Catholic-qualified axis"
   }
  },
  "account_health": {
@@ -644,15 +741,15 @@
    "name": "01. GenusFaith",
    "status": "ACTIVE",
    "reason": "",
-   "last_checked": "2026-08-02"
+   "last_checked": "2026-08-03"
   },
   "act_1803150516844674": {
    "name": "07. GenusFaith",
    "status": "DISABLED",
    "reason": "Your ad account was flagged because of unusual activity. All your ads have been paused. To restart them, contact Facebook to confirm your account information.",
-   "last_checked": "2026-08-02"
+   "last_checked": "2026-08-03"
   },
-  "_note": "02/08 NO STATUS CHANGE on either GenusFaith account => not reported, per Rule 4h. Re-verified via ads_get_ad_accounts: 01. GenusFaith ACTIVE (has_payment_method true, VND, is_queryable true); 07. GenusFaith DISABLED, is_queryable false, verbatim reason unchanged. Wider context unchanged: FoxWears021 + FoxWears023 DISABLED with identical verbatim; TK - Error Billing 01/02/03 all UNSETTLED ('Unknown error')"
+  "_note": "03/08 NO STATUS CHANGE on either GenusFaith account => not reported, per Rule 4h. Re-verified via ads_get_ad_accounts: 01. GenusFaith ACTIVE (payment method true, VND, queryable); 07. GenusFaith DISABLED, not queryable, verbatim reason unchanged. Wider context unchanged: FoxWears021 + FoxWears023 DISABLED with identical verbatim; TK - Error Billing 01/02/03 all UNSETTLED ('Unknown error')"
  },
  "rejected": [
   {
@@ -699,13 +796,23 @@
    "date": "2026-08-02",
    "claim": "Trend sweep is the primary engine for finding new product/aesthetic opportunities for GenusFaith",
    "why": "7-day output comparison: trend sweep produced 0 candidates into the arbitrage lane across 4 consecutive days, while review-miner produced, in 2 days: the real purchase mechanism (seen and remarked on at church, >=5 mentions across 3 independent brands), 3 new buyer roles, the first repeat-purchase evidence, the zipper axis in both directions, and proof of a real Spanish-speaking buyer. Trend sweep keeps failing at GATE 1 because our binding constraint is BLANKS, not ideas. Proposal: 2 review-miner targets/day, trend sweep every 2 days"
+  },
+  {
+   "date": "2026-08-03",
+   "claim": "Bac gia BC- $39.95-44.95 co the canh tranh duoc",
+   "why": "do truc tiep 03/08: Blessac (Tin Lanh, cau Kinh Thanh chung, faux leather) da ban o $39.97 grid voi 19 SKU. Dat DA THAT + art Cong giao vao cung mot muc gia la tu xep minh ngang hang cho. Chot lai $49.95-59.95"
+  },
+  {
+   "date": "2026-08-03",
+   "claim": "Feratia go 'Alaris' khoi collection crossbody la mot quyet dinh danh muc co chu dich (suy doan 31/07)",
+   "why": "03/08 Alaris quay lai o trang thai Available va collection len 14 item. Cach doc don gian hon - nhip dot hang mong - giai thich du du lieu. Khong giu suy doan cu"
   }
  ],
  "closed_watches": {
   "feratia:alaris-circle-crossbody": {
    "closed": "2026-07-31",
    "days": 4,
-   "verdict": "CLOSED as agreed on 31/07. Alaris absent from crossbody collection (13 items) 4 days running, but still present on /all as Sold Out (base + Offer). Decisive detail: 10 OTHER Sold Out crossbodies ARE still displayed inside the collection => the disappearance is NOT stock-driven; it is a deliberate collection removal (INFERENCE, not FACT - a tag error cannot be excluded). Do not track further unless Alaris reappears."
+   "verdict": "CLOSED as agreed on 31/07. Alaris absent from crossbody collection (13 items) 4 days running, but still present on /all as Sold Out (base + Offer). Decisive detail: 10 OTHER Sold Out crossbodies ARE still displayed inside the collection => the disappearance is NOT stock-driven; it is a deliberate collection removal (INFERENCE, not FACT - a tag error cannot be excluded). Do not track further unless Alaris reappears. || REOPENED 03/08: Alaris is back on /all as AVAILABLE ($29.95-109.95) and the crossbody collection count rose 13 -> 14. The 31/07 INFERENCE ('deliberate collection removal') is WEAKENED. Simpler reading: ordinary thin-batch rhythm, same as the 6 prior flip-flops. Logged as a correction."
   },
   "feratia:gratia-leather-handbag": {
    "closed": "2026-08-01",
@@ -719,35 +826,40 @@
   }
  },
  "design_arb_daily_result": {
-  "date": "2026-08-02",
-  "candidates_passing_all_4_gates": 0,
-  "reason": "Day 4 consecutive with ZERO candidates INTO THE ARBITRAGE LANE. One NEW candidate (guadalupe-leather-charm) does pass 4/4 gates on merit, but Rule 12 bars it because the parent trend sits at earliness mid with tier-D hosts - logged as a narrowing/art-competition play instead. catholic-tote-zipper-LT 3/4 (gate 3, price tier). catholic-bag-scarf gate 1 (no blank). catholic-core gate 2 commercially (tier-A proof it is a content cluster). RECURRING ROOT CAUSE across the week: GATE 1 - we lack blanks; 2 of the 4 open user questions are blank questions. No idea invented to fill the quota.",
-  "usable_output": "Video angle 5-15s texture-in-motion, organic only: slow macro on the zipper pull -> leather grain catching light -> stitched edge -> strap drape. No model, no face, no voice, no name, no ship claim. Text hook <=7 words: 'Even my priest noticed.' - rewritten in our own words from the INTENT of a real competitor review, not copied verbatim."
+  "date": "2026-08-03",
+  "candidates_passing_all_4_gates": 1,
+  "reason": "FIRST candidate into the arbitrage lane after 5 consecutive zero days: catholic-leather-bible-cover-BC, 4/4 gates at earliness EARLY. Root cause of the previous drought was GATE 1 (no blanks); BC- clears it only because the blank is already in the product plan - and even so it is the weakest gate here (not confirmed in hand, pen-slot unknown). Rejected today: catholic-bag-scarf (gate 1), catholic-magsafe-phone-wallet (gate 1), catholic-leather-rosary-case (gate 1), catholic-tote-zipper-LT (gate 3 price tier), catholic-core (gate 2 commercially).",
+  "usable_output": "Listing-ready BC- title + 13 tags in B2. Video 5-15s texture-in-motion, TikTok/FB board: macro of pen slots filling -> thumb across the grain -> spine stitching -> cover closing over a large-print Bible. No model, no face, no voice, no name, no ship claim. Text hook <=7 words: 'Holds six pens. Still closes flat.' - written from the INTENT of a real review, not copied."
  },
  "open_questions_for_user": {
   "1_small_leather_pouch_blank": {
    "asked": "2026-07-30",
-   "status": "unanswered (day 4)",
+   "status": "unanswered (day 5)",
    "unlocks": "rosary-case-leather-RC brief same-day"
   },
   "2_magsafe_card_holder_blank": {
    "asked": "2026-07-29",
-   "status": "unanswered (day 5)",
+   "status": "unanswered (day 6)",
    "unlocks": "catholic-magsafe-phone-wallet brief same-day"
   },
   "3_cogs_one_sku": {
    "asked": "2026-07-31",
-   "status": "unanswered (day 3)",
+   "status": "unanswered (day 4)",
    "unlocks": "S6 - lifts every proposal above 'exploratory'; currently NOTHING can be called scalable"
   },
   "4_lt_blank_has_zipper": {
    "asked": "2026-08-01",
-   "status": "unanswered (day 2)",
+   "status": "unanswered (day 3)",
    "unlocks": "A THIRD independent zipper source arrived 02/08 and it is a COMPLAINT about zipper durability at a competitor. If our LT- blank has a zipper it goes on the title today at zero cost AND the PDP gets a macro zipper shot + hardware name, to eat the objection competitors leave open. If not, it becomes a supplier request"
+  },
+  "5_bc_blank_has_pen_slots": {
+   "asked": "2026-08-03",
+   "status": "unanswered (day 1)",
+   "unlocks": "BC- spec decision before any art is drawn. Tier-A verbatim proves the bible-cover buyer is a note-taker ('holds all 6 of my pens, post it notes and highlighter'). No pen loops = lose at the PDP regardless of art quality. Also decides whether the $59.95 Large tier is defensible"
   }
  },
  "review_convergence": {
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "mechanism": "THE PRODUCT'S JOB IS TO BE SEEN AND REMARKED ON AT CHURCH",
   "threshold": ">=5 mentions across 3 INDEPENDENT brands - passes Rule 4c",
   "evidence": [
@@ -757,14 +869,17 @@
    "Catholight 02/08: 'I rec'd lots of compliments from the 1st time I used it'",
    "Catholight 02/08: 'Even my priest commented on it!'",
    "Catholight 02/08: 'When people see this purse, I hope it reminds them of God's love'",
-   "Catholight 02/08: 'This bag is much more than an accessory - it's a statement of faith.'"
+   "Catholight 02/08: 'This bag is much more than an accessory - it's a statement of faith.'",
+   "Blessac bible cover 03/08: 'It's gorgeous and has turned lots of heads' - FOURTH independent brand, and the FIRST instance on a BIBLE COVER rather than a bag"
   ],
-  "design_implication": "INFERENCE (well anchored): the motif must READ AT 1-2 METRES - the distance people stand at when talking after Mass. ONE LARGE FOCAL beats dispersed small motifs. This is the deciding argument for Lux Moderna Marian over Floral Catholic on the Guadalupana flagship, and it converts our existing brand rule ('devotion recognisable with the title hidden') from an internal style rule into a DEMAND-SIDE requirement.",
+  "design_implication": "INFERENCE (well anchored): the motif must READ AT 1-2 METRES - the distance people stand at when talking after Mass. ONE LARGE FOCAL beats dispersed small motifs. This is the deciding argument for Lux Moderna Marian over Floral Catholic on the Guadalupana flagship, and it converts our existing brand rule ('devotion recognisable with the title hidden') from an internal style rule into a DEMAND-SIDE requirement. || 03/08 EXTENSION: the same mechanism is now evidenced on a BIBLE COVER, so the one-big-focal / readable-at-1-2m rule applies to BC- exactly as it does to LH-.",
   "secondary_findings": [
    "church->everyday spillover: bought for Mass, then carried daily (Catholight, MrsPasquale)",
    "first repeat-purchase evidence in this niche: 'This is my 5th purchase'",
    "objections to pre-empt on the PDP: zipper durability, bag larger than expected, interior pockets too small",
-   "buyers self-justify price when the finish is good: 'very well made and worth the price'"
+   "buyers self-justify price when the finish is good: 'very well made and worth the price'",
+   "03/08 NEW functional requirement, tier-A verbatim: 'It holds all 6 of my pens, post it notes and highlighter!' - the bible-cover buyer is a note-taker; pen loops are a spec requirement, not a nicety",
+   "03/08 second repeat/replacement-cycle evidence: 'way more durable than my last cover' - the buyer already owned one"
   ]
  }
 }
