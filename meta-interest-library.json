@@ -1,0 +1,35 @@
+{
+  "_doc": "SHARED Meta demand library — dùng CHUNG cho mọi bot trong repo (foxera, genusfaith, gritfell, gerbera, foxjob). Mỗi bot đọc file này để lấy interest_id + US reach cho niche của mình, KHÔNG cần search lại. Chuẩn đo = estimate_audience_size REACH, US 18-65 (xem SHARED-bot-upgrade-playbook.md). CẤM dùng field global_search_size để tính tỷ lệ (2 hệ đo khác nhau).",
+  "version": "1.0",
+  "created": "2026-08-05",
+  "account_id": "act_1635419550630846",
+  "method": {
+    "canonical_metric": "estimate_audience_size, optimization_goal=REACH, geo US, age 18-65, 1 interest trong flexible_spec",
+    "unit": "potential ad reach (nguoi) — KHONG phai so ban / review",
+    "comparable": "cac dong us_reach so sanh HANG-NGANG voi nhau",
+    "forbidden": "KHONG tinh ty le us_reach / global_search_size (khac method; Pickleball global 1.03M < US 15.25M = bang chung)",
+    "disambiguation_rule": "chi nhan interest co name/topic dung nghia; loai cac disambiguation (film/TV/band/local business/music genre). Nhieu query KHONG co interest sach -> ghi no_clean, KHONG ep dung."
+  },
+  "clean_interests": [
+    {"key": "wedding", "meta_id": "6003409392877", "name": "Wedding", "us_reach_lower": 62100000, "us_reach_upper": 73000000, "verified_at": "2026-08-05", "projects": ["foxera","gerbera"], "note": "clean; Botanical Bride/bridesmaid"},
+    {"key": "yoga", "meta_id": "6003306084421", "name": "Yoga", "us_reach_lower": 61500000, "us_reach_upper": 72400000, "verified_at": "2026-08-05", "projects": ["foxera","gerbera","gritfell"], "note": "clean; pilates/wellness adjacent"},
+    {"key": "gardening_plantlady", "meta_id": "6003053056644", "name": "Gardening", "us_reach_lower": 70600000, "us_reach_upper": 83100000, "verified_at": "2026-08-05", "projects": ["foxera","gerbera"], "note": "clean; plant lady/gardener"},
+    {"key": "golf_hobbydad", "meta_id": "6003510075864", "name": "Golf", "us_reach_lower": 58500000, "us_reach_upper": 68900000, "verified_at": "2026-08-05", "projects": ["foxera","gerbera","gritfell"], "note": "clean; men tepe/hobby-dad"},
+    {"key": "embroidery_core", "meta_id": "6003291970911", "name": "Embroidery", "us_reach_lower": 26900000, "us_reach_upper": 31600000, "verified_at": "2026-08-05", "projects": ["foxera"], "note": "clean; FoxEra ADN core"},
+    {"key": "halloween_seasonal", "meta_id": "6003074016139", "name": "Halloween", "us_reach_lower": 25600000, "us_reach_upper": 30100000, "verified_at": "2026-08-05", "projects": ["foxera","gerbera","gritfell"], "note": "clean; seasonal T8-T10"},
+    {"key": "pickleball", "meta_id": "6003446666731", "name": "Pickleball", "us_reach_lower": 14000000, "us_reach_upper": 16500000, "verified_at": "2026-08-05", "projects": ["foxera","gerbera"], "note": "clean; hot sport"},
+    {"key": "matcha", "meta_id": "6003117735068", "name": "Matcha", "us_reach_lower": 12600000, "us_reach_upper": 14800000, "verified_at": "2026-08-05", "projects": ["foxera","gerbera"], "note": "clean; hot aesthetic"},
+    {"key": "cross_country_running", "meta_id": "6003504677595", "name": "Cross country running", "us_reach_lower": 8100000, "us_reach_upper": 9600000, "verified_at": "2026-08-05", "projects": ["foxera","gerbera","gritfell"], "note": "clean; run-club proxy"},
+    {"key": "cats_musicgenre_proxy", "meta_id": "6003127708245", "name": "Cats", "us_reach_lower": 3100000, "us_reach_upper": 3600000, "verified_at": "2026-08-05", "projects": ["foxera","gerbera"], "note": "⚠️ DISAMBIG = music genre, KHONG phai cat-lover sach; chi proxy"},
+    {"key": "book_lovers", "meta_id": "6003182899522", "name": "Book Lovers", "us_reach_lower": 221700, "us_reach_upper": 260800, "verified_at": "2026-08-05", "projects": ["foxera"], "note": "clean nhung tep FB HEP"}
+  ],
+  "no_clean_interest": [
+    {"query": "Christianity", "issue": "search tra ve RONG (0 ket qua) — thu 'Christian', 'Bible', 'Jesus' hoac dung behavior; quan trong cho genusfaith"},
+    {"query": "Christmas", "issue": "tra ve 'Christmas Tree Shops' (local biz) / 'Biographical film' — chua thay holiday interest sach o limit 2, thu lai limit>5"},
+    {"query": "Camping", "issue": "tra ve 'Camping World' / 'Caravanning Club' (business) — thu 'Camping (outdoor)' limit cao hon"},
+    {"query": "Back to School", "issue": "interest = PHIM (disambiguation), KHONG phai mua sam"},
+    {"query": "Nurse", "issue": "tra ve 'Plant nursery' / 'Nursery rhyme' — khong co nghe Nurse sach"},
+    {"query": "Dog", "issue": "tra ve 'Dogs (British band)' / 'Snoop Dogg' — khong co pet-dog sach"}
+  ],
+  "next_to_add": ["Christian/Bible/Faith (genusfaith)", "Coffee/Autumn proxy", "Romance novels/romantasy", "National Parks", "Coastal grandma", "Fishing US", "Hiking", "Nurse via behavior/job-title"]
+}
