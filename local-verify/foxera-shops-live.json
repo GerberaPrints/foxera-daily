@@ -1,6 +1,6 @@
 {
   "project": "foxera",
-  "verified_at": "2026-08-01",
+  "verified_at": "2026-08-06",
   "provenance": "live_local_browser",
   "shops": [
     {
@@ -8,7 +8,7 @@
       "shop": "Stitchavita",
       "url": "https://www.etsy.com/shop/Stitchavita",
       "status": "not_selling",
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E100",
@@ -16,7 +16,7 @@
       "url": "https://zyvexora.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E103",
@@ -24,7 +24,7 @@
       "url": "https://zelviroq.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E106",
@@ -32,7 +32,7 @@
       "url": "https://qalvirox.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E107",
@@ -40,7 +40,7 @@
       "url": "https://www.etsy.com/shop/Xenavyra",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E108",
@@ -48,32 +48,30 @@
       "url": "https://velqoryn.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E109",
       "shop": "Zarvynix",
       "url": "https://www.etsy.com/shop/Zarvynix",
       "status": "not_selling",
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E114",
       "shop": "Zyvaneli",
       "url": "https://www.etsy.com/shop/Zyvaneli",
       "status": "not_selling",
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E119",
       "shop": "Zyvorexa",
       "url": "https://www.etsy.com/shop/Zyvorexa",
-      "status": "active",
-      "sales": 2,
-      "rating": 5.0,
-      "reviews": 1,
-      "on_sale": false,
-      "verified_at": "2026-08-01"
+      "status": "not_selling",
+      "prev_status": "active",
+      "prev_checked": "2026-08-01",
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E120",
@@ -81,7 +79,7 @@
       "url": "https://xenavory.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E121",
@@ -89,7 +87,7 @@
       "url": "https://velqirax.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E125",
@@ -97,7 +95,7 @@
       "url": "https://zelvoryx.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E127",
@@ -105,7 +103,7 @@
       "url": "https://www.etsy.com/shop/Xaloryva",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E128",
@@ -113,7 +111,7 @@
       "url": "https://zyvankor.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E131",
@@ -121,7 +119,7 @@
       "url": "https://koryvexa.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E133",
@@ -129,7 +127,7 @@
       "url": "https://vyxanore.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E134",
@@ -137,18 +135,18 @@
       "url": "https://qarvynox.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E135",
       "shop": "VDKHandmade",
       "url": "https://www.etsy.com/shop/VDKHandmade",
       "status": "active",
-      "sales": 3,
+      "sales": 4,
       "rating": 5.0,
       "reviews": 1,
       "on_sale": true,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E136",
@@ -156,7 +154,7 @@
       "url": "https://brivonstudio.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E137",
@@ -164,7 +162,7 @@
       "url": "https://norvynstudio.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E138",
@@ -172,7 +170,7 @@
       "url": "https://auviramarket.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E140",
@@ -180,7 +178,7 @@
       "url": "https://kenvix.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E143",
@@ -188,7 +186,7 @@
       "url": "https://zanvix.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E146",
@@ -196,7 +194,7 @@
       "url": "https://www.etsy.com/shop/LUNAVEXOR",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E147",
@@ -204,7 +202,7 @@
       "url": "https://norvaxilo.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E148",
@@ -212,7 +210,7 @@
       "url": "https://velorixan.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E149",
@@ -220,7 +218,7 @@
       "url": "https://xavonetra.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E150",
@@ -228,7 +226,7 @@
       "url": "https://www.etsy.com/shop/Elvarixo",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E152",
@@ -236,7 +234,7 @@
       "url": "https://kalverixo.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E155",
@@ -244,7 +242,7 @@
       "url": "https://www.etsy.com/shop/Valnexiro",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E156",
@@ -252,7 +250,7 @@
       "url": "https://zenvorixal.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E163",
@@ -260,7 +258,7 @@
       "url": "https://zenvorilax.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E165",
@@ -268,7 +266,7 @@
       "url": "https://norvalyrex.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E166",
@@ -276,7 +274,7 @@
       "url": "https://rivoxelir.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E167",
@@ -284,14 +282,14 @@
       "url": "https://kalyvexino.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E169",
       "shop": "Kindelora",
       "url": "https://www.etsy.com/shop/Kindelora",
       "status": "not_selling",
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E171",
@@ -299,7 +297,7 @@
       "url": "https://warmivon.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E172",
@@ -307,7 +305,7 @@
       "url": "https://www.etsy.com/shop/Aurelinx",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E173",
@@ -315,7 +313,7 @@
       "url": "https://xavelyn.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E177",
@@ -323,7 +321,7 @@
       "url": "https://qelvirox.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E180",
@@ -331,7 +329,7 @@
       "url": "https://qivorlyn.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E181",
@@ -339,7 +337,7 @@
       "url": "https://zynorqel.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E183",
@@ -347,7 +345,7 @@
       "url": "https://floravelyn.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E185",
@@ -355,7 +353,7 @@
       "url": "https://www.etsy.com/shop/Norivelledesign",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E187",
@@ -363,7 +361,7 @@
       "url": "https://lumestoryco.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E188",
@@ -371,7 +369,7 @@
       "url": "https://www.etsy.com/shop/Elorianestudio",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E189",
@@ -379,7 +377,7 @@
       "url": "https://velorinatelier.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E190",
@@ -387,7 +385,7 @@
       "url": "https://www.etsy.com/shop/Avenorhomely",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E192",
@@ -395,29 +393,30 @@
       "url": "https://lumestory.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E193",
       "shop": "HoanElly",
       "url": "https://www.etsy.com/shop/HoanElly",
       "status": "active",
-      "sales": 1162,
+      "sales": 1208,
       "rating": 4.5,
-      "reviews": 163,
+      "reviews": 169,
       "on_sale": true,
       "recent_reviews": [
-        "Milorad on Jul 31, 2026",
-        "Kerry on Jul 30, 2026",
-        "Etsy buyer on Jul 23, 2026",
+        "MBS on Aug 4, 2026",
+        "Rachel on Aug 4, 2026",
+        "Etsy buyer on Aug 2, 2026",
+        "Carly on Jul 21, 2026",
         "Ainsley on Jul 19, 2026",
         "Brian on Jul 8, 2026",
-        "Jana on Jul 6, 2026",
+        "Lauren on Jul 8, 2026",
         "Isabella on Jul 5, 2026",
         "Etsy buyer on Jul 4, 2026",
-        "Marcella on Jul 30, 2026"
+        "Vanessa on Jul 31, 2026"
       ],
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E194",
@@ -425,7 +424,7 @@
       "url": "https://foxeracoltd.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E195",
@@ -433,7 +432,7 @@
       "url": "https://www.etsy.com/shop/OrvantaArtStudio",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E196",
@@ -441,7 +440,7 @@
       "url": "https://www.etsy.com/shop/ElvoraDesignHouse",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E197",
@@ -449,7 +448,7 @@
       "url": "https://www.etsy.com/shop/VeltronaWorkshop",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E198",
@@ -457,7 +456,7 @@
       "url": "https://www.etsy.com/shop/NovarynCreations",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E199",
@@ -465,7 +464,7 @@
       "url": "https://www.etsy.com/shop/SolvaneCollective",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E200",
@@ -473,7 +472,7 @@
       "url": "https://www.etsy.com/shop/ArvelloCrafted",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E201",
@@ -481,15 +480,16 @@
       "url": "https://www.etsy.com/shop/LumetraDesigns",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E202",
       "shop": "NorviqueStudio",
       "url": "https://www.etsy.com/shop/NorviqueStudio",
-      "status": "active",
-      "on_sale": false,
-      "verified_at": "2026-08-01"
+      "status": "not_selling",
+      "prev_status": "active",
+      "prev_checked": "2026-08-01",
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E203",
@@ -497,15 +497,16 @@
       "url": "https://velmoracreative.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E204",
       "shop": "VelmorinStudio",
       "url": "https://www.etsy.com/shop/VelmorinStudio",
-      "status": "active",
-      "on_sale": false,
-      "verified_at": "2026-08-01"
+      "status": "not_selling",
+      "prev_status": "active",
+      "prev_checked": "2026-08-01",
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E205",
@@ -513,7 +514,7 @@
       "url": "https://www.etsy.com/shop/NorvellaCraft",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E206",
@@ -521,7 +522,7 @@
       "url": "https://www.etsy.com/shop/SolvantaDesign",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E207",
@@ -529,7 +530,7 @@
       "url": "https://www.etsy.com/shop/LunverraStudio",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E208",
@@ -537,7 +538,7 @@
       "url": "https://www.etsy.com/shop/VirelloCraftLab",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E217",
@@ -545,7 +546,7 @@
       "url": "https://nexmoradesigncollect.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E226",
@@ -553,7 +554,7 @@
       "url": "https://simpletonemarket.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E227",
@@ -561,7 +562,7 @@
       "url": "https://zenithformstudio.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E232",
@@ -569,7 +570,7 @@
       "url": "https://www.etsy.com/shop/SoftLightCollect",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E233",
@@ -577,7 +578,7 @@
       "url": "https://www.etsy.com/shop/PureGlowStudioX",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E235",
@@ -585,7 +586,7 @@
       "url": "https://www.etsy.com/shop/EchoLightStudio",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E236",
@@ -593,7 +594,7 @@
       "url": "https://www.etsy.com/shop/NuviroCraftWorks",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E237",
@@ -601,7 +602,7 @@
       "url": "https://www.etsy.com/shop/ElzoraStudioCo",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E238",
@@ -609,7 +610,7 @@
       "url": "https://www.etsy.com/shop/VantixoArtHouse",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E239",
@@ -617,18 +618,18 @@
       "url": "https://www.etsy.com/shop/OrvynCraftStudio",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E24",
       "shop": "Celivandora",
       "url": "https://www.etsy.com/shop/Celivandora",
       "status": "active",
-      "sales": 77,
+      "sales": 86,
       "rating": 3.5,
-      "reviews": 11,
+      "reviews": 12,
       "on_sale": true,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E240",
@@ -636,7 +637,7 @@
       "url": "https://www.etsy.com/shop/NexoraDesignLab",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E243",
@@ -644,7 +645,7 @@
       "url": "https://www.etsy.com/shop/PebloWorks",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E244",
@@ -652,7 +653,7 @@
       "url": "https://www.etsy.com/shop/MorbixLab",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E245",
@@ -660,7 +661,7 @@
       "url": "https://www.etsy.com/shop/SnurbiNest",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E246",
@@ -668,7 +669,7 @@
       "url": "https://www.etsy.com/shop/RoccaCraft",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E247",
@@ -676,7 +677,7 @@
       "url": "https://www.etsy.com/shop/BumboHouse",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E248",
@@ -684,7 +685,7 @@
       "url": "https://www.etsy.com/shop/KlimboArtCo",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E249",
@@ -692,7 +693,7 @@
       "url": "https://www.etsy.com/shop/NibloCraftCo",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E250",
@@ -700,7 +701,7 @@
       "url": "https://www.etsy.com/shop/DorbixStudio",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E252",
@@ -708,7 +709,7 @@
       "url": "https://www.etsy.com/shop/ToveliCraftCo",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E253",
@@ -716,7 +717,7 @@
       "url": "https://www.etsy.com/shop/OrbiloArtLab",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E254",
@@ -724,7 +725,7 @@
       "url": "https://www.etsy.com/shop/NorbixStudio",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E256",
@@ -732,30 +733,30 @@
       "url": "https://www.etsy.com/shop/SnugliArtCo",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E257",
       "shop": "VintagebyTung",
       "url": "https://www.etsy.com/shop/VintagebyTung",
       "status": "active",
-      "sales": 574,
+      "sales": 584,
       "rating": 4.5,
       "reviews": 80,
       "on_sale": true,
       "recent_reviews": [
-        "Deloris on Jun 11, 2026",
-        "Frank on Jun 9, 2026",
         "Morgan on Jul 27, 2026",
+        "Deborah on Jul 15, 2026",
+        "Florence on Apr 18, 2026",
         "Karen on Jul 26, 2026",
         "Douglas on Jul 20, 2026",
         "Jackie on Jul 18, 2026",
-        "Deborah on Jul 15, 2026",
         "Debra on Jul 14, 2026",
         "Linda on Jul 12, 2026",
-        "Catherine on Jul 3, 2026"
+        "Catherine on Jul 3, 2026",
+        "Janet on Jun 25, 2026"
       ],
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E258",
@@ -763,18 +764,18 @@
       "url": "https://velvetmoonstudio99.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E26",
       "shop": "Aurevanelis",
       "url": "https://www.etsy.com/shop/Aurevanelis",
       "status": "active",
-      "sales": 59,
+      "sales": 62,
       "rating": 2.5,
-      "reviews": 5,
+      "reviews": 6,
       "on_sale": true,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E260",
@@ -782,7 +783,7 @@
       "url": "https://cozynestshop1.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E261",
@@ -790,7 +791,7 @@
       "url": "https://whisperingbyvithi.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E262",
@@ -798,7 +799,7 @@
       "url": "https://velvetmaplestore.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E263",
@@ -806,7 +807,7 @@
       "url": "https://petalwildcrafts.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E264",
@@ -814,7 +815,7 @@
       "url": "https://littlebirchstudioart.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E265",
@@ -822,7 +823,7 @@
       "url": "https://urbanmeadowcoart.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E266",
@@ -830,7 +831,7 @@
       "url": "https://starlightbyesta.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E268",
@@ -838,7 +839,7 @@
       "url": "https://whimsicalcooart.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E269",
@@ -846,7 +847,7 @@
       "url": "https://vividclaystudio999.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E270",
@@ -854,7 +855,7 @@
       "url": "https://lunalittleart.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E271",
@@ -862,7 +863,7 @@
       "url": "https://cozycreaturedesign.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E272",
@@ -870,7 +871,7 @@
       "url": "https://aluvialeshopone.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E273",
@@ -878,7 +879,7 @@
       "url": "https://goldenfern9981run.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E274",
@@ -886,7 +887,7 @@
       "url": "https://sunnythreadsshop1111.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E275",
@@ -894,7 +895,7 @@
       "url": "https://rusticcharmss10.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E276",
@@ -902,7 +903,7 @@
       "url": "https://honeywillowsstudio.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E277",
@@ -910,7 +911,7 @@
       "url": "https://clayversecrafts.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E278",
@@ -918,7 +919,7 @@
       "url": "https://arcticglowforge.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E279",
@@ -926,7 +927,7 @@
       "url": "https://blueharborcraftsco.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E280",
@@ -934,7 +935,7 @@
       "url": "https://luminaresinstudio.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E284",
@@ -942,7 +943,7 @@
       "url": "https://crystalcurrentart.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E285",
@@ -950,7 +951,7 @@
       "url": "https://oceanicembercraft.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E286",
@@ -958,7 +959,7 @@
       "url": "https://auroraneststudiono1.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E287",
@@ -966,7 +967,7 @@
       "url": "https://driftwoodglowworks.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E288",
@@ -974,30 +975,30 @@
       "url": "https://aeromintstudio.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E29",
       "shop": "Velarionne",
       "url": "https://www.etsy.com/shop/Velarionne",
       "status": "active",
-      "sales": 707,
+      "sales": 719,
       "rating": 4.0,
-      "reviews": 102,
+      "reviews": 103,
       "on_sale": true,
       "recent_reviews": [
         "Tom on Jul 13, 2026",
         "Annmarie on Jul 5, 2026",
-        "Deb on Feb 20, 2026",
-        "Melissa on Feb 13, 2026",
+        "Michelle on Jul 1, 2026",
+        "Thomas on Jun 16, 2026",
+        "Meagan on May 19, 2026",
+        "Dennis on Aug 1, 2026",
         "Darlene on Jul 31, 2026",
         "Julie on Jul 30, 2026",
         "Jennifer on Jul 30, 2026",
-        "Inactive account on Jul 30, 2026",
-        "Felicitas on Jul 29, 2026",
-        "Bethany on Jul 29, 2026"
+        "Inactive account on Jul 30, 2026"
       ],
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E35",
@@ -1005,7 +1006,7 @@
       "url": "https://artiswovencrafts.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E38",
@@ -1013,7 +1014,7 @@
       "url": "https://novahollowshop.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E39",
@@ -1021,29 +1022,28 @@
       "url": "https://minthollowshop.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E4",
       "shop": "ThreadMelodia",
       "url": "https://www.etsy.com/shop/ThreadMelodia",
       "status": "active",
-      "sales": 681,
+      "sales": 706,
       "rating": 4.5,
-      "reviews": 114,
+      "reviews": 118,
       "on_sale": true,
       "recent_reviews": [
-        "sandra on Jul 11, 2026",
-        "Sheila on Jun 17, 2026",
-        "Richard on Jun 9, 2026",
-        "Carlos on Jul 31, 2026",
-        "joseph on Jul 26, 2026",
-        "Meghan on Jul 25, 2026",
-        "Fusco on Jul 14, 2026",
+        "Darlene on Aug 2, 2026",
         "Etsy buyer on Jul 14, 2026",
-        "Tom on Jul 13, 2026"
+        "sandra on Jul 11, 2026",
+        "Eric on Jul 4, 2026",
+        "Claudia on Jun 14, 2026",
+        "wsboettger on Aug 3, 2026",
+        "Carlos on Jul 31, 2026",
+        "joseph on Jul 26, 2026"
       ],
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E40",
@@ -1051,16 +1051,16 @@
       "url": "https://brightelmstudio.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E42",
       "shop": "GoldenMossWorks",
       "url": "https://www.etsy.com/shop/GoldenMossWorks",
-      "status": "active",
-      "reviews": 43,
-      "on_sale": false,
-      "verified_at": "2026-08-01"
+      "status": "not_selling",
+      "prev_status": "active",
+      "prev_checked": "2026-08-01",
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E43",
@@ -1070,7 +1070,7 @@
       "sales": 3,
       "reviews": 43,
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E44",
@@ -1078,7 +1078,7 @@
       "url": "https://wildferncreates.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E45",
@@ -1086,7 +1086,7 @@
       "url": "https://amberpeakco.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E46",
@@ -1094,14 +1094,14 @@
       "url": "https://tinysproutcraft.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E47",
       "shop": "BlueWillowWorks",
       "url": "https://www.etsy.com/shop/BlueWillowWorks",
       "status": "not_selling",
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E48",
@@ -1109,7 +1109,7 @@
       "url": "https://www.etsy.com/shop/StarlitCoveCo",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E49",
@@ -1117,7 +1117,7 @@
       "url": "https://harborleafstudio.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E50",
@@ -1125,7 +1125,7 @@
       "url": "https://willowsparkdesign.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E51",
@@ -1133,7 +1133,7 @@
       "url": "https://asterbloomco.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E52",
@@ -1141,7 +1141,7 @@
       "url": "https://moonharborstudio.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E53",
@@ -1149,7 +1149,7 @@
       "url": "https://velvetoakdesigns.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E54",
@@ -1157,7 +1157,7 @@
       "url": "https://puresproutstudio.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E55",
@@ -1165,7 +1165,7 @@
       "url": "https://www.etsy.com/shop/NovaBirchStudio",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E56",
@@ -1173,7 +1173,7 @@
       "url": "https://driftmoondesigns.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E61",
@@ -1181,7 +1181,7 @@
       "url": "https://www.etsy.com/shop/WillowPeakStudio",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E62",
@@ -1189,7 +1189,7 @@
       "url": "https://www.etsy.com/shop/MoonSprigDesigns",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E66",
@@ -1197,7 +1197,7 @@
       "url": "https://cedarmiststudio.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E73",
@@ -1205,7 +1205,7 @@
       "url": "https://zuvion.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E74",
@@ -1213,7 +1213,7 @@
       "url": "https://noryxel.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E75",
@@ -1221,7 +1221,7 @@
       "url": "https://kavixo.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E76",
@@ -1229,7 +1229,7 @@
       "url": "https://yexaro.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E77",
@@ -1237,7 +1237,7 @@
       "url": "https://www.etsy.com/shop/ZAVYNTA",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E78",
@@ -1245,7 +1245,7 @@
       "url": "https://nayqo.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E79",
@@ -1253,25 +1253,23 @@
       "url": "https://qerivo.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E80",
       "shop": "TORVEXA",
       "url": "https://www.etsy.com/shop/TORVEXA",
       "status": "active",
-      "reviews": 44,
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E81",
       "shop": "VELNIXA",
       "url": "https://www.etsy.com/shop/VELNIXA",
       "status": "active",
-      "reviews": 46,
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E82",
@@ -1279,7 +1277,7 @@
       "url": "https://rezviah.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E83",
@@ -1287,39 +1285,44 @@
       "url": "https://neuxa.etsy.com",
       "status": "active",
       "on_sale": false,
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E84",
       "shop": "ARVIXON",
       "url": "https://arvixon.etsy.com",
       "status": "not_selling",
-      "verified_at": "2026-08-01"
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E85",
       "shop": "NOVIXRA",
       "url": "https://www.etsy.com/shop/NOVIXRA",
-      "status": "not_selling",
-      "verified_at": "2026-08-01"
+      "status": "active",
+      "on_sale": false,
+      "prev_status": "not_selling",
+      "prev_checked": "2026-08-01",
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E92",
       "shop": "NoviForm",
       "url": "https://www.etsy.com/shop/NoviForm",
-      "status": "not_selling",
-      "prev_status": "active",
-      "prev_checked": "2026-07-31",
-      "verified_at": "2026-08-01"
+      "status": "active",
+      "on_sale": false,
+      "prev_status": "not_selling",
+      "prev_checked": "2026-08-01",
+      "verified_at": "2026-08-06"
     },
     {
       "code": "E93",
       "shop": "Arvyno",
       "url": "https://www.etsy.com/shop/Arvyno",
-      "status": "not_selling",
-      "prev_status": "active",
-      "prev_checked": "2026-07-31",
-      "verified_at": "2026-08-01"
+      "status": "active",
+      "on_sale": false,
+      "prev_status": "not_selling",
+      "prev_checked": "2026-08-01",
+      "verified_at": "2026-08-06"
     }
   ]
 }

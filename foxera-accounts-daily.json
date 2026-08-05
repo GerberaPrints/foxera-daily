@@ -41,10 +41,10 @@
       "action": "theo doi ACOS; test giam discount 45-50%; canh rating 4.3 nguong can thiep",
       "likert": 5,
       "priority": "P2",
-      "sales": 1162,
-      "reviews": 163,
+      "sales": 1208,
+      "reviews": 169,
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -61,10 +61,10 @@
       "action": "day 10-15 listing back-to-school teacher",
       "likert": 4,
       "priority": "P3",
-      "sales": 681,
-      "reviews": 114,
+      "sales": 706,
+      "reviews": 118,
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -81,10 +81,10 @@
       "action": "test nang tote $12.95-13.95; tach section Tote",
       "likert": 4,
       "priority": "P3",
-      "sales": 574,
+      "sales": 584,
       "reviews": 80,
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -102,10 +102,10 @@
       "action": "P1: sua listing acrylic ('printed acrylic not glass' + anh that + dong goi chong vo); KHONG scale Ads truoc khi sua; canh nguong 4.0",
       "likert": 3,
       "priority": "P1",
-      "sales": 707,
-      "reviews": 102,
+      "sales": 719,
+      "reviews": 103,
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser",
       "rating_note": "4.1 xac nhan bang mat nguoi (screenshot shop page 31/07 13:48). So 4.0 tu scraper = doc nham widget khac, DA SUA parser v5."
     },
@@ -124,9 +124,9 @@
       "likert": 3,
       "priority": "P3",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser",
-      "sales": 3,
+      "sales": 4,
       "reviews": 1
     },
     {
@@ -143,10 +143,10 @@
       "action": "KHONG bom Ads; neu giu phai thay toan bo anh sang anh that",
       "likert": 2,
       "priority": "P2",
-      "sales": 59,
-      "reviews": 5,
+      "sales": 62,
+      "reviews": 6,
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -163,10 +163,10 @@
       "action": "nghieng sang hat; sua anh neu giu suncatcher",
       "likert": 2,
       "priority": "P3",
-      "sales": 77,
-      "reviews": 11,
+      "sales": 86,
+      "reviews": 12,
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -182,7 +182,7 @@
       "likert": 2,
       "priority": "P3",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser",
       "sales": 3,
       "reviews": 43
@@ -199,8 +199,8 @@
       "action": "nhu E43 | LIVE giua song lien doi: khong tao them account tu cung moi truong; giu bank/thong tin sach; theo doi daily",
       "likert": 2,
       "priority": "P3",
-      "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser",
       "reviews": 43
     },
@@ -217,7 +217,7 @@
       "likert": 1,
       "priority": "P2",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -232,7 +232,7 @@
       "priority": "P2",
       "top_issue": "SUS co don (first order 2026-06-18) · bank OK",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -247,7 +247,7 @@
       "priority": "P2",
       "top_issue": "SUS co don (first order 2026-05-25) · bank OK",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -261,7 +261,7 @@
       "likert": 1,
       "priority": "P2",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -276,7 +276,7 @@
       "priority": "P2",
       "top_issue": "SUS co don (first order 2026-05-25) · bank OK",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -291,7 +291,7 @@
       "priority": "P2",
       "top_issue": "SUS co don (first order 2026-06-22) · bank OK",
       "shopStatus": "not_selling",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -306,8 +306,8 @@
       "priority": "P1",
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
-      "checkedAt": "2026-08-01",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -322,8 +322,8 @@
       "priority": "P1",
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
-      "checkedAt": "2026-08-01",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -338,8 +338,8 @@
       "priority": "P1",
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
-      "shopStatus": "not_selling",
-      "checkedAt": "2026-08-01",
+      "shopStatus": "active",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -355,7 +355,7 @@
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -371,7 +371,7 @@
       "seller": "Nga Phạm",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -387,7 +387,7 @@
       "seller": "Dâng Trần",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -403,7 +403,7 @@
       "seller": "Nga Phạm",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -419,7 +419,7 @@
       "seller": "Năng Phan",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -435,7 +435,7 @@
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -451,7 +451,7 @@
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -467,7 +467,7 @@
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -483,7 +483,7 @@
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -499,7 +499,7 @@
       "seller": "Dâng Trần",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -515,7 +515,7 @@
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -531,7 +531,7 @@
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -547,7 +547,7 @@
       "seller": "Ly Nguyễn",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -563,7 +563,7 @@
       "seller": "Minh Huỳnh",
       "provenance": "user registry 31/07 (STORE FIRST SALE)",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -572,7 +572,7 @@
       "tier": "B",
       "reviews": 46,
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -582,8 +582,8 @@
       "sales": 2,
       "rating": 5.0,
       "reviews": 1,
-      "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -592,7 +592,7 @@
       "tier": "B",
       "reviews": 44,
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -600,7 +600,7 @@
       "shop": "VantixoArtHouse",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -608,7 +608,7 @@
       "shop": "ElzoraStudioCo",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -616,7 +616,7 @@
       "shop": "NuviroCraftWorks",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -624,7 +624,7 @@
       "shop": "velorinatelier",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -632,7 +632,7 @@
       "shop": "zenvorilax",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -640,7 +640,7 @@
       "shop": "kalverixo",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -648,7 +648,7 @@
       "shop": "auviramarket",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -656,7 +656,7 @@
       "shop": "norvynstudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -664,7 +664,7 @@
       "shop": "vyxanore",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -672,7 +672,7 @@
       "shop": "zyvexora",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -680,7 +680,7 @@
       "shop": "cedarmiststudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -688,7 +688,7 @@
       "shop": "artiswovencrafts",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -696,7 +696,7 @@
       "shop": "aeromintstudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -704,7 +704,7 @@
       "shop": "NexoraDesignLab",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -712,7 +712,7 @@
       "shop": "OrvynCraftStudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -720,7 +720,7 @@
       "shop": "LumetraDesigns",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -728,7 +728,7 @@
       "shop": "ArvelloCrafted",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -736,7 +736,7 @@
       "shop": "SolvaneCollective",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -744,7 +744,7 @@
       "shop": "NovarynCreations",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -752,7 +752,7 @@
       "shop": "VeltronaWorkshop",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -760,7 +760,7 @@
       "shop": "ElvoraDesignHouse",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -768,7 +768,7 @@
       "shop": "lumestoryco",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -776,7 +776,7 @@
       "shop": "qivorlyn",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -784,7 +784,7 @@
       "shop": "rivoxelir",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -792,7 +792,7 @@
       "shop": "norvalyrex",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -800,7 +800,7 @@
       "shop": "xavonetra",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -808,7 +808,7 @@
       "shop": "velorixan",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -816,7 +816,7 @@
       "shop": "qarvynox",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -824,7 +824,7 @@
       "shop": "velqirax",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -832,7 +832,7 @@
       "shop": "zelviroq",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -840,7 +840,7 @@
       "shop": "yexaro",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -848,7 +848,7 @@
       "shop": "kavixo",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -856,7 +856,7 @@
       "shop": "noryxel",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -864,7 +864,7 @@
       "shop": "zuvion",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -872,7 +872,7 @@
       "shop": "velvetoakdesigns",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -880,7 +880,7 @@
       "shop": "moonharborstudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -888,7 +888,7 @@
       "shop": "harborleafstudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -896,7 +896,7 @@
       "shop": "tinysproutcraft",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -904,7 +904,7 @@
       "shop": "LunverraStudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -912,7 +912,7 @@
       "shop": "SolvantaDesign",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -920,15 +920,15 @@
       "shop": "NorvellaCraft",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E204",
       "shop": "VelmorinStudio",
       "tier": "B",
-      "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -936,15 +936,15 @@
       "shop": "velmoracreative",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
       "code": "E202",
       "shop": "NorviqueStudio",
       "tier": "B",
-      "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "shopStatus": "not_selling",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -952,7 +952,7 @@
       "shop": "kalyvexino",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -960,7 +960,7 @@
       "shop": "norvaxilo",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -968,7 +968,7 @@
       "shop": "brivonstudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -976,7 +976,7 @@
       "shop": "koryvexa",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -984,7 +984,7 @@
       "shop": "zelvoryx",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -992,7 +992,7 @@
       "shop": "OrvantaArtStudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1000,7 +1000,7 @@
       "shop": "Zynorqel",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1008,7 +1008,7 @@
       "shop": "Xavelyn",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1016,7 +1016,7 @@
       "shop": "NAYQO",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1024,7 +1024,7 @@
       "shop": "driftmoondesigns",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1032,7 +1032,7 @@
       "shop": "puresproutstudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1040,7 +1040,7 @@
       "shop": "asterbloomco",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1048,7 +1048,7 @@
       "shop": "willowsparkdesign",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1056,7 +1056,7 @@
       "shop": "brightelmstudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1064,7 +1064,7 @@
       "shop": "minthollowshop",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1072,7 +1072,7 @@
       "shop": "novahollowshop",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1080,7 +1080,7 @@
       "shop": "floravelyn",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1088,7 +1088,7 @@
       "shop": "EchoLightStudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1096,7 +1096,7 @@
       "shop": "PureGlowStudioX",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1104,7 +1104,7 @@
       "shop": "SoftLightCollect",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1112,7 +1112,7 @@
       "shop": "VirelloCraftLab",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1120,7 +1120,7 @@
       "shop": "lumestory",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1128,7 +1128,7 @@
       "shop": "qelvirox",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1136,7 +1136,7 @@
       "shop": "warmivon",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1144,7 +1144,7 @@
       "shop": "zenvorixal",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1152,7 +1152,7 @@
       "shop": "zanvix",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1160,7 +1160,7 @@
       "shop": "kenvix",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1168,7 +1168,7 @@
       "shop": "zyvankor",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1176,7 +1176,7 @@
       "shop": "xenavory",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1184,7 +1184,7 @@
       "shop": "velqoryn",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1192,7 +1192,7 @@
       "shop": "qalvirox",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1200,7 +1200,7 @@
       "shop": "neuxa",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1208,7 +1208,7 @@
       "shop": "rezviah",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1216,7 +1216,7 @@
       "shop": "qerivo",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1224,7 +1224,7 @@
       "shop": "amberpeakco",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1232,7 +1232,7 @@
       "shop": "wildferncreates",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1240,7 +1240,7 @@
       "shop": "BumboHouse",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1248,7 +1248,7 @@
       "shop": "RoccaCraft",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1256,7 +1256,7 @@
       "shop": "SnurbiNest",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1264,7 +1264,7 @@
       "shop": "MorbixLab",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1272,7 +1272,7 @@
       "shop": "PebloWorks",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1280,7 +1280,7 @@
       "shop": "zenithformstudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1288,7 +1288,7 @@
       "shop": "nexmoradesigncollect",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1296,7 +1296,7 @@
       "shop": "goldenfern9981run",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1304,7 +1304,7 @@
       "shop": "aluvialeshopone",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1312,7 +1312,7 @@
       "shop": "cozycreaturedesign",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1320,7 +1320,7 @@
       "shop": "lunalittleart",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1328,7 +1328,7 @@
       "shop": "vividclaystudio999",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1336,7 +1336,7 @@
       "shop": "whimsicalcooart",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1344,7 +1344,7 @@
       "shop": "starlightbyesta",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1352,7 +1352,7 @@
       "shop": "urbanmeadowcoart",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1360,7 +1360,7 @@
       "shop": "littlebirchstudioart",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1368,7 +1368,7 @@
       "shop": "petalwildcrafts",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1376,7 +1376,7 @@
       "shop": "velvetmaplestore",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1384,7 +1384,7 @@
       "shop": "whisperingbyvithi",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1392,7 +1392,7 @@
       "shop": "cozynestshop1",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1400,7 +1400,7 @@
       "shop": "velvetmoonstudio99",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1408,7 +1408,7 @@
       "shop": "SnugliArtCo",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1416,7 +1416,7 @@
       "shop": "NorbixStudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1424,7 +1424,7 @@
       "shop": "OrbiloArtLab",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1432,7 +1432,7 @@
       "shop": "ToveliCraftCo",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1440,7 +1440,7 @@
       "shop": "DorbixStudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1448,7 +1448,7 @@
       "shop": "NibloCraftCo",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1456,7 +1456,7 @@
       "shop": "KlimboArtCo",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1464,7 +1464,7 @@
       "shop": "simpletonemarket",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1472,7 +1472,7 @@
       "shop": "foxeracoltd",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1480,7 +1480,7 @@
       "shop": "luminaresinstudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1488,7 +1488,7 @@
       "shop": "blueharborcraftsco",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1496,7 +1496,7 @@
       "shop": "arcticglowforge",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1504,7 +1504,7 @@
       "shop": "clayversecrafts",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1512,7 +1512,7 @@
       "shop": "honeywillowsstudio",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1520,7 +1520,7 @@
       "shop": "rusticcharmss10",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1528,7 +1528,7 @@
       "shop": "sunnythreadsshop1111",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1536,7 +1536,7 @@
       "shop": "driftwoodglowworks",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1544,7 +1544,7 @@
       "shop": "auroraneststudiono1",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1552,7 +1552,7 @@
       "shop": "oceanicembercraft",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     },
     {
@@ -1560,7 +1560,7 @@
       "shop": "crystalcurrentart",
       "tier": "B",
       "shopStatus": "active",
-      "checkedAt": "2026-08-01",
+      "checkedAt": "2026-08-06",
       "fetch_provenance": "live_local_browser"
     }
   ],
@@ -1595,5 +1595,5 @@
     "freshness_rule": "checkedAt >7 ngay = carry, Hub nen hien thi kem moc ngay",
     "recommendation_note": "action (de xuat xu ly) + priority (P1-P4) + top_issue: Hub nen map vao cot 'De xuat (Claude)' trong sheet Accounts de team thay ngay trong he thong, khong chi Telegram."
   },
-  "shops_live_merged_at": "2026-08-01"
+  "shops_live_merged_at": "2026-08-06"
 }
