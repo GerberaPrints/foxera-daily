@@ -1,0 +1,27 @@
+{
+  "_doc": "FoxEra Meta demand baseline (US). NEW data asset created 2026-08-05 khi Pipeboard mở lại US-only. Nguồn duy nhất so sánh được = estimate_audience_size (optimization_goal=REACH, US 18-65). CẤM dùng field audience_size cua search_interests lam so 'global' de tinh ty le US/global — 2 he do KHAC METHOD (bang chung: Pickleball search_global 1.03M < US_reach 15.25M => vo ly). search_interests audience_size = deprecated/unreliable, chi giu de tra interest_id. Bot doc file nay moi ngay, goi lai estimate cho tung id, ghi Δ vs last_run.",
+  "account_id": "act_1635419550630846",
+  "method": {
+    "canonical_metric": "estimate_audience_size REACH, geo US, age 18-65, single interest in flexible_spec",
+    "unit": "potential ad reach (nguoi), KHONG phai so ban / so review",
+    "comparable": "cac dong trong us_reach so sanh duoc voi nhau (cung method); KHONG so voi global_search_size",
+    "global_search_size": "search_interests.audience_size — UNRELIABLE, chi tham khao, KHONG tinh ty le"
+  },
+  "last_run": "2026-08-05",
+  "interests": [
+    {"key": "gardening_plantlady", "meta_id": "6003053056644", "meta_name": "Gardening", "us_reach_lower": 70600000, "us_reach_upper": 83100000, "us_reach_est": 76850000, "global_search_lower": 356451726, "global_search_upper": 419187230, "verified_at": "2026-08-05", "note": "clean; plant lady/gardener; tep RAT rong"},
+    {"key": "golf_hobbydad", "meta_id": "6003510075864", "meta_name": "Golf", "us_reach_lower": 58500000, "us_reach_upper": 68900000, "us_reach_est": 63700000, "global_search_lower": 264069122, "global_search_upper": 310545288, "verified_at": "2026-08-05", "note": "clean; hobby-dad/men tepe cho Brooched patch"},
+    {"key": "embroidery_core", "meta_id": "6003291970911", "meta_name": "Embroidery", "us_reach_lower": 26900000, "us_reach_upper": 31600000, "us_reach_est": 29250000, "global_search_lower": 103775841, "global_search_upper": 122040390, "verified_at": "2026-08-05", "note": "clean; ADN core"},
+    {"key": "halloween_seasonal", "meta_id": "6003074016139", "meta_name": "Halloween", "us_reach_lower": 25600000, "us_reach_upper": 30100000, "us_reach_est": 27850000, "global_search_lower": 113406139, "global_search_upper": 133365620, "verified_at": "2026-08-05", "note": "clean; seasonal ramp T8"},
+    {"key": "pickleball", "meta_id": "6003446666731", "meta_name": "Pickleball", "us_reach_lower": 14000000, "us_reach_upper": 16500000, "us_reach_est": 15250000, "global_search_lower": 1026275, "global_search_upper": 1206900, "verified_at": "2026-08-05", "note": "clean; BANG CHUNG method khac: global_search 1.03M < us_reach 15.25M"},
+    {"key": "matcha", "meta_id": "6003117735068", "meta_name": "Matcha", "us_reach_lower": 12600000, "us_reach_upper": 14800000, "us_reach_est": 13700000, "global_search_lower": 21997091, "global_search_upper": 25868580, "verified_at": "2026-08-05", "note": "clean; hot aesthetic"},
+    {"key": "cats_musicgenre_proxy", "meta_id": "6003127708245", "meta_name": "Cats", "us_reach_lower": 3100000, "us_reach_upper": 3600000, "us_reach_est": 3350000, "global_search_lower": 5797551, "global_search_upper": 6817920, "verified_at": "2026-08-05", "note": "DISAMBIG = music genre, KHONG phai cat-lover sach; chi proxy, gan co ⚠️"},
+    {"key": "book_lovers", "meta_id": "6003182899522", "meta_name": "Book Lovers", "us_reach_lower": 221700, "us_reach_upper": 260800, "us_reach_est": 241250, "global_search_lower": 1710767, "global_search_upper": 2011863, "verified_at": "2026-08-05", "note": "clean nhung tep FB HEP; poetcore that rong hon -> day qua phu kien, khong nham FB-interest hep"}
+  ],
+  "no_clean_interest": [
+    {"query": "Back to School", "issue": "tra ve interest PHIM (disambiguation) 2.33-2.74M — KHONG phai tin hieu mua sam"},
+    {"query": "Nurse", "issue": "tra ve 'Plant nursery' / 'Nursery rhyme' — khong co interest nghe Nurse sach"},
+    {"query": "Dog", "issue": "tra ve 'Dogs (British band)' / 'Snoop Dogg' — khong co pet-dog sach; tim 'Dog' khac hoac dung behavior"}
+  ],
+  "next_ids_to_add": ["Grandparents (National Grandparents Day)", "Coffee/Autumn proxy", "Romance novels/romantasy", "National Parks", "Coastal grandma", "Running/run club", "Pilates"]
+}
