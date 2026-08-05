@@ -1,45 +1,54 @@
 {
   "project": "foxera",
-  "verified_at": "2026-07-29",
+  "verified_at": "2026-08-05",
   "locale": "US/USD",
   "provenance": "live_local_browser",
   "listings": [
     {
-      "listing_id": "1808392997",
-      "url": "https://www.etsy.com/listing/1808392997",
-      "title": "Embroidered Fall Crewneck: Maple Leaf, Pumpkin Spice, Autumn-Themed Apparel",
-      "reviews_listing": 13395,
-      "price": 17.54,
+      "listing_id": "4353297211",
+      "url": "https://www.etsy.com/listing/4353297211",
+      "title": "Embroidery Ghost Cat Sweatshirt, Embroidered Halloween Cats Sweatshirt, Embroidered Halloween Sweatshirt, Embroidery Cat",
+      "reviews_listing": 8051,
+      "currency": "VND",
+      "price_note": "bo_gia_vi_currency_VND",
+      "status": "live"
+    },
+    {
+      "listing_id": "1798209889",
+      "url": "https://www.etsy.com/listing/1798209889",
+      "title": "Embroidered Ghost Cat Sweatshirt: Halloween Pumpkin Crew Neck",
+      "reviews_listing": 5,
+      "price": 23.17,
       "currency": "USD",
       "status": "live"
     },
     {
-      "listing_id": "4372273258",
-      "url": "https://www.etsy.com/listing/4372273258",
-      "title": "Cozy Bookish Fall Vibes Sweatshirt: Pumpkin Spice, Coffee, and Books",
-      "price": 15.0,
+      "listing_id": "1462105990",
+      "url": "https://www.etsy.com/listing/1462105990",
+      "title": "Embroidered Ghost Sweatshirt, Halloween Sweatshirt, Black Cat, Fall Sweatshirt for Women, Halloween Crewneck, Ghost Shir",
+      "reviews_listing": 812,
+      "price": 36.57,
       "currency": "USD",
       "status": "live"
     },
     {
-      "listing_id": "4348610286",
-      "url": "https://www.etsy.com/listing/4348610286",
-      "title": "Cozy Season Embroidered Sweatshirt - Crewneck, Fall, Christmas, Autumn, Coffee, Pumpkins, Leaves",
-      "reviews_listing": 3875,
-      "price": 38.0,
+      "listing_id": "1523578403",
+      "url": "https://www.etsy.com/listing/1523578403",
+      "title": "Cat Ghost Embroidered Sweatshirt, Adult Unisex, Halloween Marble Crewneck, Spooky & Cute Sheet Ghost, Embroidery Gift, C",
+      "reviews_listing": 1,
+      "price": 45.0,
       "currency": "USD",
       "status": "live"
     },
     {
-      "listing_id": "4339783239",
-      "url": "https://www.etsy.com/listing/4339783239",
-      "status": "error:Error"
-    },
-    {
-      "listing_id": "4336064749",
-      "url": "https://www.etsy.com/listing/4336064749",
-      "status": "error:Error"
+      "listing_id": "4448058680",
+      "url": "https://www.etsy.com/listing/4448058680",
+      "title": "Monster Romance Sweatshirt Romantasy Merch Booktok Merch Bookstagram Shirt Book Club Library Shirt Gift For Book Lovers",
+      "reviews_listing": 1883,
+      "price": 38.94,
+      "currency": "USD",
+      "status": "live"
     }
   ],
-  "live_count": 3
+  "live_count": 5
 }
