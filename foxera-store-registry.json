@@ -1,1251 +1,1281 @@
 {
-  "updated": "2026-07-31",
-  "source": "User paste 31/07/2026 'FOXERA-ETSY STORE FIRST SALE' — nguồn chuẩn store→seller→status. Đã chuẩn hoá tên seller theo canon Hub (TRELLO_ALIAS/ROSTER_SHORT).",
-  "standard": "FoxEra v1.0: SUS+bank NO = P1 🔴 · SUS+bank OK = P2 🟠 · SUS NEW chủ đã nghỉ = P2 🟠 (bàn giao) · SUS NEW chủ đang làm = P3 🟡 · LIVE = P4 🟢 theo dõi",
-  "seller_canon": {
-    "Seller01": "Dâng Trần",
-    "Seller02": "Minh Huỳnh",
-    "Seller04": "Nga Phạm",
-    "Seller06": "Năng Phan",
-    "Seller09": "Ly Nguyễn",
-    "Trúc Ly": "Ly Nguyễn",
-    "Thị Năng": "Năng Phan",
-    "Nhật Minh": "Minh Huỳnh",
-    "Trương Dâng": "Dâng Trần",
-    "Tường Vy": "Vy Đặng",
-    "Thanh Thúy": "Thúy Trần",
-    "Hoài Thu": "Thu Trương",
-    "Thúy Ngân": "(Ngân — chưa rõ Trần/Huỳnh)",
-    "Seller10": "Vy Đặng",
-    "Seller11": "Thu Trương",
-    "Seller13": "Hằng Trần",
-    "Seller08": "Tuấn Nguyễn",
-    "Seller03": "Linh Nguyễn"
+ "updated": "2026-08-06",
+ "source": "User paste 31/07/2026 'FOXERA-ETSY STORE FIRST SALE' — nguồn chuẩn store→seller→status. Đã chuẩn hoá tên seller theo canon Hub (TRELLO_ALIAS/ROSTER_SHORT).",
+ "standard": "FoxEra v1.0: SUS+bank NO = P1 🔴 · SUS+bank OK = P2 🟠 · SUS NEW chủ đã nghỉ = P2 🟠 (bàn giao) · SUS NEW chủ đang làm = P3 🟡 · LIVE = P4 🟢 theo dõi",
+ "seller_canon": {
+  "Seller01": "Dâng Trần",
+  "Seller02": "Minh Huỳnh",
+  "Seller04": "Nga Phạm",
+  "Seller06": "Năng Phan",
+  "Seller09": "Ly Nguyễn",
+  "Trúc Ly": "Ly Nguyễn",
+  "Thị Năng": "Năng Phan",
+  "Nhật Minh": "Minh Huỳnh",
+  "Trương Dâng": "Dâng Trần",
+  "Tường Vy": "Vy Đặng",
+  "Thanh Thúy": "Thúy Trần",
+  "Hoài Thu": "Thu Trương",
+  "Thúy Ngân": "(Ngân — chưa rõ Trần/Huỳnh)",
+  "Seller10": "Vy Đặng",
+  "Seller11": "Thu Trương",
+  "Seller13": "Hằng Trần",
+  "Seller08": "Tuấn Nguyễn",
+  "Seller03": "Linh Nguyễn"
+ },
+ "sellers_left": {
+  "Nga Phạm": "30/06/2026",
+  "Năng Phan": "30/06/2026",
+  "Thúy Trần": "29/07/2026",
+  "Ngân Trần": "15/06/2026",
+  "Ngân Huỳnh": "24/07/2026",
+  "Giang Nguyễn": "05/2026"
+ },
+ "live": [
+  {
+   "code": "E135",
+   "shop": "VDKHandmade",
+   "seller": "Dâng Trần",
+   "seller_key": "Seller01",
+   "seller_status": "đang làm",
+   "first_order": "2026-05-11"
   },
-  "sellers_left": {
-    "Nga Phạm": "30/06/2026",
-    "Năng Phan": "30/06/2026",
-    "Thúy Trần": "29/07/2026",
-    "Ngân Trần": "15/06/2026",
-    "Ngân Huỳnh": "24/07/2026",
-    "Giang Nguyễn": "05/2026"
+  {
+   "code": "E42",
+   "shop": "GoldenMossWorks",
+   "seller": "Năng Phan",
+   "seller_key": "Seller06",
+   "seller_status": "nghỉ 30/06/2026",
+   "first_order": "2026-05-31"
   },
-  "live": [
-    {
-      "code": "E135",
-      "shop": "VDKHandmade",
-      "seller": "Dâng Trần",
-      "seller_key": "Seller01",
-      "seller_status": "đang làm",
-      "first_order": "2026-05-11"
-    },
-    {
-      "code": "E42",
-      "shop": "GoldenMossWorks",
-      "seller": "Năng Phan",
-      "seller_key": "Seller06",
-      "seller_status": "nghỉ 30/06/2026",
-      "first_order": "2026-05-31"
-    },
-    {
-      "code": "E43",
-      "shop": "DreamPineCo",
-      "seller": "Năng Phan",
-      "seller_key": "Seller06",
-      "seller_status": "nghỉ 30/06/2026",
-      "first_order": "2026-06-08"
-    },
-    {
-      "code": "E81",
-      "shop": "VELNIXA",
-      "seller": "Năng Phan",
-      "seller_key": "Seller06",
-      "seller_status": "nghỉ 30/06/2026",
-      "first_order": "2026-06-25"
-    },
-    {
-      "code": "E119",
-      "shop": "Zyvorexa",
-      "seller": "Minh Huỳnh",
-      "seller_key": "Seller02",
-      "seller_status": "đang làm",
-      "first_order": "2026-06-26"
-    },
-    {
-      "code": "E80",
-      "shop": "TORVEXA",
-      "seller": "Năng Phan",
-      "seller_key": "Seller06",
-      "seller_status": "nghỉ 30/06/2026",
-      "first_order": "2026-06-28"
-    }
-  ],
-  "sus_with_sales": [
-    {
-      "code": "E85",
-      "shop": "NOVIXRA",
-      "seller": "Ly Nguyễn",
-      "seller_key": "Seller09",
-      "seller_status": "đang làm",
-      "first_order": "2026-06-05",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E93",
-      "shop": "Arvyno",
-      "seller": "Minh Huỳnh",
-      "seller_key": "Seller02",
-      "seller_status": "đang làm",
-      "first_order": "2026-06-05",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E92",
-      "shop": "NoviForm",
-      "seller": "Minh Huỳnh",
-      "seller_key": "Seller02",
-      "seller_status": "đang làm",
-      "first_order": "2026-06-14",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E55",
-      "shop": "NovaBirchStudio",
-      "seller": "Minh Huỳnh",
-      "seller_key": "Seller02",
-      "seller_status": "đang làm",
-      "first_order": "2026-06-16",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E62",
-      "shop": "MoonSprigDesigns",
-      "seller": "Nga Phạm",
-      "seller_key": "Seller04",
-      "seller_status": "nghỉ 30/06/2026",
-      "first_order": "2026-06-29",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E188",
-      "shop": "Elorianestudio",
-      "seller": "Minh Huỳnh",
-      "seller_key": "Seller02",
-      "seller_status": "đang làm",
-      "first_order": "2026-06-29",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E172",
-      "shop": "Aurelinx",
-      "seller": "Dâng Trần",
-      "seller_key": "Seller01",
-      "seller_status": "đang làm",
-      "first_order": "2026-07-03",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E61",
-      "shop": "WillowPeakStudio",
-      "seller": "Nga Phạm",
-      "seller_key": "Seller04",
-      "seller_status": "nghỉ 30/06/2026",
-      "first_order": "2026-07-03",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E127",
-      "shop": "Xaloryva",
-      "seller": "Năng Phan",
-      "seller_key": "Seller06",
-      "seller_status": "nghỉ 30/06/2026",
-      "first_order": "2026-07-06",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E146",
-      "shop": "LUNAVEXOR",
-      "seller": "Ly Nguyễn",
-      "seller_key": "Seller09",
-      "seller_status": "đang làm",
-      "first_order": "2026-07-10",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E155",
-      "shop": "Valnexiro",
-      "seller": "Ly Nguyễn",
-      "seller_key": "Seller09",
-      "seller_status": "đang làm",
-      "first_order": "2026-07-15",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E190",
-      "shop": "Avenorhomely",
-      "seller": "Ly Nguyễn",
-      "seller_key": "Seller09",
-      "seller_status": "đang làm",
-      "first_order": "2026-07-15",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E107",
-      "shop": "Xenavyra",
-      "seller": "Ly Nguyễn",
-      "seller_key": "Seller09",
-      "seller_status": "đang làm",
-      "first_order": "2026-07-25",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E77",
-      "shop": "ZAVYNTA",
-      "seller": "Minh Huỳnh",
-      "seller_key": "Seller02",
-      "seller_status": "đang làm",
-      "first_order": "2026-07-26",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E150",
-      "shop": "Elvarixo",
-      "seller": "Minh Huỳnh",
-      "seller_key": "Seller02",
-      "seller_status": "đang làm",
-      "first_order": "2026-07-28",
-      "bank_verified": false,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P1"
-    },
-    {
-      "code": "E48",
-      "shop": "StarlitCoveCo",
-      "seller": "Dâng Trần",
-      "seller_key": "Seller01",
-      "seller_status": "đang làm",
-      "first_order": "2026-04-29",
-      "bank_verified": true,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P2"
-    },
-    {
-      "code": "E84",
-      "shop": "ARVIXON",
-      "seller": "Ly Nguyễn",
-      "seller_key": "Seller09",
-      "seller_status": "đang làm",
-      "first_order": "2026-05-25",
-      "bank_verified": true,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P2"
-    },
-    {
-      "code": "E114",
-      "shop": "Zyvaneli",
-      "seller": "Dâng Trần",
-      "seller_key": "Seller01",
-      "seller_status": "đang làm",
-      "first_order": "2026-05-25",
-      "bank_verified": true,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P2"
-    },
-    {
-      "code": "E109",
-      "shop": "Zarvynix",
-      "seller": "Năng Phan",
-      "seller_key": "Seller06",
-      "seller_status": "nghỉ 30/06/2026",
-      "first_order": "2026-06-17",
-      "bank_verified": true,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P2"
-    },
-    {
-      "code": "E169",
-      "shop": "Kindelora",
-      "seller": "Minh Huỳnh",
-      "seller_key": "Seller02",
-      "seller_status": "đang làm",
-      "first_order": "2026-06-18",
-      "bank_verified": true,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P2"
-    },
-    {
-      "code": "E47",
-      "shop": "BlueWillowWorks",
-      "seller": "Dâng Trần",
-      "seller_key": "Seller01",
-      "seller_status": "đang làm",
-      "first_order": "2026-06-22",
-      "bank_verified": true,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P2"
-    },
-    {
-      "code": "E185",
-      "shop": "Norivelledesign",
-      "seller": "Ly Nguyễn",
-      "seller_key": "Seller09",
-      "seller_status": "đang làm",
-      "first_order": "2026-07-05",
-      "bank_verified": true,
-      "fix_status": "NOT_FIX",
-      "fix_deadline": "2026-07-20",
-      "overdue_days": 11,
-      "priority": "P2"
-    }
-  ],
-  "sus_new": [
-    {
-      "owner_raw": "Trúc Ly",
-      "owner": "Ly Nguyễn",
-      "owner_status": "đang làm",
-      "codes": [
-        "E238",
-        "E237",
-        "E236"
-      ],
-      "shops": {
-        "E238": "VantixoArtHouse",
-        "E237": "ElzoraStudioCo",
-        "E236": "NuviroCraftWorks"
-      }
-    },
-    {
-      "owner_raw": "Thị Năng",
-      "owner": "Năng Phan",
-      "owner_status": "nghỉ 30/06/2026",
-      "codes": [
-        "E235",
-        "E233",
-        "E232",
-        "E208"
-      ],
-      "shops": {
-        "E235": "EchoLightStudio",
-        "E233": "PureGlowStudioX",
-        "E232": "SoftLightCollect",
-        "E208": "VirelloCraftLab"
-      }
-    },
-    {
-      "owner_raw": "Nhật Minh",
-      "owner": "Minh Huỳnh",
-      "owner_status": "đang làm",
-      "codes": [
-        "E202",
-        "E204",
-        "E205",
-        "E206",
-        "E207"
-      ],
-      "shops": {
-        "E202": "NorviqueStudio",
-        "E204": "VelmorinStudio",
-        "E205": "NorvellaCraft",
-        "E206": "SolvantaDesign",
-        "E207": "LunverraStudio"
-      }
-    },
-    {
-      "owner_raw": "Trương Dâng",
-      "owner": "Dâng Trần",
-      "owner_status": "đang làm",
-      "codes": [
-        "E195",
-        "E196",
-        "E197",
-        "E198",
-        "E199",
-        "E200",
-        "E201",
-        "E239",
-        "E240"
-      ],
-      "shops": {
-        "E196": "ElvoraDesignHouse",
-        "E197": "VeltronaWorkshop",
-        "E198": "NovarynCreations",
-        "E199": "SolvaneCollective",
-        "E200": "ArvelloCrafted",
-        "E201": "LumetraDesigns",
-        "E239": "OrvynCraftStudio",
-        "E240": "NexoraDesignLab",
-        "E195": "OrvantaArtStudio"
-      }
-    },
-    {
-      "owner_raw": "Tường Vy",
-      "owner": "Vy Đặng",
-      "owner_status": "đang làm",
-      "codes": [
-        "E248",
-        "E249",
-        "E250",
-        "E252",
-        "E253",
-        "E254",
-        "E256"
-      ],
-      "shops": {
-        "E248": "KlimboArtCo",
-        "E249": "NibloCraftCo",
-        "E250": "DorbixStudio",
-        "E252": "ToveliCraftCo",
-        "E253": "OrbiloArtLab",
-        "E254": "NorbixStudio",
-        "E256": "SnugliArtCo"
-      }
-    },
-    {
-      "owner_raw": "Thanh Thúy",
-      "owner": "Thúy Trần",
-      "owner_status": "nghỉ 29/07/2026",
-      "codes": [
-        "E243",
-        "E244",
-        "E245",
-        "E246",
-        "E247"
-      ],
-      "shops": {
-        "E243": "PebloWorks",
-        "E244": "MorbixLab",
-        "E245": "SnurbiNest",
-        "E246": "RoccaCraft",
-        "E247": "BumboHouse"
-      }
-    },
-    {
-      "owner_raw": "Hoài Thu",
-      "owner": "Thu Trương",
-      "owner_status": "đang làm",
-      "codes": [
-        "E259"
-      ],
-      "note": "E254 user chốt 31/07 thuộc Vy Đặng — bỏ khỏi Hoài Thu"
-    },
-    {
-      "owner_raw": "Thúy Ngân",
-      "owner": "Ngân Huỳnh",
-      "owner_status": "nghỉ 24/07/2026",
-      "codes": [
-        "E267"
-      ],
-      "note": "Hub chốt 31/07: E267 = Ngân Huỳnh (evidence: board Trello ETSY-F12 'HUỲNH THỊ THÚY NGÂN')"
-    }
-  ],
-  "data_quality_flags": [
-    "SUS NEW ghi TỔNG 37 nhưng liệt kê 36 dòng / 35 mã duy nhất — thiếu 1-2 mã so với tiêu đề",
-    "Nguồn gõ 'VERY BANK' — hiểu là VERIFY BANK; 'E150Elvarixo' thiếu dấu gạch — đã chuẩn hoá E150-Elvarixo",
-    "Cả 22 shop SUS đều NOT FIX, hạn TIME FIX 20/07/2026 đã QUÁ 11 ngày (0/22 xử lý)",
-    "4 store LIVE của Năng Phan (E42,E43,E81,E80) + 1 SUS-bank-NO của Nga Phạm... — chủ đã nghỉ 30/06 → cần bàn giao người mới",
-    "Email đúng chính tả gốc: seller02foxeraA (2 chữ a), seller13.foxera (có dấu chấm) — map login phải dùng nguyên văn",
-    "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
-    "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
-    "31/07 23h: LINK PHU KIN 100% — khong con ma mu. store_links_extra + roster + registry = toan bo ma da biet deu quet duoc tu 04:00 mai.",
-    "Theo operator_policy: cac ma moi trong store_links_extra mac dinh 'chua co nguoi dam nhan' cho den khi user/report gan — khong hoi lai.",
-    "Link dot 7 (31/07 dem): +24 (nhom Thi Nang named du; ma moi: E82, E83, E106, E108, E120, E128, E140, E143, E156, E171, E177, E192)",
-    "Ghi chu E194 = foxeracoltd (shop mang ten cong ty) — dang luu y rieng"
-  ],
-  "seller_emails": {
-    "Seller01": {
-      "name": "Dâng Trần",
-      "full": "Trần Trương Dâng",
-      "email": "seller01foxera@gmail.com"
-    },
-    "Seller02": {
-      "name": "Minh Huỳnh",
-      "full": "Huỳnh Thị Nhật Minh",
-      "email": "seller02foxeraa@gmail.com"
-    },
-    "Seller03": {
-      "name": "Linh Nguyễn",
-      "full": "Nguyễn Thị Phương Linh",
-      "email": "seller03foxera@gmail.com",
-      "note": "NGƯỜI MỚI với hệ thống scorecard — chưa có trong map Trello/roster nào, chưa thấy account gán; cần xác nhận vai"
-    },
-    "Seller08": {
-      "name": "Tuấn Nguyễn",
-      "full": "Nguyễn Văn Tuấn",
-      "email": "seller08foxera@gmail.com"
-    },
-    "Seller09": {
-      "name": "Ly Nguyễn",
-      "full": "Nguyễn Thị Trúc Ly",
-      "email": "seller09foxera@gmail.com"
-    },
-    "Seller10": {
-      "name": "Vy Đặng",
-      "full": "Đặng Thị Tường Vy",
-      "email": "seller10foxera@gmail.com"
-    },
-    "Seller11": {
-      "name": "Thu Trương",
-      "full": "Trương Nguyễn Hoài Thu",
-      "email": "seller11foxera@gmail.com"
-    },
-    "Seller13": {
-      "name": "Hằng Trần",
-      "full": "Trần Thị Lệ Hằng",
-      "email": "seller13.foxera@gmail.com"
-    }
+  {
+   "code": "E43",
+   "shop": "DreamPineCo",
+   "seller": "Năng Phan",
+   "seller_key": "Seller06",
+   "seller_status": "nghỉ 30/06/2026",
+   "first_order": "2026-06-08"
   },
-  "person_transfers": [
-    {
-      "from": "Hạnh Lâm",
-      "to": "Tuấn Nguyễn",
-      "since": "2026-07-08",
-      "note": "User xác nhận 31/07: account Hạnh Lâm bàn giao Tuấn Nguyễn ngày 8/7 — khớp PERSON_TRANSFERS của Hub. Đơn/hành động trước 08/07 tính Hạnh Lâm, từ 08/07 tính Tuấn Nguyễn."
-    }
-  ],
-  "sus_timeline": {
-    "_note": "sus_window = khoảng giữa 2 snapshot mà account rơi LIVE→SUS. Nguồn: 6 snapshot 16,18,22,25,28,30/07.",
-    "E155": {
-      "first_order": "2026-07-15",
-      "sus_window": "15-16/07",
-      "days_to_kill": "~1"
-    },
-    "E190": {
-      "first_order": "2026-07-15",
-      "sus_window": "15-16/07",
-      "days_to_kill": "~1"
-    },
-    "E47": {
-      "sus_window": "17-18/07",
-      "bank": "OK"
-    },
-    "E48": {
-      "sus_window": "19-22/07",
-      "bank": "OK",
-      "live_from": "2026-04-29"
-    },
-    "E109": {
-      "sus_window": "19-22/07",
-      "bank": "OK"
-    },
-    "E107": {
-      "first_order": "2026-07-25",
-      "sus_window": "25/07",
-      "days_to_kill": "0"
-    },
-    "E77": {
-      "first_order": "2026-07-26",
-      "sus_window": "26-28/07",
-      "days_to_kill": "~1-2"
-    },
-    "E185": {
-      "sus_window": "26-28/07",
-      "bank": "NO->OK (22/07)",
-      "owner_conflict": "GIAI QUYET theo operator_policy 31/07: nguoi van hanh hien tai = Ly Nguyen (snapshot 28-30/07); lich su Nang06 chi dung cho phan bo don theo thoi ky."
-    },
-    "E114": {
-      "sus_window": "28-30/07",
-      "bank": "OK",
-      "live_from": "2026-05-25"
-    },
-    "E150": {
-      "first_order": "2026-07-28",
-      "sus_window": "28-30/07",
-      "days_to_kill": "~1-2",
-      "bank": "NO"
-    },
-    "E169": {
-      "sus_window": "28-30/07",
-      "bank": "OK"
-    }
+  {
+   "code": "E81",
+   "shop": "VELNIXA",
+   "seller": "Năng Phan",
+   "seller_key": "Seller06",
+   "seller_status": "nghỉ 30/06/2026",
+   "first_order": "2026-06-25"
   },
-  "death_mechanisms": [
-    "1. FIRST SALE = công tắc review: fo trên account bank NO -> chết 0-2 ngày (E155,E190,E107,E77,E150). Quy tắc: bank chưa verify thì KHÔNG cho nhận đơn (vacation mode).",
-    "2. ASSOCIATION SWEEP sau deadline 20/07: 6 account bank OK sống lâu (E47,E48,E109,E185,E114,E169) chết dần 22->30/07 vì cụm chứa 16 account bank NO quá hạn không fix. Quy tắc: quá deadline không fix -> ĐÓNG chủ động, không để treo làm mồi liên đới.",
-    "3. SUS NEW 37 = chết tầng danh tính (dải mã liền E195-E208/E232-E240/E243-E256, chặn ngay onboarding) -> lỗi môi trường tạo account (fingerprint/proxy/email-phone), không phải hành vi bán.",
-    "Tỷ lệ sống theo seller: Năng06 40% · Dâng01 7% · Minh02 8% · Ly09 0% -> biến số ở môi trường/quy trình từng seller; profile seller09 coi như đã bị đánh dấu, NGỪNG dùng tạo mới."
-  ],
-  "owner_periods_ngan": {
-    "E-roster 'Ngân'": "T1-T5/2026 = Ngân Trần (T5 user chốt 31/07 theo nghi vấn) · T6-T7 = Ngân Huỳnh"
+  {
+   "code": "E119",
+   "shop": "Zyvorexa",
+   "seller": "Minh Huỳnh",
+   "seller_key": "Seller02",
+   "seller_status": "đang làm",
+   "first_order": "2026-06-26"
   },
-  "scan_conflicts_2026-07-31": {
-    "public_active_but_registry_sus": [
-      "E48",
-      "E77",
-      "E107",
-      "E127",
-      "E146",
-      "E150",
-      "E155",
-      "E185",
-      "E190"
-    ],
-    "note": "Quet local browser 31/07: 9 shop SUS hien trang active (sales an). 2 gia thuyet: (a) Etsy mo lai, (b) vo public chua go. Cho team login xac nhan qua ban tin 06:10. KHONG tu doi status.",
-    "matched_not_selling": [
-      "E169",
-      "E114",
-      "E109",
-      "E84",
-      "E47",
-      "E1",
-      "E85",
-      "E93",
-      "E92",
-      "E55",
-      "E62",
-      "E188",
-      "E172",
-      "E61"
-    ],
-    "status_flapping": {
-      "codes": [
-        "E188",
-        "E172"
-      ],
-      "note": "2 lan quet cach 30' (13:32 vs 14:00) cho ket qua nguoc nhau not_selling<->active. Tin hieu public voi nhom SUS KHONG on dinh -> quy tac: chi tin doi status khi 2 lan quet lien tiep cung ket qua + team login xac nhan. v5 da tu ghi prev_status khi flap."
-    },
-    "scraper_correction": "E29: rating that 4.1 (screenshot nguoi xem 13:48), scraper v4 doc 4.0 do vo nham widget -> v5 uu tien aggregateRating JSON-LD"
-  },
-  "wave_detection": "Hub v2.29.1 (31/07): wave = diff foxera-shops-live.json giua cac lan quet + quy tac 2-lan-lien-tiep (lan 1 not_selling = nghi, lan 2 = xac nhan + dem vao song). GAS-fetch chi con du phong khi live cu >48h.",
-  "store_links_extra": {
-    "E238": {
-      "url": "https://www.etsy.com/shop/VantixoArtHouse",
-      "shop": "VantixoArtHouse"
-    },
-    "E237": {
-      "url": "https://www.etsy.com/shop/ElzoraStudioCo",
-      "shop": "ElzoraStudioCo"
-    },
-    "E236": {
-      "url": "https://www.etsy.com/shop/NuviroCraftWorks",
-      "shop": "NuviroCraftWorks"
-    },
-    "E189": {
-      "url": "https://velorinatelier.etsy.com",
-      "shop": "velorinatelier"
-    },
-    "E163": {
-      "url": "https://zenvorilax.etsy.com",
-      "shop": "zenvorilax"
-    },
-    "E152": {
-      "url": "https://kalverixo.etsy.com",
-      "shop": "kalverixo"
-    },
-    "E146": {
-      "url": "https://www.etsy.com/shop/Lunavexor",
-      "shop": "Lunavexor"
-    },
-    "E138": {
-      "url": "https://auviramarket.etsy.com",
-      "shop": "auviramarket"
-    },
-    "E137": {
-      "url": "https://norvynstudio.etsy.com",
-      "shop": "norvynstudio"
-    },
-    "E133": {
-      "url": "https://vyxanore.etsy.com",
-      "shop": "vyxanore"
-    },
-    "E100": {
-      "url": "https://zyvexora.etsy.com",
-      "shop": "zyvexora"
-    },
-    "E85": {
-      "url": "https://www.etsy.com/shop/NOVIXRA",
-      "shop": "NOVIXRA"
-    },
-    "E66": {
-      "url": "https://cedarmiststudio.etsy.com",
-      "shop": "cedarmiststudio"
-    },
-    "E35": {
-      "url": "https://artiswovencrafts.etsy.com",
-      "shop": "artiswovencrafts"
-    },
-    "E288": {
-      "url": "https://aeromintstudio.etsy.com",
-      "shop": "aeromintstudio"
-    },
-    "E240": {
-      "url": "https://www.etsy.com/shop/NexoraDesignLab",
-      "shop": "NexoraDesignLab"
-    },
-    "E239": {
-      "url": "https://www.etsy.com/shop/OrvynCraftStudio",
-      "shop": "OrvynCraftStudio"
-    },
-    "E201": {
-      "url": "https://www.etsy.com/shop/LumetraDesigns",
-      "shop": "LumetraDesigns"
-    },
-    "E200": {
-      "url": "https://www.etsy.com/shop/ArvelloCrafted",
-      "shop": "ArvelloCrafted"
-    },
-    "E199": {
-      "url": "https://www.etsy.com/shop/SolvaneCollective",
-      "shop": "SolvaneCollective"
-    },
-    "E198": {
-      "url": "https://www.etsy.com/shop/NovarynCreations",
-      "shop": "NovarynCreations"
-    },
-    "E197": {
-      "url": "https://www.etsy.com/shop/VeltronaWorkshop",
-      "shop": "VeltronaWorkshop"
-    },
-    "E196": {
-      "url": "https://www.etsy.com/shop/ElvoraDesignHouse",
-      "shop": "ElvoraDesignHouse"
-    },
-    "E187": {
-      "url": "https://lumestoryco.etsy.com",
-      "shop": "lumestoryco"
-    },
-    "E180": {
-      "url": "https://qivorlyn.etsy.com",
-      "shop": "qivorlyn"
-    },
-    "E172": {
-      "url": "https://www.etsy.com/shop/Aurelinx",
-      "shop": "Aurelinx"
-    },
-    "E166": {
-      "url": "https://rivoxelir.etsy.com",
-      "shop": "rivoxelir"
-    },
-    "E165": {
-      "url": "https://norvalyrex.etsy.com",
-      "shop": "norvalyrex"
-    },
-    "E149": {
-      "url": "https://xavonetra.etsy.com",
-      "shop": "xavonetra"
-    },
-    "E148": {
-      "url": "https://velorixan.etsy.com",
-      "shop": "velorixan"
-    },
-    "E134": {
-      "url": "https://qarvynox.etsy.com",
-      "shop": "qarvynox"
-    },
-    "E121": {
-      "url": "https://velqirax.etsy.com",
-      "shop": "velqirax"
-    },
-    "E103": {
-      "url": "https://zelviroq.etsy.com",
-      "shop": "zelviroq"
-    },
-    "E76": {
-      "url": "https://yexaro.etsy.com",
-      "shop": "yexaro"
-    },
-    "E75": {
-      "url": "https://kavixo.etsy.com",
-      "shop": "kavixo"
-    },
-    "E74": {
-      "url": "https://noryxel.etsy.com",
-      "shop": "noryxel"
-    },
-    "E73": {
-      "url": "https://zuvion.etsy.com",
-      "shop": "zuvion"
-    },
-    "E53": {
-      "url": "https://velvetoakdesigns.etsy.com",
-      "shop": "velvetoakdesigns"
-    },
-    "E52": {
-      "url": "https://moonharborstudio.etsy.com",
-      "shop": "moonharborstudio"
-    },
-    "E49": {
-      "url": "https://harborleafstudio.etsy.com",
-      "shop": "harborleafstudio"
-    },
-    "E48": {
-      "url": "https://www.etsy.com/shop/StarlitCoveCo",
-      "shop": "StarlitCoveCo"
-    },
-    "E46": {
-      "url": "https://tinysproutcraft.etsy.com",
-      "shop": "tinysproutcraft"
-    },
-    "E207": {
-      "url": "https://www.etsy.com/shop/LunverraStudio",
-      "shop": "LunverraStudio"
-    },
-    "E206": {
-      "url": "https://www.etsy.com/shop/SolvantaDesign",
-      "shop": "SolvantaDesign"
-    },
-    "E205": {
-      "url": "https://www.etsy.com/shop/NorvellaCraft",
-      "shop": "NorvellaCraft"
-    },
-    "E204": {
-      "url": "https://www.etsy.com/shop/VelmorinStudio",
-      "shop": "VelmorinStudio"
-    },
-    "E203": {
-      "url": "https://velmoracreative.etsy.com",
-      "shop": "velmoracreative"
-    },
-    "E202": {
-      "url": "https://www.etsy.com/shop/NorviqueStudio",
-      "shop": "NorviqueStudio"
-    },
-    "E167": {
-      "url": "https://kalyvexino.etsy.com",
-      "shop": "kalyvexino"
-    },
-    "E150": {
-      "url": "https://www.etsy.com/shop/Elvarixo",
-      "shop": "Elvarixo"
-    },
-    "E147": {
-      "url": "https://norvaxilo.etsy.com",
-      "shop": "norvaxilo"
-    },
-    "E136": {
-      "url": "https://brivonstudio.etsy.com",
-      "shop": "brivonstudio"
-    },
-    "E131": {
-      "url": "https://koryvexa.etsy.com",
-      "shop": "koryvexa"
-    },
-    "E125": {
-      "url": "https://zelvoryx.etsy.com",
-      "shop": "zelvoryx"
-    },
-    "E119": {
-      "url": "https://zyvorexa.etsy.com",
-      "shop": "zyvorexa"
-    },
-    "E93": {
-      "url": "https://www.etsy.com/shop/Arvyno",
-      "shop": "Arvyno"
-    },
-    "E195": {
-      "url": "https://www.etsy.com/shop/OrvantaArtStudio",
-      "shop": "OrvantaArtStudio"
-    },
-    "E181": {
-      "url": "https://zynorqel.etsy.com",
-      "shop": "Zynorqel"
-    },
-    "E173": {
-      "url": "https://xavelyn.etsy.com",
-      "shop": "Xavelyn"
-    },
-    "E78": {
-      "url": "https://nayqo.etsy.com",
-      "shop": "NAYQO"
-    },
-    "E77": {
-      "url": "https://www.etsy.com/shop/ZAVYNTA",
-      "shop": "ZAVYNTA"
-    },
-    "E56": {
-      "url": "https://driftmoondesigns.etsy.com",
-      "shop": "driftmoondesigns"
-    },
-    "E55": {
-      "url": "https://www.etsy.com/shop/NovaBirchStudio",
-      "shop": "NovaBirchStudio"
-    },
-    "E54": {
-      "url": "https://puresproutstudio.etsy.com",
-      "shop": "puresproutstudio"
-    },
-    "E51": {
-      "url": "https://asterbloomco.etsy.com",
-      "shop": "asterbloomco"
-    },
-    "E50": {
-      "url": "https://willowsparkdesign.etsy.com",
-      "shop": "willowsparkdesign"
-    },
-    "E40": {
-      "url": "https://brightelmstudio.etsy.com",
-      "shop": "brightelmstudio"
-    },
-    "E39": {
-      "url": "https://minthollowshop.etsy.com",
-      "shop": "minthollowshop"
-    },
-    "E38": {
-      "url": "https://novahollowshop.etsy.com",
-      "shop": "novahollowshop"
-    },
-    "E183": {
-      "url": "https://floravelyn.etsy.com",
-      "shop": "floravelyn"
-    },
-    "E190": {
-      "url": "https://www.etsy.com/shop/Avenorhomely",
-      "shop": "Avenorhomely"
-    },
-    "E62": {
-      "url": "https://www.etsy.com/shop/MoonSprigDesigns",
-      "shop": "MoonSprigDesigns"
-    },
-    "E61": {
-      "url": "https://www.etsy.com/shop/WillowPeakStudio",
-      "shop": "WillowPeakStudio"
-    },
-    "E235": {
-      "url": "https://www.etsy.com/shop/EchoLightStudio",
-      "shop": "EchoLightStudio"
-    },
-    "E233": {
-      "url": "https://www.etsy.com/shop/PureGlowStudioX",
-      "shop": "PureGlowStudioX"
-    },
-    "E232": {
-      "url": "https://www.etsy.com/shop/SoftLightCollect",
-      "shop": "SoftLightCollect"
-    },
-    "E208": {
-      "url": "https://www.etsy.com/shop/VirelloCraftLab",
-      "shop": "VirelloCraftLab"
-    },
-    "E192": {
-      "url": "https://lumestory.etsy.com",
-      "shop": "lumestory"
-    },
-    "E185": {
-      "url": "https://www.etsy.com/shop/Norivelledesign",
-      "shop": "Norivelledesign"
-    },
-    "E177": {
-      "url": "https://qelvirox.etsy.com",
-      "shop": "qelvirox"
-    },
-    "E171": {
-      "url": "https://warmivon.etsy.com",
-      "shop": "warmivon"
-    },
-    "E156": {
-      "url": "https://zenvorixal.etsy.com",
-      "shop": "zenvorixal"
-    },
-    "E155": {
-      "url": "https://www.etsy.com/shop/Valnexiro",
-      "shop": "Valnexiro"
-    },
-    "E143": {
-      "url": "https://zanvix.etsy.com",
-      "shop": "zanvix"
-    },
-    "E140": {
-      "url": "https://kenvix.etsy.com",
-      "shop": "kenvix"
-    },
-    "E128": {
-      "url": "https://zyvankor.etsy.com",
-      "shop": "zyvankor"
-    },
-    "E127": {
-      "url": "https://www.etsy.com/shop/Xaloryva",
-      "shop": "Xaloryva"
-    },
-    "E120": {
-      "url": "https://xenavory.etsy.com",
-      "shop": "xenavory"
-    },
-    "E108": {
-      "url": "https://velqoryn.etsy.com",
-      "shop": "velqoryn"
-    },
-    "E107": {
-      "url": "https://www.etsy.com/shop/Xenavyra",
-      "shop": "Xenavyra"
-    },
-    "E106": {
-      "url": "https://qalvirox.etsy.com",
-      "shop": "qalvirox"
-    },
-    "E83": {
-      "url": "https://neuxa.etsy.com",
-      "shop": "neuxa"
-    },
-    "E82": {
-      "url": "https://rezviah.etsy.com",
-      "shop": "rezviah"
-    },
-    "E81": {
-      "url": "https://velnixa.etsy.com",
-      "shop": "velnixa"
-    },
-    "E80": {
-      "url": "https://torvexa.etsy.com",
-      "shop": "torvexa"
-    },
-    "E79": {
-      "url": "https://qerivo.etsy.com",
-      "shop": "qerivo"
-    },
-    "E45": {
-      "url": "https://amberpeakco.etsy.com",
-      "shop": "amberpeakco"
-    },
-    "E44": {
-      "url": "https://wildferncreates.etsy.com",
-      "shop": "wildferncreates"
-    },
-    "E247": {
-      "url": "https://www.etsy.com/shop/BumboHouse",
-      "shop": "BumboHouse"
-    },
-    "E246": {
-      "url": "https://www.etsy.com/shop/RoccaCraft",
-      "shop": "RoccaCraft"
-    },
-    "E245": {
-      "url": "https://www.etsy.com/shop/SnurbiNest",
-      "shop": "SnurbiNest"
-    },
-    "E244": {
-      "url": "https://www.etsy.com/shop/MorbixLab",
-      "shop": "MorbixLab"
-    },
-    "E243": {
-      "url": "https://www.etsy.com/shop/PebloWorks",
-      "shop": "PebloWorks"
-    },
-    "E227": {
-      "url": "https://zenithformstudio.etsy.com",
-      "shop": "zenithformstudio"
-    },
-    "E217": {
-      "url": "https://nexmoradesigncollect.etsy.com",
-      "shop": "nexmoradesigncollect"
-    },
-    "E273": {
-      "url": "https://goldenfern9981run.etsy.com",
-      "shop": "goldenfern9981run"
-    },
-    "E272": {
-      "url": "https://aluvialeshopone.etsy.com",
-      "shop": "aluvialeshopone"
-    },
-    "E271": {
-      "url": "https://cozycreaturedesign.etsy.com",
-      "shop": "cozycreaturedesign"
-    },
-    "E270": {
-      "url": "https://lunalittleart.etsy.com",
-      "shop": "lunalittleart"
-    },
-    "E269": {
-      "url": "https://vividclaystudio999.etsy.com",
-      "shop": "vividclaystudio999"
-    },
-    "E268": {
-      "url": "https://whimsicalcooart.etsy.com",
-      "shop": "whimsicalcooart"
-    },
-    "E266": {
-      "url": "https://starlightbyesta.etsy.com",
-      "shop": "starlightbyesta"
-    },
-    "E265": {
-      "url": "https://urbanmeadowcoart.etsy.com",
-      "shop": "urbanmeadowcoart"
-    },
-    "E264": {
-      "url": "https://littlebirchstudioart.etsy.com",
-      "shop": "littlebirchstudioart"
-    },
-    "E263": {
-      "url": "https://petalwildcrafts.etsy.com",
-      "shop": "petalwildcrafts"
-    },
-    "E262": {
-      "url": "https://velvetmaplestore.etsy.com",
-      "shop": "velvetmaplestore"
-    },
-    "E261": {
-      "url": "https://whisperingbyvithi.etsy.com",
-      "shop": "whisperingbyvithi"
-    },
-    "E260": {
-      "url": "https://cozynestshop1.etsy.com",
-      "shop": "cozynestshop1"
-    },
-    "E258": {
-      "url": "https://velvetmoonstudio99.etsy.com",
-      "shop": "velvetmoonstudio99"
-    },
-    "E256": {
-      "url": "https://www.etsy.com/shop/SnugliArtCo",
-      "shop": "SnugliArtCo"
-    },
-    "E254": {
-      "url": "https://www.etsy.com/shop/NorbixStudio",
-      "shop": "NorbixStudio"
-    },
-    "E253": {
-      "url": "https://www.etsy.com/shop/OrbiloArtLab",
-      "shop": "OrbiloArtLab"
-    },
-    "E252": {
-      "url": "https://www.etsy.com/shop/ToveliCraftCo",
-      "shop": "ToveliCraftCo"
-    },
-    "E250": {
-      "url": "https://www.etsy.com/shop/DorbixStudio",
-      "shop": "DorbixStudio"
-    },
-    "E249": {
-      "url": "https://www.etsy.com/shop/NibloCraftCo",
-      "shop": "NibloCraftCo"
-    },
-    "E248": {
-      "url": "https://www.etsy.com/shop/KlimboArtCo",
-      "shop": "KlimboArtCo"
-    },
-    "E226": {
-      "url": "https://simpletonemarket.etsy.com",
-      "shop": "simpletonemarket"
-    },
-    "E194": {
-      "url": "https://foxeracoltd.etsy.com",
-      "shop": "foxeracoltd"
-    },
-    "E280": {
-      "url": "https://luminaresinstudio.etsy.com",
-      "shop": "luminaresinstudio"
-    },
-    "E279": {
-      "url": "https://blueharborcraftsco.etsy.com",
-      "shop": "blueharborcraftsco"
-    },
-    "E278": {
-      "url": "https://arcticglowforge.etsy.com",
-      "shop": "arcticglowforge"
-    },
-    "E277": {
-      "url": "https://clayversecrafts.etsy.com",
-      "shop": "clayversecrafts"
-    },
-    "E276": {
-      "url": "https://honeywillowsstudio.etsy.com",
-      "shop": "honeywillowsstudio"
-    },
-    "E275": {
-      "url": "https://rusticcharmss10.etsy.com",
-      "shop": "rusticcharmss10"
-    },
-    "E274": {
-      "url": "https://sunnythreadsshop1111.etsy.com",
-      "shop": "sunnythreadsshop1111"
-    },
-    "E287": {
-      "url": "https://driftwoodglowworks.etsy.com",
-      "shop": "driftwoodglowworks"
-    },
-    "E286": {
-      "url": "https://auroraneststudiono1.etsy.com",
-      "shop": "auroraneststudiono1"
-    },
-    "E285": {
-      "url": "https://oceanicembercraft.etsy.com",
-      "shop": "oceanicembercraft"
-    },
-    "E284": {
-      "url": "https://crystalcurrentart.etsy.com",
-      "shop": "crystalcurrentart"
-    }
-  },
-  "operator_policy": "User chot 31/07: KHONG truy van owner lich su. Truong quan trong duy nhat = nguoi van hanh HIEN TAI (current_operator); nhan su thay doi lien tuc la binh thuong. Account chua gan ai = 'chua co nguoi dam nhan' — la TRANG THAI HOP LE, khong phai gap can hoi. Lich su chi giu cho phan bo don/loss theo thoi ky (OWNER_PERIODS phia Hub).",
-  "unmanaged_accounts": {
-    "label": "chưa có người quản lý",
-    "note": "User chốt 31/07: nhóm '(chuyển team TT)' (~20 account đang sống) + 1 account '(?)' = CHƯA CÓ NGƯỜI QUẢN LÝ — ghi đúng trạng thái này, không gán bừa. Danh sách mã cụ thể theo Store Links phía Hub; hệ quả vận hành: không ai list/không ai nhận cảnh báo cho nhóm này đến khi được gán — bản tin xếp việc của nhóm vào 'chờ phân công'."
-  },
-  "cohort_environment": {
-    "note": "CHUẨN so sánh môi trường (chống đọc nhầm từ bảng gộp): CHỈ tính account ĐÃ CHẠM FIRST SALE (đã kích hoạt review). Account 0 đơn 'sống' vì chưa bị phơi ra trước Etsy, không phải vì vận hành tốt.",
-    "survival_first_sale_cohort": {
-      "Năng Phan": "4/10",
-      "Dâng Trần": "1/14",
-      "Minh Huỳnh": "1/13",
-      "Ly Nguyễn": "0/10"
-    }
+  {
+   "code": "E80",
+   "shop": "TORVEXA",
+   "seller": "Năng Phan",
+   "seller_key": "Seller06",
+   "seller_status": "nghỉ 30/06/2026",
+   "first_order": "2026-06-28"
   }
+ ],
+ "sus_with_sales": [
+  {
+   "code": "E85",
+   "shop": "NOVIXRA",
+   "seller": "Ly Nguyễn",
+   "seller_key": "Seller09",
+   "seller_status": "đang làm",
+   "first_order": "2026-06-05",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E93",
+   "shop": "Arvyno",
+   "seller": "Minh Huỳnh",
+   "seller_key": "Seller02",
+   "seller_status": "đang làm",
+   "first_order": "2026-06-05",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E92",
+   "shop": "NoviForm",
+   "seller": "Minh Huỳnh",
+   "seller_key": "Seller02",
+   "seller_status": "đang làm",
+   "first_order": "2026-06-14",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E55",
+   "shop": "NovaBirchStudio",
+   "seller": "Minh Huỳnh",
+   "seller_key": "Seller02",
+   "seller_status": "đang làm",
+   "first_order": "2026-06-16",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E62",
+   "shop": "MoonSprigDesigns",
+   "seller": "Nga Phạm",
+   "seller_key": "Seller04",
+   "seller_status": "nghỉ 30/06/2026",
+   "first_order": "2026-06-29",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E188",
+   "shop": "Elorianestudio",
+   "seller": "Minh Huỳnh",
+   "seller_key": "Seller02",
+   "seller_status": "đang làm",
+   "first_order": "2026-06-29",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E172",
+   "shop": "Aurelinx",
+   "seller": "Dâng Trần",
+   "seller_key": "Seller01",
+   "seller_status": "đang làm",
+   "first_order": "2026-07-03",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E61",
+   "shop": "WillowPeakStudio",
+   "seller": "Nga Phạm",
+   "seller_key": "Seller04",
+   "seller_status": "nghỉ 30/06/2026",
+   "first_order": "2026-07-03",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E127",
+   "shop": "Xaloryva",
+   "seller": "Năng Phan",
+   "seller_key": "Seller06",
+   "seller_status": "nghỉ 30/06/2026",
+   "first_order": "2026-07-06",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E146",
+   "shop": "LUNAVEXOR",
+   "seller": "Ly Nguyễn",
+   "seller_key": "Seller09",
+   "seller_status": "đang làm",
+   "first_order": "2026-07-10",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E155",
+   "shop": "Valnexiro",
+   "seller": "Ly Nguyễn",
+   "seller_key": "Seller09",
+   "seller_status": "đang làm",
+   "first_order": "2026-07-15",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E190",
+   "shop": "Avenorhomely",
+   "seller": "Ly Nguyễn",
+   "seller_key": "Seller09",
+   "seller_status": "đang làm",
+   "first_order": "2026-07-15",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E107",
+   "shop": "Xenavyra",
+   "seller": "Ly Nguyễn",
+   "seller_key": "Seller09",
+   "seller_status": "đang làm",
+   "first_order": "2026-07-25",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E77",
+   "shop": "ZAVYNTA",
+   "seller": "Minh Huỳnh",
+   "seller_key": "Seller02",
+   "seller_status": "đang làm",
+   "first_order": "2026-07-26",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E150",
+   "shop": "Elvarixo",
+   "seller": "Minh Huỳnh",
+   "seller_key": "Seller02",
+   "seller_status": "đang làm",
+   "first_order": "2026-07-28",
+   "bank_verified": false,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P1"
+  },
+  {
+   "code": "E48",
+   "shop": "StarlitCoveCo",
+   "seller": "Dâng Trần",
+   "seller_key": "Seller01",
+   "seller_status": "đang làm",
+   "first_order": "2026-04-29",
+   "bank_verified": true,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P2"
+  },
+  {
+   "code": "E84",
+   "shop": "ARVIXON",
+   "seller": "Ly Nguyễn",
+   "seller_key": "Seller09",
+   "seller_status": "đang làm",
+   "first_order": "2026-05-25",
+   "bank_verified": true,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P2"
+  },
+  {
+   "code": "E114",
+   "shop": "Zyvaneli",
+   "seller": "Dâng Trần",
+   "seller_key": "Seller01",
+   "seller_status": "đang làm",
+   "first_order": "2026-05-25",
+   "bank_verified": true,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P2"
+  },
+  {
+   "code": "E109",
+   "shop": "Zarvynix",
+   "seller": "Năng Phan",
+   "seller_key": "Seller06",
+   "seller_status": "nghỉ 30/06/2026",
+   "first_order": "2026-06-17",
+   "bank_verified": true,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P2"
+  },
+  {
+   "code": "E169",
+   "shop": "Kindelora",
+   "seller": "Minh Huỳnh",
+   "seller_key": "Seller02",
+   "seller_status": "đang làm",
+   "first_order": "2026-06-18",
+   "bank_verified": true,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P2"
+  },
+  {
+   "code": "E47",
+   "shop": "BlueWillowWorks",
+   "seller": "Dâng Trần",
+   "seller_key": "Seller01",
+   "seller_status": "đang làm",
+   "first_order": "2026-06-22",
+   "bank_verified": true,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P2"
+  },
+  {
+   "code": "E185",
+   "shop": "Norivelledesign",
+   "seller": "Ly Nguyễn",
+   "seller_key": "Seller09",
+   "seller_status": "đang làm",
+   "first_order": "2026-07-05",
+   "bank_verified": true,
+   "fix_status": "NOT_FIX",
+   "fix_deadline": "2026-07-20",
+   "overdue_days": 11,
+   "priority": "P2"
+  }
+ ],
+ "sus_new": [
+  {
+   "owner_raw": "Trúc Ly",
+   "owner": "Ly Nguyễn",
+   "owner_status": "đang làm",
+   "codes": [
+    "E238",
+    "E237",
+    "E236"
+   ],
+   "shops": {
+    "E238": "VantixoArtHouse",
+    "E237": "ElzoraStudioCo",
+    "E236": "NuviroCraftWorks"
+   }
+  },
+  {
+   "owner_raw": "Thị Năng",
+   "owner": "Năng Phan",
+   "owner_status": "nghỉ 30/06/2026",
+   "codes": [
+    "E235",
+    "E233",
+    "E232",
+    "E208"
+   ],
+   "shops": {
+    "E235": "EchoLightStudio",
+    "E233": "PureGlowStudioX",
+    "E232": "SoftLightCollect",
+    "E208": "VirelloCraftLab"
+   }
+  },
+  {
+   "owner_raw": "Nhật Minh",
+   "owner": "Minh Huỳnh",
+   "owner_status": "đang làm",
+   "codes": [
+    "E202",
+    "E204",
+    "E205",
+    "E206",
+    "E207"
+   ],
+   "shops": {
+    "E202": "NorviqueStudio",
+    "E204": "VelmorinStudio",
+    "E205": "NorvellaCraft",
+    "E206": "SolvantaDesign",
+    "E207": "LunverraStudio"
+   }
+  },
+  {
+   "owner_raw": "Trương Dâng",
+   "owner": "Dâng Trần",
+   "owner_status": "đang làm",
+   "codes": [
+    "E195",
+    "E196",
+    "E197",
+    "E198",
+    "E199",
+    "E200",
+    "E201",
+    "E239",
+    "E240"
+   ],
+   "shops": {
+    "E196": "ElvoraDesignHouse",
+    "E197": "VeltronaWorkshop",
+    "E198": "NovarynCreations",
+    "E199": "SolvaneCollective",
+    "E200": "ArvelloCrafted",
+    "E201": "LumetraDesigns",
+    "E239": "OrvynCraftStudio",
+    "E240": "NexoraDesignLab",
+    "E195": "OrvantaArtStudio"
+   }
+  },
+  {
+   "owner_raw": "Tường Vy",
+   "owner": "Vy Đặng",
+   "owner_status": "đang làm",
+   "codes": [
+    "E248",
+    "E249",
+    "E250",
+    "E252",
+    "E253",
+    "E254",
+    "E256"
+   ],
+   "shops": {
+    "E248": "KlimboArtCo",
+    "E249": "NibloCraftCo",
+    "E250": "DorbixStudio",
+    "E252": "ToveliCraftCo",
+    "E253": "OrbiloArtLab",
+    "E254": "NorbixStudio",
+    "E256": "SnugliArtCo"
+   }
+  },
+  {
+   "owner_raw": "Thanh Thúy",
+   "owner": "Thúy Trần",
+   "owner_status": "nghỉ 29/07/2026",
+   "codes": [
+    "E243",
+    "E244",
+    "E245",
+    "E246",
+    "E247"
+   ],
+   "shops": {
+    "E243": "PebloWorks",
+    "E244": "MorbixLab",
+    "E245": "SnurbiNest",
+    "E246": "RoccaCraft",
+    "E247": "BumboHouse"
+   }
+  },
+  {
+   "owner_raw": "Hoài Thu",
+   "owner": "Thu Trương",
+   "owner_status": "đang làm",
+   "codes": [
+    "E259"
+   ],
+   "note": "E254 user chốt 31/07 thuộc Vy Đặng — bỏ khỏi Hoài Thu"
+  },
+  {
+   "owner_raw": "Thúy Ngân",
+   "owner": "Ngân Huỳnh",
+   "owner_status": "nghỉ 24/07/2026",
+   "codes": [
+    "E267"
+   ],
+   "note": "Hub chốt 31/07: E267 = Ngân Huỳnh (evidence: board Trello ETSY-F12 'HUỲNH THỊ THÚY NGÂN')"
+  }
+ ],
+ "data_quality_flags": [
+  "SUS NEW ghi TỔNG 37 nhưng liệt kê 36 dòng / 35 mã duy nhất — thiếu 1-2 mã so với tiêu đề",
+  "Nguồn gõ 'VERY BANK' — hiểu là VERIFY BANK; 'E150Elvarixo' thiếu dấu gạch — đã chuẩn hoá E150-Elvarixo",
+  "Cả 22 shop SUS đều NOT FIX, hạn TIME FIX 20/07/2026 đã QUÁ 11 ngày (0/22 xử lý)",
+  "4 store LIVE của Năng Phan (E42,E43,E81,E80) + 1 SUS-bank-NO của Nga Phạm... — chủ đã nghỉ 30/06 → cần bàn giao người mới",
+  "Email đúng chính tả gốc: seller02foxeraA (2 chữ a), seller13.foxera (có dấu chấm) — map login phải dùng nguyên văn",
+  "Seller03 Linh Nguyễn (Nguyễn Thị Phương Linh) xuất hiện trong bảng email nhưng chưa có account/board nào gán — chờ xác nhận vai trò",
+  "ĐÃ CHỐT 31/07: E254 = Vy Đặng. SUS NEW unique giờ = 35, tiêu đề 37 — vẫn thiếu 2 mã (user sẽ gửi thêm)",
+  "31/07 23h: LINK PHU KIN 100% — khong con ma mu. store_links_extra + roster + registry = toan bo ma da biet deu quet duoc tu 04:00 mai.",
+  "Theo operator_policy: cac ma moi trong store_links_extra mac dinh 'chua co nguoi dam nhan' cho den khi user/report gan — khong hoi lai.",
+  "Link dot 7 (31/07 dem): +24 (nhom Thi Nang named du; ma moi: E82, E83, E106, E108, E120, E128, E140, E143, E156, E171, E177, E192)",
+  "Ghi chu E194 = foxeracoltd (shop mang ten cong ty) — dang luu y rieng"
+ ],
+ "seller_emails": {
+  "Seller01": {
+   "name": "Dâng Trần",
+   "full": "Trần Trương Dâng",
+   "email": "seller01foxera@gmail.com"
+  },
+  "Seller02": {
+   "name": "Minh Huỳnh",
+   "full": "Huỳnh Thị Nhật Minh",
+   "email": "seller02foxeraa@gmail.com"
+  },
+  "Seller03": {
+   "name": "Linh Nguyễn",
+   "full": "Nguyễn Thị Phương Linh",
+   "email": "seller03foxera@gmail.com",
+   "note": "NGƯỜI MỚI với hệ thống scorecard — chưa có trong map Trello/roster nào, chưa thấy account gán; cần xác nhận vai"
+  },
+  "Seller08": {
+   "name": "Tuấn Nguyễn",
+   "full": "Nguyễn Văn Tuấn",
+   "email": "seller08foxera@gmail.com"
+  },
+  "Seller09": {
+   "name": "Ly Nguyễn",
+   "full": "Nguyễn Thị Trúc Ly",
+   "email": "seller09foxera@gmail.com"
+  },
+  "Seller10": {
+   "name": "Vy Đặng",
+   "full": "Đặng Thị Tường Vy",
+   "email": "seller10foxera@gmail.com"
+  },
+  "Seller11": {
+   "name": "Thu Trương",
+   "full": "Trương Nguyễn Hoài Thu",
+   "email": "seller11foxera@gmail.com"
+  },
+  "Seller13": {
+   "name": "Hằng Trần",
+   "full": "Trần Thị Lệ Hằng",
+   "email": "seller13.foxera@gmail.com"
+  }
+ },
+ "person_transfers": [
+  {
+   "from": "Hạnh Lâm",
+   "to": "Tuấn Nguyễn",
+   "since": "2026-07-08",
+   "note": "User xác nhận 31/07: account Hạnh Lâm bàn giao Tuấn Nguyễn ngày 8/7 — khớp PERSON_TRANSFERS của Hub. Đơn/hành động trước 08/07 tính Hạnh Lâm, từ 08/07 tính Tuấn Nguyễn."
+  }
+ ],
+ "sus_timeline": {
+  "_note": "sus_window = khoảng giữa 2 snapshot mà account rơi LIVE→SUS. Nguồn: 6 snapshot 16,18,22,25,28,30/07.",
+  "E155": {
+   "first_order": "2026-07-15",
+   "sus_window": "15-16/07",
+   "days_to_kill": "~1"
+  },
+  "E190": {
+   "first_order": "2026-07-15",
+   "sus_window": "15-16/07",
+   "days_to_kill": "~1"
+  },
+  "E47": {
+   "sus_window": "17-18/07",
+   "bank": "OK"
+  },
+  "E48": {
+   "sus_window": "19-22/07",
+   "bank": "OK",
+   "live_from": "2026-04-29"
+  },
+  "E109": {
+   "sus_window": "19-22/07",
+   "bank": "OK"
+  },
+  "E107": {
+   "first_order": "2026-07-25",
+   "sus_window": "25/07",
+   "days_to_kill": "0"
+  },
+  "E77": {
+   "first_order": "2026-07-26",
+   "sus_window": "26-28/07",
+   "days_to_kill": "~1-2"
+  },
+  "E185": {
+   "sus_window": "26-28/07",
+   "bank": "NO->OK (22/07)",
+   "owner_conflict": "GIAI QUYET theo operator_policy 31/07: nguoi van hanh hien tai = Ly Nguyen (snapshot 28-30/07); lich su Nang06 chi dung cho phan bo don theo thoi ky."
+  },
+  "E114": {
+   "sus_window": "28-30/07",
+   "bank": "OK",
+   "live_from": "2026-05-25"
+  },
+  "E150": {
+   "first_order": "2026-07-28",
+   "sus_window": "28-30/07",
+   "days_to_kill": "~1-2",
+   "bank": "NO"
+  },
+  "E169": {
+   "sus_window": "28-30/07",
+   "bank": "OK"
+  }
+ },
+ "death_mechanisms": [
+  "1. FIRST SALE = công tắc review: fo trên account bank NO -> chết 0-2 ngày (E155,E190,E107,E77,E150). Quy tắc: bank chưa verify thì KHÔNG cho nhận đơn (vacation mode).",
+  "2. ASSOCIATION SWEEP sau deadline 20/07: 6 account bank OK sống lâu (E47,E48,E109,E185,E114,E169) chết dần 22->30/07 vì cụm chứa 16 account bank NO quá hạn không fix. Quy tắc: quá deadline không fix -> ĐÓNG chủ động, không để treo làm mồi liên đới.",
+  "3. SUS NEW 37 = chết tầng danh tính (dải mã liền E195-E208/E232-E240/E243-E256, chặn ngay onboarding) -> lỗi môi trường tạo account (fingerprint/proxy/email-phone), không phải hành vi bán.",
+  "Tỷ lệ sống theo seller: Năng06 40% · Dâng01 7% · Minh02 8% · Ly09 0% -> biến số ở môi trường/quy trình từng seller; profile seller09 coi như đã bị đánh dấu, NGỪNG dùng tạo mới."
+ ],
+ "owner_periods_ngan": {
+  "E-roster 'Ngân'": "T1-T5/2026 = Ngân Trần (T5 user chốt 31/07 theo nghi vấn) · T6-T7 = Ngân Huỳnh"
+ },
+ "scan_conflicts_2026-07-31": {
+  "public_active_but_registry_sus": [
+   "E48",
+   "E77",
+   "E107",
+   "E127",
+   "E146",
+   "E150",
+   "E155",
+   "E185",
+   "E190"
+  ],
+  "note": "Quet local browser 31/07: 9 shop SUS hien trang active (sales an). 2 gia thuyet: (a) Etsy mo lai, (b) vo public chua go. Cho team login xac nhan qua ban tin 06:10. KHONG tu doi status.",
+  "matched_not_selling": [
+   "E169",
+   "E114",
+   "E109",
+   "E84",
+   "E47",
+   "E1",
+   "E85",
+   "E93",
+   "E92",
+   "E55",
+   "E62",
+   "E188",
+   "E172",
+   "E61"
+  ],
+  "status_flapping": {
+   "codes": [
+    "E188",
+    "E172"
+   ],
+   "note": "2 lan quet cach 30' (13:32 vs 14:00) cho ket qua nguoc nhau not_selling<->active. Tin hieu public voi nhom SUS KHONG on dinh -> quy tac: chi tin doi status khi 2 lan quet lien tiep cung ket qua + team login xac nhan. v5 da tu ghi prev_status khi flap."
+  },
+  "scraper_correction": "E29: rating that 4.1 (screenshot nguoi xem 13:48), scraper v4 doc 4.0 do vo nham widget -> v5 uu tien aggregateRating JSON-LD"
+ },
+ "wave_detection": "Hub v2.29.1 (31/07): wave = diff foxera-shops-live.json giua cac lan quet + quy tac 2-lan-lien-tiep (lan 1 not_selling = nghi, lan 2 = xac nhan + dem vao song). GAS-fetch chi con du phong khi live cu >48h.",
+ "store_links_extra": {
+  "E238": {
+   "url": "https://www.etsy.com/shop/VantixoArtHouse",
+   "shop": "VantixoArtHouse"
+  },
+  "E237": {
+   "url": "https://www.etsy.com/shop/ElzoraStudioCo",
+   "shop": "ElzoraStudioCo"
+  },
+  "E236": {
+   "url": "https://www.etsy.com/shop/NuviroCraftWorks",
+   "shop": "NuviroCraftWorks"
+  },
+  "E189": {
+   "url": "https://velorinatelier.etsy.com",
+   "shop": "velorinatelier"
+  },
+  "E163": {
+   "url": "https://zenvorilax.etsy.com",
+   "shop": "zenvorilax"
+  },
+  "E152": {
+   "url": "https://kalverixo.etsy.com",
+   "shop": "kalverixo"
+  },
+  "E146": {
+   "url": "https://www.etsy.com/shop/Lunavexor",
+   "shop": "Lunavexor"
+  },
+  "E138": {
+   "url": "https://auviramarket.etsy.com",
+   "shop": "auviramarket"
+  },
+  "E137": {
+   "url": "https://norvynstudio.etsy.com",
+   "shop": "norvynstudio"
+  },
+  "E133": {
+   "url": "https://vyxanore.etsy.com",
+   "shop": "vyxanore"
+  },
+  "E100": {
+   "url": "https://zyvexora.etsy.com",
+   "shop": "zyvexora"
+  },
+  "E85": {
+   "url": "https://www.etsy.com/shop/NOVIXRA",
+   "shop": "NOVIXRA"
+  },
+  "E66": {
+   "url": "https://cedarmiststudio.etsy.com",
+   "shop": "cedarmiststudio"
+  },
+  "E35": {
+   "url": "https://artiswovencrafts.etsy.com",
+   "shop": "artiswovencrafts"
+  },
+  "E288": {
+   "url": "https://aeromintstudio.etsy.com",
+   "shop": "aeromintstudio"
+  },
+  "E240": {
+   "url": "https://www.etsy.com/shop/NexoraDesignLab",
+   "shop": "NexoraDesignLab"
+  },
+  "E239": {
+   "url": "https://www.etsy.com/shop/OrvynCraftStudio",
+   "shop": "OrvynCraftStudio"
+  },
+  "E201": {
+   "url": "https://www.etsy.com/shop/LumetraDesigns",
+   "shop": "LumetraDesigns"
+  },
+  "E200": {
+   "url": "https://www.etsy.com/shop/ArvelloCrafted",
+   "shop": "ArvelloCrafted"
+  },
+  "E199": {
+   "url": "https://www.etsy.com/shop/SolvaneCollective",
+   "shop": "SolvaneCollective"
+  },
+  "E198": {
+   "url": "https://www.etsy.com/shop/NovarynCreations",
+   "shop": "NovarynCreations"
+  },
+  "E197": {
+   "url": "https://www.etsy.com/shop/VeltronaWorkshop",
+   "shop": "VeltronaWorkshop"
+  },
+  "E196": {
+   "url": "https://www.etsy.com/shop/ElvoraDesignHouse",
+   "shop": "ElvoraDesignHouse"
+  },
+  "E187": {
+   "url": "https://lumestoryco.etsy.com",
+   "shop": "lumestoryco"
+  },
+  "E180": {
+   "url": "https://qivorlyn.etsy.com",
+   "shop": "qivorlyn"
+  },
+  "E172": {
+   "url": "https://www.etsy.com/shop/Aurelinx",
+   "shop": "Aurelinx"
+  },
+  "E166": {
+   "url": "https://rivoxelir.etsy.com",
+   "shop": "rivoxelir"
+  },
+  "E165": {
+   "url": "https://norvalyrex.etsy.com",
+   "shop": "norvalyrex"
+  },
+  "E149": {
+   "url": "https://xavonetra.etsy.com",
+   "shop": "xavonetra"
+  },
+  "E148": {
+   "url": "https://velorixan.etsy.com",
+   "shop": "velorixan"
+  },
+  "E134": {
+   "url": "https://qarvynox.etsy.com",
+   "shop": "qarvynox"
+  },
+  "E121": {
+   "url": "https://velqirax.etsy.com",
+   "shop": "velqirax"
+  },
+  "E103": {
+   "url": "https://zelviroq.etsy.com",
+   "shop": "zelviroq"
+  },
+  "E76": {
+   "url": "https://yexaro.etsy.com",
+   "shop": "yexaro"
+  },
+  "E75": {
+   "url": "https://kavixo.etsy.com",
+   "shop": "kavixo"
+  },
+  "E74": {
+   "url": "https://noryxel.etsy.com",
+   "shop": "noryxel"
+  },
+  "E73": {
+   "url": "https://zuvion.etsy.com",
+   "shop": "zuvion"
+  },
+  "E53": {
+   "url": "https://velvetoakdesigns.etsy.com",
+   "shop": "velvetoakdesigns"
+  },
+  "E52": {
+   "url": "https://moonharborstudio.etsy.com",
+   "shop": "moonharborstudio"
+  },
+  "E49": {
+   "url": "https://harborleafstudio.etsy.com",
+   "shop": "harborleafstudio"
+  },
+  "E48": {
+   "url": "https://www.etsy.com/shop/StarlitCoveCo",
+   "shop": "StarlitCoveCo"
+  },
+  "E46": {
+   "url": "https://tinysproutcraft.etsy.com",
+   "shop": "tinysproutcraft"
+  },
+  "E207": {
+   "url": "https://www.etsy.com/shop/LunverraStudio",
+   "shop": "LunverraStudio"
+  },
+  "E206": {
+   "url": "https://www.etsy.com/shop/SolvantaDesign",
+   "shop": "SolvantaDesign"
+  },
+  "E205": {
+   "url": "https://www.etsy.com/shop/NorvellaCraft",
+   "shop": "NorvellaCraft"
+  },
+  "E204": {
+   "url": "https://www.etsy.com/shop/VelmorinStudio",
+   "shop": "VelmorinStudio"
+  },
+  "E203": {
+   "url": "https://velmoracreative.etsy.com",
+   "shop": "velmoracreative"
+  },
+  "E202": {
+   "url": "https://www.etsy.com/shop/NorviqueStudio",
+   "shop": "NorviqueStudio"
+  },
+  "E167": {
+   "url": "https://kalyvexino.etsy.com",
+   "shop": "kalyvexino"
+  },
+  "E150": {
+   "url": "https://www.etsy.com/shop/Elvarixo",
+   "shop": "Elvarixo"
+  },
+  "E147": {
+   "url": "https://norvaxilo.etsy.com",
+   "shop": "norvaxilo"
+  },
+  "E136": {
+   "url": "https://brivonstudio.etsy.com",
+   "shop": "brivonstudio"
+  },
+  "E131": {
+   "url": "https://koryvexa.etsy.com",
+   "shop": "koryvexa"
+  },
+  "E125": {
+   "url": "https://zelvoryx.etsy.com",
+   "shop": "zelvoryx"
+  },
+  "E119": {
+   "url": "https://zyvorexa.etsy.com",
+   "shop": "zyvorexa"
+  },
+  "E93": {
+   "url": "https://www.etsy.com/shop/Arvyno",
+   "shop": "Arvyno"
+  },
+  "E195": {
+   "url": "https://www.etsy.com/shop/OrvantaArtStudio",
+   "shop": "OrvantaArtStudio"
+  },
+  "E181": {
+   "url": "https://zynorqel.etsy.com",
+   "shop": "Zynorqel"
+  },
+  "E173": {
+   "url": "https://xavelyn.etsy.com",
+   "shop": "Xavelyn"
+  },
+  "E78": {
+   "url": "https://nayqo.etsy.com",
+   "shop": "NAYQO"
+  },
+  "E77": {
+   "url": "https://www.etsy.com/shop/ZAVYNTA",
+   "shop": "ZAVYNTA"
+  },
+  "E56": {
+   "url": "https://driftmoondesigns.etsy.com",
+   "shop": "driftmoondesigns"
+  },
+  "E55": {
+   "url": "https://www.etsy.com/shop/NovaBirchStudio",
+   "shop": "NovaBirchStudio"
+  },
+  "E54": {
+   "url": "https://puresproutstudio.etsy.com",
+   "shop": "puresproutstudio"
+  },
+  "E51": {
+   "url": "https://asterbloomco.etsy.com",
+   "shop": "asterbloomco"
+  },
+  "E50": {
+   "url": "https://willowsparkdesign.etsy.com",
+   "shop": "willowsparkdesign"
+  },
+  "E40": {
+   "url": "https://brightelmstudio.etsy.com",
+   "shop": "brightelmstudio"
+  },
+  "E39": {
+   "url": "https://minthollowshop.etsy.com",
+   "shop": "minthollowshop"
+  },
+  "E38": {
+   "url": "https://novahollowshop.etsy.com",
+   "shop": "novahollowshop"
+  },
+  "E183": {
+   "url": "https://floravelyn.etsy.com",
+   "shop": "floravelyn"
+  },
+  "E190": {
+   "url": "https://www.etsy.com/shop/Avenorhomely",
+   "shop": "Avenorhomely"
+  },
+  "E62": {
+   "url": "https://www.etsy.com/shop/MoonSprigDesigns",
+   "shop": "MoonSprigDesigns"
+  },
+  "E61": {
+   "url": "https://www.etsy.com/shop/WillowPeakStudio",
+   "shop": "WillowPeakStudio"
+  },
+  "E235": {
+   "url": "https://www.etsy.com/shop/EchoLightStudio",
+   "shop": "EchoLightStudio"
+  },
+  "E233": {
+   "url": "https://www.etsy.com/shop/PureGlowStudioX",
+   "shop": "PureGlowStudioX"
+  },
+  "E232": {
+   "url": "https://www.etsy.com/shop/SoftLightCollect",
+   "shop": "SoftLightCollect"
+  },
+  "E208": {
+   "url": "https://www.etsy.com/shop/VirelloCraftLab",
+   "shop": "VirelloCraftLab"
+  },
+  "E192": {
+   "url": "https://lumestory.etsy.com",
+   "shop": "lumestory"
+  },
+  "E185": {
+   "url": "https://www.etsy.com/shop/Norivelledesign",
+   "shop": "Norivelledesign"
+  },
+  "E177": {
+   "url": "https://qelvirox.etsy.com",
+   "shop": "qelvirox"
+  },
+  "E171": {
+   "url": "https://warmivon.etsy.com",
+   "shop": "warmivon"
+  },
+  "E156": {
+   "url": "https://zenvorixal.etsy.com",
+   "shop": "zenvorixal"
+  },
+  "E155": {
+   "url": "https://www.etsy.com/shop/Valnexiro",
+   "shop": "Valnexiro"
+  },
+  "E143": {
+   "url": "https://zanvix.etsy.com",
+   "shop": "zanvix"
+  },
+  "E140": {
+   "url": "https://kenvix.etsy.com",
+   "shop": "kenvix"
+  },
+  "E128": {
+   "url": "https://zyvankor.etsy.com",
+   "shop": "zyvankor"
+  },
+  "E127": {
+   "url": "https://www.etsy.com/shop/Xaloryva",
+   "shop": "Xaloryva"
+  },
+  "E120": {
+   "url": "https://xenavory.etsy.com",
+   "shop": "xenavory"
+  },
+  "E108": {
+   "url": "https://velqoryn.etsy.com",
+   "shop": "velqoryn"
+  },
+  "E107": {
+   "url": "https://www.etsy.com/shop/Xenavyra",
+   "shop": "Xenavyra"
+  },
+  "E106": {
+   "url": "https://qalvirox.etsy.com",
+   "shop": "qalvirox"
+  },
+  "E83": {
+   "url": "https://neuxa.etsy.com",
+   "shop": "neuxa"
+  },
+  "E82": {
+   "url": "https://rezviah.etsy.com",
+   "shop": "rezviah"
+  },
+  "E81": {
+   "url": "https://velnixa.etsy.com",
+   "shop": "velnixa"
+  },
+  "E80": {
+   "url": "https://torvexa.etsy.com",
+   "shop": "torvexa"
+  },
+  "E79": {
+   "url": "https://qerivo.etsy.com",
+   "shop": "qerivo"
+  },
+  "E45": {
+   "url": "https://amberpeakco.etsy.com",
+   "shop": "amberpeakco"
+  },
+  "E44": {
+   "url": "https://wildferncreates.etsy.com",
+   "shop": "wildferncreates"
+  },
+  "E247": {
+   "url": "https://www.etsy.com/shop/BumboHouse",
+   "shop": "BumboHouse"
+  },
+  "E246": {
+   "url": "https://www.etsy.com/shop/RoccaCraft",
+   "shop": "RoccaCraft"
+  },
+  "E245": {
+   "url": "https://www.etsy.com/shop/SnurbiNest",
+   "shop": "SnurbiNest"
+  },
+  "E244": {
+   "url": "https://www.etsy.com/shop/MorbixLab",
+   "shop": "MorbixLab"
+  },
+  "E243": {
+   "url": "https://www.etsy.com/shop/PebloWorks",
+   "shop": "PebloWorks"
+  },
+  "E227": {
+   "url": "https://zenithformstudio.etsy.com",
+   "shop": "zenithformstudio"
+  },
+  "E217": {
+   "url": "https://nexmoradesigncollect.etsy.com",
+   "shop": "nexmoradesigncollect"
+  },
+  "E273": {
+   "url": "https://goldenfern9981run.etsy.com",
+   "shop": "goldenfern9981run"
+  },
+  "E272": {
+   "url": "https://aluvialeshopone.etsy.com",
+   "shop": "aluvialeshopone"
+  },
+  "E271": {
+   "url": "https://cozycreaturedesign.etsy.com",
+   "shop": "cozycreaturedesign"
+  },
+  "E270": {
+   "url": "https://lunalittleart.etsy.com",
+   "shop": "lunalittleart"
+  },
+  "E269": {
+   "url": "https://vividclaystudio999.etsy.com",
+   "shop": "vividclaystudio999"
+  },
+  "E268": {
+   "url": "https://whimsicalcooart.etsy.com",
+   "shop": "whimsicalcooart"
+  },
+  "E266": {
+   "url": "https://starlightbyesta.etsy.com",
+   "shop": "starlightbyesta"
+  },
+  "E265": {
+   "url": "https://urbanmeadowcoart.etsy.com",
+   "shop": "urbanmeadowcoart"
+  },
+  "E264": {
+   "url": "https://littlebirchstudioart.etsy.com",
+   "shop": "littlebirchstudioart"
+  },
+  "E263": {
+   "url": "https://petalwildcrafts.etsy.com",
+   "shop": "petalwildcrafts"
+  },
+  "E262": {
+   "url": "https://velvetmaplestore.etsy.com",
+   "shop": "velvetmaplestore"
+  },
+  "E261": {
+   "url": "https://whisperingbyvithi.etsy.com",
+   "shop": "whisperingbyvithi"
+  },
+  "E260": {
+   "url": "https://cozynestshop1.etsy.com",
+   "shop": "cozynestshop1"
+  },
+  "E258": {
+   "url": "https://velvetmoonstudio99.etsy.com",
+   "shop": "velvetmoonstudio99"
+  },
+  "E256": {
+   "url": "https://www.etsy.com/shop/SnugliArtCo",
+   "shop": "SnugliArtCo"
+  },
+  "E254": {
+   "url": "https://www.etsy.com/shop/NorbixStudio",
+   "shop": "NorbixStudio"
+  },
+  "E253": {
+   "url": "https://www.etsy.com/shop/OrbiloArtLab",
+   "shop": "OrbiloArtLab"
+  },
+  "E252": {
+   "url": "https://www.etsy.com/shop/ToveliCraftCo",
+   "shop": "ToveliCraftCo"
+  },
+  "E250": {
+   "url": "https://www.etsy.com/shop/DorbixStudio",
+   "shop": "DorbixStudio"
+  },
+  "E249": {
+   "url": "https://www.etsy.com/shop/NibloCraftCo",
+   "shop": "NibloCraftCo"
+  },
+  "E248": {
+   "url": "https://www.etsy.com/shop/KlimboArtCo",
+   "shop": "KlimboArtCo"
+  },
+  "E226": {
+   "url": "https://simpletonemarket.etsy.com",
+   "shop": "simpletonemarket"
+  },
+  "E194": {
+   "url": "https://foxeracoltd.etsy.com",
+   "shop": "foxeracoltd"
+  },
+  "E280": {
+   "url": "https://luminaresinstudio.etsy.com",
+   "shop": "luminaresinstudio"
+  },
+  "E279": {
+   "url": "https://blueharborcraftsco.etsy.com",
+   "shop": "blueharborcraftsco"
+  },
+  "E278": {
+   "url": "https://arcticglowforge.etsy.com",
+   "shop": "arcticglowforge"
+  },
+  "E277": {
+   "url": "https://clayversecrafts.etsy.com",
+   "shop": "clayversecrafts"
+  },
+  "E276": {
+   "url": "https://honeywillowsstudio.etsy.com",
+   "shop": "honeywillowsstudio"
+  },
+  "E275": {
+   "url": "https://rusticcharmss10.etsy.com",
+   "shop": "rusticcharmss10"
+  },
+  "E274": {
+   "url": "https://sunnythreadsshop1111.etsy.com",
+   "shop": "sunnythreadsshop1111"
+  },
+  "E287": {
+   "url": "https://driftwoodglowworks.etsy.com",
+   "shop": "driftwoodglowworks"
+  },
+  "E286": {
+   "url": "https://auroraneststudiono1.etsy.com",
+   "shop": "auroraneststudiono1"
+  },
+  "E285": {
+   "url": "https://oceanicembercraft.etsy.com",
+   "shop": "oceanicembercraft"
+  },
+  "E284": {
+   "url": "https://crystalcurrentart.etsy.com",
+   "shop": "crystalcurrentart"
+  },
+  "E3": {
+   "shop": "Loomelody",
+   "url": "https://www.etsy.com/shop/Loomelody",
+   "added": "2026-08-06",
+   "source": "user cung cap"
+  },
+  "E5": {
+   "shop": "AURELOOMS",
+   "url": "https://www.etsy.com/shop/AURELOOMS",
+   "added": "2026-08-06",
+   "source": "user cung cap"
+  },
+  "E22": {
+   "shop": "Sylvarineo",
+   "url": "https://www.etsy.com/shop/Sylvarineo",
+   "added": "2026-08-06",
+   "source": "user cung cap"
+  },
+  "E32": {
+   "shop": "SilverSproutDesign",
+   "url": "https://www.etsy.com/shop/SilverSproutDesign",
+   "added": "2026-08-06",
+   "source": "user cung cap"
+  },
+  "E37": {
+   "shop": "EverberryCraft",
+   "url": "https://www.etsy.com/shop/EverberryCraft",
+   "added": "2026-08-06",
+   "source": "user cung cap"
+  }
+ },
+ "operator_policy": "User chot 31/07: KHONG truy van owner lich su. Truong quan trong duy nhat = nguoi van hanh HIEN TAI (current_operator); nhan su thay doi lien tuc la binh thuong. Account chua gan ai = 'chua co nguoi dam nhan' — la TRANG THAI HOP LE, khong phai gap can hoi. Lich su chi giu cho phan bo don/loss theo thoi ky (OWNER_PERIODS phia Hub).",
+ "unmanaged_accounts": {
+  "label": "chưa có người quản lý",
+  "note": "User chốt 31/07: nhóm '(chuyển team TT)' (~20 account đang sống) + 1 account '(?)' = CHƯA CÓ NGƯỜI QUẢN LÝ — ghi đúng trạng thái này, không gán bừa. Danh sách mã cụ thể theo Store Links phía Hub; hệ quả vận hành: không ai list/không ai nhận cảnh báo cho nhóm này đến khi được gán — bản tin xếp việc của nhóm vào 'chờ phân công'."
+ },
+ "cohort_environment": {
+  "note": "CHUẨN so sánh môi trường (chống đọc nhầm từ bảng gộp): CHỈ tính account ĐÃ CHẠM FIRST SALE (đã kích hoạt review). Account 0 đơn 'sống' vì chưa bị phơi ra trước Etsy, không phải vì vận hành tốt.",
+  "survival_first_sale_cohort": {
+   "Năng Phan": "4/10",
+   "Dâng Trần": "1/14",
+   "Minh Huỳnh": "1/13",
+   "Ly Nguyễn": "0/10"
+  }
+ }
 }
