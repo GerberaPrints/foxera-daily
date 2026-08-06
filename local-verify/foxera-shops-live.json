@@ -69,8 +69,6 @@
       "shop": "Zyvorexa",
       "url": "https://www.etsy.com/shop/Zyvorexa",
       "status": "not_selling",
-      "prev_status": "active",
-      "prev_checked": "2026-08-01",
       "verified_at": "2026-08-06"
     },
     {
@@ -400,7 +398,7 @@
       "shop": "HoanElly",
       "url": "https://www.etsy.com/shop/HoanElly",
       "status": "active",
-      "sales": 1208,
+      "sales": 1210,
       "rating": 4.5,
       "reviews": 169,
       "on_sale": true,
@@ -486,9 +484,10 @@
       "code": "E202",
       "shop": "NorviqueStudio",
       "url": "https://www.etsy.com/shop/NorviqueStudio",
-      "status": "not_selling",
-      "prev_status": "active",
-      "prev_checked": "2026-08-01",
+      "status": "active",
+      "on_sale": false,
+      "prev_status": "not_selling",
+      "prev_checked": "2026-08-06",
       "verified_at": "2026-08-06"
     },
     {
@@ -503,9 +502,10 @@
       "code": "E204",
       "shop": "VelmorinStudio",
       "url": "https://www.etsy.com/shop/VelmorinStudio",
-      "status": "not_selling",
-      "prev_status": "active",
-      "prev_checked": "2026-08-01",
+      "status": "active",
+      "on_sale": false,
+      "prev_status": "not_selling",
+      "prev_checked": "2026-08-06",
       "verified_at": "2026-08-06"
     },
     {
@@ -771,7 +771,7 @@
       "shop": "Aurevanelis",
       "url": "https://www.etsy.com/shop/Aurevanelis",
       "status": "active",
-      "sales": 62,
+      "sales": 63,
       "rating": 2.5,
       "reviews": 6,
       "on_sale": true,
@@ -989,14 +989,14 @@
       "recent_reviews": [
         "Tom on Jul 13, 2026",
         "Annmarie on Jul 5, 2026",
-        "Michelle on Jul 1, 2026",
         "Thomas on Jun 16, 2026",
-        "Meagan on May 19, 2026",
         "Dennis on Aug 1, 2026",
         "Darlene on Jul 31, 2026",
         "Julie on Jul 30, 2026",
         "Jennifer on Jul 30, 2026",
-        "Inactive account on Jul 30, 2026"
+        "Inactive account on Jul 30, 2026",
+        "Felicitas on Jul 29, 2026",
+        "Bethany on Jul 29, 2026"
       ],
       "verified_at": "2026-08-06"
     },
@@ -1029,7 +1029,7 @@
       "shop": "ThreadMelodia",
       "url": "https://www.etsy.com/shop/ThreadMelodia",
       "status": "active",
-      "sales": 706,
+      "sales": 708,
       "rating": 4.5,
       "reviews": 118,
       "on_sale": true,
@@ -1058,8 +1058,6 @@
       "shop": "GoldenMossWorks",
       "url": "https://www.etsy.com/shop/GoldenMossWorks",
       "status": "not_selling",
-      "prev_status": "active",
-      "prev_checked": "2026-08-01",
       "verified_at": "2026-08-06"
     },
     {
@@ -1260,6 +1258,7 @@
       "shop": "TORVEXA",
       "url": "https://www.etsy.com/shop/TORVEXA",
       "status": "active",
+      "reviews": 44,
       "on_sale": false,
       "verified_at": "2026-08-06"
     },
@@ -1268,6 +1267,7 @@
       "shop": "VELNIXA",
       "url": "https://www.etsy.com/shop/VELNIXA",
       "status": "active",
+      "reviews": 46,
       "on_sale": false,
       "verified_at": "2026-08-06"
     },
@@ -1300,8 +1300,6 @@
       "url": "https://www.etsy.com/shop/NOVIXRA",
       "status": "active",
       "on_sale": false,
-      "prev_status": "not_selling",
-      "prev_checked": "2026-08-01",
       "verified_at": "2026-08-06"
     },
     {
@@ -1310,8 +1308,6 @@
       "url": "https://www.etsy.com/shop/NoviForm",
       "status": "active",
       "on_sale": false,
-      "prev_status": "not_selling",
-      "prev_checked": "2026-08-01",
       "verified_at": "2026-08-06"
     },
     {
@@ -1320,8 +1316,6 @@
       "url": "https://www.etsy.com/shop/Arvyno",
       "status": "active",
       "on_sale": false,
-      "prev_status": "not_selling",
-      "prev_checked": "2026-08-01",
       "verified_at": "2026-08-06"
     }
   ]
