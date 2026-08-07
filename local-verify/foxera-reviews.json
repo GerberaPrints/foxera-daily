@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "scope": [
     "E193",
     "E257",
@@ -9,7 +9,7 @@
   "shops": {
     "E193": {
       "shop": "HoanElly",
-      "d": "2026-08-07",
+      "d": "2026-08-08",
       "reviews": [
         "MBS on Aug 4, 2026",
         "Rachel on Aug 4, 2026",
@@ -25,7 +25,7 @@
     },
     "E257": {
       "shop": "VintagebyTung",
-      "d": "2026-08-07",
+      "d": "2026-08-08",
       "reviews": [
         "Morgan on Jul 27, 2026",
         "Deborah on Jul 15, 2026",
@@ -41,8 +41,9 @@
     },
     "E29": {
       "shop": "Velarionne",
-      "d": "2026-08-07",
+      "d": "2026-08-08",
       "reviews": [
+        "Michelle on Aug 7, 2026",
         "Tom on Jul 13, 2026",
         "Annmarie on Jul 5, 2026",
         "Thomas on Jun 16, 2026",
@@ -51,13 +52,12 @@
         "Julie on Jul 30, 2026",
         "Jennifer on Jul 30, 2026",
         "Inactive account on Jul 30, 2026",
-        "Felicitas on Jul 29, 2026",
-        "Bethany on Jul 29, 2026"
+        "Felicitas on Jul 29, 2026"
       ]
     },
     "E4": {
       "shop": "ThreadMelodia",
-      "d": "2026-08-07",
+      "d": "2026-08-08",
       "reviews": [
         "Darlene on Aug 2, 2026",
         "Etsy buyer on Jul 14, 2026",
