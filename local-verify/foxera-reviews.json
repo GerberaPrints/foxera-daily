@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "scope": [
     "E193",
     "E257",
@@ -7,25 +7,9 @@
     "E4"
   ],
   "shops": {
-    "E193": {
-      "shop": "HoanElly",
-      "d": "2026-08-10",
-      "reviews": [
-        "Wendy on Aug 8, 2026",
-        "MBS on Aug 4, 2026",
-        "Rachel on Aug 4, 2026",
-        "Etsy buyer on Aug 2, 2026",
-        "Milorad on Jul 31, 2026",
-        "Kerry on Jul 30, 2026",
-        "Carly on Jul 21, 2026",
-        "Ainsley on Jul 19, 2026",
-        "Isabella on Jul 5, 2026",
-        "Etsy buyer on Aug 8, 2026"
-      ]
-    },
     "E257": {
       "shop": "VintagebyTung",
-      "d": "2026-08-10",
+      "d": "2026-08-11",
       "reviews": [
         "Morgan on Jul 27, 2026",
         "Deborah on Jul 15, 2026",
@@ -41,7 +25,7 @@
     },
     "E29": {
       "shop": "Velarionne",
-      "d": "2026-08-10",
+      "d": "2026-08-11",
       "reviews": [
         "Heather on Aug 9, 2026",
         "Michelle on Aug 7, 2026",
@@ -57,16 +41,16 @@
     },
     "E4": {
       "shop": "ThreadMelodia",
-      "d": "2026-08-10",
+      "d": "2026-08-11",
       "reviews": [
         "Darlene on Aug 2, 2026",
         "Etsy buyer on Jul 14, 2026",
         "sandra on Jul 11, 2026",
-        "Eric on Jul 4, 2026",
         "Claudia on Jun 14, 2026",
         "Cecilia on Aug 8, 2026",
         "wsboettger on Aug 3, 2026",
-        "Carlos on Jul 31, 2026"
+        "Carlos on Jul 31, 2026",
+        "joseph on Jul 26, 2026"
       ]
     }
   }
