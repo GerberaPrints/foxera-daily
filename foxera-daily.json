@@ -2,11 +2,9 @@
  "date": "2026-08-12",
  "locale": "US/USD",
  "routine_version": "v8",
- "revision": 2,
- "revision_note": "Ban 2 SUA LAI ban 1: anh chup project GAS cho thay CO file 'FoxEra Cloud Handoff.gs'. Cau 'fxDrivePush khong ton tai' cua ban 1 la SAI PHAM VI - dung la khong co trong REPO, chua ket luan duoc ve project GAS. Dang cho ket qua dxAudit.",
  "health": {
   "status": "stale",
-  "incident": "Cloud khong push duoc GitHub: git proxy cua phien tu choi bom credential cho GerberaPrints/foxera-daily (403). Mac xich Drive->GitHub chua xac dinh: file 'FoxEra Cloud Handoff.gs' CO trong project GAS nhung chua biet co trigger goi no khong - dang do bang ZZ-Audit.gs.",
+  "incident": "Cloud khong push duoc GitHub: git proxy cua phien tu choi bom credential cho GerberaPrints/foxera-daily (403, repo khong nam trong authorized repository set). Dong thoi Drive handoff khong co ben tieu thu: fxDrivePush() khong ton tai, file foxera-metrics-append.jsonl nam nguyen trong thu muc tu 06/08 den 12/08.",
   "source": "github",
   "detail": "access denied by the git proxy: GerberaPrints/foxera-daily is not in this session's authorized repository set, so the proxy will not inject a credential for it. To fix, add the repository to the session's sources.",
   "days_since_last_successful_delivery": 6,
@@ -18,19 +16,15 @@
   "routine_version": "v8"
  },
  "channels_known": [
-  "GAS project 'FoxEra - Etsy Order Tracking' — 5 script dung chung 1 han muc 20 trigger",
-  "  · Etsy - Daily Market Reseach.gs v4 (fx*/pt_*) -> Telegram, doc GitHub raw foxera-daily.json",
-  "  · AccountsTelegram.gs v5.5 (accTg*) -> Telegram, doc GitHub raw",
-  "  · Etsy - Hub Patch.gs v2.32.5-p1 (etsyUspsSync)",
-  "  · FoxEra Cloud Handoff.gs — CHUA BIET noi dung/trigger",
-  "  · FoxEra - Etsy Order Tracking (file chinh)",
-  "etsy-multibot-gas-v1.gs trong repo: KHONG phai ban dang chay — repo lech voi thuc te",
+  "GAS etsy-multibot-gas-v1.gs -> Telegram (6 du an, doc GitHub raw)",
+  "GAS etsy-accounts-telegram.gs -> Telegram (bang diem shop, doc GitHub raw) [CHONG LAP voi FOXACC]",
   "PC script -> git push GitHub (dang chay tot: shops-live 04:21, genusfaith 04:00)",
   "Cloud -> Google Drive FoxEra-Cloud-Handoff (tang chinh moi tu v8)"
  ],
  "blocks": {
   "B0": [
-   "🔴 <b>BAO CAO SU CO — 12/08/2026 (ban 2)</b>\n<i>Bao cao thi truong hom nay TAM DUNG. Ly do o duoi, co bang chung.</i>\n\n<b>1) Mat bao nhieu</b>\n• <code>foxera-daily.json</code> tren GitHub van la <b>06/08</b> — <b>6 ngay</b> khong giao duoc tin.\n\n<b>2) Mac xich 1 — Cloud khong push duoc (DA CHOT)</b>\nProbe ghi 1 byte 12/08:\n<code>access denied by the git proxy: GerberaPrints/foxera-daily is not in this session's authorized repository set</code> → 403.\n<i>KHONG lien quan PAT</i> — proxy tu choi <i>bom credential</i>, chua doc toi PAT.\n<code>git clone</code>/<code>git fetch</code> van OK → doc duoc KHONG suy ra ghi duoc (T3).\n\n<b>3) Mac xich 2 — Drive→GitHub: CHUA CHOT</b>\nBan 1 cua bao cao nay viet \"fxDrivePush khong ton tai\" — <b>sai pham vi</b>. Dung la khong co trong REPO; nhung project GAS co file <code>FoxEra Cloud Handoff.gs</code>. Dang do bang <code>ZZ-Audit.gs</code>.\nBang chung con lai: <code>foxera-metrics-append.jsonl</code> nam nguyen trong thu muc handoff tu <b>06/08 08:10Z</b> den 12/08 — 6 ngay khong ai dung.\n\n<b>4) Phat hien phu: REPO LECH THUC TE</b>\n<code>etsy-multibot-gas-v1.gs</code> trong repo <b>khong phai</b> ban dang chay. Ban that la 5 script trong project \"FoxEra - Etsy Order Tracking\" (fx*/pt_*/accTg*/etsy*). Moi chan doan doc tu repo deu co rui ro lech.\n\n<b>5) Vi sao khong ai biet</b>\n• <code>health.status</code> ghi <b>\"ok\"</b> trong khi dau ra chet 6 ngay — KPI do dau vao (T2).\n• Canh bao stale tu che nguyen nhan thay vi doc tu du lieu (T1).\n\n👉 <b>Chot:</b> 1 su co ha tang, khong phai 6 ngay research that bai. Cho dxAudit de chot mac xich 2.\n🔗 Nguon: probe git push 12/08 · Drive listing 12/08 · anh chup project GAS 12/08"
+   "🔴 <b>BAO CAO SU CO — 12/08/2026</b>\n<i>Bao cao thi truong hom nay TAM DUNG. Ly do o duoi, co bang chung, khong phong doan.</i>\n\n<b>1) Da mat bao nhieu?</b>\n• <code>foxera-daily.json</code> tren GitHub van la <b>06/08</b> — <b>6 ngay</b> khong giao duoc tin.\n• Suot 6 ngay, bot chi bao \"DU LIEU CHUA CAP NHAT\" kem phong doan SAI.\n\n<b>2) Vuong o dau — 2 mac xich dut cung luc</b>\n• <b>Mac xich 1 — Cloud khong push duoc.</b> Do that bang probe ghi 1 byte hom nay:\n<code>access denied by the git proxy: GerberaPrints/foxera-daily is not in this session's authorized repository set</code> → 403.\n  <i>KHONG lien quan PAT.</i> Proxy tu choi <i>bom credential</i>, chua doc toi PAT.\n  <code>git clone</code> / <code>git fetch</code> van OK → doc duoc KHONG suy ra ghi duoc.\n• <b>Mac xich 2 — Drive handoff khong co ai tieu thu.</b> Ham <code>fxDrivePush()</code> <b>khong ton tai</b> trong repo. File <code>foxera-metrics-append.jsonl</code> nam nguyen trong thu muc handoff tu <b>06/08 08:10Z</b> den nay — 6 ngay khong ai dung.\n\n<b>3) Vi sao khong ai biet</b>\n• <code>health.status</code> ghi <b>\"ok\"</b> trong khi dau ra da chet 6 ngay — KPI do dau vao, khong do dau ra.\n• Canh bao stale <i>tu che</i> nguyen nhan (\"research chua chay/push\") thay vi doc nguyen nhan tu du lieu.\n\n👉 <b>Chot:</b> day la 1 su co ha tang, khong phai 6 ngay research that bai. Ban va da san sang: GAS v2 doc Drive truc tiep + schema health do DAU RA.\n🔗 Nguon: probe git push 12/08 (verbatim o tren) · Drive folder listing 12/08 · git log --since=2026-08-01",
+   "🛠 <b>KE HOACH SUA — 12/08</b>\n\n<b>Viec cua ban (theo thu tu):</b>\n1. <b>Dan de</b> <code>etsy-multibot-gas-v2.gs</code> vao project GAS multibot (Ctrl+A → dan de → Save).\n2. Chay <code>mbListTriggers()</code> — soi trigger mo coi (SYSTEM-v3 T5).\n3. Chay <code>mbTestRead()</code> — phai thay <code>src=drive</code>.\n4. Chay <code>mbInstallTriggers()</code> — co kiem cho trong /20 truoc khi cai.\n5. Kiem <b>Project Settings → Time zone = (GMT+07:00) Bangkok</b> (T11).\n6. <i>Tuy chon nhung nen lam:</i> them <code>GerberaPrints/foxera-daily</code> vao <b>sources</b> cua scheduled task → Cloud push thang duoc, Drive tro thanh du phong.\n7. <b>Rotate PAT</b> trong prompt (da lo qua anh chup man hinh) — cap lai chi <b>Contents: Read</b>.\n\n<b>Sau khi xong:</b> chuoi moi la Cloud → Drive → GAS v2 → Telegram. Bo han mac xich GAS→GitHub (chua bao gio chay). GitHub tro thanh ban luu tru tang 2 do script may ban push.\n\n👉 <b>Chot:</b> lam xong buoc 1-5 la sang mai 06:00 co tin that. Bao cao thi truong day du se chay lai ngay khi ong dan thong.\n🔗 Nguon: SYSTEMv3.md T1/T2/T3/T4/T5/T8/T9/T11/T16 · foxera-routine-v8.md Luat 46-51"
   ],
   "B1": ["<b>B1</b>\n⏸ Tam dung — su co ha tang 06/08→12/08 (xem B0). Moc du lieu gan nhat: 06/08."],
   "B2": ["<b>B2</b>\n⏸ Tam dung — su co ha tang 06/08→12/08 (xem B0). Moc du lieu gan nhat: 06/08."],
