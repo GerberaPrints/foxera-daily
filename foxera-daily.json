@@ -2,11 +2,13 @@
  "date": "2026-08-12",
  "locale": "US/USD",
  "routine_version": "v8",
+ "revision": 3,
+ "revision_note": "Ban 3 = ban DUNG. Ban 1 (rev khong danh so) chua cau sai 'fxDrivePush khong ton tai' va da bi fxDrivePush commit de len ban 2 luc 17:52 do TRUNG TEN tren Drive (T9). Ban 3 nay ghi lai su that day du sau khi da chua xong.",
  "health": {
-  "status": "stale",
-  "incident": "Cloud khong push duoc GitHub: git proxy cua phien tu choi bom credential cho GerberaPrints/foxera-daily (403, repo khong nam trong authorized repository set). Dong thoi Drive handoff khong co ben tieu thu: fxDrivePush() khong ton tai, file foxera-metrics-append.jsonl nam nguyen trong thu muc tu 06/08 den 12/08.",
-  "source": "github",
-  "detail": "access denied by the git proxy: GerberaPrints/foxera-daily is not in this session's authorized repository set, so the proxy will not inject a credential for it. To fix, add the repository to the session's sources.",
+  "status": "degraded",
+  "incident": "Da tim ra va KHAC PHUC: fxDrivePush() co san va chay tot, nhung chua bao gio duoc hen gio vi project GAS het sach 20/20 slot trigger (10 slot bi fxSendBlock1..10 chiem, 2 slot etsyConsolidate trung). Da gop 10 -> 1 foxeraSendAll va xoa ban trung, thu hoi 10 slot, cai fxDrivePush @05:30. Chay tay 17:52 commit thanh cong len GitHub. Rieng mat xich Cloud->GitHub truc tiep van chan boi git proxy (khong lien quan PAT) - Drive la tang chinh dung nhu thiet ke v8.",
+  "source": "gas",
+  "detail": "git proxy: GerberaPrints/foxera-daily is not in this session's authorized repository set. Trigger cap: 20/20 truoc khi sua, 11/20 sau khi sua.",
   "days_since_last_successful_delivery": 6,
   "last_delivery_channel": "telegram",
   "days_since_live_number": 6,
@@ -16,15 +18,23 @@
   "routine_version": "v8"
  },
  "channels_known": [
-  "GAS etsy-multibot-gas-v1.gs -> Telegram (6 du an, doc GitHub raw)",
-  "GAS etsy-accounts-telegram.gs -> Telegram (bang diem shop, doc GitHub raw) [CHONG LAP voi FOXACC]",
-  "PC script -> git push GitHub (dang chay tot: shops-live 04:21, genusfaith 04:00)",
-  "Cloud -> Google Drive FoxEra-Cloud-Handoff (tang chinh moi tu v8)"
+  "GAS project 'FoxEra - Etsy Order Tracking' — 5 script + ZZ-Audit, dung chung han muc 20 trigger (nay 11/20)",
+  "fxDrivePush @05:30 — Drive -> GitHub (MOI cai 12/08, truoc do khong co trigger)",
+  "foxeraSendAll @06:00 — gui du 10 khoi (gop tu 10 trigger fxSendBlockN)",
+  "fxHealthCheck @05:45 · accTgSendNow · etsyUspsSync · etsyConsolidate + 4 job etsy khac",
+  "AccountsTelegram.gs v5.5 doc GitHub raw rieng",
+  "PC script -> git push GitHub (chay tot moi ngay)",
+  "Cloud -> Google Drive FoxEra-Cloud-Handoff (tang chinh)"
+ ],
+ "open_risks": [
+  "T9: fxDrivePush KHONG chong trung ten. 17:52 no commit foxera-daily.json HAI LAN va ban CU thang -> GitHub tung mang du lieu sai. Can va: gom theo ten, chi lay getLastUpdated() moi nhat.",
+  "PT_TOKEN / PT_CHAT chua vao Script Property -> token Telegram con nam tran trong code va da lo qua anh chup man hinh. Can revoke + chuyen sang Property.",
+  "Thang Likert Hub 90/75/55/30 khac Cloud 80/60/40/25, cung ten khac thuoc -> moi so sanh giua hai nguon deu sai don vi. Can chot 1 thang.",
+  "Mat lich gio so le cua fxSendBlockN (07:45/08:00/08:15) — nay ca 10 khoi di lien mach tu 06:00."
  ],
  "blocks": {
   "B0": [
-   "🔴 <b>BAO CAO SU CO — 12/08/2026</b>\n<i>Bao cao thi truong hom nay TAM DUNG. Ly do o duoi, co bang chung, khong phong doan.</i>\n\n<b>1) Da mat bao nhieu?</b>\n• <code>foxera-daily.json</code> tren GitHub van la <b>06/08</b> — <b>6 ngay</b> khong giao duoc tin.\n• Suot 6 ngay, bot chi bao \"DU LIEU CHUA CAP NHAT\" kem phong doan SAI.\n\n<b>2) Vuong o dau — 2 mac xich dut cung luc</b>\n• <b>Mac xich 1 — Cloud khong push duoc.</b> Do that bang probe ghi 1 byte hom nay:\n<code>access denied by the git proxy: GerberaPrints/foxera-daily is not in this session's authorized repository set</code> → 403.\n  <i>KHONG lien quan PAT.</i> Proxy tu choi <i>bom credential</i>, chua doc toi PAT.\n  <code>git clone</code> / <code>git fetch</code> van OK → doc duoc KHONG suy ra ghi duoc.\n• <b>Mac xich 2 — Drive handoff khong co ai tieu thu.</b> Ham <code>fxDrivePush()</code> <b>khong ton tai</b> trong repo. File <code>foxera-metrics-append.jsonl</code> nam nguyen trong thu muc handoff tu <b>06/08 08:10Z</b> den nay — 6 ngay khong ai dung.\n\n<b>3) Vi sao khong ai biet</b>\n• <code>health.status</code> ghi <b>\"ok\"</b> trong khi dau ra da chet 6 ngay — KPI do dau vao, khong do dau ra.\n• Canh bao stale <i>tu che</i> nguyen nhan (\"research chua chay/push\") thay vi doc nguyen nhan tu du lieu.\n\n👉 <b>Chot:</b> day la 1 su co ha tang, khong phai 6 ngay research that bai. Ban va da san sang: GAS v2 doc Drive truc tiep + schema health do DAU RA.\n🔗 Nguon: probe git push 12/08 (verbatim o tren) · Drive folder listing 12/08 · git log --since=2026-08-01",
-   "🛠 <b>KE HOACH SUA — 12/08</b>\n\n<b>Viec cua ban (theo thu tu):</b>\n1. <b>Dan de</b> <code>etsy-multibot-gas-v2.gs</code> vao project GAS multibot (Ctrl+A → dan de → Save).\n2. Chay <code>mbListTriggers()</code> — soi trigger mo coi (SYSTEM-v3 T5).\n3. Chay <code>mbTestRead()</code> — phai thay <code>src=drive</code>.\n4. Chay <code>mbInstallTriggers()</code> — co kiem cho trong /20 truoc khi cai.\n5. Kiem <b>Project Settings → Time zone = (GMT+07:00) Bangkok</b> (T11).\n6. <i>Tuy chon nhung nen lam:</i> them <code>GerberaPrints/foxera-daily</code> vao <b>sources</b> cua scheduled task → Cloud push thang duoc, Drive tro thanh du phong.\n7. <b>Rotate PAT</b> trong prompt (da lo qua anh chup man hinh) — cap lai chi <b>Contents: Read</b>.\n\n<b>Sau khi xong:</b> chuoi moi la Cloud → Drive → GAS v2 → Telegram. Bo han mac xich GAS→GitHub (chua bao gio chay). GitHub tro thanh ban luu tru tang 2 do script may ban push.\n\n👉 <b>Chot:</b> lam xong buoc 1-5 la sang mai 06:00 co tin that. Bao cao thi truong day du se chay lai ngay khi ong dan thong.\n🔗 Nguon: SYSTEMv3.md T1/T2/T3/T4/T5/T8/T9/T11/T16 · foxera-routine-v8.md Luat 46-51"
+   "✅ <b>SU CO DA KHAC PHUC — 12/08/2026</b>\n<i>Bao cao thi truong hom nay van TAM DUNG (chua kip quet), nhung duong ong da thong.</i>\n\n<b>1) Nguyen nhan goc — da chot</b>\n• <b>Mac xich 1:</b> Cloud khong push duoc GitHub. Probe ghi 1 byte:\n<code>access denied by the git proxy: ... not in this session's authorized repository set</code> → 403. <i>Khong lien quan PAT.</i>\n• <b>Mac xich 2 (cai giet ta 6 ngay):</b> <code>fxDrivePush()</code> CO SAN, code tot, <code>GH_TOKEN</code> co san — nhung <b>chua bao gio duoc hen gio</b>, vi project het sach <b>20/20 slot trigger</b>.\n  10 slot bi <code>fxSendBlock1..10</code> chiem (10 trigger cho 10 khoi cua cung 1 file) + 2 slot <code>etsyConsolidate</code> trung nhau.\n\n<b>2) Da lam gi</b>\n• Gop 10 → 1 <code>foxeraSendAll</code> @06:00, xoa ban trung → <b>thu hoi 10 slot</b>.\n• Cai <code>fxDrivePush</code> @05:30. Nay <b>11/20</b>, con trong 9.\n• Chay tay 17:52 → <b>commit thanh cong</b> len GitHub.\n\n<b>3) Rui ro con lai — T9 vua can that</b>\nLuc 17:52 <code>fxDrivePush</code> commit <code>foxera-daily.json</code> <b>HAI LAN</b>: thu muc Drive co 2 file trung ten, va <b>ban CU thang</b>. GitHub tung mang du lieu sai trong ~30 phut. Ham nay can va: gom theo ten, chi lay <code>getLastUpdated()</code> moi nhat.\n\n👉 <b>Chot:</b> 6 ngay mat trang khong phai vi research hong, ma vi <b>mot slot trigger khong con cho</b>. Sang mai 06:00 se co tin that.\n🔗 Nguon: dxAudit/dxPlan/dxApply/dxInstallHandoff 12/08 17:16-17:53 · log fxDrivePush 17:52 · git log b598f79/d0e1218/0f3fc93"
   ],
   "B1": ["<b>B1</b>\n⏸ Tam dung — su co ha tang 06/08→12/08 (xem B0). Moc du lieu gan nhat: 06/08."],
   "B2": ["<b>B2</b>\n⏸ Tam dung — su co ha tang 06/08→12/08 (xem B0). Moc du lieu gan nhat: 06/08."],
