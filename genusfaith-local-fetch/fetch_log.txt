@@ -8,3 +8,4 @@
 2026-08-10T04:00:04.490997+07:00 | brands 6/6 | products 2019 | pages 12 | new14d 28 | errors 0 | changes new 0 / removed 0 / price 0 / stock 2
 2026-08-11T04:00:04.621291+07:00 | brands 6/6 | products 2019 | pages 12 | new14d 28 | errors 0 | changes new 0 / removed 0 / price 571 / stock 2
 2026-08-12T04:00:05.214196+07:00 | brands 6/6 | products 1943 | pages 11 | new14d 28 | errors 0 | changes new 8 / removed 84 / price 560 / stock 1
+2026-08-12T15:47:27.674804+07:00 | brands 7/7 | products 2116 | pages 12 | new14d 36 | errors 0 | changes new 6 / removed 0 / price 2 / stock 0
