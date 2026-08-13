@@ -57,7 +57,7 @@ TARGETS = {
         "label": "Blessac",
         "url": "https://blessac.com/products.json?limit=250",
         "role": "direct",
-        "known_blocked": True,
+        "known_blocked": False,   # 12/08/2026: doc duoc 403 SP, 2 trang, 0 loi. Chan la o sandbox cloud, khong phai Blessac.
     },
     "afroyla": {
         "id": "afroyla",
@@ -79,6 +79,17 @@ TARGETS = {
         "label": "Venxara",
         "url": "https://venxara.com/products.json?limit=250",
         "role": "lifestyle",
+        "known_blocked": False,
+    },
+    "genusfaith": {
+        # CHINH TA. Them 12/08/2026.
+        # Suot 22 ngay bot doc 6 doi thu ma chua bao gio doc feed cua chinh minh.
+        # role "own" de cloud tach khoi phan doi thu khi so sanh gia.
+        # !! Neu domain that KHONG phai genusfaith.com thi sua URL nay.
+        "id": "genusfaith",
+        "label": "GenusFaith (CHINH TA)",
+        "url": "https://genusfaith.com/products.json?limit=250",
+        "role": "own",
         "known_blocked": False,
     },
 }

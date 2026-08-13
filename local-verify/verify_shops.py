@@ -1,68 +1,197 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-LOCAL-VERIFY SHOPS v8 — MẮT NHÌN SÀN DUY NHẤT của hệ thống FoxEra
-v3: chống bot-wall (Chrome thật + profile lưu cookie + ẩn webdriver);
-gặp captcha thì DỪNG CHỜ bạn giải tay trong cửa sổ rồi bấm Enter — giải 1 lần, cookie nhớ.
-(GAS bị Etsy chặn 429 · Cloud bị chặn PROVENANCE — chỉ browser thật trên MÁY BẠN quét được)
+LOCAL-VERIFY SHOPS v9 — MAT NHIN SAN cua he thong FoxEra
+=========================================================
+v9 (13/08/2026) — VA LOI FAIL-OPEN. Doc phan nay truoc khi sua tiep.
 
-Nguồn danh sách: foxera-accounts.json + foxera-store-registry.json (live + sus_with_sales).
-SUS NEW không có tên shop -> bỏ qua (không có URL để quét).
+SU CO DA XAY RA (bang chung 13/08): ban v8 bao 141 shop song / 20 chet.
+Quet live doi chung 161/161 shop cho ket qua that: 91 song / 69 chet.
+=> v8 SAI 51/160 shop (32%), bo sot 50 cai chet, trong do co
+   E5 AURELOOMS (415 don) va E3 Loomelody (337 don).
 
-Cài (1 lần):  pip install playwright && python -m playwright install chromium
-Chạy:         python local-verify/verify_shops.py            # quét toàn bộ
-              python local-verify/verify_shops.py E135 E42   # chỉ vài mã
-Sau khi chạy: git add -A && git commit -m "shops-live" && git push
-  -> Hub (GAS) đọc foxera-accounts-daily.json qua raw URL, khỏi fetch Etsy.
+NGUYEN NHAN GOC (da kiem chung: 50/50 ca bao sai deu parse duoc 0 truong):
+    v8 dong 100-104:
+        if "currently not selling" in low:  -> not_selling
+        if "taking a short break" in low:   -> on_break
+        rec["status"] = "active"            # <-- MAC DINH
+    "active" la gia tri MAC DINH khi khong khop 2 mau tren. Khi trang chua
+    render xong (goto dung domcontentloaded + sleep cung 2500ms), HTML chua
+    co cau "currently not selling" -> roi thang vao "active".
+    Trang rong va shop dang chet cho ra CUNG mot ket qua.
 
-Script tự làm 2 việc: (1) ghi local-verify/foxera-shops-live.json;
-(2) MERGE sales/rating/reviews/listings/shopStatus/checkedAt vào foxera-accounts-daily.json.
+NGUYEN TAC v9: KHONG BAO GIO MAC DINH "active".
+    Moi trang thai phai co BANG CHUNG DUONG. Khong du bang chung -> "unknown".
+    Theo Luat 43: unknown => hanh dong la "quet lai", TUYET DOI khong phai
+    "giu nhip listing". Khong biet KHAC voi khoe.
 
-Nhịp khuyến nghị: 6 store LIVE quét DAILY (chuông báo sweep); full 2 lần/tuần.
+CAC LOI KHAC DA VA:
+  #2 v8 `return` ngay khi thay not_selling -> vut mat so Sales.
+     Trang shop DA KHOA VAN hien "N Sales" (AURELOOMS 415, Zyvorexa 2).
+     Day la du lieu quy nhat cho Khoi 11. v9 luon parse so truoc khi tra ve.
+  #3 regex review `\(([\d,]+)\)\s*</span>` khop BAT KY so trong ngoac nao
+     tren trang. v9 uu tien JSON-LD reviewCount, bo mau long.
+  #4 regex listing `([\d,]+)\s+items?</` khop ca bo dem danh muc ben sidebar.
+     v9 dung mau neo + kiem tinh hop ly.
+  #5 lich su ghi khoa "d" thay vi "date", va bo truong khi None -> khong phan
+     biet duoc "trang khong hien" voi "khong doc duoc". v9 ghi du, giu null.
+  #6 rating: v8 co the bat trung ratingValue cua MOT listing thay vi cua shop
+     (bang chung E26: v8 doc 3.5, thuc te 2.4). v9 chi nhan aggregateRating.
+  #7 merge_daily GHI DE foxera-accounts-daily.json — file nay tu V6 do Cloud
+     so huu qua Drive handoff. Hai nguoi ghi mot file = tranh chap.
+     v9 ghi ra foxera-shops-desktop.json rieng; Cloud la nguoi merge.
+
+CHAY:  python local-verify/verify_shops.py              # quet toan bo
+       python local-verify/verify_shops.py E135 E42     # vai ma
+       python local-verify/verify_shops.py --auto       # khong nguoi truc
+       python local-verify/verify_shops.py --selftest   # chay test, KHONG mo browser
 """
 import asyncio, json, random, re, sys
-AUTO = "--auto" in sys.argv   # chạy không người trực (Task Scheduler): captcha -> ghi lỗi, không chờ Enter
 from datetime import date
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-ROSTER = ROOT / "foxera-accounts.json"
-REGISTRY = ROOT / "foxera-store-registry.json"
-DAILY = ROOT / "foxera-accounts-daily.json"
-OUT = Path(__file__).resolve().parent / "foxera-shops-live.json"
-PROFILE = Path(__file__).resolve().parent / ".pw-profile"   # cookie/captcha lưu ở đây giữa các lần chạy
-REVIEWS_FOR = {"E29", "E4", "E257", "E193"}   # v8: chỉ 4 store sống mới đọc review text (scope Hub duyệt 31/07)
-REVIEWS_OUT = Path(__file__).resolve().parent / "foxera-reviews.json"
+AUTO      = "--auto" in sys.argv
+SELFTEST  = "--selftest" in sys.argv
+DEBUG_DIR = None  # set trong main()
 
-def extract_reviews(html, cap=20):
-    """Đọc review text từ HTML shop page. Ưu tiên JSON-LD reviewBody; fallback block review hiển thị."""
-    out = []
-    for m in re.finditer(r'"reviewBody"\s*:\s*"((?:[^"\\]|\\.){10,600}?)"', html):
+ROOT      = Path(__file__).resolve().parent.parent
+HERE      = Path(__file__).resolve().parent
+ROSTER    = ROOT / "foxera-accounts.json"
+REGISTRY  = ROOT / "foxera-store-registry.json"
+OUT       = HERE / "foxera-shops-live.json"
+DESKTOP_OUT = HERE / "foxera-shops-desktop.json"   # v9: KHONG dung accounts-daily nua
+PROFILE   = HERE / ".pw-profile"
+REVIEWS_FOR = {"E29", "E4", "E257", "E193"}
+REVIEWS_OUT = HERE / "foxera-reviews.json"
+
+# ---------------------------------------------------------------- classify --
+
+# Trang Etsy that LUON co cac moc nay. Khong co = trang chua render / bi chan.
+RENDER_MARKERS = ("etsy", "</html>")
+# Bang chung DUONG cho "trang shop da render du"
+SHOP_PAGE_MARKERS = (
+    "is currently not selling on etsy",
+    "taking a short break",
+    "shop-home",            # id/class khung shop
+    'data-shop-id',
+    '"@type":"onlinestore"',
+    "sales</span>", " sales",
+    "no items listed at this time",
+    "itemlist",
+)
+BOTWALL_MARKERS = ("captcha", "datadome", "verify you are a human",
+                   "unusual activity", "px-captcha", "are you a robot")
+
+MIN_HTML = 20000   # trang Etsy that luon lon hon nhieu; nguong nay bat trang rong
+
+
+def classify(html, http_status=None):
+    """Tra (status, evidence, quote).
+
+    status in: active | not_selling | on_break | not_found | blocked | unknown
+    KHONG BAO GIO tra 'active' neu khong co bang chung duong.
+    """
+    if http_status == 404:
+        return "not_found", "http 404", None
+    if not html:
+        return "unknown", "html rong", None
+    low = html.lower()
+
+    # 1) bot-wall (kiem truoc, vi trang wall cung ngan)
+    if any(m in low for m in BOTWALL_MARKERS) and "is currently not selling" not in low:
+        hit = next(m for m in BOTWALL_MARKERS if m in low)
+        return "blocked", f"botwall marker: {hit}", None
+
+    # 2) GUARD RENDER — day la chot chan v8 thieu
+    if len(html) < MIN_HTML or not all(m in low for m in RENDER_MARKERS):
+        return "unknown", f"trang chua render du (len={len(html)})", None
+    if not any(m in low for m in SHOP_PAGE_MARKERS):
+        return "unknown", "khong thay moc nao cua trang shop", None
+
+    # 3) bang chung AM (shop khong ban duoc) — co cau nguyen van
+    m = re.search(r'([A-Za-z0-9_\-]{2,40})\s+is currently not selling on Etsy', html, re.I)
+    if m or "is currently not selling on etsy" in low:
+        quote = m.group(0) if m else "is currently not selling on Etsy"
+        return "not_selling", "cau trang thai nguyen van", quote
+    if "taking a short break" in low:
+        return "on_break", "cau nghi phep nguyen van", "taking a short break"
+
+    # 4) bang chung DUONG (storefront mo) — phai co it nhat 1
+    positives = []
+    if re.search(r'[\d,]+\s*Sales\b', html, re.I):           positives.append("co dong Sales")
+    if "no items listed at this time" in low:                positives.append("co cau 'No items listed'")
+    if re.search(r'data-shop-id|"@type"\s*:\s*"OnlineStore"', html, re.I): positives.append("markup shop")
+    if re.search(r'/listing/\d+', html):                     positives.append("co link /listing/")
+    if not positives:
+        return "unknown", "khong co bang chung duong nao cho storefront mo", None
+    return "active", " + ".join(positives), None
+
+
+# ------------------------------------------------------------------ parse ---
+
+def _int(s):
+    try: return int(re.sub(r"[^\d]", "", s))
+    except Exception: return None
+
+
+def parse_numbers(html):
+    """Parse so cong khai. Chay cho CA shop song LAN shop da khoa (loi #2)."""
+    out = {"sales": None, "rating": None, "reviews": None, "listings": None}
+
+    # SALES — Etsy hien "N Sales" ngay duoi ten shop, ke ca khi shop da khoa.
+    m = re.search(r'>\s*([\d,]+)\s*Sales\s*<', html, re.I) or \
+        re.search(r'\b([\d,]+)\s+Sales\b', html)
+    if m:
+        v = _int(m.group(1))
+        if v is not None and v < 10_000_000: out["sales"] = v
+
+    # RATING — CHI nhan aggregateRating cua shop. (loi #6)
+    m = re.search(r'"aggregateRating"\s*:\s*\{[^}]*?"ratingValue"\s*:\s*"?([\d.]+)', html, re.S)
+    if m:
         try:
-            t = m.group(1).encode("utf-8").decode("unicode_escape").strip()
-        except Exception:
-            t = m.group(1).strip()
-        if t and t not in out:
-            out.append(t[:400])
-        if len(out) >= cap: return out
-    # fallback: đoạn text trong block review hiển thị (heuristic)
-    for m in re.finditer(r'data-review-region[^>]*>.*?<p[^>]*>(.{15,600}?)</p>', html, re.S):
-        t = re.sub(r"<[^>]+>", " ", m.group(1))
-        t = re.sub(r"\s+", " ", t).strip()
-        if t and t not in out:
-            out.append(t[:400])
-        if len(out) >= cap: break
+            v = round(float(m.group(1)), 2)
+            if 0 < v <= 5: out["rating"] = v
+        except ValueError: pass
+
+    # REVIEWS — JSON-LD truoc; bo han mau long \(N\)</span> cua v8 (loi #3)
+    m = re.search(r'"aggregateRating"\s*:\s*\{[^}]*?"reviewCount"\s*:\s*"?([\d,]+)', html, re.S) or \
+        re.search(r'"reviewCount"\s*:\s*"?([\d,]+)', html)
+    if m:
+        v = _int(m.group(1))
+        if v is not None and v < 1_000_000: out["reviews"] = v
+
+    # LISTINGS — mau neo, co kiem tinh hop ly (loi #4)
+    for pat in (r'([\d,]+)\s+items?\s*</(?:span|h2|div)>',
+                r'"numberOfItems"\s*:\s*"?([\d,]+)',
+                r'>\s*([\d,]+)\s+items\s*<'):
+        m = re.search(pat, html, re.I)
+        if m:
+            v = _int(m.group(1))
+            if v is not None and 0 <= v <= 100_000:
+                out["listings"] = v; break
+    if "no items listed at this time" in html.lower() and out["listings"] is None:
+        out["listings"] = 0
     return out
 
-def is_botwall(low):
-    return ("captcha" in low or "datadome" in low or "verify you are a human" in low
-            or "unusual activity" in low) and "sales" not in low
+
+def extract_reviews(html, cap=20):
+    out = []
+    for m in re.finditer(r'"reviewBody"\s*:\s*"((?:[^"\\]|\\.){10,600}?)"', html):
+        try:    t = m.group(1).encode("utf-8").decode("unicode_escape").strip()
+        except Exception: t = m.group(1).strip()
+        if t and t not in out: out.append(t[:400])
+        if len(out) >= cap: return out
+    return out
+
+
+# ---------------------------------------------------------------- targets ---
 
 def load_targets():
     seen, out = set(), []
     def add(code, shop, url=None):
+        if not shop: return
         code = code.upper()
-        if code in seen or not shop: return
+        if code in seen: return
         seen.add(code)
         out.append({"code": code, "shop": shop, "url": url or f"https://www.etsy.com/shop/{shop}"})
     try:
@@ -72,7 +201,7 @@ def load_targets():
         print("roster skip:", e)
     try:
         r = json.loads(REGISTRY.read_text(encoding="utf-8"))
-        for sec in ("live", "sus_with_sales"):
+        for sec in ("live", "sus_with_sales", "sus_new"):   # v9: them sus_new
             for x in r.get(sec, []):
                 add(x["code"], x.get("shop"))
         for code, v in (r.get("store_links_extra") or {}).items():
@@ -81,158 +210,240 @@ def load_targets():
         print("registry skip:", e)
     return out
 
+
+# ----------------------------------------------------------------- scrape ---
+
 async def scrape_shop(page, acc):
     rec = {"code": acc["code"], "shop": acc["shop"], "url": acc["url"]}
+    html, http_status = "", None
     try:
-        await page.goto(acc["url"], wait_until="domcontentloaded", timeout=45000)
-        await page.wait_for_timeout(2500)
-        html = await page.content()
-        low = html.lower()
-        if is_botwall(low):
-            if AUTO:
-                rec["status"] = "error:captcha"; return rec
-            print(">>> CAPTCHA/bot-wall tại", acc["code"], "— GIẢI TAY trong cửa sổ Chrome, xong quay lại đây bấm Enter...")
-            input()
+        resp = await page.goto(acc["url"], wait_until="domcontentloaded", timeout=45000)
+        http_status = resp.status if resp else None
+        # v9: cho co BANG CHUNG thay vi sleep cung (nguyen nhan goc loi #1)
+        try:
+            await page.wait_for_function(
+                """() => {
+                    const t = document.body ? document.body.innerText : '';
+                    return t.includes('currently not selling')
+                        || t.includes('taking a short break')
+                        || /\\d[\\d,]*\\s*Sales/.test(t)
+                        || t.includes('No items listed at this time')
+                        || document.querySelector('a[href*="/listing/"]') !== null;
+                }""", timeout=15000)
+        except Exception:
+            # het gio cho -> KHONG doan; de classify() tra unknown
             await page.wait_for_timeout(1500)
-            html = await page.content(); low = html.lower()
-            if is_botwall(low):
-                rec["status"] = "error:captcha"; return rec
-        if "currently not selling" in low:
-            rec["status"] = "not_selling"; return rec
-        if "taking a short break" in low:
-            rec["status"] = "on_break"; return rec
-        rec["status"] = "active"
-        m = re.search(r'([\d,.]+)\s*Sales', html, re.I)
-        if m: rec["sales"] = int(re.sub(r"[^\d]", "", m.group(1)))
-        # rating: ưu tiên aggregateRating JSON-LD (chuẩn shop), fallback aria-label — v5 fix vụ E29 4.1 bị đọc 4.0
-        m = re.search(r'"aggregateRating"[^}]*?"ratingValue"\s*:\s*"?([\d.]+)', html, re.S) or \
-            re.search(r'"ratingValue"\s*:\s*"?([\d.]+)', html) or \
-            re.search(r'aria-label="([\d.]+) out of 5 stars"', html)
-        if m: rec["rating"] = round(float(m.group(1)), 1)
-        m = re.search(r'\(([\d,]+)\)\s*</span>', html) or \
-            re.search(r'"reviewCount"\s*:\s*"?([\d,]+)', html)
-        if m: rec["reviews"] = int(re.sub(r"[^\d]", "", m.group(1)))
-        m = re.search(r'([\d,]+)\s+items?</', html, re.I)
-        if m: rec["listings"] = int(re.sub(r"[^\d]", "", m.group(1)))
-        rec["on_sale"] = bool(re.search(r'(\d+)% off', html))
-        if acc["code"] in REVIEWS_FOR:
-            rv = extract_reviews(html)
-            if rv:
-                rec["recent_reviews"] = rv
-                print(f"    ↳ đọc được {len(rv)} review text")
-            else:
-                rec["reviews_note"] = "khong parse duoc review text (Etsy co the render sau bang JS) — se tinh chinh theo log lan chay dau"
+        html = await page.content()
     except Exception as e:
-        rec["status"] = f"error:{type(e).__name__}"
+        rec.update(status="unknown", evidence=f"exception: {type(e).__name__}",
+                   sales=None, rating=None, reviews=None, listings=None)
+        return rec
+
+    status, evidence, quote = classify(html, http_status)
+
+    if status == "blocked" and not AUTO:
+        print(">>> BOT-WALL tai", acc["code"], "— giai tay trong cua so Chrome roi bam Enter...")
+        input()
+        await page.wait_for_timeout(1500)
+        html = await page.content()
+        status, evidence, quote = classify(html, http_status)
+
+    rec["status"]   = status
+    rec["evidence"] = evidence
+    if quote: rec["quote"] = quote
+    rec["http_status"] = http_status
+    # v9 loi #2: parse so cho MOI trang thai co trang that, ke ca not_selling
+    rec.update(parse_numbers(html) if status in ("active", "not_selling", "on_break")
+               else {"sales": None, "rating": None, "reviews": None, "listings": None})
+
+    if status == "unknown" and DEBUG_DIR:
+        try:
+            (DEBUG_DIR / f"{acc['code']}_{acc['shop']}.html").write_text(html, encoding="utf-8")
+            rec["debug_html"] = True
+        except Exception: pass
+
+    if acc["code"] in REVIEWS_FOR and status == "active":
+        rv = extract_reviews(html)
+        if rv: rec["recent_reviews"] = rv
     return rec
 
-def merge_daily(shops):
-    """Ghi số công khai vào foxera-accounts-daily.json để Hub đọc qua raw URL."""
-    try:
-        d = json.loads(DAILY.read_text(encoding="utf-8"))
-    except Exception as e:
-        print("KHÔNG merge được daily:", e); return
-    by = {s["code"]: s for s in d.get("scores", [])}
-    today = date.today().isoformat()
-    for rec in shops:
-        row = by.get(rec["code"])
-        if not row:
-            row = {"code": rec["code"], "shop": rec.get("shop"), "tier": "C" if rec.get("status") != "active" else "B"}
-            d["scores"].append(row); by[rec["code"]] = row
-        for k in ("sales", "rating", "reviews", "listings"):
-            if k in rec: row[k] = rec[k]
-        st = rec.get("status", "")
-        if st.startswith("error:") and row.get("shopStatus") and not str(row.get("shopStatus","")).startswith("error:"):
-            continue  # quet loi -> giu nguyen so cu (carry), khong ghi de
-        row["shopStatus"] = st
-        row["checkedAt"] = rec.get("verified_at", today)
-        row["fetch_provenance"] = "live_local_browser"
-    d["shops_live_merged_at"] = today
-    DAILY.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Đã merge {len(shops)} shop vào {DAILY.name}")
+
+# ------------------------------------------------------------------- test ---
+
+def selftest():
+    """Bo test bat DUNG con bug da gay su co 13/08. Chay: --selftest"""
+    ok = fail = 0
+    def chk(name, got, want):
+        nonlocal ok, fail
+        if got == want: ok += 1;   print(f"  [OK] {name}")
+        else:           fail += 1; print(f"  [FAIL] {name}: nhan {got!r}, can {want!r}")
+
+    print("== REGRESSION: trang chua render KHONG duoc thanh 'active' ==")
+    chk("html rong",            classify("")[0],                      "unknown")
+    chk("shell HTML ngan",      classify("<html><body></body></html>")[0], "unknown")
+    chk("dai nhung khong moc",  classify("<html>etsy</html>" + "x"*30000)[0], "unknown")
+    chk("HTTP 404",             classify("<html>etsy</html>"+"x"*30000, 404)[0], "not_found")
+
+    pad = "x"*30000
+    dead = f'<html><body>AURELOOMS is currently not selling on Etsy <span>415 Sales</span>{pad}</body></html>'
+    chk("shop chet -> not_selling", classify(dead)[0], "not_selling")
+    chk("shop chet VAN lay duoc Sales (loi #2)", parse_numbers(dead)["sales"], 415)
+
+    live_ = ('<html><body>etsy <a href="/listing/123/x">i</a>'
+             '<span>707 Sales</span>'
+             '<script>{"aggregateRating":{"ratingValue":"4.1","reviewCount":"101"}}</script>'
+             '<span>697 items</span>' + pad + '</body></html>')
+    chk("shop song -> active",  classify(live_)[0], "active")
+    n = parse_numbers(live_)
+    chk("sales",    n["sales"],    707)
+    chk("rating (khong lam tron nua sao)", n["rating"], 4.1)
+    chk("reviews",  n["reviews"],  101)
+    chk("listings", n["listings"], 697)
+
+    wall = "<html>etsy datadome captcha</html>" + pad
+    chk("bot-wall -> blocked", classify(wall)[0], "blocked")
+
+    noitem = '<html><body>etsy data-shop-id="1" No items listed at this time' + pad + '</body></html>'
+    chk("shop mo nhung 0 hang -> active", classify(noitem)[0], "active")
+    chk("listings = 0",                   parse_numbers(noitem)["listings"], 0)
+
+    print("\n== Regex long cua v8 KHONG con bat nham ==")
+    trap = ('<html><body>etsy <a href="/listing/9/x">i</a><span>0 Sales</span>'
+            '<span>Sweatshirts (48)</span><span>Danh muc 999 items</span>' + pad + '</body></html>')
+    n2 = parse_numbers(trap)
+    chk("khong lay (48) lam reviews", n2["reviews"], None)
+    chk("sales doc dung 0",           n2["sales"],   0)
+
+    print(f"\n{ok} pass / {fail} fail")
+    return 1 if fail else 0
+
+
+# ------------------------------------------------------------------- main ---
 
 async def main():
+    global DEBUG_DIR
     from playwright.async_api import async_playwright
+    DEBUG_DIR = HERE / "debug-html"; DEBUG_DIR.mkdir(exist_ok=True)
+
     targets = load_targets()
     only = {c.upper() for c in sys.argv[1:] if not c.startswith("--")}
-    if only:
-        targets = [a for a in targets if a["code"] in only]
-    print(f"Quét {len(targets)} shop (roster + registry)...")
+    if only: targets = [a for a in targets if a["code"] in only]
+    print(f"Quet {len(targets)} shop (roster + registry)...")
+
     results = []
     async with async_playwright() as pw:
-        # Chrome THẬT + profile bền (cookie/captcha nhớ giữa các lần) + ẩn dấu automation
         args = ["--disable-blink-features=AutomationControlled"]
         try:
             ctx = await pw.chromium.launch_persistent_context(str(PROFILE), headless=False,
                     channel="chrome", args=args, locale="en-US",
-                    viewport={"width": 1280, "height": 850})
+                    viewport={"width":1280,"height":850})
         except Exception:
-            print("(Không thấy Chrome cài sẵn — dùng Chromium)")
+            print("(Khong thay Chrome — dung Chromium)")
             ctx = await pw.chromium.launch_persistent_context(str(PROFILE), headless=False,
-                    args=args, locale="en-US", viewport={"width": 1280, "height": 850})
+                    args=args, locale="en-US", viewport={"width":1280,"height":850})
         await ctx.add_init_script("Object.defineProperty(navigator,'webdriver',{get:()=>undefined})")
         page = ctx.pages[0] if ctx.pages else await ctx.new_page()
-        # Khởi động ấm: vào trang chủ Etsy trước, nếu dính wall thì giải 1 lần tại đây
         try:
             await page.goto("https://www.etsy.com/", wait_until="domcontentloaded", timeout=45000)
             await page.wait_for_timeout(2500)
-            if is_botwall((await page.content()).lower()):
-                if AUTO:
-                    print(">>> Bot-wall trang chủ (chế độ auto) — tiếp tục, shop nào dính sẽ ghi error:captcha (số cũ được giữ carry).")
-                else:
-                    print(">>> Bot-wall ngay trang chủ — GIẢI TAY trong cửa sổ Chrome rồi bấm Enter...")
-                    input()
+            if classify(await page.content())[0] == "blocked" and not AUTO:
+                print(">>> Bot-wall ngay trang chu — giai tay roi bam Enter..."); input()
         except Exception as e:
             print("warm-up skip:", e)
+
         for i, acc in enumerate(targets, 1):
             rec = await scrape_shop(page, acc)
             results.append(rec)
-            print(f"[{i}/{len(targets)}] {acc['code']} {acc['shop']}: {rec.get('status')} "
-                  f"sales={rec.get('sales','-')} rating={rec.get('rating','-')}")
-            if str(rec.get("status","")).startswith("error:TargetClosed"):
-                print(">>> Cửa sổ Chrome đã bị ĐÓNG — dừng quét, lưu phần đã có. (Lần sau: đừng đóng cửa sổ; giải captcha xong quay lại đây bấm Enter)")
-                break
+            print(f"[{i}/{len(targets)}] {acc['code']:6s} {acc['shop']:24s} {rec['status']:12s} "
+                  f"sales={rec.get('sales')} rating={rec.get('rating')} listings={rec.get('listings')}"
+                  + ("" if rec['status'] != 'unknown' else f"  <-- {rec.get('evidence')}"))
             try:
                 await page.wait_for_timeout(random.randint(3500, 6500))
             except Exception:
-                print(">>> Cửa sổ Chrome đã bị ĐÓNG — dừng quét, lưu phần đã có.")
-                break
-        try:
-            await ctx.close()
-        except Exception:
-            pass
-    # merge với record cũ nếu quét 1 phần
+                print(">>> Cua so Chrome da dong — dung, luu phan da co."); break
+        try: await ctx.close()
+        except Exception: pass
+
+    # ---- gop voi lan quet truoc ----
     old = {}
     if OUT.exists():
         try:
             for r in json.loads(OUT.read_text(encoding="utf-8")).get("shops", []):
                 old[r["code"]] = r
-        except Exception:
-            pass
+        except Exception: pass
+
+    today = date.today().isoformat()
+    flips = []
     for r in results:
         prev = old.get(r["code"])
-        if prev and prev.get("status") and prev.get("status") != r.get("status"):
-            r["prev_status"] = prev.get("status"); r["prev_checked"] = prev.get("verified_at")
-            print(f"  ⚠️ {r['code']} đổi status {prev.get('status')} -> {r.get('status')} (cần 2 lần liên tiếp mới tin)")
-        old[r["code"]] = {**r, "verified_at": date.today().isoformat()}
-    payload = {"project": "foxera", "verified_at": date.today().isoformat(),
-               "provenance": "live_local_browser", "shops": sorted(old.values(), key=lambda x: x["code"])}
+        if prev and prev.get("status") and prev["status"] != r["status"]:
+            r["prev_status"]  = prev["status"]
+            r["prev_checked"] = prev.get("verified_at")
+            # v9: doi trang thai CHUA duoc coi la that cho toi lan quet thu 2 khop.
+            # (13/08: v8 bao 6 shop "reopen", kiem live 0/6 dung)
+            r["status_confirmed"] = (prev.get("prev_status") == prev.get("status") == r["status"])
+            flips.append((r["code"], prev["status"], r["status"]))
+        else:
+            r["status_confirmed"] = True
+        old[r["code"]] = {**r, "verified_at": today}
+
+    if flips:
+        print("\n!!! DOI TRANG THAI (chua xac nhan, can lan quet thu 2):")
+        for c, a, b in flips: print(f"    {c}: {a} -> {b}")
+
+    unknowns = [r for r in results if r["status"] == "unknown"]
+    payload = {
+        "project": "foxera", "verified_at": today, "scanner_version": "v9",
+        "provenance": "live_local_browser",
+        "counts": {s: sum(1 for r in old.values() if r.get("status") == s)
+                   for s in ("active","not_selling","on_break","not_found","blocked","unknown")},
+        "quality": {
+            "unknown_count": len(unknowns),
+            "unknown_codes": [r["code"] for r in unknowns],
+            "note": ("unknown = KHONG DU BANG CHUNG, khong phai 'khoe'. Hanh dong = quet lai. "
+                     "HTML da luu o local-verify/debug-html/ de xem tai sao."),
+        },
+        "shops": sorted(old.values(), key=lambda x: x["code"]),
+    }
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    # v8: gom review text 4 store sống vào file riêng (không phình daily JSON)
-    rvout = {s2["code"]: {"shop": s2.get("shop"), "d": s2.get("verified_at"), "reviews": s2.get("recent_reviews", [])}
-             for s2 in old.values() if s2.get("recent_reviews")}
+
+    # v9 loi #5: khoa 'date', va GIU null de phan biet "trang khong hien" vs "khong doc duoc"
+    with open(HERE / "foxera-shops-history.jsonl", "a", encoding="utf-8") as hf:
+        for r in results:
+            hf.write(json.dumps({
+                "date": today, "code": r["code"], "status": r["status"],
+                "sales": r.get("sales"), "rating": r.get("rating"),
+                "reviews": r.get("reviews"), "listings": r.get("listings"),
+                "evidence": r.get("evidence"),
+            }, ensure_ascii=False) + "\n")
+
+    rvout = {s["code"]: {"shop": s.get("shop"), "date": s.get("verified_at"),
+                         "reviews": s.get("recent_reviews", [])}
+             for s in old.values() if s.get("recent_reviews")}
     if rvout:
-        REVIEWS_OUT.write_text(json.dumps({"updated": date.today().isoformat(), "scope": sorted(REVIEWS_FOR), "shops": rvout},
-                               ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"Đã ghi {REVIEWS_OUT.name} ({len(rvout)} store có review text)")
-    # v7: append lịch sử — mỗi shop 1 dòng JSON mỗi lần quét => tính được tăng trưởng sales/reviews/rating theo ngày
-    hist = OUT.parent / "foxera-shops-history.jsonl"
-    with open(hist, "a", encoding="utf-8") as hf:
-        for rec2 in results:
-            hf.write(json.dumps({"d": date.today().isoformat(), **{k: rec2.get(k) for k in
-                ("code","status","sales","rating","reviews","listings") if rec2.get(k) is not None}}, ensure_ascii=False) + "\n")
-    merge_daily(list(old.values()))
-    print(f"\nĐã ghi {OUT.name} ({len(old)} shop). Nhớ: git add -A && git commit && git push")
+        REVIEWS_OUT.write_text(json.dumps({"updated": today, "scope": sorted(REVIEWS_FOR),
+                               "shops": rvout}, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    # v9 loi #7: KHONG ghi de foxera-accounts-daily.json (Cloud so huu qua Drive handoff)
+    DESKTOP_OUT.write_text(json.dumps({
+        "date": today, "scanner_version": "v9", "provenance": "live_local_browser",
+        "note": "Desktop CHI ghi file nay. Cloud doc va merge vao foxera-accounts-daily.json. "
+                "v8 ghi de accounts-daily -> 2 nguoi ghi 1 file, da bo.",
+        "shops": [{k: r.get(k) for k in ("code","shop","status","sales","rating",
+                                          "reviews","listings","status_confirmed","evidence")}
+                  for r in old.values()],
+    }, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    c = payload["counts"]
+    print(f"\n=== KET QUA === song {c['active']} · khong ban duoc {c['not_selling']} · "
+          f"nghi {c['on_break']} · chan {c['blocked']} · KHONG RO {c['unknown']}")
+    if unknowns:
+        print(f"!!! {len(unknowns)} shop KHONG RO — KHONG duoc doc la 'dang khoe'. "
+              f"Xem HTML o {DEBUG_DIR.name}/ roi quet lai.")
+    print(f"Da ghi {OUT.name} + {DESKTOP_OUT.name}. Roi: git add -A && git commit && git push")
+
 
 if __name__ == "__main__":
+    if SELFTEST:
+        sys.exit(selftest())
     asyncio.run(main())
