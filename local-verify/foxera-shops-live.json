@@ -1,7 +1,23 @@
 {
   "project": "foxera",
-  "verified_at": "2026-08-13",
+  "verified_at": "2026-08-14",
+  "scanner_version": "v9",
   "provenance": "live_local_browser",
+  "counts": {
+    "active": 141,
+    "not_selling": 17,
+    "on_break": 0,
+    "not_found": 0,
+    "blocked": 2,
+    "unknown": 1
+  },
+  "quality": {
+    "unknown_count": 1,
+    "unknown_codes": [
+      "E5"
+    ],
+    "note": "unknown = KHONG DU BANG CHUNG, khong phai 'khoe'. Hanh dong = quet lai. HTML da luu o local-verify/debug-html/ de xem tai sao."
+  },
   "shops": [
     {
       "code": "E1",
@@ -157,9 +173,17 @@
       "code": "E137",
       "shop": "norvynstudio",
       "url": "https://norvynstudio.etsy.com",
-      "status": "active",
-      "on_sale": false,
-      "verified_at": "2026-08-13"
+      "status": "blocked",
+      "evidence": "botwall marker: captcha",
+      "http_status": 200,
+      "sales": null,
+      "rating": null,
+      "reviews": null,
+      "listings": null,
+      "prev_status": "active",
+      "prev_checked": "2026-08-13",
+      "status_confirmed": false,
+      "verified_at": "2026-08-14"
     },
     {
       "code": "E138",
@@ -1057,22 +1081,17 @@
       "code": "E4",
       "shop": "ThreadMelodia",
       "url": "https://www.etsy.com/shop/ThreadMelodia",
-      "status": "active",
-      "sales": 727,
-      "rating": 4.5,
-      "reviews": 120,
-      "on_sale": false,
-      "recent_reviews": [
-        "Darlene on Aug 2, 2026",
-        "Etsy buyer on Jul 14, 2026",
-        "sandra on Jul 11, 2026",
-        "Claudia on Jun 14, 2026",
-        "Sheila on Aug 11, 2026",
-        "Cecilia on Aug 8, 2026",
-        "wsboettger on Aug 3, 2026",
-        "Carlos on Jul 31, 2026"
-      ],
-      "verified_at": "2026-08-13"
+      "status": "blocked",
+      "evidence": "botwall marker: captcha",
+      "http_status": 200,
+      "sales": null,
+      "rating": null,
+      "reviews": null,
+      "listings": null,
+      "prev_status": "active",
+      "prev_checked": "2026-08-13",
+      "status_confirmed": false,
+      "verified_at": "2026-08-14"
     },
     {
       "code": "E40",
@@ -1150,9 +1169,16 @@
       "code": "E5",
       "shop": "AURELOOMS",
       "url": "https://www.etsy.com/shop/AURELOOMS",
-      "status": "active",
-      "on_sale": false,
-      "verified_at": "2026-08-13"
+      "status": "unknown",
+      "evidence": "exception: TimeoutError",
+      "sales": null,
+      "rating": null,
+      "reviews": null,
+      "listings": null,
+      "prev_status": "active",
+      "prev_checked": "2026-08-13",
+      "status_confirmed": false,
+      "verified_at": "2026-08-14"
     },
     {
       "code": "E50",
