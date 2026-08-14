@@ -1628,3 +1628,7 @@
 {"d": "2026-08-13", "code": "E22", "status": "active"}
 {"d": "2026-08-13", "code": "E32", "status": "active"}
 {"d": "2026-08-13", "code": "E37", "status": "active"}
+{"date": "2026-08-14", "code": "E4", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-08-14", "code": "E4", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-08-14", "code": "E137", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-08-14", "code": "E5", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "exception: TimeoutError"}
