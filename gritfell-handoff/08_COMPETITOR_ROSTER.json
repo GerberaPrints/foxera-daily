@@ -1,0 +1,451 @@
+{
+ "_readme": "08_COMPETITOR_ROSTER — danh sach DOI THU DA BIET. Bot doc moi run de tra loi cau hoi 'thang nay CO MOI khong'. Trong mot phien khong co ky uc, 'moi' chi co nghia khi doi chieu voi danh sach nay. Bot duoc THEM entry; KHONG duoc xoa. first_seen = ngay QUAN SAT DAU TIEN, khong phai ngay thanh lap.",
+ "sub_niches": {
+  "SN1_WATERFOWL": "vit troi/ngong/cho san — mallard, pintail, wood duck, goose, retriever, timber, marsh, blind",
+  "SN2_FRESHWATER": "nuoc ngot — bass, trout, crappie, walleye, creek, lake, fly",
+  "SN3_INSHORE": "ven bo/man — redfish, seatrout, snook, tarpon, flounder, pompano, surf, skiff, offshore",
+  "SN4_BIGGAME": "thu lon/upland — whitetail, buck, elk, turkey, pheasant, quail, stand, ridge"
+ },
+ "tiers": {
+  "CORE_11": "11 brand rotation chinh, theo doi hang tuan",
+  "ADJACENT": "brand that nhung ngoai rotation — theo doi khi xuat hien",
+  "POD_TIER": "F1-F3, nhan ban nhanh, theo doi de biet cua dong nhanh hay cham",
+  "NOISE": "khong phai apparel outdoor — ghi lai de LAN SAU KHONG PHAI DIEU TRA LAI"
+ },
+ "brands": [
+  {
+   "name": "Huk",
+   "tier": "CORE_11",
+   "sub_niches": [
+    "SN2_FRESHWATER",
+    "SN3_INSHORE"
+   ],
+   "first_seen": "2026-07-20",
+   "fulfillment_tier": "F?",
+   "url": "https://huk.com/"
+  },
+  {
+   "name": "BURLEBO",
+   "tier": "CORE_11",
+   "sub_niches": [
+    "SN1_WATERFOWL",
+    "SN4_BIGGAME"
+   ],
+   "first_seen": "2026-07-20",
+   "fulfillment_tier": "F?",
+   "url": "https://burlebo.com/"
+  },
+  {
+   "name": "Poncho Outdoors",
+   "tier": "CORE_11",
+   "sub_niches": [
+    "SN3_INSHORE"
+   ],
+   "first_seen": "2026-07-20",
+   "fulfillment_tier": "F?",
+   "url": "https://ponchooutdoors.com/"
+  },
+  {
+   "name": "Marsh Wear",
+   "tier": "CORE_11",
+   "sub_niches": [
+    "SN3_INSHORE",
+    "SN1_WATERFOWL"
+   ],
+   "first_seen": "2026-07-20",
+   "fulfillment_tier": "F5",
+   "first_f_scan": "2026-08-14",
+   "url": "https://www.marshwearclothing.com/"
+  },
+  {
+   "name": "Duck Camp",
+   "tier": "CORE_11",
+   "sub_niches": [
+    "SN1_WATERFOWL",
+    "SN3_INSHORE"
+   ],
+   "first_seen": "2026-07-20",
+   "fulfillment_tier": "F?",
+   "url": "https://duckcamp.com/"
+  },
+  {
+   "name": "AFTCO",
+   "tier": "CORE_11",
+   "sub_niches": [
+    "SN3_INSHORE"
+   ],
+   "first_seen": "2026-07-20",
+   "fulfillment_tier": "F?",
+   "url": "https://www.aftco.com/"
+  },
+  {
+   "name": "Drake Waterfowl",
+   "tier": "CORE_11",
+   "sub_niches": [
+    "SN1_WATERFOWL"
+   ],
+   "first_seen": "2026-07-20",
+   "fulfillment_tier": "F?",
+   "url": "https://www.drakewaterfowl.com/"
+  },
+  {
+   "name": "Free Fly Apparel",
+   "tier": "CORE_11",
+   "sub_niches": [
+    "SN2_FRESHWATER",
+    "SN3_INSHORE"
+   ],
+   "first_seen": "2026-07-20",
+   "fulfillment_tier": "F?",
+   "url": "https://freeflyapparel.com/"
+  },
+  {
+   "name": "Howler Brothers",
+   "tier": "CORE_11",
+   "sub_niches": [
+    "SN3_INSHORE",
+    "SN2_FRESHWATER"
+   ],
+   "first_seen": "2026-07-20",
+   "fulfillment_tier": "F?",
+   "url": "https://howlerbros.com/",
+   "note": "14/08: tung collab licensed Texas Longhorns, 7 ad deu tao 13/08 sau 3 tuan im."
+  },
+  {
+   "name": "SITKA Gear",
+   "tier": "CORE_11",
+   "sub_niches": [
+    "SN4_BIGGAME",
+    "SN1_WATERFOWL"
+   ],
+   "first_seen": "2026-07-20",
+   "fulfillment_tier": "F?",
+   "url": "https://www.sitkagear.com/",
+   "note": "Query Meta 'SITKA Gear' tra ve ca page gia mao 'SITKA supply Hub/Depot' — loc theo page_name."
+  },
+  {
+   "name": "Tom Beckbe",
+   "tier": "CORE_11",
+   "sub_niches": [
+    "SN1_WATERFOWL",
+    "SN4_BIGGAME"
+   ],
+   "first_seen": "2026-07-20",
+   "fulfillment_tier": "F?",
+   "url": "https://tombeckbe.com/",
+   "note": "14/08: het zero-discount (BTT Boat Tote $195->$117); on-site + paid deu sang fall."
+  },
+  {
+   "name": "DECOY Apparel Co",
+   "tier": "CORE_11",
+   "sub_niches": [
+    "SN1_WATERFOWL",
+    "SN3_INSHORE"
+   ],
+   "first_seen": "2026-07-20",
+   "fulfillment_tier": "F?",
+   "url": "https://decoyapparelco.com/"
+  },
+  {
+   "name": "Hunthide",
+   "tier": "POD_TIER",
+   "sub_niches": [
+    "SN1_WATERFOWL",
+    "SN4_BIGGAME"
+   ],
+   "first_seen": "2026-07-29",
+   "fulfillment_tier": "F1",
+   "first_f_scan": "2026-08-14",
+   "url": "https://hunthide.com/",
+   "note": "MOC CHUAN F1. Made-to-order, 13-20 ngay lam viec, chi doi hang loi. Hook 'The gift he'll actually wear' la hook QUA manh nhat quan sat duoc trong ca lane san."
+  },
+  {
+   "name": "Huntdad",
+   "tier": "POD_TIER",
+   "sub_niches": [
+    "SN1_WATERFOWL",
+    "SN4_BIGGAME"
+   ],
+   "first_seen": "2026-08-13",
+   "fulfillment_tier": "F3",
+   "first_f_scan": "2026-08-14",
+   "url": "https://huntdad.com/",
+   "note": "MOC CHUAN F3. 7-10 ngay lam viec, ship noi dia My. 14/08: chay 'Duck Hunting Waterfowl Wetland Camo Pattern Polo Shirt DHP1004' — MA SKU nam trong tieu de ad = tell catalogue POD. CANH BAO: ban POLO camo, trung dinh dang voi polo $50 cua GritFell."
+  },
+  {
+   "name": "Bassdash",
+   "tier": "POD_TIER",
+   "sub_niches": [
+    "SN2_FRESHWATER",
+    "SN1_WATERFOWL"
+   ],
+   "first_seen": "2026-08-13",
+   "fulfillment_tier": "F?",
+   "note": "Vao lane dove 13/08, hook 'Buy 3, Save 18% Off!'. Chua F-scan — uu tien scan lan toi."
+  },
+  {
+   "name": "Cordia",
+   "tier": "POD_TIER",
+   "sub_niches": [
+    "SN4_BIGGAME"
+   ],
+   "first_seen": "2026-07-29",
+   "fulfillment_tier": "F?",
+   "note": "'Performance Dove Season Apparel'. Khong tra ve o query hep 14/08 — ghi la KHONG XUAT HIEN, khong phai da tat."
+  },
+  {
+   "name": "Dove Gear",
+   "tier": "POD_TIER",
+   "sub_niches": [
+    "SN4_BIGGAME"
+   ],
+   "first_seen": "2026-07-29",
+   "fulfillment_tier": "F?"
+  },
+  {
+   "name": "Rack and Wing Co.",
+   "tier": "POD_TIER",
+   "sub_niches": [
+    "SN4_BIGGAME"
+   ],
+   "first_seen": "2026-07-29",
+   "fulfillment_tier": "F?"
+  },
+  {
+   "name": "Ball and Buck",
+   "tier": "ADJACENT",
+   "sub_niches": [
+    "SN4_BIGGAME"
+   ],
+   "first_seen": "2026-08-01",
+   "fulfillment_tier": "F?",
+   "page_id": "26298564065",
+   "note": "Brand heritage/premium dau tien vao lane dove."
+  },
+  {
+   "name": "Atwoods Ranch & Home Goods",
+   "tier": "ADJACENT",
+   "sub_niches": [
+    "SN4_BIGGAME"
+   ],
+   "first_seen": "2026-08-02",
+   "fulfillment_tier": "F?",
+   "note": "Co che 'Weekly Hunt Drop' — nhip co dinh thay cho khan hiem danh so."
+  },
+  {
+   "name": "Iron Reel Co.",
+   "tier": "ADJACENT",
+   "sub_niches": [
+    "SN1_WATERFOWL",
+    "SN2_FRESHWATER"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F?",
+   "page_id": "637323516131062",
+   "note": "MOI 14/08 — UU TIEN CAO NHAT. Ten ghep CAU CA (reel) voi san ban, dang chay 'Duck Hunting Polo'. Day la giao cat CHINH XAC vi tri GritFell: hai mang ca+san trong dinh dang POLO. Can F-scan + mo site ngay lan chay toi."
+  },
+  {
+   "name": "Anetik Performance",
+   "tier": "ADJACENT",
+   "sub_niches": [
+    "SN2_FRESHWATER",
+    "SN3_INSHORE"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F?",
+   "page_id": "1569457923318643",
+   "note": "MOI 14/08 — 'UPF Fishing Hoodies'. Dinh dang hooded UPF sun shirt da nam trong danh sach theo doi B4. Can F-scan."
+  },
+  {
+   "name": "Empty Cooler Supply Co.",
+   "tier": "ADJACENT",
+   "sub_niches": [
+    "SN3_INSHORE"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F?",
+   "page_id": "1271865359341885",
+   "note": "MOI 14/08 — 'Tees for the Weekend', tang lifestyle tee. Do uu tien thap hon Iron Reel."
+  },
+  {
+   "name": "Born to Hunt",
+   "tier": "POD_TIER",
+   "sub_niches": [
+    "SN1_WATERFOWL",
+    "SN4_BIGGAME"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F?",
+   "page_id": "100236382404231",
+   "note": "MOI 14/08 qua query waterfowl."
+  },
+  {
+   "name": "Just Duck Things",
+   "tier": "POD_TIER",
+   "sub_niches": [
+    "SN1_WATERFOWL"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F?",
+   "page_id": "823813544152438",
+   "note": "MOI 14/08."
+  },
+  {
+   "name": "T-Shirt Bucket",
+   "tier": "POD_TIER",
+   "sub_niches": [
+    "SN1_WATERFOWL"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F?",
+   "page_id": "220950814424543",
+   "note": "MOI 14/08. Ten cho thay tee generic, kha nang cao F1."
+  },
+  {
+   "name": "ThrowVibe Team Sports",
+   "tier": "POD_TIER",
+   "sub_niches": [
+    "SN1_WATERFOWL"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F?",
+   "page_id": "107193578686318",
+   "note": "MOI 14/08 — 'Mallard Duck Camo Polo for Hunters'. Lai la POLO camo."
+  },
+  {
+   "name": "ChipteeAmz",
+   "tier": "POD_TIER",
+   "sub_niches": [
+    "SN4_BIGGAME"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F1",
+   "note": "MOI 14/08. All-over-print ca nhan hoa ten, ma SKU trong title (NQS665/NQS630). POD dien hinh, khong phai doi thu dinh vi."
+  },
+  {
+   "name": "Ricarda",
+   "tier": "NOISE",
+   "sub_niches": [],
+   "first_seen": "2026-08-14",
+   "note": "Hook 'Only available for a limited time!' khong ro nganh — chua du can cu xep loai."
+  },
+  {
+   "name": "Terrabound Outdoor",
+   "tier": "RADAR",
+   "sub_niches": [
+    "SN2_FRESHWATER",
+    "SN3_INSHORE"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F2",
+   "url": "https://terraboundoutdoor.com/",
+   "note": "CN dropship behind a London virtual office. Returns go to Yiwu, Zhejiang at buyer cost GBP15-35 = paper returns policy. Scored F3-F4 by old rubric, F2 under Signal 2b."
+  },
+  {
+   "name": "Hookster",
+   "tier": "RADAR",
+   "sub_niches": [
+    "SN3_INSHORE"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F?",
+   "url": "",
+   "note": "Active US ads, fishing hoodie lane, creative 'UPF 50+. Zero Excuses.' Not yet policy-scanned."
+  },
+  {
+   "name": "Made By U",
+   "tier": "RADAR",
+   "sub_niches": [
+    "SN4_BIG_GAME"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F1",
+   "url": "",
+   "note": "POD. Surfaced on 'personalized hunting shirt' (14 ads, near-100% POD lane)."
+  },
+  {
+   "name": "Wild Hunt Tees",
+   "tier": "RADAR",
+   "sub_niches": [
+    "SN4_BIG_GAME"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F1",
+   "url": "",
+   "note": "POD, urgency creative 'Only available for a limited time!'"
+  },
+  {
+   "name": "Hunting Lovers - InterestPod",
+   "tier": "RADAR",
+   "sub_niches": [
+    "SN4_BIG_GAME"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F1",
+   "url": "",
+   "note": "POD, 'Custom Upload Photo Hunting Shirt'. 'InterestPod' names itself POD."
+  },
+  {
+   "name": "Best Custom Gifts",
+   "tier": "RADAR",
+   "sub_niches": [
+    "SN2_FRESHWATER"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F1",
+   "url": "",
+   "note": "POD personalization farm, fishing/grandpa gift angle."
+  },
+  {
+   "name": "Sportsman Gear",
+   "tier": "RADAR",
+   "sub_niches": [
+    "SN2_FRESHWATER"
+   ],
+   "first_seen": "2026-08-14",
+   "fulfillment_tier": "F?",
+   "url": "",
+   "note": "Only meaningful advertiser found on 'fishing quarter zip'. Creative is '50% Off Sitewide' - discount-ladder support signal."
+  }
+ ],
+ "noise_pages_seen": [
+  {
+   "pattern": "Short Drama Streaming-0x / Short Drama Daily / Paper Recs / Literary Lane",
+   "note": "Trang trai clickbait phim ngan + tieu thuyet. Tran ngap query 2-tu rong nhu 'fishing shirt'. KHONG DIEU TRA LAI."
+  },
+  {
+   "pattern": "Inkkas / Indya / Minimalist Folk Co. / Fancy Bands",
+   "note": "Nhieu theo MAU 'teal'. KHONG DIEU TRA LAI."
+  },
+  {
+   "pattern": "Flounder's Chowder House va nha hang cung ten",
+   "note": "Nhieu theo TEN loai. KHONG DIEU TRA LAI."
+  },
+  {
+   "cluster": "ad_farm_sun_hoodie_14_08",
+   "pages": [
+    "Masterpiecei",
+    "Beyonddraw.BE",
+    "Emboadlie.xs01"
+   ],
+   "shared_creative": "Men's Ventilated Fast Dry Hoodie Sun Hoodie",
+   "seen": "2026-08-14",
+   "rule": "AD_FARM_RULE",
+   "note": "One operator, three shell pages, identical creative title. NOT three new competitors. Counts as lane saturation pressure only."
+  }
+ ],
+ "query_calibration_14_08": {
+  "finding": "Do dai query quyet dinh chat luong, da test that ngay 14/08.",
+  "two_words_too_broad": "'fishing shirt' -> 3631 ket qua nhung bi tran ngap boi trang trai phim ngan/tieu thuyet; chi 3/30 lien quan.",
+  "four_words_too_narrow": "'inshore redfish fishing shirt' -> 0 ket qua. 'deer hunting apparel buck' -> 0 ket qua.",
+  "sweet_spot": "BA TU, ghep PURSUIT + GARMENT (+1 tu loai). 'duck hunting shirt waterfowl' -> 14 ket qua, phan lon lien quan.",
+  "rule": "Luon chay 3 tu. Ra 0 ket qua thi BOT 1 tu, dung THEM tu. Ra >1000 ket qua thi THEM 1 tu.",
+  "non_hat_lane_scan_14_08": {
+   "duck hunting shirt": 173,
+   "fishing hoodie men": 182,
+   "personalized hunting shirt": 14,
+   "fishing quarter zip": 27,
+   "reading": "'personalized hunting shirt' = 14 ads and near-100% POD. 'fishing quarter zip' = 27 ads market-wide and essentially EMPTY of hunting/fishing DTC - the least contested lane found, and it also carries the best margin (63.2%)."
+  }
+ }
+}

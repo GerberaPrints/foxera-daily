@@ -147,7 +147,7 @@
   "id": "marshwear_polo",
   "url": "https://www.marshwearclothing.com/products/pensacola-polo-smoke",
   "type": "official_site",
-  "observed_at": "2026-07-20",
+  "observed_at": "2026-08-14",
   "evidence": "OBSERVED_CURRENT",
   "facts": [
    "regular $59",
@@ -155,8 +155,9 @@
    "free shipping $100+"
   ],
   "status": "LIVE_OK",
-  "last_ok": "2026-08-03",
-  "note": "Correct domain marshwearclothing.com confirmed live a 2nd time (v5.4 rule A1). Homepage still on Spring 2026 messaging; free shipping $100+."
+  "last_ok": "2026-08-14",
+  "note": "Correct domain marshwearclothing.com confirmed live a 2nd time (v5.4 rule A1). Homepage still on Spring 2026 messaging; free shipping $100+. | 14/08 F-SCAN: scored F5 (real inventory). Shipping policy live: 'Expedited orders placed before 11am PT or 2pm ET are processed the same day. Ground orders are processed the following business day.' Header carries 'Free Returns - Satisfaction Guarantee'. CONTROL CASE proving the rubric discriminates: same-day processing is physically impossible without stock on hand.",
+  "fulfillment_tier": "F5"
  },
  {
   "id": "duckcamp_shirt",
@@ -297,21 +298,21 @@
   "id": "gritfell_home",
   "url": "https://gritfell.com/",
   "type": "official_site",
-  "observed_at": "2026-08-01",
+  "observed_at": "2026-08-14",
   "evidence": "OBSERVED_CURRENT",
   "status": "LIVE_OK",
-  "last_ok": "2026-08-03",
+  "last_ok": "2026-08-14",
   "facts": [
    "announcement bar 'SPRING GEAR. BUY 2 GET 1 FREE!'",
-   "hero 'NEW SPRING ARRIVALS'",
-   "free ground shipping $75+",
+   "'Free Ground Shipping on Order $75+'",
    "polos $50",
    "button shirts $55",
    "swim shorts $39",
    "hats $34",
-   "nav has NO new-arrivals collection despite the hero wording"
+   "nav: Button Down Shirts, Polo Shirts, Swim Shorts, Fishing (Polos/Button Shirts), Hunting (Polos/Button Shirts), Hats",
+   "still NO new-arrivals and NO fall collection in nav"
   ],
-  "note": "Self-audit anchor (v5.4 section B). Fetched every run. Season mismatch ('SPRING GEAR') flagged since 28/07 - day 4 on 31/07. Nav collections confirmed 31/07: mens-button-shirt, mens-polo, mens-swim-short, fishing-collection, fishing-polo, fishing-button-shirt, hunting-collection, hunting-polo, hunting-button-shirt, hat."
+  "note": "Self-audit anchor (v5.4 section B), fetched every run. SEASON MISMATCH IS NOW DAY 18 (flagged since 28/07): banner still says SPRING on 14/08 while Tom Beckbe's CTA points at fall apparel and Howler launched a dated Longhorns collab the same day. /collections/sale still 404 so the B2G1 promo has no landing surface."
  },
  {
   "id": "duckcamp_hats",
@@ -365,28 +366,32 @@
   "id": "hunthide_home",
   "url": "https://hunthide.com/",
   "type": "competitor_new_entrant",
-  "observed_at": "2026-07-29",
+  "observed_at": "2026-08-14",
   "evidence": "OBSERVED_CURRENT",
   "status": "LIVE_OK",
-  "last_ok": "2026-07-29",
+  "last_ok": "2026-08-14",
   "facts": [
    "Hawaiian-style hunting shirts 'From $39.95'",
    "Buy 2 Get 10% OFF / Buy 5 Get 20% OFF",
    "free shipping $100+",
    "categories: turkey, deer, duck",
-   "homepage carries NO dove messaging despite 9 active dove ads"
+   "homepage carries NO dove messaging despite 9 active dove ads",
+   "SHIPPING POLICY (live 14/08): 'All products are made to order. Please allow 3-5 business days to process' + US delivery '10-15 business days' = 13-20 business days door-to-door",
+   "RETURN POLICY (live 14/08): 30 days 'for defective items only'; explicitly NOT accepted for wrong size or change of mind; no return address given, claims handled by emailing photos",
+   "Company address 1209 Mountain Road Pl NE, Ste N, Albuquerque NM 87110 = suite-style virtual/registered-agent address"
   ],
-  "note": "New entrant found 29/07 via Meta Ad Library, NOT one of the 11 rotation brands. Running the dove-opener paid angle GritFell had assumed was unclaimed. POD/discount-ladder tier."
+  "note": "New entrant found 29/07 via Meta Ad Library, NOT one of the 11 rotation brands. Running the dove-opener paid angle GritFell had assumed was unclaimed. POD/discount-ladder tier. | 14/08 F-SCAN: scored F1 (pure made-to-order POD) on explicit language + 13-20 business day time-to-door + defect-only returns. This is the ANCHOR CASE for the F-score rubric - the tier is now measured, no longer inferred from price.",
+  "fulfillment_tier": "F1"
  },
  {
   "id": "meta_ad_library_mcp",
   "url": "https://www.facebook.com/ads/library/",
   "type": "mcp_tool",
-  "observed_at": "2026-07-31",
+  "observed_at": "2026-08-14",
   "evidence": "Meta Ad Library (live)",
   "status": "LIVE_OK",
-  "last_ok": "2026-08-03",
-  "note": "mcp__MCP_Facebook_Ads__ads_library_search authorized and WORKING since 29/07. METHOD CORRECTION 31/07: the earlier note claimed it matches CREATIVE TEXT only and not page name, so empty results were treated as unknowable. Tested 31/07 - querying a brand name DOES return that brand's own page ads ('Howler Brothers', 'Tom Beckbe', 'Free Fly Apparel' all resolved). Results are mixed with unrelated pages, so filter on page_name. An empty brand query is now weak evidence of not advertising, not 'unknown'. Direct WebFetch of the Ad Library remains forbidden."
+  "last_ok": "2026-08-14",
+  "note": "mcp__MCP_Facebook_Ads__ads_library_search working normally 14/08; 5 queries run (Howler Brothers, Tom Beckbe, 'dove season hunting shirt', 'teal season', 'flounder'). Method notes that hold: querying a brand name DOES return that brand's own page ads, results are mixed with unrelated pages so filter on page_name, and an empty brand query is weak evidence of not advertising rather than 'unknown'. NEW CAVEAT 14/08: generic-word queries return heavy colour/name noise - 'teal season' returns clothing in the colour teal, 'flounder' returns a restaurant named Flounder's. Always read page_name and creative title together before counting a lane. Direct WebFetch of the Ad Library remains forbidden."
  },
  {
   "id": "gritfell_hats",
@@ -466,109 +471,97 @@
   "id": "shopify_connector",
   "url": "mcp__Shopify__get-shop-info",
   "type": "mcp_tool",
-  "observed_at": "2026-08-01",
+  "observed_at": "2026-08-14",
   "evidence": "INTERNAL_OBSERVED",
   "status": "TOOLS_ABSENT",
   "last_ok": "2026-07-27",
-  "note": "Day 7. Tools absent from the session entirely for the 4th time. last_ok remains 2026-07-27."
+  "note": "Day 18. mcp__Shopify__* tools absent from the scheduled session entirely - this is NOT a wrong-store auth error, the tools do not appear in the session tool list at all. No switch-shop attempted (forbidden in scheduled sessions). internal.jsonl has a status=skipped line for every day the routine ran. Needs a human to connect the Shopify connector to the GritFell store."
  },
  {
   "id": "gritfell_all",
   "url": "https://gritfell.com/collections/all",
   "type": "official_site",
-  "observed_at": "2026-07-31",
+  "observed_at": "2026-08-14",
   "evidence": "OBSERVED_CURRENT",
   "status": "LIVE_OK",
-  "last_ok": "2026-07-31",
+  "last_ok": "2026-08-14",
   "facts": [
-   "90 products total (4 pages, all names read)",
+   "90 products total",
    "price band $34-$55",
-   "0/90 SKUs carry sale pricing (Sale price == Regular price on every item)",
+   "0/90 SKUs carry sale pricing (no compare-at anywhere)",
    "default sort Alphabetically A-Z",
-   "36 hats $34 (36 unique designs)",
-   "21 polos $50",
-   "20 button shirts $55",
-   "13 swim shorts $39",
-   "54 apparel SKUs are only 23 distinct designs replicated across 2-3 blanks",
-   "ZERO design names shared between the hat library and the apparel library"
+   "re-verified 14/08: no night scene and no still/stationary scene anywhere in the catalogue - every design is a daytime or a chase scene (strike/run/frenzy/flight/opener)"
   ],
-  "note": "T6 rotation collection for the v5.4 self-audit. First complete catalogue sweep, 31/07. Hat-only designs incl The Mallard, Pintail Drake, Early Teal, Copper Tail Redfish, Rut Vigil, Turkey Camp, Pheasant Opener, Archery Elk, Topwater Strike and 8 breed-specific bird dogs; apparel-only designs incl Mallard Marsh, Marsh Flight, Bait Ball, Tuna Season, Buck Fever, Bluewater Run, Wild Sign. Use ?page=2..4 to page through. This page is the cheapest way to check inventory BEFORE proposing a new design idea."
+  "note": "T6 rotation collection for the v5.4 self-audit. Cheapest way to check inventory BEFORE proposing a new design. Use ?page=2..4 to page through. Re-verified 14/08."
  },
  {
   "id": "howler_home",
   "url": "https://howlerbros.com/",
   "type": "official_site",
-  "observed_at": "2026-07-31",
+  "observed_at": "2026-08-14",
   "evidence": "OBSERVED_CURRENT",
   "status": "LIVE_OK",
-  "last_ok": "2026-08-03",
+  "last_ok": "2026-08-14",
   "facts": [
-   "dynamic cart-progress bar 'You're $59.00 away from free shipping'",
-   "free shipping $59+ = lowest threshold in the 11-brand radar",
+   "banner 'Free Shipping On Orders Over $59' = lowest threshold in the 11-brand radar",
+   "hero 'Los Longhorns de Tejas' (licensed Texas Longhorns collab)",
    "no discounting anywhere",
-   "hero 'The weekend's closer than you think. Time to gear up. Shop Surf & Swim' (summer, not fall)",
-   "Guayabera Shirt $145",
-   "H Bar B Tech Longsleeve $119",
-   "H Bar B Snapshirt $95",
-   "Loggerhead Hoodie $85",
-   "Horizon Walk Shorts $85",
-   "Emerger Tech Shirt $85",
-   "Deep Set Boardshorts $79",
-   "Ranchero Polo $75-85",
-   "Redfish Feedstore Snapback $35"
+   "High Rider Shirt $119",
+   "HB Trade Shirt $119",
+   "Broncbuster Longsleeve Snapshirt $145",
+   "H Bar B Snapshirt $95"
   ],
-  "note": "Rotation day T6. Meta (31/07): ads active but newest creative created 09-10/07 - three weeks without new creative; hooks are bare product names."
+  "note": "Rotation day T6. CORRECTION 14/08: the 31/07 note 'three weeks without new creative, hooks are bare product names' is FALSIFIED. Meta 14/08 shows 7 ACTIVE ads ALL created 13/08, 100% Texas Longhorns collab. Lesson: Ad Library silence is not dormancy - it can be a brand holding creative for one dated launch. NOT copyable for GritFell: licensed/gameday is an explicit REJECT in 01 section 8; copy the mechanic (dated launch, zero discount), not the subject."
  },
  {
   "id": "tombeckbe_home",
   "url": "https://tombeckbe.com/",
   "type": "official_site",
-  "observed_at": "2026-07-31",
+  "observed_at": "2026-08-14",
   "evidence": "OBSERVED_CURRENT",
   "status": "LIVE_OK",
-  "last_ok": "2026-08-03",
+  "last_ok": "2026-08-14",
   "facts": [
    "banner 'Free Shipping on Orders Over $95 + Easy Returns'",
-   "hero 'Tom Beckbe x Ducks Unlimited', CTA 'Shop New Arrivals'",
-   "zero discounting",
-   "Women's Steward Jacket $495",
-   "DU Fowler Vest $495",
-   "Baldwin Jacket $425",
-   "Chatom Jacket $375",
-   "DU Double Timber Bag $375",
-   "Prescott Estate Twill Shirt $215",
-   "Reid Chino $195",
-   "BTT Boat Tote $195",
-   "Women's Tidewater Shirt $120",
-   "Cotton Trucker Hat $45"
+   "hero 'Classic Apparel & Gear', CTA 'Shop Now' pointing at FALL apparel",
+   "FIRST DISCOUNT EVER OBSERVED HERE: BTT Boat Tote regular $195 -> sale $117",
+   "apparel New Arrivals still at single final prices: Baldwin Jacket $425, DU Fowler Vest $495, Chatom Jacket $375, Burgess Quilted Jacket $295, Prescott Estate Twill Shirt $215, Carrington Shooting Shirt $205, Dixon Brushed Cotton Twill Shirt $195, Culver Oxford Shirt $185, Ensley Pinpoint Oxford $195, DU Northwoods Vest $350, Women's Steward Jacket $495, Women's Tidewater Shirt $120"
   ],
-  "note": "Rotation day T6. FIRST of the 11 rotation brands to lead with waterfowl/conservation in late July - corrects the carried claim '0/11 touching waterfowl' to '0/11 running opener-countdown creative'. Meta (31/07): creative created 24-25/07 pushing Tensaw and Baldwin jackets. Second independent precedent for conservation-collab-instead-of-discount after Free Fly x Trout Unlimited."
+  "note": "Rotation day T6. CORRECTION 14/08: the carried claim 'Tom Beckbe discounts ZERO' (31/07, repeated 01/08) is FALSIFIED by the BTT Boat Tote markdown. Scope is narrow - one accessory, apparel untouched - so the revised rule is 'no-discount on APPAREL is the norm above the mid tier; accessories are not'. Hero also moved off 'Tom Beckbe x Ducks Unlimited' to fall. Meta 14/08: 9 active ads, newest batch created 13/08 all pushing Tensaw Jacket, an 11/08 batch pushing 'Shop Fall Shirts', Baldwin, Chatom, Reid Pants - on-site and paid are in sync on fall."
  },
  {
   "id": "gulf_coast_report",
   "url": "https://gulfcoastfishingreport.com/",
   "type": "fishing_report",
-  "observed_at": "2026-08-01",
+  "observed_at": "2026-08-14",
   "evidence": "live",
   "status": "LIVE_OK",
-  "last_ok": "2026-08-03",
+  "last_ok": "2026-08-14",
   "facts": [
-   "latest report period 25-26 July 2026 as of 31/07 (5 days without a new edition)"
+   "edition 'August 8-9, 2026' as of 14/08 (5 days old)",
+   "inshore section OPENS with flounder; also redfish and speckled trout",
+   "surf/beach: pompano (afternoon bite beating morning), redfish, bluefish",
+   "nearshore: Spanish mackerel, bluefish",
+   "offshore: triggerfish, red grouper, red snapper"
   ],
-  "note": "Opened live 03/08 but the edition is still dated 'August 1-2, 2026' - same content as 02/08, so labelled unchanged rather than a new signal."
+  "note": "Live 14/08. Publishing cadence looks roughly weekly rather than daily - do not treat a 5-day-old edition as staleness."
  },
  {
   "id": "nwfl_report_index",
   "url": "https://greatdaysoutdoors.com/category/fishing-report/northwest-florida-fishing-report/",
   "type": "fishing_report",
-  "observed_at": "2026-08-01",
+  "observed_at": "2026-08-14",
   "evidence": "live",
-  "status": "LIVE_OK_STALE_CONTENT",
-  "last_ok": "2026-08-03",
+  "status": "LIVE_OK",
+  "last_ok": "2026-08-14",
   "facts": [
-   "latest report period 10-16 July 2026 as of 31/07 (15 days without a new edition)"
+   "latest report period 7-13 August 2026 as of 14/08 (fresh edition)",
+   "inshore Pensacola: speckled trout, Spanish mackerel, bluefish, ladyfish, FLOUNDER",
+   "surf 30A to Panama City Beach: pompano, ladyfish, bluefish, hardtails, redfish",
+   "offshore/nearshore Destin: triggerfish, vermilion snapper, red grouper, mangrove snapper, scamp, almaco jack, king mackerel",
+   "regulation note in the 07/08 edition: 'Triggerfish reopened August 1'; red snapper closed in state waters"
   ],
-  "note": "Still frozen at 10-16/07 (18 days) as of 03/08. Agreed trigger: if still frozen on 09/08, downgrade to STALE_CACHE and drop from the daily read."
+  "note": "RECOVERED 14/08. Was frozen at the 10-16/07 edition for 18 days as of 03/08, with an agreed trigger to downgrade to STALE_CACHE if still frozen on 09/08. It published a new 7-13/08 edition. Trigger CANCELLED, stays LIVE_OK. Article URL pattern that works: /northwest-florida-fishing-report-for-august-7-13-2026/"
  },
  {
   "id": "decoy_hats",
@@ -758,5 +751,313 @@
    "cannot be used to score arbitrage freshness",
    "03/08 headlines: bass x3, carp, tiger shark, bluefish blitz"
   ]
+ },
+ {
+  "id": "outdoorlife_hunting",
+  "url": "https://www.outdoorlife.com/hunting/",
+  "type": "editorial",
+  "observed_at": "2026-08-14",
+  "status": "LIVE_OK_NO_DATES",
+  "last_ok": "2026-08-14",
+  "evidence": "OBSERVED_CURRENT",
+  "facts": [
+   "page renders but shows NO publish dates",
+   "cannot be used to score arbitrage freshness (T)",
+   "14/08 headlines: elk wallows, elk calling, velvet bucks in South Carolina's early youth season, blood-trail/broadhead data, Argentina dove hunt, wilderness whitetails, mock scrapes"
+  ],
+  "note": "T6 editorial slot. Same limitation already recorded for outdoorlife.com/fishing on 03/08 - the whole OL site renders no dates for the agent. Any OL-sourced candidate is capped below T5 and should be held until a dated source repeats it. This is exactly why the 14/08 elk-wallow candidate did not produce an output."
+ },
+ {
+  "id": "fieldandstream_fishing",
+  "url": "https://www.fieldandstream.com/fishing/",
+  "type": "editorial",
+  "observed_at": "2026-08-14",
+  "status": "LIVE_OK",
+  "last_ok": "2026-08-14",
+  "evidence": "OBSERVED_CURRENT",
+  "facts": [
+   "page DOES render publish dates - usable for scoring arbitrage freshness",
+   "14/08 index: glide baits 07/08, aquatic insects for trout 05/08, lost-fish stories 24/07, trout temperature guide 21/07, creek fishing 14/07, summer pace 14/07, national monuments 13/07, big bass 13/07, spin fishing trout 10/07, crappie 08/07",
+   "index is entirely freshwater bass/trout/crappie - touches none of the saltwater species currently biting in the Gulf reports"
+  ],
+  "note": "T6 editorial slot. Contrast with outdoorlife.com which shows no dates - prefer F&S when a candidate needs a dated editorial confirmation."
+ },
+ {
+  "id": "gritfell_search_flounder",
+  "url": "https://gritfell.com/search?q=flounder",
+  "type": "official_site",
+  "observed_at": "2026-08-14",
+  "status": "LIVE_OK",
+  "last_ok": "2026-08-14",
+  "evidence": "OBSERVED_CURRENT",
+  "facts": [
+   "ZERO results - 'No results found for flounder'",
+   "confirms flounder absent from all 90 SKUs"
+  ],
+  "note": "Companion check: gritfell.com/search?q=elk returns 2 (Archery Elk $34, Buck Fever Button Shirt $55). Search endpoint is a cheap and reliable way to test a single species before proposing it."
+ },
+ {
+  "id": "flounder_paid_lane",
+  "url": "https://www.facebook.com/ads/library/",
+  "type": "ads_library",
+  "observed_at": "2026-08-14",
+  "status": "LIVE_OK",
+  "last_ok": "2026-08-14",
+  "evidence": "Meta Ad Library (live 14/08)",
+  "facts": [
+   "query 'flounder' (US, ACTIVE) returns ZERO apparel advertisers",
+   "returns only gear (Woodys Marine gig lights), charters (Atlantic Blue Charters, Gulf Coast Gigging) and seafood/restaurant pages"
+  ],
+  "note": "Baseline for the FLOUNDER-GIG-2026 ledger item's kill criterion (4). Re-count on the next T2 sweep."
+ },
+ {
+  "id": "ncdeq_flounder_season",
+  "url": "https://www.deq.nc.gov/about/divisions/marine-fisheries/managing-fisheries/fishery-management-plans/southern-flounder/information-fmp-amendment-4/gulf-flounder-recreational-season-information",
+  "type": "official_report",
+  "observed_at": "2026-08-14",
+  "status": "LIVE_OK",
+  "last_ok": "2026-08-14",
+  "evidence": "OBSERVED_CURRENT",
+  "facts": [
+   "NC recreational GULF flounder season 9-22 March 2026 (spring, already past)",
+   "NO fall Gulf flounder season announced",
+   "NC recreational SUMMER flounder season must occur between Aug 16 and Sept 30 this year and in 2027"
+  ],
+  "note": "TRAP FLAGGED 14/08: the Aug 16-Sept 30 window is SUMMER flounder in NORTH CAROLINA, a different species and a different state from the southern/gulf flounder named in the Gulf and NW Florida reports. Must NOT be used as a countdown date for the GritFell flounder idea. Recorded here specifically so a future run does not make that mistake."
+ },
+ {
+  "id": "huntdad_home",
+  "url": "https://huntdad.com/",
+  "type": "competitor_new_entrant",
+  "observed_at": "2026-08-14",
+  "status": "LIVE_OK",
+  "last_ok": "2026-08-14",
+  "evidence": "OBSERVED_CURRENT",
+  "fulfillment_tier": "F3",
+  "facts": [
+   "entered the dove paid lane 13/08 with 3 ads, hook 'Code HUNT15 to get 15% OFF today!'",
+   "SHIPPING POLICY (live 14/08): 'Orders are processed within 3-4 business days before shipment' + 'Economy (4-6 business days): $6.99' = 7-10 business days door-to-door",
+   "no made-to-order or print-on-demand language anywhere in the policy",
+   "ships within the United States only",
+   "address 117 S Lexington Street STE 100, Harrisonville MO 64701"
+  ],
+  "note": "14/08 F-SCAN: scored F3 (US light-inventory / domestic POD hybrid). Sits between Hunthide F1 and Marsh Wear F5 - the middle tier the rubric needed to prove it is a scale, not a binary. Paid discount-code hook + 3-4 day processing = holds some stock but is not running a real returns operation."
+ },
+ {
+  "id": "F_SCORE_RUBRIC",
+  "type": "method",
+  "url": "internal",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_OBSERVED",
+  "note": "FULFILLMENT TIER (F1-F5) - method added 14/08 at user request, to answer 'who in this lane is dropshipping'. WHY IT MATTERS: inventory commitment = response latency. A POD competitor clones a species design in days at zero risk; a real-inventory brand commits 8-16 weeks ahead. So a lane's window is a function of WHO is in it, not HOW MANY. MEASURE, never guess, and only after opening BOTH the shipping and the returns page. PRIMARY SIGNAL = time-to-door (processing + transit, in business days): >=15 -> F1, 8-14 -> F2, 5-7 -> F3, 2-4 -> F4, same/next-day processing -> F5. SECOND SIGNAL = returns: defect-only or no-size-returns -> F1-F2 (a POD seller cannot restock); free returns / satisfaction guarantee -> F4-F5. THIRD = explicit 'made to order' / 'print on demand' wording -> F1 regardless of stated times. SUPPORTING ONLY (never conclusive alone): virtual-office/registered-agent suite address, no return address, discount ladder Buy2/Buy5, never-out-of-stock across a large catalogue, mockup-only imagery with no field photography, cm-first size chart. FORBIDDEN INFERENCES: do NOT infer F from price (Duck Camp discounts hats to $25 and is a real brand); do NOT infer F from whether they run ads; unopened policy pages -> write 'F?' and move on. VERIFIED ANCHORS 14/08: Hunthide F1 (made-to-order, 13-20 business days, defect-only returns) - Huntdad F3 (7-10 business days, US-only, no POD language) - Marsh Wear F5 (same-day processing, free returns)."
+ },
+ {
+  "id": "terrabound_shipping",
+  "type": "competitor_policy",
+  "url": "https://terraboundoutdoor.com/policies/shipping-policy",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "LIVE_OPENED",
+  "fulfillment_tier": "F2",
+  "note": "Terrabound Outdoor. Processing '1-3 business days' + delivery '3-6 business days following dispatch' = 4-9 bds total -> Signal 1 scores F3. Company address 61 Whitechapel High St, London E1 7PE (virtual office). DOWNGRADED to F2 by new Signal 2b - see terrabound_returns."
+ },
+ {
+  "id": "terrabound_returns",
+  "type": "competitor_policy",
+  "url": "https://terraboundoutdoor.com/pages/returns-policy",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "LIVE_OPENED",
+  "note": "PAPER RETURNS POLICY - the case that broke the old rubric. Words say F4-F5: '30-day return window', accepts change-of-mind AND sizing, 'no restocking fees'. Economics say F1-F2: return address is No. 2 Yuangtong Express, No. 409, Suxi Yiwu Town, Zhejiang 310000, CHINA, and the customer pays 'approximately GBP 15-35 per parcel'. On a ~$35 hoodie the return costs as much as the item. The policy exists to be READ, not USED."
+ },
+ {
+  "id": "F_SCORE_RUBRIC_2b",
+  "type": "method",
+  "url": "internal",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_OBSERVED",
+  "note": "AMENDMENT to F_SCORE_RUBRIC, Signal 2 (returns policy). Generous return wording counts as an F4-F5 signal ONLY IF the return address is in the SAME COUNTRY as the selling market. If the return address is overseas OR the buyer-paid return shipping is >=40% of the item price, treat the policy as 'defect-only' and cap the brand at F2 regardless of wording. Discovered via terrabound_returns 14/08: old rubric scored it F3-F4, corrected reading is F2. SELF-APPLY: the same test applies to GritFell. The question to ask is NOT 'do we accept size exchanges' but 'where does the return go and who pays'. If GritFell returns route to Vietnam at buyer cost, GritFell sits in the same box as Terrabound."
+ },
+ {
+  "id": "AD_FARM_RULE",
+  "type": "method",
+  "url": "internal",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_OBSERVED",
+  "note": "ROSTER HYGIENE. If the SAME ad_creative_link_title appears under >=2 unrelated page names in one Ad Library query, mark them ad_farm: one operator running shell pages, NOT N new competitors. Do NOT add to brands[]; add to noise_pages_seen[] and DO count them as lane saturation pressure. Without this the 'new competitor' counter inflates on shell pages. First catch 14/08: 'Men's Ventilated Fast Dry Hoodie Sun Hoodie' under Masterpiecei / Beyonddraw.BE / Emboadlie.xs01."
+ },
+ {
+  "id": "supplier_discount_2nd_item",
+  "type": "internal",
+  "url": "FOXERAWEBVN.xlsx#Gia",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_LOCKED",
+  "note": "CLOSES the open question logged 14/08 ('ask Minh Theu the 2nd-item discount'). Column 'Discount Item thu 2' = -$2.00 on EVERY line (tee, sweatshirt, quarter-zip, hoodie, beanie, all 4 hat types). Patches use a deeper ladder: -$2.00 from pc 2, -30% pcs 6-10, -50% pcs 11-20. Bundle/B2G1 math is unblocked. STILL OPEN: confirm the apparel Ship-US column is landed cost (hats verify exactly: 7.85 + 6.65 = 14.50; patch sheet header says 'Total cost (Ship US)')."
+ },
+ {
+  "id": "category_cogs_matrix",
+  "type": "internal",
+  "url": "FOXERAWEBVN.xlsx#Gia",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_LOCKED",
+  "note": "S6 UNLOCKED FOR ALL CATEGORIES, not just hats. COGS to US door / suggested price / margin at smallest size / margin at largest size: Beanie 12.50 / $30 / 58.3% / 58.3% (one size). Hat 14.50 / $34 / 57.4%. Quarter-zip 25.00-28.50 / $68 / 63.2% / 58.1% (BEST margin in catalog). Hoodie 27.50-30.00 / $68 / 59.6% / 55.9%. Sweatshirt 24.50-28.50 / $58 / 57.8% / 50.9%. T-shirt 18.50-22.00 / $36 / 48.6% / 38.9% (WORST, and 2XL+ is a large share in US hunting/fishing, not a tail). Patch 3in 9.00 / $16 / 43.8% - not a product, a bundle filler. Bundles with the -$2 discount: Hat+Beanie $64 -> 60.9% (HIGHER than selling a hat alone); Quarter-zip+Hat $92 -> 59.2%, still 51.6% after absorbing $7 Priority."
+ },
+ {
+  "id": "product_category_rotation",
+  "type": "method",
+  "url": "internal",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_OBSERVED",
+  "note": "SCOPE FIX. Root cause of the 14/08 miss: the daily research axis was locked to hats, so the report came back hat-only even though the ask was other products + dropshipping. Rotate ONE category per day, 6-day cycle, keyed off day-of-year mod 6: 0=hat 1=beanie 2=tee 3=sweatshirt/hoodie 4=quarter-zip 5=patch. B2 must open with 'Category today:' and quote that category's margin per rule S6. Every green idea in B7 must state its category AND its margin at the LARGEST size, not the smallest."
+ },
+ {
+  "id": "P_SCORE_RUBRIC",
+  "type": "method",
+  "url": "internal",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_OBSERVED",
+  "note": "PRODUCT DISCOVERY GATE. Every candidate product must pass 4 of 5. P1 MARGIN >=55% at the lane's real price (rule S6; below that there is no money to fund Priority or a US warehouse). P2 CARRIES SPECIES ART - is there a flat area big enough to tell a species + a moment? A product that cannot carry art is being sold the way a POD farm sells it, with no moat. P3 NO SIZE - one-size or no size chart; size exchange is the largest hidden cost in cross-border shipping. P4 US PATH EXISTS - at least one US-side fulfilment source, else the product is stuck at F1-F2 forever. P5 DEMAND IS MEASURABLE with a real sensor, see DEMAND_SENSOR_MAP. Scored 14/08: Mug 5/5, Canvas 5/5, Garden Flag 5/5, Beanie 4/5, Whiskey Glass 4/5, Blanket 3/5, Socks 2/5, T-shirt 2/5, ready-made hunting apparel 1/5."
+ },
+ {
+  "id": "DEMAND_SENSOR_MAP",
+  "type": "method",
+  "url": "internal",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_OBSERVED",
+  "note": "METHOD ERROR CAUGHT 14/08. Meta Ad Library is the WRONG sensor for gift / decor / drinkware. Queries 'engraved whiskey glass hunting' returned 4 ads (all noise) and 'duck hunting decor' returned 8 (mostly a barrel reseller; one real signal - Huntdad now running 'Duck Polo Shirt'). Reading that as 'empty lane = opportunity' is a ONE-DIRECTIONAL error that always sounds like good news. Nobody buys an engraved duck glass from a Facebook ad; they search Etsy and Amazon. SENSOR MAP: branded apparel/hats -> Meta Ad Library. Gift, decor, drinkware, flags, canvas -> Etsy search + competitor catalogue. Hard gear (knives, lights, bags) -> Amazon + competitor catalogue. RULE: never conclude 'lane is empty' from a Meta query on a non-apparel product. If the right sensor is unavailable in the run, mark P5 as NOT YET MEASURED and do not green-light."
+ },
+ {
+  "id": "SUPPLIER_STACK_MAP",
+  "type": "internal",
+  "url": "FoxEra_Catalog_Fulfill.xlsx#Thong tin Supplier",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_LOCKED",
+  "note": "40 suppliers classified for the POD-vs-dropship question. ~34 are POD (made to order): Minh Theu VN, FALCORE, Merchize, PGPrints, Yoycol, Printlab, Dreamship, CustomEase, Sellerwix/PrimeChoice/PrimeLux/PrimeFine, PrintWay, Burger, LuxuryPro, InterestPrint, TeeAllover, Senhub, HOGOTOPOD, etc. Only TWO are true ready-made goods: #14 Xiamen Yuelei Sports (Hunting Clothes, MOQ 50 for 3D / stock 1pc for 2D) and #38 Yushan Yijia (inflatable water products, ice bags). Exactly ONE is US infrastructure: #32 FASTEX FULFILLMENT (US warehousing, order handling, US domestic shipping). CONCLUSION: the stack is essentially all-POD, so a real dropship leg has only two narrow doors - and the valuable one is not a product source at all, it is the US 3PL."
+ },
+ {
+  "id": "fastex_us_3pl",
+  "type": "supplier",
+  "url": "internal#supplier_32",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_LOCKED",
+  "note": "THE F-TIER UNLOCK, and it was already in the user's own supplier list. FASTEX FULFILLMENT: 'Dich vu luu kho, xu li don va ship noi dia My' = US warehousing + order processing + US domestic shipping. This supersedes the 13/08 action item 'ask TNT Embroidery about a US return address'. MODEL: bulk-embroider PROVEN best-sellers at Minh Theu VN, ship one large lot to FASTEX, fulfil domestically in 2-4 days = F4 with a real US return address and real size exchanges; long-tail SKUs keep running POD direct from VN at F2. This is the only path in the data that lifts GritFell F2 -> F4/F5 without dropping the art, changing factory, or cutting price. CONDITION: it requires working capital for the stocked leg, which pure POD does not - so ONLY for SKUs with proven sales, NEVER a new SKU. OPEN QUESTION, highest priority: FASTEX storage fee + pick&pack fee + do they accept customer returns."
+ },
+ {
+  "id": "xiamen_yuelei_blank_angle",
+  "type": "supplier",
+  "url": "internal#supplier_14",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_LOCKED",
+  "note": "Xiamen Yuelei Sports - the only genuine hunting-apparel manufacturer among 40 suppliers. MOQ 50 for 3D (that is stocking, not dropshipping); stock 1 pc for 2D. VERDICT: do NOT resell their ready-made hunting apparel - it carries no art, has no moat (any shop can buy the same), and it contradicts GritFell's positioning. P-SCORE 1/5. THE REAL VALUE IS AS A BLANK SOURCE: purpose-built hunting blanks (not Gildan) that GritFell embroiders are a PHYSICAL barrier and would satisfy the T+1 condition in the arbitrage gate. ASK: will they sell blanks in small quantity without MOQ."
+ },
+ {
+  "id": "product_candidates_14_08",
+  "type": "internal",
+  "url": "FoxEra_Catalog_Fulfill.xlsx",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_LOCKED",
+  "note": "COGS to US door / price / margin, all from the user's own catalogue file. Ceramic Mug 11oz US-label 4.75-6.50 / $22 / 70-78% (CHEAPEST item in the entire stack, F4, no size). Canvas 16x24 US 12.41 / $46 / 73.0%. Garden Flag 12x18 Merchize VN 8.78 / $29 / 69.7% (9-13 bds) or Merchize US 13.83 / $29 / 52.3% (4-8 bds = F3-F4). Garden Flag 28x40 VN 14.37 / $46 / 68.8%. Canvas 12x18 US 11.52 / $34 / 66.1%. Engraved Whiskey Glass Dreamship US 17.38 / $42 / 58.6% (1-3 + 5-7 bds). Whiskey Glass CustomEase CN 13.50 / $42 / 67.9% but 7-15 bds. Blanket S Yoycol 25.90 / $68 / 61.9%. Socks AOP 10.05 / $26 / 61.3%. Two-item orders: Hat+GardenFlag(VN) $58 -> 59.9%; Hat+Mug $50 -> 58.0%. CAVEAT: P5 (demand) NOT YET MEASURED for mug/canvas/flag - needs an Etsy sensor, unavailable this run."
+ },
+ {
+  "id": "TARIFF_REGIME_2026",
+  "type": "regulatory",
+  "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12670/indefinite-suspension-of-the-de-minimis-exemption-for-merchandise-arriving-through-all-modes-other",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "LIVE_OPENED",
+  "note": "HIGHEST PRIORITY OPEN RISK. US customs changed and every COGS figure in this project predates it. (1) 29/08/2025 the $800 de minimis duty-free exemption ended for ALL countries. (2) Federal Register rule effective 24/06/2026 suspends de minimis INDEFINITELY; shipments must use formal/informal entry (Type 11 for <=$2,500). That rule EXCLUDES international postal network - postal is a separate concurrent rulemaking that has NOT been verified here. (3) 24/07/2026 Section 301 forced-labour tariffs took effect on 60 economies; VIETNAM AND CHINA both pay the flat 12.5% with no MFN offset (Global Trade Alert final action). IMPACT: Minh Theu VN is labelled 'DDP - Minh Theu VN' in 3 sheets of the catalogue file, so duty is nominally the supplier's. BUT the price list stamps are '1st item (+1$) 23.3.2026' and '14.8.26 doi chat', i.e. the quoted prices predate the 24/07 tariff. If DDP no longer holds, or if per-parcel brokerage ($10-20/parcel per Stord) applies, hat COGS moves from $14.50 to $25-35 and the $34 hat margin falls from 57.4% to between -3% and 26%. THE ONE QUESTION: 'after 24/07/2026 is the Ship US quote still DDP, and has the 12.5% been priced in?' Until answered, every margin in the 14/08 documents is ASSUMPTION, not fact."
+ },
+ {
+  "id": "P_SCORE_V2",
+  "type": "method",
+  "url": "internal",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_OBSERVED",
+  "note": "SUPERSEDES P_SCORE_RUBRIC (v1). v1 had a structural flaw: it scored margin first and demand last, which is still supply-side thinking. v2 is sequential and fails fast. GATE 0 DEMAND PROOF - real buyer evidence (reviews, sales rank, repeated complaints). 'No competitor found' is NOT demand evidence. Sensor must match product type per DEMAND_SENSOR_MAP. Fail = STOP, do not even compute COGS. GATE 1 LEGAL/IP CLEAN - no third-party camo patterns or marks, no shipping-restricted goods, nothing over 10 lbs, no hazmat, no electronics needing certification. GATE 2 COGS IS CURRENT (NEW) - price must be confirmed AFTER 24/07/2026 with DDP-vs-DDU stated and the 12.5% duty incidence named; anything older is marked NOT VERIFIED and cannot be used. GATE 3 GRITFELL FIT - carries species art, no size, tells a story. GATE 4 US PATH - a US fulfilment source exists; if own-warehouse, is volume above ~100 orders/month. MANDATORY SELF-CHECK each scoring: (a) was my sensor right for this product type, (b) which sources were BLOCKED this run - blocked is not empty, (c) is this a supply number (listings) or a demand number (reviews/sales), (d) how many days old is this COGS."
+ },
+ {
+  "id": "BLIND_SPOT_REGISTER",
+  "type": "method",
+  "url": "internal",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "INTERNAL_OBSERVED",
+  "note": "Standing list of errors this project has actually made or nearly made. MINE: (1) SUPPLY-SIDE BIAS - twice searched the client's own supplier files and called it market discovery; availability heuristic. (2) TARIFF BLINDNESS - see TARIFF_REGIME_2026. (3) WRONG SENSOR - used Meta Ad Library to measure gift/decor demand. (4) 3PL FLOOR IGNORED - pitched a US warehouse without stating ShipBob $275/mo and ShipMonk $250/mo minimums; break-even is ~80-110 orders/month. DATA MISREADS: (5) 'not found' vs 'blocked' - on 14/08 Reddit (403), Amazon (robots), Etsy search (robots), Pinterest Trends and CJdropshipping were ALL blocked; absence of results was access failure, not absence of market. (6) listings = SUPPLY, reviews = DEMAND, never conflate; Etsy review counts aggregate variants. (7) Etsy 'Star Seller' is a service-quality badge, not a sales badge. (8) steep '70% off' pricing is an oversupply tell, not a demand tell. (9) Wholesale Survival Club and Tactical Dropship share phone 760-994-0710 - one operator, two storefronts, not two options. (10) TikTok Shop's 'viral' label is TikTok's own taxonomy, not organic virality. (11) recency trap - Catchin' Deers (2016), openseason (2013), eMinnow (2017) all resurface as 'new 2026'. MARKET MISREADS: (12) outdoor is NOT growing - licensed anglers -8.5% 2021-23, tackle -8%, powerboats -8-10%, hunting participation -10.5% and fishing -15% vs 1990s, yet total spend is still $122B: fewer participants, undiminished wallet, so growth must come from share and margin. (13) the heritage-camo trend is largely Mossy Oak / Realtree IP and is already forbidden by the project prompt - ride the aesthetic via historical WWII frogskin or abstract 'blob camo', never the trademarked patterns. (14) strongest verified unmet need (dog hunting vest chafing at the front leg/shoulder, real injuries, DIY fixes) is NOT POD-able - wanting it does not mean we can make it."
+ },
+ {
+  "id": "demand_signals_14_08",
+  "type": "internal",
+  "url": "multi",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "LIVE_OPENED",
+  "note": "DEMAND-FIRST SWEEP RESULTS. Etsy /market/ pages opened (search blocked, so no listing totals): personalized fishing lure keychain ~$12.66 / 64.5k reviews; hunting-humour doormat $14.99 / 133.3k; LEATHER HUNTING LOG BOOK $49 / 20.9k; carved wood 'Established' cabin sign $69 / 17.1k; oval deer metal sign $18 / 25.4k; ENGRAVED AMMO CAN $35 / 16.1k (thinner supply); species-specific tumblers $21-25 / 1.2-5.2k. THE CLEAREST WHITE SPACE: koozies (47.7k reviews) and bar mats (10.3k) have proven demand but the top listings are WEDDING/GROOMSMAN themed - the hunting/fishing version barely exists, and Gooten makes can coolers IN THE USA (verified). Etsy's own Spring/Summer 2026 trend report names 'Dear Diary' (analog revival, leather journals/keepsakes) which matches the hunting log book data - rare case of platform-declared trend and sales data agreeing. Mainstream Etsy/Printify 2026 trend content does not cover the men's hunting/fishing gift niche at all. FORUM UNMET NEEDS (opened and read): dog vest chafing at front-leg/shoulder (strongest, multiple brands, real injuries, DIY workarounds); decoy line tangling; hunting gloves warmth-vs-trigger-feel; rubber-only landing nets called 'trampoline nets'; blind bags (3 forums, titles only); cellular trail cam subscription backlash. REDDIT WAS 100% BLOCKED (403 search and fetch) - the primary target of the sweep returned nothing and that is an access gap, not a finding."
+ },
+ {
+  "id": "new_supplier_routes_14_08",
+  "type": "supplier",
+  "url": "multi",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "LIVE_OPENED",
+  "note": "NEW SOURCING ROUTES beyond the existing 40. US OUTDOOR WHOLESALE (best find): CWR Wholesale Distribution - 300+ brands, NJ+FL warehouses, NO stated minimum, flat shipping from $9.95, offers dropshipping, dealer portal with data export/FTP. US Direct -> Sportsman's Supply - 300+ brands, 15,000 items, Missouri warehouse, requires EIN + state resale certificate, self-discloses filtering out 70-90% of catalogue (firearms, 10+ lbs, fraud-risk). Doba - 421 hunting/fishing SKUs US-stocked, 2-3 bd, pricing behind login. CAUTION: Wholesale Survival Club and Tactical Dropship share phone 760-994-0710 = same operator. DROPSHIP PLATFORMS WITH US WAREHOUSES: Zendrop (1 CA centre, 5-8d US / 10-15d CN, branding $2-4/unit at MOQ 100-200, plans $0/59/79/199 per month); Spocket (US/EU suppliers, 2-5d); Sup Dropshipping (US+CN, 3-10d US). CJdropshipping BLOCKED BY BOT-CHECK - catalogue depth unverified. US 3PL REAL COSTS: ShipBob $275/mo minimum, pick&pack $2.50-3.50/order, storage $5/mo bin to $40/mo pallet; ShipMonk $250/mo minimum, ~$7.70-10.70 per order all-in at 300 orders/mo. Break-even roughly 80-110 orders/month. NEW POD FORMATS: Gooten can coolers/koozies MADE IN USA (verified, 3 sizes, sublimation); Printify metal signs (aluminium, no MOQ, 2-7 bd, up to 46% bulk discount at 20 units). NOT AVAILABLE at major POD platforms: UPF performance fishing shirts, waxed canvas, bar mats - these need specialty suppliers."
+ },
+ {
+  "id": "trend_2026_aesthetic",
+  "type": "internal",
+  "url": "multi",
+  "observed_at": "2026-08-14",
+  "status": "ACTIVE",
+  "last_ok": "2026-08-14",
+  "evidence": "LIVE_OPENED",
+  "note": "2026 DIRECTION. RISING: heritage/vintage camo reissues - Mossy Oak Bottomland/Greenleaf, Realtree Advantage Classic, Trebark, sold as streetwear; Mossy Oak president Bill Sugg: 'it's about more than just blending in. It's a badge people are wearing.' DECOY Apparel Co (already in roster) is building a brand on WWII frogskin, $35-200+. Also rising: 'blob camo' (abstract, non-representational, fashion-forward, named in 2026 headwear trend reporting); natural materials in casual pieces (washed cotton, corduroy, seersucker); accent colours (orange, cobalt) on neutral builds; merino / quiet fabric across all price tiers. Kifaru launched its first apparel line 05/03/2026 deliberately in SOLID colours, no camo, for cross-kit modularity. IP TRAP: the heritage-camo trend IS largely Mossy Oak and Realtree intellectual property, already forbidden by the project prompt - the legal routes are historical WWII frogskin and abstract blob camo. PAST PEAK: gorpcore (brands now running ANTI-gorpcore campaigns, a late-cycle marker); loud western (rhinestone/fringe) shifting to stealth western; casual recreational fishing and powerboats contracting, with kayak and forward-facing sonar the resilient pockets. SHOT Show 2026's most-scanned products were 4-of-5 firearms/tactical hardware, not apparel. NO verified single-SKU TikTok breakout exists in hunting/fishing - creators here drive lifestyle amplification, not product launches, unlike drinkware."
+ },
+ {
+  "id": "social_fetch_desktop",
+  "type": "method",
+  "title": "DESKTOP SOCIAL FETCH - gritfell-social-fetch.json",
+  "evidence": "DESKTOP_PRODUCER",
+  "date": "2026-08-17",
+  "note": "PC-side fetch of 4 sources the cloud sandbox is blocked from (reddit.com, youtube.com, suggestqueries.google.com, trends.google.com - all return PROXY-blocked from cloud, re-verified 17/08). Sources: (1) reddit /r/<sub>/top.json?t=week over 12 subs mapped to SN1 waterfowl / SN2 freshwater / SN3 inshore / SN4 big game / gundogs; (2) youtube channel RSS for 5 outdoor channels; (3) google autocomplete over 18 seeds - what people ACTUALLY type; (4) google trends US RSS. NO API KEY, NO LOGIN. This is UNAUTHENTICATED public-JSON scraping, not the Reddit API. KNOWN FRAGILITY: reddit rate-limits unauthenticated callers aggressively (HTTP 429) and may 403 a generic User-Agent; the script sends a descriptive research UA and sleeps 2.0s between subs. If reddit hardens further, the correct upgrade is a registered Reddit app (client_id/secret, OAuth script-type token) - NOT faster retries. Script always exits 0: social is a SUPPLEMENTARY source and must never block the push of gritfell-live-fetch.json (97 SKU + policies), which is the mandatory one."
+ },
+ {
+  "id": "SOURCE_FAILURE_NOT_ABSENCE",
+  "type": "rule",
+  "title": "RULE - a failed fetch is NOT a zero demand reading",
+  "evidence": "METHOD_LOCK",
+  "date": "2026-08-17",
+  "note": "BLIND SPOT GUARD, companion to DEMAND_SENSOR_MAP. Every producer file carries an \"errors\" array. When a source appears EMPTY, the bot MUST first check whether that source has an entry in \"errors\". If it does, the correct reading is NO DATA (unknown), never NO DEMAND (zero). Concretely: reddit {} + errors[{kind:reddit, code:'HTTP 429'}] means Reddit rate-limited us, it does NOT mean the sub-niche is quiet. Any P_SCORE_V2 Gate 0 (demand proof) verdict resting on a source that is listed in \"errors\" is INVALID and must be reported as 'demand unverified - sensor failed' rather than scored. Same rule applies to gritfell-live-fetch.json: a brand with a fetch error is not a brand with no products. This is the exact trap the 14/08 Meta Ad Library reading fell into (4 and 8 ads read as 'empty lane' when the sensor was simply wrong for the category)."
  }
 ]
