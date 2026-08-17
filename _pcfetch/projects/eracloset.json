@@ -1,0 +1,58 @@
+{
+  "project": "eracloset",
+  "active": false,
+  "_ly_do_chua_mo": "store dang xay — bao 17/08, chua mo ban",
+  "_khi_nao_bat": "Store publish san pham that roi thi doi active thanh true, chay tay 1 lan de lay so nen, roi moi make_task.bat dat lich.",
+  "out_live": "eracloset-live-fetch.json",
+  "out_social": "eracloset-social-fetch.json",
+  "_niche": "JOB — qua tang theo nghe nghiep. Store theu + in.",
+  "_canh_bao": "Cloud bi chan eracloset.com nen KHONG xac minh duoc products.json co mo hay khong. Lan chay dau tien tren may la phep kiem. Neu 'HTTP 404' o feed cua chinh minh -> shop dang tat products.json (Shopify cho phep tat), bao lai cho tro ly.",
+  "feeds": {
+    "EraCloset": "https://eracloset.com/products.json?limit=250",
+    "Two Threads Edmonds": "https://twothreadsbyedmonds.com/products.json?limit=5"
+  },
+  "_ghi_chu_doi_thu": "Chi co 1 doi thu, lay tu foxera-job-routine-v4.2.md (duong DTC ngoai Etsy cua nguoi ban). Them doi thu thi dien vao feeds theo dung dang tren.",
+  "policies": {
+    "EraCloset": [
+      "https://eracloset.com/policies/shipping-policy",
+      "https://eracloset.com/policies/refund-policy"
+    ]
+  },
+  "extras": {
+    "EraCloset collections": "https://eracloset.com/collections.json?limit=250"
+  },
+  "social": {
+    "enabled": true,
+    "trends_geo": "US",
+    "subs": {},
+    "_subs_can_kiem_truoc": [
+      "nursing",
+      "Teachers",
+      "Truckers",
+      "Welding",
+      "Firefighting"
+    ],
+    "_cach_them_sub": "Mo reddit.com/r/<ten> tren trinh duyet. Co that thi chuyen ten do tu _subs_can_kiem_truoc vao subs, vi du: \"subs\": { \"nghe_y_te\": [\"nursing\"] }. KHONG dien theo tri nho — 17/08 r/Hunting_Gear dien kieu do va tra 404.",
+    "youtube": [],
+    "suggest_seeds": [
+      "nurse gift for",
+      "teacher gift embroidered",
+      "trucker gift for him",
+      "welder gift",
+      "firefighter gift for him",
+      "nail tech gift",
+      "hairstylist gift",
+      "cna graduation gift",
+      "emt gift",
+      "mechanic gift for him",
+      "personalized nurse jacket",
+      "embroidered scrub top",
+      "nurse practitioner gift",
+      "teacher appreciation gift",
+      "new job gift",
+      "retirement gift for coworker",
+      "police wife gift",
+      "veterinarian gift"
+    ]
+  }
+}

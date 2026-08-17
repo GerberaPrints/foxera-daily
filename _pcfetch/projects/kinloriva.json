@@ -1,0 +1,56 @@
+{
+  "project": "kinloriva",
+  "active": false,
+  "_ly_do_chua_mo": "store dang xay — bao 17/08, chua mo ban",
+  "_khi_nao_bat": "Store publish san pham that roi thi doi active thanh true, chay tay 1 lan de lay so nen, roi moi make_task.bat dat lich.",
+  "out_live": "kinloriva-live-fetch.json",
+  "out_social": "kinloriva-social-fetch.json",
+  "_niche": "FAMILY — store IN (print).",
+  "_vai_tro_social": "Du an nay CHIU TRACH NHIEM quet social cho ca niche Family. kinmireva cung niche nen KHONG quet lai — xem ghi chu trong kinmireva.json.",
+  "feeds": {
+    "Kinloriva": "https://kinloriva.com/products.json?limit=250"
+  },
+  "_ghi_chu_doi_thu": "Chua co doi thu nao. Store moi thi viec dau tien la co SO NEN cua chinh minh (bao nhieu SKU, thang gia nao) truoc khi so voi ai. Doi thu them sau, dien vao feeds voi limit=5.",
+  "policies": {
+    "Kinloriva": [
+      "https://kinloriva.com/policies/shipping-policy",
+      "https://kinloriva.com/policies/refund-policy"
+    ]
+  },
+  "extras": {
+    "Kinloriva collections": "https://kinloriva.com/collections.json?limit=250"
+  },
+  "social": {
+    "enabled": true,
+    "trends_geo": "US",
+    "subs": {},
+    "_subs_can_kiem_truoc": [
+      "Mommit",
+      "daddit",
+      "grandparents",
+      "BabyBumps"
+    ],
+    "_cach_them_sub": "Mo reddit.com/r/<ten> kiem co that roi moi chuyen vao subs.",
+    "youtube": [],
+    "suggest_seeds": [
+      "family gift for mom",
+      "grandma gift personalized",
+      "family name sign",
+      "mother daughter gift",
+      "papa gift from grandkids",
+      "family reunion shirt",
+      "custom family portrait gift",
+      "first mothers day gift",
+      "grandparents gift personalized",
+      "family established sign",
+      "dad gift from kids",
+      "memorial gift loss of mother",
+      "new baby gift for grandma",
+      "family christmas pajamas",
+      "personalized family sweatshirt",
+      "sibling gift for brother",
+      "great grandma gift",
+      "family tree gift"
+    ]
+  }
+}

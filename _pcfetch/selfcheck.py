@@ -120,6 +120,15 @@ def check_project(project, today, do_heal=True):
     cfgp = os.path.join(PROJDIR, project + ".json")
     with open(cfgp, encoding="utf-8") as f:
         cfg = json.load(f)
+
+    # "active": false = store DANG XAY, chua mo ban. Bo qua, KHONG bao dong.
+    # Neu khong co co nay thi watchdog se bao "thieu live-fetch.json" moi sang
+    # cho mot store chua ton tai — va bao dong sai moi ngay thi nguoi ta thoi doc
+    # bao dong, den hom co chuyen that cung bo qua luon. Chay TAY van duoc.
+    if cfg.get("active") is False:
+        return {"project": project, "status": "CHUA_MO", "checks": [],
+                "healed": [], "need_human": [],
+                "note": cfg.get("_ly_do_chua_mo", "danh dau active:false")}
     live_p = os.path.join(ROOT, cfg.get("out_live", project + "-live-fetch.json"))
     soc_p = os.path.join(ROOT, cfg.get("out_social", project + "-social-fetch.json"))
 
@@ -267,6 +276,10 @@ def main():
             continue
         reps.append(r)
         need += r["need_human"]
+        if r["status"] == "CHUA_MO":
+            print("%-16s %-8s %-9s %-9s %s" % (p, "chua mo", "-", "-",
+                                               r.get("note", "")[:24]))
+            continue
         note = "; ".join(c for c in r["checks"] if not c.startswith("OK")) or "sach"
         print("%-16s %-8s %-9s %-9s %s" % (p, r["status"], r.get("feeds", "-"),
                                            r.get("reddit", "-"), note[:24]))
@@ -277,7 +290,8 @@ def main():
               "date": today, "projects": reps,
               "need_human": need,
               "overall": "NEED_HUMAN" if need else
-                         ("FAIL" if any(r["status"] == "FAIL" for r in reps) else "OK")}
+                         ("FAIL" if any(r["status"] == "FAIL" for r in reps) else "OK"),
+              "chua_mo": [r["project"] for r in reps if r["status"] == "CHUA_MO"]}
     with open(os.path.join(HERE, "health.json"), "w", encoding="utf-8") as f:
         json.dump(health, f, ensure_ascii=False, indent=1)
 

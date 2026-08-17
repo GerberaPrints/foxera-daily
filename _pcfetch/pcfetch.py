@@ -549,6 +549,12 @@ def main():
     cfg.setdefault("out_social", project + "-social-fetch.json")
     os.makedirs(LOGDIR, exist_ok=True)
     now = datetime.now(TZ)
+    if cfg.get("active") is False:
+        # Van chay — day la cach de LAY SO NEN dau tien khi store vua mo ban.
+        # Chi nhac, khong chan.
+        print("LUU Y: du an nay dang danh dau active:false (store chua mo).")
+        print("       Chay tay thi duoc. Watchdog va selfcheck bo qua no.")
+        print("       Mo ban roi thi doi thanh \"active\": true trong config.\n")
 
     live_line, ok_f, tot_f, errs_live = run_live(cfg, now)
     with open(os.path.join(LOGDIR, project + "_log.txt"), "a", encoding="utf-8") as f:

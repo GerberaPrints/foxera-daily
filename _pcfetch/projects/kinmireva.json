@@ -1,0 +1,43 @@
+{
+  "project": "kinmireva",
+  "active": false,
+  "_ly_do_chua_mo": "store dang xay — bao 17/08, chua mo ban",
+  "_khi_nao_bat": "Store publish san pham that roi thi doi active thanh true, chay tay 1 lan de lay so nen, roi moi make_task.bat dat lich.",
+  "out_live": "kinmireva-live-fetch.json",
+  "out_social": "kinmireva-social-fetch.json",
+  "_niche": "FAMILY — Stitched Family Stories (THEU).",
+  "_vi_sao_TAT_social": "CUNG NICHE voi kinloriva. Quet Reddit/Trends hai lan cho cung mot niche thi duoc du lieu y het nhau, nhung DOT gap doi han muc Reddit — va Reddit chan theo nhip, sub thu 2 hay bi 429 vi sub thu 1 vua goi. Nen: kinloriva quet, kinmireva dung chung. Doc kinloriva-social-fetch.json khi can tin hieu cau cho niche Family. Rieng suggest_seeds cua theu thi KHAC (nguoi mua go 'embroidered', 'stitched') nen van bat suggest.",
+  "feeds": {
+    "Kinmireva": "https://kinmireva.com/products.json?limit=250"
+  },
+  "policies": {
+    "Kinmireva": [
+      "https://kinmireva.com/policies/shipping-policy",
+      "https://kinmireva.com/policies/refund-policy"
+    ]
+  },
+  "extras": {
+    "Kinmireva collections": "https://kinmireva.com/collections.json?limit=250"
+  },
+  "social": {
+    "enabled": true,
+    "trends_geo": "US",
+    "subs": {},
+    "_subs_dung_chung": "Xem kinloriva-social-fetch.json — cung niche Family, khong quet lai.",
+    "youtube": [],
+    "suggest_seeds": [
+      "embroidered family gift",
+      "stitched family portrait",
+      "embroidered baby blanket personalized",
+      "custom embroidered sweatshirt family",
+      "embroidered grandma sweatshirt",
+      "personalized embroidered pillow",
+      "embroidered name blanket",
+      "stitched memory gift",
+      "embroidered mom sweatshirt",
+      "custom embroidery family name",
+      "embroidered christmas stocking personalized",
+      "hand stitched family keepsake"
+    ]
+  }
+}
