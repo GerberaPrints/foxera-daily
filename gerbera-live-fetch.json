@@ -2,7 +2,7 @@
  "schema_version": "1.1",
  "source": "pc-local (gerbera_fetch.py, Task Scheduler)",
  "date": "2026-08-17",
- "fetched_at": "2026-08-17T10:36:35.717633+07:00",
+ "fetched_at": "2026-08-17T10:41:44.214363+07:00",
  "locale_note": "US/USD (products.json shop default) — máy quét ở VN, giá feed theo market mặc định shop",
  "feeds": {
   "Bogey Bros": {
