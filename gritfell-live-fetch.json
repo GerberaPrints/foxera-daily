@@ -1,9 +1,9 @@
 {
- "schema_version": "1.0",
+ "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-17",
- "fetched_at": "2026-08-17T13:25:31.978616+07:00",
+ "date": "2026-08-18",
+ "fetched_at": "2026-08-18T04:30:03.336878+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 97,
@@ -1175,7 +1175,10 @@
      "handle": "alden-1494-unlined-chukka-boot",
      "type": "Footwear",
      "tags": [
-      "MFOOTZR"
+      "FW2026ZR",
+      "MENZR",
+      "MFOOTZR",
+      "MNEWZR"
      ],
      "price": "730.00",
      "published_at": "2026-08-14T14:31:27-05:00"
@@ -1185,7 +1188,10 @@
      "handle": "alden-6221-unlined-leisure-penny-loafer",
      "type": "Footwear",
      "tags": [
-      "MFOOTZR"
+      "FW2026ZR",
+      "MENZR",
+      "MFOOTZR",
+      "MNEWZR"
      ],
      "price": "694.00",
      "published_at": "2026-08-14T14:31:25-05:00"
@@ -1195,7 +1201,10 @@
      "handle": "alden-403-indy-boot",
      "type": "Footwear",
      "tags": [
-      "MFOOTZR"
+      "FW2026ZR",
+      "MENZR",
+      "MFOOTZR",
+      "MNEWZR"
      ],
      "price": "730.00",
      "published_at": "2026-08-14T14:31:24-05:00"
@@ -1205,7 +1214,10 @@
      "handle": "alden-4011hc-indy-boot",
      "type": "Footwear",
      "tags": [
-      "MFOOTZR"
+      "FW2026ZR",
+      "MENZR",
+      "MFOOTZR",
+      "MNEWZR"
      ],
      "price": "760.00",
      "published_at": "2026-08-14T14:31:22-05:00"
@@ -1215,7 +1227,10 @@
      "handle": "alden-1272s-chukka-boot",
      "type": "Footwear",
      "tags": [
-      "MFOOTZR"
+      "FW2026ZR",
+      "MENZR",
+      "MFOOTZR",
+      "MNEWZR"
      ],
      "price": "716.00",
      "published_at": "2026-08-14T14:31:20-05:00"
@@ -1416,111 +1431,78 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Drake X Lost Hat Drake Patch Goat Rope Cap",
-     "handle": "drake-x-lost-hat-drake-patch-goat-rope-cap-1",
-     "type": "Sale_Headwear",
-     "tags": [
-      "AW25 Catalog",
-      "AW26 Catalog",
-      "bestseller_24",
-      "casual_caps",
-      "discount_25",
-      "Final Sale",
-      "FinalSale",
-      "gifts for everyday",
-      "Gifts Under $50",
-      "lifestyle",
-      "logowear",
-      "Lost Hat",
-      "MemDay2026",
-      "SS25_New",
-      "SS26 Catalog",
-      "summer10"
-     ],
-     "price": "20.99",
-     "published_at": "2026-08-14T13:33:25-05:00"
-    },
-    {
-     "title": "Youth Camo Waterproof Cap",
-     "handle": "youth-waterproof-camo-cap",
-     "type": "Headwear",
-     "tags": [
-      "- headwear",
-      "- under $25",
-      "- under $75",
-      "20171031-MST-Youth",
-      "all brand caps",
-      "AW25 Catalog",
-      "AW26 Catalog",
-      "caps",
-      "early season apparel",
-      "early season teal",
-      "early-season-waterfowl",
-      "est-early-season-technology",
-      "hunting accessories",
-      "lifestyle",
-      "r26",
-      "top rated",
-      "waterfowl",
-      "YGroup_youthhat",
-      "youth",
-      "youth-featured"
-     ],
-     "price": "29.99",
-     "published_at": "2026-08-14T10:17:42-05:00"
-    },
-    {
-     "title": "Oval Logo Foam Front Ball Cap",
-     "handle": "oval-logo-foam-front-ball-cap",
-     "type": "Headwear",
+     "title": "Ol' Tom Turkey Tote",
+     "handle": "turkey-tote",
+     "type": "Accessories",
      "tags": [
       "- $25 - $50",
-      "- headwear",
-      "AW23_New",
-      "AW25 Catalog",
-      "AW26 Catalog",
-      "caps",
-      "hunting accessories",
-      "logowear",
-      "Men WF Logo Items",
+      "- accessories",
+      "- turkey",
+      "Labor Day Sale 2025",
+      "MEN",
       "mens",
-      "waterfowl",
-      "waterfowl_logo_wear"
+      "Oct WHSE Sale",
+      "ol-tom",
+      "SS24_New",
+      "SS26 Catalog"
      ],
      "price": "29.99",
-     "published_at": "2026-08-14T10:15:59-05:00"
+     "published_at": "2026-08-17T08:38:56-05:00"
     },
     {
-     "title": "Heavyweight Merino OTC Hunting Socks",
-     "handle": "heavyweight-merino-otc-hunting-socks",
-     "type": "Footwear",
+     "title": "Early Bird Facemask with Insect Repellent",
+     "handle": "early-bird-facemask-with-insect-repellent",
+     "type": "Headwear",
      "tags": [
-      "AW25 Catalog",
-      "AW25_New",
-      "AW26 Catalog",
-      "New_No_Coming_Soon",
-      "socks",
-      "waterfowl"
+      "nav_turkey_headwear",
+      "ol-tom",
+      "SS25_New",
+      "SS26 Catalog"
      ],
-     "price": "21.99",
-     "published_at": "2026-08-14T09:22:35-05:00"
+     "price": "39.99",
+     "published_at": "2026-08-17T08:38:39-05:00"
     },
     {
-     "title": "Midweight Merino Camo Mid Calf Hunting Socks",
-     "handle": "midweight-merino-camo-mid-calf-hunting-socks",
-     "type": "Footwear",
+     "title": "Early Bird Facemask with Insect Repellent",
+     "handle": "early-bird-facemask",
+     "type": "Headwear",
      "tags": [
-      "AW25 Catalog",
-      "AW25_New",
-      "AW26 Catalog",
-      "Gifts For Waterfowler",
-      "Gifts Under $50",
-      "New_No_Coming_Soon",
-      "socks",
-      "waterfowl"
+      "nav_turkey_headwear",
+      "ol-tom",
+      "SS25_New",
+      "SS26 Catalog",
+      "top seller 2025",
+      "UPF 40/50"
      ],
-     "price": "21.99",
-     "published_at": "2026-08-14T09:20:40-05:00"
+     "price": "39.99",
+     "published_at": "2026-08-17T08:38:05-05:00"
+    },
+    {
+     "title": "Ol' Tom Perforated Cap",
+     "handle": "ol-tom-perforated-cap",
+     "type": "Headwear",
+     "tags": [
+      "nav_turkey_logo",
+      "SS26 Catalog",
+      "SS26_New",
+      "top seller 2025"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-17T08:37:17-05:00"
+    },
+    {
+     "title": "Non-Typical x Lost Hat Ea5y-R Trucker Rope Cap",
+     "handle": "non-typical-x-lost-hat-ea5y-r-trucker-rope-cap",
+     "type": "Headwear",
+     "tags": [
+      "AW26 Catalog",
+      "AW26_NEW",
+      "logowear",
+      "master_list_new_arrivals_26",
+      "new"
+     ],
+     "price": "34.99",
+     "published_at": "2026-08-17T08:35:24-05:00"
     }
    ]
   },
@@ -1528,87 +1510,95 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Reverb Packable Trucker Hat - Coriander",
-     "handle": "reverb-packable-trucker-hat-coriander",
+     "title": "Youth Bamboo Shade Hoodie - Vintage Camo",
+     "handle": "youth-bamboo-shade-hoodie-vintage-camo-2",
+     "type": "Youth",
+     "tags": [
+      "care::bamboo",
+      "collection::youth",
+      "FA24",
+      "klaviyo-low-inventory",
+      "pdp_group: youth-bamboo-shade",
+      "product_style: Youth Bamboo Shade Hoodie",
+      "Shade"
+     ],
+     "price": "48.00",
+     "published_at": "2026-08-17T10:00:38-04:00"
+    },
+    {
+     "title": "Reverb Packable Trucker Hat - Woodland Camo",
+     "handle": "reverb-packable-trucker-hat-woodland-camo",
      "type": "Hats",
      "tags": [
       "collection::men",
       "collection::women",
-      "discounts::none",
       "excRVBTR",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "Pro-Exclude-Discount",
       "product_style: Reverb Packable Trucker Hat",
-      "returns::none",
       "rosterhats",
       "SP24"
      ],
-     "price": "13.99",
-     "published_at": "2026-08-11T10:15:13-04:00"
+     "price": "34.00",
+     "published_at": "2026-08-17T10:00:38-04:00"
     },
     {
-     "title": "Women's Coldvale Insulated Vest - Plum",
-     "handle": "womens-coldvale-insulated-vest-plum",
-     "type": "Women's",
+     "title": "Men's Bamboo Lightweight Fleece Crew - Black Sand",
+     "handle": "mens-bamboo-lightweight-fleece-crew-black-sand",
+     "type": "Men's",
      "tags": [
-      "excFF730",
-      "FA26",
-      "flag::Coming Soon",
-      "pdp_group: women-coldvale",
-      "product_style: Women Coldvale Vest"
+      "care::bamboo",
+      "collection::men",
+      "excMLWFLC",
+      "pdp_group: men-bamboo-fleece",
+      "product_style: Mens Bamboo Lightweight Fleece Crew"
      ],
-     "price": "178.00",
-     "published_at": "2026-08-10T16:12:27-04:00"
+     "price": "94.00",
+     "published_at": "2026-08-17T10:00:38-04:00"
     },
     {
-     "title": "Women's Coldvale Insulated Vest - Black",
-     "handle": "womens-coldvale-insulated-vest-black",
-     "type": "Women's",
+     "title": "Reverb Packable Trucker Hat - Pacific Blue",
+     "handle": "reverb-packable-trucker-hat-pacific-blue",
+     "type": "Hats",
      "tags": [
-      "excFF730",
-      "FA26",
-      "flag::Coming Soon",
-      "pdp_group: women-coldvale",
-      "product_style: Women Coldvale Vest"
+      "product_style: Reverb Packable Trucker Hat",
+      "SP26"
      ],
-     "price": "178.00",
-     "published_at": "2026-08-10T16:12:25-04:00"
+     "price": "34.00",
+     "published_at": "2026-08-17T10:00:36-04:00"
     },
     {
-     "title": "Women's Coldvale Insulated Jacket - Plum",
-     "handle": "womens-coldvale-insulated-jacket-plum",
-     "type": "Women's",
+     "title": "Dive Bomb Pocket Tee - Ocean Mist",
+     "handle": "dive-bomb-pocket-tee-ocean-mist",
+     "type": "Men's",
      "tags": [
-      "excFF729",
-      "FA26",
-      "flag::Coming Soon",
-      "pdp_group: women-coldvale",
-      "product_style: Women Coldvale Jacket"
+      "flag::Just Landed",
+      "product_style: Dive Bomb Pocket Tee",
+      "SP26"
      ],
-     "price": "288.00",
-     "published_at": "2026-08-10T16:12:24-04:00"
-    },
-    {
-     "title": "Women's Coldvale Insulated Jacket - Black",
-     "handle": "womens-coldvale-insulated-jacket-black",
-     "type": "Women's",
-     "tags": [
-      "excFF729",
-      "FA26",
-      "flag::Coming Soon",
-      "pdp_group: women-coldvale",
-      "product_style: Women Coldvale Jacket"
-     ],
-     "price": "288.00",
-     "published_at": "2026-08-10T16:12:22-04:00"
+     "price": "38.00",
+     "published_at": "2026-08-17T10:00:36-04:00"
     }
    ]
   },
   "BURLEBO": {
    "count_returned": 4,
    "products": [
+    {
+     "title": "Youth Short Sleeve Tee - Flying B Deer Camo Logo - Heather Black",
+     "handle": "youth-tee-deer-camo-sig-logo-ss-heather-black",
+     "type": "Youth Tee",
+     "tags": [
+      "hide-notify-btn",
+      "hide-preorder-btn",
+      "pdqreview",
+      "retail",
+      "Short Sleeve",
+      "WinterSale",
+      "WinterSale50%",
+      "Youth"
+     ],
+     "price": "26.00",
+     "published_at": "2026-08-17T11:22:19-05:00"
+    },
     {
      "title": "Father and Son Bundle - Performance Hoodie - Mallard Mayhem Camo",
      "handle": "father-and-son-bundle-performance-hoodie-mallard-mayhem-camo",
@@ -1667,27 +1657,6 @@
      ],
      "price": "49.00",
      "published_at": "2026-08-13T11:40:42-05:00"
-    },
-    {
-     "title": "Vintage Washed Tee - Classic Deer Camo",
-     "handle": "vintage-washed-tee-classic-deer-camo",
-     "type": "Vintage Washed Tee",
-     "tags": [
-      "8/13/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "Fall 26",
-      "Fall26",
-      "PREBOOK START: 07/15/2026",
-      "retail",
-      "Season Fall26",
-      "Short Sleeve",
-      "Tops",
-      "Vintage Washed Tee",
-      "wholesale"
-     ],
-     "price": "34.00",
-     "published_at": "2026-08-13T11:40:40-05:00"
     }
    ]
   },
@@ -1809,6 +1778,36 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Duck Hunting Gear Toile Navy Polo Shirt DVC003",
+     "handle": "duck-hunting-gear-toile-navy-polo-shirt-dvc003",
+     "type": "Polo Shirt",
+     "tags": [
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-17T00:53:53-06:00"
+    },
+    {
+     "title": "Labrador Retriever Polo Shirt DVC002",
+     "handle": "labrador-retriever-polo-shirt-dvc002",
+     "type": "Polo Shirt",
+     "tags": [
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-17T00:45:05-06:00"
+    },
+    {
+     "title": "Deer Skull Digital Camo Polo Shirt DVC001",
+     "handle": "deer-skull-digital-camo-polo-shirt-dvc001",
+     "type": "Polo Shirt",
+     "tags": [
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-17T00:35:24-06:00"
+    },
+    {
      "title": "Navy Deer Skull Micro Pattern Polo Shirt DP1012",
      "handle": "navy-deer-skull-micro-pattern-polo-shirt-dp1012",
      "type": "Polo Shirt",
@@ -1828,39 +1827,6 @@
      ],
      "price": "39.99",
      "published_at": "2026-08-15T20:44:04-06:00"
-    },
-    {
-     "title": "Fish Jumping American Flag Polo Shirt VCP1046",
-     "handle": "fish-jumping-american-flag-polo-shirt-vcp1046",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-15T04:02:47-06:00"
-    },
-    {
-     "title": "Mallard Duck Waterfowl Cream Polo Shirt VCP1045",
-     "handle": "mallard-duck-waterfowl-cream-polo-shirt-vcp1045",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-15T03:55:07-06:00"
-    },
-    {
-     "title": "Tropical Camo Dove Polo Shirt – Olive Hibiscus Print VCP1044",
-     "handle": "tropical-camo-dove-polo-shirt-olive-hibiscus-print-vcp1044",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-14T03:52:58-06:00"
     }
    ]
   },

@@ -1,21 +1,22 @@
 {
  "schema_version": "1.0",
- "checked_at": "2026-08-17T14:28:41.659967+07:00",
- "date": "2026-08-17",
+ "checked_at": "2026-08-18T04:41:24.553544+07:00",
+ "date": "2026-08-18",
  "projects": [
   {
-   "project": "genusfaith",
+   "project": "gritfell",
    "checks": [
     "OK live-fetch = hom nay",
-    "OK feed 7/7"
+    "OK feed 13/13"
    ],
    "healed": [],
    "need_human": [],
    "status": "OK",
-   "feeds": "7/7",
-   "reddit": "1/1"
+   "feeds": "13/13",
+   "reddit": "10/10"
   }
  ],
  "need_human": [],
- "overall": "OK"
+ "overall": "OK",
+ "chua_mo": []
 }
