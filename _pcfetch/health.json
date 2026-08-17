@@ -1,6 +1,6 @@
 {
  "schema_version": "1.0",
- "checked_at": "2026-08-17T14:26:15.037103+07:00",
+ "checked_at": "2026-08-17T14:28:41.659967+07:00",
  "date": "2026-08-17",
  "projects": [
   {
@@ -14,30 +14,6 @@
    "status": "OK",
    "feeds": "7/7",
    "reddit": "1/1"
-  },
-  {
-   "project": "gerberaprints",
-   "checks": [
-    "OK live-fetch = hom nay",
-    "OK feed 10/10"
-   ],
-   "healed": [],
-   "need_human": [],
-   "status": "OK",
-   "feeds": "10/10",
-   "reddit": "1/1"
-  },
-  {
-   "project": "gritfell",
-   "checks": [
-    "OK live-fetch = hom nay",
-    "OK feed 13/13"
-   ],
-   "healed": [],
-   "need_human": [],
-   "status": "OK",
-   "feeds": "13/13",
-   "reddit": "10/10"
   }
  ],
  "need_human": [],

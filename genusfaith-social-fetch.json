@@ -3,7 +3,7 @@
  "producer": "DESKTOP",
  "project": "genusfaith",
  "date": "2026-08-17",
- "fetched_at": "2026-08-17T14:03:51.082396+07:00",
+ "fetched_at": "2026-08-17T14:28:09.608679+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -191,11 +191,11 @@
    "confirmation gifts for boys",
    "confirmation gift ideas",
    "confirmation gifts for teenage boys",
-   "confirmation gifts catholic",
-   "confirmation gifts for teen girls",
    "confirmation gifts for adults",
-   "confirmation gift ideas for girls",
-   "confirmation gifts from sponsor"
+   "confirmation gifts catholic",
+   "confirmation gift ideas for girl",
+   "confirmation gifts from sponsor",
+   "confirmation gift for boy from sponsor"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -239,11 +239,11 @@
    "first communion gifts for girls",
    "first communion gift ideas",
    "first communion gifts near me",
-   "first communion gifts for boys catholic",
    "first communion gift ideas for girl",
+   "first communion gifts for boys catholic",
    "first communion gift bags",
    "first communion gift ideas for boys",
-   "first communion gift for god daughter"
+   "first communion gifts from godparents"
   ],
   "catholic wedding gift": [
    "catholic wedding gifts",
@@ -302,8 +302,8 @@
   "pediatrician",
   "manav suthar",
   "gilberto mora",
-  "postpartum",
-  "牛来"
+  "牛来",
+  "friday night lights"
  ],
  "errors": []
 }
