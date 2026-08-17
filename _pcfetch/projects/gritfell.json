@@ -3,6 +3,7 @@
   "out_live": "gritfell-live-fetch.json",
   "out_social": "gritfell-social-fetch.json",
 
+  "_ghi_chu_subs": "17/08: r/Hunting_Gear tra HTTP 404 -> sub nay KHONG TON TAI (ten tu tri nho, sai). Da bo. r/Fishing_Gear thi co that va chay tot (15 bai). Muon them sub thi mo reddit.com/r/<ten> tren trinh duyet kiem truoc khi dien vao day.",
   "_ghi_chu": "Shop cua minh de limit=250 de dem SKU CHINH XAC. Doi thu de limit=5 vi chi can biet ho dang ban gi, khong can toan bo catalogue - tiet kiem thoi gian va bang thong.",
 
   "feeds": {
@@ -36,7 +37,7 @@
       "SN1_waterfowl":  ["waterfowl", "duckhunting"],
       "SN2_freshwater": ["bassfishing", "Fishing", "Fishing_Gear"],
       "SN3_inshore":    ["SaltwaterFishing"],
-      "SN4_big_game":   ["Hunting", "bowhunting", "elkhunting", "Hunting_Gear"],
+      "SN4_big_game":   ["Hunting", "bowhunting", "elkhunting"],
       "dogs":           ["gundogs"]
     },
     "youtube": ["MeatEater", "TheHuntingPublic", "SaltStrong", "GooganSquad", "onXmaps"],
