@@ -1,0 +1,4 @@
+# ban sao luu do selfcheck.py tao truoc khi tu va config — chi de hoan tac cuc bo
+projects/*.bak
+__pycache__/
+*.pyc

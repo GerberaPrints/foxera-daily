@@ -1,7 +1,7 @@
 @echo off
 setlocal
 REM ============================================================
-REM run_pc_fetch.bat — CHAY FETCH cho MOT du an.   v1.0 (17/08/2026)
+REM run_pc_fetch.bat — CHAY FETCH cho MOT du an.   v1.1 (17/08/2026)
 REM
 REM     run_pc_fetch.bat <ten_du_an>
 REM     vi du:  run_pc_fetch.bat gritfell
@@ -68,8 +68,15 @@ if errorlevel 1 (
   exit /b 1
 )
 
-REM 5) Commit dau ra cua rieng du an nay (KHONG dung add -A)
-git add "%PROJ%-live-fetch.json" "%PROJ%-social-fetch.json" _pcfetch\logs 2>nul
+REM 4b) TU KIEM TRA + TU VA. CO Y khong kiem errorlevel: selfcheck tra ve 1 khi
+REM     co viec CAN NGUOI — do la thong tin, khong phai ly do de bo push.
+REM     Cac cho no tu va nam trong config, co hieu luc tu lan chay sau.
+echo.
+python "_pcfetch\selfcheck.py" %PROJ%
+echo.
+
+REM 5) Commit dau ra + config da tu va + health.json (KHONG dung add -A)
+git add "%PROJ%-live-fetch.json" "%PROJ%-social-fetch.json" _pcfetch 2>nul
 git commit -m "%PROJ% pc-fetch %date% %time%"
 
 REM 6) Dong bo lan cuoi roi push
