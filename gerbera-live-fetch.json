@@ -2,7 +2,7 @@
  "schema_version": "1.1",
  "source": "pc-local (gerbera_fetch.py, Task Scheduler)",
  "date": "2026-08-17",
- "fetched_at": "2026-08-17T06:45:05.130436+07:00",
+ "fetched_at": "2026-08-17T10:36:35.717633+07:00",
  "locale_note": "US/USD (products.json shop default) — máy quét ở VN, giá feed theo market mặc định shop",
  "feeds": {
   "Bogey Bros": {
@@ -786,7 +786,7 @@
    {
     "title": "Spring '26 Collection | Hats",
     "handle": "spring-26-collection-hats",
-    "updated_at": "2026-08-16T06:12:56-05:00",
+    "updated_at": "2026-08-16T20:59:07-05:00",
     "published_at": "2026-04-21T10:45:03-05:00",
     "products_count": 11
    },
@@ -870,7 +870,7 @@
    {
     "title": "Wingin' It",
     "handle": "wingin-it",
-    "updated_at": "2026-08-16T06:12:55-05:00",
+    "updated_at": "2026-08-16T20:05:07-05:00",
     "published_at": "2026-03-31T13:38:28-05:00",
     "products_count": 18
    },
@@ -1194,9 +1194,9 @@
    {
     "title": "Best Sellers",
     "handle": "best-sellers",
-    "updated_at": "2026-08-16T04:16:53-07:00",
+    "updated_at": "2026-08-16T17:04:53-07:00",
     "published_at": "2024-11-21T10:25:19-07:00",
-    "products_count": 161
+    "products_count": 155
    },
    {
     "title": "Bird's Nest Bad Saloon",
@@ -2160,7 +2160,7 @@
    {
     "title": "On-Course Polos",
     "handle": "on-course-polos",
-    "updated_at": "2026-08-16T04:04:23-07:00",
+    "updated_at": "2026-08-16T17:09:52-07:00",
     "published_at": "2025-01-17T12:27:21-07:00",
     "products_count": 516
    },
