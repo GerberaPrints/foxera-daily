@@ -1,0 +1,52 @@
+{
+  "project": "gritfell",
+  "out_live": "gritfell-live-fetch.json",
+  "out_social": "gritfell-social-fetch.json",
+
+  "_ghi_chu": "Shop cua minh de limit=250 de dem SKU CHINH XAC. Doi thu de limit=5 vi chi can biet ho dang ban gi, khong can toan bo catalogue - tiet kiem thoi gian va bang thong.",
+
+  "feeds": {
+    "GritFell":        "https://gritfell.com/products.json?limit=250",
+    "Duck Camp":       "https://duckcamp.com/products.json?limit=5",
+    "Marsh Wear":      "https://marshwearclothing.com/products.json?limit=5",
+    "Tom Beckbe":      "https://tombeckbe.com/products.json?limit=5",
+    "Howler Brothers": "https://howlerbros.com/products.json?limit=5",
+    "AFTCO":           "https://aftco.com/products.json?limit=5",
+    "Drake Waterfowl": "https://drakewaterfowl.com/products.json?limit=5",
+    "Free Fly":        "https://freeflyapparel.com/products.json?limit=5",
+    "BURLEBO":         "https://burlebo.com/products.json?limit=5",
+    "DECOY Apparel":   "https://decoyapparelco.com/products.json?limit=5",
+    "Hunthide":        "https://hunthide.com/products.json?limit=5",
+    "Huntdad":         "https://huntdad.com/products.json?limit=5",
+    "Terrabound":      "https://terraboundoutdoor.com/products.json?limit=5"
+  },
+
+  "policies": {
+    "GritFell":  ["https://gritfell.com/policies/shipping-policy",
+                  "https://gritfell.com/policies/refund-policy"],
+    "Duck Camp": ["https://duckcamp.com/policies/refund-policy"],
+    "Hunthide":  ["https://hunthide.com/policies/shipping-policy"],
+    "Huntdad":   ["https://huntdad.com/policies/shipping-policy"]
+  },
+
+  "social": {
+    "enabled": true,
+    "trends_geo": "US",
+    "subs": {
+      "SN1_waterfowl":  ["waterfowl", "duckhunting"],
+      "SN2_freshwater": ["bassfishing", "Fishing", "Fishing_Gear"],
+      "SN3_inshore":    ["SaltwaterFishing"],
+      "SN4_big_game":   ["Hunting", "bowhunting", "elkhunting", "Hunting_Gear"],
+      "dogs":           ["gundogs"]
+    },
+    "youtube": ["MeatEater", "TheHuntingPublic", "SaltStrong", "GooganSquad", "onXmaps"],
+    "suggest_seeds": [
+      "duck hunting hat", "hunting gift for", "fishing gift for him",
+      "embroidered hunting", "camo trucker hat", "deer hunting shirt",
+      "waterfowl gear", "flounder gigging", "teal season",
+      "hunting koozie", "fishing koozie", "hunting journal",
+      "duck hunting decor", "bass fishing gift", "inshore fishing shirt",
+      "hunting dog vest", "gun dog gear", "hunting beanie"
+    ]
+  }
+}

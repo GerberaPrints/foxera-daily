@@ -1,0 +1,31 @@
+{
+  "_HUONG_DAN": [
+    "1. Chep file nay thanh <ten_du_an>.json, vi du: genusfaith.json",
+    "2. Sua feeds / policies / social ben duoi cho dung du an do",
+    "3. Chay:  _pcfetch\\run_pc_fetch.bat <ten_du_an>",
+    "4. Tao lich:  _pcfetch\\make_task.bat <ten_du_an> 04:45",
+    "Bo social di thi dat social.enabled = false — phan con lai van chay."
+  ],
+
+  "project": "TEN_DU_AN",
+  "out_live": "TEN_DU_AN-live-fetch.json",
+  "out_social": "TEN_DU_AN-social-fetch.json",
+
+  "feeds": {
+    "Shop cua minh": "https://shopcuaminh.com/products.json?limit=250",
+    "Doi thu 1":     "https://doithu1.com/products.json?limit=5"
+  },
+
+  "policies": {
+    "Shop cua minh": ["https://shopcuaminh.com/policies/shipping-policy",
+                      "https://shopcuaminh.com/policies/refund-policy"]
+  },
+
+  "social": {
+    "enabled": false,
+    "trends_geo": "US",
+    "subs":    { "nhom_1": ["ten_sub_khong_co_chu_r"] },
+    "youtube": ["HandleKenh"],
+    "suggest_seeds": ["cum tu nguoi mua hay go"]
+  }
+}
