@@ -2,7 +2,7 @@
  "schema_version": "2.2",
  "producer": "DESKTOP",
  "date": "2026-08-17",
- "fetched_at": "2026-08-17T11:21:05.898953+07:00",
+ "fetched_at": "2026-08-17T12:26:16.708517+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 97,
@@ -1702,8 +1702,8 @@
      "type": "Decoys",
      "created_at": "2020-11-17T10:51:50-05:00",
      "published_at": "2026-07-22T15:11:14-04:00",
-     "price_min": 5323000.0,
-     "price_max": 5323000.0,
+     "price_min": 5321000.0,
+     "price_max": 5321000.0,
      "variants_total": 1,
      "variants_unavailable": 0,
      "sold_out_level": "LOW"
@@ -1714,7 +1714,7 @@
      "type": "T-Shirt",
      "created_at": "2026-07-14T13:13:07-04:00",
      "published_at": "2026-07-22T15:10:16-04:00",
-     "price_min": 932000.0,
+     "price_min": 931000.0,
      "price_max": 985000.0,
      "variants_total": 6,
      "variants_unavailable": 0,
@@ -1726,7 +1726,7 @@
      "type": "T-Shirt",
      "created_at": "2026-07-14T13:11:39-04:00",
      "published_at": "2026-07-22T15:10:03-04:00",
-     "price_min": 932000.0,
+     "price_min": 931000.0,
      "price_max": 1091000.0,
      "variants_total": 8,
      "variants_unavailable": 0,
@@ -1738,8 +1738,8 @@
      "type": "Hats",
      "created_at": "2026-06-03T16:11:59-04:00",
      "published_at": "2026-06-03T16:16:18-04:00",
-     "price_min": 1597000.0,
-     "price_max": 1597000.0,
+     "price_min": 1596000.0,
+     "price_max": 1596000.0,
      "variants_total": 2,
      "variants_unavailable": 0,
      "sold_out_level": "LOW"
