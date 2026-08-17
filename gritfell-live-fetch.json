@@ -1,8 +1,9 @@
 {
- "schema_version": "2.2",
+ "schema_version": "1.0",
  "producer": "DESKTOP",
+ "project": "gritfell",
  "date": "2026-08-17",
- "fetched_at": "2026-08-17T12:26:16.708517+07:00",
+ "fetched_at": "2026-08-17T13:25:31.978616+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 97,
@@ -11,1165 +12,973 @@
      "title": "Camou Sun Hoodie (Sample)",
      "handle": "camou-sun-hoodie-sample",
      "type": "Hoodie",
-     "created_at": "2026-08-12T19:33:44-07:00",
-     "published_at": "2026-08-12T19:33:46-07:00",
-     "price_min": 69.0,
-     "price_max": 69.0,
-     "variants_total": 8,
-     "variants_unavailable": 8,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hoodie"
+     ],
+     "price": "69.00",
+     "published_at": "2026-08-12T19:33:46-07:00"
     },
     {
      "title": "Marshland Camo Polo",
      "handle": "marshland-camo-polo",
      "type": "Men's Polo",
-     "created_at": "2026-08-11T01:26:31-07:00",
-     "published_at": "2026-08-11T01:31:27-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 16,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-08-11T01:31:27-07:00"
     },
     {
      "title": "Woodland Camo Polo",
      "handle": "woodland-camo-polo",
      "type": "Men's Polo",
-     "created_at": "2026-08-11T01:23:52-07:00",
-     "published_at": "2026-08-11T01:25:00-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-08-11T01:25:00-07:00"
     },
     {
      "title": "Wave Polo",
      "handle": "wave-polo",
      "type": "Men's Polo",
-     "created_at": "2026-08-11T01:14:15-07:00",
-     "published_at": "2026-08-11T01:22:38-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-08-11T01:22:38-07:00"
     },
     {
      "title": "Heritage Current Polo",
      "handle": "heritage-current-polo",
      "type": "Men's Polo",
-     "created_at": "2026-08-11T01:10:02-07:00",
-     "published_at": "2026-08-11T01:12:12-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-08-11T01:12:12-07:00"
     },
     {
      "title": "Bluewater Frenzy Polo",
      "handle": "bluewater-frenzy-polo",
      "type": "Men's Polo",
-     "created_at": "2026-08-11T01:01:55-07:00",
-     "published_at": "2026-08-11T01:07:35-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-08-11T01:07:35-07:00"
     },
     {
      "title": "Driftline Boots",
      "handle": "driftline-boots",
      "type": "Boots",
-     "created_at": "2026-08-11T00:26:24-07:00",
-     "published_at": "2026-08-11T01:05:56-07:00",
-     "price_min": 89.0,
-     "price_max": 89.0,
-     "variants_total": 35,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "boots"
+     ],
+     "price": "89.00",
+     "published_at": "2026-08-11T01:05:56-07:00"
     },
     {
      "title": "Bait Ball Swim Short",
      "handle": "bait-ball-swim-short",
      "type": "Swim Short",
-     "created_at": "2026-07-21T18:49:46-07:00",
-     "published_at": "2026-07-21T18:50:52-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-07-21T18:50:52-07:00"
     },
     {
      "title": "Bluewater Frenzy Swim Short",
      "handle": "bluewater-frenzy-swim-short",
      "type": "Swim Short",
-     "created_at": "2026-07-21T18:41:15-07:00",
-     "published_at": "2026-07-21T18:42:18-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-07-21T18:42:18-07:00"
     },
     {
      "title": "Gone Fishin’ Swim Short",
      "handle": "gone-fishin-swim-short",
      "type": "Swim Short",
-     "created_at": "2026-07-13T21:37:30-07:00",
-     "published_at": "2026-07-13T21:37:59-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-07-13T21:37:59-07:00"
     },
     {
      "title": "Marlin Swim Short",
      "handle": "marlin-swim-short",
      "type": "Swim Short",
-     "created_at": "2026-07-13T21:26:29-07:00",
-     "published_at": "2026-07-13T21:27:42-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-07-13T21:27:42-07:00"
     },
     {
      "title": "Coastal Shadows Button Shirt",
      "handle": "coastal-shadows-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-07-13T00:26:59-07:00",
-     "published_at": "2026-07-13T00:28:45-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 16,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "55.00",
+     "published_at": "2026-07-13T00:28:45-07:00"
     },
     {
      "title": "Coastal Shadows Swim Short",
      "handle": "coastal-shadows-swim-shorts",
      "type": "Swim Short",
-     "created_at": "2026-07-03T02:40:45-07:00",
-     "published_at": "2026-07-03T02:42:05-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 12,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-07-03T02:42:05-07:00"
     },
     {
      "title": "Tuna Season Swim Short",
      "handle": "tuna-season-swim-shorts",
      "type": "Swim Short",
-     "created_at": "2026-07-03T02:39:06-07:00",
-     "published_at": "2026-07-03T02:39:57-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-07-03T02:39:57-07:00"
     },
     {
      "title": "Tuna Season Button Shirt",
      "handle": "tuna-season-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-07-03T02:32:44-07:00",
-     "published_at": "2026-07-03T02:33:44-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 16,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "55.00",
+     "published_at": "2026-07-03T02:33:44-07:00"
     },
     {
      "title": "The Sailfish Button Shirt",
      "handle": "the-sailfish-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-07-03T02:21:53-07:00",
-     "published_at": "2026-07-03T02:26:50-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 16,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "55.00",
+     "published_at": "2026-07-03T02:26:50-07:00"
     },
     {
      "title": "Mallard Marsh Button Shirt",
      "handle": "mallard-marsh-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-07-03T02:16:03-07:00",
-     "published_at": "2026-07-03T02:17:23-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 16,
-     "variants_unavailable": 2,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "55.00",
+     "published_at": "2026-07-03T02:17:23-07:00"
     },
     {
      "title": "Bait Ball Button Shirt",
      "handle": "bait-ball-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-07-03T02:13:04-07:00",
-     "published_at": "2026-07-03T02:14:34-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "55.00",
+     "published_at": "2026-07-03T02:14:34-07:00"
     },
     {
      "title": "Bluewater Run Button Shirt",
      "handle": "bluewater-run-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-07-03T02:11:48-07:00",
-     "published_at": "2026-07-03T02:13:58-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "55.00",
+     "published_at": "2026-07-03T02:13:58-07:00"
     },
     {
      "title": "Mallard Marsh Polo",
      "handle": "mallard-marsh-polo",
      "type": "Men's Polo",
-     "created_at": "2026-07-02T01:59:37-07:00",
-     "published_at": "2026-07-02T02:04:41-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 16,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-07-02T02:04:41-07:00"
     },
     {
      "title": "The Sailfish Polo",
      "handle": "the-sailfish-polo",
      "type": "Men's Polo",
-     "created_at": "2026-07-01T02:24:32-07:00",
-     "published_at": "2026-07-01T02:27:43-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 16,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-07-01T02:27:43-07:00"
     },
     {
      "title": "Coastal Shadows Polo",
      "handle": "coastal-shadows",
      "type": "Men's Polo",
-     "created_at": "2026-07-01T02:15:13-07:00",
-     "published_at": "2026-07-01T02:17:13-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 16,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-07-01T02:17:13-07:00"
     },
     {
      "title": "Bait Ball Polo",
      "handle": "bait-ball-polo",
      "type": "Men's Polo",
-     "created_at": "2026-07-01T01:56:32-07:00",
-     "published_at": "2026-07-01T01:58:39-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-07-01T01:58:39-07:00"
     },
     {
      "title": "Smallmouth Strike",
      "handle": "smallmouth-strike",
      "type": "Hat",
-     "created_at": "2026-07-01T01:44:40-07:00",
-     "published_at": "2026-07-01T01:45:43-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-07-01T01:45:43-07:00"
     },
     {
      "title": "Pheasant Opener",
      "handle": "pheasant-opener",
      "type": "Hat",
-     "created_at": "2026-06-30T02:09:52-07:00",
-     "published_at": "2026-06-30T02:10:29-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-30T02:10:29-07:00"
     },
     {
      "title": "Tail Water King",
      "handle": "tail-water-king",
      "type": "Rope Hat",
-     "created_at": "2026-06-29T21:52:14-07:00",
-     "published_at": "2026-06-29T21:53:33-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-29T21:53:33-07:00"
     },
     {
      "title": "Grey Ghost",
      "handle": "grey-ghost",
      "type": "Hat",
-     "created_at": "2026-06-29T21:50:09-07:00",
-     "published_at": "2026-06-29T21:51:31-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-29T21:51:31-07:00"
     },
     {
      "title": "Loyal Retriever",
      "handle": "loyal-retriever",
      "type": "Hat",
-     "created_at": "2026-06-29T21:45:14-07:00",
-     "published_at": "2026-06-29T21:48:58-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 2,
-     "variants_unavailable": 2,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-29T21:48:58-07:00"
     },
     {
      "title": "On Point Setter",
      "handle": "on-point-setter",
      "type": "Hat",
-     "created_at": "2026-06-29T21:07:10-07:00",
-     "published_at": "2026-06-29T21:12:23-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-29T21:12:23-07:00"
     },
     {
      "title": "Wild Boar",
      "handle": "wild-boar",
      "type": "Hat",
-     "created_at": "2026-06-28T19:45:44-07:00",
-     "published_at": "2026-06-28T19:47:45-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 3,
-     "variants_unavailable": 3,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-28T19:47:45-07:00"
     },
     {
      "title": "Early Teal",
      "handle": "early-teal",
      "type": "Hat",
-     "created_at": "2026-06-28T19:34:28-07:00",
-     "published_at": "2026-06-28T19:35:25-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-28T19:35:25-07:00"
     },
     {
      "title": "Topwater Strike",
      "handle": "topwater-strike",
      "type": "Hat",
-     "created_at": "2026-06-28T19:22:45-07:00",
-     "published_at": "2026-06-28T19:30:30-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 2,
-     "variants_unavailable": 2,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-28T19:30:30-07:00"
     },
     {
      "title": "German Shorthair Pointer",
      "handle": "german-shorthair",
      "type": "Hat",
-     "created_at": "2026-06-25T18:18:33-07:00",
-     "published_at": "2026-06-25T18:20:10-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-25T18:20:10-07:00"
     },
     {
      "title": "Hand Tied",
      "handle": "hand-tied",
      "type": "Hat",
-     "created_at": "2026-06-25T18:16:09-07:00",
-     "published_at": "2026-06-25T18:17:08-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-25T18:17:08-07:00"
     },
     {
      "title": "Rock The Catch",
      "handle": "rock-the-catch",
      "type": "Hat",
-     "created_at": "2026-06-25T18:13:55-07:00",
-     "published_at": "2026-06-25T18:15:02-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-25T18:15:02-07:00"
     },
     {
      "title": "Brown Trout",
      "handle": "brown-trout",
      "type": "Hat",
-     "created_at": "2026-06-25T18:11:06-07:00",
-     "published_at": "2026-06-25T18:12:10-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-25T18:12:10-07:00"
     },
     {
      "title": "Brookie King",
      "handle": "brookie-king",
      "type": "Hat",
-     "created_at": "2026-06-25T00:25:20-07:00",
-     "published_at": "2026-06-25T00:26:51-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-25T00:26:51-07:00"
     },
     {
      "title": "Copper Tail Redfish",
      "handle": "copper-tail-redfish",
      "type": "Hat",
-     "created_at": "2026-06-25T00:16:56-07:00",
-     "published_at": "2026-06-25T00:23:33-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 2,
-     "variants_unavailable": 2,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-25T00:23:33-07:00"
     },
     {
      "title": "King Mackerel Strike",
      "handle": "king-mackerel-strike",
      "type": "Rope Hat",
-     "created_at": "2026-06-25T00:07:32-07:00",
-     "published_at": "2026-06-25T00:08:27-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-25T00:08:27-07:00"
     },
     {
      "title": "Brittany Spaniel",
      "handle": "brittany-spaniel",
      "type": "Hat",
-     "created_at": "2026-06-25T00:05:42-07:00",
-     "published_at": "2026-06-25T00:06:27-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-25T00:06:27-07:00"
     },
     {
      "title": "Tarpon Season",
      "handle": "tarpon-season",
      "type": "Hat",
-     "created_at": "2026-06-25T00:03:33-07:00",
-     "published_at": "2026-06-25T00:04:50-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-25T00:04:50-07:00"
     },
     {
      "title": "Greater Kudu",
      "handle": "greater-kudu",
      "type": "Hat",
-     "created_at": "2026-06-24T23:47:39-07:00",
-     "published_at": "2026-06-25T00:01:01-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 2,
-     "variants_unavailable": 2,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-25T00:01:01-07:00"
     },
     {
      "title": "Rainbow Trout",
      "handle": "rainbow-trout",
      "type": "Hat",
-     "created_at": "2026-06-24T23:42:21-07:00",
-     "published_at": "2026-06-24T23:43:43-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 2,
-     "variants_unavailable": 2,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-24T23:43:43-07:00"
     },
     {
      "title": "Skinny Water",
      "handle": "skinny-water",
      "type": "Hat",
-     "created_at": "2026-06-24T23:37:17-07:00",
-     "published_at": "2026-06-24T23:38:40-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-24T23:38:40-07:00"
     },
     {
      "title": "Boykin Spaniel",
      "handle": "boykin-spaniel",
      "type": "Hat",
-     "created_at": "2026-06-24T21:49:39-07:00",
-     "published_at": "2026-06-24T21:52:49-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-24T21:52:49-07:00"
     },
     {
      "title": "Black Lab Retrieve",
      "handle": "black-lab-retrieve",
      "type": "Hat",
-     "created_at": "2026-06-24T21:46:17-07:00",
-     "published_at": "2026-06-24T21:47:36-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-24T21:47:36-07:00"
     },
     {
      "title": "Golden Retriever",
      "handle": "golden-retriever",
      "type": "Hat",
-     "created_at": "2026-06-24T21:44:38-07:00",
-     "published_at": "2026-06-24T21:45:26-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-24T21:45:26-07:00"
     },
     {
      "title": "Stars & Scales",
      "handle": "stars-scales",
      "type": "Hat",
-     "created_at": "2026-06-24T21:40:43-07:00",
-     "published_at": "2026-06-24T21:43:01-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 2,
-     "variants_unavailable": 2,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing",
+      "patriotic"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-24T21:43:01-07:00"
     },
     {
      "title": "Offshore Division",
      "handle": "offshore-division",
      "type": "Hat",
-     "created_at": "2026-06-24T21:16:23-07:00",
-     "published_at": "2026-06-24T21:25:01-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-24T21:25:01-07:00"
     },
     {
      "title": "Offshore Marlin",
      "handle": "offshore-marlin",
      "type": "Hat",
-     "created_at": "2026-06-24T21:07:32-07:00",
-     "published_at": "2026-06-24T21:13:01-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-24T21:13:01-07:00"
     },
     {
      "title": "The Sailfish Swim Short",
      "handle": "the-sailfish-swim-short",
      "type": "Swim Short",
-     "created_at": "2026-06-24T03:18:56-07:00",
-     "published_at": "2026-06-24T03:18:56-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-06-24T03:18:56-07:00"
     },
     {
      "title": "Hooked on Trout Swim Short",
      "handle": "hooked-on-trout-swim-short",
      "type": "Swim Short",
-     "created_at": "2026-06-24T03:17:25-07:00",
-     "published_at": "2026-06-24T03:17:25-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-06-24T03:17:25-07:00"
     },
     {
      "title": "Fly Fishing Swim Short",
      "handle": "fly-fishing-swim-short",
      "type": "Swim Short",
-     "created_at": "2026-06-24T03:16:26-07:00",
-     "published_at": "2026-06-24T03:16:26-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-06-24T03:16:26-07:00"
     },
     {
      "title": "'Merica Swim Short",
      "handle": "merica-swim-short",
      "type": "Swim Short",
-     "created_at": "2026-06-23T23:50:20-07:00",
-     "published_at": "2026-06-23T23:50:20-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "patriotic"
+     ],
+     "price": "39.00",
+     "published_at": "2026-06-23T23:50:20-07:00"
     },
     {
      "title": "Bluewater Run Swim Short",
      "handle": "bluewater-run-swim-short",
      "type": "Swim Short",
-     "created_at": "2026-06-23T21:30:38-07:00",
-     "published_at": "2026-06-23T21:30:38-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-06-23T21:30:38-07:00"
     },
     {
      "title": "Off The Hook Swim Short",
      "handle": "off-the-hook-swim-short",
      "type": "Swim Short",
-     "created_at": "2026-06-23T20:54:27-07:00",
-     "published_at": "2026-06-23T20:54:27-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-06-23T20:54:27-07:00"
     },
     {
      "title": "Timber Shadow Swim Short",
      "handle": "timber-shadow-swim-short",
      "type": "Swim Short",
-     "created_at": "2026-06-23T20:42:04-07:00",
-     "published_at": "2026-06-23T20:42:05-07:00",
-     "price_min": 39.0,
-     "price_max": 39.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "39.00",
+     "published_at": "2026-06-23T20:42:05-07:00"
     },
     {
      "title": "Turkey Camp",
      "handle": "turkey-camp-hat",
      "type": "Hat",
-     "created_at": "2026-06-23T03:05:52-07:00",
-     "published_at": "2026-06-23T03:05:52-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-23T03:05:52-07:00"
     },
     {
      "title": "The Mallard",
      "handle": "the-mallard-hat",
      "type": "Hat",
-     "created_at": "2026-06-23T03:00:19-07:00",
-     "published_at": "2026-06-23T03:00:19-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 2,
-     "variants_unavailable": 2,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-23T03:00:19-07:00"
     },
     {
      "title": "Pintail Drake",
      "handle": "pintail-drake-hat",
      "type": "Hat",
-     "created_at": "2026-06-23T02:59:03-07:00",
-     "published_at": "2026-06-23T02:59:03-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-23T02:59:03-07:00"
     },
     {
      "title": "Rut Vigil",
      "handle": "rut-vigil-hat",
      "type": "Rope Hat",
-     "created_at": "2026-06-23T02:57:35-07:00",
-     "published_at": "2026-06-23T02:57:35-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-23T02:57:35-07:00"
     },
     {
      "title": "1776 Flyway",
      "handle": "1776-flyway-hat",
      "type": "Hat",
-     "created_at": "2026-06-23T02:56:35-07:00",
-     "published_at": "2026-06-23T02:56:35-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting",
+      "patriotic"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-23T02:56:35-07:00"
     },
     {
      "title": "English Cocker Flusher",
      "handle": "english-cocker-flusher-hat",
      "type": "Hat",
-     "created_at": "2026-06-23T02:55:32-07:00",
-     "published_at": "2026-06-23T02:55:32-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-23T02:55:32-07:00"
     },
     {
      "title": "Coyote Moon",
      "handle": "coyote-moon-hat",
      "type": "Hat",
-     "created_at": "2026-06-23T02:53:56-07:00",
-     "published_at": "2026-06-23T02:53:56-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-23T02:53:56-07:00"
     },
     {
      "title": "Bass Strike",
      "handle": "bass-strike",
      "type": "Hat",
-     "created_at": "2026-06-23T02:52:17-07:00",
-     "published_at": "2026-06-23T02:52:17-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "fishing"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-23T02:52:17-07:00"
     },
     {
      "title": "Archery Elk",
      "handle": "archery-elk-hat",
      "type": "Hat",
-     "created_at": "2026-06-23T02:35:48-07:00",
-     "published_at": "2026-06-23T02:35:50-07:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 1,
-     "variants_unavailable": 1,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-06-23T02:35:50-07:00"
     },
     {
      "title": "Gone Fishin’ Button Shirt",
      "handle": "gone-fishin-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-22T00:31:46-07:00",
-     "published_at": "2026-06-22T00:31:46-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-22T00:31:46-07:00"
     },
     {
      "title": "Marlin Button Shirt",
      "handle": "marlin-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-22T00:30:15-07:00",
-     "published_at": "2026-06-22T00:30:15-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-22T00:30:15-07:00"
     },
     {
      "title": "Hooked on Trout Button Shirt",
      "handle": "hooked-on-trout-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-22T00:13:53-07:00",
-     "published_at": "2026-06-22T00:13:53-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-22T00:13:53-07:00"
     },
     {
      "title": "Off The Hook Button Shirt",
      "handle": "off-the-hook-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-22T00:12:26-07:00",
-     "published_at": "2026-06-22T00:12:26-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-22T00:12:26-07:00"
     },
     {
      "title": "Forestbound Button Shirt",
      "handle": "forestbound-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-22T00:08:26-07:00",
-     "published_at": "2026-06-22T00:08:26-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-22T00:08:26-07:00"
     },
     {
      "title": "Marsh Hawk Camo Button Shirt",
      "handle": "marsh-hawk-camo-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-21T23:47:34-07:00",
-     "published_at": "2026-06-21T23:47:34-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-21T23:47:34-07:00"
     },
     {
      "title": "Timber Shadow Button Shirt",
      "handle": "timber-shadow-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-21T21:56:47-07:00",
-     "published_at": "2026-06-21T21:56:47-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-21T21:56:47-07:00"
     },
     {
      "title": "Buck Trail Button Shirt",
      "handle": "buck-trail-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-21T21:55:14-07:00",
-     "published_at": "2026-06-21T21:55:14-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-21T21:55:14-07:00"
     },
     {
      "title": "Wild Sign Button Shirt",
      "handle": "wild-sign-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-21T21:48:59-07:00",
-     "published_at": "2026-06-21T21:48:59-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-21T21:48:59-07:00"
     },
     {
      "title": "Bird Dog Button Shirt",
      "handle": "bird-dog-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-21T21:44:28-07:00",
-     "published_at": "2026-06-21T21:44:28-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-21T21:44:28-07:00"
     },
     {
      "title": "Marsh Flight Button Shirt",
      "handle": "marsh-flight-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-21T21:41:18-07:00",
-     "published_at": "2026-06-21T21:41:18-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-21T21:41:18-07:00"
     },
     {
      "title": "Loyal Friend Button Shirt",
      "handle": "loyal-friend-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-21T21:02:07-07:00",
-     "published_at": "2026-06-21T21:02:07-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 16,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-21T21:02:07-07:00"
     },
     {
      "title": "Buck Fever Button Shirt",
      "handle": "buck-fever-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-21T20:59:07-07:00",
-     "published_at": "2026-06-21T20:59:07-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-21T20:59:07-07:00"
     },
     {
      "title": "Marshland Button Shirt",
      "handle": "marshland-button-shirt",
      "type": "Men's Button Shirt",
-     "created_at": "2026-06-21T20:04:20-07:00",
-     "published_at": "2026-06-21T20:04:20-07:00",
-     "price_min": 55.0,
-     "price_max": 55.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "55.00",
+     "published_at": "2026-06-21T20:04:20-07:00"
     },
     {
      "title": "Fly Fishing Polo",
      "handle": "fly-fishing-polo",
      "type": "Men's Polo",
-     "created_at": "2026-06-21T19:51:06-07:00",
-     "published_at": "2026-06-21T19:51:06-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-21T19:51:06-07:00"
     },
     {
      "title": "Bluewater Run Polo",
      "handle": "bluewater-run-polo",
      "type": "Men's Polo",
-     "created_at": "2026-06-21T19:47:42-07:00",
-     "published_at": "2026-06-21T19:47:42-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-21T19:47:42-07:00"
     },
     {
      "title": "Tuna Season Polo",
      "handle": "tuna-season-polo",
      "type": "Men's Polo",
-     "created_at": "2026-06-21T19:45:01-07:00",
-     "published_at": "2026-06-21T19:45:01-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 16,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-21T19:45:01-07:00"
     },
     {
      "title": "Gone Fishin’ Polo",
      "handle": "gone-fishin",
      "type": "Men's Polo",
-     "created_at": "2026-06-16T01:01:38-07:00",
-     "published_at": "2026-06-16T01:01:38-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-16T01:01:38-07:00"
     },
     {
      "title": "Marlin Polo",
      "handle": "marlin-polo",
      "type": "Men's Polo",
-     "created_at": "2026-06-16T00:57:55-07:00",
-     "published_at": "2026-06-16T00:57:55-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-16T00:57:55-07:00"
     },
     {
      "title": "Hooked on Trout Polo",
      "handle": "hooked-on-trout",
      "type": "Men's Polo",
-     "created_at": "2026-06-11T20:49:52-07:00",
-     "published_at": "2026-06-11T20:49:52-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-11T20:49:52-07:00"
     },
     {
      "title": "Timber Shadow Polo",
      "handle": "timber-shadow",
      "type": "Men's Polo",
-     "created_at": "2026-06-10T01:53:12-07:00",
-     "published_at": "2026-06-10T01:53:12-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-10T01:53:12-07:00"
     },
     {
      "title": "Marsh Hawk Camo Polo",
      "handle": "marsh-hawk-camo",
      "type": "Men's Polo",
-     "created_at": "2026-06-10T01:31:41-07:00",
-     "published_at": "2026-06-10T01:31:41-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-10T01:31:41-07:00"
     },
     {
      "title": "Wild Sign Polo",
      "handle": "wild-sign",
      "type": "Men's Polo",
-     "created_at": "2026-06-10T01:25:52-07:00",
-     "published_at": "2026-06-10T01:25:51-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-10T01:25:51-07:00"
     },
     {
      "title": "Off The Hook Polo",
      "handle": "off-the-hook",
      "type": "Men's Polo",
-     "created_at": "2026-06-10T00:32:12-07:00",
-     "published_at": "2026-06-10T00:32:12-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fishing"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-10T00:32:12-07:00"
     },
     {
      "title": "Bird Dog Polo",
      "handle": "bird-dog",
      "type": "Men's Polo",
-     "created_at": "2026-06-10T00:25:43-07:00",
-     "published_at": "2026-06-10T00:25:43-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-10T00:25:43-07:00"
     },
     {
      "title": "Forestbound Polo",
      "handle": "forestbound",
      "type": "Men's Polo",
-     "created_at": "2026-06-10T00:20:25-07:00",
-     "published_at": "2026-06-10T00:20:25-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-10T00:20:25-07:00"
     },
     {
      "title": "Marsh Flight Polo",
      "handle": "marsh-flight",
      "type": "Men's Polo",
-     "created_at": "2026-06-09T21:13:18-07:00",
-     "published_at": "2026-06-09T21:13:18-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-09T21:13:18-07:00"
     },
     {
      "title": "Loyal Friend Polo",
      "handle": "loyal-friend",
      "type": "Men's Polo",
-     "created_at": "2026-06-09T21:10:08-07:00",
-     "published_at": "2026-06-09T21:10:08-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-09T21:10:08-07:00"
     },
     {
      "title": "Buck Fever Polo",
      "handle": "buck-fever",
      "type": "Men's Polo",
-     "created_at": "2026-06-09T21:08:37-07:00",
-     "published_at": "2026-06-09T21:08:37-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-09T21:08:37-07:00"
     },
     {
      "title": "Buck Trail Polo",
      "handle": "buck-trail",
      "type": "Men's Polo",
-     "created_at": "2026-06-09T20:56:22-07:00",
-     "published_at": "2026-06-09T20:56:22-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-09T20:56:22-07:00"
     },
     {
      "title": "Marshland Polo",
      "handle": "marshland",
      "type": "Men's Polo",
-     "created_at": "2026-06-04T03:11:44-07:00",
-     "published_at": "2026-06-04T03:11:44-07:00",
-     "price_min": 50.0,
-     "price_max": 50.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "hunting"
+     ],
+     "price": "50.00",
+     "published_at": "2026-06-04T03:11:44-07:00"
     }
    ]
   },
@@ -1180,61 +989,99 @@
      "title": "Canvas Blind Bag - Pin Oak / Wheat",
      "handle": "canvas-blind-bag-pin-oak-wheat",
      "type": "Canvas Equipment",
-     "created_at": "2026-06-30T12:48:17-05:00",
-     "published_at": "2026-08-13T13:37:17-05:00",
-     "price_min": 149.0,
-     "price_max": 149.0,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "__label:new",
+      "Accessories",
+      "accessory",
+      "canvas",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "equipment",
+      "F26",
+      "gear",
+      "hunt",
+      "lifestyle",
+      "msrp"
+     ],
+     "price": "149.00",
+     "published_at": "2026-08-13T13:37:17-05:00"
     },
     {
      "title": "Canvas Gear Tote - Medium - Pin Oak / Wheat",
      "handle": "canvas-gear-tote-medium-pin-oak-wheat",
      "type": "Canvas Equipment",
-     "created_at": "2026-06-01T12:51:50-05:00",
-     "published_at": "2026-08-13T13:18:07-05:00",
-     "price_min": 119.0,
-     "price_max": 119.0,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "__label:new",
+      "Accessories",
+      "accessory",
+      "canvas",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "equipment",
+      "everyday",
+      "F26",
+      "gear",
+      "hunt",
+      "lifestyle",
+      "msrp"
+     ],
+     "price": "119.00",
+     "published_at": "2026-08-13T13:18:07-05:00"
     },
     {
      "title": "The Only Choice Austin Trucker - Thyme",
      "handle": "the-only-choice-austin-trucker-thyme",
      "type": "Trucker Hat",
-     "created_at": "2026-06-02T16:38:38-05:00",
-     "published_at": "2026-08-07T12:44:33-05:00",
-     "price_min": 36.0,
-     "price_max": 36.0,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "__label:new",
+      "accessory",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "exchange-eligible",
+      "F26",
+      "g-n-a",
+      "hat",
+      "hats-tees",
+      "headwear",
+      "lifestyle",
+      "logowear",
+      "logowear-hats",
+      "msrp"
+     ],
+     "price": "36.00",
+     "published_at": "2026-08-07T12:44:33-05:00"
     },
     {
      "title": "Duck Camp Trademark Hat - Woodland",
      "handle": "duck-camp-trademark-hat-woodland",
      "type": "Logowear Hat",
-     "created_at": "2026-06-30T12:58:09-05:00",
-     "published_at": "2026-08-07T12:43:54-05:00",
-     "price_min": 36.0,
-     "price_max": 36.0,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "__label:new",
+      "accessory",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "exchange-eligible",
+      "F26",
+      "hat",
+      "hats-tees",
+      "headwear",
+      "lifestyle",
+      "logowear",
+      "logowear-hats",
+      "mens",
+      "msrp",
+      "womens"
+     ],
+     "price": "36.00",
+     "published_at": "2026-08-07T12:43:54-05:00"
     },
     {
      "title": "Men's 3L Packable Rain Shell",
      "handle": "mens-3l-packable-rain-shell",
      "type": "Combined Product",
-     "created_at": "2026-08-07T12:36:53-05:00",
-     "published_at": "2026-08-07T12:37:28-05:00",
-     "price_min": 199.0,
-     "price_max": 199.0,
-     "variants_total": 12,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [],
+     "price": "199.00",
+     "published_at": "2026-08-07T12:37:28-05:00"
     }
    ]
   },
@@ -1245,61 +1092,78 @@
      "title": "Redfish Tail SS T-Shirt",
      "handle": "redfish-tail-short-sleeve-t-shirt-moonstone-sale",
      "type": "MENS T-SHIRTS",
-     "created_at": "2026-07-30T16:21:00-07:00",
-     "published_at": "2026-07-30T16:40:26-07:00",
-     "price_min": 12.99,
-     "price_max": 12.99,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "Final Sale",
+      "FINALSALE",
+      "T-Shirts",
+      "TOPS"
+     ],
+     "price": "12.99",
+     "published_at": "2026-07-30T16:40:26-07:00"
     },
     {
      "title": "Pheasant T-Shirt",
      "handle": "pheasant-ss-t-shirts-black-sale",
      "type": "MENS T-SHIRTS",
-     "created_at": "2024-07-03T09:01:12-07:00",
-     "published_at": "2026-07-30T16:39:47-07:00",
-     "price_min": 14.99,
-     "price_max": 14.99,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "FALL24",
+      "Final Sale",
+      "FINALSALE",
+      "MENS",
+      "T-Shirts",
+      "TOPS"
+     ],
+     "price": "14.99",
+     "published_at": "2026-07-30T16:39:47-07:00"
     },
     {
      "title": "Pheasant T-Shirt",
      "handle": "pheasant-t-shirt-tobacco-sale",
      "type": "MENS T-SHIRTS",
-     "created_at": "2024-08-22T10:13:22-07:00",
-     "published_at": "2026-07-30T16:39:10-07:00",
-     "price_min": 14.99,
-     "price_max": 14.99,
-     "variants_total": 5,
-     "variants_unavailable": 1,
-     "sold_out_level": "LOW"
+     "tags": [
+      "FALL24",
+      "Final Sale",
+      "FINALSALE",
+      "MENS",
+      "T-Shirts",
+      "TOPS"
+     ],
+     "price": "14.99",
+     "published_at": "2026-07-30T16:39:10-07:00"
     },
     {
      "title": "Lobeco Shirt",
      "handle": "lobeco-ls-wovens-stone-mallard-camo-sale",
      "type": "MENS WOVENS",
-     "created_at": "2025-10-21T08:46:16-07:00",
-     "published_at": "2026-07-30T16:38:05-07:00",
-     "price_min": 39.99,
-     "price_max": 39.99,
-     "variants_total": 5,
-     "variants_unavailable": 1,
-     "sold_out_level": "LOW"
+     "tags": [
+      "BFCM25",
+      "CLOTHING",
+      "Final Sale",
+      "FINALSALE",
+      "Long Sleeve Shirt",
+      "Longsleeve Shirt",
+      "mallardcamo",
+      "MENS",
+      "RGroup_MWK2041",
+      "TOPS",
+      "Wovens"
+     ],
+     "price": "39.99",
+     "published_at": "2026-07-30T16:38:05-07:00"
     },
     {
      "title": "Retro Redfish SS T-Shirt",
      "handle": "retro-redfish-short-sleeve-t-shirt-moonstone-sale",
      "type": "MENS T-SHIRTS",
-     "created_at": "2026-07-30T16:21:01-07:00",
-     "published_at": "2026-07-30T16:23:55-07:00",
-     "price_min": 12.99,
-     "price_max": 12.99,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "Final Sale",
+      "FINALSALE",
+      "RGroup_MWT3030",
+      "T-Shirts",
+      "TOPS"
+     ],
+     "price": "12.99",
+     "published_at": "2026-07-30T16:23:55-07:00"
     }
    ]
   },
@@ -1310,61 +1174,51 @@
      "title": "Alden #1494 Unlined Chukka Boot",
      "handle": "alden-1494-unlined-chukka-boot",
      "type": "Footwear",
-     "created_at": "2026-02-20T14:26:55-06:00",
-     "published_at": "2026-08-14T14:31:27-05:00",
-     "price_min": 730.0,
-     "price_max": 730.0,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "MFOOTZR"
+     ],
+     "price": "730.00",
+     "published_at": "2026-08-14T14:31:27-05:00"
     },
     {
      "title": "Alden #6221L Unlined Leisure Penny Loafer",
      "handle": "alden-6221-unlined-leisure-penny-loafer",
      "type": "Footwear",
-     "created_at": "2025-08-29T12:06:27-05:00",
-     "published_at": "2026-08-14T14:31:25-05:00",
-     "price_min": 694.0,
-     "price_max": 694.0,
-     "variants_total": 9,
-     "variants_unavailable": 2,
-     "sold_out_level": "LOW"
+     "tags": [
+      "MFOOTZR"
+     ],
+     "price": "694.00",
+     "published_at": "2026-08-14T14:31:25-05:00"
     },
     {
      "title": "Alden #403 Indy Boot",
      "handle": "alden-403-indy-boot",
      "type": "Footwear",
-     "created_at": "2025-08-29T12:06:26-05:00",
-     "published_at": "2026-08-14T14:31:24-05:00",
-     "price_min": 730.0,
-     "price_max": 730.0,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "MFOOTZR"
+     ],
+     "price": "730.00",
+     "published_at": "2026-08-14T14:31:24-05:00"
     },
     {
      "title": "Alden #4011HC Mocc Toe Boot",
      "handle": "alden-4011hc-indy-boot",
      "type": "Footwear",
-     "created_at": "2025-08-29T12:06:25-05:00",
-     "published_at": "2026-08-14T14:31:22-05:00",
-     "price_min": 760.0,
-     "price_max": 760.0,
-     "variants_total": 8,
-     "variants_unavailable": 1,
-     "sold_out_level": "LOW"
+     "tags": [
+      "MFOOTZR"
+     ],
+     "price": "760.00",
+     "published_at": "2026-08-14T14:31:22-05:00"
     },
     {
      "title": "Alden #1272S Chukka Boot",
      "handle": "alden-1272s-chukka-boot",
      "type": "Footwear",
-     "created_at": "2025-08-29T12:06:24-05:00",
-     "published_at": "2026-08-14T14:31:20-05:00",
-     "price_min": 716.0,
-     "price_max": 716.0,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "MFOOTZR"
+     ],
+     "price": "716.00",
+     "published_at": "2026-08-14T14:31:20-05:00"
     }
    ]
   },
@@ -1375,61 +1229,62 @@
      "title": "Del Mar Session Shell",
      "handle": "del-mar-session-shell-1",
      "type": "",
-     "created_at": "2026-08-04T15:20:34-05:00",
-     "published_at": "2026-08-13T09:12:51-05:00",
-     "price_min": 165.0,
-     "price_max": 165.0,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [],
+     "price": "165.00",
+     "published_at": "2026-08-13T09:12:51-05:00"
     },
     {
      "title": "Texas Longhorns T-Shirt",
      "handle": "texas-longhorns-t-shirt-1",
      "type": "",
-     "created_at": "2026-08-04T15:28:37-05:00",
-     "published_at": "2026-08-13T09:12:36-05:00",
-     "price_min": 45.0,
-     "price_max": 45.0,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [],
+     "price": "45.00",
+     "published_at": "2026-08-13T09:12:36-05:00"
     },
     {
      "title": "Texas Longhorns H Bar B Snapshirt - Los Longhorns Stripe : Riverbed Oxford",
      "handle": "h-bar-b-snapshirt-texas-longhorns-stripe-riverbed-oxford",
      "type": "Men's Shirts",
-     "created_at": "2026-06-09T10:59:58-05:00",
-     "published_at": "2026-08-13T08:40:43-05:00",
-     "price_min": 109.0,
-     "price_max": 109.0,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "f26",
+      "mens-shirts-collection",
+      "mens-shortsleeve-shirts-collection",
+      "no-treet",
+      "print-collections",
+      "published-online",
+      "texas-longhorns"
+     ],
+     "price": "109.00",
+     "published_at": "2026-08-13T08:40:43-05:00"
     },
     {
      "title": "Texas Longhorns Bandana - Forty Acres : Burnt Orange",
      "handle": "bandana-texas-longhorns-natural",
      "type": "Bandana",
-     "created_at": "2026-06-09T10:59:28-05:00",
-     "published_at": "2026-08-13T08:40:42-05:00",
-     "price_min": 29.0,
-     "price_max": 29.0,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "accessories-collection",
+      "f26",
+      "no-treet",
+      "published-online",
+      "texas-longhorns"
+     ],
+     "price": "29.00",
+     "published_at": "2026-08-13T08:40:42-05:00"
     },
     {
      "title": "Texas Longhorns Lifeguard Hat - Forty Acres",
      "handle": "lifeguard-hat-texas-longhorns",
      "type": "Hats",
-     "created_at": "2026-06-09T10:59:27-05:00",
-     "published_at": "2026-08-13T08:40:41-05:00",
-     "price_min": 65.0,
-     "price_max": 65.0,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "accessories-collection",
+      "f26",
+      "hats-collection",
+      "no-treet",
+      "published-online",
+      "texas-longhorns"
+     ],
+     "price": "65.00",
+     "published_at": "2026-08-13T08:40:41-05:00"
     }
    ]
   },
@@ -1440,61 +1295,120 @@
      "title": "Guide Sayings Trucker Hat",
      "handle": "call-in-sick-go-fishing-trucker-hat",
      "type": "MENS HATS",
-     "created_at": "2026-08-12T13:49:12-07:00",
-     "published_at": "2026-08-12T14:45:26-07:00",
-     "price_min": 32.0,
-     "price_max": 32.0,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "__tab2:hats-size-chart-with-image-in-there",
+      "accessories",
+      "FA26",
+      "filter::type:FISHING HATS",
+      "filter::type:HATS",
+      "fishing-clothing",
+      "fishing-hats",
+      "GUIDESAYINGS",
+      "Headwear",
+      "mens",
+      "mens-fishing-hats",
+      "MID-PROFILE-FIT",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "NEWCOLORS"
+     ],
+     "price": "32.00",
+     "published_at": "2026-08-12T14:45:26-07:00"
     },
     {
      "title": "Guide Sayings Trucker Hat",
      "handle": "one-more-cast-trucker-hat",
      "type": "MENS HATS",
-     "created_at": "2026-08-12T13:49:15-07:00",
-     "published_at": "2026-08-12T14:41:47-07:00",
-     "price_min": 32.0,
-     "price_max": 32.0,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "__tab2:hats-size-chart-with-image-in-there",
+      "accessories",
+      "FA26",
+      "filter::type:FISHING HATS",
+      "filter::type:HATS",
+      "fishing-clothing",
+      "fishing-hats",
+      "GUIDESAYINGS",
+      "Headwear",
+      "mens",
+      "mens-fishing-hats",
+      "MID-PROFILE-FIT",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "NEWCOLORS"
+     ],
+     "price": "32.00",
+     "published_at": "2026-08-12T14:41:47-07:00"
     },
     {
      "title": "CCA Schoolie Backpack",
      "handle": "cca-schoolie-backpack",
      "type": "FISHING BACKPACKS",
-     "created_at": "2025-06-12T11:46:10-07:00",
-     "published_at": "2026-08-12T13:15:13-07:00",
-     "price_min": 75.0,
-     "price_max": 75.0,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "CCA",
+      "CCADONATION",
+      "CCADONATIONS",
+      "filter::type:Backpacks",
+      "Fishing Backpack",
+      "OVERSIZED",
+      "Tackle"
+     ],
+     "price": "75.00",
+     "published_at": "2026-08-12T13:15:13-07:00"
     },
     {
      "title": "CCA Air-O Mesh SS Button Down Shirt",
      "handle": "cca-air-o-mesh-button-down-fishing-shirt",
      "type": "MENS PERFORMANCE",
-     "created_at": "2026-08-06T11:59:58-07:00",
-     "published_at": "2026-08-12T13:13:40-07:00",
-     "price_min": 70.0,
-     "price_max": 70.0,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "__tab2:tops-mens-size-chart",
+      "CCA",
+      "CCADONATION",
+      "CCADONATIONS",
+      "filter::size:2X",
+      "filter::size:L",
+      "filter::size:M",
+      "filter::size:S",
+      "filter::size:XL",
+      "filter::type:Short Sleeve Performance Shirts",
+      "fishing-clothing",
+      "fit-guide-mens-performance",
+      "mens-how-to-measure",
+      "NEW",
+      "NEW-TAG",
+      "performance shirts",
+      "PERFORMANCE-FIT",
+      "performance-shirts-with-uv-protection",
+      "Wovens"
+     ],
+     "price": "70.00",
+     "published_at": "2026-08-12T13:13:40-07:00"
     },
     {
      "title": "CCA Ocean Bound Hooded Performance Shirt",
      "handle": "cca-ocean-bound-performance-fishing-hoodie",
      "type": "MENS PERFORMANCE",
-     "created_at": "2026-08-06T11:59:58-07:00",
-     "published_at": "2026-08-12T13:12:52-07:00",
-     "price_min": 65.0,
-     "price_max": 65.0,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "__tab2:tops-mens-size-chart",
+      "CCA",
+      "CCADONATION",
+      "CCADONATIONS",
+      "filter::size:2X",
+      "filter::size:L",
+      "filter::size:M",
+      "filter::size:S",
+      "filter::size:XL",
+      "fishing-clothing",
+      "fit-guide-mens-performance",
+      "mens-how-to-measure",
+      "NEW",
+      "NEW-TAG",
+      "Performance Knit",
+      "performance shirts",
+      "PERFORMANCE-FIT",
+      "performance-shirts-with-uv-protection"
+     ],
+     "price": "65.00",
+     "published_at": "2026-08-12T13:12:52-07:00"
     }
    ]
   },
@@ -1505,61 +1419,108 @@
      "title": "Drake X Lost Hat Drake Patch Goat Rope Cap",
      "handle": "drake-x-lost-hat-drake-patch-goat-rope-cap-1",
      "type": "Sale_Headwear",
-     "created_at": "2026-05-18T08:21:41-05:00",
-     "published_at": "2026-08-14T13:33:25-05:00",
-     "price_min": 20.99,
-     "price_max": 20.99,
-     "variants_total": 2,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "AW25 Catalog",
+      "AW26 Catalog",
+      "bestseller_24",
+      "casual_caps",
+      "discount_25",
+      "Final Sale",
+      "FinalSale",
+      "gifts for everyday",
+      "Gifts Under $50",
+      "lifestyle",
+      "logowear",
+      "Lost Hat",
+      "MemDay2026",
+      "SS25_New",
+      "SS26 Catalog",
+      "summer10"
+     ],
+     "price": "20.99",
+     "published_at": "2026-08-14T13:33:25-05:00"
     },
     {
      "title": "Youth Camo Waterproof Cap",
      "handle": "youth-waterproof-camo-cap",
      "type": "Headwear",
-     "created_at": "2017-07-31T20:43:38-05:00",
-     "published_at": "2026-08-14T10:17:42-05:00",
-     "price_min": 29.99,
-     "price_max": 29.99,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "- headwear",
+      "- under $25",
+      "- under $75",
+      "20171031-MST-Youth",
+      "all brand caps",
+      "AW25 Catalog",
+      "AW26 Catalog",
+      "caps",
+      "early season apparel",
+      "early season teal",
+      "early-season-waterfowl",
+      "est-early-season-technology",
+      "hunting accessories",
+      "lifestyle",
+      "r26",
+      "top rated",
+      "waterfowl",
+      "YGroup_youthhat",
+      "youth",
+      "youth-featured"
+     ],
+     "price": "29.99",
+     "published_at": "2026-08-14T10:17:42-05:00"
     },
     {
      "title": "Oval Logo Foam Front Ball Cap",
      "handle": "oval-logo-foam-front-ball-cap",
      "type": "Headwear",
-     "created_at": "2023-03-13T17:49:49-05:00",
-     "published_at": "2026-08-14T10:15:59-05:00",
-     "price_min": 29.99,
-     "price_max": 29.99,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "- $25 - $50",
+      "- headwear",
+      "AW23_New",
+      "AW25 Catalog",
+      "AW26 Catalog",
+      "caps",
+      "hunting accessories",
+      "logowear",
+      "Men WF Logo Items",
+      "mens",
+      "waterfowl",
+      "waterfowl_logo_wear"
+     ],
+     "price": "29.99",
+     "published_at": "2026-08-14T10:15:59-05:00"
     },
     {
      "title": "Heavyweight Merino OTC Hunting Socks",
      "handle": "heavyweight-merino-otc-hunting-socks",
      "type": "Footwear",
-     "created_at": "2025-04-24T10:20:29-05:00",
-     "published_at": "2026-08-14T09:22:35-05:00",
-     "price_min": 21.99,
-     "price_max": 21.99,
-     "variants_total": 3,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "AW25 Catalog",
+      "AW25_New",
+      "AW26 Catalog",
+      "New_No_Coming_Soon",
+      "socks",
+      "waterfowl"
+     ],
+     "price": "21.99",
+     "published_at": "2026-08-14T09:22:35-05:00"
     },
     {
      "title": "Midweight Merino Camo Mid Calf Hunting Socks",
      "handle": "midweight-merino-camo-mid-calf-hunting-socks",
      "type": "Footwear",
-     "created_at": "2025-04-24T10:17:42-05:00",
-     "published_at": "2026-08-14T09:20:40-05:00",
-     "price_min": 21.99,
-     "price_max": 21.99,
-     "variants_total": 3,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "AW25 Catalog",
+      "AW25_New",
+      "AW26 Catalog",
+      "Gifts For Waterfowler",
+      "Gifts Under $50",
+      "New_No_Coming_Soon",
+      "socks",
+      "waterfowl"
+     ],
+     "price": "21.99",
+     "published_at": "2026-08-14T09:20:40-05:00"
     }
    ]
   },
@@ -1570,61 +1531,78 @@
      "title": "Reverb Packable Trucker Hat - Coriander",
      "handle": "reverb-packable-trucker-hat-coriander",
      "type": "Hats",
-     "created_at": "2023-09-27T12:47:40-04:00",
-     "published_at": "2026-08-11T10:15:13-04:00",
-     "price_min": 13.99,
-     "price_max": 13.99,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "collection::men",
+      "collection::women",
+      "discounts::none",
+      "excRVBTR",
+      "final-sale",
+      "final_sale",
+      "flag::final sale",
+      "Pro-Exclude-Discount",
+      "product_style: Reverb Packable Trucker Hat",
+      "returns::none",
+      "rosterhats",
+      "SP24"
+     ],
+     "price": "13.99",
+     "published_at": "2026-08-11T10:15:13-04:00"
     },
     {
      "title": "Women's Coldvale Insulated Vest - Plum",
      "handle": "womens-coldvale-insulated-vest-plum",
      "type": "Women's",
-     "created_at": "2026-06-23T12:09:15-04:00",
-     "published_at": "2026-08-10T16:12:27-04:00",
-     "price_min": 178.0,
-     "price_max": 178.0,
-     "variants_total": 6,
-     "variants_unavailable": 6,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "excFF730",
+      "FA26",
+      "flag::Coming Soon",
+      "pdp_group: women-coldvale",
+      "product_style: Women Coldvale Vest"
+     ],
+     "price": "178.00",
+     "published_at": "2026-08-10T16:12:27-04:00"
     },
     {
      "title": "Women's Coldvale Insulated Vest - Black",
      "handle": "womens-coldvale-insulated-vest-black",
      "type": "Women's",
-     "created_at": "2026-06-23T12:09:11-04:00",
-     "published_at": "2026-08-10T16:12:25-04:00",
-     "price_min": 178.0,
-     "price_max": 178.0,
-     "variants_total": 6,
-     "variants_unavailable": 6,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "excFF730",
+      "FA26",
+      "flag::Coming Soon",
+      "pdp_group: women-coldvale",
+      "product_style: Women Coldvale Vest"
+     ],
+     "price": "178.00",
+     "published_at": "2026-08-10T16:12:25-04:00"
     },
     {
      "title": "Women's Coldvale Insulated Jacket - Plum",
      "handle": "womens-coldvale-insulated-jacket-plum",
      "type": "Women's",
-     "created_at": "2026-06-23T12:09:08-04:00",
-     "published_at": "2026-08-10T16:12:24-04:00",
-     "price_min": 288.0,
-     "price_max": 288.0,
-     "variants_total": 6,
-     "variants_unavailable": 6,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "excFF729",
+      "FA26",
+      "flag::Coming Soon",
+      "pdp_group: women-coldvale",
+      "product_style: Women Coldvale Jacket"
+     ],
+     "price": "288.00",
+     "published_at": "2026-08-10T16:12:24-04:00"
     },
     {
      "title": "Women's Coldvale Insulated Jacket - Black",
      "handle": "womens-coldvale-insulated-jacket-black",
      "type": "Women's",
-     "created_at": "2026-06-23T12:09:04-04:00",
-     "published_at": "2026-08-10T16:12:22-04:00",
-     "price_min": 288.0,
-     "price_max": 288.0,
-     "variants_total": 6,
-     "variants_unavailable": 6,
-     "sold_out_level": "HIGH"
+     "tags": [
+      "excFF729",
+      "FA26",
+      "flag::Coming Soon",
+      "pdp_group: women-coldvale",
+      "product_style: Women Coldvale Jacket"
+     ],
+     "price": "288.00",
+     "published_at": "2026-08-10T16:12:22-04:00"
     }
    ]
   },
@@ -1635,49 +1613,81 @@
      "title": "Father and Son Bundle - Performance Hoodie - Mallard Mayhem Camo",
      "handle": "father-and-son-bundle-performance-hoodie-mallard-mayhem-camo",
      "type": "Bundle",
-     "created_at": "2026-07-21T08:29:21-05:00",
-     "published_at": "2026-08-14T07:59:42-05:00",
-     "price_min": 108.0,
-     "price_max": 108.0,
-     "variants_total": 40,
-     "variants_unavailable": 8,
-     "sold_out_level": "LOW"
+     "tags": [
+      "8/4/26"
+     ],
+     "price": "108.00",
+     "published_at": "2026-08-14T07:59:42-05:00"
     },
     {
      "title": "Vintage Washed Shorts - Drifter Camo",
      "handle": "vintage-washed-shorts-drifter-camo",
      "type": "Vintage Washed Shorts",
-     "created_at": "2025-12-18T09:05:48-06:00",
-     "published_at": "2026-08-13T11:40:42-05:00",
-     "price_min": 49.0,
-     "price_max": 49.0,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "8/13/26",
+      "B2B_Active",
+      "B2B_Sync",
+      "BlinkAutoHide",
+      "Bottoms",
+      "Fall 26",
+      "Fall26",
+      "missinglifestyle",
+      "PREBOOK START: 07/15/2026",
+      "retail",
+      "Season Fall26",
+      "Shorts",
+      "Vintage Washed 26",
+      "Vintage Washed Shorts",
+      "wholesale"
+     ],
+     "price": "49.00",
+     "published_at": "2026-08-13T11:40:42-05:00"
     },
     {
      "title": "Vintage Washed Shorts - Classic Deer Camo",
      "handle": "vintage-washed-shorts-classic-deer-camo",
      "type": "Vintage Washed Shorts",
-     "created_at": "2025-12-18T09:05:46-06:00",
-     "published_at": "2026-08-13T11:40:42-05:00",
-     "price_min": 49.0,
-     "price_max": 49.0,
-     "variants_total": 5,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "8/13/26",
+      "B2B_Active",
+      "B2B_Sync",
+      "BlinkAutoHide",
+      "Bottoms",
+      "Fall 26",
+      "Fall26",
+      "Mia Review",
+      "missinglifestyle",
+      "PREBOOK START: 07/15/2026",
+      "retail",
+      "Season Fall26",
+      "Shorts",
+      "Vintage Washed 26",
+      "Vintage Washed Shorts",
+      "wholesale"
+     ],
+     "price": "49.00",
+     "published_at": "2026-08-13T11:40:42-05:00"
     },
     {
      "title": "Vintage Washed Tee - Classic Deer Camo",
      "handle": "vintage-washed-tee-classic-deer-camo",
      "type": "Vintage Washed Tee",
-     "created_at": "2025-12-18T09:06:01-06:00",
-     "published_at": "2026-08-13T11:40:40-05:00",
-     "price_min": 34.0,
-     "price_max": 34.0,
-     "variants_total": 5,
-     "variants_unavailable": 1,
-     "sold_out_level": "LOW"
+     "tags": [
+      "8/13/26",
+      "B2B_Active",
+      "B2B_Sync",
+      "Fall 26",
+      "Fall26",
+      "PREBOOK START: 07/15/2026",
+      "retail",
+      "Season Fall26",
+      "Short Sleeve",
+      "Tops",
+      "Vintage Washed Tee",
+      "wholesale"
+     ],
+     "price": "34.00",
+     "published_at": "2026-08-13T11:40:40-05:00"
     }
    ]
   },
@@ -1688,61 +1698,65 @@
      "title": "Heritage Series DIY Wood Decoy Kit - Delta Marsh Diver",
      "handle": "heritage-series-diy-wood-decoy-kit-delta-marsh-diver",
      "type": "Decoys",
-     "created_at": "2025-12-06T12:33:33-05:00",
-     "published_at": "2026-07-22T15:11:42-04:00",
-     "price_min": 2661000.0,
-     "price_max": 2661000.0,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "blank",
+      "decoy kit",
+      "decoys",
+      "delta waterfowl",
+      "diver decoys",
+      "heritage series",
+      "retail"
+     ],
+     "price": "2660000",
+     "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
      "title": "Heritage Series Delta Marsh Canvasback",
      "handle": "signature-series-marsh-canvasback",
      "type": "Decoys",
-     "created_at": "2020-11-17T10:51:50-05:00",
-     "published_at": "2026-07-22T15:11:14-04:00",
-     "price_min": 5321000.0,
-     "price_max": 5321000.0,
-     "variants_total": 1,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "decoys",
+      "delta waterfowl",
+      "diver decoys",
+      "wholesale"
+     ],
+     "price": "5320000",
+     "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
      "title": "Duck Production T-Shirt",
      "handle": "duck-production-t-shirt",
      "type": "T-Shirt",
-     "created_at": "2026-07-14T13:13:07-04:00",
-     "published_at": "2026-07-22T15:10:16-04:00",
-     "price_min": 931000.0,
-     "price_max": 985000.0,
-     "variants_total": 6,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "delta waterfowl",
+      "printful",
+      "wsc"
+     ],
+     "price": "931000",
+     "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
      "title": "Conservation Origins T-Shirt",
      "handle": "conservation-origins-t-shirt",
      "type": "T-Shirt",
-     "created_at": "2026-07-14T13:11:39-04:00",
-     "published_at": "2026-07-22T15:10:03-04:00",
-     "price_min": 931000.0,
-     "price_max": 1091000.0,
-     "variants_total": 8,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "delta waterfowl",
+      "printful",
+      "wsc"
+     ],
+     "price": "931000",
+     "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
      "title": "Ladies' Fedora Hat",
      "handle": "ladies-fedora-hat-fall-2026",
      "type": "Hats",
-     "created_at": "2026-06-03T16:11:59-04:00",
-     "published_at": "2026-06-03T16:16:18-04:00",
-     "price_min": 1596000.0,
-     "price_max": 1596000.0,
-     "variants_total": 2,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fall 26",
+      "wholesale"
+     ],
+     "price": "1596000",
+     "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
   },
@@ -1753,61 +1767,41 @@
      "title": "Pheasant Hunting Camo Hoodie for Men – All-Over Ring-Necked Field Camo Pullover, Gift for Upland Bird Hunters",
      "handle": "pheasant-hunting-camo-hoodie-for-men-all-over-ring-necked-field-camo-pullover-gift-for-upland-bird-hunters",
      "type": "",
-     "created_at": "2026-08-15T00:00:29-07:00",
-     "published_at": "2026-08-15T00:00:29-07:00",
-     "price_min": 69.95,
-     "price_max": 129.95,
-     "variants_total": 18,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-08-15T00:00:29-07:00"
     },
     {
      "title": "Honker Camo Hunting Hoodie - Fleece-Lined Pullover",
      "handle": "honker-camo-hunting-hoodie-fleece-lined-pullover",
      "type": "",
-     "created_at": "2026-08-12T01:33:14-07:00",
-     "published_at": "2026-08-12T01:33:14-07:00",
-     "price_min": 69.95,
-     "price_max": 129.95,
-     "variants_total": 18,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-08-12T01:33:14-07:00"
     },
     {
      "title": "Whitetail Snow Camo Hunting Hoodie - Fleece-Lined Pullover",
      "handle": "whitetail-snow-camo-hunting-hoodie-fleece-lined-pullover",
      "type": "",
-     "created_at": "2026-08-12T00:51:34-07:00",
-     "published_at": "2026-08-12T00:51:34-07:00",
-     "price_min": 69.95,
-     "price_max": 129.95,
-     "variants_total": 18,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-08-12T00:51:34-07:00"
     },
     {
      "title": "Mallard Duck Camo Hunting Hoodie - Fleece-Lined Pullover",
      "handle": "mallard-duck-camo-hunting-hoodie-fleece-lined-pullover",
      "type": "",
-     "created_at": "2026-08-11T01:41:10-07:00",
-     "published_at": "2026-08-11T01:41:10-07:00",
-     "price_min": 69.95,
-     "price_max": 129.95,
-     "variants_total": 18,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-08-11T01:41:10-07:00"
     },
     {
      "title": "Mourning Dove Camo Hunting Hoodie – Fleece-Lined Pullover",
      "handle": "mourning-dove-camo-hunting-hoodie-fleece-lined-pullover",
      "type": "",
-     "created_at": "2026-08-09T19:45:11-07:00",
-     "published_at": "2026-08-09T19:45:13-07:00",
-     "price_min": 69.95,
-     "price_max": 129.95,
-     "variants_total": 18,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-08-09T19:45:13-07:00"
     }
    ]
   },
@@ -1815,64 +1809,58 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Navy Deer Skull Micro Pattern Polo Shirt DP1012",
+     "handle": "navy-deer-skull-micro-pattern-polo-shirt-dp1012",
+     "type": "Polo Shirt",
+     "tags": [
+      "Polo Shirt"
+     ],
+     "price": "41.99",
+     "published_at": "2026-08-17T00:24:55-06:00"
+    },
+    {
      "title": "Mallard Duck Cream Waterfowl Polo Shirt VCP1047",
      "handle": "mallard-duck-cream-waterfowl-polo-shirt-vcp1047",
      "type": "Polo Shirt",
-     "created_at": "2026-08-15T04:29:16-06:00",
-     "published_at": "2026-08-15T20:44:04-06:00",
-     "price_min": 29.99,
-     "price_max": 45.99,
-     "variants_total": 24,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-15T20:44:04-06:00"
     },
     {
      "title": "Fish Jumping American Flag Polo Shirt VCP1046",
      "handle": "fish-jumping-american-flag-polo-shirt-vcp1046",
      "type": "Polo Shirt",
-     "created_at": "2026-08-15T03:56:34-06:00",
-     "published_at": "2026-08-15T04:02:47-06:00",
-     "price_min": 29.99,
-     "price_max": 45.99,
-     "variants_total": 24,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-15T04:02:47-06:00"
     },
     {
      "title": "Mallard Duck Waterfowl Cream Polo Shirt VCP1045",
      "handle": "mallard-duck-waterfowl-cream-polo-shirt-vcp1045",
      "type": "Polo Shirt",
-     "created_at": "2026-08-15T03:45:37-06:00",
-     "published_at": "2026-08-15T03:55:07-06:00",
-     "price_min": 29.99,
-     "price_max": 45.99,
-     "variants_total": 24,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-15T03:55:07-06:00"
     },
     {
      "title": "Tropical Camo Dove Polo Shirt – Olive Hibiscus Print VCP1044",
      "handle": "tropical-camo-dove-polo-shirt-olive-hibiscus-print-vcp1044",
      "type": "Polo Shirt",
-     "created_at": "2026-08-14T03:51:06-06:00",
-     "published_at": "2026-08-14T03:52:58-06:00",
-     "price_min": 29.99,
-     "price_max": 45.99,
-     "variants_total": 24,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
-    },
-    {
-     "title": "Dove Hunter Camo Polo Shirt Green Hunting Silhouette VCP1043",
-     "handle": "dove-hunter-camo-polo-shirt-green-hunting-silhouette-vcp1043",
-     "type": "Polo Shirt",
-     "created_at": "2026-08-14T03:48:14-06:00",
-     "published_at": "2026-08-14T03:50:56-06:00",
-     "price_min": 29.99,
-     "price_max": 45.99,
-     "variants_total": 24,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-14T03:52:58-06:00"
     }
    ]
   },
@@ -1883,61 +1871,72 @@
      "title": "Waterproof Dry Bag Set - Roll-Top Dry Sacks for Kayaking & Camping",
      "handle": "waterproof-dry-bag-set-roll-top-dry-sacks-for-kayaking-camping",
      "type": "Dry Bags",
-     "created_at": "2026-07-30T15:22:06+02:00",
-     "published_at": "2026-07-30T16:27:49+02:00",
-     "price_min": 32.95,
-     "price_max": 44.95,
-     "variants_total": 2,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "70D ripstop",
+      "activity:camping",
+      "camping",
+      "dry bag",
+      "dry bag set",
+      "dry bags",
+      "dry sack",
+      "gear organisation",
+      "hiking",
+      "kayak dry bag",
+      "outdoor",
+      "roll top dry bag",
+      "waterproof",
+      "waterproof bag",
+      "waterproof dry bag"
+     ],
+     "price": "32.95",
+     "published_at": "2026-07-30T16:27:49+02:00"
     },
     {
      "title": "Men's Fleece Hoodie - Thermolite Hooded Fleece Jumper",
      "handle": "mens-fleece-hoodie-thermolite-hooded-fleece-jumper",
      "type": "Men's Fleece",
-     "created_at": "2026-07-27T13:23:39+02:00",
-     "published_at": "2026-07-27T18:36:57+02:00",
-     "price_min": 49.95,
-     "price_max": 49.95,
-     "variants_total": 16,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [
+      "fleece hoodie",
+      "fleece jumper",
+      "grid fleece",
+      "hiking",
+      "hooded fleece",
+      "mens fleece",
+      "mens fleece hoodie",
+      "mens midlayer",
+      "midlayer",
+      "outdoor",
+      "pullover fleece",
+      "Thermolite",
+      "waffle knit",
+      "walking"
+     ],
+     "price": "49.95",
+     "published_at": "2026-07-27T18:36:57+02:00"
     },
     {
      "title": "Women's Zippered Pocket Running Shorts – Lightweight Quick-Dry Athletic Shorts",
      "handle": "womens-zippered-pocket-running-shorts-lightweight-quick-dry-athletic-shorts",
      "type": "Short women",
-     "created_at": "2026-07-16T16:46:20+02:00",
-     "published_at": "2026-07-20T14:46:44+02:00",
-     "price_min": 38.95,
-     "price_max": 38.95,
-     "variants_total": 20,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [],
+     "price": "38.95",
+     "published_at": "2026-07-20T14:46:44+02:00"
     },
     {
      "title": "Packable Wide-Brim Fishing Hat – Sun Hat with Neck Flap and Chin Strap",
      "handle": "packable-wide-brim-fishing-hat-sun-hat-with-neck-flap-and-chin-strap",
      "type": "Hat",
-     "created_at": "2026-07-16T16:46:34+02:00",
-     "published_at": "2026-07-20T14:35:48+02:00",
-     "price_min": 44.95,
-     "price_max": 44.95,
-     "variants_total": 3,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [],
+     "price": "44.95",
+     "published_at": "2026-07-20T14:35:48+02:00"
     },
     {
      "title": "Men's Water-Resistant Cargo Trousers – Multi-Pocket Tactical Pants for Hunting and Fishing",
      "handle": "mens-water-resistant-cargo-trousers-multi-pocket-tactical-pants-for-hunting-and-fishing",
      "type": "Trousers men",
-     "created_at": "2026-07-16T16:46:03+02:00",
-     "published_at": "2026-07-20T14:06:22+02:00",
-     "price_min": 69.95,
-     "price_max": 69.95,
-     "variants_total": 24,
-     "variants_unavailable": 0,
-     "sold_out_level": "LOW"
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-07-20T14:06:22+02:00"
     }
    ]
   }
@@ -1945,45 +1944,60 @@
  "policies": {
   "GritFell": {
    "https://gritfell.com/policies/shipping-policy": [
-    "Production Time Every Gritfell product is made to order to ensure the highest quality standards.",
+    "Free Ground Shipping on Order $75+ Shipping policy At Gritfell, we strive to deliver your order as quickly and efficiently as possible.",
+    "Please review the information below regarding production times, shipping methods, delivery estimates, and shipping fees.",
     "Clothing: Production typically takes 3 - 7 business days before shipment.",
     "Embroidered Hats: Production typically takes 1- 3 business days before shipment.",
-    "Clothing Shipping Method Estimated Shipping Time Standard Shipping 10 - 15 Business Days Fast Shipping 6 - 8 Business Days Free Shipping 10 - 15 Business Days Embroidered Hats Shipping Method Estimated Shipping Time Standard Shipping 5 - 8 Business Days Fast Shipping 3 - 5 Business Days Free Shipping 5 - 8 Business Days 3.",
+    "Please note that production times may be slightly extended during holidays, peak seasons, or major promotional events.",
+    "Once your order has been completed, it will be shipped using the delivery method selected at checkout.",
+    "Shipping Times Delivery times below do not include production time.",
     "Tracking updates may take 2-5 business days to appear after the carrier receives your package."
    ],
    "https://gritfell.com/policies/refund-policy": [
+    "Free Ground Shipping on Order $75+ Refund policy If you have any issues with your order, please contact our Customer Support team at support@gritfell.com to start a request.",
     "For additional information regarding returns, exchanges, and refunds, please review the policy below.",
     "Return We accept returns for both defective and non-defective products.",
-    "Exchanges (if applicable) Items are only eligible for exchange if they are defective, damaged, or incorrect due to our error.",
-    "If you need an exchange for the same item, please contact us at support@gritfell.com and include: Clear photos of the item received Photos showing the issue or defect The shipping label The QR code if available We do not offer exchanges or returns for incorrect size selection made by the customer.",
-    "Depending on your location, the delivery time for exchanged items may vary."
+    "You may request a return or refund within 60 days of delivery.",
+    "Returned items must be unused, unwashed, and in their original condition, including the original packaging if applicable.",
+    "Items that are washed, worn, damaged, or missing original packaging will not be eligible for a refund or replacement and may be forfeited.",
+    "For requests involving refunds, returns, or reshipments, we reserve the right to approve or reject requests if they are determined to be unjustified.",
+    "Please note that refunds or replacements will not be issued for issues that are not caused by our error."
    ]
   },
   "Duck Camp": {
    "https://duckcamp.com/policies/refund-policy": [
     "If 30 days have gone by since your purchase, unfortunately we can’t offer you a refund or exchange.",
-    "Exchanges We only replace items if they are defective or damaged.",
-    "If you need to exchange it for the same item, send us an email at fetchitup@duckcamp.com and once approved send your item to: 505 E Saint Elmo Road, Building B Austin, TX 78745.",
-    "Gifts If the item was marked as a gift when purchased and shipped directly to you, you can exchange it for a different size.",
-    "Depending on where you live, the time it may take for your exchanged product to reach you, may vary.",
-    "E-mail Sign Up Shop New Arrivals Mens Womens Accessories Gift Cards Retail The Austin Shop The Houston Shop Retail Locator Become a Retailer Help & Services Contact Us Returns & Exchanges Duck Camp Sporting Club Pro Program Group Sales Careers Call Us 737-270-7665 Write Us help@duckcamp.com © 2026 - Duck Camp."
+    "To be eligible for a return, your item must be unused and in the same condition that you received it.",
+    "To complete your return, we require a receipt or proof of purchase.",
+    "We will also notify you of the approval or rejection of your refund.",
+    "If you are approved, then your refund will be processed, and a credit will automatically be applied to your credit card or original method of payment, within a certain amount of days.",
+    "Late or missing refunds If you haven’t received a refund yet, first check your bank account again.",
+    "Then contact your credit card company, it may take some time before your refund is officially posted.",
+    "There is often some processing time before a refund is posted."
    ]
   },
   "Hunthide": {
-   "https://hunthide.com/pages/shipping-policy": [
+   "https://hunthide.com/policies/shipping-policy": [
     "Please allow 3–5 business days to process and prepare your order before it ships.",
+    "During holidays or peak seasons, processing may take slightly longer.",
     "Estimated Delivery Time (from order date) United States : 10–15 business days.",
     "United Kingdom : 10–15 business days.",
-    "Canada &amp; Australia : 10–15 business days.",
-    "Rest of the World : 15–20 business days."
+    "Canada Australia : 10–15 business days.",
+    "Rest of the World : 15–20 business days.",
+    "Free shipping on US orders over $100 .",
+    "Delivery times are estimates and may vary due to carrier delays, customs, or factors beyond our control."
    ]
   },
   "Huntdad": {
    "https://huntdad.com/policies/shipping-policy": [
+    "Shipping policy &ndash; HuntDad Skip to content storefront Wishing you a Merry Christmas filled with joy and warmth!",
+    "DEER HUNTING DEER HUNTING Shopping Cart You're $199 away from Free Shipping!",
+    "&nbsp local_shipping Free Ship Loading...",
+    "Subtotal $0.00 Update Check out Amazon American Express Apple Pay Bancontact Diners Club Discover Google Pay iDEAL Wero Mastercard PayPal Shop Pay Visa Shipping policy Shipping and delivery 1.",
     "Processing Time Orders are processed within 3– 4 business days before shipment.",
-    "Flat rates apply: United States Economy (4–6 business days): $6.99 Estimated Delivery Time = Processing + Shipping Example: A U.S.",
-    "Economy order may take 7–10 business days total.",
-    "Contact Info HuntDad US Address: 117 S Lexington Street STE 100, Harrisonville, MO 64701 USA -------------------------- Email: support@huntdad.com Customer Care About Us Track Order Contact Us FAQs Policy Contact Information Privacy Policy Returns & Exchanges Terms of service Shipping Policy Subscribe to our emails Join our email list for exclusive offers and the latest news."
+    "During peak seasons or holidays, processing may take slightly longer.",
+    "Shipping Methods and Rates We currently ship within the United States only.",
+    "Flat rates apply: United States Economy (4–6 business days): $6.99 Estimated Delivery Time = Processing + Shipping Example: A U.S."
    ]
   }
  },
