@@ -32,7 +32,7 @@ import json, ssl, sys, os, time, gzip, re
 import urllib.request, urllib.error
 from datetime import datetime, timezone, timedelta
 
-VERSION = "1.0"
+VERSION = "1.1"
 TZ = timezone(timedelta(hours=7))          # gio may (Bangkok/Hanoi)
 TIMEOUT = 15
 
@@ -108,6 +108,10 @@ def classify(e):
         if "Tunnel" in s or "proxy" in s.lower():
             return "PROXY", "bi proxy/VPN chan"
         return "URLERR", s[:60]
+    if isinstance(e, RuntimeError):
+        # Loi "lay duoc nhung rong" — khac han loi mang. Tach ma rieng de nguoi
+        # doc bang khong tuong la su co ket noi.
+        return "0-DULIEU", str(e)[:60]
     return type(e).__name__.upper()[:12], str(e)[:60]
 
 
@@ -133,6 +137,11 @@ def fetch(url, hdrs=None, tries=2, pause=4):
 def get_feed(url):
     d = json.loads(fetch(url))
     prods = d.get("products") or []
+    # 0 san pham KHONG duoc coi la OK. Duong dan collection sai van tra HTTP 200
+    # voi products: [] -> neu im lang thi bao cao se noi "shop nay khong ban gi",
+    # dung y luat SOURCE_FAILURE_NOT_ABSENCE.
+    if not prods:
+        raise RuntimeError("0 san pham — kiem lai URL (collection sai?)")
     out = []
     for p in prods:
         v = (p.get("variants") or [{}])[0]
@@ -395,6 +404,23 @@ def run_live(cfg, now):
                     row(label, code, why)
                 time.sleep(0.4)
 
+    extras = cfg.get("extras") or {}
+    if extras:
+        rule()
+        res["extras"] = {}
+        for name, url in extras.items():
+            try:
+                res["extras"][name] = json.loads(fetch(url))
+                n = sum(len(v) for v in res["extras"][name].values()
+                        if isinstance(v, list)) or "?"
+                row(name, "OK", "%s muc" % n)
+            except Exception as e:
+                code, why = classify(e)
+                res["errors"].append({"kind": "extra", "name": name, "url": url,
+                                      "code": code, "err": why or str(e)[:120]})
+                row(name, code, why)
+            time.sleep(0.4)
+
     out = os.path.join(ROOT, cfg["out_live"])
     with open(out, "w", encoding="utf-8") as f:
         json.dump(res, f, ensure_ascii=False, indent=1)
@@ -506,6 +532,9 @@ HINTS = {
                  "  dang ky app o reddit.com/prefs/apps roi setx 2 bien moi truong."),
     "NO-CHANNEL": "Kenh YouTube doi handle. Mo youtube.com/@<handle> kiem roi sua config.",
     "HTTP 404": "Duong dan sai hoac shop da doi. Kiem lai trong file cau hinh.",
+    "0-DULIEU": ("Tai duoc trang nhung khong co du lieu. Thuong la duong dan\n"
+                 "  collection sai (vd /collections/polos khong ton tai nua) hoac sub Reddit\n"
+                 "  tuan nay khong co bai. Mo URL do tren trinh duyet kiem roi sua config."),
 }
 
 

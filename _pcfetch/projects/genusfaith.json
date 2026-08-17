@@ -1,0 +1,41 @@
+{
+  "project": "genusfaith",
+  "out_live": "genusfaith-live-fetch.json",
+  "out_social": "genusfaith-social-fetch.json",
+
+  "_nguon_domain": "Lay tu genusfaith-local-fetch/genusfaith_fetch.py dang chay tren may — KHONG phai tu tri nho. Shop cua minh limit=250 de dem SKU chinh xac; doi thu limit=5.",
+
+  "feeds": {
+    "GenusFaith":         "https://genusfaith.com/products.json?limit=250",
+    "Feratia":            "https://feratia.com/products.json?limit=5",
+    "Blessac":            "https://blessac.com/products.json?limit=5",
+    "Afroyla":            "https://afroyla.com/products.json?limit=5",
+    "West Coast Catholic":"https://westcoastcatholic.co/products.json?limit=5",
+    "Venxara":            "https://venxara.com/products.json?limit=5",
+    "Catholight (leather)":"https://catholight.com/collections/ready-to-ship-leather-bag/products.json?limit=5"
+  },
+
+  "policies": {
+    "GenusFaith": ["https://genusfaith.com/policies/shipping-policy",
+                   "https://genusfaith.com/policies/refund-policy"]
+  },
+
+  "extras": {
+    "GenusFaith collections": "https://genusfaith.com/collections.json?limit=250"
+  },
+
+  "_ghi_chu_social": "CHI dien nhung sub/kenh da MO TRINH DUYET kiem la co that. Bai hoc 17/08: r/Hunting_Gear duoc dien theo tri nho -> HTTP 404. Suggest va Trends khong co rui ro ten nen bat san.",
+
+  "social": {
+    "enabled": true,
+    "trends_geo": "US",
+    "subs": { "faith": ["Catholicism"] },
+    "youtube": [],
+    "suggest_seeds": [
+      "catholic gift for", "rosary bracelet", "christian gift for her",
+      "confirmation gift", "baptism gift", "catholic home decor",
+      "saint medal necklace", "first communion gift", "catholic wedding gift",
+      "christian tote bag", "faith based jewelry", "catholic leather bag"
+    ]
+  }
+}
