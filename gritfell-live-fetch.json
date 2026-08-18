@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-18",
- "fetched_at": "2026-08-18T04:30:03.336878+07:00",
+ "date": "2026-08-19",
+ "fetched_at": "2026-08-19T04:30:04.201528+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 97,
@@ -1089,81 +1089,89 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Redfish Tail SS T-Shirt",
-     "handle": "redfish-tail-short-sleeve-t-shirt-moonstone-sale",
-     "type": "MENS T-SHIRTS",
+     "title": "Daffy Trucker Hat",
+     "handle": "daffy-trucker-hat-khaki-copahee-camo-sale",
+     "type": "MENS HEADWEAR",
      "tags": [
+      "6-Panel",
+      "Accessories",
+      "camo",
+      "FA22",
       "Final Sale",
       "FINALSALE",
-      "T-Shirts",
-      "TOPS"
-     ],
-     "price": "12.99",
-     "published_at": "2026-07-30T16:40:26-07:00"
-    },
-    {
-     "title": "Pheasant T-Shirt",
-     "handle": "pheasant-ss-t-shirts-black-sale",
-     "type": "MENS T-SHIRTS",
-     "tags": [
-      "FALL24",
-      "Final Sale",
-      "FINALSALE",
+      "group",
+      "Headwear",
+      "LABEL CHECK",
+      "Mallard Camo",
       "MENS",
-      "T-Shirts",
-      "TOPS"
+      "RGroup_MWC1022"
      ],
      "price": "14.99",
-     "published_at": "2026-07-30T16:39:47-07:00"
+     "published_at": "2026-08-18T11:42:15-07:00"
     },
     {
-     "title": "Pheasant T-Shirt",
-     "handle": "pheasant-t-shirt-tobacco-sale",
+     "title": "After Hours LS T-Shirt",
+     "handle": "after-hours-ls-t-shirts-light-blue",
      "type": "MENS T-SHIRTS",
-     "tags": [
-      "FALL24",
-      "Final Sale",
-      "FINALSALE",
-      "MENS",
-      "T-Shirts",
-      "TOPS"
-     ],
-     "price": "14.99",
-     "published_at": "2026-07-30T16:39:10-07:00"
-    },
-    {
-     "title": "Lobeco Shirt",
-     "handle": "lobeco-ls-wovens-stone-mallard-camo-sale",
-     "type": "MENS WOVENS",
      "tags": [
       "BFCM25",
-      "CLOTHING",
+      "FALL24",
       "Final Sale",
       "FINALSALE",
-      "Long Sleeve Shirt",
-      "Longsleeve Shirt",
-      "mallardcamo",
+      "LABEL CHECK",
       "MENS",
-      "RGroup_MWK2041",
-      "TOPS",
-      "Wovens"
+      "Slowcountry",
+      "T-Shirts",
+      "TOPS"
      ],
-     "price": "39.99",
-     "published_at": "2026-07-30T16:38:05-07:00"
+     "price": "14.99",
+     "published_at": "2026-08-18T11:27:53-07:00"
     },
     {
-     "title": "Retro Redfish SS T-Shirt",
-     "handle": "retro-redfish-short-sleeve-t-shirt-moonstone-sale",
+     "title": "After Hours LS T-Shirt",
+     "handle": "after-hours-ls-t-shirt-rust",
      "type": "MENS T-SHIRTS",
      "tags": [
+      "BFCM25",
+      "FALL24",
       "Final Sale",
       "FINALSALE",
-      "RGroup_MWT3030",
+      "LABEL CHECK",
+      "MENS",
+      "Slowcountry",
+      "T-Shirts",
+      "TOPS"
+     ],
+     "price": "14.99",
+     "published_at": "2026-08-18T11:25:23-07:00"
+    },
+    {
+     "title": "Redfish Tail SS T-Shirt",
+     "handle": "redfish-tail-ss-t-shirt-sale",
+     "type": "MENS T-SHIRTS",
+     "tags": [
+      "_label_Final Sale",
+      "CLOTHING",
+      "FALL20",
+      "Final Sale",
+      "FINALSALE",
+      "PROBLEND",
       "T-Shirts",
       "TOPS"
      ],
      "price": "12.99",
-     "published_at": "2026-07-30T16:23:55-07:00"
+     "published_at": "2026-08-18T10:25:20-07:00"
+    },
+    {
+     "title": "Good Times Tech Hat",
+     "handle": "good-times-surf-performance-hat",
+     "type": "PROMO",
+     "tags": [
+      "GOLDEN HOUR",
+      "remove-klevu"
+     ],
+     "price": "39.00",
+     "published_at": "2026-08-18T09:42:17-07:00"
     }
    ]
   },
@@ -1307,6 +1315,33 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "JigPro Jigging Gloves",
+     "handle": "slow-pitch-jigging-pro-gloves-sale",
+     "type": "MENS GLOVES",
+     "tags": [
+      "__tab2:glove-sizing",
+      "bluefin",
+      "FALL20",
+      "FALL24",
+      "filter::color:Blue",
+      "filter::size:2X",
+      "filter::size:L",
+      "filter::size:M",
+      "filter::size:S",
+      "filter::size:XL",
+      "fishing-gloves",
+      "GIFTGUIDE",
+      "ICAST",
+      "LABEL CHECK",
+      "Mens",
+      "mens-how-to-measure",
+      "SALE",
+      "slow-pitch-jigging-3-tips"
+     ],
+     "price": "29.99",
+     "published_at": "2026-08-18T13:47:04-07:00"
+    },
+    {
      "title": "Guide Sayings Trucker Hat",
      "handle": "call-in-sick-go-fishing-trucker-hat",
      "type": "MENS HATS",
@@ -1397,39 +1432,51 @@
      ],
      "price": "70.00",
      "published_at": "2026-08-12T13:13:40-07:00"
-    },
-    {
-     "title": "CCA Ocean Bound Hooded Performance Shirt",
-     "handle": "cca-ocean-bound-performance-fishing-hoodie",
-     "type": "MENS PERFORMANCE",
-     "tags": [
-      "__tab2:tops-mens-size-chart",
-      "CCA",
-      "CCADONATION",
-      "CCADONATIONS",
-      "filter::size:2X",
-      "filter::size:L",
-      "filter::size:M",
-      "filter::size:S",
-      "filter::size:XL",
-      "fishing-clothing",
-      "fit-guide-mens-performance",
-      "mens-how-to-measure",
-      "NEW",
-      "NEW-TAG",
-      "Performance Knit",
-      "performance shirts",
-      "PERFORMANCE-FIT",
-      "performance-shirts-with-uv-protection"
-     ],
-     "price": "65.00",
-     "published_at": "2026-08-12T13:12:52-07:00"
     }
    ]
   },
   "Drake Waterfowl": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Leather Checkbook Wallet",
+     "handle": "leather-checkbook-wallet",
+     "type": "Accessories",
+     "tags": [
+      "- under $75",
+      "accessories",
+      "AW25 Catalog",
+      "AW26 Catalog",
+      "dads_grads",
+      "Father's Day Guide 22",
+      "fathers day_23",
+      "fathersday",
+      "fathersday_24",
+      "fathersday_25",
+      "gift -guide",
+      "gifts - $75 and under",
+      "grad_gift",
+      "Leather-Classics",
+      "lifestyle",
+      "lifestyle_accessories",
+      "logo-products",
+      "logo_accessories",
+      "MEN",
+      "Men WF Logo Items",
+      "Men-Casual-Logo-Items",
+      "mens",
+      "r10",
+      "SS26 Catalog",
+      "stocking stuffers",
+      "stocking stuffers - logo",
+      "stocking stuffers 21",
+      "wallets",
+      "waterfowl_logo_wear",
+      "youth"
+     ],
+     "price": "64.99",
+     "published_at": "2026-08-18T13:08:47-05:00"
+    },
     {
      "title": "Ol' Tom Turkey Tote",
      "handle": "turkey-tote",
@@ -1489,26 +1536,59 @@
      ],
      "price": "39.99",
      "published_at": "2026-08-17T08:37:17-05:00"
-    },
-    {
-     "title": "Non-Typical x Lost Hat Ea5y-R Trucker Rope Cap",
-     "handle": "non-typical-x-lost-hat-ea5y-r-trucker-rope-cap",
-     "type": "Headwear",
-     "tags": [
-      "AW26 Catalog",
-      "AW26_NEW",
-      "logowear",
-      "master_list_new_arrivals_26",
-      "new"
-     ],
-     "price": "34.99",
-     "published_at": "2026-08-17T08:35:24-05:00"
     }
    ]
   },
   "Free Fly": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Men's Bamboo Shade Long Sleeve - Heather Aspen Grey",
+     "handle": "mens-bamboo-shade-long-sleeve-heather-aspen-grey",
+     "type": "Men's",
+     "tags": [
+      "bpp",
+      "care::bamboo",
+      "collection::men",
+      "Color",
+      "excMWLS",
+      "jan17",
+      "listo-new-pdp",
+      "men-bamboo-shade",
+      "pdp_group: men-bamboo-shade",
+      "priority-product",
+      "product_style: Mens Bamboo Shade Long Sleeve",
+      "R-SP24M",
+      "rating:50 UPF",
+      "Shade",
+      "shipandsave",
+      "tag::men"
+     ],
+     "price": "68.00",
+     "published_at": "2026-08-18T16:58:32-04:00"
+    },
+    {
+     "title": "Men's Breeze Pant - Storm Cloud",
+     "handle": "mens-breeze-pant-storm-cloud",
+     "type": "Men's",
+     "tags": [
+      "breeze",
+      "care::bamboo",
+      "collection::men",
+      "Color",
+      "excMBZP",
+      "flag::Bestseller",
+      "listo-new-pdp",
+      "LTV - Paid Social",
+      "LTV - Paid Social - Breeze",
+      "men-breeze-short",
+      "pdp_group: men-breeze-pant",
+      "priority-product",
+      "product_style: Mens Breeze Pant"
+     ],
+     "price": "98.00",
+     "published_at": "2026-08-18T10:39:29-04:00"
+    },
     {
      "title": "Youth Bamboo Shade Hoodie - Vintage Camo",
      "handle": "youth-bamboo-shade-hoodie-vintage-camo-2",
@@ -1553,35 +1633,107 @@
      ],
      "price": "94.00",
      "published_at": "2026-08-17T10:00:38-04:00"
-    },
-    {
-     "title": "Reverb Packable Trucker Hat - Pacific Blue",
-     "handle": "reverb-packable-trucker-hat-pacific-blue",
-     "type": "Hats",
-     "tags": [
-      "product_style: Reverb Packable Trucker Hat",
-      "SP26"
-     ],
-     "price": "34.00",
-     "published_at": "2026-08-17T10:00:36-04:00"
-    },
-    {
-     "title": "Dive Bomb Pocket Tee - Ocean Mist",
-     "handle": "dive-bomb-pocket-tee-ocean-mist",
-     "type": "Men's",
-     "tags": [
-      "flag::Just Landed",
-      "product_style: Dive Bomb Pocket Tee",
-      "SP26"
-     ],
-     "price": "38.00",
-     "published_at": "2026-08-17T10:00:36-04:00"
     }
    ]
   },
   "BURLEBO": {
-   "count_returned": 4,
+   "count_returned": 5,
    "products": [
+    {
+     "title": "Youth Performance Hoodie - Drifter Camo",
+     "handle": "youth-performance-hoodie-drifter-camo",
+     "type": "Youth Performance Hoodie",
+     "tags": [
+      "8/18/26",
+      "B2B_Active",
+      "B2B_Sync",
+      "BlinkAutoHide",
+      "excludeblink",
+      "FA26 Missing image",
+      "Fall 26",
+      "Fall26",
+      "Long Sleeve",
+      "Mia Review",
+      "missinglifestyle",
+      "Performance Hoodie",
+      "PREBOOK START: 06/01/2026",
+      "retail",
+      "Season Fall26",
+      "Tops",
+      "wholesale",
+      "Youth"
+     ],
+     "price": "46.00",
+     "published_at": "2026-08-18T07:18:30-05:00"
+    },
+    {
+     "title": "Youth Athletic Short - Drifter Camo",
+     "handle": "youth-athletic-short-drifter-camo",
+     "type": "Youth Bottoms",
+     "tags": [
+      "8/18/26",
+      "B2B_Active",
+      "B2B_Sync",
+      "BlinkAutoHide",
+      "Bottoms",
+      "excludeblink",
+      "FA26 Missing image",
+      "Fall 26",
+      "Fall26",
+      "Mia Review",
+      "PREBOOK START: 06/01/2026",
+      "retail",
+      "Season Fall26",
+      "wholesale",
+      "Youth"
+     ],
+     "price": "46.00",
+     "published_at": "2026-08-18T07:18:30-05:00"
+    },
+    {
+     "title": "Performance Hoodie - Drifter Camo",
+     "handle": "performance-hoodie-drifter-camo",
+     "type": "Performance Hoodie",
+     "tags": [
+      "8/18/26",
+      "B2B_Active",
+      "B2B_Sync",
+      "Fall 26",
+      "Fall26",
+      "Mia Review",
+      "Performance Hoodie",
+      "PREBOOK START: 06/01/2026",
+      "retail",
+      "Season Fall26",
+      "Tops",
+      "wholesale"
+     ],
+     "price": "68.00",
+     "published_at": "2026-08-18T07:18:30-05:00"
+    },
+    {
+     "title": "Athletic Short - Drifter Camo",
+     "handle": "athletic-short-drifter-camo",
+     "type": "Athletic Shorts",
+     "tags": [
+      "8/18/26",
+      "Athletic Shorts",
+      "B2B_Active",
+      "B2B_Sync",
+      "BlinkAutoHide",
+      "Bottoms",
+      "Fall 26",
+      "Fall26",
+      "Mia Review",
+      "missinglifestyle",
+      "PREBOOK START: 06/01/2026",
+      "retail",
+      "Season Fall26",
+      "wholesale"
+     ],
+     "price": "58.00",
+     "published_at": "2026-08-18T07:18:30-05:00"
+    },
     {
      "title": "Youth Short Sleeve Tee - Flying B Deer Camo Logo - Heather Black",
      "handle": "youth-tee-deer-camo-sig-logo-ss-heather-black",
@@ -1598,65 +1750,6 @@
      ],
      "price": "26.00",
      "published_at": "2026-08-17T11:22:19-05:00"
-    },
-    {
-     "title": "Father and Son Bundle - Performance Hoodie - Mallard Mayhem Camo",
-     "handle": "father-and-son-bundle-performance-hoodie-mallard-mayhem-camo",
-     "type": "Bundle",
-     "tags": [
-      "8/4/26"
-     ],
-     "price": "108.00",
-     "published_at": "2026-08-14T07:59:42-05:00"
-    },
-    {
-     "title": "Vintage Washed Shorts - Drifter Camo",
-     "handle": "vintage-washed-shorts-drifter-camo",
-     "type": "Vintage Washed Shorts",
-     "tags": [
-      "8/13/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "Bottoms",
-      "Fall 26",
-      "Fall26",
-      "missinglifestyle",
-      "PREBOOK START: 07/15/2026",
-      "retail",
-      "Season Fall26",
-      "Shorts",
-      "Vintage Washed 26",
-      "Vintage Washed Shorts",
-      "wholesale"
-     ],
-     "price": "49.00",
-     "published_at": "2026-08-13T11:40:42-05:00"
-    },
-    {
-     "title": "Vintage Washed Shorts - Classic Deer Camo",
-     "handle": "vintage-washed-shorts-classic-deer-camo",
-     "type": "Vintage Washed Shorts",
-     "tags": [
-      "8/13/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "Bottoms",
-      "Fall 26",
-      "Fall26",
-      "Mia Review",
-      "missinglifestyle",
-      "PREBOOK START: 07/15/2026",
-      "retail",
-      "Season Fall26",
-      "Shorts",
-      "Vintage Washed 26",
-      "Vintage Washed Shorts",
-      "wholesale"
-     ],
-     "price": "49.00",
-     "published_at": "2026-08-13T11:40:42-05:00"
     }
    ]
   },
@@ -1676,7 +1769,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2660000",
+     "price": "2657000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -1689,7 +1782,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5320000",
+     "price": "5314000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -1701,7 +1794,7 @@
       "printful",
       "wsc"
      ],
-     "price": "931000",
+     "price": "930000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -1713,7 +1806,7 @@
       "printful",
       "wsc"
      ],
-     "price": "931000",
+     "price": "930000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -1724,7 +1817,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1596000",
+     "price": "1594000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -1732,6 +1825,30 @@
   "Hunthide": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Mallard Duck Hoodie – All-Over Mallard Head Print Unisex Pullover, Subtle Duck Hunting Gift",
+     "handle": "mallard-duck-hoodie-all-over-mallard-head-print-unisex-pullover-subtle-duck-hunting-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-08-18T01:49:19-07:00"
+    },
+    {
+     "title": "Wild Boar Hunting Camo Hoodie – All-Over Brush Break-Up Hog Camo Unisex Pullover, Gift for Hog Hunters",
+     "handle": "wild-boar-hunting-camo-hoodie-all-over-brush-break-up-hog-camo-unisex-pullover-gift-for-hog-hunters",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-08-18T01:25:30-07:00"
+    },
+    {
+     "title": "Dove Hunting Camo Hoodie – All-Over Mourning Dove Field Camo Unisex Pullover, Gift for Dove Hunters",
+     "handle": "dove-hunting-camo-hoodie-all-over-mourning-dove-field-camo-unisex-pullover-gift-for-dove-hunters",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-08-18T01:23:44-07:00"
+    },
     {
      "title": "Pheasant Hunting Camo Hoodie for Men – All-Over Ring-Necked Field Camo Pullover, Gift for Upland Bird Hunters",
      "handle": "pheasant-hunting-camo-hoodie-for-men-all-over-ring-necked-field-camo-pullover-gift-for-upland-bird-hunters",
@@ -1747,30 +1864,6 @@
      "tags": [],
      "price": "69.95",
      "published_at": "2026-08-12T01:33:14-07:00"
-    },
-    {
-     "title": "Whitetail Snow Camo Hunting Hoodie - Fleece-Lined Pullover",
-     "handle": "whitetail-snow-camo-hunting-hoodie-fleece-lined-pullover",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-08-12T00:51:34-07:00"
-    },
-    {
-     "title": "Mallard Duck Camo Hunting Hoodie - Fleece-Lined Pullover",
-     "handle": "mallard-duck-camo-hunting-hoodie-fleece-lined-pullover",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-08-11T01:41:10-07:00"
-    },
-    {
-     "title": "Mourning Dove Camo Hunting Hoodie – Fleece-Lined Pullover",
-     "handle": "mourning-dove-camo-hunting-hoodie-fleece-lined-pullover",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-08-09T19:45:13-07:00"
     }
    ]
   },
