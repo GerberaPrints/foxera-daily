@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-19",
- "fetched_at": "2026-08-19T04:30:04.201528+07:00",
+ "date": "2026-08-20",
+ "fetched_at": "2026-08-20T04:30:02.436685+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 97,
@@ -1089,89 +1089,98 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Daffy Trucker Hat",
-     "handle": "daffy-trucker-hat-khaki-copahee-camo-sale",
-     "type": "MENS HEADWEAR",
+     "title": "Youth Fireside Fleece Pants 2.0",
+     "handle": "youth-fireside-fleece-sweatpants-2-coriander",
+     "type": "YOUTH PANTS",
      "tags": [
-      "6-Panel",
-      "Accessories",
-      "camo",
-      "FA22",
-      "Final Sale",
-      "FINALSALE",
-      "group",
-      "Headwear",
+      "Bottoms",
+      "FA25",
+      "Fleece",
       "LABEL CHECK",
-      "Mallard Camo",
-      "MENS",
-      "RGroup_MWC1022"
+      "pants",
+      "YOUTH"
      ],
-     "price": "14.99",
-     "published_at": "2026-08-18T11:42:15-07:00"
+     "price": "49.00",
+     "published_at": "2026-08-19T10:33:59-07:00"
     },
     {
-     "title": "After Hours LS T-Shirt",
-     "handle": "after-hours-ls-t-shirts-light-blue",
-     "type": "MENS T-SHIRTS",
+     "title": "Youth Fireside Fleece Pants 2.0",
+     "handle": "youth-fireside-fleece-sweatpants-2-green-mallard-camo",
+     "type": "YOUTH PANTS",
      "tags": [
-      "BFCM25",
-      "FALL24",
-      "Final Sale",
-      "FINALSALE",
+      "Bottoms",
+      "FA25",
+      "Fleece",
       "LABEL CHECK",
-      "MENS",
-      "Slowcountry",
-      "T-Shirts",
-      "TOPS"
+      "mallardcamo",
+      "YOUTH"
      ],
-     "price": "14.99",
-     "published_at": "2026-08-18T11:27:53-07:00"
+     "price": "49.00",
+     "published_at": "2026-08-19T10:33:26-07:00"
     },
     {
-     "title": "After Hours LS T-Shirt",
-     "handle": "after-hours-ls-t-shirt-rust",
-     "type": "MENS T-SHIRTS",
+     "title": "Fireside Sweatshorts",
+     "handle": "fireside-camping-sweatshorts-raven",
+     "type": "MENS SHORTS",
      "tags": [
-      "BFCM25",
-      "FALL24",
-      "Final Sale",
-      "FINALSALE",
-      "LABEL CHECK",
-      "MENS",
-      "Slowcountry",
-      "T-Shirts",
-      "TOPS"
-     ],
-     "price": "14.99",
-     "published_at": "2026-08-18T11:25:23-07:00"
-    },
-    {
-     "title": "Redfish Tail SS T-Shirt",
-     "handle": "redfish-tail-ss-t-shirt-sale",
-     "type": "MENS T-SHIRTS",
-     "tags": [
-      "_label_Final Sale",
+      "Bottoms",
       "CLOTHING",
-      "FALL20",
-      "Final Sale",
-      "FINALSALE",
-      "PROBLEND",
-      "T-Shirts",
-      "TOPS"
+      "F26 Drop 1",
+      "FA25",
+      "FA26",
+      "Fleece",
+      "mallardcamo",
+      "MENS",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "RGroup_MWS5015",
+      "shorts"
      ],
-     "price": "12.99",
-     "published_at": "2026-08-18T10:25:20-07:00"
+     "price": "59.00",
+     "published_at": "2026-08-19T06:55:50-07:00"
     },
     {
-     "title": "Good Times Tech Hat",
-     "handle": "good-times-surf-performance-hat",
-     "type": "PROMO",
+     "title": "Sullivan 1/4 Zip",
+     "handle": "sullivan-quarter-zip-fleece-pullover-buckthorn-brown",
+     "type": "MENS FLEECE",
      "tags": [
-      "GOLDEN HOUR",
-      "remove-klevu"
+      "F26 Drop 1",
+      "FA25",
+      "FA26",
+      "Fleece",
+      "Hoodies",
+      "MENS",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "Outerwear",
+      "RGroup_MWF1057",
+      "Tech Jacket",
+      "TOPS"
      ],
-     "price": "39.00",
-     "published_at": "2026-08-18T09:42:17-07:00"
+     "price": "69.00",
+     "published_at": "2026-08-18T15:44:06-07:00"
+    },
+    {
+     "title": "Youth Sullivan Tech Hoodie",
+     "handle": "youth-sullivan-tech-hoodie-bombay-brown",
+     "type": "YOUTH FLEECE",
+     "tags": [
+      "F26 Drop 1",
+      "FA25",
+      "FA26",
+      "Fleece",
+      "Hoodie",
+      "Hoodies",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "Outerwear",
+      "RGroup_BWF1004",
+      "Tech Jacket",
+      "TOPS",
+      "YOUTH"
+     ],
+     "price": "59.00",
+     "published_at": "2026-08-18T15:44:05-07:00"
     }
    ]
   },
@@ -1315,6 +1324,56 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Formula SS T-Shirt",
+     "handle": "formula-ss-fishing-t-shirts-sale",
+     "type": "MENS T-SHIRTS",
+     "tags": [
+      "__tab2:tops-mens-size-chart",
+      "FINAL SALE",
+      "FINALSALE",
+      "mens",
+      "mens-short-sleeve-t-shirts",
+      "mens-t-shirts",
+      "PERFORMANCE-FIT",
+      "sandbar",
+      "SP25",
+      "T-Shirts"
+     ],
+     "price": "12.99",
+     "published_at": "2026-08-18T14:47:02-07:00"
+    },
+    {
+     "title": "Teamwork SS T-Shirt",
+     "handle": "teamwork-short-sleeve-fishing-t-shirts-sale",
+     "type": "MENS T-SHIRTS",
+     "tags": [
+      "__tab2:tops-mens-size-chart",
+      "filter::size:2X",
+      "filter::size:L",
+      "filter::size:M",
+      "filter::size:S",
+      "filter::size:XL",
+      "filter::type:Short Sleeve T-Shirts",
+      "FINAL SALE",
+      "FINALSALE",
+      "LABEL CHECK",
+      "MENS",
+      "mens-fishing-short-sleeve-t-shirts",
+      "mens-fit-guide",
+      "mens-how-to-measure",
+      "mens-short-sleeve-t-shirts",
+      "mens-t-shirts",
+      "Recycled",
+      "REGULARFIT",
+      "sandbar",
+      "SHORT SLEEVE",
+      "SP24",
+      "T-Shirts"
+     ],
+     "price": "12.99",
+     "published_at": "2026-08-18T14:43:06-07:00"
+    },
+    {
      "title": "JigPro Jigging Gloves",
      "handle": "slow-pitch-jigging-pro-gloves-sale",
      "type": "MENS GLOVES",
@@ -1388,50 +1447,6 @@
      ],
      "price": "32.00",
      "published_at": "2026-08-12T14:41:47-07:00"
-    },
-    {
-     "title": "CCA Schoolie Backpack",
-     "handle": "cca-schoolie-backpack",
-     "type": "FISHING BACKPACKS",
-     "tags": [
-      "CCA",
-      "CCADONATION",
-      "CCADONATIONS",
-      "filter::type:Backpacks",
-      "Fishing Backpack",
-      "OVERSIZED",
-      "Tackle"
-     ],
-     "price": "75.00",
-     "published_at": "2026-08-12T13:15:13-07:00"
-    },
-    {
-     "title": "CCA Air-O Mesh SS Button Down Shirt",
-     "handle": "cca-air-o-mesh-button-down-fishing-shirt",
-     "type": "MENS PERFORMANCE",
-     "tags": [
-      "__tab2:tops-mens-size-chart",
-      "CCA",
-      "CCADONATION",
-      "CCADONATIONS",
-      "filter::size:2X",
-      "filter::size:L",
-      "filter::size:M",
-      "filter::size:S",
-      "filter::size:XL",
-      "filter::type:Short Sleeve Performance Shirts",
-      "fishing-clothing",
-      "fit-guide-mens-performance",
-      "mens-how-to-measure",
-      "NEW",
-      "NEW-TAG",
-      "performance shirts",
-      "PERFORMANCE-FIT",
-      "performance-shirts-with-uv-protection",
-      "Wovens"
-     ],
-     "price": "70.00",
-     "published_at": "2026-08-12T13:13:40-07:00"
     }
    ]
   },
@@ -1543,6 +1558,36 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Youth Blue Edge Trucker Hat - Deep Navy",
+     "handle": "youth-blue-edge-trucker-hat-deep-navy",
+     "type": "Hats",
+     "tags": [
+      "SP26"
+     ],
+     "price": "28.00",
+     "published_at": "2026-08-19T16:37:15-04:00"
+    },
+    {
+     "title": "Women's Bamboo-Lined Active Breeze Skort – 13\" - Sea Pine",
+     "handle": "womens-bamboo-lined-active-breeze-skort-13-sea-pine",
+     "type": "Women's",
+     "tags": [
+      "discounts::none",
+      "excWLABZ",
+      "final-sale",
+      "final_sale",
+      "flag::final sale",
+      "pdp_group: women-active-breeze-skort",
+      "Pro-Exclude-Discount",
+      "product_style: Womens Bamboo Lined Active Breeze Skort 13",
+      "returns::none",
+      "SP26",
+      "women-active-breeze"
+     ],
+     "price": "59.99",
+     "published_at": "2026-08-19T00:33:48-04:00"
+    },
+    {
      "title": "Men's Bamboo Shade Long Sleeve - Heather Aspen Grey",
      "handle": "mens-bamboo-shade-long-sleeve-heather-aspen-grey",
      "type": "Men's",
@@ -1603,35 +1648,6 @@
       "Shade"
      ],
      "price": "48.00",
-     "published_at": "2026-08-17T10:00:38-04:00"
-    },
-    {
-     "title": "Reverb Packable Trucker Hat - Woodland Camo",
-     "handle": "reverb-packable-trucker-hat-woodland-camo",
-     "type": "Hats",
-     "tags": [
-      "collection::men",
-      "collection::women",
-      "excRVBTR",
-      "product_style: Reverb Packable Trucker Hat",
-      "rosterhats",
-      "SP24"
-     ],
-     "price": "34.00",
-     "published_at": "2026-08-17T10:00:38-04:00"
-    },
-    {
-     "title": "Men's Bamboo Lightweight Fleece Crew - Black Sand",
-     "handle": "mens-bamboo-lightweight-fleece-crew-black-sand",
-     "type": "Men's",
-     "tags": [
-      "care::bamboo",
-      "collection::men",
-      "excMLWFLC",
-      "pdp_group: men-bamboo-fleece",
-      "product_style: Mens Bamboo Lightweight Fleece Crew"
-     ],
-     "price": "94.00",
      "published_at": "2026-08-17T10:00:38-04:00"
     }
    ]
@@ -1782,7 +1798,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5314000",
+     "price": "5315000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -1817,7 +1833,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1594000",
+     "price": "1595000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
