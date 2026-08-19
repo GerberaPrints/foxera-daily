@@ -2,7 +2,7 @@
  "schema_version": "1.1",
  "source": "pc-local (gerbera_fetch.py, Task Scheduler)",
  "date": "2026-08-19",
- "fetched_at": "2026-08-19T06:45:05.061548+07:00",
+ "fetched_at": "2026-08-19T13:12:01.980104+07:00",
  "locale_note": "US/USD (products.json shop default) — máy quét ở VN, giá feed theo market mặc định shop",
  "feeds": {
   "Bogey Bros": {
@@ -137,7 +137,8 @@
      "compare_at_max": 78.0,
      "variants_total": 5,
      "variants_unavailable": [
-      "30\""
+      "30\"",
+      "34\""
      ],
      "sold_out_level": "variant"
     },
@@ -441,17 +442,17 @@
    "sku_count": 250,
    "mode_price": 69.95,
    "price_distribution": {
-    "69.95": 774,
+    "69.95": 768,
     "59.46": 72,
     "74.95": 48,
     "64.95": 36,
-    "55.96": 24
+    "55.96": 18
    },
    "price_src": "core/collection products.json limit=250 (mode)"
   },
   "Bad Birdie": {
    "url": "https://badbirdiegolf.com/collections/polos/products.json?limit=250",
-   "sku_count": 68,
+   "sku_count": 69,
    "mode_price": 88.0,
    "price_distribution": {
     "88.00": 211,
@@ -504,7 +505,7 @@
    {
     "title": "Ball Markers",
     "handle": "funny-golf-ball-markers",
-    "updated_at": "2026-08-18T06:11:49-05:00",
+    "updated_at": "2026-08-19T00:53:07-05:00",
     "published_at": "2022-09-23T08:41:34-05:00",
     "products_count": 65
    },
@@ -616,7 +617,7 @@
    {
     "title": "Hats",
     "handle": "funny-golf-hats",
-    "updated_at": "2026-08-18T06:11:49-05:00",
+    "updated_at": "2026-08-19T00:17:09-05:00",
     "published_at": "2022-09-23T08:41:33-05:00",
     "products_count": 130
    },
@@ -721,7 +722,7 @@
    {
     "title": "Polo Shirts",
     "handle": "funny-golf-polo-shirts",
-    "updated_at": "2026-08-18T09:34:02-05:00",
+    "updated_at": "2026-08-19T00:17:07-05:00",
     "published_at": "2022-09-23T08:41:35-05:00",
     "products_count": 246
    },
@@ -763,7 +764,7 @@
    {
     "title": "SFW-ish Polos",
     "handle": "sfw-ish-polos",
-    "updated_at": "2026-08-18T09:34:02-05:00",
+    "updated_at": "2026-08-18T19:11:07-05:00",
     "published_at": "2024-05-30T18:18:25-05:00",
     "products_count": 98
    },
@@ -777,7 +778,7 @@
    {
     "title": "Shop All",
     "handle": "shop",
-    "updated_at": "2026-08-18T09:34:02-05:00",
+    "updated_at": "2026-08-18T23:23:09-05:00",
     "published_at": "2022-10-11T14:35:53-05:00",
     "products_count": 616
    },
@@ -1143,9 +1144,9 @@
    {
     "title": "Best Sellers",
     "handle": "best-sellers",
-    "updated_at": "2026-08-18T16:07:07-07:00",
+    "updated_at": "2026-08-18T21:09:06-07:00",
     "published_at": "2024-11-21T10:25:19-07:00",
-    "products_count": 158
+    "products_count": 159
    },
    {
     "title": "Bird's Nest Bad Saloon",
@@ -1528,9 +1529,9 @@
    {
     "title": "Golf Polos",
     "handle": "polos",
-    "updated_at": "2026-08-18T16:05:53-07:00",
+    "updated_at": "2026-08-18T18:08:51-07:00",
     "published_at": "2017-11-24T00:39:17-07:00",
-    "products_count": 111
+    "products_count": 112
    },
    {
     "title": "Golf Rain Gear",
@@ -1766,9 +1767,9 @@
    {
     "title": "Men's",
     "handle": "mens",
-    "updated_at": "2026-08-18T16:27:35-07:00",
+    "updated_at": "2026-08-18T23:06:19-07:00",
     "published_at": "2025-02-04T15:13:30-07:00",
-    "products_count": 938
+    "products_count": 939
    },
    {
     "title": "Men's Bad Tee's",
@@ -1780,9 +1781,9 @@
    {
     "title": "Men's Best Sellers",
     "handle": "mens-best-sellers",
-    "updated_at": "2026-08-18T16:07:07-07:00",
+    "updated_at": "2026-08-18T23:10:12-07:00",
     "published_at": "2024-11-21T13:29:50-07:00",
-    "products_count": 85
+    "products_count": 87
    },
    {
     "title": "Men's Best Selling Golf Polos",
@@ -1976,9 +1977,9 @@
    {
     "title": "Men's Top Sellers",
     "handle": "top-selling-golf-apparel-for-men",
-    "updated_at": "2026-08-18T16:07:06-07:00",
+    "updated_at": "2026-08-18T17:05:12-07:00",
     "published_at": "2024-11-14T10:42:18-07:00",
-    "products_count": 94
+    "products_count": 91
    },
    {
     "title": "Men's Tops",
@@ -2095,7 +2096,7 @@
    {
     "title": "On-Course Polos",
     "handle": "on-course-polos",
-    "updated_at": "2026-08-18T16:05:53-07:00",
+    "updated_at": "2026-08-18T17:10:13-07:00",
     "published_at": "2025-01-17T12:27:21-07:00",
     "products_count": 517
    },
@@ -4080,9 +4081,9 @@
    {
     "title": "Golf Gifts For Boyfriends",
     "handle": "gifts-for-boyfriend",
-    "updated_at": "2026-08-18T15:59:02-06:00",
+    "updated_at": "2026-08-18T18:36:00-06:00",
     "published_at": "2025-10-07T01:25:57-06:00",
-    "products_count": 191
+    "products_count": 190
    },
    {
     "title": "Golf Gifts For Brothers",
@@ -4115,16 +4116,16 @@
    {
     "title": "Golf Gifts For Him",
     "handle": "for-him",
-    "updated_at": "2026-08-18T15:59:31-06:00",
+    "updated_at": "2026-08-18T18:36:00-06:00",
     "published_at": "2025-03-18T09:29:13-06:00",
-    "products_count": 257
+    "products_count": 256
    },
    {
     "title": "Golf Gifts For Moms",
     "handle": "gifts-for-moms",
-    "updated_at": "2026-08-18T05:06:29-06:00",
+    "updated_at": "2026-08-18T18:36:00-06:00",
     "published_at": "2025-10-07T01:27:33-06:00",
-    "products_count": 75
+    "products_count": 74
    },
    {
     "title": "Golf Gifts Under $100",
@@ -4829,9 +4830,9 @@
    {
     "title": "Men's Golf Outerwear",
     "handle": "mens-outerwear",
-    "updated_at": "2026-08-18T05:06:24-06:00",
+    "updated_at": "2026-08-18T18:36:00-06:00",
     "published_at": "2022-08-03T09:49:22-06:00",
-    "products_count": 38
+    "products_count": 37
    },
    {
     "title": "Men's Golf Pants",
@@ -5279,7 +5280,7 @@
    {
     "title": "Holiday Collection",
     "handle": "holiday-collection",
-    "updated_at": "2026-08-18T07:10:19-04:00",
+    "updated_at": "2026-08-18T22:49:26-04:00",
     "published_at": "2025-12-03T10:13:11-05:00",
     "products_count": 6
    },
@@ -5300,7 +5301,7 @@
    {
     "title": "Markers",
     "handle": "ball-markers",
-    "updated_at": "2026-07-13T14:08:07-04:00",
+    "updated_at": "2026-08-18T22:49:26-04:00",
     "published_at": "2024-06-11T12:32:37-04:00",
     "products_count": 70
    },
@@ -5321,7 +5322,7 @@
    {
     "title": "NEW!",
     "handle": "new-arrivals",
-    "updated_at": "2026-08-18T07:10:19-04:00",
+    "updated_at": "2026-08-18T22:49:26-04:00",
     "published_at": "2024-10-22T11:03:44-04:00",
     "products_count": 186
    },
