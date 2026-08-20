@@ -1,8 +1,45 @@
 {
- "schema_version": "1.0",
- "checked_at": "2026-08-20T04:41:25.295373+07:00",
+ "schema_version": "1.1",
+ "checked_at": "2026-08-20T12:01:59.540394+07:00",
  "date": "2026-08-20",
  "projects": [
+  {
+   "project": "eracloset",
+   "status": "CHUA_MO",
+   "checks": [],
+   "healed": [],
+   "need_human": [],
+   "note": "store dang xay — bao 17/08, chua mo ban"
+  },
+  {
+   "project": "genusfaith",
+   "checks": [
+    "OK live-fetch = hom nay",
+    "GHI CHU: file do 'genusfaith_fetch.py' sinh, khong phai pcfetch.py",
+    "OK feed 7/7",
+    "FAIL social-fetch cu: 2026-08-17"
+   ],
+   "healed": [],
+   "need_human": [],
+   "status": "FAIL",
+   "feeds": "7/7",
+   "reddit": "1/1"
+  },
+  {
+   "project": "gerberaprints",
+   "checks": [
+    "FAIL live-fetch cu: 2026-08-17 (hom nay 2026-08-20) — TASK CHUA DUOC TAO",
+    "OK feed 10/10",
+    "FAIL social-fetch cu: 2026-08-17"
+   ],
+   "healed": [],
+   "need_human": [
+    "gerberaprints: du lieu dung o 2026-08-17 va logs/gerberaprints_log.txt chi co 1 ngay => task CHUA BAO GIO chay theo lich. TAO task: _pcfetch\\make_task.bat gerberaprints 04:45  (dung di tim Last Result, schtasks se bao task not exist)"
+   ],
+   "status": "FAIL",
+   "feeds": "10/10",
+   "reddit": "1/1"
+  },
   {
    "project": "gritfell",
    "checks": [
@@ -14,9 +51,31 @@
    "status": "OK",
    "feeds": "13/13",
    "reddit": "10/10"
+  },
+  {
+   "project": "kinloriva",
+   "status": "CHUA_MO",
+   "checks": [],
+   "healed": [],
+   "need_human": [],
+   "note": "store dang xay — bao 17/08, chua mo ban"
+  },
+  {
+   "project": "kinmireva",
+   "status": "CHUA_MO",
+   "checks": [],
+   "healed": [],
+   "need_human": [],
+   "note": "store dang xay — bao 17/08, chua mo ban"
   }
  ],
- "need_human": [],
- "overall": "OK",
- "chua_mo": []
+ "need_human": [
+  "gerberaprints: du lieu dung o 2026-08-17 va logs/gerberaprints_log.txt chi co 1 ngay => task CHUA BAO GIO chay theo lich. TAO task: _pcfetch\\make_task.bat gerberaprints 04:45  (dung di tim Last Result, schtasks se bao task not exist)"
+ ],
+ "overall": "NEED_HUMAN",
+ "chua_mo": [
+  "eracloset",
+  "kinloriva",
+  "kinmireva"
+ ]
 }

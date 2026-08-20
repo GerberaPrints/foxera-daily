@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-selfcheck.py — TU KIEM TRA va TU VA LOI cho _pcfetch.   v1.0 (17/08/2026)
+selfcheck.py — TU KIEM TRA va TU VA LOI cho _pcfetch.   v1.1 (20/08/2026)
 
     python _pcfetch\\selfcheck.py            (kiem het moi du an)
     python _pcfetch\\selfcheck.py gritfell   (chi mot du an)
@@ -35,6 +35,20 @@ TANG 3 — CAM TU SUA, PHAI BAO NGUOI
   Nhung thu nay ghi vao health.json muc "need_human". Tu doan o day = nguy hiem.
 ================================================================
 
+=========================== v1.1 — 20/08/2026 ===========================
+LOI DA SUA: health.json chi bao cao DU AN VUA CHAY, nen mot task KHONG CHAY
+thi vinh vien khong xuat hien trong projects[] — den xanh khong bao gio do
+duoc. Nguyen nhan o dong `python selfcheck.py %PROJ%` trong run_pc_fetch.bat:
+tham so %PROJ% loc danh sach xuong con 1. Ngay 20/08 health.json ghi
+overall=OK trong khi gerberaprints da dung 3 ngay va genusfaith social dung
+3 ngay — ca hai deu KHONG co trong projects[].
+
+CACH SUA (file nay):
+  · LUON quet TAT CA config trong projects/ de cham TRANG THAI
+  · Chi TU VA cho du an duoc goi ten (va can fetch mang, khong lam bua bai)
+  · Them phan biet "task CHUA BAO GIO duoc tao" vs "task da chay roi dung",
+    doc tu logs/<du_an>_log.txt — hai truong hop nay CACH SUA KHAC NHAU.
+
 Dau ra:  _pcfetch/health.json          (may doc)
          _pcfetch/logs/selfheal.log    (nguoi doc, chi ghi khi CO va)
 Ma thoat: 0 = khong co gi can nguoi · 1 = co viec can nguoi
@@ -42,7 +56,7 @@ Ma thoat: 0 = khong co gi can nguoi · 1 = co viec can nguoi
 import json, os, sys, re, time, shutil, difflib
 from datetime import datetime, timezone, timedelta
 
-VERSION = "1.0"
+VERSION = "1.1"
 TZ = timezone(timedelta(hours=7))
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -89,6 +103,32 @@ def heal_collection_slug(url):
             pass
         time.sleep(0.5)
     return None
+
+
+def task_evidence(project):
+    """Doc logs/<project>_log.txt de biet task nay da TUNG chay theo lich chua.
+
+    Phan biet hai chuyen rat khac nhau ma truoc day bi gop lam mot:
+      · CHUA_TAO   — log rong / chi 1-2 dong sat nhau  => task chua bao gio
+                     duoc dang ky. Chay `schtasks /Query` se tra "not exist",
+                     khong phai ma loi. Sua bang cach TAO task.
+      · DA_DUNG    — log co nhieu ngay khac nhau roi ngung => task co that
+                     nhung dang fail. Luc do moi di doc Last Result.
+    Tra ve (tinh_trang, so_ngay_rieng_biet, dong_cuoi).
+    """
+    lp = os.path.join(LOGDIR, project + "_log.txt")
+    if not os.path.exists(lp):
+        return ("CHUA_TAO", 0, None)
+    try:
+        lines = [l.strip() for l in open(lp, encoding="utf-8") if l.strip()]
+    except Exception:
+        return ("?", 0, None)
+    if not lines:
+        return ("CHUA_TAO", 0, None)
+    days = sorted({l[:10] for l in lines if len(l) >= 10})
+    last = lines[-1]
+    # chay theo lich thi phai de lai dau tren >= 2 NGAY khac nhau
+    return ("CHUA_TAO" if len(days) < 2 else "DA_DUNG", len(days), last)
 
 
 def backup(path):
@@ -143,9 +183,16 @@ def check_project(project, today, do_heal=True):
     # 1. File dau ra co ton tai va co PHAI CUA HOM NAY
     live = None
     if not os.path.exists(live_p):
-        fail("khong co %s" % os.path.basename(live_p),
-             "%s: chua bao gio sinh duoc file live-fetch. Chay thu tay: "
-             "_pcfetch\\run_pc_fetch.bat %s" % (project, project))
+        st, ndays, _ = task_evidence(project)
+        if st == "CHUA_TAO":
+            fail("khong co %s" % os.path.basename(live_p),
+                 "%s: chua bao gio sinh duoc file live-fetch VA log khong co dau "
+                 "chay theo lich => task nhieu kha nang CHUA DUOC TAO. "
+                 "Tao: _pcfetch\\make_task.bat %s 04:45" % (project, project))
+        else:
+            fail("khong co %s" % os.path.basename(live_p),
+                 "%s: task da tung chay (%d ngay) nhung mat file live-fetch. "
+                 "Chay thu tay: _pcfetch\\run_pc_fetch.bat %s" % (project, ndays, project))
     else:
         with open(live_p, encoding="utf-8") as f:
             live = json.load(f)
@@ -153,20 +200,50 @@ def check_project(project, today, do_heal=True):
         if d != today:
             # DAY LA LOI DA GIET GERBERA 5 NGAY MA KHONG AI BIET:
             # file van con do, van doc duoc, chi la CU. Phai bao that to.
-            fail("live-fetch cu: %s (hom nay %s)" % (d, today),
-                 "%s: du lieu dung o %s, task khong chay hoac chay fail. "
-                 "Kiem: schtasks /Query /TN \"FoxEra PC Fetch - %s\" /V /FO LIST "
-                 "| findstr \"Last Result\"" % (project, d, project))
+            st, ndays, lastline = task_evidence(project)
+            if st == "CHUA_TAO":
+                # 20/08: gerberaprints roi dung nhom nay. Log co DUNG 1 dong
+                # (17/08 = lan chay tay khi them config). Di doc Last Result la
+                # di sai huong — task chua ton tai thi lam gi co ket qua nao.
+                fail("live-fetch cu: %s (hom nay %s) — TASK CHUA DUOC TAO" % (d, today),
+                     "%s: du lieu dung o %s va logs/%s_log.txt chi co %d ngay => "
+                     "task CHUA BAO GIO chay theo lich. TAO task: "
+                     "_pcfetch\\make_task.bat %s 04:45  (dung di tim Last Result, "
+                     "schtasks se bao task not exist)" % (project, d, project, ndays, project))
+            else:
+                fail("live-fetch cu: %s (hom nay %s)" % (d, today),
+                     "%s: du lieu dung o %s, task CO THAT (%d ngay trong log) nhung "
+                     "dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - %s\" "
+                     "/V /FO LIST | findstr \"Last Result\"" % (project, d, ndays, project))
         else:
             rep["checks"].append("OK live-fetch = hom nay")
 
     # 2. Ty le feed lay duoc
     if live:
         nfeed = len(cfg.get("feeds") or {})
-        ok = len(live.get("feeds") or {})
+        # v1.1 — file live-fetch co the do SCRIPT KHAC sinh ra (vd
+        # genusfaith_fetch.py dung khoa "brands" thay vi "feeds"). Truoc day
+        # doc cung khoa "feeds" nen bao "0/7 feed — kiem mang/VPN" trong khi
+        # mang hoan toan binh thuong. Bao dong sai kieu do lam nguoi ta thoi
+        # tin bang canh bao, dung y lo lang trong docstring o tren.
+        ok = len(live.get("feeds") or live.get("brands") or {})
+        foreign = live.get("source") and "pcfetch" not in str(live.get("source"))
+        if foreign:
+            rep["checks"].append("GHI CHU: file do '%s' sinh, khong phai pcfetch.py"
+                                 % live.get("source"))
         rep["feeds"] = "%d/%d" % (ok, nfeed)
         if nfeed and ok == 0:
-            fail("0/%d feed" % nfeed, "%s: khong feed nao lay duoc — kiem mang/VPN" % project)
+            if foreign:
+                rep["checks"].append("CANH BAO khong doc duoc so feed (schema la cua "
+                                     "'%s')" % live.get("source"))
+                rep["need_human"].append(
+                    "%s: live-fetch hom nay do '%s' sinh chu khong phai _pcfetch => "
+                    "task dang chay PIPELINE CU. Hai duong ong cho cung mot du an. "
+                    "Tro task sang: _pcfetch\\run_pc_fetch.bat %s"
+                    % (project, live.get("source"), project))
+            else:
+                fail("0/%d feed" % nfeed,
+                     "%s: khong feed nao lay duoc — kiem mang/VPN" % project)
         elif nfeed and ok < nfeed:
             rep["checks"].append("CANH BAO feed %d/%d" % (ok, nfeed))
         else:
@@ -258,8 +335,12 @@ def main():
     today = datetime.now(TZ).strftime("%Y-%m-%d")
     projects = sorted(f[:-5] for f in os.listdir(PROJDIR)
                       if f.endswith(".json") and not f.startswith("_"))
-    if only:
-        projects = [p for p in projects if p == only] or [only]
+    # v1.1 — KHONG con loc danh sach theo tham so nua.
+    # Tham so chi con quyet dinh TU VA CHO AI (vi tu va phai goi mang),
+    # con TRANG THAI thi luon cham HET. Mot cong cu giam sat ma chi nhin
+    # cai vua chay thi khong bao gio phat hien duoc task mat tich.
+    if only and only not in projects:
+        projects = [only]
 
     print("=" * 64)
     print("SELFCHECK v%s — %s" % (VERSION, datetime.now(TZ).strftime("%d/%m/%Y %H:%M")))
@@ -270,7 +351,7 @@ def main():
     reps, need = [], []
     for p in projects:
         try:
-            r = check_project(p, today)
+            r = check_project(p, today, do_heal=(only is None or p == only))
         except FileNotFoundError:
             print("%-16s %-8s %s" % (p, "?", "khong co file cau hinh"))
             continue
