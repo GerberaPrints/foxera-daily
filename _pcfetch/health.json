@@ -1,6 +1,6 @@
 {
  "schema_version": "1.1",
- "checked_at": "2026-08-20T12:01:59.540394+07:00",
+ "checked_at": "2026-08-20T12:02:53.515839+07:00",
  "date": "2026-08-20",
  "projects": [
   {
@@ -28,15 +28,12 @@
   {
    "project": "gerberaprints",
    "checks": [
-    "FAIL live-fetch cu: 2026-08-17 (hom nay 2026-08-20) — TASK CHUA DUOC TAO",
-    "OK feed 10/10",
-    "FAIL social-fetch cu: 2026-08-17"
+    "OK live-fetch = hom nay",
+    "OK feed 10/10"
    ],
    "healed": [],
-   "need_human": [
-    "gerberaprints: du lieu dung o 2026-08-17 va logs/gerberaprints_log.txt chi co 1 ngay => task CHUA BAO GIO chay theo lich. TAO task: _pcfetch\\make_task.bat gerberaprints 04:45  (dung di tim Last Result, schtasks se bao task not exist)"
-   ],
-   "status": "FAIL",
+   "need_human": [],
+   "status": "OK",
    "feeds": "10/10",
    "reddit": "1/1"
   },
@@ -69,10 +66,8 @@
    "note": "store dang xay — bao 17/08, chua mo ban"
   }
  ],
- "need_human": [
-  "gerberaprints: du lieu dung o 2026-08-17 va logs/gerberaprints_log.txt chi co 1 ngay => task CHUA BAO GIO chay theo lich. TAO task: _pcfetch\\make_task.bat gerberaprints 04:45  (dung di tim Last Result, schtasks se bao task not exist)"
- ],
- "overall": "NEED_HUMAN",
+ "need_human": [],
+ "overall": "FAIL",
  "chua_mo": [
   "eracloset",
   "kinloriva",

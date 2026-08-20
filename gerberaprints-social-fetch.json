@@ -2,13 +2,22 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-08-17",
- "fetched_at": "2026-08-17T14:10:45.048080+07:00",
+ "date": "2026-08-20",
+ "fetched_at": "2026-08-20T12:02:10.316248+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "Rory McIlroy, when asked whether allowing back LIV players would bring value to the PGA Tour: \"Have they brought value to LIV?\"",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vswetw/rory_mcilroy_when_asked_whether_allowing_back_liv/",
+     "selftext_head": ""
+    },
     {
      "title": "I'm at the club and this lady just challenged me to a game.",
      "score": null,
@@ -19,12 +28,12 @@
      "selftext_head": ""
     },
     {
-     "title": "My wife applied to The Open ticket lottery thinking it was for The Masters… and she won.",
+     "title": "Found in the hole on 18 at Wanumetonomy",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vkrlec/my_wife_applied_to_the_open_ticket_lottery/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1vqo57j/found_in_the_hole_on_18_at_wanumetonomy/",
      "selftext_head": ""
     },
     {
@@ -37,21 +46,12 @@
      "selftext_head": ""
     },
     {
-     "title": "I had the round of a lifetime today. Hit my first Hole in One and shot a personal best 76.",
+     "title": "Yup",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vlykjf/i_had_the_round_of_a_lifetime_today_hit_my_first/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Scottie Scheffler wins the FedEx St. Jude Championship by 8 strokes, his 21st PGA Tour victory!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vq9ngk/scottie_scheffler_wins_the_fedex_st_jude/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1vsrvu1/yup/",
      "selftext_head": ""
     },
     {
@@ -64,6 +64,33 @@
      "selftext_head": ""
     },
     {
+     "title": "Scottie Scheffler wins the FedEx St. Jude Championship by 8 strokes, his 21st PGA Tour victory!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vq9ngk/scottie_scheffler_wins_the_fedex_st_jude/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I only want Donna",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vrrhsx/i_only_want_donna/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Get a load of this guy",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vqq884/get_a_load_of_this_guy/",
+     "selftext_head": ""
+    },
+    {
      "title": "Marji Packer would’ve been the GOAT",
      "score": null,
      "num_comments": null,
@@ -73,12 +100,30 @@
      "selftext_head": ""
     },
     {
-     "title": "Throwback video from August 28, 2016, when Jason Day made his famous 71-foot putt during the final round of The Barclays at Bethpage Black.",
+     "title": "Mac Boucher's Crazy Hole-in-One 🤯",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vlrol5/throwback_video_from_august_28_2016_when_jason/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1vr6y7w/mac_bouchers_crazy_holeinone/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Tough break for Scottie as his bunker shot hits a sprinkler head and finds the water",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vq4tz7/tough_break_for_scottie_as_his_bunker_shot_hits_a/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Everytime",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vq71t0/everytime/",
      "selftext_head": ""
     },
     {
@@ -97,51 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1vnupmy/rather_new_to_reddit_but_do_these_type_of_things/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Tough break for Scottie as his bunker shot hits a sprinkler head and finds the water",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vq4tz7/tough_break_for_scottie_as_his_bunker_shot_hits_a/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Mass. Women’s Amateur: An albatross on the 18th hole by Lillian Guleserian to win her quarterfinal match",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vo5ln3/mass_womens_amateur_an_albatross_on_the_18th_hole/",
-     "selftext_head": ""
-    },
-    {
-     "title": "It will never end unless they're ejected",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vn7faa/it_will_never_end_unless_theyre_ejected/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Buddy is a CC Guy Now",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vlzb9k/buddy_is_a_cc_guy_now/",
-     "selftext_head": ""
-    },
-    {
-     "title": "2026 U.S. Amateur Championship: Ryder Cowan vs. Miles Russell. Cowan to wins the match with this great shot",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vmv4sm/2026_us_amateur_championship_ryder_cowan_vs_miles/",
      "selftext_head": ""
     }
    ]
@@ -170,17 +170,16 @@
    "golf gifts for him nearby",
    "golf gifts for him amazon",
    "golf gifts for him and her",
-   "golf gifts for him scotland",
-   "golf gifts for him funny"
+   "golf gifts for him funny",
+   "golf gifts for him near me"
   ],
   "golf bachelor party shirt": [
    "golf bachelor party shirts",
    "funny golf bachelor party shirts",
-   "golf bachelor party t shirts",
    "golf themed bachelor party shirts",
+   "golf bachelor party t shirts",
    "bachelor party golf shirt ideas",
    "custom bachelor party golf shirts",
-   "best bachelor party golf shirts",
    "bachelor party golf rules",
    "bachelor party golf gift ideas"
   ],
@@ -189,12 +188,12 @@
    "golf dad hats for men",
    "golf dad hat barstool",
    "golf dad hat near me",
-   "golf dad hat canada",
    "golf dad hat style",
-   "golf dad hat amazon",
-   "golf dad hat nearby",
-   "golf dad hat 47",
-   "golf daddy hat"
+   "golf dad hat canada",
+   "golf dad hat pga superstore",
+   "golf daddy hat",
+   "golf daddy hat paddington",
+   "golf daddy hat no laying up"
   ],
   "custom golf polo": [
    "custom golf polos",
@@ -203,8 +202,8 @@
    "custom golf polo with face",
    "custom golf polos with logo",
    "custom golf polo shirts uk",
-   "custom golf polos australia",
    "custom golf polo shirts with logo",
+   "custom golf polos australia",
    "custom golf polos canada",
    "custom golf polos near me"
   ],
@@ -227,8 +226,8 @@
    "golf koozie designs",
    "golf koozies bulk",
    "golf koozie nearby",
-   "golf koozie near me",
    "golf koozie sleeve",
+   "golf koozie near me",
    "golf koozie with tee holder",
    "golf koozie funny"
   ],
@@ -239,22 +238,22 @@
    "golf ball towel funny",
    "golf bag towel funny",
    "amazon golf towel funny",
-   "disc golf towel funny",
    "golf club towel funny",
-   "golf towels with funny sayings",
-   "best golf.towels funny"
+   "disc golf towel funny",
+   "magnetic golf towel funny",
+   "golf towels with funny sayings"
   ],
   "bachelor party golf": [
-   "bachelor party golf games",
    "bachelor party golf balls",
-   "bachelor party golf shirts",
    "bachelor party golf trips",
+   "bachelor party golf shirts",
+   "bachelor party golf ideas",
    "bachelor party golf gifts",
+   "bachelor party golf games",
    "bachelor party golf hats",
    "bachelor party golf",
    "bachelor party golf packages",
-   "bachelor party golf polos",
-   "bachelor party golf rules"
+   "bachelor party golf polos"
   ],
   "golf gift for boss": [
    "golf gift for boss",
@@ -271,9 +270,9 @@
    "golf clothing funny",
    "golf shirt funny pattern",
    "golf shirts funny women",
-   "golf shirts funny sayings",
-   "golf shirts funny print",
    "golf shirts funny australia",
+   "golf shirts funny print",
+   "golf shirts funny sayings",
    "golf shirts funny amazon"
   ],
   "hawaiian golf shirt": [
@@ -286,20 +285,20 @@
    "hawaiian golf shirts near me",
    "hawaiian golf shirts nearby",
    "hawaiian golf shirts for couples",
-   "hawaiian golf shirt brands"
+   "hawaiian golf shirt brand"
   ]
  },
  "trends": [
-  "heco power outage map",
-  "natalie portman",
-  "хайден панеттьери",
-  "jeremy renner",
-  "din thomas",
-  "pediatrician",
-  "manav suthar",
-  "gilberto mora",
-  "postpartum",
-  "牛来"
+  "heart",
+  "serial",
+  "split superlatives",
+  "klystron 9",
+  "thunder valley",
+  "paul mescal",
+  "son heung-min",
+  "dust storm warning",
+  "tanner scott",
+  "许家印"
  ],
  "errors": []
 }
