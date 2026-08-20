@@ -1,6 +1,6 @@
 {
  "schema_version": "1.1",
- "checked_at": "2026-08-21T04:15:35.557383+07:00",
+ "checked_at": "2026-08-21T04:40:47.551040+07:00",
  "date": "2026-08-21",
  "projects": [
   {
@@ -14,12 +14,14 @@
   {
    "project": "genusfaith",
    "checks": [
-    "OK live-fetch = hom nay",
+    "FAIL live-fetch cu: 2026-08-20 (hom nay 2026-08-21)",
     "OK feed 7/7"
    ],
    "healed": [],
-   "need_human": [],
-   "status": "OK",
+   "need_human": [
+    "genusfaith: du lieu dung o 2026-08-20, task CO THAT (3 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - genusfaith\" /V /FO LIST | findstr \"Last Result\""
+   ],
+   "status": "FAIL",
    "feeds": "7/7",
    "reddit": "1/1"
   },
@@ -41,15 +43,12 @@
   {
    "project": "gritfell",
    "checks": [
-    "FAIL live-fetch cu: 2026-08-20 (hom nay 2026-08-21)",
-    "OK feed 13/13",
-    "FAIL social-fetch cu: 2026-08-20"
+    "OK live-fetch = hom nay",
+    "OK feed 13/13"
    ],
    "healed": [],
-   "need_human": [
-    "gritfell: du lieu dung o 2026-08-20, task CO THAT (4 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\""
-   ],
-   "status": "FAIL",
+   "need_human": [],
+   "status": "OK",
    "feeds": "13/13",
    "reddit": "10/10"
   },
@@ -71,8 +70,8 @@
   }
  ],
  "need_human": [
-  "gerberaprints: du lieu dung o 2026-08-20, task CO THAT (2 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
-  "gritfell: du lieu dung o 2026-08-20, task CO THAT (4 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\""
+  "genusfaith: du lieu dung o 2026-08-20, task CO THAT (3 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - genusfaith\" /V /FO LIST | findstr \"Last Result\"",
+  "gerberaprints: du lieu dung o 2026-08-20, task CO THAT (2 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\""
  ],
  "overall": "NEED_HUMAN",
  "chua_mo": [
