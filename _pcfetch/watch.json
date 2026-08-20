@@ -1,0 +1,16 @@
+[
+ {
+  "file": "gerbera-live-fetch.json",
+  "vi_sao": "ban tin Gerbera market moi sang DOC file nay (khong phai gerberaprints-live-fetch.json)",
+  "sinh_boi": "gerbera_fetch.py, Task Scheduler 06:45, clone C:\\gerbera\\foxera-daily",
+  "sinh_boi_khoa": "gerbera_fetch.py",
+  "sua": "schtasks /Query /TN \"FoxEra PC Fetch - gerbera\" /V /FO LIST | findstr \"Last Result\""
+ },
+ {
+  "file": "genusfaith-live-fetch.json",
+  "vi_sao": "ban GIAU cua GenusFaith: co 'changes' (new/removed/price_changes/stock_flips) va price_bands, sold_out_count, new_14d — pcfetch KHONG co nhung thu nay",
+  "sinh_boi": "genusfaith_fetch.py, Task Scheduler 04:00",
+  "sinh_boi_khoa": "genusfaith_fetch.py",
+  "sua": "schtasks /Query /TN \"FoxEra PC Fetch - genusfaith\" /V /FO LIST | findstr \"Last Result\" (LUU Y: task 04:15 la cua _pcfetch, KHAC task 04:00)"
+ }
+]
