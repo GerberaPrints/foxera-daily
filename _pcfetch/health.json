@@ -1,6 +1,6 @@
 {
  "schema_version": "1.1",
- "checked_at": "2026-08-20T13:27:26.761192+07:00",
+ "checked_at": "2026-08-20T14:24:32.106627+07:00",
  "date": "2026-08-20",
  "projects": [
   {
@@ -15,13 +15,11 @@
    "project": "genusfaith",
    "checks": [
     "OK live-fetch = hom nay",
-    "GHI CHU: file do 'genusfaith_fetch.py' sinh, khong phai pcfetch.py",
-    "OK feed 7/7",
-    "FAIL social-fetch cu: 2026-08-17"
+    "OK feed 7/7"
    ],
    "healed": [],
    "need_human": [],
-   "status": "FAIL",
+   "status": "OK",
    "feeds": "7/7",
    "reddit": "1/1"
   },
@@ -67,7 +65,7 @@
   }
  ],
  "need_human": [],
- "overall": "FAIL",
+ "overall": "OK",
  "chua_mo": [
   "eracloset",
   "kinloriva",

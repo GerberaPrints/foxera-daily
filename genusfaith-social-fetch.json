@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-08-17",
- "fetched_at": "2026-08-17T14:28:09.608679+07:00",
+ "date": "2026-08-20",
+ "fetched_at": "2026-08-20T14:23:58.692749+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "The Church my ancestors built held its final mass on August 2nd. Farewell Santa Maria Delle Grazie.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vofawa/the_church_my_ancestors_built_held_its_final_mass/",
-     "selftext_head": ""
-    },
     {
      "title": "I Assume you know what Feast Day is today",
      "score": null,
@@ -28,21 +19,21 @@
      "selftext_head": ""
     },
     {
+     "title": "The Church my ancestors built held its final mass on August 2nd. Farewell Santa Maria Delle Grazie.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vofawa/the_church_my_ancestors_built_held_its_final_mass/",
+     "selftext_head": ""
+    },
+    {
      "title": "[Free Friday] Saint Michael in the solar eclipse (Mont-Saint-Michel, France)",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vo3gh7/free_friday_saint_michael_in_the_solar_eclipse/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Two Italian bishops have intervened in the last week to cancel funerals for senior Freemasons scheduled to be held in Catholic churches.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vln25s/two_italian_bishops_have_intervened_in_the_last/",
      "selftext_head": ""
     },
     {
@@ -64,12 +55,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Pope Leo XIV: Attendance at Sunday Mass cannot be replaced by virtual participation",
+     "title": "Pope Leo XIV renews call to end violence against Palestinians",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vmc1qc/pope_leo_xiv_attendance_at_sunday_mass_cannot_be/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vr5pbr/pope_leo_xiv_renews_call_to_end_violence_against/",
      "selftext_head": ""
     },
     {
@@ -82,12 +73,12 @@
      "selftext_head": ""
     },
     {
-     "title": "My little Cousin died",
+     "title": "I'm a seminary dropout. Here are 5 things I would say to / ask my younger self if I could:",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vlg2ky/my_little_cousin_died/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vr9vow/im_a_seminary_dropout_here_are_5_things_i_would/",
      "selftext_head": ""
     },
     {
@@ -109,12 +100,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Feast day of St. Clare of Assisi!.",
+     "title": "Catholic parents ask Leo XIV to stop the gender ideology promoted by the bishop of Hamburg in his schools",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vlt3kd/feast_day_of_st_clare_of_assisi/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vqrcgg/catholic_parents_ask_leo_xiv_to_stop_the_gender/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Pope Leo XIV: The musical heritage of the Church must be preserved",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vsl9e8/pope_leo_xiv_the_musical_heritage_of_the_church/",
      "selftext_head": ""
     },
     {
@@ -152,34 +152,34 @@
   "catholic gift for": [
    "catholic gift for men",
    "catholic gift for women",
-   "catholic gift for mom",
    "catholic gift for new home",
    "catholic gift for newborn",
+   "catholic gift for mom",
+   "catholic gift for funeral",
    "catholic gift for kids",
    "catholic gift for baptism",
-   "catholic gift for wife",
-   "catholic gift for baby",
-   "catholic gift for husband"
+   "catholic gift for husband",
+   "catholic gift for dad"
   ],
   "rosary bracelet": [
    "rosary bracelet",
-   "rosary bracelet women",
    "rosary bracelet mens",
+   "rosary bracelet for women",
    "rosary bracelet gold",
    "rosary bracelet beads",
    "rosary bracelet pattern",
    "rosary bracelet silver",
    "rosary bracelet magnetic",
    "rosary bracelet australia",
-   "rosary bracelet tattoo"
+   "rosary bracelet canada"
   ],
   "christian gift for her": [
    "christian gift for her",
    "christian gift ideas for her",
    "christian dior gift for her",
-   "christian jewelry gift for her",
-   "christian valentines gift for her",
    "christian gift box for her",
+   "christian valentines gift for her",
+   "christian jewelry gift for her",
    "christian christmas gift for her",
    "christian gift for wife",
    "christian gift for women amazon",
@@ -190,12 +190,12 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gifts for teenage boys",
    "confirmation gifts for adults",
-   "confirmation gifts catholic",
+   "confirmation gifts for teenage boys",
    "confirmation gift ideas for girl",
    "confirmation gifts from sponsor",
-   "confirmation gift for boy from sponsor"
+   "confirmation gifts catholic",
+   "confirmation gift ideas for boys"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -204,7 +204,7 @@
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
-   "baptism gifts for baby boy",
+   "baptism gift for baby boy",
    "baptism gifts near me",
    "baptism gifts from godparents",
    "baptism gift from godmother"
@@ -216,10 +216,10 @@
    "catholic home decor canada",
    "catholic home decor australia",
    "catholic home decor uk",
-   "catholic home decor reddit",
    "catholic home decor near me",
    "catholic home decor nearby",
-   "catholic home decor etsy"
+   "catholic home decor reddit",
+   "catholic home decor book"
   ],
   "saint medal necklace": [
    "saint medal necklace",
@@ -239,20 +239,20 @@
    "first communion gifts for girls",
    "first communion gift ideas",
    "first communion gifts near me",
-   "first communion gift ideas for girl",
-   "first communion gifts for boys catholic",
    "first communion gift bags",
-   "first communion gift ideas for boys",
-   "first communion gifts from godparents"
+   "first communion gift ideas for girl",
+   "first communion gift for boy non religious",
+   "first communion gifts from godparents",
+   "first communion gifts for girls catholic"
   ],
   "catholic wedding gift": [
    "catholic wedding gifts",
    "catholic wedding gift ideas",
    "catholic wedding gifts for couples",
    "catholic wedding gift ideas for couple",
+   "catholic wedding gifts rituals",
    "catholic wedding gift for wife",
    "catholic wedding gifts personalized",
-   "catholic wedding gifts rituals",
    "catholic wedding gift bearers",
    "catholic wedding gifts for bride",
    "catholic wedding gift for husband"
@@ -263,9 +263,9 @@
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
-   "christian tote bags bulk",
-   "christian tote bag amazon",
+   "christian tote bags in bulk",
    "christian tote bag designs",
+   "christian tote bag amazon",
    "christian tote bag design ideas",
    "christian dior tote bag cost"
   ],
@@ -278,15 +278,14 @@
    "faith based jewelry wholesale",
    "faith based jewelry near me",
    "faith based jewelry store",
-   "faith based jewelry south africa",
-   "faith based jewelry nearby"
+   "faith based jewelry nearby",
+   "faith based jewelry south africa"
   ],
   "catholic leather bag": [
    "catholic leather bag",
    "catholic leather handbags",
    "catholic leather purse",
    "catholic leather pouch",
-   "catholic leather tote bag",
    "what is the best leather bag",
    "leather ladies bag price",
    "le donne leather bags reviews",
@@ -294,16 +293,16 @@
   ]
  },
  "trends": [
-  "heco power outage map",
-  "natalie portman",
-  "хайден панеттьери",
-  "jeremy renner",
-  "din thomas",
-  "pediatrician",
-  "manav suthar",
-  "gilberto mora",
-  "牛来",
-  "friday night lights"
+  "evergrande",
+  "dakota johnson",
+  "chloe zhao",
+  "fidelity bitcoin",
+  "draftkings",
+  "kanye west",
+  "dillon danis",
+  "noah kahan tour",
+  "when will fortnite servers be back up",
+  "what happened to lily hooper"
  ],
  "errors": []
 }
