@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-08-20",
- "fetched_at": "2026-08-20T14:23:58.692749+07:00",
+ "date": "2026-08-21",
+ "fetched_at": "2026-08-21T04:15:02.600666+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -73,6 +73,15 @@
      "selftext_head": ""
     },
     {
+     "title": "I finally understood why some Protestants genuinely cannot separate veneration from worship",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vt7m6p/i_finally_understood_why_some_protestants/",
+     "selftext_head": ""
+    },
+    {
      "title": "I'm a seminary dropout. Here are 5 things I would say to / ask my younger self if I could:",
      "score": null,
      "num_comments": null,
@@ -134,15 +143,6 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vp9x3j/pope_leo_xiv_on_liturgy_priests_must_remain/",
      "selftext_head": ""
-    },
-    {
-     "title": "Brooklyn Church honoring parishioners who passed away in 9/11 with a statue",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vo94cb/brooklyn_church_honoring_parishioners_who_passed/",
-     "selftext_head": ""
     }
    ]
   }
@@ -158,8 +158,8 @@
    "catholic gift for funeral",
    "catholic gift for kids",
    "catholic gift for baptism",
-   "catholic gift for husband",
-   "catholic gift for dad"
+   "catholic gift for wife",
+   "catholic gift for baby"
   ],
   "rosary bracelet": [
    "rosary bracelet",
@@ -239,11 +239,11 @@
    "first communion gifts for girls",
    "first communion gift ideas",
    "first communion gifts near me",
+   "first communion gifts for boys catholic",
    "first communion gift bags",
+   "first communion gift ideas for boys",
    "first communion gift ideas for girl",
-   "first communion gift for boy non religious",
-   "first communion gifts from godparents",
-   "first communion gifts for girls catholic"
+   "first communion gift for boy non religious"
   ],
   "catholic wedding gift": [
    "catholic wedding gifts",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "evergrande",
-  "dakota johnson",
-  "chloe zhao",
-  "fidelity bitcoin",
-  "draftkings",
-  "kanye west",
-  "dillon danis",
-  "noah kahan tour",
-  "when will fortnite servers be back up",
-  "what happened to lily hooper"
+  "camión",
+  "tom hanks",
+  "jeff bezos",
+  "noaa weather",
+  "patrulla fronteriza de los estados unidos",
+  "mike perry",
+  "carrie ann inaba fox news",
+  "central magnet school",
+  "wgal weather",
+  "tornado warning lancaster pa"
  ],
  "errors": []
 }

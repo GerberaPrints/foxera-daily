@@ -1,7 +1,7 @@
 {
  "schema_version": "1.1",
- "checked_at": "2026-08-20T14:56:44.276980+07:00",
- "date": "2026-08-20",
+ "checked_at": "2026-08-21T04:15:35.557383+07:00",
+ "date": "2026-08-21",
  "projects": [
   {
    "project": "eracloset",
@@ -26,24 +26,30 @@
   {
    "project": "gerberaprints",
    "checks": [
-    "OK live-fetch = hom nay",
-    "OK feed 10/10"
+    "FAIL live-fetch cu: 2026-08-20 (hom nay 2026-08-21)",
+    "OK feed 10/10",
+    "FAIL social-fetch cu: 2026-08-20"
    ],
    "healed": [],
-   "need_human": [],
-   "status": "OK",
+   "need_human": [
+    "gerberaprints: du lieu dung o 2026-08-20, task CO THAT (2 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\""
+   ],
+   "status": "FAIL",
    "feeds": "10/10",
    "reddit": "1/1"
   },
   {
    "project": "gritfell",
    "checks": [
-    "OK live-fetch = hom nay",
-    "OK feed 13/13"
+    "FAIL live-fetch cu: 2026-08-20 (hom nay 2026-08-21)",
+    "OK feed 13/13",
+    "FAIL social-fetch cu: 2026-08-20"
    ],
    "healed": [],
-   "need_human": [],
-   "status": "OK",
+   "need_human": [
+    "gritfell: du lieu dung o 2026-08-20, task CO THAT (4 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\""
+   ],
+   "status": "FAIL",
    "feeds": "13/13",
    "reddit": "10/10"
   },
@@ -64,8 +70,11 @@
    "note": "store dang xay — bao 17/08, chua mo ban"
   }
  ],
- "need_human": [],
- "overall": "OK",
+ "need_human": [
+  "gerberaprints: du lieu dung o 2026-08-20, task CO THAT (2 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
+  "gritfell: du lieu dung o 2026-08-20, task CO THAT (4 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\""
+ ],
+ "overall": "NEED_HUMAN",
  "chua_mo": [
   "eracloset",
   "kinloriva",
