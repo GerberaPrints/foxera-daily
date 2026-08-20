@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-08-20",
- "fetched_at": "2026-08-20T12:02:10.316248+07:00",
+ "date": "2026-08-21",
+ "fetched_at": "2026-08-21T04:45:03.374814+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -127,21 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "I beat my brother in a golf match and now he has to retake the ACT at 32",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vneli6/i_beat_my_brother_in_a_golf_match_and_now_he_has/",
-     "selftext_head": ""
-    },
-    {
      "title": "Rather new to Reddit but do these type of things happen often?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1vnupmy/rather_new_to_reddit_but_do_these_type_of_things/",
+     "selftext_head": ""
+    },
+    {
+     "title": "At the U.S. Senior Women’s Open there are 44 players in the field who are 60 or older. Hollis Stacy, 72, is one of them. The World Golf Hall of Famer is a three-time U.S. Women’s Open champ and a three-time U.S. Girls’ Junior champion. This runs August 20 to August 23, 2026, at Barton Hills Country",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vs5bl0/at_the_us_senior_womens_open_there_are_44_players/",
      "selftext_head": ""
     }
    ]
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "heart",
-  "serial",
-  "split superlatives",
-  "klystron 9",
-  "thunder valley",
-  "paul mescal",
-  "son heung-min",
-  "dust storm warning",
-  "tanner scott",
-  "许家印"
+  "taylor sheridan",
+  "kylie kelce",
+  "ldu quito vs mirassol",
+  "starbucks layoffs",
+  "jessica bowie picture",
+  "joe and donell jones verzuz",
+  "dow jones industrial average",
+  "tommy lee jones",
+  "macará vs santos",
+  "ldu quito - mirassol"
  ],
  "errors": []
 }
