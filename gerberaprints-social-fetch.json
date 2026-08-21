@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-08-21",
- "fetched_at": "2026-08-21T04:45:03.374814+07:00",
+ "date": "2026-08-22",
+ "fetched_at": "2026-08-22T04:45:02.711184+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -55,6 +55,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Question time? What are you taking?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vtu6m1/question_time_what_are_you_taking/",
+     "selftext_head": ""
+    },
+    {
      "title": "\"Dad, what was prime 1988 Donna Warner like?\"",
      "score": null,
      "num_comments": null,
@@ -100,6 +109,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Tour players were asked: What does an amateur golfer have to shoot to be considered \"good at golf\"?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vtm245/tour_players_were_asked_what_does_an_amateur/",
+     "selftext_head": ""
+    },
+    {
      "title": "Mac Boucher's Crazy Hole-in-One 🤯",
      "score": null,
      "num_comments": null,
@@ -109,39 +127,21 @@
      "selftext_head": ""
     },
     {
+     "title": "It is irritating",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vty3p2/it_is_irritating/",
+     "selftext_head": ""
+    },
+    {
      "title": "Tough break for Scottie as his bunker shot hits a sprinkler head and finds the water",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1vq4tz7/tough_break_for_scottie_as_his_bunker_shot_hits_a/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Everytime",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vq71t0/everytime/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Rather new to Reddit but do these type of things happen often?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vnupmy/rather_new_to_reddit_but_do_these_type_of_things/",
-     "selftext_head": ""
-    },
-    {
-     "title": "At the U.S. Senior Women’s Open there are 44 players in the field who are 60 or older. Hollis Stacy, 72, is one of them. The World Golf Hall of Famer is a three-time U.S. Women’s Open champ and a three-time U.S. Girls’ Junior champion. This runs August 20 to August 23, 2026, at Barton Hills Country",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vs5bl0/at_the_us_senior_womens_open_there_are_44_players/",
      "selftext_head": ""
     }
    ]
@@ -198,14 +198,14 @@
   "custom golf polo": [
    "custom golf polos",
    "custom golf polos for men",
-   "custom golf polo shirts",
    "custom golf polo with face",
    "custom golf polos with logo",
-   "custom golf polo shirts uk",
+   "custom golf polo shirts",
    "custom golf polo shirts with logo",
-   "custom golf polos australia",
-   "custom golf polos canada",
-   "custom golf polos near me"
+   "custom golf polos near me",
+   "custom golf polos peter millar",
+   "custom golf polo shirts uk",
+   "custom golf polos australia"
   ],
   "golf tournament gift": [
    "golf tournament gift ideas",
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "taylor sheridan",
-  "kylie kelce",
-  "ldu quito vs mirassol",
-  "starbucks layoffs",
-  "jessica bowie picture",
-  "joe and donell jones verzuz",
-  "dow jones industrial average",
-  "tommy lee jones",
-  "macará vs santos",
-  "ldu quito - mirassol"
+  "boerne little league",
+  "gary woodland",
+  "pga leaderboard",
+  "wyndham clark",
+  "dan driscoll",
+  "justin thomas",
+  "go fans",
+  "severe thunderstorm watch",
+  "chuck schumer",
+  "former queen bassist barry mitchell passes"
  ],
  "errors": []
 }
