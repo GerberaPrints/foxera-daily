@@ -1,0 +1,50 @@
+# .github/workflows/auto-merge-claude.yml
+#
+# Cac phien Claude Code (claude.ai/code) CHI duoc push len nhanh `claude/*`,
+# KHONG duoc push thang vao `main`. Workflow nay tu dong dua nhanh do vao
+# `main` — CHI khi fast-forward duoc, tuyet doi khong tu giai quyet conflict.
+# Merge xong thi xoa nhanh cho sach.
+
+name: Auto-merge nhanh claude vao main
+
+on:
+  push:
+    branches:
+      - 'claude/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-merge-main
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Merge chi fast-forward
+        id: ff
+        run: |
+          set -euo pipefail
+          BR="${GITHUB_REF#refs/heads/}"
+          echo "Nhanh nguon: $BR"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin "$BR"
+          if ! git merge-base --is-ancestor HEAD "origin/$BR"; then
+            echo "::error::main da di truoc nhanh $BR - KHONG fast-forward duoc. Xu ly tay."
+            exit 1
+          fi
+          git merge --ff-only "origin/$BR"
+          git push origin main
+          echo "merged=true" >> "$GITHUB_OUTPUT"
+
+      - name: Xoa nhanh da merge
+        if: steps.ff.outputs.merged == 'true'
+        run: git push origin --delete "${GITHUB_REF#refs/heads/}" || true
