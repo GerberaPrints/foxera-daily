@@ -1,7 +1,7 @@
 {
  "schema_version": "1.2",
- "checked_at": "2026-08-21T10:57:25.969906+07:00",
- "date": "2026-08-21",
+ "checked_at": "2026-08-22T04:15:35.093900+07:00",
+ "date": "2026-08-22",
  "projects": [
   {
    "project": "eracloset",
@@ -26,24 +26,32 @@
   {
    "project": "gerberaprints",
    "checks": [
-    "OK live-fetch = hom nay",
-    "OK feed 10/10"
+    "FAIL live-fetch cu: 2026-08-21 (hom nay 2026-08-22)",
+    "OK feed 10/10",
+    "FAIL social-fetch cu: 2026-08-21"
    ],
    "healed": [],
-   "need_human": [],
-   "status": "OK",
+   "need_human": [
+    "gerberaprints: du lieu dung o 2026-08-21, task CO THAT (3 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
+    "gerberaprints: social dung o 2026-08-21 (hom nay 2026-08-22). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gerberaprints"
+   ],
+   "status": "FAIL",
    "feeds": "10/10",
    "reddit": "1/1"
   },
   {
    "project": "gritfell",
    "checks": [
-    "OK live-fetch = hom nay",
-    "OK feed 13/13"
+    "FAIL live-fetch cu: 2026-08-21 (hom nay 2026-08-22)",
+    "OK feed 13/13",
+    "FAIL social-fetch cu: 2026-08-21"
    ],
    "healed": [],
-   "need_human": [],
-   "status": "OK",
+   "need_human": [
+    "gritfell: du lieu dung o 2026-08-21, task CO THAT (5 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
+    "gritfell: social dung o 2026-08-21 (hom nay 2026-08-22). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gritfell"
+   ],
+   "status": "FAIL",
    "feeds": "13/13",
    "reddit": "10/10"
   },
@@ -66,11 +74,13 @@
   {
    "project": "[watch] gerbera-live-fetch.json",
    "checks": [
-    "OK = hom nay"
+    "FAIL cu: 2026-08-21"
    ],
    "healed": [],
-   "need_human": [],
-   "status": "OK"
+   "need_human": [
+    "gerbera-live-fetch.json dung o 2026-08-21 (hom nay 2026-08-22) — ban tin Gerbera market moi sang DOC file nay (khong phai gerberaprints-live-fetch.json). Sinh boi: Task Scheduler 'Gerbera PC Fetch' 06:45 (gerbera_fetch.py v1.1.1, 15 nguon/lan). Kiem: schtasks /Query /TN \"Gerbera PC Fetch\" /V /FO LIST | findstr \"Last Result\""
+   ],
+   "status": "FAIL"
   },
   {
    "project": "[watch] genusfaith-live-fetch.json",
@@ -84,11 +94,11 @@
   {
    "project": "[watch] gerbera-market.json",
    "checks": [
-    "FAIL cu: 2026-08-03"
+    "FAIL cu: 2026-08-21"
    ],
    "healed": [],
    "need_human": [
-    "gerbera-market.json dung o 2026-08-03 (hom nay 2026-08-21) — GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.. Sinh boi: routine cloud [Gerbera-Trend] Research. Kiem: Cloud chua duoc cap quyen ghi repo (git proxy 403). Khai repo GerberaPrints/foxera-daily vao sources cua task cloud, lay task 'cloud handoff foxera-daily' lam mau."
+    "gerbera-market.json dung o 2026-08-21 (hom nay 2026-08-22) — GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.. Sinh boi: routine cloud [Gerbera-Trend] Research. Kiem: Cloud chua duoc cap quyen ghi repo (git proxy 403). Khai repo GerberaPrints/foxera-daily vao sources cua task cloud, lay task 'cloud handoff foxera-daily' lam mau."
    ],
    "status": "FAIL"
   },
@@ -99,7 +109,7 @@
    ],
    "healed": [],
    "need_human": [
-    "gritfell-daily.json dung o 2026-08-03 (hom nay 2026-08-21) — ban tin GritFell moi sang. Sinh boi: routine cloud GritFell Daily. Kiem: Nhu tren — cap quyen repo cho task cloud."
+    "gritfell-daily.json dung o 2026-08-03 (hom nay 2026-08-22) — ban tin GritFell moi sang. Sinh boi: routine cloud GritFell Daily. Kiem: Nhu tren — cap quyen repo cho task cloud."
    ],
    "status": "FAIL"
   },
@@ -110,7 +120,7 @@
    ],
    "healed": [],
    "need_human": [
-    "genusfaith-daily.json dung o 2026-08-03 (hom nay 2026-08-21) — ban tin GenusFaith moi sang. Sinh boi: routine cloud Genus-Research Daily. Kiem: Nhu tren — cap quyen repo cho task cloud."
+    "genusfaith-daily.json dung o 2026-08-03 (hom nay 2026-08-22) — ban tin GenusFaith moi sang. Sinh boi: routine cloud Genus-Research Daily. Kiem: Nhu tren — cap quyen repo cho task cloud."
    ],
    "status": "FAIL"
   },
@@ -121,16 +131,45 @@
    ],
    "healed": [],
    "need_human": [
-    "foxera-job.json dung o 2026-08-03 (hom nay 2026-08-21) — ban tin FoxEra Job. Sinh boi: routine cloud FoxEra Job. Kiem: Nhu tren — cap quyen repo cho task cloud."
+    "foxera-job.json dung o 2026-08-03 (hom nay 2026-08-22) — ban tin FoxEra Job. Sinh boi: routine cloud FoxEra Job. Kiem: Nhu tren — cap quyen repo cho task cloud."
+   ],
+   "status": "FAIL"
+  },
+  {
+   "project": "[watch] foxera-daily.json",
+   "checks": [
+    "FAIL cu: 2026-08-21"
+   ],
+   "healed": [],
+   "need_human": [
+    "foxera-daily.json dung o 2026-08-21 (hom nay 2026-08-22) — Ban tin FoxEra Etsy/POD. CANH BAO: file nay TRONG XANH nhung chi vi user chay TAY moi sang — chinh no tu khai trong truong source: 'cloud chay TAY 21/08 (luot 02:00 va 04:00 fire nhung khong giao file)'. Ngay nao user quen lam tay la no cu ma khong ai biet.. Sinh boi: routine cloud Etsy FoxEra Daily Research 02:00 + CHAY BU 04:00 (ca hai dang khong giao duoc file). Kiem: Cung goc voi 4 file cloud kia: Permissions cua task dang la 'Manually approve' -> doi sang tu dong."
+   ],
+   "status": "FAIL"
+  },
+  {
+   "project": "[watch] foxera-accounts-daily.json",
+   "checks": [
+    "FAIL cu: 2026-08-21"
+   ],
+   "healed": [],
+   "need_human": [
+    "foxera-accounts-daily.json dung o 2026-08-21 (hom nay 2026-08-22) — Registry tai khoan Etsy — Hub GAS doc qua raw URL (key external_fetch_contract).. Sinh boi: routine cloud FoxEra (cung nhanh voi foxera-daily.json). Kiem: Nhu tren — Permissions cua task cloud."
    ],
    "status": "FAIL"
   }
  ],
  "need_human": [
-  "gerbera-market.json dung o 2026-08-03 (hom nay 2026-08-21) — GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.. Sinh boi: routine cloud [Gerbera-Trend] Research. Kiem: Cloud chua duoc cap quyen ghi repo (git proxy 403). Khai repo GerberaPrints/foxera-daily vao sources cua task cloud, lay task 'cloud handoff foxera-daily' lam mau.",
-  "gritfell-daily.json dung o 2026-08-03 (hom nay 2026-08-21) — ban tin GritFell moi sang. Sinh boi: routine cloud GritFell Daily. Kiem: Nhu tren — cap quyen repo cho task cloud.",
-  "genusfaith-daily.json dung o 2026-08-03 (hom nay 2026-08-21) — ban tin GenusFaith moi sang. Sinh boi: routine cloud Genus-Research Daily. Kiem: Nhu tren — cap quyen repo cho task cloud.",
-  "foxera-job.json dung o 2026-08-03 (hom nay 2026-08-21) — ban tin FoxEra Job. Sinh boi: routine cloud FoxEra Job. Kiem: Nhu tren — cap quyen repo cho task cloud."
+  "gerberaprints: du lieu dung o 2026-08-21, task CO THAT (3 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
+  "gerberaprints: social dung o 2026-08-21 (hom nay 2026-08-22). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gerberaprints",
+  "gritfell: du lieu dung o 2026-08-21, task CO THAT (5 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
+  "gritfell: social dung o 2026-08-21 (hom nay 2026-08-22). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gritfell",
+  "gerbera-live-fetch.json dung o 2026-08-21 (hom nay 2026-08-22) — ban tin Gerbera market moi sang DOC file nay (khong phai gerberaprints-live-fetch.json). Sinh boi: Task Scheduler 'Gerbera PC Fetch' 06:45 (gerbera_fetch.py v1.1.1, 15 nguon/lan). Kiem: schtasks /Query /TN \"Gerbera PC Fetch\" /V /FO LIST | findstr \"Last Result\"",
+  "gerbera-market.json dung o 2026-08-21 (hom nay 2026-08-22) — GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.. Sinh boi: routine cloud [Gerbera-Trend] Research. Kiem: Cloud chua duoc cap quyen ghi repo (git proxy 403). Khai repo GerberaPrints/foxera-daily vao sources cua task cloud, lay task 'cloud handoff foxera-daily' lam mau.",
+  "gritfell-daily.json dung o 2026-08-03 (hom nay 2026-08-22) — ban tin GritFell moi sang. Sinh boi: routine cloud GritFell Daily. Kiem: Nhu tren — cap quyen repo cho task cloud.",
+  "genusfaith-daily.json dung o 2026-08-03 (hom nay 2026-08-22) — ban tin GenusFaith moi sang. Sinh boi: routine cloud Genus-Research Daily. Kiem: Nhu tren — cap quyen repo cho task cloud.",
+  "foxera-job.json dung o 2026-08-03 (hom nay 2026-08-22) — ban tin FoxEra Job. Sinh boi: routine cloud FoxEra Job. Kiem: Nhu tren — cap quyen repo cho task cloud.",
+  "foxera-daily.json dung o 2026-08-21 (hom nay 2026-08-22) — Ban tin FoxEra Etsy/POD. CANH BAO: file nay TRONG XANH nhung chi vi user chay TAY moi sang — chinh no tu khai trong truong source: 'cloud chay TAY 21/08 (luot 02:00 va 04:00 fire nhung khong giao file)'. Ngay nao user quen lam tay la no cu ma khong ai biet.. Sinh boi: routine cloud Etsy FoxEra Daily Research 02:00 + CHAY BU 04:00 (ca hai dang khong giao duoc file). Kiem: Cung goc voi 4 file cloud kia: Permissions cua task dang la 'Manually approve' -> doi sang tu dong.",
+  "foxera-accounts-daily.json dung o 2026-08-21 (hom nay 2026-08-22) — Registry tai khoan Etsy — Hub GAS doc qua raw URL (key external_fetch_contract).. Sinh boi: routine cloud FoxEra (cung nhanh voi foxera-daily.json). Kiem: Nhu tren — Permissions cua task cloud."
  ],
  "overall": "NEED_HUMAN",
  "chua_mo": [
