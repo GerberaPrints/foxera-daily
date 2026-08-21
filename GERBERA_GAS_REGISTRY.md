@@ -17,7 +17,7 @@ description: Dùng khi viết, sửa, hoặc debug Google Apps Script cho Gerber
 |---|---|
 | Apps Script project | **Gerberaprints CRM** |
 | Script ID | `1qLx5j3znm8KQk4cuh47_y3bD1LfD-MMwuR8QRD5Is3nWkcIPEAdSFtY1` |
-| Bảng tính CRM | `1sd8LENhX1fUrK7d42oHbNRTYsbaj7BEsNYTsQ0xouwM` |
+| Bảng tính CRM | `1RkmhfOjJaqH8KcumjVuT86ij17J08ZlDyCB6SP5nwdo` |
 | Quy mô thật | **17 file · 12.797 dòng · 428 hàm** |
 | Bản sao lưu | `gas-gerbera/` trong repo (đã che credential — **CHỈ ĐỌC**) |
 
