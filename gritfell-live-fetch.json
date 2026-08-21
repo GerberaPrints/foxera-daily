@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-21",
- "fetched_at": "2026-08-21T04:30:02.557469+07:00",
+ "date": "2026-08-22",
+ "fetched_at": "2026-08-22T04:30:03.291854+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 97,
@@ -1354,6 +1354,7 @@
      "tags": [
       "fishing-clothing",
       "fishing-gloves",
+      "knives",
       "NEW",
       "NEW-TAG",
       "Tackle"
@@ -1441,6 +1442,58 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Leather Key Chain",
+     "handle": "leather-key-chain",
+     "type": "Accessories",
+     "tags": [
+      "- under $25",
+      "- under $75",
+      "accessories",
+      "AW25 Catalog",
+      "AW26 Catalog",
+      "Father's Day Guide 22",
+      "fathers day_23",
+      "fathersday_24",
+      "gifts for everyday",
+      "Gifts Under $50",
+      "Leather-Classics",
+      "lifestyle",
+      "lifestyle_accessories",
+      "logo-products",
+      "logo_accessories",
+      "MEN",
+      "Men WF Logo Items",
+      "Men-Casual-Logo-Items",
+      "mens",
+      "r20",
+      "SS26 Catalog",
+      "stocking stuffers - logo",
+      "stocking stuffers 21",
+      "waterfowl_logo_wear",
+      "youth"
+     ],
+     "price": "14.99",
+     "published_at": "2026-08-21T11:31:35-05:00"
+    },
+    {
+     "title": "Drake X Richardson 256XE Flatbill Cap",
+     "handle": "drake-x-richardson-256xe-flatbill-cap",
+     "type": "Headwear",
+     "tags": [
+      "AW25 Catalog",
+      "AW25_New",
+      "AW26 Catalog",
+      "caps",
+      "hunting accessories",
+      "logowear",
+      "new",
+      "New_No_Coming_Soon",
+      "waterfowl"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-21T11:26:15-05:00"
+    },
+    {
      "title": "Leather Checkbook Wallet",
      "handle": "leather-checkbook-wallet",
      "type": "Accessories",
@@ -1510,34 +1563,6 @@
      ],
      "price": "39.99",
      "published_at": "2026-08-17T08:38:39-05:00"
-    },
-    {
-     "title": "Early Bird Facemask with Insect Repellent",
-     "handle": "early-bird-facemask",
-     "type": "Headwear",
-     "tags": [
-      "nav_turkey_headwear",
-      "ol-tom",
-      "SS25_New",
-      "SS26 Catalog",
-      "top seller 2025",
-      "UPF 40/50"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-17T08:38:05-05:00"
-    },
-    {
-     "title": "Ol' Tom Perforated Cap",
-     "handle": "ol-tom-perforated-cap",
-     "type": "Headwear",
-     "tags": [
-      "nav_turkey_logo",
-      "SS26 Catalog",
-      "SS26_New",
-      "top seller 2025"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-17T08:37:17-05:00"
     }
    ]
   },
@@ -1545,97 +1570,62 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Youth Blue Edge Trucker Hat - Deep Navy",
-     "handle": "youth-blue-edge-trucker-hat-deep-navy",
+     "title": "Youth Bamboo Shade Graphic Hoodie - Blue Edge Pacific Blue",
+     "handle": "youth-bamboo-shade-graphic-hoodie-blue-edge-pacific-blue",
+     "type": "Youth",
+     "tags": [
+      "excK820",
+      "product_style: Youth Bamboo Shade Graphic Hoodie",
+      "SP26"
+     ],
+     "price": "54.00",
+     "published_at": "2026-08-21T13:16:41-04:00"
+    },
+    {
+     "title": "Youth Brand Flag Camo Trucker Hat - Vintage Camo",
+     "handle": "youth-brand-flag-camo-trucker-hat-vintage-camo",
      "type": "Hats",
      "tags": [
       "SP26"
      ],
      "price": "28.00",
-     "published_at": "2026-08-19T16:37:15-04:00"
+     "published_at": "2026-08-21T13:12:27-04:00"
     },
     {
-     "title": "Women's Bamboo-Lined Active Breeze Skort – 13\" - Sea Pine",
-     "handle": "womens-bamboo-lined-active-breeze-skort-13-sea-pine",
-     "type": "Women's",
+     "title": "Wild Pursuits Performance Hat - Bonefish",
+     "handle": "wild-pursuits-performance-hat-birch",
+     "type": "Hats",
      "tags": [
-      "discounts::none",
-      "excWLABZ",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "pdp_group: women-active-breeze-skort",
-      "Pro-Exclude-Discount",
-      "product_style: Womens Bamboo Lined Active Breeze Skort 13",
-      "returns::none",
-      "SP26",
-      "women-active-breeze"
+      "excFF675",
+      "product_style: Wild Pursuits Performance Hat",
+      "SP26"
      ],
-     "price": "59.99",
-     "published_at": "2026-08-19T00:33:48-04:00"
+     "price": "34.00",
+     "published_at": "2026-08-21T13:12:07-04:00"
     },
     {
-     "title": "Men's Bamboo Shade Long Sleeve - Heather Aspen Grey",
-     "handle": "mens-bamboo-shade-long-sleeve-heather-aspen-grey",
-     "type": "Men's",
-     "tags": [
-      "bpp",
-      "care::bamboo",
-      "collection::men",
-      "Color",
-      "excMWLS",
-      "jan17",
-      "listo-new-pdp",
-      "men-bamboo-shade",
-      "pdp_group: men-bamboo-shade",
-      "priority-product",
-      "product_style: Mens Bamboo Shade Long Sleeve",
-      "R-SP24M",
-      "rating:50 UPF",
-      "Shade",
-      "shipandsave",
-      "tag::men"
-     ],
-     "price": "68.00",
-     "published_at": "2026-08-18T16:58:32-04:00"
-    },
-    {
-     "title": "Men's Breeze Pant - Storm Cloud",
-     "handle": "mens-breeze-pant-storm-cloud",
-     "type": "Men's",
-     "tags": [
-      "breeze",
-      "care::bamboo",
-      "collection::men",
-      "Color",
-      "excMBZP",
-      "flag::Bestseller",
-      "listo-new-pdp",
-      "LTV - Paid Social",
-      "LTV - Paid Social - Breeze",
-      "men-breeze-short",
-      "pdp_group: men-breeze-pant",
-      "priority-product",
-      "product_style: Mens Breeze Pant"
-     ],
-     "price": "98.00",
-     "published_at": "2026-08-18T10:39:29-04:00"
-    },
-    {
-     "title": "Youth Bamboo Shade Hoodie - Vintage Camo",
-     "handle": "youth-bamboo-shade-hoodie-vintage-camo-2",
+     "title": "Youth Target Species Tee - Dark Forest",
+     "handle": "youth-target-species-tee-dark-forest",
      "type": "Youth",
      "tags": [
-      "care::bamboo",
-      "collection::youth",
-      "FA24",
-      "klaviyo-low-inventory",
-      "pdp_group: youth-bamboo-shade",
-      "product_style: Youth Bamboo Shade Hoodie",
-      "Shade"
+      "flag::Just Landed",
+      "product_style: Youth Target Species Tee",
+      "SP26"
      ],
-     "price": "48.00",
-     "published_at": "2026-08-17T10:00:38-04:00"
+     "price": "34.00",
+     "published_at": "2026-08-21T13:11:46-04:00"
+    },
+    {
+     "title": "Men's Downvalley Overshirt - Chestnut",
+     "handle": "mens-downvalley-overshirt-chestnut",
+     "type": "Men's",
+     "tags": [
+      "excMDOWVOV",
+      "FA25",
+      "product_style: Mens Downvalley Overshirt"
+     ],
+     "price": "148.00",
+     "published_at": "2026-08-21T12:30:55-04:00"
     }
    ]
   },
@@ -1772,7 +1762,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2649000",
+     "price": "2652000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -1785,7 +1775,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5299000",
+     "price": "5303000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -1797,7 +1787,7 @@
       "printful",
       "wsc"
      ],
-     "price": "927000",
+     "price": "928000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -1809,7 +1799,7 @@
       "printful",
       "wsc"
      ],
-     "price": "927000",
+     "price": "928000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -1820,7 +1810,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1590000",
+     "price": "1591000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -1874,55 +1864,54 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Duck Hunting Gear Toile Navy Polo Shirt DVC003",
-     "handle": "duck-hunting-gear-toile-navy-polo-shirt-dvc003",
-     "type": "Polo Shirt",
-     "tags": [
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-17T00:53:53-06:00"
-    },
-    {
-     "title": "Labrador Retriever Polo Shirt DVC002",
-     "handle": "labrador-retriever-polo-shirt-dvc002",
-     "type": "Polo Shirt",
-     "tags": [
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-17T00:45:05-06:00"
-    },
-    {
-     "title": "Deer Skull Digital Camo Polo Shirt DVC001",
-     "handle": "deer-skull-digital-camo-polo-shirt-dvc001",
-     "type": "Polo Shirt",
-     "tags": [
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-17T00:35:24-06:00"
-    },
-    {
-     "title": "Navy Deer Skull Micro Pattern Polo Shirt DP1012",
-     "handle": "navy-deer-skull-micro-pattern-polo-shirt-dp1012",
+     "title": "Dove Hunter Camo Hawaiint Shirt DVC009",
+     "handle": "dove-hunter-camo-hawaiint-shirt-dvc009",
      "type": "Polo Shirt",
      "tags": [
       "Polo Shirt"
      ],
      "price": "41.99",
-     "published_at": "2026-08-17T00:24:55-06:00"
+     "published_at": "2026-08-21T04:02:45-06:00"
     },
     {
-     "title": "Mallard Duck Cream Waterfowl Polo Shirt VCP1047",
-     "handle": "mallard-duck-cream-waterfowl-polo-shirt-vcp1047",
+     "title": "Grim Reaper Bow Hunter Camo Polo Shirt DVC008",
+     "handle": "grim-reaper-bow-hunter-camo-polo-shirt-dvc008",
      "type": "Polo Shirt",
      "tags": [
-      "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-08-15T20:44:04-06:00"
+     "published_at": "2026-08-21T03:27:53-06:00"
+    },
+    {
+     "title": "Dove Shell Camo Polo Shirt DVC007",
+     "handle": "dove-shell-camo-polo-shirt-dvc007",
+     "type": "Polo Shirt",
+     "tags": [
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-21T03:25:42-06:00"
+    },
+    {
+     "title": "Mourning Dove Southwestern Patchwork Polo Shirt DVC006",
+     "handle": "mourning-dove-southwestern-patchwork-polo-shirt-dvc006",
+     "type": "Polo Shirt",
+     "tags": [
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-21T03:23:50-06:00"
+    },
+    {
+     "title": "Mourning Dove Watercolor Camo Polo Shirt DVC005",
+     "handle": "mourning-dove-watercolor-camo-polo-shirt-dvc005",
+     "type": "Polo Shirt",
+     "tags": [
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-21T03:21:59-06:00"
     }
    ]
   },

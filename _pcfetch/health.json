@@ -1,6 +1,6 @@
 {
  "schema_version": "1.2",
- "checked_at": "2026-08-22T04:15:35.093900+07:00",
+ "checked_at": "2026-08-22T04:40:47.043248+07:00",
  "date": "2026-08-22",
  "projects": [
   {
@@ -42,16 +42,12 @@
   {
    "project": "gritfell",
    "checks": [
-    "FAIL live-fetch cu: 2026-08-21 (hom nay 2026-08-22)",
-    "OK feed 13/13",
-    "FAIL social-fetch cu: 2026-08-21"
+    "OK live-fetch = hom nay",
+    "OK feed 13/13"
    ],
    "healed": [],
-   "need_human": [
-    "gritfell: du lieu dung o 2026-08-21, task CO THAT (5 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
-    "gritfell: social dung o 2026-08-21 (hom nay 2026-08-22). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gritfell"
-   ],
-   "status": "FAIL",
+   "need_human": [],
+   "status": "OK",
    "feeds": "13/13",
    "reddit": "10/10"
   },
@@ -161,8 +157,6 @@
  "need_human": [
   "gerberaprints: du lieu dung o 2026-08-21, task CO THAT (3 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
   "gerberaprints: social dung o 2026-08-21 (hom nay 2026-08-22). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gerberaprints",
-  "gritfell: du lieu dung o 2026-08-21, task CO THAT (5 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
-  "gritfell: social dung o 2026-08-21 (hom nay 2026-08-22). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gritfell",
   "gerbera-live-fetch.json dung o 2026-08-21 (hom nay 2026-08-22) — ban tin Gerbera market moi sang DOC file nay (khong phai gerberaprints-live-fetch.json). Sinh boi: Task Scheduler 'Gerbera PC Fetch' 06:45 (gerbera_fetch.py v1.1.1, 15 nguon/lan). Kiem: schtasks /Query /TN \"Gerbera PC Fetch\" /V /FO LIST | findstr \"Last Result\"",
   "gerbera-market.json dung o 2026-08-21 (hom nay 2026-08-22) — GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.. Sinh boi: routine cloud [Gerbera-Trend] Research. Kiem: Cloud chua duoc cap quyen ghi repo (git proxy 403). Khai repo GerberaPrints/foxera-daily vao sources cua task cloud, lay task 'cloud handoff foxera-daily' lam mau.",
   "gritfell-daily.json dung o 2026-08-03 (hom nay 2026-08-22) — ban tin GritFell moi sang. Sinh boi: routine cloud GritFell Daily. Kiem: Nhu tren — cap quyen repo cho task cloud.",
