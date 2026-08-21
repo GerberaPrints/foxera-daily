@@ -1,6 +1,6 @@
 {
  "schema_version": "1.2",
- "checked_at": "2026-08-21T10:54:36.849754+07:00",
+ "checked_at": "2026-08-21T10:56:36.621424+07:00",
  "date": "2026-08-21",
  "projects": [
   {
@@ -14,14 +14,12 @@
   {
    "project": "genusfaith",
    "checks": [
-    "FAIL live-fetch cu: 2026-08-20 (hom nay 2026-08-21)",
+    "OK live-fetch = hom nay",
     "OK feed 7/7"
    ],
    "healed": [],
-   "need_human": [
-    "genusfaith: du lieu dung o 2026-08-20, task CO THAT (3 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - genusfaith\" /V /FO LIST | findstr \"Last Result\""
-   ],
-   "status": "FAIL",
+   "need_human": [],
+   "status": "OK",
    "feeds": "7/7",
    "reddit": "1/1"
   },
@@ -129,7 +127,6 @@
   }
  ],
  "need_human": [
-  "genusfaith: du lieu dung o 2026-08-20, task CO THAT (3 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - genusfaith\" /V /FO LIST | findstr \"Last Result\"",
   "gerbera-market.json dung o 2026-08-03 (hom nay 2026-08-21) — GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.. Sinh boi: routine cloud [Gerbera-Trend] Research. Kiem: Cloud chua duoc cap quyen ghi repo (git proxy 403). Khai repo GerberaPrints/foxera-daily vao sources cua task cloud, lay task 'cloud handoff foxera-daily' lam mau.",
   "gritfell-daily.json dung o 2026-08-03 (hom nay 2026-08-21) — ban tin GritFell moi sang. Sinh boi: routine cloud GritFell Daily. Kiem: Nhu tren — cap quyen repo cho task cloud.",
   "genusfaith-daily.json dung o 2026-08-03 (hom nay 2026-08-21) — ban tin GenusFaith moi sang. Sinh boi: routine cloud Genus-Research Daily. Kiem: Nhu tren — cap quyen repo cho task cloud.",
