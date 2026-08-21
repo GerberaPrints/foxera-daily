@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-selfcheck.py — TU KIEM TRA va TU VA LOI cho _pcfetch.   v1.1 (20/08/2026)
+selfcheck.py — TU KIEM TRA va TU VA LOI cho _pcfetch.   v1.2 (20/08/2026)
 
     python _pcfetch\\selfcheck.py            (kiem het moi du an)
     python _pcfetch\\selfcheck.py gritfell   (chi mot du an)
@@ -49,6 +49,27 @@ CACH SUA (file nay):
   · Them phan biet "task CHUA BAO GIO duoc tao" vs "task da chay roi dung",
     doc tu logs/<du_an>_log.txt — hai truong hop nay CACH SUA KHAC NHAU.
 
+=========================== v1.2 — 20/08/2026 (chieu) ===========================
+Vá HAI diem mu con lai sau v1.1:
+
+(1) FILE KHONG THUOC DU AN NAO THI KHONG AI KIEM.
+    selfcheck chi kiem file duoc khai trong projects/*.json (out_live/out_social).
+    Nhung hai file QUAN TRONG NHAT lai khong nam trong do:
+      · gerbera-live-fetch.json   — file ma ban tin Gerbera THUC SU doc,
+        do gerbera_fetch.py (duong ong cu) sinh luc 06:45
+      · genusfaith-live-fetch.json — file GIAU (co 'changes', price_bands...),
+        do genusfaith_fetch.py sinh luc 04:00
+    Rieng file thu hai vua ROI KHOI vung giam sat sang nay: de chong pcfetch
+    ghi de len no, out_live cua config genusfaith da doi sang file phu
+    '-pcfetch'. Chong duoc ghi de nhung mat giam sat — doi mot loi lay mot loi.
+    => Them _pcfetch/watch.json: danh sach file BUOC PHAI tuoi, kiem doc lap
+       voi projects/. Thieu file watch.json thi bo qua, khong bao loi.
+
+(2) FAIL MA KHONG NOI CAN LAM GI.
+    13:27 hom nay in "TONG: FAIL | can nguoi 0 viec" — bao do nhung khong ke
+    ra viec nao. Nhanh 'social-fetch cu' va 'khong co social' truoc day khong
+    sinh muc need_human. Nay sinh, kem lenh chay lai cu the.
+
 Dau ra:  _pcfetch/health.json          (may doc)
          _pcfetch/logs/selfheal.log    (nguoi doc, chi ghi khi CO va)
 Ma thoat: 0 = khong co gi can nguoi · 1 = co viec can nguoi
@@ -56,7 +77,7 @@ Ma thoat: 0 = khong co gi can nguoi · 1 = co viec can nguoi
 import json, os, sys, re, time, shutil, difflib
 from datetime import datetime, timezone, timedelta
 
-VERSION = "1.1"
+VERSION = "1.2"
 TZ = timezone(timedelta(hours=7))
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -257,12 +278,22 @@ def check_project(project, today, do_heal=True):
     errs = list((live.get("errors") if live else []) or [])
     if (cfg.get("social") or {}).get("enabled"):
         if not os.path.exists(soc_p):
-            fail("khong co %s" % os.path.basename(soc_p))
+            fail("khong co %s" % os.path.basename(soc_p),
+                 "%s: chua bao gio sinh duoc %s. Chay: "
+                 "_pcfetch\\run_pc_fetch.bat %s"
+                 % (project, os.path.basename(soc_p), project))
         else:
             with open(soc_p, encoding="utf-8") as f:
                 soc = json.load(f)
             if soc.get("date") != today:
-                fail("social-fetch cu: %s" % soc.get("date"))
+                # v1.2: truoc day nhanh nay KHONG sinh need_human -> bao FAIL
+                # ma muc "can nguoi" van rong. Bao do ma khong noi lam gi thi
+                # nguoi doc khong hanh dong duoc.
+                fail("social-fetch cu: %s" % soc.get("date"),
+                     "%s: social dung o %s (hom nay %s). Task co the dang chay "
+                     "script khac khong quet social. Chay tay de xac nhan: "
+                     "_pcfetch\\run_pc_fetch.bat %s"
+                     % (project, soc.get("date"), today, project))
             nsub = sum(len(v) for v in ((cfg["social"].get("subs")) or {}).values())
             oks = len(soc.get("reddit") or {})
             rep["reddit"] = "%d/%d" % (oks, nsub)
@@ -328,6 +359,65 @@ def check_project(project, today, do_heal=True):
     return rep
 
 
+# ─────────────────── v1.2: file ngoai du an ───────────────────
+
+def check_watchlist(today):
+    """Kiem cac file BUOC PHAI tuoi nhung khong thuoc project nao.
+
+    Doc _pcfetch/watch.json:
+      [{"file": "gerbera-live-fetch.json",
+        "vi_sao": "ban tin Gerbera doc file nay",
+        "sinh_boi": "gerbera_fetch.py luc 06:45",
+        "sua": "schtasks /Query /TN \"...\" /V /FO LIST | findstr \"Last Result\""}]
+
+    Khong co watch.json -> tra ve [] va im lang. Day la tinh nang THEM,
+    khong duoc lam gay ban chay cu.
+    """
+    wp = os.path.join(HERE, "watch.json")
+    if not os.path.exists(wp):
+        return []
+    try:
+        items = json.load(open(wp, encoding="utf-8"))
+    except Exception as e:
+        return [{"project": "watch.json", "status": "FAIL", "checks": ["FAIL doc khong duoc: %s" % e],
+                 "healed": [], "need_human": ["watch.json hong, sua lai cho dung JSON"]}]
+    reps = []
+    for it in items:
+        name = it.get("file")
+        r = {"project": "[watch] " + str(name), "checks": [], "healed": [],
+             "need_human": [], "status": "OK"}
+        fp = os.path.join(ROOT, name or "")
+        if not name or not os.path.exists(fp):
+            r["status"] = "FAIL"
+            r["checks"].append("FAIL khong co file")
+            r["need_human"].append("%s: khong ton tai. %s" % (name, it.get("sua", "")))
+        else:
+            try:
+                d = json.load(open(fp, encoding="utf-8"))
+            except Exception as e:
+                r["status"] = "FAIL"; r["checks"].append("FAIL doc loi")
+                r["need_human"].append("%s: doc khong duoc (%s)" % (name, e)); reps.append(r); continue
+            got = d.get("date")
+            if got != today:
+                r["status"] = "FAIL"
+                r["checks"].append("FAIL cu: %s" % got)
+                r["need_human"].append(
+                    "%s dung o %s (hom nay %s) — %s. Sinh boi: %s. Kiem: %s"
+                    % (name, got, today, it.get("vi_sao", ""),
+                       it.get("sinh_boi", "?"), it.get("sua", "?")))
+            else:
+                r["checks"].append("OK = hom nay")
+            src = d.get("source") or d.get("producer")
+            want = it.get("sinh_boi_khoa")
+            if want and src and want not in str(src):
+                r["status"] = "FAIL"
+                r["need_human"].append(
+                    "%s: nguon la '%s' chu khong phai '%s' => co the da bi duong "
+                    "ong KHAC ghi de. Kiem ngay." % (name, src, want))
+        reps.append(r)
+    return reps
+
+
 # ─────────────────── chay ───────────────────
 
 def main():
@@ -366,6 +456,13 @@ def main():
                                            r.get("reddit", "-"), note[:24]))
         for h in r["healed"]:
             print("   TU VA: " + h)
+
+    # v1.2 — file ngoai du an
+    wreps = check_watchlist(today)
+    for r in wreps:
+        reps.append(r); need += r["need_human"]
+        note = "; ".join(c for c in r["checks"] if not c.startswith("OK")) or "sach"
+        print("%-16s %-8s %-9s %-9s %s" % (r["project"][:16], r["status"], "-", "-", note[:24]))
 
     health = {"schema_version": VERSION, "checked_at": datetime.now(TZ).isoformat(),
               "date": today, "projects": reps,
