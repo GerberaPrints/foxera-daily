@@ -1,0 +1,40 @@
+--- truoc
++++ sau
+@@ -340,12 +340,29 @@
+         ? ' · rev7d $' + Math.round(s.rev7) + ' · spend7d $' + Math.round(s.spend7) : ' · ' + (s.note || '')));
+ 
+-  var j = gp_loadJson_();
+-  L.push('B3 · GitHub JSON: ' + j.status + (j.date ? ' · date=' + j.date + ' (' + j.age_days + 'd)' : '') +
+-         (j.blocks_present ? ' · khối: ' + j.blocks_present.join(',') : ''));
+-  if (j.age_days === 1) L.push('     ℹ️ cũ 1 ngày = ĐÚNG (Cowork push 09:30, báo cáo chạy 07:00)');
+-  if (j.superseded && j.superseded.length)
+-    L.push('     ℹ️ bỏ qua ' + j.superseded.join(',') + ' — cố ý, đã có nguồn native');
+-  if (j.orphan && j.orphan.length)
+-    L.push('     🚨 khối LẠ chưa khai: ' + j.orphan.join(',') + ' → đang bị bỏ rơi im lặng');
++  // -- v3.9.1 (21/08/2026) — doi canh bao GIA lay canh bao THAT ------------
++  // gerbera-ads.json da khai tu 18/07/2026: task 'gerbera-ads-report-daily'
++  // bi xoa khi gop vao 'gerbera-trend-research', B9 chuyen sang market.json.
++  // 7 nhip dang chay KHONG goi gp_loadJson_() (chi gpSendAll/gpDailyRun goi,
++  // ca hai da go khoi trigger) nen file chet khong gay hai. Nhung self-test
++  // van doc no roi in "cu N ngay" suot hon 30 ngay = canh bao gia.
++  // Canh bao gia lap moi ngay lam nguoi ta quen mat bo qua, den hom co canh
++  // bao THAT cung bo qua luon — da xay ra: email Growth Hub bao dung 15 ngay
++  // lien ma khong ai doc. Nen: 1 dong trung tinh, het.
++  L.push('B3 \u00b7 gerbera-ads.json: \u23f9 da khai tu 18/07/2026 \u2014 bo qua CO CHU DICH');
++
++  // Va kiem thu that su quan trong ma self-test truoc nay KHONG he dung toi.
++  // gerbera-market.json la nguon cua 4 nhip: 08:30 / 09:00 / 09:45 / 10:00.
++  // No dung o 2026-08-03 suot 18 ngay, 4 nhip phat lai ban cu moi sang, ma
++  // self-test khong he mot loi. Do moi la cho dang canh bao.
++  var m = gp_loadMarketJson_();
++  var mAge = (m.age_days == null) ? null : m.age_days;
++  L.push('B3 \u00b7 gerbera-market.json (nguon 4 nhip): ' + m.status +
++         (m.date ? ' \u00b7 date=' + m.date + ' (cu ' + mAge + 'd)' : '') +
++         (m.keys && m.keys.length ? ' \u00b7 khoi: ' + m.keys.join(',') : ''));
++  if (mAge != null && mAge >= 2)
++    L.push('     \ud83d\udea8 CU ' + mAge + ' NGAY \u2014 4 nhip dang phat lai ban cu. ' +
++           'Task cloud [Gerbera-Trend] Research chua push duoc len repo.');
++  else if (mAge === 1)
++    L.push('     \u2139 cu 1 ngay = binh thuong neu chay self-test truoc nhip 08:30');
+ 
+   L.push('', 'Script Properties:');
