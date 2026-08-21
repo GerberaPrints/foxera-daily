@@ -36,5 +36,17 @@
   "vi_sao": "ban tin FoxEra Job",
   "sinh_boi": "routine cloud FoxEra Job",
   "sua": "Nhu tren — cap quyen repo cho task cloud."
+ },
+ {
+  "file": "foxera-daily.json",
+  "vi_sao": "Ban tin FoxEra Etsy/POD. CANH BAO: file nay TRONG XANH nhung chi vi user chay TAY moi sang — chinh no tu khai trong truong source: 'cloud chay TAY 21/08 (luot 02:00 va 04:00 fire nhung khong giao file)'. Ngay nao user quen lam tay la no cu ma khong ai biet.",
+  "sinh_boi": "routine cloud Etsy FoxEra Daily Research 02:00 + CHAY BU 04:00 (ca hai dang khong giao duoc file)",
+  "sua": "Cung goc voi 4 file cloud kia: Permissions cua task dang la 'Manually approve' -> doi sang tu dong."
+ },
+ {
+  "file": "foxera-accounts-daily.json",
+  "vi_sao": "Registry tai khoan Etsy — Hub GAS doc qua raw URL (key external_fetch_contract).",
+  "sinh_boi": "routine cloud FoxEra (cung nhanh voi foxera-daily.json)",
+  "sua": "Nhu tren — Permissions cua task cloud."
  }
 ]
