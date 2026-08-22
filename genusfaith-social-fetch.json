@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-08-22",
- "fetched_at": "2026-08-22T04:15:03.291817+07:00",
+ "date": "2026-08-23",
+ "fetched_at": "2026-08-23T04:15:03.309350+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "I Assume you know what Feast Day is today",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1votmi4/i_assume_you_know_what_feast_day_is_today/",
-     "selftext_head": ""
-    },
     {
      "title": "Pope Leo XIV renews call to end violence against Palestinians",
      "score": null,
@@ -37,12 +28,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Mary's assumption feast and mother's day in Costa Rica.",
+     "title": "[Free Friday] Gestures, The Cross as a shield against worldly evil",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vp3rhw/marys_assumption_feast_and_mothers_day_in_costa/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vuiwr0/free_friday_gestures_the_cross_as_a_shield/",
      "selftext_head": ""
     },
     {
@@ -55,21 +46,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Nightcrawler is the best",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vox3iy/nightcrawler_is_the_best/",
-     "selftext_head": ""
-    },
-    {
      "title": "Catholic parents ask Leo XIV to stop the gender ideology promoted by the bishop of Hamburg in his schools",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vqrcgg/catholic_parents_ask_leo_xiv_to_stop_the_gender/",
+     "selftext_head": ""
+    },
+    {
+     "title": "One of the Internet's Smartest Agnostics -- Joe Schmid of Majesty of Reason -- Just Converted to Catholicism.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vuv2zo/one_of_the_internets_smartest_agnostics_joe/",
      "selftext_head": ""
     },
     {
@@ -82,21 +73,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Happy Feast and Happy Independence Day! 🇮🇳",
+     "title": "Feast of St Pope Pius X",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vovk86/happy_feast_and_happy_independence_day/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vui2kg/feast_of_st_pope_pius_x/",
      "selftext_head": ""
     },
     {
-     "title": "Pope Leo XIV on liturgy: Priests must remain faithful to Mass rubrics",
+     "title": "Picture I took at a museum",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vp9x3j/pope_leo_xiv_on_liturgy_priests_must_remain/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vv0n30/picture_i_took_at_a_museum/",
      "selftext_head": ""
     },
     {
@@ -118,12 +109,12 @@
      "selftext_head": ""
     },
     {
-     "title": "[Free Friday] Gestures, The Cross as a shield against worldly evil",
+     "title": "I made a rosary with beads filled with rose petals. [FREE FRIDAY]",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vuiwr0/free_friday_gestures_the_cross_as_a_shield/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vuswaw/i_made_a_rosary_with_beads_filled_with_rose/",
      "selftext_head": ""
     },
     {
@@ -142,6 +133,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vrvaqb/st_helena_empress_butlers_lives_of_the_saints/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I just found out my wife has been cheating on me",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vr5nsj/i_just_found_out_my_wife_has_been_cheating_on_me/",
      "selftext_head": ""
     }
    ]
@@ -200,7 +200,7 @@
   "baptism gift": [
    "baptism gifts",
    "baptism gifts for boys",
-   "baptism gift for girl",
+   "baptism gifts for girls",
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "severe thunderstorm watch",
-  "former queen bassist barry mitchell passes",
-  "william contreras",
-  "wect",
-  "chuck schumer",
-  "zay jones",
-  "georgina rodríguez",
-  "denver nuggets",
-  "kevin keegan",
-  "david harbour avengers doomsday spoiler"
+  "tornado warning cleveland",
+  "j j mccarthy",
+  "cucurella",
+  "giants depth chart",
+  "devon achane",
+  "tolima - bucaramanga",
+  "scooter braun",
+  "odell beckham jr",
+  "luis garcía jr.",
+  "mike mcdaniel"
  ],
  "errors": []
 }
