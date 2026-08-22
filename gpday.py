@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-gpday.py — day tay bat ky ban tin cloud nao len repo foxera-daily.
-Ban TONG QUAT cua gpday21.py: KHONG gan cung ngay, dung duoc moi ngay.
+gpday.py v2 — day tay bat ky ban tin cloud nao len repo foxera-daily.
 
 Chay:  python gpday.py            -> tu tim moi file bao cao trong Downloads
        python gpday.py gerbera    -> chi xu ly file cua gerbera
@@ -10,7 +9,15 @@ Tu dong:
  - tim file trong Downloads (ke ca khi Chrome bo dau gach ngang / them " (1)")
  - kiem tra JSON hop le + ngay ben trong KHONG cu hon file dang co tren repo
  - voi .jsonl: TU CHOI chay neu de len se lam mat dong du lieu
- - pull --rebase truoc, add tuong minh tung file, commit, push, roi FETCH LAI de xac minh
+ - commit TRUOC, roi pull --rebase --autostash, roi push, roi FETCH LAI xac minh
+
+v2 sua loi cua v1:
+ - v1 chay `git pull --rebase` TRUOC khi commit -> chet vi working tree luon
+   dirty (selfcheck.py ghi lai health.json + logs moi lan chay).
+   v2: commit truoc, pull sau, va pull dung --autostash de tu cat/tra lai
+   nhung file dirty khac.
+ - v1 bao "Khong co gi bi thay doi tren repo" khi that bai — SAI, file da duoc
+   chep vao repo roi. v2 noi dung trang thai.
 
 KHONG dung --force. KHONG dung git add -A.
 """
@@ -19,7 +26,6 @@ import os, sys, json, glob, shutil, subprocess, datetime
 REPO = r"C:\Users\Admin\foxera-daily"
 DL   = os.path.join(os.path.expanduser("~"), "Downloads")
 
-# stem -> loai file. Them dong moi o day neu co job khac.
 TARGETS = {
     "gerbera-market":          "json",
     "gerbera-metrics":         "jsonl",
@@ -36,7 +42,7 @@ TARGETS = {
 }
 
 def die(m):
-    print("\n[X] DUNG LAI: " + m + "\n    Khong co gi bi thay doi tren repo.")
+    print("\n[X] DUNG LAI: " + m)
     sys.exit(1)
 
 def git(*a, check=True):
@@ -64,7 +70,7 @@ def date_of(path_or_text, kind, is_text=False):
     return json.loads(txt).get("date")
 
 only = (sys.argv[1].lower() if len(sys.argv) > 1 else None)
-print("=" * 62); print(" gpday.py — day ban tin cloud len repo"); print("=" * 62)
+print("=" * 62); print(" gpday.py v2 — day ban tin cloud len repo"); print("=" * 62)
 if not os.path.isdir(REPO): die("khong thay repo: " + REPO)
 
 git("fetch", "-q", "origin", "main")
@@ -78,7 +84,6 @@ for stem, kind in TARGETS.items():
         continue
     name = f"{stem}.{kind}"
 
-    # --- ngay trong file moi ---
     try:
         dnew = date_of(src, kind)
     except Exception as e:
@@ -86,7 +91,6 @@ for stem, kind in TARGETS.items():
     if not dnew:
         die(f"{name}: khong tim thay truong 'date'.")
 
-    # --- ngay dang co tren repo ---
     cur = git("show", f"origin/main:{name}", check=False)
     dold = None
     if cur.returncode == 0:
@@ -100,7 +104,6 @@ for stem, kind in TARGETS.items():
         print(f"[=] {name}: da la {dnew} tren repo — bo qua")
         continue
 
-    # --- .jsonl: chan mat du lieu ---
     if kind == "jsonl":
         new_lines = [l for l in open(src, encoding="utf-8").read().splitlines() if l.strip()]
         for i, l in enumerate(new_lines):
@@ -122,10 +125,9 @@ if not staged:
     print("\nKhong co file nao moi hon ban tren repo. Khong lam gi.")
     sys.exit(0)
 
-print("\n--- git pull --rebase ---")
-r = git("pull", "--rebase", "origin", "main"); print((r.stdout + r.stderr).strip())
-
+# ---------- COMMIT TRUOC (v1 sai o day: pull truoc -> chet vi dirty) ----------
 names = [n for n, _, _ in staged]
+print("\n--- git add + commit ---")
 git("add", *names)
 if not git("diff", "--cached", "--name-only").stdout.strip():
     die("git khong thay thay doi — file tren repo da giong het file tai ve.")
@@ -133,14 +135,23 @@ if not git("diff", "--cached", "--name-only").stdout.strip():
 today = datetime.date.today().isoformat()
 git("-c", "commit.gpgsign=false", "commit", "-m",
     f"cloud handoff {today}: " + ", ".join(names))
+print("commit", git("rev-parse", "--short", "HEAD").stdout.strip())
+
+# ---------- PULL SAU, co --autostash cho cac file dirty khac ----------
+print("\n--- git pull --rebase --autostash ---")
+r = git("pull", "--rebase", "--autostash", "origin", "main", check=False)
+print((r.stdout + r.stderr).strip())
+if r.returncode:
+    die("pull that bai. LUU Y: 2 file DA duoc chep vao repo va DA commit local, "
+        "chua push. Xu ly conflict roi chay lai.")
 
 print("\n--- git push ---")
 r = git("push", "origin", "HEAD:main", check=False)
 print((r.stdout + r.stderr).strip())
-if r.returncode != 0:
-    die("push that bai — xem thong bao ngay tren.")
+if r.returncode:
+    die("push that bai. LUU Y: 2 file DA commit local, chua len repo.")
 
-# --- xac minh tren remote, khong tin vao ma thoat ---
+# ---------- XAC MINH TREN REMOTE ----------
 git("fetch", "-q", "origin", "main")
 print("\n" + "=" * 62)
 bad = 0
