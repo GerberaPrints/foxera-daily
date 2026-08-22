@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-08-22",
- "fetched_at": "2026-08-22T04:45:02.711184+07:00",
+ "date": "2026-08-23",
+ "fetched_at": "2026-08-23T04:45:02.737511+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -118,6 +118,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Is there anything better than getting a fresh driving range stall?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vuhheu/is_there_anything_better_than_getting_a_fresh/",
+     "selftext_head": ""
+    },
+    {
      "title": "Mac Boucher's Crazy Hole-in-One 🤯",
      "score": null,
      "num_comments": null,
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1vty3p2/it_is_irritating/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Tough break for Scottie as his bunker shot hits a sprinkler head and finds the water",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vq4tz7/tough_break_for_scottie_as_his_bunker_shot_hits_a/",
      "selftext_head": ""
     }
    ]
@@ -198,14 +198,14 @@
   "custom golf polo": [
    "custom golf polos",
    "custom golf polos for men",
+   "custom golf polo shirts",
    "custom golf polo with face",
    "custom golf polos with logo",
-   "custom golf polo shirts",
-   "custom golf polo shirts with logo",
-   "custom golf polos near me",
-   "custom golf polos peter millar",
    "custom golf polo shirts uk",
-   "custom golf polos australia"
+   "custom golf polo shirts with logo",
+   "custom golf polos australia",
+   "custom golf polos canada",
+   "custom golf polos near me"
   ],
   "golf tournament gift": [
    "golf tournament gift ideas",
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "boerne little league",
-  "gary woodland",
-  "pga leaderboard",
-  "wyndham clark",
-  "dan driscoll",
-  "justin thomas",
-  "go fans",
-  "severe thunderstorm watch",
-  "chuck schumer",
-  "former queen bassist barry mitchell passes"
+  "chivas vs tijuana",
+  "celina high school quarterback parker wynk",
+  "gauge young",
+  "memphis weather",
+  "bears vs bengals",
+  "eagles vs patriots",
+  "devin singletary",
+  "tornado warning cleveland",
+  "tolima - bucaramanga",
+  "cucurella"
  ],
  "errors": []
 }
