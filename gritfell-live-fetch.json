@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-22",
- "fetched_at": "2026-08-22T04:30:03.291854+07:00",
+ "date": "2026-08-23",
+ "fetched_at": "2026-08-23T04:30:03.351812+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 97,
@@ -1269,7 +1269,7 @@
       "hiking-collection",
       "new-arrivals-collection",
       "no-treet",
-      "not-online"
+      "published-online"
      ],
      "price": "45.00",
      "published_at": "2026-08-20T09:57:46-05:00"
@@ -1325,6 +1325,25 @@
   "AFTCO": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "80's Offshore Hat",
+     "handle": "80s-offshore-fishing-snapback-hat",
+     "type": "MENS HATS",
+     "tags": [
+      "__tab2:hats-size-chart-with-image-in-there",
+      "accessories",
+      "filter::type:FISHING HATS",
+      "filter::type:HATS",
+      "fishing-clothing",
+      "fishing-hats",
+      "Headwear",
+      "mens",
+      "mens-fishing-hats",
+      "MID-PROFILE-FIT"
+     ],
+     "price": "32.00",
+     "published_at": "2026-08-21T16:49:09-07:00"
+    },
     {
      "title": "Chevron Waffle Beanie",
      "handle": "chevron-waffle-fishing-beanie",
@@ -1415,26 +1434,6 @@
      ],
      "price": "29.00",
      "published_at": "2026-08-19T15:39:21-07:00"
-    },
-    {
-     "title": "Brackish Beanie",
-     "handle": "brackish-fishing-beanie",
-     "type": "MENS HATS",
-     "tags": [
-      "__tab2:hats-size-chart-with-image-in-there",
-      "accessories",
-      "FA26",
-      "filter::type:FISHING HATS",
-      "filter::type:HATS",
-      "fishing-clothing",
-      "fishing-hats",
-      "Headwear",
-      "mens",
-      "mens-fishing-hats",
-      "NEW"
-     ],
-     "price": "29.00",
-     "published_at": "2026-08-19T15:25:15-07:00"
     }
    ]
   },
@@ -1819,6 +1818,36 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "8-Point Club Whitetail Polo - Men's Hunting Achievement Polo",
+     "handle": "8-point-club-whitetail-polo-mens-hunting-achievement-polo",
+     "type": "",
+     "tags": [
+      "polo"
+     ],
+     "price": "65.95",
+     "published_at": "2026-08-22T00:48:22-07:00"
+    },
+    {
+     "title": "Mourning Dove Golf Polo Shirt All-Over Print Dove Hunting Gift Sunglasses Dove",
+     "handle": "mourning-dove-golf-polo-shirt-all-over-print-dove-hunting-gift-sunglasses-dove",
+     "type": "",
+     "tags": [
+      "polo"
+     ],
+     "price": "65.95",
+     "published_at": "2026-08-21T20:32:22-07:00"
+    },
+    {
+     "title": "Mallard Duck Icon Polo — Men's Hunting Season Polo",
+     "handle": "mallard-duck-icon-polo-mens-hunting-season-polo",
+     "type": "",
+     "tags": [
+      "polo"
+     ],
+     "price": "65.95",
+     "published_at": "2026-08-21T20:12:46-07:00"
+    },
+    {
      "title": "Turkey Hunting Hoodie – All-Over Fan-Feather Print Unisex Pullover, Gift for Turkey Hunters",
      "handle": "turkey-hunting-hoodie-all-over-fan-feather-print-unisex-pullover-gift-for-turkey-hunters",
      "type": "",
@@ -1833,30 +1862,6 @@
      "tags": [],
      "price": "69.95",
      "published_at": "2026-08-20T00:38:08-07:00"
-    },
-    {
-     "title": "Lab Duck Dog Hoodie – Retro \"Best Boy in the Blind\" Back Print Unisex Pullover, Gift for Bird Dog Lovers",
-     "handle": "lab-duck-dog-hoodie-retro-best-boy-in-the-blind-back-print-unisex-pullover-gift-for-bird-dog-lovers",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-08-20T00:34:47-07:00"
-    },
-    {
-     "title": "Mallard Duck Hoodie – All-Over Mallard Head Print Unisex Pullover, Subtle Duck Hunting Gift",
-     "handle": "mallard-duck-hoodie-all-over-mallard-head-print-unisex-pullover-subtle-duck-hunting-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-08-18T01:49:19-07:00"
-    },
-    {
-     "title": "Wild Boar Hunting Camo Hoodie – All-Over Brush Break-Up Hog Camo Unisex Pullover, Gift for Hog Hunters",
-     "handle": "wild-boar-hunting-camo-hoodie-all-over-brush-break-up-hog-camo-unisex-pullover-gift-for-hog-hunters",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-08-18T01:25:30-07:00"
     }
    ]
   },
@@ -1864,54 +1869,54 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Dove Hunter Camo Hawaiint Shirt DVC009",
-     "handle": "dove-hunter-camo-hawaiint-shirt-dvc009",
+     "title": "Duck Waterfowl Species Trellis Polo Shirt DVC0012",
+     "handle": "duck-waterfowl-species-trellis-polo-shirt-dvc0012",
+     "type": "Polo Shirt",
+     "tags": [
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-22T05:08:50-06:00"
+    },
+    {
+     "title": "Whitetail Buck Camo Polo Shirt DVC0011",
+     "handle": "whitetail-buck-camo-polo-shirt-dvc0011",
+     "type": "Polo Shirt",
+     "tags": [
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-22T04:05:04-06:00"
+    },
+    {
+     "title": "Mourning Dove Realtree Camo Hawaiian Shirt DVC0012",
+     "handle": "mourning-dove-realtree-camo-hawaiian-shirt-dvc0012",
      "type": "Polo Shirt",
      "tags": [
       "Polo Shirt"
      ],
      "price": "41.99",
-     "published_at": "2026-08-21T04:02:45-06:00"
+     "published_at": "2026-08-22T03:01:37-06:00"
     },
     {
-     "title": "Grim Reaper Bow Hunter Camo Polo Shirt DVC008",
-     "handle": "grim-reaper-bow-hunter-camo-polo-shirt-dvc008",
+     "title": "Wild Dove olive Hawaiian Shirt DVC0011",
+     "handle": "wild-dove-olive-hawaiian-shirt-dvc0011",
      "type": "Polo Shirt",
      "tags": [
       "Polo Shirt"
      ],
-     "price": "39.99",
-     "published_at": "2026-08-21T03:27:53-06:00"
+     "price": "41.99",
+     "published_at": "2026-08-22T02:57:13-06:00"
     },
     {
-     "title": "Dove Shell Camo Polo Shirt DVC007",
-     "handle": "dove-shell-camo-polo-shirt-dvc007",
+     "title": "Dove Hunting Hawaiian Shirt DVC0010",
+     "handle": "dove-hunting-hawaiian-shirt-dvc0010",
      "type": "Polo Shirt",
      "tags": [
       "Polo Shirt"
      ],
-     "price": "39.99",
-     "published_at": "2026-08-21T03:25:42-06:00"
-    },
-    {
-     "title": "Mourning Dove Southwestern Patchwork Polo Shirt DVC006",
-     "handle": "mourning-dove-southwestern-patchwork-polo-shirt-dvc006",
-     "type": "Polo Shirt",
-     "tags": [
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-21T03:23:50-06:00"
-    },
-    {
-     "title": "Mourning Dove Watercolor Camo Polo Shirt DVC005",
-     "handle": "mourning-dove-watercolor-camo-polo-shirt-dvc005",
-     "type": "Polo Shirt",
-     "tags": [
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-21T03:21:59-06:00"
+     "price": "41.99",
+     "published_at": "2026-08-22T02:54:04-06:00"
     }
    ]
   },
