@@ -17,36 +17,36 @@
   "file": "gerbera-market.json",
   "vi_sao": "GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.",
   "sinh_boi": "routine cloud [Gerbera-Trend] Research",
-  "sua": "Cloud chua duoc cap quyen ghi repo (git proxy 403). Khai repo GerberaPrints/foxera-daily vao sources cua task cloud, lay task 'cloud handoff foxera-daily' lam mau."
+  "sua": "Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich."
  },
  {
   "file": "gritfell-daily.json",
   "vi_sao": "ban tin GritFell moi sang",
   "sinh_boi": "routine cloud GritFell Daily",
-  "sua": "Nhu tren — cap quyen repo cho task cloud."
+  "sua": "Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich."
  },
  {
   "file": "genusfaith-daily.json",
   "vi_sao": "ban tin GenusFaith moi sang",
   "sinh_boi": "routine cloud Genus-Research Daily",
-  "sua": "Nhu tren — cap quyen repo cho task cloud."
+  "sua": "Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich."
  },
  {
   "file": "foxera-job.json",
   "vi_sao": "ban tin FoxEra Job",
   "sinh_boi": "routine cloud FoxEra Job",
-  "sua": "Nhu tren — cap quyen repo cho task cloud."
+  "sua": "Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich."
  },
  {
   "file": "foxera-daily.json",
   "vi_sao": "Ban tin FoxEra Etsy/POD. CANH BAO: file nay TRONG XANH nhung chi vi user chay TAY moi sang — chinh no tu khai trong truong source: 'cloud chay TAY 21/08 (luot 02:00 va 04:00 fire nhung khong giao file)'. Ngay nao user quen lam tay la no cu ma khong ai biet.",
   "sinh_boi": "routine cloud Etsy FoxEra Daily Research 02:00 + CHAY BU 04:00 (ca hai dang khong giao duoc file)",
-  "sua": "Cung goc voi 4 file cloud kia: Permissions cua task dang la 'Manually approve' -> doi sang tu dong."
+  "sua": "Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich."
  },
  {
   "file": "foxera-accounts-daily.json",
   "vi_sao": "Registry tai khoan Etsy — Hub GAS doc qua raw URL (key external_fetch_contract).",
   "sinh_boi": "routine cloud FoxEra (cung nhanh voi foxera-daily.json)",
-  "sua": "Nhu tren — Permissions cua task cloud."
+  "sua": "Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich."
  }
 ]
