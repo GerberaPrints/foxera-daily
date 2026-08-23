@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-08-23",
- "fetched_at": "2026-08-23T04:45:02.737511+07:00",
+ "date": "2026-08-24",
+ "fetched_at": "2026-08-24T04:45:02.807557+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -19,30 +19,12 @@
      "selftext_head": ""
     },
     {
-     "title": "I'm at the club and this lady just challenged me to a game.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vpvum5/im_at_the_club_and_this_lady_just_challenged_me/",
-     "selftext_head": ""
-    },
-    {
      "title": "Found in the hole on 18 at Wanumetonomy",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1vqo57j/found_in_the_hole_on_18_at_wanumetonomy/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Was visiting my family’s new club, but discovered that Donna Warner is the GOAT.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vpigkt/was_visiting_my_familys_new_club_but_discovered/",
      "selftext_head": ""
     },
     {
@@ -64,12 +46,12 @@
      "selftext_head": ""
     },
     {
-     "title": "\"Dad, what was prime 1988 Donna Warner like?\"",
+     "title": "Harold Varner III and friends kicked off Indiana golf course earlier this week, called out by club online",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vpzwqj/dad_what_was_prime_1988_donna_warner_like/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1vw7bwn/harold_varner_iii_and_friends_kicked_off_indiana/",
      "selftext_head": ""
     },
     {
@@ -100,12 +82,30 @@
      "selftext_head": ""
     },
     {
-     "title": "Marji Packer would’ve been the GOAT",
+     "title": "Albatross alert: Shaun Norris with a 261-yard big bird at the Nexo Championship (DP World Tour)",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vpzhar/marji_packer_wouldve_been_the_goat/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1vvcd5b/albatross_alert_shaun_norris_with_a_261yard_big/",
+     "selftext_head": ""
+    },
+    {
+     "title": "$140 tee time and these are the greens, wyd?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vvsotc/140_tee_time_and_these_are_the_greens_wyd/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Pink sand in a South Korean golf course",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vv8fl8/pink_sand_in_a_south_korean_golf_course/",
      "selftext_head": ""
     },
     {
@@ -127,21 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Mac Boucher's Crazy Hole-in-One 🤯",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vr6y7w/mac_bouchers_crazy_holeinone/",
-     "selftext_head": ""
-    },
-    {
      "title": "It is irritating",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1vty3p2/it_is_irritating/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Mac Boucher's Crazy Hole-in-One 🤯",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vr6y7w/mac_bouchers_crazy_holeinone/",
      "selftext_head": ""
     }
    ]
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "chivas vs tijuana",
-  "celina high school quarterback parker wynk",
-  "gauge young",
-  "memphis weather",
-  "bears vs bengals",
-  "eagles vs patriots",
-  "devin singletary",
-  "tornado warning cleveland",
-  "tolima - bucaramanga",
-  "cucurella"
+  "houston astros",
+  "raiders backup rb",
+  "mike washington jr",
+  "bubba wallace",
+  "astros score",
+  "mike farrell",
+  "francis tiafoe",
+  "tna lockdown 2026",
+  "ashton jeanty",
+  "ian happ"
  ],
  "errors": []
 }
