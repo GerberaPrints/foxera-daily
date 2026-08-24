@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-08-24",
- "fetched_at": "2026-08-24T04:15:03.368918+07:00",
+ "date": "2026-08-25",
+ "fetched_at": "2026-08-25T04:15:03.540748+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -46,15 +46,6 @@
      "selftext_head": ""
     },
     {
-     "title": "I'm a seminary dropout. Here are 5 things I would say to / ask my younger self if I could:",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vr9vow/im_a_seminary_dropout_here_are_5_things_i_would/",
-     "selftext_head": ""
-    },
-    {
      "title": "Picture I took at a museum",
      "score": null,
      "num_comments": null,
@@ -64,12 +55,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Catholic parents ask Leo XIV to stop the gender ideology promoted by the bishop of Hamburg in his schools",
+     "title": "I'm a seminary dropout. Here are 5 things I would say to / ask my younger self if I could:",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vqrcgg/catholic_parents_ask_leo_xiv_to_stop_the_gender/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vr9vow/im_a_seminary_dropout_here_are_5_things_i_would/",
      "selftext_head": ""
     },
     {
@@ -100,30 +91,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Saint Bartholomew, August 24th feast, martyr.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vwspju/saint_bartholomew_august_24th_feast_martyr/",
+     "selftext_head": ""
+    },
+    {
      "title": "I made a rosary with beads filled with rose petals. [FREE FRIDAY]",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vuswaw/i_made_a_rosary_with_beads_filled_with_rose/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Massachusetts Gov. Healey faces Catholic excommunication threat over abortion bill",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vqpvxc/massachusetts_gov_healey_faces_catholic/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Relic from south of italy",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vr33pn/relic_from_south_of_italy/",
      "selftext_head": ""
     },
     {
@@ -142,6 +124,24 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vrvaqb/st_helena_empress_butlers_lives_of_the_saints/",
+     "selftext_head": ""
+    },
+    {
+     "title": "God bless you all!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vuxp6l/god_bless_you_all/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I just found out my wife has been cheating on me",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vr5nsj/i_just_found_out_my_wife_has_been_cheating_on_me/",
      "selftext_head": ""
     }
    ]
@@ -190,8 +190,8 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
+   "confirmation gifts of the holy spirit",
    "confirmation gifts for adults",
-   "confirmation gifts for teenage boys",
    "confirmation gift ideas for girl",
    "confirmation gifts from sponsor",
    "confirmation gifts catholic",
@@ -235,19 +235,18 @@
   ],
   "first communion gift": [
    "first communion gifts",
-   "first communion gifts for girls",
    "first communion gifts for boys",
+   "first communion gifts for girls",
    "first communion gift ideas",
    "first communion gifts near me",
-   "first communion gift bags",
    "first communion gifts for boys catholic",
+   "first communion gift bags",
    "first communion gift ideas for boys",
    "first communion gift ideas for girl",
-   "first communion gifts from godparents"
+   "first communion gift for boy non religious"
   ],
   "catholic wedding gift": [
    "catholic wedding gifts",
-   "catholic wedding gift ideas",
    "catholic wedding gifts for couples",
    "catholic wedding gift ideas for couple",
    "catholic wedding gifts rituals",
@@ -255,11 +254,11 @@
    "catholic wedding gifts personalized",
    "catholic wedding gift bearers",
    "catholic wedding gifts for bride",
-   "catholic wedding gift for husband"
+   "catholic wedding gift for husband",
+   "catholic wedding gift for the poor"
   ],
   "christian tote bag": [
    "christian tote bag",
-   "christian tote bags for women",
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
@@ -293,16 +292,16 @@
   ]
  },
  "trends": [
-  "hurricanes weather",
-  "bmw championship payout",
-  "lake bachar",
-  "daequan wright",
-  "rory mcilroy",
-  "frances tiafoe",
-  "iran president",
-  "santos vs mirassol",
-  "one piece sneakers",
-  "tristan peters"
+  "trump beef",
+  "michael beasley",
+  "people coming out manhattan sewer",
+  "jaden hardy",
+  "monday night football",
+  "thunderstorm",
+  "why we should stop eating lettuce",
+  "cruz hewitt",
+  "trey benson",
+  "pete hegseth"
  ],
  "errors": []
 }
