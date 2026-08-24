@@ -2,20 +2,54 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-24",
- "fetched_at": "2026-08-24T04:30:03.636860+07:00",
+ "date": "2026-08-25",
+ "fetched_at": "2026-08-25T04:30:03.366406+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 97,
+   "count_returned": 100,
    "products": [
     {
-     "title": "Camou Sun Hoodie (Sample)",
+     "title": "Ocean Camo Sun Hoodie",
+     "handle": "ocean-camo-hoodie",
+     "type": "Hoodie",
+     "tags": [
+      "fishing",
+      "hoodie"
+     ],
+     "price": "59.00",
+     "published_at": "2026-08-24T03:19:50-07:00"
+    },
+    {
+     "title": "Wave Sun Hoodie",
+     "handle": "wave-sun-hoodie",
+     "type": "Hoodie",
+     "tags": [
+      "fishing",
+      "hoodie"
+     ],
+     "price": "59.00",
+     "published_at": "2026-08-24T02:39:05-07:00"
+    },
+    {
+     "title": "Ridgewater Camo Sun Hoodie",
+     "handle": "ridgewater-camo-sun-hoodie",
+     "type": "Hoodie",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-08-24T02:08:48-07:00"
+    },
+    {
+     "title": "Deer Woods Sun Hoodie",
      "handle": "camou-sun-hoodie-sample",
      "type": "Hoodie",
      "tags": [
-      "hoodie"
+      "hoodie",
+      "hunting"
      ],
-     "price": "69.00",
+     "price": "59.00",
      "published_at": "2026-08-12T19:33:46-07:00"
     },
     {
@@ -1131,6 +1165,7 @@
       "Fleece",
       "mallardcamo",
       "MENS",
+      "mens-shorts-bottoms",
       "NEW-COLOR-TAG",
       "NEWCOLOR",
       "RGroup_MWS5015",
@@ -1150,6 +1185,7 @@
       "Fleece",
       "Hoodies",
       "MENS",
+      "mens-outerwear-fleece",
       "NEW-COLOR-TAG",
       "NEWCOLOR",
       "Outerwear",
@@ -1188,69 +1224,103 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Alden #1494 Unlined Chukka Boot",
-     "handle": "alden-1494-unlined-chukka-boot",
-     "type": "Footwear",
+     "title": "Farris Waffle Knit Quarter Zip",
+     "handle": "farris-waffle-knit-quarter-zip",
+     "type": "Layering",
      "tags": [
       "FW2026ZR",
       "MENZR",
-      "MFOOTZR",
-      "MNEWZR"
+      "MNEWZR",
+      "MSHIRTZR",
+      "MSWEATLAYZR",
+      "WOOLZR"
      ],
-     "price": "730.00",
-     "published_at": "2026-08-14T14:31:27-05:00"
+     "price": "295.00",
+     "published_at": "2026-08-24T15:43:24-05:00"
     },
     {
-     "title": "Alden #6221L Unlined Leisure Penny Loafer",
-     "handle": "alden-6221-unlined-leisure-penny-loafer",
-     "type": "Footwear",
+     "title": "Waxed Cotton 6-Panel Hat - English Setter",
+     "handle": "waxed-cotton-6-panel-hat-english-setter",
+     "type": "Hats",
      "tags": [
+      "field sport",
       "FW2026ZR",
+      "HATSZR",
+      "HUNTZR",
       "MENZR",
-      "MFOOTZR",
-      "MNEWZR"
+      "MFIELDZR",
+      "MHATZR",
+      "MNEWZR",
+      "WFIELDZR",
+      "WHATZR",
+      "WNEWZR",
+      "WOMENZR"
      ],
-     "price": "694.00",
-     "published_at": "2026-08-14T14:31:25-05:00"
+     "price": "55.00",
+     "published_at": "2026-08-24T13:54:37-05:00"
     },
     {
-     "title": "Alden #403 Indy Boot",
-     "handle": "alden-403-indy-boot",
-     "type": "Footwear",
+     "title": "Waxed Cotton 6-Panel Hat - Cattle Brand",
+     "handle": "waxed-cotton-6-panel-hat-cattle-brand",
+     "type": "Hats",
      "tags": [
+      "field sport",
       "FW2026ZR",
+      "HATSZR",
+      "HUNTZR",
       "MENZR",
-      "MFOOTZR",
-      "MNEWZR"
+      "MFIELDZR",
+      "MHATZR",
+      "MNEWZR",
+      "WFIELDZR",
+      "WHATZR",
+      "WNEWZR",
+      "WOMENZR"
      ],
-     "price": "730.00",
-     "published_at": "2026-08-14T14:31:24-05:00"
+     "price": "55.00",
+     "published_at": "2026-08-24T13:54:36-05:00"
     },
     {
-     "title": "Alden #4011HC Mocc Toe Boot",
-     "handle": "alden-4011hc-indy-boot",
-     "type": "Footwear",
+     "title": "Cotton Twill 5-Panel Hat - The Flush",
+     "handle": "cotton-twill-5-panel-hat-the-flush",
+     "type": "Hats",
      "tags": [
+      "field sport",
       "FW2026ZR",
+      "HATSZR",
+      "HUNTZR",
       "MENZR",
-      "MFOOTZR",
-      "MNEWZR"
+      "MFIELDZR",
+      "MHATZR",
+      "MNEWZR",
+      "WFIELDZR",
+      "WHATZR",
+      "WNEWZR",
+      "WOMENZR"
      ],
-     "price": "760.00",
-     "published_at": "2026-08-14T14:31:22-05:00"
+     "price": "45.00",
+     "published_at": "2026-08-24T13:54:36-05:00"
     },
     {
-     "title": "Alden #1272S Chukka Boot",
-     "handle": "alden-1272s-chukka-boot",
-     "type": "Footwear",
+     "title": "Cotton Twill 5-Panel Hat - Pintail",
+     "handle": "cotton-twill-5-panel-hat-pintail",
+     "type": "Hats",
      "tags": [
+      "field sport",
       "FW2026ZR",
+      "HATSZR",
+      "HUNTZR",
       "MENZR",
-      "MFOOTZR",
-      "MNEWZR"
+      "MFIELDZR",
+      "MHATZR",
+      "MNEWZR",
+      "WFIELDZR",
+      "WHATZR",
+      "WNEWZR",
+      "WOMENZR"
      ],
-     "price": "716.00",
-     "published_at": "2026-08-14T14:31:20-05:00"
+     "price": "45.00",
+     "published_at": "2026-08-24T13:54:35-05:00"
     }
    ]
   },
@@ -1761,7 +1831,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2652000",
+     "price": "2657000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -1774,7 +1844,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5303000",
+     "price": "5313000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -1786,7 +1856,7 @@
       "printful",
       "wsc"
      ],
-     "price": "928000",
+     "price": "930000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -1798,7 +1868,7 @@
       "printful",
       "wsc"
      ],
-     "price": "928000",
+     "price": "930000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -1809,7 +1879,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1591000",
+     "price": "1594000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -1869,54 +1939,58 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Duck Waterfowl Species Trellis Polo Shirt DVC0012",
-     "handle": "duck-waterfowl-species-trellis-polo-shirt-dvc0012",
+     "title": "Mallard Duck Head Retro Camo Polo Shirt DVC0111",
+     "handle": "mallard-duck-head-retro-camo-polo-shirt-dvc0111",
      "type": "Polo Shirt",
      "tags": [
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-08-22T05:08:50-06:00"
+     "published_at": "2026-08-24T09:57:46-06:00"
     },
     {
-     "title": "Whitetail Buck Camo Polo Shirt DVC0011",
-     "handle": "whitetail-buck-camo-polo-shirt-dvc0011",
+     "title": "Flying Mallard Duck Marsh Polo Shirt VCP1024",
+     "handle": "flying-mallard-duck-marsh-polo-shirt-vcp1024",
      "type": "Polo Shirt",
      "tags": [
+      "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-08-22T04:05:04-06:00"
+     "published_at": "2026-08-24T09:52:03-06:00"
     },
     {
-     "title": "Mourning Dove Realtree Camo Hawaiian Shirt DVC0012",
-     "handle": "mourning-dove-realtree-camo-hawaiian-shirt-dvc0012",
+     "title": "Ring Necked Pheasant Polo Shirt VCP1023",
+     "handle": "ring-necked-pheasant-polo-shirt-vcp1023",
      "type": "Polo Shirt",
      "tags": [
+      "Fishing",
       "Polo Shirt"
      ],
-     "price": "41.99",
-     "published_at": "2026-08-22T03:01:37-06:00"
+     "price": "39.99",
+     "published_at": "2026-08-24T09:41:09-06:00"
     },
     {
-     "title": "Wild Dove olive Hawaiian Shirt DVC0011",
-     "handle": "wild-dove-olive-hawaiian-shirt-dvc0011",
+     "title": "Whitetail Deer Checkerboard Polo Shirt VCP1022",
+     "handle": "whitetail-deer-checkerboard-polo-shirt-vcp1022",
      "type": "Polo Shirt",
      "tags": [
+      "Fishing",
       "Polo Shirt"
      ],
-     "price": "41.99",
-     "published_at": "2026-08-22T02:57:13-06:00"
+     "price": "39.99",
+     "published_at": "2026-08-24T09:29:00-06:00"
     },
     {
-     "title": "Dove Hunting Hawaiian Shirt DVC0010",
-     "handle": "dove-hunting-hawaiian-shirt-dvc0010",
+     "title": "Whitetail Deer Woodland Camo Polo Shirt VCP1021",
+     "handle": "whitetail-deer-woodland-camo-polo-shirt-vcp1021",
      "type": "Polo Shirt",
      "tags": [
+      "Fishing",
       "Polo Shirt"
      ],
-     "price": "41.99",
-     "published_at": "2026-08-22T02:54:04-06:00"
+     "price": "39.99",
+     "published_at": "2026-08-24T09:18:59-06:00"
     }
    ]
   },
@@ -1967,7 +2041,7 @@
       "waffle knit",
       "walking"
      ],
-     "price": "49.95",
+     "price": "54.95",
      "published_at": "2026-07-27T18:36:57+02:00"
     },
     {
