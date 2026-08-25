@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-08-25",
- "fetched_at": "2026-08-25T04:15:03.540748+07:00",
+ "date": "2026-08-26",
+ "fetched_at": "2026-08-26T04:15:03.463141+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "Pope Leo XIV renews call to end violence against Palestinians",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vr5pbr/pope_leo_xiv_renews_call_to_end_violence_against/",
-     "selftext_head": ""
-    },
     {
      "title": "I finally understood why some Protestants genuinely cannot separate veneration from worship",
      "score": null,
@@ -55,15 +46,6 @@
      "selftext_head": ""
     },
     {
-     "title": "I'm a seminary dropout. Here are 5 things I would say to / ask my younger self if I could:",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vr9vow/im_a_seminary_dropout_here_are_5_things_i_would/",
-     "selftext_head": ""
-    },
-    {
      "title": "Feast of St Pope Pius X",
      "score": null,
      "num_comments": null,
@@ -82,21 +64,21 @@
      "selftext_head": ""
     },
     {
-     "title": "First confession in 25 years… and I’m not sure what happened afterward",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vv0n2d/first_confession_in_25_years_and_im_not_sure_what/",
-     "selftext_head": ""
-    },
-    {
      "title": "Saint Bartholomew, August 24th feast, martyr.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vwspju/saint_bartholomew_august_24th_feast_martyr/",
+     "selftext_head": ""
+    },
+    {
+     "title": "First confession in 25 years… and I’m not sure what happened afterward",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vv0n2d/first_confession_in_25_years_and_im_not_sure_what/",
      "selftext_head": ""
     },
     {
@@ -109,21 +91,21 @@
      "selftext_head": ""
     },
     {
+     "title": "I’m being disowned for becoming a Catholic.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vwqbdw/im_being_disowned_for_becoming_a_catholic/",
+     "selftext_head": ""
+    },
+    {
      "title": "New Data Shows a Surge in Catholicism on U.S. College Campuses",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vthd6r/new_data_shows_a_surge_in_catholicism_on_us/",
-     "selftext_head": ""
-    },
-    {
-     "title": "St. Helena, Empress — Butler’s Lives of the Saints",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vrvaqb/st_helena_empress_butlers_lives_of_the_saints/",
      "selftext_head": ""
     },
     {
@@ -136,12 +118,30 @@
      "selftext_head": ""
     },
     {
-     "title": "I just found out my wife has been cheating on me",
+     "title": "St. Bernard of Clairvaux, Abbot and Doctor — Butler’s Lives of the Saints",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vr5nsj/i_just_found_out_my_wife_has_been_cheating_on_me/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vtpnpx/st_bernard_of_clairvaux_abbot_and_doctor_butlers/",
+     "selftext_head": ""
+    },
+    {
+     "title": "How do I stop being jealous that others are having sex when I’m trying to wait until marriage?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vv510v/how_do_i_stop_being_jealous_that_others_are/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Witnessing a Host desecration",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vwry4f/witnessing_a_host_desecration/",
      "selftext_head": ""
     }
    ]
@@ -192,15 +192,15 @@
    "confirmation gift ideas",
    "confirmation gifts of the holy spirit",
    "confirmation gifts for adults",
+   "confirmation gifts for teenage boys",
    "confirmation gift ideas for girl",
    "confirmation gifts from sponsor",
-   "confirmation gifts catholic",
-   "confirmation gift ideas for boys"
+   "confirmation gifts catholic"
   ],
   "baptism gift": [
    "baptism gifts",
    "baptism gifts for boys",
-   "baptism gifts for girls",
+   "baptism gift for girl",
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
@@ -247,6 +247,7 @@
   ],
   "catholic wedding gift": [
    "catholic wedding gifts",
+   "catholic wedding gift ideas",
    "catholic wedding gifts for couples",
    "catholic wedding gift ideas for couple",
    "catholic wedding gifts rituals",
@@ -254,11 +255,11 @@
    "catholic wedding gifts personalized",
    "catholic wedding gift bearers",
    "catholic wedding gifts for bride",
-   "catholic wedding gift for husband",
-   "catholic wedding gift for the poor"
+   "catholic wedding gift for husband"
   ],
   "christian tote bag": [
    "christian tote bag",
+   "christian tote bags for women",
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
@@ -292,16 +293,16 @@
   ]
  },
  "trends": [
-  "trump beef",
-  "michael beasley",
-  "people coming out manhattan sewer",
-  "jaden hardy",
-  "monday night football",
-  "thunderstorm",
-  "why we should stop eating lettuce",
-  "cruz hewitt",
-  "trey benson",
-  "pete hegseth"
+  "stoke city vs hull",
+  "dj humphries",
+  "zohran mamdani emergency housing cases",
+  "layoff",
+  "us military plane moscow landing",
+  "nvda",
+  "méxico",
+  "zm stock",
+  "witcher 3 remastered",
+  "taylor swift displayed her wedding band during a grammy museum performance"
  ],
  "errors": []
 }
