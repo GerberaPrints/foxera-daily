@@ -2,12 +2,45 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-25",
- "fetched_at": "2026-08-25T04:30:03.366406+07:00",
+ "date": "2026-08-26",
+ "fetched_at": "2026-08-26T04:30:03.750374+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 100,
+   "count_returned": 103,
    "products": [
+    {
+     "title": "Deepwood Camo Sun Hoodie",
+     "handle": "deepwood-camo-sun-hoodie",
+     "type": "Hoodie",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-08-25T01:13:30-07:00"
+    },
+    {
+     "title": "Topographic Map Sun Hoodie",
+     "handle": "topographic-map-sun-hoodie",
+     "type": "Hoodie",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-08-25T00:50:46-07:00"
+    },
+    {
+     "title": "Sand Pixel Sun Hoodie",
+     "handle": "sand-pixel-sun-hoodie",
+     "type": "Hoodie",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-08-25T00:36:21-07:00"
+    },
     {
      "title": "Ocean Camo Sun Hoodie",
      "handle": "ocean-camo-hoodie",
@@ -1132,7 +1165,8 @@
       "Fleece",
       "LABEL CHECK",
       "pants",
-      "YOUTH"
+      "YOUTH",
+      "youth-bottoms"
      ],
      "price": "49.00",
      "published_at": "2026-08-19T10:33:59-07:00"
@@ -1147,7 +1181,8 @@
       "Fleece",
       "LABEL CHECK",
       "mallardcamo",
-      "YOUTH"
+      "YOUTH",
+      "youth-bottoms"
      ],
      "price": "49.00",
      "published_at": "2026-08-19T10:33:26-07:00"
@@ -1213,7 +1248,8 @@
       "RGroup_BWF1004",
       "Tech Jacket",
       "TOPS",
-      "YOUTH"
+      "YOUTH",
+      "youth-tops"
      ],
      "price": "59.00",
      "published_at": "2026-08-18T15:44:05-07:00"
@@ -1396,6 +1432,46 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Women's Sirena Hybrid Tech Shorts",
+     "handle": "womens-sirena-hybrid-tech-shorts-sale",
+     "type": "WOMENS SHORTS",
+     "tags": [
+      "__tab2:womens-bottoms-size-chart",
+      "accessories",
+      "AFCOOL",
+      "AFLEX-2",
+      "CCAMEMBERS",
+      "FA21",
+      "filter::color:Black",
+      "filter::color:Gray",
+      "filter::color:Green",
+      "filter::size:L",
+      "filter::size:M",
+      "filter::size:S",
+      "filter::size:XL",
+      "filter::type:FISHING SHORTS",
+      "FINAL SALE",
+      "FINALSALE",
+      "GG50",
+      "GIFTGUIDE",
+      "LABEL CHECK",
+      "mens-how-to-measure",
+      "REGULARFIT",
+      "sale shorts",
+      "SP22",
+      "SP23",
+      "SPRING19",
+      "SPRING20",
+      "STAIN-RELEASE",
+      "womens",
+      "womens-fishing-shorts",
+      "womens-fishing-shorts-and-leggings",
+      "womens-fit-guide-regular-fit"
+     ],
+     "price": "19.99",
+     "published_at": "2026-08-25T09:07:52-07:00"
+    },
+    {
      "title": "80's Offshore Hat",
      "handle": "80s-offshore-fishing-snapback-hat",
      "type": "MENS HATS",
@@ -1474,36 +1550,6 @@
      ],
      "price": "39.00",
      "published_at": "2026-08-19T17:29:36-07:00"
-    },
-    {
-     "title": "A Series SS T-Shirt",
-     "handle": "a-series-short-sleeve-fishing-t-shirt",
-     "type": "MENS T-SHIRTS",
-     "tags": [
-      "__tab2:tops-mens-size-chart",
-      "FA26",
-      "filter::size:2X",
-      "filter::size:3X",
-      "filter::size:L",
-      "filter::size:M",
-      "filter::size:S",
-      "filter::size:XL",
-      "filter::type:Short Sleeve T-Shirts",
-      "fishing-clothing",
-      "fishing-t-shirts",
-      "fit-guide-mens-regular-fit",
-      "mens",
-      "mens-fishing-short-sleeve-t-shirts",
-      "mens-how-to-measure",
-      "mens-short-sleeve-t-shirts",
-      "mens-t-shirts",
-      "NEW",
-      "REGULARFIT",
-      "SHORT SLEEVE",
-      "T-Shirts"
-     ],
-     "price": "29.00",
-     "published_at": "2026-08-19T15:39:21-07:00"
     }
    ]
   },
@@ -1702,6 +1748,35 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Puffer Vest - Classic Deer Camo",
+     "handle": "puffer-vest-classic-deer-camo",
+     "type": "Vest",
+     "tags": [
+      "9/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "Bass Pro",
+      "BlinkAutoHide",
+      "Core",
+      "FALL CORE",
+      "Hunting",
+      "Logo",
+      "Outerwear",
+      "Outerwear Top",
+      "pdqreview",
+      "PREBOOK START: 08/01/2026",
+      "retail",
+      "Season Core",
+      "Season Fall26",
+      "Sweatshirt",
+      "wholesale",
+      "WinterSale",
+      "WinterSale34.2%"
+     ],
+     "price": "79.00",
+     "published_at": "2026-08-25T08:51:07-05:00"
+    },
+    {
      "title": "Youth Performance Hoodie - Drifter Camo",
      "handle": "youth-performance-hoodie-drifter-camo",
      "type": "Youth Performance Hoodie",
@@ -1795,23 +1870,6 @@
      ],
      "price": "58.00",
      "published_at": "2026-08-18T07:18:30-05:00"
-    },
-    {
-     "title": "Youth Short Sleeve Tee - Flying B Deer Camo Logo - Heather Black",
-     "handle": "youth-tee-deer-camo-sig-logo-ss-heather-black",
-     "type": "Youth Tee",
-     "tags": [
-      "hide-notify-btn",
-      "hide-preorder-btn",
-      "pdqreview",
-      "retail",
-      "Short Sleeve",
-      "WinterSale",
-      "WinterSale50%",
-      "Youth"
-     ],
-     "price": "26.00",
-     "published_at": "2026-08-17T11:22:19-05:00"
     }
    ]
   },
@@ -1831,7 +1889,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2657000",
+     "price": "2650000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -1844,7 +1902,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5313000",
+     "price": "5301000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -1854,9 +1912,10 @@
      "tags": [
       "delta waterfowl",
       "printful",
+      "retail",
       "wsc"
      ],
-     "price": "930000",
+     "price": "928000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -1866,9 +1925,10 @@
      "tags": [
       "delta waterfowl",
       "printful",
+      "retail",
       "wsc"
      ],
-     "price": "930000",
+     "price": "928000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -1879,7 +1939,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1594000",
+     "price": "1590000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
