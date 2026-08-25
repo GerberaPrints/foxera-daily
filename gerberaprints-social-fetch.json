@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-08-25",
- "fetched_at": "2026-08-25T04:45:02.760037+07:00",
+ "date": "2026-08-26",
+ "fetched_at": "2026-08-26T04:45:02.888144+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -43,15 +43,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1vtu6m1/question_time_what_are_you_taking/",
-     "selftext_head": ""
-    },
-    {
-     "title": "I only want Donna",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vrrhsx/i_only_want_donna/",
      "selftext_head": ""
     },
     {
@@ -100,30 +91,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Very cool to see in person",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vx646s/very_cool_to_see_in_person/",
+     "selftext_head": ""
+    },
+    {
      "title": "It is irritating",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1vty3p2/it_is_irritating/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Mac Boucher's Crazy Hole-in-One 🤯",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vr6y7w/mac_bouchers_crazy_holeinone/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Scottie Scheffler tests the structural integrity of his wedge several times after a poor shot from greenside rough",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vvlff9/scottie_scheffler_tests_the_structural_integrity/",
      "selftext_head": ""
     },
     {
@@ -136,12 +118,30 @@
      "selftext_head": ""
     },
     {
-     "title": "Shot a 124 for my first full round",
+     "title": "Scottie Scheffler tests the structural integrity of his wedge several times after a poor shot from greenside rough",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vs0qyn/shot_a_124_for_my_first_full_round/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1vvlff9/scottie_scheffler_tests_the_structural_integrity/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I love living on a golf course.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vxl50w/i_love_living_on_a_golf_course/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Local club forced to issue statement after a very serious breach of their course protocols.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vwtypt/local_club_forced_to_issue_statement_after_a_very/",
      "selftext_head": ""
     }
    ]
@@ -192,8 +192,8 @@
    "golf dad hat canada",
    "golf dad hat pga superstore",
    "golf daddy hat",
-   "golf daddy hat no laying up",
-   "golf hat dad gang"
+   "golf daddy hat paddington",
+   "golf daddy hat no laying up"
   ],
   "custom golf polo": [
    "custom golf polos",
@@ -244,15 +244,15 @@
    "golf towels with funny sayings"
   ],
   "bachelor party golf": [
-   "bachelor party golf trips",
    "bachelor party golf balls",
+   "bachelor party golf trips",
    "bachelor party golf shirts",
-   "bachelor party golf gifts",
    "bachelor party golf ideas",
+   "bachelor party golf gifts",
    "bachelor party golf games",
    "bachelor party golf hats",
-   "bachelor party golf packages",
    "bachelor party golf",
+   "bachelor party golf packages",
    "bachelor party golf polos"
   ],
   "golf gift for boss": [
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "lil durk",
-  "apple martin",
-  "bunny levine gilmore girls actress",
-  "robin montgomery",
-  "prince archie princess lilibet britain",
-  "avión",
-  "s&amp;p 500",
-  "geena davis",
-  "olivia jade",
-  "claire liu"
+  "amanda batula boyfriend west wilson",
+  "cruz hewitt",
+  "trump approval",
+  "dj humphries",
+  "stoke city vs hull",
+  "layoff",
+  "zohran mamdani emergency housing cases",
+  "us military plane moscow landing",
+  "méxico",
+  "zm stock"
  ],
  "errors": []
 }
