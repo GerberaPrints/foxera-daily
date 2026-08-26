@@ -2,20 +2,20 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-08-26",
- "fetched_at": "2026-08-26T04:45:02.888144+07:00",
+ "date": "2026-08-27",
+ "fetched_at": "2026-08-27T04:45:03.059417+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
     {
-     "title": "Rory McIlroy, when asked whether allowing back LIV players would bring value to the PGA Tour: \"Have they brought value to LIV?\"",
+     "title": "Dicks Sporting Goods is pulling Good Good Product off of shelves",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vswetw/rory_mcilroy_when_asked_whether_allowing_back_liv/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1vygs7j/dicks_sporting_goods_is_pulling_good_good_product/",
      "selftext_head": ""
     },
     {
@@ -28,15 +28,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Yup",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vsrvu1/yup/",
-     "selftext_head": ""
-    },
-    {
      "title": "Question time? What are you taking?",
      "score": null,
      "num_comments": null,
@@ -46,12 +37,30 @@
      "selftext_head": ""
     },
     {
+     "title": "PGA Tour CEO Shuts the Door on Bryson DeChambeau's Reinstatement: \"Rules Matter\"",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vyb04z/pga_tour_ceo_shuts_the_door_on_bryson_dechambeaus/",
+     "selftext_head": ""
+    },
+    {
      "title": "$140 tee time and these are the greens, wyd?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1vvsotc/140_tee_time_and_these_are_the_greens_wyd/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Takomo driving a dagger into Callaway",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vy5gdq/takomo_driving_a_dagger_into_callaway/",
      "selftext_head": ""
     },
     {
@@ -118,15 +127,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Scottie Scheffler tests the structural integrity of his wedge several times after a poor shot from greenside rough",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vvlff9/scottie_scheffler_tests_the_structural_integrity/",
-     "selftext_head": ""
-    },
-    {
      "title": "I love living on a golf course.",
      "score": null,
      "num_comments": null,
@@ -136,12 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Local club forced to issue statement after a very serious breach of their course protocols.",
+     "title": "Scottie Scheffler tests the structural integrity of his wedge several times after a poor shot from greenside rough",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vwtypt/local_club_forced_to_issue_statement_after_a_very/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1vvlff9/scottie_scheffler_tests_the_structural_integrity/",
      "selftext_head": ""
     }
    ]
@@ -200,12 +200,12 @@
    "custom golf polos for men",
    "custom golf polo shirts",
    "custom golf polo with face",
-   "custom golf polos with logo",
    "custom golf polo shirts uk",
    "custom golf polo shirts with logo",
    "custom golf polos australia",
    "custom golf polos canada",
-   "custom golf polos near me"
+   "custom golf polos near me",
+   "custom golf polos peter millar"
   ],
   "golf tournament gift": [
    "golf tournament gift ideas",
@@ -244,15 +244,15 @@
    "golf towels with funny sayings"
   ],
   "bachelor party golf": [
-   "bachelor party golf balls",
    "bachelor party golf trips",
+   "bachelor party golf balls",
    "bachelor party golf shirts",
-   "bachelor party golf ideas",
    "bachelor party golf gifts",
+   "bachelor party golf ideas",
    "bachelor party golf games",
    "bachelor party golf hats",
-   "bachelor party golf",
    "bachelor party golf packages",
+   "bachelor party golf",
    "bachelor party golf polos"
   ],
   "golf gift for boss": [
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "amanda batula boyfriend west wilson",
-  "cruz hewitt",
-  "trump approval",
-  "dj humphries",
-  "stoke city vs hull",
-  "layoff",
-  "zohran mamdani emergency housing cases",
-  "us military plane moscow landing",
-  "méxico",
-  "zm stock"
+  "kyle schwarber",
+  "michael antonius",
+  "shooting",
+  "boy abandoned hiking mt fuji",
+  "beauty in black season 3",
+  "matt gogel golf gambling violation",
+  "carabao cup draw",
+  "mrvl stock",
+  "eduardo rodríguez",
+  "dolly parton favorite car"
  ],
  "errors": []
 }
