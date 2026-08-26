@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-26",
- "fetched_at": "2026-08-26T04:30:03.750374+07:00",
+ "date": "2026-08-27",
+ "fetched_at": "2026-08-27T04:30:03.149788+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 103,
@@ -1053,102 +1053,105 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Canvas Blind Bag - Pin Oak / Wheat",
-     "handle": "canvas-blind-bag-pin-oak-wheat",
-     "type": "Canvas Equipment",
+     "title": "Men's Essential drirelease® Crew - Driftwood",
+     "handle": "mens-essential-drirelease-crew-driftwood",
+     "type": "Essential Crew",
      "tags": [
       "__label:new",
-      "Accessories",
-      "accessory",
-      "canvas",
       "collection-feature",
       "dc-inventory-sync::OFF",
-      "equipment",
+      "drirelease",
+      "essential",
       "F26",
-      "gear",
+      "fish",
       "hunt",
       "lifestyle",
-      "msrp"
-     ],
-     "price": "149.00",
-     "published_at": "2026-08-13T13:37:17-05:00"
-    },
-    {
-     "title": "Canvas Gear Tote - Medium - Pin Oak / Wheat",
-     "handle": "canvas-gear-tote-medium-pin-oak-wheat",
-     "type": "Canvas Equipment",
-     "tags": [
-      "__label:new",
-      "Accessories",
-      "accessory",
-      "canvas",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "equipment",
-      "everyday",
-      "F26",
-      "gear",
-      "hunt",
-      "lifestyle",
-      "msrp"
-     ],
-     "price": "119.00",
-     "published_at": "2026-08-13T13:18:07-05:00"
-    },
-    {
-     "title": "The Only Choice Austin Trucker - Thyme",
-     "handle": "the-only-choice-austin-trucker-thyme",
-     "type": "Trucker Hat",
-     "tags": [
-      "__label:new",
-      "accessory",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "exchange-eligible",
-      "F26",
-      "g-n-a",
-      "hat",
-      "hats-tees",
-      "headwear",
-      "lifestyle",
-      "logowear",
-      "logowear-hats",
-      "msrp"
-     ],
-     "price": "36.00",
-     "published_at": "2026-08-07T12:44:33-05:00"
-    },
-    {
-     "title": "Duck Camp Trademark Hat - Woodland",
-     "handle": "duck-camp-trademark-hat-woodland",
-     "type": "Logowear Hat",
-     "tags": [
-      "__label:new",
-      "accessory",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "exchange-eligible",
-      "F26",
-      "hat",
-      "hats-tees",
-      "headwear",
-      "lifestyle",
-      "logowear",
-      "logowear-hats",
       "mens",
       "msrp",
-      "womens"
+      "top"
      ],
-     "price": "36.00",
-     "published_at": "2026-08-07T12:43:54-05:00"
+     "price": "59.00",
+     "published_at": "2026-08-26T15:06:57-05:00"
     },
     {
-     "title": "Men's 3L Packable Rain Shell",
-     "handle": "mens-3l-packable-rain-shell",
-     "type": "Combined Product",
-     "tags": [],
-     "price": "199.00",
-     "published_at": "2026-08-07T12:37:28-05:00"
+     "title": "Men's Essential drirelease® Hoodie - Cove",
+     "handle": "mens-essential-drirelease-hoodie-cove",
+     "type": "Essential Hoodie",
+     "tags": [
+      "__label:new",
+      "dc-inventory-sync::OFF",
+      "drirelease",
+      "essential",
+      "F26",
+      "fish",
+      "lifestyle",
+      "mens",
+      "msrp",
+      "top"
+     ],
+     "price": "69.00",
+     "published_at": "2026-08-26T15:06:13-05:00"
+    },
+    {
+     "title": "Men's Essential drirelease® Hoodie - Driftwood",
+     "handle": "mens-essential-drirelease-hoodie-driftwood",
+     "type": "Essential Hoodie",
+     "tags": [
+      "__label:new",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "drirelease",
+      "essential",
+      "F26",
+      "fish",
+      "hunt",
+      "lifestyle",
+      "mens",
+      "msrp",
+      "top"
+     ],
+     "price": "69.00",
+     "published_at": "2026-08-26T15:04:56-05:00"
+    },
+    {
+     "title": "Men's Essential drirelease® Polo - Cove",
+     "handle": "mens-essential-drirelease-polo-cove",
+     "type": "Essential Polo",
+     "tags": [
+      "__label:new",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "drirelease",
+      "essential",
+      "F26",
+      "fish",
+      "lifestyle",
+      "mens",
+      "msrp",
+      "top"
+     ],
+     "price": "64.00",
+     "published_at": "2026-08-26T14:59:07-05:00"
+    },
+    {
+     "title": "Men's Essential drirelease® Tee - Cove",
+     "handle": "mens-essential-drirelease-tee-cove",
+     "type": "Essential Tee",
+     "tags": [
+      "__label:new",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "drirelease",
+      "essential",
+      "F26",
+      "fish",
+      "lifestyle",
+      "mens",
+      "msrp",
+      "top"
+     ],
+     "price": "54.00",
+     "published_at": "2026-08-26T14:50:57-05:00"
     }
    ]
   },
@@ -1432,6 +1435,117 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Boatbar SS Button Down Shirt | Pelican",
+     "handle": "boatbar-ss-button-down-shirt-pelican",
+     "type": "MENS WOVENS",
+     "tags": [
+      "__tab2:tops-mens-size-chart",
+      "AFBLOCK-50",
+      "AFGUARD",
+      "AFLITE",
+      "button-down-fishing-shirts",
+      "DWR-STAIN-RESISTANCE",
+      "FA26",
+      "filter::size:2X",
+      "filter::size:3X",
+      "filter::size:L",
+      "filter::size:M",
+      "filter::size:S",
+      "filter::size:XL",
+      "filter::type:BUTTON DOWN SHIRTS",
+      "fishing-clothing",
+      "fit-guide-mens-regular-fit",
+      "LABEL CHECK",
+      "mens",
+      "mens-fit-guide",
+      "mens-how-to-measure",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "NEWCOLORS",
+      "REGULARFIT",
+      "RGroup_Boatbar",
+      "sandbar",
+      "SP26",
+      "Wovens"
+     ],
+     "price": "59.00",
+     "published_at": "2026-08-26T12:46:43-07:00"
+    },
+    {
+     "title": "Boatbar SS Button Down Shirt | Midnight",
+     "handle": "boatbar-ss-button-down-shirt-midnight",
+     "type": "MENS WOVENS",
+     "tags": [
+      "__tab2:tops-mens-size-chart",
+      "AFBLOCK-50",
+      "AFGUARD",
+      "AFLITE",
+      "button-down-fishing-shirts",
+      "DWR-STAIN-RESISTANCE",
+      "FA26",
+      "filter::size:2X",
+      "filter::size:3X",
+      "filter::size:L",
+      "filter::size:M",
+      "filter::size:S",
+      "filter::size:XL",
+      "filter::type:BUTTON DOWN SHIRTS",
+      "fishing-clothing",
+      "fit-guide-mens-regular-fit",
+      "LABEL CHECK",
+      "mens",
+      "mens-fit-guide",
+      "mens-how-to-measure",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "NEWCOLORS",
+      "REGULARFIT",
+      "RGroup_Boatbar",
+      "sandbar",
+      "SP26",
+      "Wovens"
+     ],
+     "price": "59.00",
+     "published_at": "2026-08-26T12:45:08-07:00"
+    },
+    {
+     "title": "Boatbar SS Button Down Shirt | Brick",
+     "handle": "boatbar-ss-button-down-shirt-brick",
+     "type": "MENS WOVENS",
+     "tags": [
+      "__tab2:tops-mens-size-chart",
+      "AFBLOCK-50",
+      "AFGUARD",
+      "AFLITE",
+      "button-down-fishing-shirts",
+      "DWR-STAIN-RESISTANCE",
+      "FA26",
+      "filter::size:2X",
+      "filter::size:3X",
+      "filter::size:L",
+      "filter::size:M",
+      "filter::size:S",
+      "filter::size:XL",
+      "filter::type:BUTTON DOWN SHIRTS",
+      "fishing-clothing",
+      "fit-guide-mens-regular-fit",
+      "LABEL CHECK",
+      "mens",
+      "mens-fit-guide",
+      "mens-how-to-measure",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "NEWCOLORS",
+      "REGULARFIT",
+      "RGroup_Boatbar",
+      "sandbar",
+      "SP26",
+      "Wovens"
+     ],
+     "price": "59.00",
+     "published_at": "2026-08-26T12:41:27-07:00"
+    },
+    {
      "title": "Women's Sirena Hybrid Tech Shorts",
      "handle": "womens-sirena-hybrid-tech-shorts-sale",
      "type": "WOMENS SHORTS",
@@ -1489,67 +1603,6 @@
      ],
      "price": "32.00",
      "published_at": "2026-08-21T16:49:09-07:00"
-    },
-    {
-     "title": "Chevron Waffle Beanie",
-     "handle": "chevron-waffle-fishing-beanie",
-     "type": "MENS BEANIES",
-     "tags": [
-      "FA25",
-      "FA26",
-      "fishing-clothing",
-      "fishing-hats",
-      "GG50",
-      "GG75",
-      "GIFTGUIDE",
-      "Headwear",
-      "LABEL CHECK",
-      "mens-fishing-beanies",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "NEWCOLORS"
-     ],
-     "price": "29.00",
-     "published_at": "2026-08-19T17:45:23-07:00"
-    },
-    {
-     "title": "Fillet Gloves",
-     "handle": "cut-resistant-fillet-gloves",
-     "type": "MENS GLOVES",
-     "tags": [
-      "fishing-clothing",
-      "fishing-gloves",
-      "knives",
-      "NEW",
-      "NEW-TAG",
-      "Tackle"
-     ],
-     "price": "19.00",
-     "published_at": "2026-08-19T17:36:40-07:00"
-    },
-    {
-     "title": "Utility Gloves",
-     "handle": "utility-all-purpose-gloves",
-     "type": "MENS GLOVES",
-     "tags": [
-      "__tab2:glove-sizing",
-      "accessories",
-      "CONSUMERTACKLE",
-      "filter::color:Blue",
-      "filter::size:2X",
-      "filter::size:L",
-      "filter::size:M",
-      "filter::size:XL",
-      "filter::type:GLOVES",
-      "fishing-clothing",
-      "fishing-gloves",
-      "mens-gloves",
-      "NEW",
-      "NEW-TAG",
-      "Tackle"
-     ],
-     "price": "39.00",
-     "published_at": "2026-08-19T17:29:36-07:00"
     }
    ]
   },
@@ -1902,7 +1955,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5301000",
+     "price": "5299000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -1948,56 +2001,69 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "8-Point Club Whitetail Polo - Men's Hunting Achievement Polo",
-     "handle": "8-point-club-whitetail-polo-mens-hunting-achievement-polo",
-     "type": "",
-     "tags": [
-      "polo"
-     ],
-     "price": "65.95",
-     "published_at": "2026-08-22T00:48:22-07:00"
-    },
-    {
-     "title": "Mourning Dove Golf Polo Shirt All-Over Print Dove Hunting Gift Sunglasses Dove",
-     "handle": "mourning-dove-golf-polo-shirt-all-over-print-dove-hunting-gift-sunglasses-dove",
-     "type": "",
-     "tags": [
-      "polo"
-     ],
-     "price": "65.95",
-     "published_at": "2026-08-21T20:32:22-07:00"
-    },
-    {
-     "title": "Mallard Duck Icon Polo — Men's Hunting Season Polo",
-     "handle": "mallard-duck-icon-polo-mens-hunting-season-polo",
-     "type": "",
-     "tags": [
-      "polo"
-     ],
-     "price": "65.95",
-     "published_at": "2026-08-21T20:12:46-07:00"
-    },
-    {
-     "title": "Turkey Hunting Hoodie – All-Over Fan-Feather Print Unisex Pullover, Gift for Turkey Hunters",
-     "handle": "turkey-hunting-hoodie-all-over-fan-feather-print-unisex-pullover-gift-for-turkey-hunters",
+     "title": "Mallard Duck Flooded Timber Hoodie All-Over Print Duck Hunting Gift",
+     "handle": "mallard-duck-flooded-timber-hoodie-all-over-print-duck-hunting-gift",
      "type": "",
      "tags": [],
      "price": "69.95",
-     "published_at": "2026-08-20T01:20:20-07:00"
+     "published_at": "2026-08-26T01:31:40-07:00"
     },
     {
-     "title": "Pointer Bird Dog Hoodie – Retro \"Point Flush Repeat\" Back Print Unisex Pullover, Gift for Upland Hunters",
-     "handle": "pointer-bird-dog-hoodie-retro-point-flush-repeat-back-print-unisex-pullover-gift-for-upland-hunters",
+     "title": "Whitetail Deer Snow Camo Polo Shirt Late Season Hunting Golf",
+     "handle": "whitetail-deer-snow-camo-polo-shirt-late-season-hunting-golf",
      "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-08-20T00:38:08-07:00"
+     "tags": [
+      "polo"
+     ],
+     "price": "65.95",
+     "published_at": "2026-08-25T19:49:36-07:00"
+    },
+    {
+     "title": "Canada Goose Field Camo Polo Shirt Waterfowl Hunting Golf",
+     "handle": "canada-goose-field-camo-polo-shirt-waterfowl-hunting-golf",
+     "type": "",
+     "tags": [
+      "polo"
+     ],
+     "price": "65.95",
+     "published_at": "2026-08-25T19:47:19-07:00"
+    },
+    {
+     "title": "Mallard Duck Break-Up Camo Polo Shirt Waterfowl Hunting Golf",
+     "handle": "mallard-duck-break-up-camo-polo-shirt-waterfowl-hunting-golf",
+     "type": "",
+     "tags": [
+      "polo"
+     ],
+     "price": "65.95",
+     "published_at": "2026-08-25T19:44:49-07:00"
+    },
+    {
+     "title": "Ring-Necked Pheasant Camo Polo Shirt Upland Bird Hunting Golf",
+     "handle": "ring-necked-pheasant-camo-polo-shirt-upland-bird-hunting-golf",
+     "type": "",
+     "tags": [
+      "polo"
+     ],
+     "price": "65.95",
+     "published_at": "2026-08-25T19:41:42-07:00"
     }
    ]
   },
   "Huntdad": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Cream Upland Bird Pheasant & Feather Polo Shirt VCP1025",
+     "handle": "cream-upland-bird-pheasant-feather-polo-shirt-vcp1025",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-26T01:18:20-06:00"
+    },
     {
      "title": "Mallard Duck Head Retro Camo Polo Shirt DVC0111",
      "handle": "mallard-duck-head-retro-camo-polo-shirt-dvc0111",
@@ -2040,17 +2106,6 @@
      ],
      "price": "39.99",
      "published_at": "2026-08-24T09:29:00-06:00"
-    },
-    {
-     "title": "Whitetail Deer Woodland Camo Polo Shirt VCP1021",
-     "handle": "whitetail-deer-woodland-camo-polo-shirt-vcp1021",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-24T09:18:59-06:00"
     }
    ]
   },
