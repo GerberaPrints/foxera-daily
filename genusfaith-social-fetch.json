@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-08-26",
- "fetched_at": "2026-08-26T04:15:03.463141+07:00",
+ "date": "2026-08-27",
+ "fetched_at": "2026-08-27T04:15:03.100465+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -25,6 +25,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vuiwr0/free_friday_gestures_the_cross_as_a_shield/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I ended my same sex relationship and went to confession",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vygzni/i_ended_my_same_sex_relationship_and_went_to/",
      "selftext_head": ""
     },
     {
@@ -55,21 +64,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Pope Leo XIV: The musical heritage of the Church must be preserved",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vsl9e8/pope_leo_xiv_the_musical_heritage_of_the_church/",
-     "selftext_head": ""
-    },
-    {
      "title": "Saint Bartholomew, August 24th feast, martyr.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vwspju/saint_bartholomew_august_24th_feast_martyr/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Happy feast day of St. Louis! See below for some great info on him.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vy38ue/happy_feast_day_of_st_louis_see_below_for_some/",
      "selftext_head": ""
     },
     {
@@ -109,6 +118,15 @@
      "selftext_head": ""
     },
     {
+     "title": "You can overcome masturbation",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vyvp9p/you_can_overcome_masturbation/",
+     "selftext_head": ""
+    },
+    {
      "title": "God bless you all!",
      "score": null,
      "num_comments": null,
@@ -124,24 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vtpnpx/st_bernard_of_clairvaux_abbot_and_doctor_butlers/",
-     "selftext_head": ""
-    },
-    {
-     "title": "How do I stop being jealous that others are having sex when I’m trying to wait until marriage?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vv510v/how_do_i_stop_being_jealous_that_others_are/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Witnessing a Host desecration",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vwry4f/witnessing_a_host_desecration/",
      "selftext_head": ""
     }
    ]
@@ -190,17 +190,17 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gifts of the holy spirit",
    "confirmation gifts for adults",
    "confirmation gifts for teenage boys",
    "confirmation gift ideas for girl",
    "confirmation gifts from sponsor",
-   "confirmation gifts catholic"
+   "confirmation gifts catholic",
+   "confirmation gift ideas for boys"
   ],
   "baptism gift": [
    "baptism gifts",
    "baptism gifts for boys",
-   "baptism gift for girl",
+   "baptism gifts for girls",
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
@@ -264,8 +264,8 @@
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
    "christian tote bags in bulk",
-   "christian tote bag designs",
    "christian tote bag amazon",
+   "christian tote bag designs",
    "christian tote bag design ideas",
    "christian dior tote bag cost"
   ],
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "stoke city vs hull",
-  "dj humphries",
-  "zohran mamdani emergency housing cases",
-  "layoff",
-  "us military plane moscow landing",
-  "nvda",
-  "méxico",
-  "zm stock",
-  "witcher 3 remastered",
-  "taylor swift displayed her wedding band during a grammy museum performance"
+  "jude bellingham",
+  "michael jordan",
+  "arby&apos;s",
+  "sandra bullock practical magic 2 premiere",
+  "la liga",
+  "pro bowl",
+  "nfl pro bowl",
+  "vinícius júnior",
+  "love island reunion 2026",
+  "yan diomandé"
  ],
  "errors": []
 }
