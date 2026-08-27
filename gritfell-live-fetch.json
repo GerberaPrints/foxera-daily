@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-27",
- "fetched_at": "2026-08-27T04:30:03.149788+07:00",
+ "date": "2026-08-28",
+ "fetched_at": "2026-08-28T04:30:03.177886+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 103,
@@ -1610,6 +1610,19 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Delta Quilted Jacket",
+     "handle": "delta-quilted-jacket",
+     "type": "Jackets & Vests",
+     "tags": [
+      "AW26 Catalog",
+      "AW26_NEW",
+      "master_list_new_arrivals_26",
+      "new"
+     ],
+     "price": "119.99",
+     "published_at": "2026-08-27T11:07:53-05:00"
+    },
+    {
      "title": "Leather Key Chain",
      "handle": "leather-key-chain",
      "type": "Accessories",
@@ -1718,25 +1731,27 @@
      ],
      "price": "29.99",
      "published_at": "2026-08-17T08:38:56-05:00"
-    },
-    {
-     "title": "Early Bird Facemask with Insect Repellent",
-     "handle": "early-bird-facemask-with-insect-repellent",
-     "type": "Headwear",
-     "tags": [
-      "nav_turkey_headwear",
-      "ol-tom",
-      "SS25_New",
-      "SS26 Catalog"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-17T08:38:39-05:00"
     }
    ]
   },
   "Free Fly": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Men's Bamboo Lightweight Hoodie - Tidal Flow Print Stormy Sea",
+     "handle": "mens-bamboo-lightweight-hoodie-tidal-flow-print-stormy-sea",
+     "type": "Men's",
+     "tags": [
+      "excLWH",
+      "flag::Bestseller",
+      "men-bamboo-lightweight",
+      "pdp_group: men-bamboo-lightweight",
+      "product_style: Mens Bamboo Lightweight Hoodie",
+      "SP26"
+     ],
+     "price": "74.00",
+     "published_at": "2026-08-27T15:29:03-04:00"
+    },
     {
      "title": "Youth Bamboo Shade Graphic Hoodie - Blue Edge Pacific Blue",
      "handle": "youth-bamboo-shade-graphic-hoodie-blue-edge-pacific-blue",
@@ -1782,18 +1797,6 @@
      ],
      "price": "34.00",
      "published_at": "2026-08-21T13:11:46-04:00"
-    },
-    {
-     "title": "Men's Downvalley Overshirt - Chestnut",
-     "handle": "mens-downvalley-overshirt-chestnut",
-     "type": "Men's",
-     "tags": [
-      "excMDOWVOV",
-      "FA25",
-      "product_style: Mens Downvalley Overshirt"
-     ],
-     "price": "148.00",
-     "published_at": "2026-08-21T12:30:55-04:00"
     }
    ]
   },
@@ -1801,128 +1804,93 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Puffer Vest - Classic Deer Camo",
-     "handle": "puffer-vest-classic-deer-camo",
-     "type": "Vest",
+     "title": "Father and Son Bundle - Thermal Hoodie - Bendita Camo",
+     "handle": "father-and-son-bundle-thermal-hoodie-bendita-camo",
+     "type": "Bundle",
      "tags": [
-      "9/4",
+      "8/27/26"
+     ],
+     "price": "98.00",
+     "published_at": "2026-08-27T11:09:25-05:00"
+    },
+    {
+     "title": "Youth Go To Tee - Bendita Camo",
+     "handle": "youth-go-to-tee-bendita-camo",
+     "type": "Youth Go To Tee",
+     "tags": [
+      "8/27/26",
+      "FA26",
+      "Fall 2026"
+     ],
+     "price": "28.00",
+     "published_at": "2026-08-27T11:09:23-05:00"
+    },
+    {
+     "title": "Challenger Pant -  Bendita Camo",
+     "handle": "challenger-pant-bendita-camo",
+     "type": "Pants",
+     "tags": [
+      "8/27/26",
       "B2B_Active",
       "B2B_Sync",
-      "Bass Pro",
-      "BlinkAutoHide",
-      "Core",
-      "FALL CORE",
-      "Hunting",
-      "Logo",
+      "Black",
+      "Bottoms",
+      "Challenger Pant",
+      "Fall 26",
+      "Fall26",
+      "Men's",
+      "missinglifestyle",
       "Outerwear",
-      "Outerwear Top",
-      "pdqreview",
-      "PREBOOK START: 08/01/2026",
       "retail",
-      "Season Core",
       "Season Fall26",
-      "Sweatshirt",
       "wholesale",
-      "WinterSale",
-      "WinterSale34.2%"
+      "WinterSale"
      ],
-     "price": "79.00",
-     "published_at": "2026-08-25T08:51:07-05:00"
+     "price": "92.00",
+     "published_at": "2026-08-27T11:09:21-05:00"
     },
     {
-     "title": "Youth Performance Hoodie - Drifter Camo",
-     "handle": "youth-performance-hoodie-drifter-camo",
-     "type": "Youth Performance Hoodie",
+     "title": "Dopp Kit - Bendita Camo",
+     "handle": "dopp-kit-bendita-camo",
+     "type": "Dopp Kit",
      "tags": [
-      "8/18/26",
+      "8/27/26",
+      "Accessories",
+      "B2B_Active",
+      "B2B_Sync",
+      "BlinkAutoHide",
+      "excludeblink",
+      "Fall 26",
+      "Fall26",
+      "Mia Review",
+      "missinglifestyle",
+      "retail",
+      "Season Fall26",
+      "wholesale"
+     ],
+     "price": "29.00",
+     "published_at": "2026-08-27T11:09:20-05:00"
+    },
+    {
+     "title": "Duffle Bag - Bendita Camo",
+     "handle": "duffle-bag-bendita-camo-updated-blb-outdoors-patch-f26",
+     "type": "Bags and Cases",
+     "tags": [
+      "8/27/26",
+      "Accessories",
       "B2B_Active",
       "B2B_Sync",
       "BlinkAutoHide",
       "excludeblink",
       "FA26 Missing image",
       "Fall 26",
-      "Fall26",
-      "Long Sleeve",
       "Mia Review",
-      "missinglifestyle",
-      "Performance Hoodie",
-      "PREBOOK START: 06/01/2026",
-      "retail",
-      "Season Fall26",
-      "Tops",
-      "wholesale",
-      "Youth"
-     ],
-     "price": "46.00",
-     "published_at": "2026-08-18T07:18:30-05:00"
-    },
-    {
-     "title": "Youth Athletic Short - Drifter Camo",
-     "handle": "youth-athletic-short-drifter-camo",
-     "type": "Youth Bottoms",
-     "tags": [
-      "8/18/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "Bottoms",
-      "excludeblink",
-      "FA26 Missing image",
-      "Fall 26",
-      "Fall26",
-      "Mia Review",
-      "PREBOOK START: 06/01/2026",
-      "retail",
-      "Season Fall26",
-      "wholesale",
-      "Youth"
-     ],
-     "price": "46.00",
-     "published_at": "2026-08-18T07:18:30-05:00"
-    },
-    {
-     "title": "Performance Hoodie - Drifter Camo",
-     "handle": "performance-hoodie-drifter-camo",
-     "type": "Performance Hoodie",
-     "tags": [
-      "8/18/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "Fall 26",
-      "Fall26",
-      "Mia Review",
-      "Performance Hoodie",
-      "PREBOOK START: 06/01/2026",
-      "retail",
-      "Season Fall26",
-      "Tops",
-      "wholesale"
-     ],
-     "price": "68.00",
-     "published_at": "2026-08-18T07:18:30-05:00"
-    },
-    {
-     "title": "Athletic Short - Drifter Camo",
-     "handle": "athletic-short-drifter-camo",
-     "type": "Athletic Shorts",
-     "tags": [
-      "8/18/26",
-      "Athletic Shorts",
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "Bottoms",
-      "Fall 26",
-      "Fall26",
-      "Mia Review",
-      "missinglifestyle",
-      "PREBOOK START: 06/01/2026",
       "retail",
       "Season Fall26",
       "wholesale"
      ],
-     "price": "58.00",
-     "published_at": "2026-08-18T07:18:30-05:00"
+     "price": "98.00",
+     "published_at": "2026-08-27T11:09:18-05:00"
     }
    ]
   },
@@ -1942,7 +1910,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2650000",
+     "price": "2647000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -1955,7 +1923,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5299000",
+     "price": "5294000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -1968,7 +1936,7 @@
       "retail",
       "wsc"
      ],
-     "price": "928000",
+     "price": "927000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -1981,7 +1949,7 @@
       "retail",
       "wsc"
      ],
-     "price": "928000",
+     "price": "927000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -1992,7 +1960,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1590000",
+     "price": "1588000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
