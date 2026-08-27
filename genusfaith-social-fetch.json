@@ -2,20 +2,20 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-08-27",
- "fetched_at": "2026-08-27T04:15:03.100465+07:00",
+ "date": "2026-08-28",
+ "fetched_at": "2026-08-28T04:15:03.089769+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
     {
-     "title": "I finally understood why some Protestants genuinely cannot separate veneration from worship",
+     "title": "I ended my same sex relationship and went to confession",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vt7m6p/i_finally_understood_why_some_protestants/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vygzni/i_ended_my_same_sex_relationship_and_went_to/",
      "selftext_head": ""
     },
     {
@@ -28,15 +28,6 @@
      "selftext_head": ""
     },
     {
-     "title": "I ended my same sex relationship and went to confession",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vygzni/i_ended_my_same_sex_relationship_and_went_to/",
-     "selftext_head": ""
-    },
-    {
      "title": "One of the Internet's Smartest Agnostics -- Joe Schmid of Majesty of Reason -- Just Converted to Catholicism.",
      "score": null,
      "num_comments": null,
@@ -46,12 +37,30 @@
      "selftext_head": ""
     },
     {
+     "title": "You can overcome masturbation",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vyvp9p/you_can_overcome_masturbation/",
+     "selftext_head": ""
+    },
+    {
      "title": "Picture I took at a museum",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vv0n30/picture_i_took_at_a_museum/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Happy feast day of St. Monica! Never stop persevering in prayer for those far from God!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vzq2lk/happy_feast_day_of_st_monica_never_stop/",
      "selftext_head": ""
     },
     {
@@ -109,21 +118,21 @@
      "selftext_head": ""
     },
     {
-     "title": "New Data Shows a Surge in Catholicism on U.S. College Campuses",
+     "title": "Pope Leo: Vatican II reformed the liturgy to promote active participation",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vthd6r/new_data_shows_a_surge_in_catholicism_on_us/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vyts89/pope_leo_vatican_ii_reformed_the_liturgy_to/",
      "selftext_head": ""
     },
     {
-     "title": "You can overcome masturbation",
+     "title": "The comedian who desecrated a church in France will go to trial: she simulated masturbating with a crucifix on the altar",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vyvp9p/you_can_overcome_masturbation/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vzg7et/the_comedian_who_desecrated_a_church_in_france/",
      "selftext_head": ""
     },
     {
@@ -134,15 +143,6 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vuxp6l/god_bless_you_all/",
      "selftext_head": ""
-    },
-    {
-     "title": "St. Bernard of Clairvaux, Abbot and Doctor — Butler’s Lives of the Saints",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vtpnpx/st_bernard_of_clairvaux_abbot_and_doctor_butlers/",
-     "selftext_head": ""
     }
    ]
   }
@@ -151,11 +151,11 @@
  "suggest": {
   "catholic gift for": [
    "catholic gift for men",
-   "catholic gift for women",
    "catholic gift for new home",
    "catholic gift for newborn",
    "catholic gift for mom",
    "catholic gift for funeral",
+   "catholic gift for women",
    "catholic gift for kids",
    "catholic gift for baptism",
    "catholic gift for wife",
@@ -163,15 +163,15 @@
   ],
   "rosary bracelet": [
    "rosary bracelet",
+   "rosary bracelet women",
    "rosary bracelet mens",
-   "rosary bracelet for women",
    "rosary bracelet gold",
    "rosary bracelet beads",
    "rosary bracelet pattern",
    "rosary bracelet silver",
    "rosary bracelet magnetic",
    "rosary bracelet australia",
-   "rosary bracelet canada"
+   "rosary bracelet tattoo"
   ],
   "christian gift for her": [
    "christian gift for her",
@@ -193,9 +193,9 @@
    "confirmation gifts for adults",
    "confirmation gifts for teenage boys",
    "confirmation gift ideas for girl",
+   "confirmation gift ideas for boy",
    "confirmation gifts from sponsor",
-   "confirmation gifts catholic",
-   "confirmation gift ideas for boys"
+   "confirmation gifts catholic"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -204,9 +204,9 @@
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
-   "baptism gift for baby boy",
    "baptism gifts near me",
    "baptism gifts from godparents",
+   "baptism gift for adult male",
    "baptism gift from godmother"
   ],
   "catholic home decor": [
@@ -235,31 +235,30 @@
   ],
   "first communion gift": [
    "first communion gifts",
-   "first communion gifts for boys",
    "first communion gifts for girls",
+   "first communion gifts for boys",
    "first communion gift ideas",
    "first communion gifts near me",
    "first communion gifts for boys catholic",
-   "first communion gift bags",
-   "first communion gift ideas for boys",
    "first communion gift ideas for girl",
-   "first communion gift for boy non religious"
+   "first communion gift ideas for boys",
+   "first communion gift card",
+   "first communion gift bags"
   ],
   "catholic wedding gift": [
    "catholic wedding gifts",
    "catholic wedding gift ideas",
    "catholic wedding gifts for couples",
    "catholic wedding gift ideas for couple",
-   "catholic wedding gifts rituals",
    "catholic wedding gift for wife",
    "catholic wedding gifts personalized",
+   "catholic wedding gifts rituals",
    "catholic wedding gift bearers",
    "catholic wedding gifts for bride",
    "catholic wedding gift for husband"
   ],
   "christian tote bag": [
    "christian tote bag",
-   "christian tote bags for women",
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
@@ -293,16 +292,16 @@
   ]
  },
  "trends": [
-  "jude bellingham",
-  "michael jordan",
-  "arby&apos;s",
-  "sandra bullock practical magic 2 premiere",
-  "la liga",
-  "pro bowl",
-  "nfl pro bowl",
-  "vinícius júnior",
-  "love island reunion 2026",
-  "yan diomandé"
+  "lamine yamal",
+  "flash flood warning",
+  "red lobster closing",
+  "hope florida",
+  "ice airport arrests",
+  "afrm stock",
+  "gap stock",
+  "marine one",
+  "wday stock",
+  "prediction"
  ],
  "errors": []
 }
