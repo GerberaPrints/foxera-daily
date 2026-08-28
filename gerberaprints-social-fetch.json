@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-08-28",
- "fetched_at": "2026-08-28T04:45:03.067036+07:00",
+ "date": "2026-08-29",
+ "fetched_at": "2026-08-29T04:45:03.445214+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -19,21 +19,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Harold Varner III and friends kicked off Indiana golf course earlier this week, called out by club online",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vw7bwn/harold_varner_iii_and_friends_kicked_off_indiana/",
-     "selftext_head": ""
-    },
-    {
      "title": "Callaway parts ways with Good Good",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w00ljo/callaway_parts_ways_with_good_good/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Harold Varner III and friends kicked off Indiana golf course earlier this week, called out by club online",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vw7bwn/harold_varner_iii_and_friends_kicked_off_indiana/",
      "selftext_head": ""
     },
     {
@@ -64,6 +64,15 @@
      "selftext_head": ""
     },
     {
+     "title": "CEO of Good Good calls out Callaway and claims his team will win",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w0n4m5/ceo_of_good_good_calls_out_callaway_and_claims/",
+     "selftext_head": ""
+    },
+    {
      "title": "Takomo driving a dagger into Callaway",
      "score": null,
      "num_comments": null,
@@ -91,15 +100,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Is there anything better than getting a fresh driving range stall?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vuhheu/is_there_anything_better_than_getting_a_fresh/",
-     "selftext_head": ""
-    },
-    {
      "title": "Very cool to see in person",
      "score": null,
      "num_comments": null,
@@ -118,30 +118,30 @@
      "selftext_head": ""
     },
     {
-     "title": "It is irritating",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vty3p2/it_is_irritating/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Does this count?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vukbtf/does_this_count/",
-     "selftext_head": ""
-    },
-    {
      "title": "Scottie Scheffler tests the structural integrity of his wedge several times after a poor shot from greenside rough",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1vvlff9/scottie_scheffler_tests_the_structural_integrity/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Good Good debacle might be the momentum needed to start reforming or eliminating bro golf \"culture\".",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w07cr9/good_good_debacle_might_be_the_momentum_needed_to/",
+     "selftext_head": ""
+    },
+    {
+     "title": "A guy ran out into the middle of the driving range for some reason",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1vyu7r1/a_guy_ran_out_into_the_middle_of_the_driving/",
      "selftext_head": ""
     }
    ]
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "joe gibbs racing",
-  "trey gowdy",
-  "stony brook vs del state",
-  "trader joe&apos;s pumpkin caramel kringle",
-  "sophie cunningham dolly parton tribute",
-  "cunningham wnba",
-  "arresto",
-  "maine vs towson",
-  "mercyhurst vs youngstown st",
-  "austin weather"
+  "military aid",
+  "apple watch ultra 4",
+  "panthers game",
+  "cale makar",
+  "cyclosporiasis cases lettuce outbreak",
+  "elly de la cruz",
+  "ravens vs commanders",
+  "w&amp;m vs villanova",
+  "corteza terrestre",
+  "the dog stars movie"
  ],
  "errors": []
 }
