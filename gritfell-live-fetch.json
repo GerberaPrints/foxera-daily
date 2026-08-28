@@ -2,44 +2,44 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-28",
- "fetched_at": "2026-08-28T04:30:03.177886+07:00",
+ "date": "2026-08-29",
+ "fetched_at": "2026-08-29T04:30:03.138139+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 103,
    "products": [
     {
-     "title": "Deepwood Camo Sun Hoodie",
-     "handle": "deepwood-camo-sun-hoodie",
+     "title": "Marshland Camo Sun Hoodie",
+     "handle": "marshland-camo-sun-hoodie",
      "type": "Hoodie",
      "tags": [
       "hoodie",
       "hunting"
      ],
      "price": "59.00",
-     "published_at": "2026-08-25T01:13:30-07:00"
+     "published_at": "2026-08-27T21:17:37-07:00"
     },
     {
-     "title": "Topographic Map Sun Hoodie",
-     "handle": "topographic-map-sun-hoodie",
+     "title": "Ridgewater Camo Sun Hoodie",
+     "handle": "ridgewater-camo-sun-hoodie",
      "type": "Hoodie",
      "tags": [
       "hoodie",
       "hunting"
      ],
      "price": "59.00",
-     "published_at": "2026-08-25T00:50:46-07:00"
+     "published_at": "2026-08-27T21:14:32-07:00"
     },
     {
-     "title": "Sand Pixel Sun Hoodie",
-     "handle": "sand-pixel-sun-hoodie",
+     "title": "Deer Woods Sun Hoodie",
+     "handle": "camou-sun-hoodie-sample",
      "type": "Hoodie",
      "tags": [
       "hoodie",
       "hunting"
      ],
      "price": "59.00",
-     "published_at": "2026-08-25T00:36:21-07:00"
+     "published_at": "2026-08-27T21:13:47-07:00"
     },
     {
      "title": "Ocean Camo Sun Hoodie",
@@ -50,7 +50,29 @@
       "hoodie"
      ],
      "price": "59.00",
-     "published_at": "2026-08-24T03:19:50-07:00"
+     "published_at": "2026-08-27T21:07:55-07:00"
+    },
+    {
+     "title": "Woodland Camo Sun Hoodie",
+     "handle": "woodland-camo-sun-hoodie",
+     "type": "Hoodie",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-08-27T20:02:35-07:00"
+    },
+    {
+     "title": "Marsh Hawk Camo Sun Hoodie",
+     "handle": "marsh-hawk-camo-sun-hoodie",
+     "type": "Hoodie",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-08-27T20:00:21-07:00"
     },
     {
      "title": "Wave Sun Hoodie",
@@ -62,28 +84,6 @@
      ],
      "price": "59.00",
      "published_at": "2026-08-24T02:39:05-07:00"
-    },
-    {
-     "title": "Ridgewater Camo Sun Hoodie",
-     "handle": "ridgewater-camo-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-08-24T02:08:48-07:00"
-    },
-    {
-     "title": "Deer Woods Sun Hoodie",
-     "handle": "camou-sun-hoodie-sample",
-     "type": "Hoodie",
-     "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-08-12T19:33:46-07:00"
     },
     {
      "title": "Marshland Camo Polo",
@@ -1263,6 +1263,94 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Waxed Cotton 6-Panel Hat in Mossy Oak Original Bottomland - Cattle Brand",
+     "handle": "waxed-cotton-6-panel-hat-in-mossy-oak-original-bottomland-cattle-brand",
+     "type": "Hats",
+     "tags": [
+      "field sport",
+      "FW2026ZR",
+      "HATSZR",
+      "HUNTZR",
+      "MENZR",
+      "MFIELDZR",
+      "MHATZR",
+      "MNEWZR",
+      "MOSSYZR",
+      "WFIELDZR",
+      "WHATZR",
+      "WNEWZR",
+      "WOMENZR"
+     ],
+     "price": "65.00",
+     "published_at": "2026-08-28T13:30:43-05:00"
+    },
+    {
+     "title": "DU Waxed Cotton 5-Panel Hat - Duck Blind",
+     "handle": "du-waxed-cotton-5-panel-hat-duck-blind",
+     "type": "Hats",
+     "tags": [
+      "DUCKSZR",
+      "field sport",
+      "FW2026ZR",
+      "HATSZR",
+      "HUNTZR",
+      "MENZR",
+      "MFIELDZR",
+      "MHATZR",
+      "MNEWZR",
+      "WFIELDZR",
+      "WHATZR",
+      "WNEWZR",
+      "WOMENZR"
+     ],
+     "price": "65.00",
+     "published_at": "2026-08-28T13:30:15-05:00"
+    },
+    {
+     "title": "DU Waxed Cotton 6-Panel Hat - Duckhead",
+     "handle": "du-waxed-cotton-6-panel-hat-duckhead",
+     "type": "Hats",
+     "tags": [
+      "DUCKSZR",
+      "field sport",
+      "FW2026ZR",
+      "HATSZR",
+      "HUNTZR",
+      "MENZR",
+      "MFIELDZR",
+      "MHATZR",
+      "MNEWZR",
+      "WFIELDZR",
+      "WHATZR",
+      "WNEWZR",
+      "WOMENZR"
+     ],
+     "price": "65.00",
+     "published_at": "2026-08-28T13:29:35-05:00"
+    },
+    {
+     "title": "Waxed Cotton 5-Panel Hat in Mossy Oak Original Bottomland - TB Mark",
+     "handle": "waxed-cotton-5-panel-hat-in-mossy-oak-original-bottomland-tb-mark",
+     "type": "Hats",
+     "tags": [
+      "field sport",
+      "FW2026ZR",
+      "HATSZR",
+      "HUNTZR",
+      "MENZR",
+      "MFIELDZR",
+      "MHATZR",
+      "MNEWZR",
+      "MOSSYZR",
+      "WFIELDZR",
+      "WHATZR",
+      "WNEWZR",
+      "WOMENZR"
+     ],
+     "price": "65.00",
+     "published_at": "2026-08-28T13:28:19-05:00"
+    },
+    {
      "title": "Farris Waffle Knit Quarter Zip",
      "handle": "farris-waffle-knit-quarter-zip",
      "type": "Layering",
@@ -1276,90 +1364,6 @@
      ],
      "price": "295.00",
      "published_at": "2026-08-24T15:43:24-05:00"
-    },
-    {
-     "title": "Waxed Cotton 6-Panel Hat - English Setter",
-     "handle": "waxed-cotton-6-panel-hat-english-setter",
-     "type": "Hats",
-     "tags": [
-      "field sport",
-      "FW2026ZR",
-      "HATSZR",
-      "HUNTZR",
-      "MENZR",
-      "MFIELDZR",
-      "MHATZR",
-      "MNEWZR",
-      "WFIELDZR",
-      "WHATZR",
-      "WNEWZR",
-      "WOMENZR"
-     ],
-     "price": "55.00",
-     "published_at": "2026-08-24T13:54:37-05:00"
-    },
-    {
-     "title": "Waxed Cotton 6-Panel Hat - Cattle Brand",
-     "handle": "waxed-cotton-6-panel-hat-cattle-brand",
-     "type": "Hats",
-     "tags": [
-      "field sport",
-      "FW2026ZR",
-      "HATSZR",
-      "HUNTZR",
-      "MENZR",
-      "MFIELDZR",
-      "MHATZR",
-      "MNEWZR",
-      "WFIELDZR",
-      "WHATZR",
-      "WNEWZR",
-      "WOMENZR"
-     ],
-     "price": "55.00",
-     "published_at": "2026-08-24T13:54:36-05:00"
-    },
-    {
-     "title": "Cotton Twill 5-Panel Hat - The Flush",
-     "handle": "cotton-twill-5-panel-hat-the-flush",
-     "type": "Hats",
-     "tags": [
-      "field sport",
-      "FW2026ZR",
-      "HATSZR",
-      "HUNTZR",
-      "MENZR",
-      "MFIELDZR",
-      "MHATZR",
-      "MNEWZR",
-      "WFIELDZR",
-      "WHATZR",
-      "WNEWZR",
-      "WOMENZR"
-     ],
-     "price": "45.00",
-     "published_at": "2026-08-24T13:54:36-05:00"
-    },
-    {
-     "title": "Cotton Twill 5-Panel Hat - Pintail",
-     "handle": "cotton-twill-5-panel-hat-pintail",
-     "type": "Hats",
-     "tags": [
-      "field sport",
-      "FW2026ZR",
-      "HATSZR",
-      "HUNTZR",
-      "MENZR",
-      "MFIELDZR",
-      "MHATZR",
-      "MNEWZR",
-      "WFIELDZR",
-      "WHATZR",
-      "WNEWZR",
-      "WOMENZR"
-     ],
-     "price": "45.00",
-     "published_at": "2026-08-24T13:54:35-05:00"
     }
    ]
   },
@@ -1610,6 +1614,27 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Balaclava",
+     "handle": "balaclava",
+     "type": "Headwear",
+     "tags": [
+      "- $25 - $50",
+      "- headwear",
+      "- under $50",
+      "- under $75",
+      "- waterfowl",
+      "AW25 Catalog",
+      "Brand_Waterfowl",
+      "face-masks-neck-gaiters",
+      "hunting accessories",
+      "mens",
+      "YGroup_balaclava",
+      "youth"
+     ],
+     "price": "29.99",
+     "published_at": "2026-08-28T15:28:00-05:00"
+    },
+    {
      "title": "Delta Quilted Jacket",
      "handle": "delta-quilted-jacket",
      "type": "Jackets & Vests",
@@ -1712,25 +1737,6 @@
      ],
      "price": "64.99",
      "published_at": "2026-08-18T13:08:47-05:00"
-    },
-    {
-     "title": "Ol' Tom Turkey Tote",
-     "handle": "turkey-tote",
-     "type": "Accessories",
-     "tags": [
-      "- $25 - $50",
-      "- accessories",
-      "- turkey",
-      "Labor Day Sale 2025",
-      "MEN",
-      "mens",
-      "Oct WHSE Sale",
-      "ol-tom",
-      "SS24_New",
-      "SS26 Catalog"
-     ],
-     "price": "29.99",
-     "published_at": "2026-08-17T08:38:56-05:00"
     }
    ]
   },
@@ -1804,6 +1810,98 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Puffer Vest - Black",
+     "handle": "puffer-vest-black",
+     "type": "Jacket",
+     "tags": [
+      "9/13/26",
+      "9/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "Bass Pro",
+      "Black",
+      "BlinkAutoHide",
+      "Core",
+      "FALL CORE",
+      "FALL25",
+      "Long Sleeve",
+      "Men's",
+      "Mia Review",
+      "Outerwear",
+      "pdqreview",
+      "PREBOOK START: 08/01/2026",
+      "Puffer",
+      "retail",
+      "Season Core",
+      "Season Fall25",
+      "Season Fall26",
+      "Vest",
+      "wholesale",
+      "WinterSale",
+      "WinterSale34.2%"
+     ],
+     "price": "79.00",
+     "published_at": "2026-08-28T11:20:52-05:00"
+    },
+    {
+     "title": "Puffer Vest - Mallard Green",
+     "handle": "puffer-vest-mallard-green",
+     "type": "Vest",
+     "tags": [
+      "9/4",
+      "BlinkAutoHide",
+      "Hunting",
+      "Logo",
+      "Mallard Green",
+      "Men's",
+      "Outerwear",
+      "Outerwear Top",
+      "pdqreview",
+      "PREBOOK START: 08/01/2026",
+      "retail",
+      "Sale",
+      "Sweatshirt",
+      "WinterSale",
+      "WinterSale34.2%"
+     ],
+     "price": "79.00",
+     "published_at": "2026-08-28T11:04:15-05:00"
+    },
+    {
+     "title": "Puffer Vest - Gauge Camo",
+     "handle": "puffer-vest-gauge-camo",
+     "type": "Vest",
+     "tags": [
+      "9/13/26",
+      "9/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "Bass Pro",
+      "BlinkAutoHide",
+      "Core",
+      "FALL CORE",
+      "Gauge Camo",
+      "Hunting",
+      "Logo",
+      "Men's",
+      "Mia Review",
+      "Outerwear",
+      "Outerwear Top",
+      "pdqreview",
+      "PREBOOK START: 08/01/2026",
+      "retail",
+      "Sale",
+      "Season Core",
+      "Season Fall26",
+      "Sweatshirt",
+      "wholesale",
+      "WinterSale",
+      "WinterSale34.2%"
+     ],
+     "price": "79.00",
+     "published_at": "2026-08-28T11:00:06-05:00"
+    },
+    {
      "title": "Father and Son Bundle - Thermal Hoodie - Bendita Camo",
      "handle": "father-and-son-bundle-thermal-hoodie-bendita-camo",
      "type": "Bundle",
@@ -1824,73 +1922,6 @@
      ],
      "price": "28.00",
      "published_at": "2026-08-27T11:09:23-05:00"
-    },
-    {
-     "title": "Challenger Pant -  Bendita Camo",
-     "handle": "challenger-pant-bendita-camo",
-     "type": "Pants",
-     "tags": [
-      "8/27/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "Black",
-      "Bottoms",
-      "Challenger Pant",
-      "Fall 26",
-      "Fall26",
-      "Men's",
-      "missinglifestyle",
-      "Outerwear",
-      "retail",
-      "Season Fall26",
-      "wholesale",
-      "WinterSale"
-     ],
-     "price": "92.00",
-     "published_at": "2026-08-27T11:09:21-05:00"
-    },
-    {
-     "title": "Dopp Kit - Bendita Camo",
-     "handle": "dopp-kit-bendita-camo",
-     "type": "Dopp Kit",
-     "tags": [
-      "8/27/26",
-      "Accessories",
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "excludeblink",
-      "Fall 26",
-      "Fall26",
-      "Mia Review",
-      "missinglifestyle",
-      "retail",
-      "Season Fall26",
-      "wholesale"
-     ],
-     "price": "29.00",
-     "published_at": "2026-08-27T11:09:20-05:00"
-    },
-    {
-     "title": "Duffle Bag - Bendita Camo",
-     "handle": "duffle-bag-bendita-camo-updated-blb-outdoors-patch-f26",
-     "type": "Bags and Cases",
-     "tags": [
-      "8/27/26",
-      "Accessories",
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "excludeblink",
-      "FA26 Missing image",
-      "Fall 26",
-      "Mia Review",
-      "retail",
-      "Season Fall26",
-      "wholesale"
-     ],
-     "price": "98.00",
-     "published_at": "2026-08-27T11:09:18-05:00"
     }
    ]
   },
@@ -1910,7 +1941,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2647000",
+     "price": "2646000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -1923,7 +1954,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5294000",
+     "price": "5293000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -1936,7 +1967,7 @@
       "retail",
       "wsc"
      ],
-     "price": "927000",
+     "price": "926000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -1949,7 +1980,7 @@
       "retail",
       "wsc"
      ],
-     "price": "927000",
+     "price": "926000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2022,6 +2053,39 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Turkey Hunter Orange Line Art Polo Shirt VCP1028",
+     "handle": "turkey-hunter-orange-line-art-polo-shirt-vcp1028",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-28T03:33:33-06:00"
+    },
+    {
+     "title": "Backwoods Mourning Dove Hunting Hawaiian Shirt VCP1027",
+     "handle": "backwoods-mourning-dove-hunting-hawaiian-shirt-vcp1027",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-28T03:28:12-06:00"
+    },
+    {
+     "title": "Dove Season Camouflage Polo Shirt VCP1026",
+     "handle": "cream-upland-bird-pheasant-feather-polo-shirt-vcp1025-copy",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-28T03:18:29-06:00"
+    },
+    {
      "title": "Cream Upland Bird Pheasant & Feather Polo Shirt VCP1025",
      "handle": "cream-upland-bird-pheasant-feather-polo-shirt-vcp1025",
      "type": "Polo Shirt",
@@ -2041,39 +2105,6 @@
      ],
      "price": "39.99",
      "published_at": "2026-08-24T09:57:46-06:00"
-    },
-    {
-     "title": "Flying Mallard Duck Marsh Polo Shirt VCP1024",
-     "handle": "flying-mallard-duck-marsh-polo-shirt-vcp1024",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-24T09:52:03-06:00"
-    },
-    {
-     "title": "Ring Necked Pheasant Polo Shirt VCP1023",
-     "handle": "ring-necked-pheasant-polo-shirt-vcp1023",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-24T09:41:09-06:00"
-    },
-    {
-     "title": "Whitetail Deer Checkerboard Polo Shirt VCP1022",
-     "handle": "whitetail-deer-checkerboard-polo-shirt-vcp1022",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-24T09:29:00-06:00"
     }
    ]
   },
@@ -2081,75 +2112,74 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Waterproof Dry Bag Set - Roll-Top Dry Sacks for Kayaking & Camping",
-     "handle": "waterproof-dry-bag-set-roll-top-dry-sacks-for-kayaking-camping",
-     "type": "Dry Bags",
+     "title": "Men's Camo Windbreaker Jacket - Lightweight Hooded Anorak - Half-Zip",
+     "handle": "men-s-camo-half-zip-hooded-jacket-lightweight-shell",
+     "type": "Jacket",
      "tags": [
-      "70D ripstop",
-      "activity:camping",
-      "camping",
-      "dry bag",
-      "dry bag set",
-      "dry bags",
-      "dry sack",
-      "gear organisation",
-      "hiking",
-      "kayak dry bag",
-      "outdoor",
-      "roll top dry bag",
-      "waterproof",
-      "waterproof bag",
-      "waterproof dry bag"
+      "Anorak",
+      "Autumn jacket",
+      "Camo jacket",
+      "Camouflage jacket",
+      "Half-zip jacket",
+      "Hooded jacket",
+      "Lightweight jacket",
+      "Men's jacket",
+      "Shell jacket",
+      "Walking jacket"
      ],
-     "price": "32.95",
-     "published_at": "2026-07-30T16:27:49+02:00"
+     "price": "59.95",
+     "published_at": "2026-08-28T20:37:36+02:00"
     },
     {
-     "title": "Men's Fleece Hoodie - Thermolite Hooded Fleece Jumper",
-     "handle": "mens-fleece-hoodie-thermolite-hooded-fleece-jumper",
-     "type": "Men's Fleece",
+     "title": "Women's Fleece Jacket - Full Zip Up Fleece - Walking & Hiking",
+     "handle": "womens-fleece-jacket-full-zip-walking-hiking",
+     "type": "Women's Fleece",
      "tags": [
-      "fleece hoodie",
-      "fleece jumper",
-      "grid fleece",
-      "hiking",
-      "hooded fleece",
-      "mens fleece",
-      "mens fleece hoodie",
-      "mens midlayer",
-      "midlayer",
-      "outdoor",
-      "pullover fleece",
-      "Thermolite",
-      "waffle knit",
-      "walking"
+      "activity:hiking",
+      "gender:womens",
+      "type:fleeces"
      ],
      "price": "54.95",
-     "published_at": "2026-07-27T18:36:57+02:00"
+     "published_at": "2026-08-28T20:36:40+02:00"
     },
     {
-     "title": "Women's Zippered Pocket Running Shorts – Lightweight Quick-Dry Athletic Shorts",
-     "handle": "womens-zippered-pocket-running-shorts-lightweight-quick-dry-athletic-shorts",
-     "type": "Short women",
+     "title": "Heated Gilet – USB Powered Body Warmer with Four Heating Zones for Hiking",
+     "handle": "heated-gilet-usb-powered-body-warmer-with-four-heating-zones-for-hiking",
+     "type": "Heated Clothes",
      "tags": [],
-     "price": "38.95",
-     "published_at": "2026-07-20T14:46:44+02:00"
+     "price": "51.45",
+     "published_at": "2026-08-28T13:18:34+02:00"
     },
     {
-     "title": "Packable Wide-Brim Fishing Hat – Sun Hat with Neck Flap and Chin Strap",
-     "handle": "packable-wide-brim-fishing-hat-sun-hat-with-neck-flap-and-chin-strap",
-     "type": "Hat",
-     "tags": [],
-     "price": "44.95",
-     "published_at": "2026-07-20T14:35:48+02:00"
+     "title": "Men's Gilet - Sherpa Fleece - Insulated Body Warmer for Outdoor Use",
+     "handle": "mens-sherpa-fleece-gilet-insulated-body-warmer",
+     "type": "Outdoor gilet",
+     "tags": [
+      "activity:camping",
+      "activity:fishing",
+      "activity:hiking",
+      "autumn",
+      "body warmer",
+      "borg fleece",
+      "gender:mens",
+      "gilet",
+      "outdoor",
+      "sherpa fleece",
+      "type:gilets",
+      "winter"
+     ],
+     "price": "54.95",
+     "published_at": "2026-08-28T13:16:49+02:00"
     },
     {
-     "title": "Men's Water-Resistant Cargo Trousers – Multi-Pocket Tactical Pants for Hunting and Fishing",
-     "handle": "mens-water-resistant-cargo-trousers-multi-pocket-tactical-pants-for-hunting-and-fishing",
-     "type": "Trousers men",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-07-20T14:06:22+02:00"
+     "title": "Mens Softshell Jacket – Fleece Lined Hooded Military Style Coat with Zip Pockets",
+     "handle": "mens-softshell-jacket-fleece-lined-hooded-military-style-coat-with-zip-pockets",
+     "type": "Jacket",
+     "tags": [
+      "jackets"
+     ],
+     "price": "54.45",
+     "published_at": "2026-08-28T13:12:21+02:00"
     }
    ]
   }
