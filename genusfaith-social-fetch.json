@@ -2,13 +2,31 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-08-29",
- "fetched_at": "2026-08-29T04:15:03.132182+07:00",
+ "date": "2026-08-30",
+ "fetched_at": "2026-08-30T04:15:03.166276+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "New friend on my nightstand :)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w0q63s/new_friend_on_my_nightstand/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Happy feast day of one of the greatest saints and intellectuals in history, St. Augustine! A perfect patron for converts, for those struggling with lust, and those seeking truth; St. Augustine, pray for us!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w0m8vr/happy_feast_day_of_one_of_the_greatest_saints_and/",
+     "selftext_head": ""
+    },
     {
      "title": "I ended my same sex relationship and went to confession",
      "score": null,
@@ -28,12 +46,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Happy feast day of one of the greatest saints and intellectuals in history, St. Augustine! A perfect patron for converts, for those struggling with lust, and those seeking truth; St. Augustine, pray for us!",
+     "title": "I saw Jesus",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w0m8vr/happy_feast_day_of_one_of_the_greatest_saints_and/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w12sff/i_saw_jesus/",
      "selftext_head": ""
     },
     {
@@ -46,39 +64,12 @@
      "selftext_head": ""
     },
     {
-     "title": "One of the Internet's Smartest Agnostics -- Joe Schmid of Majesty of Reason -- Just Converted to Catholicism.",
+     "title": "Today is the feast day of St. Moses the Black",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vuv2zo/one_of_the_internets_smartest_agnostics_joe/",
-     "selftext_head": ""
-    },
-    {
-     "title": "New friend on my nightstand :)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w0q63s/new_friend_on_my_nightstand/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Picture I took at a museum",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vv0n30/picture_i_took_at_a_museum/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Saint Bartholomew, August 24th feast, martyr.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vwspju/saint_bartholomew_august_24th_feast_martyr/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w10m9e/today_is_the_feast_day_of_st_moses_the_black/",
      "selftext_head": ""
     },
     {
@@ -91,6 +82,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Saint Bartholomew, August 24th feast, martyr.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vwspju/saint_bartholomew_august_24th_feast_martyr/",
+     "selftext_head": ""
+    },
+    {
      "title": "Happy feast day of St. Louis! See below for some great info on him.",
      "score": null,
      "num_comments": null,
@@ -100,12 +100,12 @@
      "selftext_head": ""
     },
     {
-     "title": "First confession in 25 years… and I’m not sure what happened afterward",
+     "title": "[Free Friday] Archdiocese of Monterrey’s “Spiritual Ambulance”",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vv0n2d/first_confession_in_25_years_and_im_not_sure_what/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w0jobg/free_friday_archdiocese_of_monterreys_spiritual/",
      "selftext_head": ""
     },
     {
@@ -118,30 +118,30 @@
      "selftext_head": ""
     },
     {
+     "title": "A Catholic church in Košice, Slovakia",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w1cysr/a_catholic_church_in_košice_slovakia/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Free Friday I love my local Cathedral in Helena Montana!!!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w15u7o/free_friday_i_love_my_local_cathedral_in_helena/",
+     "selftext_head": ""
+    },
+    {
      "title": "Pope Leo: Vatican II reformed the liturgy to promote active participation",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vyts89/pope_leo_vatican_ii_reformed_the_liturgy_to/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Wife had me served with divorce papers today. How am I supposed to handle this as a Catholic?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w01gwj/wife_had_me_served_with_divorce_papers_today_how/",
-     "selftext_head": ""
-    },
-    {
-     "title": "The comedian who desecrated a church in France will go to trial: she simulated masturbating with a crucifix on the altar",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vzg7et/the_comedian_who_desecrated_a_church_in_france/",
      "selftext_head": ""
     }
    ]
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "ignacio buse",
-  "ayyoub bouaddi",
-  "zavier gozo",
-  "lille vs psg",
-  "rich rowland former mlb catcher",
-  "harry kane",
-  "julia polastri",
-  "law roach",
-  "dave ramsey",
-  "elvina kalieva"
+  "jaguares - américa",
+  "riley herbst",
+  "notah begay",
+  "corte suprema",
+  "nicolás gonzález",
+  "quinn ewers",
+  "pete crow-armstrong",
+  "atlético-mg x ec vitória",
+  "dolphins depth chart",
+  "eastern michigan football"
  ],
  "errors": []
 }
