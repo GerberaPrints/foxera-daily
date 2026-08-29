@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-08-29",
- "fetched_at": "2026-08-29T04:45:03.445214+07:00",
+ "date": "2026-08-30",
+ "fetched_at": "2026-08-30T04:45:03.553236+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -46,6 +46,33 @@
      "selftext_head": ""
     },
     {
+     "title": "Fuck this guy",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w0z022/fuck_this_guy/",
+     "selftext_head": ""
+    },
+    {
+     "title": "CEO of Good Good calls out Callaway and claims his team will win",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w0n4m5/ceo_of_good_good_calls_out_callaway_and_claims/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Cameron Young sinks a long eagle to cap off a round of 62, then gives a firm handshake to his nonexistent playing partner",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w0zewa/cameron_young_sinks_a_long_eagle_to_cap_off_a/",
+     "selftext_head": ""
+    },
+    {
      "title": "$140 tee time and these are the greens, wyd?",
      "score": null,
      "num_comments": null,
@@ -64,39 +91,12 @@
      "selftext_head": ""
     },
     {
-     "title": "CEO of Good Good calls out Callaway and claims his team will win",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w0n4m5/ceo_of_good_good_calls_out_callaway_and_claims/",
-     "selftext_head": ""
-    },
-    {
      "title": "Takomo driving a dagger into Callaway",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1vy5gdq/takomo_driving_a_dagger_into_callaway/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Albatross alert: Shaun Norris with a 261-yard big bird at the Nexo Championship (DP World Tour)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vvcd5b/albatross_alert_shaun_norris_with_a_261yard_big/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Pink sand in a South Korean golf course",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vv8fl8/pink_sand_in_a_south_korean_golf_course/",
      "selftext_head": ""
     },
     {
@@ -118,21 +118,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Scottie Scheffler tests the structural integrity of his wedge several times after a poor shot from greenside rough",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vvlff9/scottie_scheffler_tests_the_structural_integrity/",
-     "selftext_head": ""
-    },
-    {
      "title": "Good Good debacle might be the momentum needed to start reforming or eliminating bro golf \"culture\".",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w07cr9/good_good_debacle_might_be_the_momentum_needed_to/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Guy steals TaylorMade Spider putter from pro shop on camera. Video courtesy of Wyandot Golf Club",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w1q5cs/guy_steals_taylormade_spider_putter_from_pro_shop/",
      "selftext_head": ""
     },
     {
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "military aid",
-  "apple watch ultra 4",
-  "panthers game",
-  "cale makar",
-  "cyclosporiasis cases lettuce outbreak",
-  "elly de la cruz",
-  "ravens vs commanders",
-  "w&amp;m vs villanova",
-  "corteza terrestre",
-  "the dog stars movie"
+  "indycar",
+  "savannah st vs sc state",
+  "citadel vs wofford",
+  "jose trevino",
+  "chivas vs pachuca",
+  "nl mvp odds",
+  "adam scott golfer",
+  "morgan state vs nc a&amp;t",
+  "tyrone taylor",
+  "seiya suzuki"
  ],
  "errors": []
 }
