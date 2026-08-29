@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-29",
- "fetched_at": "2026-08-29T04:30:03.138139+07:00",
+ "date": "2026-08-30",
+ "fetched_at": "2026-08-30T04:30:03.333567+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 103,
@@ -1941,7 +1941,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2646000",
+     "price": "2647000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -1954,7 +1954,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5293000",
+     "price": "5294000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -1967,7 +1967,7 @@
       "retail",
       "wsc"
      ],
-     "price": "926000",
+     "price": "927000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -1980,7 +1980,7 @@
       "retail",
       "wsc"
      ],
-     "price": "926000",
+     "price": "927000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2112,6 +2112,37 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Head Torch - Rechargeable Tilting Zoom Beam - LED Headlamp for Fishing",
+     "handle": "rechargeable-led-headlamp-with-zoomable-beam-and-three-operating-modes",
+     "type": "Flashlight",
+     "tags": [
+      "activity:camping",
+      "activity:fishing",
+      "activity:hiking",
+      "gender:unisex",
+      "gmc-approved",
+      "gmc-live",
+      "type:tech"
+     ],
+     "price": "34.99",
+     "published_at": "2026-08-29T16:29:39+02:00"
+    },
+    {
+     "title": "Men's Quarter Zip Jumper - Textured Fleece Mid Layer with Chest Pocket",
+     "handle": "mens-quarter-zip-jumper-textured-fleece-mid-layer-with-chest-pocket",
+     "type": "Jumpers",
+     "tags": [
+      "activity:camping",
+      "activity:hiking",
+      "activity:walking",
+      "gender:male",
+      "gmc-approved",
+      "type:midlayer"
+     ],
+     "price": "44.95",
+     "published_at": "2026-08-29T16:29:25+02:00"
+    },
+    {
      "title": "Men's Camo Windbreaker Jacket - Lightweight Hooded Anorak - Half-Zip",
      "handle": "men-s-camo-half-zip-hooded-jacket-lightweight-shell",
      "type": "Jacket",
@@ -2149,37 +2180,6 @@
      "tags": [],
      "price": "51.45",
      "published_at": "2026-08-28T13:18:34+02:00"
-    },
-    {
-     "title": "Men's Gilet - Sherpa Fleece - Insulated Body Warmer for Outdoor Use",
-     "handle": "mens-sherpa-fleece-gilet-insulated-body-warmer",
-     "type": "Outdoor gilet",
-     "tags": [
-      "activity:camping",
-      "activity:fishing",
-      "activity:hiking",
-      "autumn",
-      "body warmer",
-      "borg fleece",
-      "gender:mens",
-      "gilet",
-      "outdoor",
-      "sherpa fleece",
-      "type:gilets",
-      "winter"
-     ],
-     "price": "54.95",
-     "published_at": "2026-08-28T13:16:49+02:00"
-    },
-    {
-     "title": "Mens Softshell Jacket – Fleece Lined Hooded Military Style Coat with Zip Pockets",
-     "handle": "mens-softshell-jacket-fleece-lined-hooded-military-style-coat-with-zip-pockets",
-     "type": "Jacket",
-     "tags": [
-      "jackets"
-     ],
-     "price": "54.45",
-     "published_at": "2026-08-28T13:12:21+02:00"
     }
    ]
   }
