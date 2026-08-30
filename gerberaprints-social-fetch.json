@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-08-30",
- "fetched_at": "2026-08-30T04:45:03.553236+07:00",
+ "date": "2026-08-31",
+ "fetched_at": "2026-08-31T04:45:03.645553+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -25,15 +25,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w00ljo/callaway_parts_ways_with_good_good/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Harold Varner III and friends kicked off Indiana golf course earlier this week, called out by club online",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vw7bwn/harold_varner_iii_and_friends_kicked_off_indiana/",
      "selftext_head": ""
     },
     {
@@ -73,12 +64,12 @@
      "selftext_head": ""
     },
     {
-     "title": "$140 tee time and these are the greens, wyd?",
+     "title": "Guy steals TaylorMade Spider putter from pro shop on camera. Video courtesy of Wyandot Golf Club",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vvsotc/140_tee_time_and_these_are_the_greens_wyd/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1w1q5cs/guy_steals_taylormade_spider_putter_from_pro_shop/",
      "selftext_head": ""
     },
     {
@@ -91,12 +82,30 @@
      "selftext_head": ""
     },
     {
+     "title": "All this just to shoot 105 at a municipal course.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w2e56k/all_this_just_to_shoot_105_at_a_municipal_course/",
+     "selftext_head": ""
+    },
+    {
      "title": "Takomo driving a dagger into Callaway",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1vy5gdq/takomo_driving_a_dagger_into_callaway/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Justin Rose slam dunks a 6-iron from 208 yards for a hole in one",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w2pd8n/justin_rose_slam_dunks_a_6iron_from_208_yards_for/",
      "selftext_head": ""
     },
     {
@@ -124,15 +133,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w07cr9/good_good_debacle_might_be_the_momentum_needed_to/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Guy steals TaylorMade Spider putter from pro shop on camera. Video courtesy of Wyandot Golf Club",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w1q5cs/guy_steals_taylormade_spider_putter_from_pro_shop/",
      "selftext_head": ""
     },
     {
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "indycar",
-  "savannah st vs sc state",
-  "citadel vs wofford",
-  "jose trevino",
-  "chivas vs pachuca",
-  "nl mvp odds",
-  "adam scott golfer",
-  "morgan state vs nc a&amp;t",
-  "tyrone taylor",
-  "seiya suzuki"
+  "tank dell",
+  "walter rouse",
+  "coby mayo",
+  "scottie scheffler",
+  "stranger things new episodes netflix",
+  "kyle chandler",
+  "venus williams husband andrea preti",
+  "colo-colo - audax italiano",
+  "neymar",
+  "vikings 53 man roster"
  ],
  "errors": []
 }

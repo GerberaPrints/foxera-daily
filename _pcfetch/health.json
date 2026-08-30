@@ -1,6 +1,6 @@
 {
  "schema_version": "1.2",
- "checked_at": "2026-08-31T04:40:52.279593+07:00",
+ "checked_at": "2026-08-31T04:45:45.430998+07:00",
  "date": "2026-08-31",
  "projects": [
   {
@@ -26,16 +26,12 @@
   {
    "project": "gerberaprints",
    "checks": [
-    "FAIL live-fetch cu: 2026-08-30 (hom nay 2026-08-31)",
-    "OK feed 10/10",
-    "FAIL social-fetch cu: 2026-08-30"
+    "OK live-fetch = hom nay",
+    "OK feed 10/10"
    ],
    "healed": [],
-   "need_human": [
-    "gerberaprints: du lieu dung o 2026-08-30, task CO THAT (12 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
-    "gerberaprints: social dung o 2026-08-30 (hom nay 2026-08-31). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gerberaprints"
-   ],
-   "status": "FAIL",
+   "need_human": [],
+   "status": "OK",
    "feeds": "10/10",
    "reddit": "1/1"
   },
@@ -134,36 +130,28 @@
   {
    "project": "[watch] foxera-daily.json",
    "checks": [
-    "FAIL cu: 2026-08-30"
+    "OK = hom nay"
    ],
    "healed": [],
-   "need_human": [
-    "foxera-daily.json dung o 2026-08-30 (hom nay 2026-08-31) — Ban tin FoxEra Etsy/POD. CANH BAO: file nay TRONG XANH nhung chi vi user chay TAY moi sang — chinh no tu khai trong truong source: 'cloud chay TAY 21/08 (luot 02:00 va 04:00 fire nhung khong giao file)'. Ngay nao user quen lam tay la no cu ma khong ai biet.. Sinh boi: routine cloud Etsy FoxEra Daily Research 02:00 + CHAY BU 04:00 (ca hai dang khong giao duoc file). Kiem: Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich."
-   ],
-   "status": "FAIL"
+   "need_human": [],
+   "status": "OK"
   },
   {
    "project": "[watch] foxera-accounts-daily.json",
    "checks": [
-    "FAIL cu: 2026-08-30"
+    "OK = hom nay"
    ],
    "healed": [],
-   "need_human": [
-    "foxera-accounts-daily.json dung o 2026-08-30 (hom nay 2026-08-31) — Registry tai khoan Etsy — Hub GAS doc qua raw URL (key external_fetch_contract).. Sinh boi: routine cloud FoxEra (cung nhanh voi foxera-daily.json). Kiem: Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich."
-   ],
-   "status": "FAIL"
+   "need_human": [],
+   "status": "OK"
   }
  ],
  "need_human": [
-  "gerberaprints: du lieu dung o 2026-08-30, task CO THAT (12 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
-  "gerberaprints: social dung o 2026-08-30 (hom nay 2026-08-31). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gerberaprints",
   "gerbera-live-fetch.json dung o 2026-08-30 (hom nay 2026-08-31) — ban tin Gerbera market moi sang DOC file nay (khong phai gerberaprints-live-fetch.json). Sinh boi: Task Scheduler 'Gerbera PC Fetch' 06:45 (gerbera_fetch.py v1.1.1, 15 nguon/lan). Kiem: schtasks /Query /TN \"Gerbera PC Fetch\" /V /FO LIST | findstr \"Last Result\"",
   "gerbera-market.json dung o 2026-08-22 (hom nay 2026-08-31) — GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.. Sinh boi: routine cloud [Gerbera-Trend] Research. Kiem: Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich.",
   "gritfell-daily.json dung o 2026-08-03 (hom nay 2026-08-31) — ⚠️ KHONG PHAI CANH BAO. GritFell v6.0 (14/08) da chuyen sang GOOGLE DRIVE: 'DRIVE — BAT BUOC, LAM TRUOC, DAY LA DUONG SONG'; GitHub push 'duoc phep fail'. File nay dung im trong repo la DUNG THIET KE.. Sinh boi: routine cloud GritFell Daily. Kiem: KHONG can lam gi voi file repo nay. Muon kiem GritFell that su co ra ban tin khong thi xem nhom Telegram 'GritFell - Daily Market Research' hoac folder Drive cua no — KHONG xem file nay.",
   "genusfaith-daily.json dung o 2026-08-03 (hom nay 2026-08-31) — ⚠️ KHONG PHAI CANH BAO. Genus-Research v9.1-drive da chuyen sang GOOGLE DRIVE (folder GenusFaith_Briefs, ten file genusfaith-daily-YYYY-MM-DD.json, GAS v4.4 doc thang tu Drive). Prompt ghi ro: '403 = BINH THUONG, KHONG retry, KHONG coi la loi'. File nay dung im trong repo la DUNG THIET KE.. Sinh boi: routine cloud Genus-Research Daily. Kiem: KHONG can lam gi voi file repo nay. Muon kiem thi xem folder Drive GenusFaith_Briefs co file genusfaith-daily-<hom nay>.json khong — KHONG xem file nay.",
-  "foxera-job.json dung o 2026-08-03 (hom nay 2026-08-31) — Ban tin FoxEra Job (EraCloset). DAY LA MUC HONG THAT — job nay VAN push GitHub, khac hai muc gritfell/genusfaith da chuyen Drive.. Sinh boi: routine cloud FoxEra Job. Kiem: Prompt task da duoc sua 22/08/2026: push loi -> BAT BUOC SendUserFile 2 file truoc, roi moi PushNotification. Tu 23/08 tro di, push hong thi user van nhan duoc file — chep vao repo roi chay 'python gpday.py'. Neu 23/08 van khong nhan duoc file thi ban va prompt do hong, bao Claude.",
-  "foxera-daily.json dung o 2026-08-30 (hom nay 2026-08-31) — Ban tin FoxEra Etsy/POD. CANH BAO: file nay TRONG XANH nhung chi vi user chay TAY moi sang — chinh no tu khai trong truong source: 'cloud chay TAY 21/08 (luot 02:00 va 04:00 fire nhung khong giao file)'. Ngay nao user quen lam tay la no cu ma khong ai biet.. Sinh boi: routine cloud Etsy FoxEra Daily Research 02:00 + CHAY BU 04:00 (ca hai dang khong giao duoc file). Kiem: Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich.",
-  "foxera-accounts-daily.json dung o 2026-08-30 (hom nay 2026-08-31) — Registry tai khoan Etsy — Hub GAS doc qua raw URL (key external_fetch_contract).. Sinh boi: routine cloud FoxEra (cung nhanh voi foxera-daily.json). Kiem: Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich."
+  "foxera-job.json dung o 2026-08-03 (hom nay 2026-08-31) — Ban tin FoxEra Job (EraCloset). DAY LA MUC HONG THAT — job nay VAN push GitHub, khac hai muc gritfell/genusfaith da chuyen Drive.. Sinh boi: routine cloud FoxEra Job. Kiem: Prompt task da duoc sua 22/08/2026: push loi -> BAT BUOC SendUserFile 2 file truoc, roi moi PushNotification. Tu 23/08 tro di, push hong thi user van nhan duoc file — chep vao repo roi chay 'python gpday.py'. Neu 23/08 van khong nhan duoc file thi ban va prompt do hong, bao Claude."
  ],
  "overall": "NEED_HUMAN",
  "chua_mo": [
