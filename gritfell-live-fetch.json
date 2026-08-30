@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-30",
- "fetched_at": "2026-08-30T04:30:03.333567+07:00",
+ "date": "2026-08-31",
+ "fetched_at": "2026-08-31T04:30:03.158733+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 103,
@@ -1053,105 +1053,74 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Men's Essential drirelease® Crew - Driftwood",
-     "handle": "mens-essential-drirelease-crew-driftwood",
-     "type": "Essential Crew",
+     "title": "Men's Field Tech Guide Pants",
+     "handle": "mens-field-tech-guide-pants",
+     "type": "Combined Product",
+     "tags": [],
+     "price": "159.00",
+     "published_at": "2026-08-30T13:06:24-05:00"
+    },
+    {
+     "title": "Men's Field Tech Guide Pants - Wheat",
+     "handle": "mens-field-tech-guide-pants-wheat",
+     "type": "Field Tech Pants",
+     "tags": [
+      "__label:new",
+      "bottoms",
+      "dc-inventory-sync::OFF",
+      "exchange-eligible",
+      "F26",
+      "field-tech",
+      "mens",
+      "msrp"
+     ],
+     "price": "159.00",
+     "published_at": "2026-08-30T13:05:25-05:00"
+    },
+    {
+     "title": "Men's Field Tech Guide Pants - Pin Oak",
+     "handle": "mens-field-tech-guide-pants-pin-oak",
+     "type": "Field Tech Pants",
+     "tags": [
+      "__label:new",
+      "bottoms",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "exchange-eligible",
+      "F26",
+      "field-tech",
+      "mens",
+      "msrp"
+     ],
+     "price": "159.00",
+     "published_at": "2026-08-30T13:05:07-05:00"
+    },
+    {
+     "title": "Men's Field Tech Hoodie",
+     "handle": "mens-field-tech-hoodie",
+     "type": "Combined Product",
+     "tags": [],
+     "price": "199.00",
+     "published_at": "2026-08-30T12:46:41-05:00"
+    },
+    {
+     "title": "Men's Field Tech Hoodie - Raven",
+     "handle": "mens-field-tech-hoodie-raven",
+     "type": "Field Tech Hoodie",
      "tags": [
       "__label:new",
       "collection-feature",
       "dc-inventory-sync::OFF",
-      "drirelease",
-      "essential",
+      "exchange-eligible",
       "F26",
-      "fish",
-      "hunt",
-      "lifestyle",
+      "field-tech",
+      "hoodie",
       "mens",
       "msrp",
-      "top"
+      "outerwear"
      ],
-     "price": "59.00",
-     "published_at": "2026-08-26T15:06:57-05:00"
-    },
-    {
-     "title": "Men's Essential drirelease® Hoodie - Cove",
-     "handle": "mens-essential-drirelease-hoodie-cove",
-     "type": "Essential Hoodie",
-     "tags": [
-      "__label:new",
-      "dc-inventory-sync::OFF",
-      "drirelease",
-      "essential",
-      "F26",
-      "fish",
-      "lifestyle",
-      "mens",
-      "msrp",
-      "top"
-     ],
-     "price": "69.00",
-     "published_at": "2026-08-26T15:06:13-05:00"
-    },
-    {
-     "title": "Men's Essential drirelease® Hoodie - Driftwood",
-     "handle": "mens-essential-drirelease-hoodie-driftwood",
-     "type": "Essential Hoodie",
-     "tags": [
-      "__label:new",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "drirelease",
-      "essential",
-      "F26",
-      "fish",
-      "hunt",
-      "lifestyle",
-      "mens",
-      "msrp",
-      "top"
-     ],
-     "price": "69.00",
-     "published_at": "2026-08-26T15:04:56-05:00"
-    },
-    {
-     "title": "Men's Essential drirelease® Polo - Cove",
-     "handle": "mens-essential-drirelease-polo-cove",
-     "type": "Essential Polo",
-     "tags": [
-      "__label:new",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "drirelease",
-      "essential",
-      "F26",
-      "fish",
-      "lifestyle",
-      "mens",
-      "msrp",
-      "top"
-     ],
-     "price": "64.00",
-     "published_at": "2026-08-26T14:59:07-05:00"
-    },
-    {
-     "title": "Men's Essential drirelease® Tee - Cove",
-     "handle": "mens-essential-drirelease-tee-cove",
-     "type": "Essential Tee",
-     "tags": [
-      "__label:new",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "drirelease",
-      "essential",
-      "F26",
-      "fish",
-      "lifestyle",
-      "mens",
-      "msrp",
-      "top"
-     ],
-     "price": "54.00",
-     "published_at": "2026-08-26T14:50:57-05:00"
+     "price": "199.00",
+     "published_at": "2026-08-30T12:45:10-05:00"
     }
    ]
   },
@@ -2112,6 +2081,37 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Men's Running Shorts - 2 in 1 Liner - Phone & Zip Pocket Gym Shorts",
+     "handle": "mens-running-shorts-2-in-1-liner-phone-zip-pocket-gym-shorts",
+     "type": "Running Shorts",
+     "tags": [],
+     "price": "34.99",
+     "published_at": "2026-08-30T22:01:07+02:00"
+    },
+    {
+     "title": "Hiking Trousers - Wide Leg Walking Trousers, Water-Repellent Softshell",
+     "handle": "hiking-trousers-wide-leg-walking-trousers-water-repellent-softshell",
+     "type": "Trousers",
+     "tags": [
+      "activity:hiking",
+      "activity:walking",
+      "clothing",
+      "gender:unisex",
+      "trousers",
+      "type:clothing"
+     ],
+     "price": "54.99",
+     "published_at": "2026-08-30T13:53:20+02:00"
+    },
+    {
+     "title": "Men's Ski Trousers - Detachable Bib - Insulated Windproof Snowsports",
+     "handle": "2025-new-mens-winter-thickened-ski-pants-patchwork-design-detachable-suspenders-extra-thick-and-warm-suitable-for-outdoor-skiing-hiking-and-mountaineering",
+     "type": "",
+     "tags": [],
+     "price": "99.95",
+     "published_at": "2026-08-30T12:26:40+02:00"
+    },
+    {
      "title": "Head Torch - Rechargeable Tilting Zoom Beam - LED Headlamp for Fishing",
      "handle": "rechargeable-led-headlamp-with-zoomable-beam-and-three-operating-modes",
      "type": "Flashlight",
@@ -2141,45 +2141,6 @@
      ],
      "price": "44.95",
      "published_at": "2026-08-29T16:29:25+02:00"
-    },
-    {
-     "title": "Men's Camo Windbreaker Jacket - Lightweight Hooded Anorak - Half-Zip",
-     "handle": "men-s-camo-half-zip-hooded-jacket-lightweight-shell",
-     "type": "Jacket",
-     "tags": [
-      "Anorak",
-      "Autumn jacket",
-      "Camo jacket",
-      "Camouflage jacket",
-      "Half-zip jacket",
-      "Hooded jacket",
-      "Lightweight jacket",
-      "Men's jacket",
-      "Shell jacket",
-      "Walking jacket"
-     ],
-     "price": "59.95",
-     "published_at": "2026-08-28T20:37:36+02:00"
-    },
-    {
-     "title": "Women's Fleece Jacket - Full Zip Up Fleece - Walking & Hiking",
-     "handle": "womens-fleece-jacket-full-zip-walking-hiking",
-     "type": "Women's Fleece",
-     "tags": [
-      "activity:hiking",
-      "gender:womens",
-      "type:fleeces"
-     ],
-     "price": "54.95",
-     "published_at": "2026-08-28T20:36:40+02:00"
-    },
-    {
-     "title": "Heated Gilet – USB Powered Body Warmer with Four Heating Zones for Hiking",
-     "handle": "heated-gilet-usb-powered-body-warmer-with-four-heating-zones-for-hiking",
-     "type": "Heated Clothes",
-     "tags": [],
-     "price": "51.45",
-     "published_at": "2026-08-28T13:18:34+02:00"
     }
    ]
   }

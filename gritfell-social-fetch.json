@@ -2,13 +2,22 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-30",
- "fetched_at": "2026-08-30T04:30:03.333567+07:00",
+ "date": "2026-08-31",
+ "fetched_at": "2026-08-31T04:30:03.158733+07:00",
  "reddit": {
   "waterfowl": {
    "sub_niche": "SN1_waterfowl",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "New Avian-X Butt Kickers",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1w1td89/new_avianx_butt_kickers/",
+     "selftext_head": ""
+    },
     {
      "title": "Jerry rigged a boat blind out of some old dog fence panels, turned out pretty good! Mounted halves of door hinges (with the hinge pin removed) to the edge of the canoe, the hinges on the dog fence line up with them and you put the long wire hinge pin through both. Easy removal for fishing or you can",
      "score": null,
@@ -25,15 +34,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Waterfowl/comments/1vykmw8/do_you_wear_ear_pro/",
-     "selftext_head": ""
-    },
-    {
-     "title": "New Avian-X Butt Kickers",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1w1td89/new_avianx_butt_kickers/",
      "selftext_head": ""
     },
     {
@@ -55,21 +55,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Follow-up ear pro question",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1w269zn/followup_ear_pro_question/",
+     "selftext_head": ""
+    },
+    {
      "title": "Gunner dog vest",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Waterfowl/comments/1vye2oj/gunner_dog_vest/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Combining panel blinds and Aframes",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1vvttkr/combining_panel_blinds_and_aframes/",
      "selftext_head": ""
     }
    ]
@@ -79,30 +79,21 @@
    "route": "R2-rss",
    "posts": [
     {
-     "title": "About one bag of NF raffia…",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1vyam46/about_one_bag_of_nf_raffia/",
-     "selftext_head": ""
-    },
-    {
-     "title": "New beavertail 1800 blind",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1vwdwls/new_beavertail_1800_blind/",
-     "selftext_head": ""
-    },
-    {
      "title": "New Avian-X Butt Kickers",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Duckhunting/comments/1w1talk/new_avianx_butt_kickers/",
+     "selftext_head": ""
+    },
+    {
+     "title": "About one bag of NF raffia…",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1vyam46/about_one_bag_of_nf_raffia/",
      "selftext_head": ""
     },
     {
@@ -124,6 +115,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Solo hunt",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1w26sbt/solo_hunt/",
+     "selftext_head": ""
+    },
+    {
      "title": "Stupid newbie questions",
      "score": null,
      "num_comments": null,
@@ -142,12 +142,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Food plots?",
+     "title": "Standard size jet sled worth it?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1vvtgvz/food_plots/",
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1w2jpbf/standard_size_jet_sled_worth_it/",
      "selftext_head": ""
     },
     {
@@ -166,24 +166,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Duckhunting/comments/1vxfjhb/kamcalls_honkalizer_in_hedge/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Otter / Beavertail Stealth 2000",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1vwgyji/otter_beavertail_stealth_2000/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Thoughts on this call?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1vwct6a/thoughts_on_this_call/",
      "selftext_head": ""
     },
     {
@@ -211,6 +193,15 @@
    "route": "R2-rss",
    "posts": [
     {
+     "title": "PB by 2lbs",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1w1qm6q/pb_by_2lbs/",
+     "selftext_head": ""
+    },
+    {
      "title": "Eight years. MANY trips. Most with my son, always without a catch. Today, at 100 degrees, 1700 in the afternoon in shallow water, I saw a bunch of bait fish throwing a fit. Second cast hooked the biggest bass I've ever seen live let alone caught. Handed the rod to my now 15 year old son and he lande",
      "score": null,
      "num_comments": null,
@@ -226,24 +217,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bassfishing/comments/1vzhji7/i_did_it_boys_i_got_my_5lber/",
-     "selftext_head": ""
-    },
-    {
-     "title": "PB by 2lbs",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1w1qm6q/pb_by_2lbs/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Small pond, nice fish. Caught 4 in 30 mins on a chatterbait",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1vvu3uj/small_pond_nice_fish_caught_4_in_30_mins_on_a/",
      "selftext_head": ""
     },
     {
@@ -283,21 +256,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Regret taking home a large bass",
+     "title": "Share knowledge, spread joy.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1vwiaoy/regret_taking_home_a_large_bass/",
-     "selftext_head": ""
-    },
-    {
-     "title": "What lure did you use to catch your most recent personal best?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1vwbbf1/what_lure_did_you_use_to_catch_your_most_recent/",
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1w184c4/share_knowledge_spread_joy/",
      "selftext_head": ""
     },
     {
@@ -307,15 +271,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bassfishing/comments/1vzjluf/birthday_pb/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Share knowledge, spread joy.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1w184c4/share_knowledge_spread_joy/",
      "selftext_head": ""
     },
     {
@@ -344,6 +299,33 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bassfishing/comments/1vz1c6m/caught_my_pb_on_a_chatterbait/",
      "selftext_head": ""
+    },
+    {
+     "title": "Small Pond Spain 🇪🇸",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1w08yxo/small_pond_spain/",
+     "selftext_head": ""
+    },
+    {
+     "title": "FIRST CAST",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1vxi9a1/first_cast/",
+     "selftext_head": ""
+    },
+    {
+     "title": "It's so hot. Smallies are deep!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1vwtjs6/its_so_hot_smallies_are_deep/",
+     "selftext_head": ""
     }
    ]
   },
@@ -370,12 +352,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Taming A Dragon!",
+     "title": "Went on a hike to fish and thought someone had forgotten their tackle box",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing/comments/1vwashi/taming_a_dragon/",
+     "permalink": "https://www.reddit.com/r/Fishing/comments/1w1z4m5/went_on_a_hike_to_fish_and_thought_someone_had/",
      "selftext_head": ""
     },
     {
@@ -403,6 +385,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Fishing/comments/1vy0y8q/topwater_sunrise_redfish/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Freshwater pond tarpon",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing/comments/1w1y2tg/freshwater_pond_tarpon/",
      "selftext_head": ""
     },
     {
@@ -469,15 +460,6 @@
      "selftext_head": ""
     },
     {
-     "title": "TIL that Mirror Carp are sometimes “fully scaled”.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing/comments/1vvqg3v/til_that_mirror_carp_are_sometimes_fully_scaled/",
-     "selftext_head": ""
-    },
-    {
      "title": "Over slot NC Red Drum",
      "score": null,
      "num_comments": null,
@@ -520,12 +502,12 @@
      "selftext_head": ""
     },
     {
-     "title": "My addiction",
+     "title": "Got these for $2.50 a pack.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1vxjj4e/my_addiction/",
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1w1q04m/got_these_for_250_a_pack/",
      "selftext_head": ""
     },
     {
@@ -535,6 +517,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1w0vi4v/how_do_i_fix_this/",
+     "selftext_head": ""
+    },
+    {
+     "title": "My addiction",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1vxjj4e/my_addiction/",
      "selftext_head": ""
     },
     {
@@ -574,30 +565,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Fishing gear wall",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1vwal1n/fishing_gear_wall/",
-     "selftext_head": ""
-    },
-    {
      "title": "Checking out the hype",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1vx83nl/checking_out_the_hype/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Got these for $2.50 a pack.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1w1q04m/got_these_for_250_a_pack/",
      "selftext_head": ""
     },
     {
@@ -610,6 +583,15 @@
      "selftext_head": ""
     },
     {
+     "title": "What are these?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1vxhh85/what_are_these/",
+     "selftext_head": ""
+    },
+    {
      "title": "Roast my FG",
      "score": null,
      "num_comments": null,
@@ -619,12 +601,12 @@
      "selftext_head": ""
     },
     {
-     "title": "What are these?",
+     "title": "Digitaka order",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1vxhh85/what_are_these/",
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1w0amru/digitaka_order/",
      "selftext_head": ""
     }
    ]
@@ -634,39 +616,12 @@
    "route": "R2-rss",
    "posts": [
     {
-     "title": "Morning reds",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1vwg9y8/morning_reds/",
-     "selftext_head": ""
-    },
-    {
      "title": "Caught a 20” Tripletail today!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1vyhbk5/caught_a_20_tripletail_today/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Kansas Speckled Trout",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1vyavqx/kansas_speckled_trout/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Boat hauls in 1,260-pound blue marlin believed to be East Coast’s largest catch",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1vvxpw4/boat_hauls_in_1260pound_blue_marlin_believed_to/",
      "selftext_head": ""
     },
     {
@@ -679,12 +634,30 @@
      "selftext_head": ""
     },
     {
+     "title": "Kansas Speckled Trout",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1vyavqx/kansas_speckled_trout/",
+     "selftext_head": ""
+    },
+    {
      "title": "Warsaw",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1vzyo26/warsaw/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Greetings from Croatia🇭🇷",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1w1s2x6/greetings_from_croatia/",
      "selftext_head": ""
     },
     {
@@ -706,15 +679,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Red drum in a Carolina inland creek",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1vw6j6x/red_drum_in_a_carolina_inland_creek/",
-     "selftext_head": ""
-    },
-    {
      "title": "Carolina redfish adventures continue",
      "score": null,
      "num_comments": null,
@@ -724,21 +688,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Has anyone ever caught a Tarpon on land in Georgia? (U.S)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1vyhkjc/has_anyone_ever_caught_a_tarpon_on_land_in/",
-     "selftext_head": ""
-    },
-    {
      "title": "Our captain bringing in dinner, BCS, Mexico",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1w1bj1e/our_captain_bringing_in_dinner_bcs_mexico/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Has anyone ever caught a Tarpon on land in Georgia? (U.S)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1vyhkjc/has_anyone_ever_caught_a_tarpon_on_land_in/",
      "selftext_head": ""
     },
     {
@@ -760,12 +724,30 @@
      "selftext_head": ""
     },
     {
-     "title": "Horse mackerels,strait of Bungo Japan in May",
+     "title": "some reds from the last few trips",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1vvtixf/horse_mackerelsstrait_of_bungo_japan_in_may/",
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1w2kvqz/some_reds_from_the_last_few_trips/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Trigger. My first on the GonnsMissHer.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1w04ztc/trigger_my_first_on_the_gonnsmissher/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Space coast yesterday",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1vxar7z/space_coast_yesterday/",
      "selftext_head": ""
     }
    ]
@@ -774,15 +756,6 @@
    "sub_niche": "SN4_big_game",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "Decent starter",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Hunting/comments/1vvxowr/decent_starter/",
-     "selftext_head": ""
-    },
     {
      "title": "Sheep!",
      "score": null,
@@ -802,6 +775,15 @@
      "selftext_head": ""
     },
     {
+     "title": "855 yard shot on the biggest hog I’ve ever taken. 7PRC",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Hunting/comments/1w1zhts/855_yard_shot_on_the_biggest_hog_ive_ever_taken/",
+     "selftext_head": ""
+    },
+    {
      "title": "Buck from Hungary 🇭🇺",
      "score": null,
      "num_comments": null,
@@ -811,21 +793,21 @@
      "selftext_head": ""
     },
     {
-     "title": "7 foot Alaska grizzly",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Hunting/comments/1vx9zb1/7_foot_alaska_grizzly/",
-     "selftext_head": ""
-    },
-    {
      "title": "I was posting about my 9.3*62 recently, but my 308 still does its share of work.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Hunting/comments/1w19zgw/i_was_posting_about_my_9362_recently_but_my_308/",
+     "selftext_head": ""
+    },
+    {
+     "title": "7 foot Alaska grizzly",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Hunting/comments/1vx9zb1/7_foot_alaska_grizzly/",
      "selftext_head": ""
     },
     {
@@ -865,6 +847,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Hello from South Africa 1/2",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Hunting/comments/1w0j1c5/hello_from_south_africa_12/",
+     "selftext_head": ""
+    },
+    {
      "title": "Paso Robles Boar",
      "score": null,
      "num_comments": null,
@@ -874,12 +865,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Hello from South Africa 1/2",
+     "title": "Yesterday morning in Brandenburg",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Hunting/comments/1w0j1c5/hello_from_south_africa_12/",
+     "permalink": "https://www.reddit.com/r/Hunting/comments/1w2nn86/yesterday_morning_in_brandenburg/",
      "selftext_head": ""
     },
     {
@@ -898,15 +889,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Hunting/comments/1vyvr04/see_you_in_two_weeks_buddy/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Red stags on the water in Hungary",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Hunting/comments/1vx4g4g/red_stags_on_the_water_in_hungary/",
      "selftext_head": ""
     }
    ]
@@ -940,6 +922,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bowhunting/comments/1vxy549/hares_and_rabbits_nz/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Bow season can’t come soon enough",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bowhunting/comments/1w1yy8b/bow_season_cant_come_soon_enough/",
      "selftext_head": ""
     },
     {
@@ -1015,12 +1006,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Bow Hunting Colorado - Case in Vehicle",
+     "title": "1968 Allen Compound",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bowhunting/comments/1vvsknc/bow_hunting_colorado_case_in_vehicle/",
+     "permalink": "https://www.reddit.com/r/bowhunting/comments/1w22szo/1968_allen_compound/",
      "selftext_head": ""
     },
     {
@@ -1030,15 +1021,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bowhunting/comments/1w17zix/big_jim_mountain_monarch/",
-     "selftext_head": ""
-    },
-    {
-     "title": "1994 XI Legend Magnum",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bowhunting/comments/1vy6o3g/1994_xi_legend_magnum/",
      "selftext_head": ""
     },
     {
@@ -1066,12 +1048,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Scouting and Strategy",
+     "title": "Custom game cart",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/elkhunting/comments/1vvwx92/scouting_and_strategy/",
+     "permalink": "https://www.reddit.com/r/elkhunting/comments/1w2pacr/custom_game_cart/",
      "selftext_head": ""
     },
     {
@@ -1108,6 +1090,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/elkhunting/comments/1vydvs6/anybody_else_planning_a_trip_to_colorado_or_utah/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Cattle grazing on public land",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/elkhunting/comments/1w2ngik/cattle_grazing_on_public_land/",
      "selftext_head": ""
     },
     {
@@ -1742,16 +1733,16 @@
   ]
  },
  "trends": [
-  "savannah st vs sc state",
-  "nl mvp odds",
-  "adam scott golfer",
-  "morgan state vs nc a&amp;t",
-  "tyrone taylor",
-  "seiya suzuki",
-  "bkfc",
-  "jaguares - américa",
-  "riley herbst",
-  "notah begay"
+  "scottie scheffler",
+  "kyle chandler",
+  "stranger things new episodes netflix",
+  "neymar",
+  "vikings 53 man roster",
+  "ps6",
+  "klystron 9",
+  "bryan johnson",
+  "brooksby",
+  "social security september 2026 payment dates"
  ],
  "errors": []
 }
