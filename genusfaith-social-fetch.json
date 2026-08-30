@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-08-30",
- "fetched_at": "2026-08-30T04:15:03.166276+07:00",
+ "date": "2026-08-31",
+ "fetched_at": "2026-08-31T04:15:03.665302+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "New friend on my nightstand :)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w0q63s/new_friend_on_my_nightstand/",
-     "selftext_head": ""
-    },
     {
      "title": "Happy feast day of one of the greatest saints and intellectuals in history, St. Augustine! A perfect patron for converts, for those struggling with lust, and those seeking truth; St. Augustine, pray for us!",
      "score": null,
@@ -91,12 +82,30 @@
      "selftext_head": ""
     },
     {
+     "title": "A Catholic church in Košice, Slovakia",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w1cysr/a_catholic_church_in_košice_slovakia/",
+     "selftext_head": ""
+    },
+    {
      "title": "Happy feast day of St. Louis! See below for some great info on him.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vy38ue/happy_feast_day_of_st_louis_see_below_for_some/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Free Friday I love my local Cathedral in Helena Montana!!!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w15u7o/free_friday_i_love_my_local_cathedral_in_helena/",
      "selftext_head": ""
     },
     {
@@ -118,30 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "A Catholic church in Košice, Slovakia",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w1cysr/a_catholic_church_in_košice_slovakia/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Free Friday I love my local Cathedral in Helena Montana!!!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w15u7o/free_friday_i_love_my_local_cathedral_in_helena/",
-     "selftext_head": ""
-    },
-    {
      "title": "Pope Leo: Vatican II reformed the liturgy to promote active participation",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1vyts89/pope_leo_vatican_ii_reformed_the_liturgy_to/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Wife had me served with divorce papers today. How am I supposed to handle this as a Catholic?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w01gwj/wife_had_me_served_with_divorce_papers_today_how/",
      "selftext_head": ""
     }
    ]
@@ -236,14 +236,14 @@
   "first communion gift": [
    "first communion gifts",
    "first communion gifts for boys",
-   "first communion gifts for girls",
+   "first communion gifts for girl",
    "first communion gift ideas",
    "first communion gifts near me",
-   "first communion gifts for boys catholic",
    "first communion gift ideas for boys",
    "first communion gift ideas for girl",
    "first communion gift for boy non religious",
-   "first communion gifts from godparents"
+   "first communion gifts from godparents",
+   "first communion gift bags"
   ],
   "catholic wedding gift": [
    "catholic wedding gifts",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "jaguares - américa",
-  "riley herbst",
-  "notah begay",
-  "corte suprema",
-  "nicolás gonzález",
-  "quinn ewers",
-  "pete crow-armstrong",
-  "atlético-mg x ec vitória",
-  "dolphins depth chart",
-  "eastern michigan football"
+  "michael block",
+  "presidents cup",
+  "social security september 2026 payment dates",
+  "bryan johnson",
+  "scheffler",
+  "padres - rays",
+  "mirassol x palmeiras",
+  "micron",
+  "mirassol vs palmeiras",
+  "giants 53 man roster"
  ],
  "errors": []
 }
