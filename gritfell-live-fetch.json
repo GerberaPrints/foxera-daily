@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-08-31",
- "fetched_at": "2026-08-31T04:30:03.158733+07:00",
+ "date": "2026-09-01",
+ "fetched_at": "2026-09-01T04:30:03.246580+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 103,
@@ -1232,6 +1232,25 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Conecuh Sausage Cotton Twill 6-Panel Hat",
+     "handle": "conecuh-sausage-cotton-twill-6-panel-hat",
+     "type": "Hats",
+     "tags": [
+      "CONECUHZR",
+      "FW2026ZR",
+      "HATSZR",
+      "MENZR",
+      "MHATZR",
+      "MNEWZR",
+      "SS2026ZR",
+      "WHATZR",
+      "WNEWZR",
+      "WOMENZR"
+     ],
+     "price": "45.00",
+     "published_at": "2026-08-31T10:45:20-05:00"
+    },
+    {
      "title": "Waxed Cotton 6-Panel Hat in Mossy Oak Original Bottomland - Cattle Brand",
      "handle": "waxed-cotton-6-panel-hat-in-mossy-oak-original-bottomland-cattle-brand",
      "type": "Hats",
@@ -1318,21 +1337,6 @@
      ],
      "price": "65.00",
      "published_at": "2026-08-28T13:28:19-05:00"
-    },
-    {
-     "title": "Farris Waffle Knit Quarter Zip",
-     "handle": "farris-waffle-knit-quarter-zip",
-     "type": "Layering",
-     "tags": [
-      "FW2026ZR",
-      "MENZR",
-      "MNEWZR",
-      "MSHIRTZR",
-      "MSWEATLAYZR",
-      "WOOLZR"
-     ],
-     "price": "295.00",
-     "published_at": "2026-08-24T15:43:24-05:00"
     }
    ]
   },
@@ -1583,6 +1587,64 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Non-Typical Silencer Full Zip Hoodie",
+     "handle": "non-typical-silencer-full-zip-hoodie",
+     "type": "Jackets & Vests",
+     "tags": [
+      "ACS2025",
+      "AW25 Price Tracking",
+      "AW25 Show Special",
+      "AW25_New",
+      "AW26 Catalog",
+      "bfcm 2025",
+      "BFCM2025",
+      "BFCM2026",
+      "camo_hoodie",
+      "CTW_2026",
+      "decdeals_25",
+      "EOS_JAN_26",
+      "hoodie collection",
+      "mens",
+      "New_No_Coming_Soon",
+      "top seller 2025",
+      "tops"
+     ],
+     "price": "129.99",
+     "published_at": "2026-08-31T15:03:15-05:00"
+    },
+    {
+     "title": "The Migrator Gun Case",
+     "handle": "the-migrator-gun-case",
+     "type": "Bags & Backpacks",
+     "tags": [
+      "AW25_New",
+      "AW26 Catalog",
+      "BFCM2026",
+      "new_color:Mossy Oak Fall Foliage",
+      "new_color:Mossy Oak Original Bottomland",
+      "new_color:Mossy Oak Original Shadow Grass",
+      "new_color:Mossy Oak Original Treestand",
+      "new_color:Old School Sport",
+      "waterfowl_bags_packs"
+     ],
+     "price": "39.99",
+     "published_at": "2026-08-31T12:54:22-05:00"
+    },
+    {
+     "title": "Slacker Quarter Zip Hoodie",
+     "handle": "slacker-quarter-zip-hoodie",
+     "type": "Hoodies & Pullovers",
+     "tags": [
+      "AW26 Catalog",
+      "AW26_NEW",
+      "BFCM2026",
+      "hunting_hoodies",
+      "new"
+     ],
+     "price": "129.99",
+     "published_at": "2026-08-31T08:51:09-05:00"
+    },
+    {
      "title": "Balaclava",
      "handle": "balaclava",
      "type": "Headwear",
@@ -1615,103 +1677,40 @@
      ],
      "price": "119.99",
      "published_at": "2026-08-27T11:07:53-05:00"
-    },
-    {
-     "title": "Leather Key Chain",
-     "handle": "leather-key-chain",
-     "type": "Accessories",
-     "tags": [
-      "- under $25",
-      "- under $75",
-      "accessories",
-      "AW25 Catalog",
-      "AW26 Catalog",
-      "Father's Day Guide 22",
-      "fathers day_23",
-      "fathersday_24",
-      "gifts for everyday",
-      "Gifts Under $50",
-      "Leather-Classics",
-      "lifestyle",
-      "lifestyle_accessories",
-      "logo-products",
-      "logo_accessories",
-      "MEN",
-      "Men WF Logo Items",
-      "Men-Casual-Logo-Items",
-      "mens",
-      "r20",
-      "SS26 Catalog",
-      "stocking stuffers - logo",
-      "stocking stuffers 21",
-      "waterfowl_logo_wear",
-      "youth"
-     ],
-     "price": "14.99",
-     "published_at": "2026-08-21T11:31:35-05:00"
-    },
-    {
-     "title": "Drake X Richardson 256XE Flatbill Cap",
-     "handle": "drake-x-richardson-256xe-flatbill-cap",
-     "type": "Headwear",
-     "tags": [
-      "AW25 Catalog",
-      "AW25_New",
-      "AW26 Catalog",
-      "caps",
-      "hunting accessories",
-      "logowear",
-      "new",
-      "New_No_Coming_Soon",
-      "waterfowl"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-21T11:26:15-05:00"
-    },
-    {
-     "title": "Leather Checkbook Wallet",
-     "handle": "leather-checkbook-wallet",
-     "type": "Accessories",
-     "tags": [
-      "- under $75",
-      "accessories",
-      "AW25 Catalog",
-      "AW26 Catalog",
-      "dads_grads",
-      "Father's Day Guide 22",
-      "fathers day_23",
-      "fathersday",
-      "fathersday_24",
-      "fathersday_25",
-      "gift -guide",
-      "gifts - $75 and under",
-      "grad_gift",
-      "Leather-Classics",
-      "lifestyle",
-      "lifestyle_accessories",
-      "logo-products",
-      "logo_accessories",
-      "MEN",
-      "Men WF Logo Items",
-      "Men-Casual-Logo-Items",
-      "mens",
-      "r10",
-      "SS26 Catalog",
-      "stocking stuffers",
-      "stocking stuffers - logo",
-      "stocking stuffers 21",
-      "wallets",
-      "waterfowl_logo_wear",
-      "youth"
-     ],
-     "price": "64.99",
-     "published_at": "2026-08-18T13:08:47-05:00"
     }
    ]
   },
   "Free Fly": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Women's Ribbed Bamboo Long Sleeve - Plum",
+     "handle": "womens-ribbed-bamboo-long-sleeve-plum",
+     "type": "Women's",
+     "tags": [
+      "excWRIBLS",
+      "FA26",
+      "flag::New Color",
+      "pdp_group: women-ribbed-bamboo",
+      "product_style: Womens Ribbed Bamboo Long Sleeve"
+     ],
+     "price": "68.00",
+     "published_at": "2026-08-31T08:42:13-04:00"
+    },
+    {
+     "title": "Women's Ribbed Bamboo Long Sleeve - Tea",
+     "handle": "womens-ribbed-bamboo-long-sleeve-tea",
+     "type": "Women's",
+     "tags": [
+      "excWRIBLS",
+      "FA26",
+      "flag::New Color",
+      "pdp_group: women-ribbed-bamboo",
+      "product_style: Womens Ribbed Bamboo Long Sleeve"
+     ],
+     "price": "68.00",
+     "published_at": "2026-08-31T08:42:11-04:00"
+    },
     {
      "title": "Men's Bamboo Lightweight Hoodie - Tidal Flow Print Stormy Sea",
      "handle": "mens-bamboo-lightweight-hoodie-tidal-flow-print-stormy-sea",
@@ -1748,30 +1747,6 @@
      ],
      "price": "28.00",
      "published_at": "2026-08-21T13:12:27-04:00"
-    },
-    {
-     "title": "Wild Pursuits Performance Hat - Bonefish",
-     "handle": "wild-pursuits-performance-hat-birch",
-     "type": "Hats",
-     "tags": [
-      "excFF675",
-      "product_style: Wild Pursuits Performance Hat",
-      "SP26"
-     ],
-     "price": "34.00",
-     "published_at": "2026-08-21T13:12:07-04:00"
-    },
-    {
-     "title": "Youth Target Species Tee - Dark Forest",
-     "handle": "youth-target-species-tee-dark-forest",
-     "type": "Youth",
-     "tags": [
-      "flag::Just Landed",
-      "product_style: Youth Target Species Tee",
-      "SP26"
-     ],
-     "price": "34.00",
-     "published_at": "2026-08-21T13:11:46-04:00"
     }
    ]
   },
@@ -1783,7 +1758,6 @@
      "handle": "puffer-vest-black",
      "type": "Jacket",
      "tags": [
-      "9/13/26",
       "9/4",
       "B2B_Active",
       "B2B_Sync",
@@ -1841,7 +1815,6 @@
      "handle": "puffer-vest-gauge-camo",
      "type": "Vest",
      "tags": [
-      "9/13/26",
       "9/4",
       "B2B_Active",
       "B2B_Sync",
@@ -1910,7 +1883,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2647000",
+     "price": "2646000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -1923,7 +1896,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5294000",
+     "price": "5293000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -1936,7 +1909,7 @@
       "retail",
       "wsc"
      ],
-     "price": "927000",
+     "price": "926000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -1949,7 +1922,7 @@
       "retail",
       "wsc"
      ],
-     "price": "927000",
+     "price": "926000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2081,66 +2054,72 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Men's Windbreaker - Lightweight Packable Hooded Jacket, UPF 50+",
+     "handle": "mens-windbreaker-lightweight-packable-hooded-jacket",
+     "type": "Jackets",
+     "tags": [
+      "activity:cycling",
+      "activity:hiking",
+      "activity:running",
+      "activity:walking",
+      "clothing",
+      "gender:mens",
+      "jackets",
+      "type:clothing",
+      "windbreaker"
+     ],
+     "price": "54.95",
+     "published_at": "2026-08-31T16:12:51+02:00"
+    },
+    {
+     "title": "Folding Sit Mat - Water-Resistant Foam Seat Pad for Camping & Hiking",
+     "handle": "folding-sit-mat-water-resistant-foam-seat-pad-for-camping-hiking",
+     "type": "Sit Mat",
+     "tags": [
+      "accessories",
+      "activity:camping",
+      "activity:fishing",
+      "activity:hiking",
+      "gender:unisex",
+      "type:accessories"
+     ],
+     "price": "19.95",
+     "published_at": "2026-08-31T15:56:15+02:00"
+    },
+    {
+     "title": "Men's Hiking Trousers - Fleece Lined Thermal Walking Trousers",
+     "handle": "mens-hiking-trousers-fleece-lined-thermal-walking-trousers",
+     "type": "Trousers",
+     "tags": [
+      "activity:hiking",
+      "activity:walking",
+      "gender:mens",
+      "type:trousers-shorts"
+     ],
+     "price": "52.00",
+     "published_at": "2026-08-31T15:36:11+02:00"
+    },
+    {
+     "title": "Women's Padded Cycling Shorts - Bib Shorts with Chamois Pad for Road Riding",
+     "handle": "womens-padded-cycling-shorts-bib-shorts-with-chamois-pad-for-road-riding",
+     "type": "Cycling Shorts",
+     "tags": [
+      "activity:commuting",
+      "activity:cycling",
+      "gender:female",
+      "gmc-approved",
+      "type:cycling-shorts"
+     ],
+     "price": "50.00",
+     "published_at": "2026-08-31T14:03:58+02:00"
+    },
+    {
      "title": "Men's Running Shorts - 2 in 1 Liner - Phone & Zip Pocket Gym Shorts",
      "handle": "mens-running-shorts-2-in-1-liner-phone-zip-pocket-gym-shorts",
      "type": "Running Shorts",
      "tags": [],
      "price": "34.99",
      "published_at": "2026-08-30T22:01:07+02:00"
-    },
-    {
-     "title": "Hiking Trousers - Wide Leg Walking Trousers, Water-Repellent Softshell",
-     "handle": "hiking-trousers-wide-leg-walking-trousers-water-repellent-softshell",
-     "type": "Trousers",
-     "tags": [
-      "activity:hiking",
-      "activity:walking",
-      "clothing",
-      "gender:unisex",
-      "trousers",
-      "type:clothing"
-     ],
-     "price": "54.99",
-     "published_at": "2026-08-30T13:53:20+02:00"
-    },
-    {
-     "title": "Men's Ski Trousers - Detachable Bib - Insulated Windproof Snowsports",
-     "handle": "2025-new-mens-winter-thickened-ski-pants-patchwork-design-detachable-suspenders-extra-thick-and-warm-suitable-for-outdoor-skiing-hiking-and-mountaineering",
-     "type": "",
-     "tags": [],
-     "price": "99.95",
-     "published_at": "2026-08-30T12:26:40+02:00"
-    },
-    {
-     "title": "Head Torch - Rechargeable Tilting Zoom Beam - LED Headlamp for Fishing",
-     "handle": "rechargeable-led-headlamp-with-zoomable-beam-and-three-operating-modes",
-     "type": "Flashlight",
-     "tags": [
-      "activity:camping",
-      "activity:fishing",
-      "activity:hiking",
-      "gender:unisex",
-      "gmc-approved",
-      "gmc-live",
-      "type:tech"
-     ],
-     "price": "34.99",
-     "published_at": "2026-08-29T16:29:39+02:00"
-    },
-    {
-     "title": "Men's Quarter Zip Jumper - Textured Fleece Mid Layer with Chest Pocket",
-     "handle": "mens-quarter-zip-jumper-textured-fleece-mid-layer-with-chest-pocket",
-     "type": "Jumpers",
-     "tags": [
-      "activity:camping",
-      "activity:hiking",
-      "activity:walking",
-      "gender:male",
-      "gmc-approved",
-      "type:midlayer"
-     ],
-     "price": "44.95",
-     "published_at": "2026-08-29T16:29:25+02:00"
     }
    ]
   }
