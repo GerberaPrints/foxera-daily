@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-01",
- "fetched_at": "2026-09-01T04:45:03.568708+07:00",
+ "date": "2026-09-02",
+ "fetched_at": "2026-09-02T04:45:03.560718+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -28,6 +28,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Golf course pest control",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w2yz5d/golf_course_pest_control/",
+     "selftext_head": ""
+    },
+    {
      "title": "Actual cart fees may vary.",
      "score": null,
      "num_comments": null,
@@ -37,12 +46,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Golf course pest control",
+     "title": "Flop shot of his life",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w2yz5d/golf_course_pest_control/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1w489st/flop_shot_of_his_life/",
      "selftext_head": ""
     },
     {
@@ -64,21 +73,30 @@
      "selftext_head": ""
     },
     {
-     "title": "Cameron Young sinks a long eagle to cap off a round of 62, then gives a firm handshake to his nonexistent playing partner",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w0zewa/cameron_young_sinks_a_long_eagle_to_cap_off_a/",
-     "selftext_head": ""
-    },
-    {
      "title": "Justin Rose slam dunks a 6-iron from 208 yards for a hole in one",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w2pd8n/justin_rose_slam_dunks_a_6iron_from_208_yards_for/",
+     "selftext_head": ""
+    },
+    {
+     "title": "The swing of a two-time FedExCup champion 🏌️‍♂️",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w3jmtm/the_swing_of_a_twotime_fedexcup_champion/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Cameron Young sinks a long eagle to cap off a round of 62, then gives a firm handshake to his nonexistent playing partner",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w0zewa/cameron_young_sinks_a_long_eagle_to_cap_off_a/",
      "selftext_head": ""
     },
     {
@@ -109,39 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "PGA Tour CEO Shuts the Door on Bryson DeChambeau's Reinstatement: \"Rules Matter\"",
+     "title": "Alright, who was this? Come on, step to the front!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vyb04z/pga_tour_ceo_shuts_the_door_on_bryson_dechambeaus/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1w3u5fx/alright_who_was_this_come_on_step_to_the_front/",
      "selftext_head": ""
     },
     {
-     "title": "Takomo driving a dagger into Callaway",
+     "title": "Golf Term Misunderstandings - GIR",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vy5gdq/takomo_driving_a_dagger_into_callaway/",
-     "selftext_head": ""
-    },
-    {
-     "title": "The swing of a two-time FedExCup champion 🏌️‍♂️",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w3jmtm/the_swing_of_a_twotime_fedexcup_champion/",
-     "selftext_head": ""
-    },
-    {
-     "title": "I love living on a golf course.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vxl50w/i_love_living_on_a_golf_course/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1w3hmbs/golf_term_misunderstandings_gir/",
      "selftext_head": ""
     }
    ]
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "lamine yamal",
-  "sloane stephens",
-  "netflix top movies right now",
-  "dow jones industrial average",
-  "hamza abdelkarim",
-  "ben hill griffin stadium",
-  "best shows on hbo max",
-  "nfl schedule this week",
-  "cecily tynan",
-  "cryptocurrency trading"
+  "mike johnson",
+  "cboe volatility index",
+  "musetti",
+  "severe thunderstorm watch",
+  "presidents cup 2026",
+  "reese brantmeier",
+  "falcons logo",
+  "gma dwts announcement",
+  "irán",
+  "arthur fery"
  ],
  "errors": []
 }
