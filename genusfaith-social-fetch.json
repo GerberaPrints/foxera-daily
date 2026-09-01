@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-01",
- "fetched_at": "2026-09-01T04:15:03.159094+07:00",
+ "date": "2026-09-02",
+ "fetched_at": "2026-09-02T04:15:03.220835+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -64,6 +64,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Visiting priest looked directly at me during homily and knew I was considering priesthood",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w3cycx/visiting_priest_looked_directly_at_me_during/",
+     "selftext_head": ""
+    },
+    {
      "title": "Cardinal Sarah: Opposition to the Traditional Latin Mass Will Die Out with the ’68 Generation",
      "score": null,
      "num_comments": null,
@@ -82,12 +91,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Happy feast day of St. Louis! See below for some great info on him.",
+     "title": "Lady of Lourdes",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vy38ue/happy_feast_day_of_st_louis_see_below_for_some/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w4c744/lady_of_lourdes/",
      "selftext_head": ""
     },
     {
@@ -109,6 +118,15 @@
      "selftext_head": ""
     },
     {
+     "title": "[Politics Monday] Violent attacks against Christians surge in the Holy Land",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w3i21r/politics_monday_violent_attacks_against/",
+     "selftext_head": ""
+    },
+    {
      "title": "Pope Leo: Vatican II reformed the liturgy to promote active participation",
      "score": null,
      "num_comments": null,
@@ -124,24 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w11yxv/just_me_jesus_and_another_day_at_work/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Wife had me served with divorce papers today. How am I supposed to handle this as a Catholic?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w01gwj/wife_had_me_served_with_divorce_papers_today_how/",
-     "selftext_head": ""
-    },
-    {
-     "title": "The comedian who desecrated a church in France will go to trial: she simulated masturbating with a crucifix on the altar",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vzg7et/the_comedian_who_desecrated_a_church_in_france/",
      "selftext_head": ""
     }
    ]
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "times square",
-  "epl table",
-  "gaw vs tkr",
-  "fbi",
-  "supreme court",
-  "ghislaine maxwell",
-  "uss abraham lincoln thailand visit",
-  "tosin adarabioyo",
-  "okc fire",
-  "braga fc"
+  "irán",
+  "arthur fery",
+  "emily wilson retranslating odyssey",
+  "isiah pacheco",
+  "lamine camara",
+  "bj murray jr",
+  "leicester city vs plymouth",
+  "sheffield united",
+  "panw stock",
+  "lions depth chart"
  ],
  "errors": []
 }
