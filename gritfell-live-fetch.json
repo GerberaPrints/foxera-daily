@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-01",
- "fetched_at": "2026-09-01T04:30:03.246580+07:00",
+ "date": "2026-09-02",
+ "fetched_at": "2026-09-02T04:30:03.235185+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 103,
@@ -1412,180 +1412,151 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Boatbar SS Button Down Shirt | Pelican",
-     "handle": "boatbar-ss-button-down-shirt-pelican",
-     "type": "MENS WOVENS",
+     "title": "Women's Barricade Bib",
+     "handle": "womens-barricade-fishing-bib",
+     "type": "WOMENS BIBS",
+     "tags": [
+      "__tab2:womens-barricade-bib-sizing",
+      "FA26",
+      "NEW",
+      "NEW-TAG",
+      "RELAXED-FIT",
+      "womens-fishing-clothing",
+      "womens-fit-guide-relaxed-fit",
+      "womens-how-to-measure"
+     ],
+     "price": "249.00",
+     "published_at": "2026-09-01T09:23:58-07:00"
+    },
+    {
+     "title": "Hydronaut® Insulated Jacket",
+     "handle": "hydronaut-insulated-fishing-jacket",
+     "type": "MENS JACKETS",
      "tags": [
       "__tab2:tops-mens-size-chart",
-      "AFBLOCK-50",
-      "AFGUARD",
-      "AFLITE",
-      "button-down-fishing-shirts",
-      "DWR-STAIN-RESISTANCE",
+      "FA26",
+      "fishing-clothing",
+      "fit-guide-mens-relaxed-fit",
+      "mens-how-to-measure",
+      "NEW",
+      "NEW-TAG",
+      "RELAXED-FIT"
+     ],
+     "price": "399.00",
+     "published_at": "2026-09-01T09:15:35-07:00"
+    },
+    {
+     "title": "Hydronaut® Insulated Bib",
+     "handle": "hydronaut-insulated-fishing-bib",
+     "type": "MENS BIBS",
+     "tags": [
+      "__tab2:mens-bibs-size-chart",
+      "FA26",
+      "fishing-clothing",
+      "fit-guide-mens-relaxed-fit",
+      "mens-fishing-rain-gear-bibs",
+      "mens-how-to-measure",
+      "NEW",
+      "NEW-TAG",
+      "RELAXED-FIT"
+     ],
+     "price": "399.00",
+     "published_at": "2026-09-01T09:10:37-07:00"
+    },
+    {
+     "title": "Drift Hooded Jacket",
+     "handle": "drift-primaloft-hooded-fishing-jacket",
+     "type": "MENS JACKETS",
+     "tags": [
+      "__tab2:tops-mens-size-chart",
       "FA26",
       "filter::size:2X",
-      "filter::size:3X",
       "filter::size:L",
       "filter::size:M",
       "filter::size:S",
       "filter::size:XL",
-      "filter::type:BUTTON DOWN SHIRTS",
+      "filter::size:XS",
+      "filter::type:RAIN JACKETS",
       "fishing-clothing",
       "fit-guide-mens-regular-fit",
-      "LABEL CHECK",
-      "mens",
-      "mens-fit-guide",
+      "jackets-bibs-pants",
+      "Mens",
+      "mens-fishing-rain-jackets",
       "mens-how-to-measure",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "NEWCOLORS",
-      "REGULARFIT",
-      "RGroup_Boatbar",
-      "sandbar",
-      "SP26",
-      "Wovens"
+      "NEW",
+      "NEW-TAG",
+      "Outerwear",
+      "REGULARFIT"
      ],
-     "price": "59.00",
-     "published_at": "2026-08-26T12:46:43-07:00"
+     "price": "179.00",
+     "published_at": "2026-09-01T08:46:04-07:00"
     },
     {
-     "title": "Boatbar SS Button Down Shirt | Midnight",
-     "handle": "boatbar-ss-button-down-shirt-midnight",
-     "type": "MENS WOVENS",
-     "tags": [
-      "__tab2:tops-mens-size-chart",
-      "AFBLOCK-50",
-      "AFGUARD",
-      "AFLITE",
-      "button-down-fishing-shirts",
-      "DWR-STAIN-RESISTANCE",
-      "FA26",
-      "filter::size:2X",
-      "filter::size:3X",
-      "filter::size:L",
-      "filter::size:M",
-      "filter::size:S",
-      "filter::size:XL",
-      "filter::type:BUTTON DOWN SHIRTS",
-      "fishing-clothing",
-      "fit-guide-mens-regular-fit",
-      "LABEL CHECK",
-      "mens",
-      "mens-fit-guide",
-      "mens-how-to-measure",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "NEWCOLORS",
-      "REGULARFIT",
-      "RGroup_Boatbar",
-      "sandbar",
-      "SP26",
-      "Wovens"
-     ],
-     "price": "59.00",
-     "published_at": "2026-08-26T12:45:08-07:00"
-    },
-    {
-     "title": "Boatbar SS Button Down Shirt | Brick",
-     "handle": "boatbar-ss-button-down-shirt-brick",
-     "type": "MENS WOVENS",
-     "tags": [
-      "__tab2:tops-mens-size-chart",
-      "AFBLOCK-50",
-      "AFGUARD",
-      "AFLITE",
-      "button-down-fishing-shirts",
-      "DWR-STAIN-RESISTANCE",
-      "FA26",
-      "filter::size:2X",
-      "filter::size:3X",
-      "filter::size:L",
-      "filter::size:M",
-      "filter::size:S",
-      "filter::size:XL",
-      "filter::type:BUTTON DOWN SHIRTS",
-      "fishing-clothing",
-      "fit-guide-mens-regular-fit",
-      "LABEL CHECK",
-      "mens",
-      "mens-fit-guide",
-      "mens-how-to-measure",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "NEWCOLORS",
-      "REGULARFIT",
-      "RGroup_Boatbar",
-      "sandbar",
-      "SP26",
-      "Wovens"
-     ],
-     "price": "59.00",
-     "published_at": "2026-08-26T12:41:27-07:00"
-    },
-    {
-     "title": "Women's Sirena Hybrid Tech Shorts",
-     "handle": "womens-sirena-hybrid-tech-shorts-sale",
-     "type": "WOMENS SHORTS",
+     "title": "Women's Coastal Layer Joggers",
+     "handle": "womens-coastal-layer-jogger-pants",
+     "type": "WOMENS PANTS",
      "tags": [
       "__tab2:womens-bottoms-size-chart",
-      "accessories",
-      "AFCOOL",
-      "AFLEX-2",
-      "CCAMEMBERS",
-      "FA21",
-      "filter::color:Black",
-      "filter::color:Gray",
-      "filter::color:Green",
+      "Bottoms",
+      "FA26",
       "filter::size:L",
       "filter::size:M",
       "filter::size:S",
       "filter::size:XL",
-      "filter::type:FISHING SHORTS",
-      "FINAL SALE",
-      "FINALSALE",
-      "GG50",
-      "GIFTGUIDE",
-      "LABEL CHECK",
-      "mens-how-to-measure",
+      "filter::size:XS",
+      "filter::type:FISHING PANTS",
+      "NEW",
+      "NEW-TAG",
       "REGULARFIT",
-      "sale shorts",
-      "SP22",
-      "SP23",
-      "SPRING19",
-      "SPRING20",
-      "STAIN-RELEASE",
-      "womens",
-      "womens-fishing-shorts",
+      "womens-fishing-clothing",
       "womens-fishing-shorts-and-leggings",
-      "womens-fit-guide-regular-fit"
+      "womens-fit-guide-regular-fit",
+      "womens-how-to-measure"
      ],
-     "price": "19.99",
-     "published_at": "2026-08-25T09:07:52-07:00"
-    },
-    {
-     "title": "80's Offshore Hat",
-     "handle": "80s-offshore-fishing-snapback-hat",
-     "type": "MENS HATS",
-     "tags": [
-      "__tab2:hats-size-chart-with-image-in-there",
-      "accessories",
-      "filter::type:FISHING HATS",
-      "filter::type:HATS",
-      "fishing-clothing",
-      "fishing-hats",
-      "Headwear",
-      "mens",
-      "mens-fishing-hats",
-      "MID-PROFILE-FIT"
-     ],
-     "price": "32.00",
-     "published_at": "2026-08-21T16:49:09-07:00"
+     "price": "65.00",
+     "published_at": "2026-08-31T22:52:32-07:00"
     }
    ]
   },
   "Drake Waterfowl": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Camo Cotton Cap",
+     "handle": "camo-cotton-cap-1",
+     "type": "Sale_Headwear",
+     "tags": [
+      "- dove gear list",
+      "- headwear",
+      "- under $25",
+      "- under $75",
+      "ACS2025",
+      "all brand caps",
+      "AW25 Catalog",
+      "caps",
+      "CTW_2026",
+      "discount_70",
+      "early season apparel",
+      "early season teal",
+      "early-season-waterfowl",
+      "est-early-season-technology",
+      "Final Sale",
+      "FinalSale",
+      "hunting accessories",
+      "logowear",
+      "MEN",
+      "Men WF Logo Items",
+      "mens",
+      "r18",
+      "summer10",
+      "top rated",
+      "warm weather gear list",
+      "waterfowl",
+      "waterfowl_logo_wear"
+     ],
+     "price": "6.99",
+     "published_at": "2026-09-01T08:20:18-05:00"
+    },
     {
      "title": "Non-Typical Silencer Full Zip Hoodie",
      "handle": "non-typical-silencer-full-zip-hoodie",
@@ -1664,19 +1635,6 @@
      ],
      "price": "29.99",
      "published_at": "2026-08-28T15:28:00-05:00"
-    },
-    {
-     "title": "Delta Quilted Jacket",
-     "handle": "delta-quilted-jacket",
-     "type": "Jackets & Vests",
-     "tags": [
-      "AW26 Catalog",
-      "AW26_NEW",
-      "master_list_new_arrivals_26",
-      "new"
-     ],
-     "price": "119.99",
-     "published_at": "2026-08-27T11:07:53-05:00"
     }
    ]
   },
@@ -2054,6 +2012,53 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Quilted House Slippers | Fleece-Lined, Non-Slip Cushioned Comfort",
+     "handle": "棉拖鞋男冬季2026乳胶抑菌防滑防水厚底踩屎感情侣保暖居家舒适",
+     "type": "",
+     "tags": [
+      "gender:unisex",
+      "house slippers",
+      "indoor footwear",
+      "slippers",
+      "type:footwear"
+     ],
+     "price": "24.95",
+     "published_at": "2026-09-01T23:01:01+02:00"
+    },
+    {
+     "title": "Tactical Waist Pack - Clip-On Hip Bag - Military-Style Outdoor Bag",
+     "handle": "hikeman-outdoor-hiking-tactical-waist-pack-multi-functional-expandable-side-pouch-lightweight-carry-on-waist-belt-bag-and-chest-pack-unisex-with-adjustable-shoulder-strap-and-waist-belt-suitable-for-hiking-running-travel-and-cycling",
+     "type": "",
+     "tags": [],
+     "price": "29.95",
+     "published_at": "2026-09-01T22:59:59+02:00"
+    },
+    {
+     "title": "Camp Slippers - Closed-Back - Warm Fleece-Lined Outdoor House Shoes",
+     "handle": "camp-slippers-closed-back-warm-fleece-lined-outdoor-house-shoes",
+     "type": "",
+     "tags": [
+      "activity:camping",
+      "type:camping-gear"
+     ],
+     "price": "29.99",
+     "published_at": "2026-09-01T22:09:19+02:00"
+    },
+    {
+     "title": "Men's Cargo Trousers | Baggy Wide-Leg Parachute Pants with Zip Pockets",
+     "handle": "mens-cargo-trousers-baggy-wide-leg-parachute-pants-with-zip-pockets",
+     "type": "",
+     "tags": [
+      "activity:hiking",
+      "cargo trousers",
+      "gender:mens",
+      "techwear",
+      "type:trousers"
+     ],
+     "price": "59.95",
+     "published_at": "2026-09-01T21:36:12+02:00"
+    },
+    {
      "title": "Men's Windbreaker - Lightweight Packable Hooded Jacket, UPF 50+",
      "handle": "mens-windbreaker-lightweight-packable-hooded-jacket",
      "type": "Jackets",
@@ -2070,56 +2075,6 @@
      ],
      "price": "54.95",
      "published_at": "2026-08-31T16:12:51+02:00"
-    },
-    {
-     "title": "Folding Sit Mat - Water-Resistant Foam Seat Pad for Camping & Hiking",
-     "handle": "folding-sit-mat-water-resistant-foam-seat-pad-for-camping-hiking",
-     "type": "Sit Mat",
-     "tags": [
-      "accessories",
-      "activity:camping",
-      "activity:fishing",
-      "activity:hiking",
-      "gender:unisex",
-      "type:accessories"
-     ],
-     "price": "19.95",
-     "published_at": "2026-08-31T15:56:15+02:00"
-    },
-    {
-     "title": "Men's Hiking Trousers - Fleece Lined Thermal Walking Trousers",
-     "handle": "mens-hiking-trousers-fleece-lined-thermal-walking-trousers",
-     "type": "Trousers",
-     "tags": [
-      "activity:hiking",
-      "activity:walking",
-      "gender:mens",
-      "type:trousers-shorts"
-     ],
-     "price": "52.00",
-     "published_at": "2026-08-31T15:36:11+02:00"
-    },
-    {
-     "title": "Women's Padded Cycling Shorts - Bib Shorts with Chamois Pad for Road Riding",
-     "handle": "womens-padded-cycling-shorts-bib-shorts-with-chamois-pad-for-road-riding",
-     "type": "Cycling Shorts",
-     "tags": [
-      "activity:commuting",
-      "activity:cycling",
-      "gender:female",
-      "gmc-approved",
-      "type:cycling-shorts"
-     ],
-     "price": "50.00",
-     "published_at": "2026-08-31T14:03:58+02:00"
-    },
-    {
-     "title": "Men's Running Shorts - 2 in 1 Liner - Phone & Zip Pocket Gym Shorts",
-     "handle": "mens-running-shorts-2-in-1-liner-phone-zip-pocket-gym-shorts",
-     "type": "Running Shorts",
-     "tags": [],
-     "price": "34.99",
-     "published_at": "2026-08-30T22:01:07+02:00"
     }
    ]
   }
