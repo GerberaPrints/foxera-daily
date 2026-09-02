@@ -2,20 +2,20 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-02",
- "fetched_at": "2026-09-02T04:45:03.560718+07:00",
+ "date": "2026-09-03",
+ "fetched_at": "2026-09-03T04:45:03.569862+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
     {
-     "title": "Dicks Sporting Goods is pulling Good Good Product off of shelves",
+     "title": "Judge's Ultimatum To Tiger: \"If You Were To Drive For Any Reason At All, You Go Immediately Back To Jail.”",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vygs7j/dicks_sporting_goods_is_pulling_good_good_product/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1w5fjne/judges_ultimatum_to_tiger_if_you_were_to_drive/",
      "selftext_head": ""
     },
     {
@@ -25,6 +25,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w00ljo/callaway_parts_ways_with_good_good/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Flop shot of his life",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w489st/flop_shot_of_his_life/",
      "selftext_head": ""
     },
     {
@@ -46,21 +55,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Flop shot of his life",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w489st/flop_shot_of_his_life/",
-     "selftext_head": ""
-    },
-    {
      "title": "Fuck this guy",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w0z022/fuck_this_guy/",
+     "selftext_head": ""
+    },
+    {
+     "title": "The swing of a two-time FedExCup champion 🏌️‍♂️",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w3jmtm/the_swing_of_a_twotime_fedexcup_champion/",
      "selftext_head": ""
     },
     {
@@ -79,15 +88,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w2pd8n/justin_rose_slam_dunks_a_6iron_from_208_yards_for/",
-     "selftext_head": ""
-    },
-    {
-     "title": "The swing of a two-time FedExCup champion 🏌️‍♂️",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w3jmtm/the_swing_of_a_twotime_fedexcup_champion/",
      "selftext_head": ""
     },
     {
@@ -127,21 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Alright, who was this? Come on, step to the front!",
+     "title": "Kevin Hart shot a 62 and then 70 back-to-back on camera",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w3u5fx/alright_who_was_this_come_on_step_to_the_front/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1w4ayuo/kevin_hart_shot_a_62_and_then_70_backtoback_on/",
      "selftext_head": ""
     },
     {
-     "title": "Golf Term Misunderstandings - GIR",
+     "title": "You are most welcome kind sir. You are one class act. Hope you had a great round.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w3hmbs/golf_term_misunderstandings_gir/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1w4lans/you_are_most_welcome_kind_sir_you_are_one_class/",
      "selftext_head": ""
     }
    ]
@@ -159,7 +159,7 @@
    "funny golf polos canada",
    "funny golf polos amazon",
    "funny golf polos for men amazon",
-   "funny golf polos for team"
+   "funny golf polos near me"
   ],
   "golf gift for him": [
    "golf gift for him",
@@ -185,8 +185,8 @@
   ],
   "golf dad hat": [
    "golf dad hat",
-   "golf dad hat barstool",
    "golf dad hats for men",
+   "golf dad hat barstool",
    "golf dad hat near me",
    "golf dad hat style",
    "golf dad hat canada",
@@ -204,8 +204,8 @@
    "custom golf polo shirts uk",
    "custom golf polo shirts with logo",
    "custom golf polos australia",
-   "custom golf polos canada",
-   "custom golf polos near me"
+   "custom golf polos no minimum",
+   "custom golf polos canada"
   ],
   "golf tournament gift": [
    "golf tournament gift ideas",
@@ -213,7 +213,6 @@
    "golf tournament gift bag ideas",
    "golf tournament gift bags",
    "golf tournament gift basket ideas",
-   "golf tournament gifts for players",
    "golf tournament gifts under $10",
    "golf tournament gifts under $5",
    "prizes for golf tournaments",
@@ -244,9 +243,9 @@
    "golf towels with funny sayings"
   ],
   "bachelor party golf": [
-   "bachelor party golf balls",
-   "bachelor party golf trips",
    "bachelor party golf shirts",
+   "bachelor party golf trips",
+   "bachelor party golf balls",
    "bachelor party golf ideas",
    "bachelor party golf gifts",
    "bachelor party golf games",
@@ -289,16 +288,16 @@
   ]
  },
  "trends": [
-  "mike johnson",
-  "cboe volatility index",
-  "musetti",
-  "severe thunderstorm watch",
-  "presidents cup 2026",
-  "reese brantmeier",
-  "falcons logo",
-  "gma dwts announcement",
-  "irán",
-  "arthur fery"
+  "tornado watch",
+  "ted lasso - season 4",
+  "beauty in black season 4",
+  "alphonso smith",
+  "andrew painter",
+  "america vs monterrey",
+  "tanker",
+  "trump strait of hormuz",
+  "harry kane",
+  "shams charania"
  ],
  "errors": []
 }
