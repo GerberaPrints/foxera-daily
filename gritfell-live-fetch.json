@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-02",
- "fetched_at": "2026-09-02T04:30:03.235185+07:00",
+ "date": "2026-09-03",
+ "fetched_at": "2026-09-03T04:30:03.458544+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 103,
@@ -1128,103 +1128,110 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Youth Fireside Fleece Pants 2.0",
-     "handle": "youth-fireside-fleece-sweatpants-2-coriander",
-     "type": "YOUTH PANTS",
+     "title": "Pine Island Puff Jacket",
+     "handle": "womens-pine-island-puffer-jacket-parisian-night",
+     "type": "WOMENS JACKETS",
      "tags": [
-      "Bottoms",
-      "FA25",
-      "Fleece",
-      "LABEL CHECK",
-      "pants",
-      "YOUTH",
-      "youth-bottoms"
-     ],
-     "price": "49.00",
-     "published_at": "2026-08-19T10:33:59-07:00"
-    },
-    {
-     "title": "Youth Fireside Fleece Pants 2.0",
-     "handle": "youth-fireside-fleece-sweatpants-2-green-mallard-camo",
-     "type": "YOUTH PANTS",
-     "tags": [
-      "Bottoms",
-      "FA25",
-      "Fleece",
-      "LABEL CHECK",
-      "mallardcamo",
-      "YOUTH",
-      "youth-bottoms"
-     ],
-     "price": "49.00",
-     "published_at": "2026-08-19T10:33:26-07:00"
-    },
-    {
-     "title": "Fireside Sweatshorts",
-     "handle": "fireside-camping-sweatshorts-raven",
-     "type": "MENS SHORTS",
-     "tags": [
-      "Bottoms",
-      "CLOTHING",
-      "F26 Drop 1",
-      "FA25",
+      "COMING-SOON",
+      "F26-SEPT1",
       "FA26",
-      "Fleece",
-      "mallardcamo",
-      "MENS",
-      "mens-shorts-bottoms",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "RGroup_MWS5015",
-      "shorts"
-     ],
-     "price": "59.00",
-     "published_at": "2026-08-19T06:55:50-07:00"
-    },
-    {
-     "title": "Sullivan 1/4 Zip",
-     "handle": "sullivan-quarter-zip-fleece-pullover-buckthorn-brown",
-     "type": "MENS FLEECE",
-     "tags": [
-      "F26 Drop 1",
-      "FA25",
-      "FA26",
-      "Fleece",
-      "Hoodies",
-      "MENS",
-      "mens-outerwear-fleece",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
+      "ICAST2026",
+      "jackets-overshirts",
+      "NEW",
+      "NEW-TAG",
       "Outerwear",
-      "RGroup_MWF1057",
-      "Tech Jacket",
+      "WOMENS",
+      "womens-jackets-overshirts-outerwear"
+     ],
+     "price": "169.00",
+     "published_at": "2026-09-02T12:44:10-07:00"
+    },
+    {
+     "title": "Surfside Waffle Shirt",
+     "handle": "surfside-long-sleeve-waffle-shirt-sage-brush",
+     "type": "MENS PERFORMANCE",
+     "tags": [
+      "COMING-SOON",
+      "F26-SEPT1",
+      "FA25",
+      "FA26",
+      "Long Sleeve Shirt",
+      "Longsleeve Shirt",
+      "mallardcamo",
+      "MENS",
+      "MENS-Longsleeve Shirt-TOPS",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "Performance Knit",
+      "RGroup_MWK2047",
+      "Slowcountry",
       "TOPS"
      ],
-     "price": "69.00",
-     "published_at": "2026-08-18T15:44:06-07:00"
+     "price": "65.00",
+     "published_at": "2026-09-02T12:44:09-07:00"
     },
     {
-     "title": "Youth Sullivan Tech Hoodie",
-     "handle": "youth-sullivan-tech-hoodie-bombay-brown",
-     "type": "YOUTH FLEECE",
+     "title": "Surfside Waffle Shirt",
+     "handle": "surfside-long-sleeve-waffle-shirt-raven",
+     "type": "MENS PERFORMANCE",
      "tags": [
-      "F26 Drop 1",
+      "F26-SEPT1",
       "FA25",
       "FA26",
-      "Fleece",
-      "Hoodie",
-      "Hoodies",
+      "Long Sleeve Shirt",
+      "Longsleeve Shirt",
+      "mallardcamo",
+      "MENS",
+      "MENS-Longsleeve Shirt-TOPS",
       "NEW-COLOR-TAG",
       "NEWCOLOR",
-      "Outerwear",
-      "RGroup_BWF1004",
-      "Tech Jacket",
-      "TOPS",
-      "YOUTH",
-      "youth-tops"
+      "Performance Knit",
+      "RGroup_MWK2047",
+      "Slowcountry",
+      "TOPS"
      ],
-     "price": "59.00",
-     "published_at": "2026-08-18T15:44:05-07:00"
+     "price": "65.00",
+     "published_at": "2026-09-02T12:44:09-07:00"
+    },
+    {
+     "title": "Surfside Waffle Shirt",
+     "handle": "surfside-long-sleeve-waffle-shirt-fossil-foxhole-camo",
+     "type": "MENS PERFORMANCE",
+     "tags": [
+      "F26-SEPT1",
+      "FA25",
+      "FA26",
+      "Long Sleeve Shirt",
+      "Longsleeve Shirt",
+      "mallardcamo",
+      "MENS",
+      "MENS-Longsleeve Shirt-TOPS",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "Performance Knit",
+      "RGroup_MWK2047",
+      "Slowcountry",
+      "TOPS"
+     ],
+     "price": "65.00",
+     "published_at": "2026-09-02T12:44:08-07:00"
+    },
+    {
+     "title": "Women's Seaward Tech Fleece",
+     "handle": "womens-seaward-tech-fleece-mallard-green",
+     "type": "WOMENS FLEECE",
+     "tags": [
+      "F26-SEPT1",
+      "FA26",
+      "Fleece",
+      "NEW",
+      "NEW-TAG",
+      "Outerwear",
+      "WOMENS",
+      "womens-fleece-outerwear"
+     ],
+     "price": "119.00",
+     "published_at": "2026-09-02T12:44:05-07:00"
     }
    ]
   },
@@ -1420,8 +1427,10 @@
       "FA26",
       "NEW",
       "NEW-TAG",
+      "RAIN SUIT",
       "RELAXED-FIT",
       "womens-fishing-clothing",
+      "womens-fishing-shorts-and-leggings",
       "womens-fit-guide-relaxed-fit",
       "womens-how-to-measure"
      ],
@@ -1440,6 +1449,7 @@
       "mens-how-to-measure",
       "NEW",
       "NEW-TAG",
+      "RAIN SUIT",
       "RELAXED-FIT"
      ],
      "price": "399.00",
@@ -1458,6 +1468,7 @@
       "mens-how-to-measure",
       "NEW",
       "NEW-TAG",
+      "RAIN SUIT",
       "RELAXED-FIT"
      ],
      "price": "399.00",
@@ -1522,6 +1533,37 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "EVO250 Headlamp and EVO200 Flashlight Lighting Pack",
+     "handle": "200lm-headlamp-with-pen-lighting-pack",
+     "type": "Field Essentials",
+     "tags": [
+      "AW26_NEW",
+      "BFCM2026",
+      "master_list_new_arrivals_26",
+      "new"
+     ],
+     "price": "54.99",
+     "published_at": "2026-09-02T11:08:37-05:00"
+    },
+    {
+     "title": "Drake Camo Graphic Logo T-Shirt",
+     "handle": "drake-camo-graphic-logo-t-shirt",
+     "type": "T-Shirts",
+     "tags": [
+      "AW26 Catalog",
+      "AW26_NEW",
+      "BFCM2026",
+      "graphic tees",
+      "master_list_new_arrivals_26",
+      "mens",
+      "new",
+      "tops",
+      "Waterfowl T-Shirt"
+     ],
+     "price": "29.99",
+     "published_at": "2026-09-02T09:27:49-05:00"
+    },
+    {
      "title": "Camo Cotton Cap",
      "handle": "camo-cotton-cap-1",
      "type": "Sale_Headwear",
@@ -1560,7 +1602,7 @@
     {
      "title": "Non-Typical Silencer Full Zip Hoodie",
      "handle": "non-typical-silencer-full-zip-hoodie",
-     "type": "Jackets & Vests",
+     "type": "Hoodies & Pullovers",
      "tags": [
       "ACS2025",
       "AW25 Price Tracking",
@@ -1591,6 +1633,7 @@
       "AW25_New",
       "AW26 Catalog",
       "BFCM2026",
+      "master_list_new_arrivals_26",
       "new_color:Mossy Oak Fall Foliage",
       "new_color:Mossy Oak Original Bottomland",
       "new_color:Mossy Oak Original Shadow Grass",
@@ -1600,41 +1643,6 @@
      ],
      "price": "39.99",
      "published_at": "2026-08-31T12:54:22-05:00"
-    },
-    {
-     "title": "Slacker Quarter Zip Hoodie",
-     "handle": "slacker-quarter-zip-hoodie",
-     "type": "Hoodies & Pullovers",
-     "tags": [
-      "AW26 Catalog",
-      "AW26_NEW",
-      "BFCM2026",
-      "hunting_hoodies",
-      "new"
-     ],
-     "price": "129.99",
-     "published_at": "2026-08-31T08:51:09-05:00"
-    },
-    {
-     "title": "Balaclava",
-     "handle": "balaclava",
-     "type": "Headwear",
-     "tags": [
-      "- $25 - $50",
-      "- headwear",
-      "- under $50",
-      "- under $75",
-      "- waterfowl",
-      "AW25 Catalog",
-      "Brand_Waterfowl",
-      "face-masks-neck-gaiters",
-      "hunting accessories",
-      "mens",
-      "YGroup_balaclava",
-      "youth"
-     ],
-     "price": "29.99",
-     "published_at": "2026-08-28T15:28:00-05:00"
     }
    ]
   },
