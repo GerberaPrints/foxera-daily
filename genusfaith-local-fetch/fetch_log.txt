@@ -34,3 +34,4 @@
 2026-09-01T04:00:04.549514+07:00 | brands 7/7 | products 2126 | pages 12 | new14d 36 | errors 0 | changes new 0 / removed 11 / price 3 / stock 0
 2026-09-02T04:00:04.891630+07:00 | brands 7/7 | products 2130 | pages 12 | new14d 35 | errors 0 | changes new 4 / removed 0 / price 0 / stock 3
 2026-09-03T04:00:04.661754+07:00 | brands 7/7 | products 2157 | pages 12 | new14d 31 | errors 0 | changes new 27 / removed 0 / price 0 / stock 2
+2026-09-04T04:00:04.523591+07:00 | brands 7/7 | products 2137 | pages 12 | new14d 30 | errors 0 | changes new 6 / removed 26 / price 0 / stock 2
