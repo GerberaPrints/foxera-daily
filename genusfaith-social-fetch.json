@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-03",
- "fetched_at": "2026-09-03T04:15:03.484539+07:00",
+ "date": "2026-09-04",
+ "fetched_at": "2026-09-04T04:15:03.581841+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -25,15 +25,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w4c744/lady_of_lourdes/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Happy feast day of St. Monica! Never stop persevering in prayer for those far from God!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vzq2lk/happy_feast_day_of_st_monica_never_stop/",
      "selftext_head": ""
     },
     {
@@ -91,6 +82,15 @@
      "selftext_head": ""
     },
     {
+     "title": "I received devastating news about my unborn baby, and I’m struggling to understand God’s plan",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w5glyw/i_received_devastating_news_about_my_unborn_baby/",
+     "selftext_head": ""
+    },
+    {
      "title": "Free Friday I love my local Cathedral in Helena Montana!!!",
      "score": null,
      "num_comments": null,
@@ -106,6 +106,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w0jobg/free_friday_archdiocese_of_monterreys_spiritual/",
+     "selftext_head": ""
+    },
+    {
+     "title": "On this day (September 2) in 1686, after 145 years of Ottoman rule, Christian forces recaptured Buda",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w557v7/on_this_day_september_2_in_1686_after_145_years/",
      "selftext_head": ""
     },
     {
@@ -127,21 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Wife had me served with divorce papers today. How am I supposed to handle this as a Catholic?",
+     "title": "If Eve and Mary are the first and New Eve, would giving them the same face make sense?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w01gwj/wife_had_me_served_with_divorce_papers_today_how/",
-     "selftext_head": ""
-    },
-    {
-     "title": "The comedian who desecrated a church in France will go to trial: she simulated masturbating with a crucifix on the altar",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1vzg7et/the_comedian_who_desecrated_a_church_in_france/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w2fiow/if_eve_and_mary_are_the_first_and_new_eve_would/",
      "selftext_head": ""
     }
    ]
@@ -190,12 +190,12 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gifts for teenage boys",
-   "confirmation gifts catholic",
-   "confirmation gifts for teen girls",
    "confirmation gifts for adults",
-   "confirmation gift ideas for girls",
-   "confirmation gifts near me"
+   "confirmation gifts from sponsor",
+   "confirmation gift ideas for boy",
+   "confirmation gifts catholic",
+   "confirmation gifts for teenage boys",
+   "confirmation gift ideas for girls"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "epstein files",
-  "daktronics",
-  "miley cyrus drops last name",
-  "days of our lives",
-  "markwayne mullin",
-  "dennis rodman",
-  "isla fisher",
-  "shams",
-  "clippers",
-  "snow stock"
+  "college football tonight",
+  "robinhood",
+  "américa - alianza",
+  "putintseva",
+  "adbe",
+  "anil chakravarthy",
+  "lorenzo musetti",
+  "path stock",
+  "premios juventud 2026",
+  "zs stock"
  ],
  "errors": []
 }
