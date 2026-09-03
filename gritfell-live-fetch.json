@@ -2,12 +2,45 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-03",
- "fetched_at": "2026-09-03T04:30:03.458544+07:00",
+ "date": "2026-09-04",
+ "fetched_at": "2026-09-04T04:30:03.180854+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 103,
+   "count_returned": 106,
    "products": [
+    {
+     "title": "Deepwood Camo Sun Hoodie",
+     "handle": "deepwood-camo-sun-hoodie",
+     "type": "Hoodie",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-02T19:49:34-07:00"
+    },
+    {
+     "title": "Topographic Map Sun Hoodie",
+     "handle": "topographic-map-sun-hoodie",
+     "type": "Hoodie",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-02T19:41:25-07:00"
+    },
+    {
+     "title": "Sand Pixel Sun Hoodie",
+     "handle": "sand-pixel-sun-hoodie",
+     "type": "Hoodie",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-02T19:36:15-07:00"
+    },
     {
      "title": "Marshland Camo Sun Hoodie",
      "handle": "marshland-camo-sun-hoodie",
@@ -1053,6 +1086,36 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Trout Patch Perforated Hat - Grey",
+     "handle": "trout-patch-perforated-hat-silver-king",
+     "type": "Perforated Hat",
+     "tags": [
+      "__label:50% off",
+      "Accessories",
+      "all fishing",
+      "dc-inventory-sync::OFF",
+      "dc-product-group::trout-patch-perforated-hat",
+      "exchange-eligible",
+      "fishing",
+      "fishing accessories",
+      "fishing hat",
+      "fishing hats",
+      "hat",
+      "hat-flow",
+      "headwear",
+      "labor-day-26",
+      "last call",
+      "lifestyle",
+      "logo hat",
+      "perforated-hat",
+      "spring-2021-hats-and-tees",
+      "spring2021",
+      "tier-hat-promo-item"
+     ],
+     "price": "18.00",
+     "published_at": "2026-09-03T16:07:48-05:00"
+    },
+    {
      "title": "Men's Field Tech Guide Pants",
      "handle": "mens-field-tech-guide-pants",
      "type": "Combined Product",
@@ -1102,31 +1165,54 @@
      "tags": [],
      "price": "199.00",
      "published_at": "2026-08-30T12:46:41-05:00"
-    },
-    {
-     "title": "Men's Field Tech Hoodie - Raven",
-     "handle": "mens-field-tech-hoodie-raven",
-     "type": "Field Tech Hoodie",
-     "tags": [
-      "__label:new",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "exchange-eligible",
-      "F26",
-      "field-tech",
-      "hoodie",
-      "mens",
-      "msrp",
-      "outerwear"
-     ],
-     "price": "199.00",
-     "published_at": "2026-08-30T12:45:10-05:00"
     }
    ]
   },
   "Marsh Wear": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Field SS T-Shirt",
+     "handle": "field-short-sleeve-t-shirt-etruscan-red-heather",
+     "type": "MENS T-SHIRTS",
+     "tags": [
+      "Final Sale",
+      "FINALSALE",
+      "T-Shirts",
+      "TOPS"
+     ],
+     "price": "14.99",
+     "published_at": "2026-09-03T11:33:03-07:00"
+    },
+    {
+     "title": "Pursuit LS T-Shirt",
+     "handle": "pursuit-ls-t-shirt-ginger",
+     "type": "MENS T-SHIRTS",
+     "tags": [
+      "FA25",
+      "Final Sale",
+      "FINALSALE",
+      "HATNTEE",
+      "Long Sleeve Shirt",
+      "Longsleeve Shirt",
+      "MENS",
+      "T-Shirts",
+      "TOPS"
+     ],
+     "price": "19.99",
+     "published_at": "2026-09-03T11:29:15-07:00"
+    },
+    {
+     "title": "Sullivan 1/4 Zip LS Fleece",
+     "handle": "sullivan-quarter-zip-fleece-pullover-gray",
+     "type": "MENS FLEECE",
+     "tags": [
+      "Fleece",
+      "SALE"
+     ],
+     "price": "39.99",
+     "published_at": "2026-09-03T11:24:24-07:00"
+    },
     {
      "title": "Pine Island Puff Jacket",
      "handle": "womens-pine-island-puffer-jacket-parisian-night",
@@ -1138,7 +1224,6 @@
       "ICAST2026",
       "jackets-overshirts",
       "NEW",
-      "NEW-TAG",
       "Outerwear",
       "WOMENS",
       "womens-jackets-overshirts-outerwear"
@@ -1160,7 +1245,6 @@
       "mallardcamo",
       "MENS",
       "MENS-Longsleeve Shirt-TOPS",
-      "NEW-COLOR-TAG",
       "NEWCOLOR",
       "Performance Knit",
       "RGroup_MWK2047",
@@ -1169,75 +1253,67 @@
      ],
      "price": "65.00",
      "published_at": "2026-09-02T12:44:09-07:00"
-    },
-    {
-     "title": "Surfside Waffle Shirt",
-     "handle": "surfside-long-sleeve-waffle-shirt-raven",
-     "type": "MENS PERFORMANCE",
-     "tags": [
-      "F26-SEPT1",
-      "FA25",
-      "FA26",
-      "Long Sleeve Shirt",
-      "Longsleeve Shirt",
-      "mallardcamo",
-      "MENS",
-      "MENS-Longsleeve Shirt-TOPS",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "Performance Knit",
-      "RGroup_MWK2047",
-      "Slowcountry",
-      "TOPS"
-     ],
-     "price": "65.00",
-     "published_at": "2026-09-02T12:44:09-07:00"
-    },
-    {
-     "title": "Surfside Waffle Shirt",
-     "handle": "surfside-long-sleeve-waffle-shirt-fossil-foxhole-camo",
-     "type": "MENS PERFORMANCE",
-     "tags": [
-      "F26-SEPT1",
-      "FA25",
-      "FA26",
-      "Long Sleeve Shirt",
-      "Longsleeve Shirt",
-      "mallardcamo",
-      "MENS",
-      "MENS-Longsleeve Shirt-TOPS",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "Performance Knit",
-      "RGroup_MWK2047",
-      "Slowcountry",
-      "TOPS"
-     ],
-     "price": "65.00",
-     "published_at": "2026-09-02T12:44:08-07:00"
-    },
-    {
-     "title": "Women's Seaward Tech Fleece",
-     "handle": "womens-seaward-tech-fleece-mallard-green",
-     "type": "WOMENS FLEECE",
-     "tags": [
-      "F26-SEPT1",
-      "FA26",
-      "Fleece",
-      "NEW",
-      "NEW-TAG",
-      "Outerwear",
-      "WOMENS",
-      "womens-fleece-outerwear"
-     ],
-     "price": "119.00",
-     "published_at": "2026-09-02T12:44:05-07:00"
     }
    ]
   },
   "Tom Beckbe": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Dalton Crewneck Sweater",
+     "handle": "dalton-crewneck-sweater",
+     "type": "",
+     "tags": [],
+     "price": "0.00",
+     "published_at": "2026-09-03T14:43:08-05:00"
+    },
+    {
+     "title": "Aigle Parcours 3.0 TR Boot",
+     "handle": "aigle-parcours-3-0-tr-boot",
+     "type": "Footwear",
+     "tags": [
+      "FW2026ZR",
+      "MENZR",
+      "MFOOTZR",
+      "MNEWZR"
+     ],
+     "price": "695.00",
+     "published_at": "2026-09-03T11:18:16-05:00"
+    },
+    {
+     "title": "Large Clip Game Strap",
+     "handle": "large-clip-game-strap",
+     "type": "Misc.",
+     "tags": [
+      "Accessories",
+      "ACCESSZR",
+      "alabama",
+      "all-season",
+      "early-season",
+      "Essential",
+      "fall",
+      "field sport",
+      "fieldsport",
+      "GIFTS100ZR",
+      "Hunting",
+      "HUNTZR",
+      "leather",
+      "LEATHERGIFTZR",
+      "LEATHERZR",
+      "MENZR",
+      "MFIELDZR",
+      "UNDER100ZR",
+      "UPHUNTGIFTZR",
+      "UPLANDZR",
+      "waterfowl",
+      "WATERFOWLZR",
+      "WFIELDZR",
+      "WFOWLGIFTZR",
+      "WINGSHOOTZR"
+     ],
+     "price": "55.00",
+     "published_at": "2026-09-02T19:24:29-05:00"
+    },
     {
      "title": "Conecuh Sausage Cotton Twill 6-Panel Hat",
      "handle": "conecuh-sausage-cotton-twill-6-panel-hat",
@@ -1278,72 +1354,6 @@
      ],
      "price": "65.00",
      "published_at": "2026-08-28T13:30:43-05:00"
-    },
-    {
-     "title": "DU Waxed Cotton 5-Panel Hat - Duck Blind",
-     "handle": "du-waxed-cotton-5-panel-hat-duck-blind",
-     "type": "Hats",
-     "tags": [
-      "DUCKSZR",
-      "field sport",
-      "FW2026ZR",
-      "HATSZR",
-      "HUNTZR",
-      "MENZR",
-      "MFIELDZR",
-      "MHATZR",
-      "MNEWZR",
-      "WFIELDZR",
-      "WHATZR",
-      "WNEWZR",
-      "WOMENZR"
-     ],
-     "price": "65.00",
-     "published_at": "2026-08-28T13:30:15-05:00"
-    },
-    {
-     "title": "DU Waxed Cotton 6-Panel Hat - Duckhead",
-     "handle": "du-waxed-cotton-6-panel-hat-duckhead",
-     "type": "Hats",
-     "tags": [
-      "DUCKSZR",
-      "field sport",
-      "FW2026ZR",
-      "HATSZR",
-      "HUNTZR",
-      "MENZR",
-      "MFIELDZR",
-      "MHATZR",
-      "MNEWZR",
-      "WFIELDZR",
-      "WHATZR",
-      "WNEWZR",
-      "WOMENZR"
-     ],
-     "price": "65.00",
-     "published_at": "2026-08-28T13:29:35-05:00"
-    },
-    {
-     "title": "Waxed Cotton 5-Panel Hat in Mossy Oak Original Bottomland - TB Mark",
-     "handle": "waxed-cotton-5-panel-hat-in-mossy-oak-original-bottomland-tb-mark",
-     "type": "Hats",
-     "tags": [
-      "field sport",
-      "FW2026ZR",
-      "HATSZR",
-      "HUNTZR",
-      "MENZR",
-      "MFIELDZR",
-      "MHATZR",
-      "MNEWZR",
-      "MOSSYZR",
-      "WFIELDZR",
-      "WHATZR",
-      "WNEWZR",
-      "WOMENZR"
-     ],
-     "price": "65.00",
-     "published_at": "2026-08-28T13:28:19-05:00"
     }
    ]
   },
@@ -1650,6 +1660,47 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Men's Bamboo Motion Boxer Brief - Slate Blue",
+     "handle": "mens-bamboo-motion-boxer-brief-slate-blue",
+     "type": "Men's",
+     "tags": [
+      "bundle::Buy 3 for $96. Use code: BUNDLE",
+      "care::bamboo",
+      "Color",
+      "discount::motion_boxer::3::percent::11::BUY 3 FOR $85",
+      "EXCBBB",
+      "fdbun",
+      "final-sale",
+      "final_sale",
+      "listo-new-pdp",
+      "motionboxergroup",
+      "product_style: Mens Bamboo Motion Boxer Brief",
+      "returns::none"
+     ],
+     "price": "36.00",
+     "published_at": "2026-09-03T00:06:23-04:00"
+    },
+    {
+     "title": "Men's Bamboo Motion Boxer Brief - Slate",
+     "handle": "mens-bamboo-motion-boxer-brief-slate",
+     "type": "Men's",
+     "tags": [
+      "care::bamboo",
+      "collection::men",
+      "Color",
+      "EXCBBB",
+      "fdbun",
+      "final-sale",
+      "final_sale",
+      "listo-new-pdp",
+      "motionboxergroup",
+      "product_style: Mens Bamboo Motion Boxer Brief",
+      "returns::none"
+     ],
+     "price": "36.00",
+     "published_at": "2026-09-03T00:06:18-04:00"
+    },
+    {
      "title": "Women's Ribbed Bamboo Long Sleeve - Plum",
      "handle": "womens-ribbed-bamboo-long-sleeve-plum",
      "type": "Women's",
@@ -1691,28 +1742,6 @@
      ],
      "price": "74.00",
      "published_at": "2026-08-27T15:29:03-04:00"
-    },
-    {
-     "title": "Youth Bamboo Shade Graphic Hoodie - Blue Edge Pacific Blue",
-     "handle": "youth-bamboo-shade-graphic-hoodie-blue-edge-pacific-blue",
-     "type": "Youth",
-     "tags": [
-      "excK820",
-      "product_style: Youth Bamboo Shade Graphic Hoodie",
-      "SP26"
-     ],
-     "price": "54.00",
-     "published_at": "2026-08-21T13:16:41-04:00"
-    },
-    {
-     "title": "Youth Brand Flag Camo Trucker Hat - Vintage Camo",
-     "handle": "youth-brand-flag-camo-trucker-hat-vintage-camo",
-     "type": "Hats",
-     "tags": [
-      "SP26"
-     ],
-     "price": "28.00",
-     "published_at": "2026-08-21T13:12:27-04:00"
     }
    ]
   },
@@ -2035,7 +2064,7 @@
     },
     {
      "title": "Tactical Waist Pack - Clip-On Hip Bag - Military-Style Outdoor Bag",
-     "handle": "hikeman-outdoor-hiking-tactical-waist-pack-multi-functional-expandable-side-pouch-lightweight-carry-on-waist-belt-bag-and-chest-pack-unisex-with-adjustable-shoulder-strap-and-waist-belt-suitable-for-hiking-running-travel-and-cycling",
+     "handle": "tactical-waist-pack-clip-on-hip-bag-military-style-outdoor-bag",
      "type": "",
      "tags": [],
      "price": "29.95",
