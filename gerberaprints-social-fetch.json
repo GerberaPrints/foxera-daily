@@ -2,31 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-03",
- "fetched_at": "2026-09-03T04:45:03.569862+07:00",
+ "date": "2026-09-04",
+ "fetched_at": "2026-09-04T04:45:03.468237+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "Judge's Ultimatum To Tiger: \"If You Were To Drive For Any Reason At All, You Go Immediately Back To Jail.”",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w5fjne/judges_ultimatum_to_tiger_if_you_were_to_drive/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Callaway parts ways with Good Good",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w00ljo/callaway_parts_ways_with_good_good/",
-     "selftext_head": ""
-    },
     {
      "title": "Flop shot of his life",
      "score": null,
@@ -46,12 +28,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Actual cart fees may vary.",
+     "title": "It’s gonna be a long five years",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1vzur3h/actual_cart_fees_may_vary/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1w5hg07/its_gonna_be_a_long_five_years/",
      "selftext_head": ""
     },
     {
@@ -127,6 +109,15 @@
      "selftext_head": ""
     },
     {
+     "title": "My First Hole In One",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w6g5gf/my_first_hole_in_one/",
+     "selftext_head": ""
+    },
+    {
      "title": "Kevin Hart shot a 62 and then 70 back-to-back on camera",
      "score": null,
      "num_comments": null,
@@ -142,6 +133,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w4lans/you_are_most_welcome_kind_sir_you_are_one_class/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Alright, who was this? Come on, step to the front!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w3u5fx/alright_who_was_this_come_on_step_to_the_front/",
      "selftext_head": ""
     }
    ]
@@ -202,8 +202,8 @@
    "custom golf polos with logo",
    "custom golf polo with face",
    "custom golf polo shirts uk",
-   "custom golf polo shirts with logo",
    "custom golf polos australia",
+   "custom golf polo shirts with logo",
    "custom golf polos no minimum",
    "custom golf polos canada"
   ],
@@ -212,9 +212,10 @@
    "golf tournament gifts",
    "golf tournament gift bag ideas",
    "golf tournament gift bags",
+   "golf tournament gifts for players",
    "golf tournament gift basket ideas",
-   "golf tournament gifts under $10",
    "golf tournament gifts under $5",
+   "golf tournament gifts under $10",
    "prizes for golf tournaments",
    "whats a good gift for a golfer"
   ],
@@ -288,16 +289,16 @@
   ]
  },
  "trends": [
-  "tornado watch",
-  "ted lasso - season 4",
-  "beauty in black season 4",
-  "alphonso smith",
-  "andrew painter",
-  "america vs monterrey",
   "tanker",
-  "trump strait of hormuz",
-  "harry kane",
-  "shams charania"
+  "ignacio buse",
+  "nasdaq composite",
+  "mike tomlin on trading george pickens",
+  "d&apos;andre swift",
+  "michael lombardi",
+  "kilgore flares 127 worker layoff",
+  "college football tonight",
+  "américa - alianza",
+  "putintseva"
  ],
  "errors": []
 }
