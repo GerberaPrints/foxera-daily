@@ -2,12 +2,23 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-04",
- "fetched_at": "2026-09-04T04:30:03.180854+07:00",
+ "date": "2026-09-05",
+ "fetched_at": "2026-09-05T04:30:03.150838+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 106,
+   "count_returned": 107,
    "products": [
+    {
+     "title": "Coastal Shadows Sun Hoodie",
+     "handle": "coastal-shadows-sun-hoodie",
+     "type": "Hoodie",
+     "tags": [
+      "fishing",
+      "hoodie"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-03T21:48:29-07:00"
+    },
     {
      "title": "Deepwood Camo Sun Hoodie",
      "handle": "deepwood-camo-sun-hoodie",
@@ -1086,34 +1097,20 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Trout Patch Perforated Hat - Grey",
-     "handle": "trout-patch-perforated-hat-silver-king",
-     "type": "Perforated Hat",
-     "tags": [
-      "__label:50% off",
-      "Accessories",
-      "all fishing",
-      "dc-inventory-sync::OFF",
-      "dc-product-group::trout-patch-perforated-hat",
-      "exchange-eligible",
-      "fishing",
-      "fishing accessories",
-      "fishing hat",
-      "fishing hats",
-      "hat",
-      "hat-flow",
-      "headwear",
-      "labor-day-26",
-      "last call",
-      "lifestyle",
-      "logo hat",
-      "perforated-hat",
-      "spring-2021-hats-and-tees",
-      "spring2021",
-      "tier-hat-promo-item"
-     ],
-     "price": "18.00",
-     "published_at": "2026-09-03T16:07:48-05:00"
+     "title": "Stewards of the Wild x DC Hat - Wetland",
+     "handle": "stewards-of-the-wild-x-dc-hat-wetland",
+     "type": "",
+     "tags": [],
+     "price": "36.00",
+     "published_at": "2026-09-04T14:11:43-05:00"
+    },
+    {
+     "title": "Stewards of the Wild x DC Tee - Vintage Khaki",
+     "handle": "stewards-of-the-wild-x-dc-tee-vintage-khaki",
+     "type": "",
+     "tags": [],
+     "price": "39.00",
+     "published_at": "2026-09-04T14:11:36-05:00"
     },
     {
      "title": "Men's Field Tech Guide Pants",
@@ -1157,20 +1154,46 @@
      ],
      "price": "159.00",
      "published_at": "2026-08-30T13:05:07-05:00"
-    },
-    {
-     "title": "Men's Field Tech Hoodie",
-     "handle": "mens-field-tech-hoodie",
-     "type": "Combined Product",
-     "tags": [],
-     "price": "199.00",
-     "published_at": "2026-08-30T12:46:41-05:00"
     }
    ]
   },
   "Marsh Wear": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Women's Stono Shacket",
+     "handle": "womens-stono-shacket-marshmallow",
+     "type": "WOMENS JACKETS",
+     "tags": [
+      "F26-SEPT1",
+      "FA26",
+      "jackets-overshirts",
+      "NEW",
+      "NEW-TAG",
+      "Outerwear",
+      "WOMENS",
+      "womens-jackets-overshirts-outerwear"
+     ],
+     "price": "99.00",
+     "published_at": "2026-09-03T15:18:20-07:00"
+    },
+    {
+     "title": "Women's Stono Shacket",
+     "handle": "womens-stono-shacket-desert-palm",
+     "type": "WOMENS JACKETS",
+     "tags": [
+      "F26-SEPT1",
+      "FA26",
+      "jackets-overshirts",
+      "NEW",
+      "NEW-TAG",
+      "Outerwear",
+      "WOMENS",
+      "womens-jackets-overshirts-outerwear"
+     ],
+     "price": "99.00",
+     "published_at": "2026-09-03T15:14:33-07:00"
+    },
     {
      "title": "Field SS T-Shirt",
      "handle": "field-short-sleeve-t-shirt-etruscan-red-heather",
@@ -1212,47 +1235,6 @@
      ],
      "price": "39.99",
      "published_at": "2026-09-03T11:24:24-07:00"
-    },
-    {
-     "title": "Pine Island Puff Jacket",
-     "handle": "womens-pine-island-puffer-jacket-parisian-night",
-     "type": "WOMENS JACKETS",
-     "tags": [
-      "COMING-SOON",
-      "F26-SEPT1",
-      "FA26",
-      "ICAST2026",
-      "jackets-overshirts",
-      "NEW",
-      "Outerwear",
-      "WOMENS",
-      "womens-jackets-overshirts-outerwear"
-     ],
-     "price": "169.00",
-     "published_at": "2026-09-02T12:44:10-07:00"
-    },
-    {
-     "title": "Surfside Waffle Shirt",
-     "handle": "surfside-long-sleeve-waffle-shirt-sage-brush",
-     "type": "MENS PERFORMANCE",
-     "tags": [
-      "COMING-SOON",
-      "F26-SEPT1",
-      "FA25",
-      "FA26",
-      "Long Sleeve Shirt",
-      "Longsleeve Shirt",
-      "mallardcamo",
-      "MENS",
-      "MENS-Longsleeve Shirt-TOPS",
-      "NEWCOLOR",
-      "Performance Knit",
-      "RGroup_MWK2047",
-      "Slowcountry",
-      "TOPS"
-     ],
-     "price": "65.00",
-     "published_at": "2026-09-02T12:44:09-07:00"
     }
    ]
   },
@@ -1260,20 +1242,16 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Dalton Crewneck Sweater",
-     "handle": "dalton-crewneck-sweater",
-     "type": "",
-     "tags": [],
-     "price": "0.00",
-     "published_at": "2026-09-03T14:43:08-05:00"
-    },
-    {
      "title": "Aigle Parcours 3.0 TR Boot",
      "handle": "aigle-parcours-3-0-tr-boot",
      "type": "Footwear",
      "tags": [
+      "field sport",
+      "FISHZR",
       "FW2026ZR",
+      "HUNTZR",
       "MENZR",
+      "MFIELDZR",
       "MFOOTZR",
       "MNEWZR"
      ],
@@ -1354,6 +1332,28 @@
      ],
      "price": "65.00",
      "published_at": "2026-08-28T13:30:43-05:00"
+    },
+    {
+     "title": "DU Waxed Cotton 5-Panel Hat - Duck Blind",
+     "handle": "du-waxed-cotton-5-panel-hat-duck-blind",
+     "type": "Hats",
+     "tags": [
+      "DUCKSZR",
+      "field sport",
+      "FW2026ZR",
+      "HATSZR",
+      "HUNTZR",
+      "MENZR",
+      "MFIELDZR",
+      "MHATZR",
+      "MNEWZR",
+      "WFIELDZR",
+      "WHATZR",
+      "WNEWZR",
+      "WOMENZR"
+     ],
+     "price": "65.00",
+     "published_at": "2026-08-28T13:30:15-05:00"
     }
    ]
   },
@@ -1749,6 +1749,88 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Youth Puffer Jacket - Gauge Camo",
+     "handle": "youth-puffer-jacket-gauge-camo",
+     "type": "Youth Jacket",
+     "tags": [
+      "9/10/26",
+      "9/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "Bass Pro",
+      "BlinkAutoHide",
+      "Core",
+      "FALL CORE",
+      "FALL25",
+      "Gauge Camo",
+      "Long Sleeve",
+      "Mia Review",
+      "PREBOOK START: 08/01/2026",
+      "Puffer Jacket",
+      "retail",
+      "Season Core",
+      "Season Fall25",
+      "Season Fall26",
+      "wholesale",
+      "WinterSale",
+      "WinterSale37.6%",
+      "Youth"
+     ],
+     "price": "63.75",
+     "published_at": "2026-09-04T10:56:16-05:00"
+    },
+    {
+     "title": "Youth Puffer Jacket - Classic Deer Camo",
+     "handle": "youth-puffer-jacket-classic-deer-camo",
+     "type": "Youth Jacket",
+     "tags": [
+      "9/10/26",
+      "9/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "Bass Pro",
+      "classic-deer-camo",
+      "Core",
+      "FALL CORE",
+      "FALL25",
+      "Mia Review",
+      "Outerwear",
+      "pdqreview",
+      "PREBOOK START: 08/01/2026",
+      "Puffer Jacket",
+      "retail",
+      "Season Core",
+      "Season Fall25",
+      "Season Fall26",
+      "wholesale",
+      "WinterSale",
+      "WinterSale37.6%",
+      "Youth"
+     ],
+     "price": "63.75",
+     "published_at": "2026-09-04T10:56:16-05:00"
+    },
+    {
+     "title": "Father and Son Bundle - Vintage Washed Hoodie - Classic Deer Camo",
+     "handle": "father-and-son-bundle-vintage-washed-fleece-hoodie-classic-deer-camo",
+     "type": "Bundle",
+     "tags": [
+      "8/13/26"
+     ],
+     "price": "111.00",
+     "published_at": "2026-09-04T09:47:04-05:00"
+    },
+    {
+     "title": "Father and Son Bundle - Vintage Washed Hoodie - Drifter Camo",
+     "handle": "father-and-son-bundle-vintage-washed-fleece-hoodie-drifter-camo",
+     "type": "Bundle",
+     "tags": [
+      "8/13/26"
+     ],
+     "price": "111.00",
+     "published_at": "2026-09-04T09:46:20-05:00"
+    },
+    {
      "title": "Puffer Vest - Black",
      "handle": "puffer-vest-black",
      "type": "Jacket",
@@ -1778,87 +1860,8 @@
       "WinterSale",
       "WinterSale34.2%"
      ],
-     "price": "79.00",
+     "price": "67.15",
      "published_at": "2026-08-28T11:20:52-05:00"
-    },
-    {
-     "title": "Puffer Vest - Mallard Green",
-     "handle": "puffer-vest-mallard-green",
-     "type": "Vest",
-     "tags": [
-      "9/4",
-      "BlinkAutoHide",
-      "Hunting",
-      "Logo",
-      "Mallard Green",
-      "Men's",
-      "Outerwear",
-      "Outerwear Top",
-      "pdqreview",
-      "PREBOOK START: 08/01/2026",
-      "retail",
-      "Sale",
-      "Sweatshirt",
-      "WinterSale",
-      "WinterSale34.2%"
-     ],
-     "price": "79.00",
-     "published_at": "2026-08-28T11:04:15-05:00"
-    },
-    {
-     "title": "Puffer Vest - Gauge Camo",
-     "handle": "puffer-vest-gauge-camo",
-     "type": "Vest",
-     "tags": [
-      "9/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "Bass Pro",
-      "BlinkAutoHide",
-      "Core",
-      "FALL CORE",
-      "Gauge Camo",
-      "Hunting",
-      "Logo",
-      "Men's",
-      "Mia Review",
-      "Outerwear",
-      "Outerwear Top",
-      "pdqreview",
-      "PREBOOK START: 08/01/2026",
-      "retail",
-      "Sale",
-      "Season Core",
-      "Season Fall26",
-      "Sweatshirt",
-      "wholesale",
-      "WinterSale",
-      "WinterSale34.2%"
-     ],
-     "price": "79.00",
-     "published_at": "2026-08-28T11:00:06-05:00"
-    },
-    {
-     "title": "Father and Son Bundle - Thermal Hoodie - Bendita Camo",
-     "handle": "father-and-son-bundle-thermal-hoodie-bendita-camo",
-     "type": "Bundle",
-     "tags": [
-      "8/27/26"
-     ],
-     "price": "98.00",
-     "published_at": "2026-08-27T11:09:25-05:00"
-    },
-    {
-     "title": "Youth Go To Tee - Bendita Camo",
-     "handle": "youth-go-to-tee-bendita-camo",
-     "type": "Youth Go To Tee",
-     "tags": [
-      "8/27/26",
-      "FA26",
-      "Fall 2026"
-     ],
-     "price": "28.00",
-     "published_at": "2026-08-27T11:09:23-05:00"
     }
    ]
   },
@@ -1878,7 +1881,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2646000",
+     "price": "2645000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -1891,7 +1894,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5293000",
+     "price": "5290000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -1928,7 +1931,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1588000",
+     "price": "1587000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2049,6 +2052,43 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Half Zip Fleece - Quilted Panel Fleece Jumper for Outdoor",
+     "handle": "half-zip-fleece-quilted-panel-fleece-jumper-for-outdoor",
+     "type": "Fleece",
+     "tags": [
+      "activity:camping",
+      "activity:hiking",
+      "activity:walking",
+      "feature:quilted-panel",
+      "gender:unisex",
+      "gmc-approved",
+      "type:fleece",
+      "type:half-zip"
+     ],
+     "price": "44.95",
+     "published_at": "2026-09-04T11:51:38+02:00"
+    },
+    {
+     "title": "Fleece Hoodie - Sherpa Pullover - Hooded Midlayer with Zip Pocket",
+     "handle": "fleece-hoodie-sherpa-pullover-hooded-midlayer-with-zip-pocket",
+     "type": "Hoodies",
+     "tags": [
+      "Borg Fleece",
+      "Fleece Hoodie",
+      "Fleece Pullover",
+      "Hiking",
+      "Hooded Fleece",
+      "Midlayer",
+      "Outdoor",
+      "Sherpa Hoodie",
+      "THERMOLITE",
+      "Thumbhole Cuffs",
+      "Unisex"
+     ],
+     "price": "44.95",
+     "published_at": "2026-09-04T11:50:12+02:00"
+    },
+    {
      "title": "Quilted House Slippers | Fleece-Lined, Non-Slip Cushioned Comfort",
      "handle": "棉拖鞋男冬季2026乳胶抑菌防滑防水厚底踩屎感情侣保暖居家舒适",
      "type": "",
@@ -2080,38 +2120,6 @@
      ],
      "price": "29.99",
      "published_at": "2026-09-01T22:09:19+02:00"
-    },
-    {
-     "title": "Men's Cargo Trousers | Baggy Wide-Leg Parachute Pants with Zip Pockets",
-     "handle": "mens-cargo-trousers-baggy-wide-leg-parachute-pants-with-zip-pockets",
-     "type": "",
-     "tags": [
-      "activity:hiking",
-      "cargo trousers",
-      "gender:mens",
-      "techwear",
-      "type:trousers"
-     ],
-     "price": "59.95",
-     "published_at": "2026-09-01T21:36:12+02:00"
-    },
-    {
-     "title": "Men's Windbreaker - Lightweight Packable Hooded Jacket, UPF 50+",
-     "handle": "mens-windbreaker-lightweight-packable-hooded-jacket",
-     "type": "Jackets",
-     "tags": [
-      "activity:cycling",
-      "activity:hiking",
-      "activity:running",
-      "activity:walking",
-      "clothing",
-      "gender:mens",
-      "jackets",
-      "type:clothing",
-      "windbreaker"
-     ],
-     "price": "54.95",
-     "published_at": "2026-08-31T16:12:51+02:00"
     }
    ]
   }

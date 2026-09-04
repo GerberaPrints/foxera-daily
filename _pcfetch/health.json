@@ -1,6 +1,6 @@
 {
  "schema_version": "1.2",
- "checked_at": "2026-09-05T04:15:35.537226+07:00",
+ "checked_at": "2026-09-05T04:40:46.478187+07:00",
  "date": "2026-09-05",
  "projects": [
   {
@@ -42,16 +42,12 @@
   {
    "project": "gritfell",
    "checks": [
-    "FAIL live-fetch cu: 2026-09-04 (hom nay 2026-09-05)",
-    "OK feed 13/13",
-    "FAIL social-fetch cu: 2026-09-04"
+    "OK live-fetch = hom nay",
+    "OK feed 13/13"
    ],
    "healed": [],
-   "need_human": [
-    "gritfell: du lieu dung o 2026-09-04, task CO THAT (19 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
-    "gritfell: social dung o 2026-09-04 (hom nay 2026-09-05). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gritfell"
-   ],
-   "status": "FAIL",
+   "need_human": [],
+   "status": "OK",
    "feeds": "13/13",
    "reddit": "10/10"
   },
@@ -161,8 +157,6 @@
  "need_human": [
   "gerberaprints: du lieu dung o 2026-09-04, task CO THAT (17 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
   "gerberaprints: social dung o 2026-09-04 (hom nay 2026-09-05). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gerberaprints",
-  "gritfell: du lieu dung o 2026-09-04, task CO THAT (19 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
-  "gritfell: social dung o 2026-09-04 (hom nay 2026-09-05). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gritfell",
   "gerbera-live-fetch.json dung o 2026-09-04 (hom nay 2026-09-05) — ban tin Gerbera market moi sang DOC file nay (khong phai gerberaprints-live-fetch.json). Sinh boi: Task Scheduler 'Gerbera PC Fetch' 06:45 (gerbera_fetch.py v1.1.1, 15 nguon/lan). Kiem: schtasks /Query /TN \"Gerbera PC Fetch\" /V /FO LIST | findstr \"Last Result\"",
   "gerbera-market.json dung o 2026-08-22 (hom nay 2026-09-05) — GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.. Sinh boi: routine cloud [Gerbera-Trend] Research. Kiem: Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich.",
   "gritfell-daily.json dung o 2026-08-03 (hom nay 2026-09-05) — ⚠️ KHONG PHAI CANH BAO. GritFell v6.0 (14/08) da chuyen sang GOOGLE DRIVE: 'DRIVE — BAT BUOC, LAM TRUOC, DAY LA DUONG SONG'; GitHub push 'duoc phep fail'. File nay dung im trong repo la DUNG THIET KE.. Sinh boi: routine cloud GritFell Daily. Kiem: KHONG can lam gi voi file repo nay. Muon kiem GritFell that su co ra ban tin khong thi xem nhom Telegram 'GritFell - Daily Market Research' hoac folder Drive cua no — KHONG xem file nay.",
