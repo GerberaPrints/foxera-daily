@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-04",
- "fetched_at": "2026-09-04T04:45:03.468237+07:00",
+ "date": "2026-09-05",
+ "fetched_at": "2026-09-05T04:45:03.961542+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -16,6 +16,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w489st/flop_shot_of_his_life/",
+     "selftext_head": ""
+    },
+    {
+     "title": "My First Hole In One",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w6g5gf/my_first_hole_in_one/",
      "selftext_head": ""
     },
     {
@@ -37,15 +46,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Fuck this guy",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w0z022/fuck_this_guy/",
-     "selftext_head": ""
-    },
-    {
      "title": "The swing of a two-time FedExCup champion 🏌️‍♂️",
      "score": null,
      "num_comments": null,
@@ -55,30 +55,12 @@
      "selftext_head": ""
     },
     {
-     "title": "CEO of Good Good calls out Callaway and claims his team will win",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w0n4m5/ceo_of_good_good_calls_out_callaway_and_claims/",
-     "selftext_head": ""
-    },
-    {
      "title": "Justin Rose slam dunks a 6-iron from 208 yards for a hole in one",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w2pd8n/justin_rose_slam_dunks_a_6iron_from_208_yards_for/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Cameron Young sinks a long eagle to cap off a round of 62, then gives a firm handshake to his nonexistent playing partner",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w0zewa/cameron_young_sinks_a_long_eagle_to_cap_off_a/",
      "selftext_head": ""
     },
     {
@@ -109,15 +91,6 @@
      "selftext_head": ""
     },
     {
-     "title": "My First Hole In One",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w6g5gf/my_first_hole_in_one/",
-     "selftext_head": ""
-    },
-    {
      "title": "Kevin Hart shot a 62 and then 70 back-to-back on camera",
      "score": null,
      "num_comments": null,
@@ -136,12 +109,39 @@
      "selftext_head": ""
     },
     {
+     "title": "Mike Sposa, who has played in 334 professional golf tournaments, wins 2026 U.S. Senior Amateur. The elite amateur game is broken.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w6rv51/mike_sposa_who_has_played_in_334_professional/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Good Good's CEO and president are out after ad debacle",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w5qst1/good_goods_ceo_and_president_are_out_after_ad/",
+     "selftext_head": ""
+    },
+    {
      "title": "Alright, who was this? Come on, step to the front!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w3u5fx/alright_who_was_this_come_on_step_to_the_front/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Golf Term Misunderstandings - GIR",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w3hmbs/golf_term_misunderstandings_gir/",
      "selftext_head": ""
     }
    ]
@@ -214,8 +214,8 @@
    "golf tournament gift bags",
    "golf tournament gifts for players",
    "golf tournament gift basket ideas",
-   "golf tournament gifts under $5",
    "golf tournament gifts under $10",
+   "golf tournament gifts under $5",
    "prizes for golf tournaments",
    "whats a good gift for a golfer"
   ],
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "tanker",
-  "ignacio buse",
-  "nasdaq composite",
-  "mike tomlin on trading george pickens",
-  "d&apos;andre swift",
-  "michael lombardi",
-  "kilgore flares 127 worker layoff",
-  "college football tonight",
-  "américa - alianza",
-  "putintseva"
+  "nxt releases",
+  "amal clooney silk nails venice",
+  "ku football",
+  "brewers vs reds",
+  "be stock",
+  "stefanos tsitsipas",
+  "cincinnati weather",
+  "madrid fc",
+  "lsu vs clemson",
+  "real betis vs real madrid standings"
  ],
  "errors": []
 }
