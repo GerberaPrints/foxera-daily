@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-05",
- "fetched_at": "2026-09-05T04:45:03.961542+07:00",
+ "date": "2026-09-06",
+ "fetched_at": "2026-09-06T04:45:03.616092+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -16,6 +16,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w489st/flop_shot_of_his_life/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I say we need more of this out on the course!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w7efrp/i_say_we_need_more_of_this_out_on_the_course/",
      "selftext_head": ""
     },
     {
@@ -73,15 +82,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Guy steals TaylorMade Spider putter from pro shop on camera. Video courtesy of Wyandot Golf Club",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w1q5cs/guy_steals_taylormade_spider_putter_from_pro_shop/",
-     "selftext_head": ""
-    },
-    {
      "title": "Scheffler shutting out the camera for family time. “Season’s over, folks”",
      "score": null,
      "num_comments": null,
@@ -100,21 +100,21 @@
      "selftext_head": ""
     },
     {
-     "title": "You are most welcome kind sir. You are one class act. Hope you had a great round.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w4lans/you_are_most_welcome_kind_sir_you_are_one_class/",
-     "selftext_head": ""
-    },
-    {
      "title": "Mike Sposa, who has played in 334 professional golf tournaments, wins 2026 U.S. Senior Amateur. The elite amateur game is broken.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w6rv51/mike_sposa_who_has_played_in_334_professional/",
+     "selftext_head": ""
+    },
+    {
+     "title": "You are most welcome kind sir. You are one class act. Hope you had a great round.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w4lans/you_are_most_welcome_kind_sir_you_are_one_class/",
      "selftext_head": ""
     },
     {
@@ -136,12 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Golf Term Misunderstandings - GIR",
+     "title": "Swing clicked after 15 months of golfing",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w3hmbs/golf_term_misunderstandings_gir/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1w6p4b6/swing_clicked_after_15_months_of_golfing/",
      "selftext_head": ""
     }
    ]
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "nxt releases",
-  "amal clooney silk nails venice",
-  "ku football",
-  "brewers vs reds",
-  "be stock",
-  "stefanos tsitsipas",
-  "cincinnati weather",
-  "madrid fc",
-  "lsu vs clemson",
-  "real betis vs real madrid standings"
+  "iva jovic",
+  "mike myers",
+  "rob gronkowski",
+  "wyoming vs co state",
+  "norfolk state vs old dominion",
+  "jamari johnson",
+  "spencer danielson",
+  "coco gauff net worth",
+  "bijan robinson",
+  "robin morgan"
  ],
  "errors": []
 }
