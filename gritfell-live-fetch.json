@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-05",
- "fetched_at": "2026-09-05T04:30:03.150838+07:00",
+ "date": "2026-09-06",
+ "fetched_at": "2026-09-06T04:30:03.575962+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 107,
@@ -1429,6 +1429,29 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Women's Drift Jacket",
+     "handle": "womens-drift-insulated-fishing-jacket",
+     "type": "WOMENS JACKETS",
+     "tags": [
+      "__tab2:womens-tops-size-chart",
+      "FA26",
+      "filter::size:L",
+      "filter::size:M",
+      "filter::size:S",
+      "filter::size:XL",
+      "filter::size:XS",
+      "NEW",
+      "NEW-TAG",
+      "Outerwear",
+      "REGULARFIT",
+      "womens-fishing-clothing",
+      "womens-fit-guide-regular-fit",
+      "womens-how-to-measure"
+     ],
+     "price": "169.00",
+     "published_at": "2026-09-04T15:12:36-07:00"
+    },
+    {
      "title": "Women's Barricade Bib",
      "handle": "womens-barricade-fishing-bib",
      "type": "WOMENS BIBS",
@@ -1511,31 +1534,6 @@
      ],
      "price": "179.00",
      "published_at": "2026-09-01T08:46:04-07:00"
-    },
-    {
-     "title": "Women's Coastal Layer Joggers",
-     "handle": "womens-coastal-layer-jogger-pants",
-     "type": "WOMENS PANTS",
-     "tags": [
-      "__tab2:womens-bottoms-size-chart",
-      "Bottoms",
-      "FA26",
-      "filter::size:L",
-      "filter::size:M",
-      "filter::size:S",
-      "filter::size:XL",
-      "filter::size:XS",
-      "filter::type:FISHING PANTS",
-      "NEW",
-      "NEW-TAG",
-      "REGULARFIT",
-      "womens-fishing-clothing",
-      "womens-fishing-shorts-and-leggings",
-      "womens-fit-guide-regular-fit",
-      "womens-how-to-measure"
-     ],
-     "price": "65.00",
-     "published_at": "2026-08-31T22:52:32-07:00"
     }
    ]
   },
@@ -1940,6 +1938,14 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Mallard Duck Paisley Heritage Hoodie - Navy Vintage AOP Pullover",
+     "handle": "mallard-duck-paisley-heritage-hoodie-navy-vintage-aop-pullover",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-05T01:20:08-07:00"
+    },
+    {
      "title": "Mallard Duck Flooded Timber Hoodie All-Over Print Duck Hunting Gift",
      "handle": "mallard-duck-flooded-timber-hoodie-all-over-print-duck-hunting-gift",
      "type": "",
@@ -1976,16 +1982,6 @@
      ],
      "price": "65.95",
      "published_at": "2026-08-25T19:44:49-07:00"
-    },
-    {
-     "title": "Ring-Necked Pheasant Camo Polo Shirt Upland Bird Hunting Golf",
-     "handle": "ring-necked-pheasant-camo-polo-shirt-upland-bird-hunting-golf",
-     "type": "",
-     "tags": [
-      "polo"
-     ],
-     "price": "65.95",
-     "published_at": "2026-08-25T19:41:42-07:00"
     }
    ]
   },
