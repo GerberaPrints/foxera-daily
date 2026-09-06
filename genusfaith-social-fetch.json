@@ -2,13 +2,22 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-06",
- "fetched_at": "2026-09-06T04:15:03.155455+07:00",
+ "date": "2026-09-07",
+ "fetched_at": "2026-09-07T04:15:03.183198+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "(Free Friday) Jesus playing with His cousin",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7pl7h/free_friday_jesus_playing_with_his_cousin/",
+     "selftext_head": ""
+    },
     {
      "title": "Lady of Lourdes",
      "score": null,
@@ -16,15 +25,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w4c744/lady_of_lourdes/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Restoring Of Beauty",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w6xmh9/restoring_of_beauty/",
      "selftext_head": ""
     },
     {
@@ -37,12 +37,21 @@
      "selftext_head": ""
     },
     {
-     "title": "(Free Friday) Jesus playing with His cousin",
+     "title": "Restoring Of Beauty",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7pl7h/free_friday_jesus_playing_with_his_cousin/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w6xmh9/restoring_of_beauty/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[Free Friday] My favorite imagination of the Fourth Glorious Mystery. I shall have it framed.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7sx1u/free_friday_my_favorite_imagination_of_the_fourth/",
      "selftext_head": ""
     },
     {
@@ -64,21 +73,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Can I just sit in a Catholic church as someone who isn't Catholic?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w8idv4/can_i_just_sit_in_a_catholic_church_as_someone/",
+     "selftext_head": ""
+    },
+    {
      "title": "New icon of the Holy Family that I bought in Rome just outside the Vatican",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w74dkf/new_icon_of_the_holy_family_that_i_bought_in_rome/",
-     "selftext_head": ""
-    },
-    {
-     "title": "I received devastating news about my unborn baby, and I’m struggling to understand God’s plan",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w5glyw/i_received_devastating_news_about_my_unborn_baby/",
      "selftext_head": ""
     },
     {
@@ -91,6 +100,15 @@
      "selftext_head": ""
     },
     {
+     "title": "I received devastating news about my unborn baby, and I’m struggling to understand God’s plan",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w5glyw/i_received_devastating_news_about_my_unborn_baby/",
+     "selftext_head": ""
+    },
+    {
      "title": "Today's the Memorial of Pope St. Gregory the Great (d. 604). Doctor of the Church and first monk to become Pope. Attributed namesake of Gregorian Chant. Reformer of the Mass. Contributing author to the Presanctified Divine Liturgy. Patron saint of musicians, singers, students, and teachers.",
      "score": null,
      "num_comments": null,
@@ -100,12 +118,12 @@
      "selftext_head": ""
     },
     {
-     "title": "[Free Friday] My favorite imagination of the Fourth Glorious Mystery. I shall have it framed.",
+     "title": "Christ Blessing ('The Saviour of the World') - El Greco",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7sx1u/free_friday_my_favorite_imagination_of_the_fourth/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7etbk/christ_blessing_the_saviour_of_the_world_el_greco/",
      "selftext_head": ""
     },
     {
@@ -124,24 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w6ccko/catholics_in_canada/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Christ Blessing ('The Saviour of the World') - El Greco",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7etbk/christ_blessing_the_saviour_of_the_world_el_greco/",
-     "selftext_head": ""
-    },
-    {
-     "title": "[Politics Monday] Violent attacks against Christians surge in the Holy Land",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w3i21r/politics_monday_violent_attacks_against/",
      "selftext_head": ""
     }
    ]
@@ -190,12 +190,12 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gifts of the holy spirit",
    "confirmation gifts for adults",
    "confirmation gifts from sponsor",
    "confirmation gift ideas for boy",
    "confirmation gifts catholic",
-   "confirmation gifts for teenage boys"
+   "confirmation gifts for teenage boys",
+   "confirmation gift ideas for girls"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "deportivo la coruna",
-  "st. mirren vs celtic",
-  "são paulo vs atlético mineiro",
-  "arthur gea",
-  "ufc 333",
-  "talarico",
-  "michael zheng",
-  "argentina vs australia",
-  "kamari moulton",
-  "kellen moore"
+  "amy acton",
+  "brendan carr",
+  "america vs leon",
+  "cooper hjerpe",
+  "tiafoe girlfriend",
+  "washington state football coach",
+  "dutton ranch season 2",
+  "anna wintour",
+  "brett baty",
+  "matthew mcconaughey"
  ],
  "errors": []
 }
