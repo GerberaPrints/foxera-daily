@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-06",
- "fetched_at": "2026-09-06T04:45:03.616092+07:00",
+ "date": "2026-09-07",
+ "fetched_at": "2026-09-07T04:45:03.911025+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "Flop shot of his life",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w489st/flop_shot_of_his_life/",
-     "selftext_head": ""
-    },
     {
      "title": "I say we need more of this out on the course!",
      "score": null,
@@ -25,6 +16,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w7efrp/i_say_we_need_more_of_this_out_on_the_course/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Flop shot of his life",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w489st/flop_shot_of_his_life/",
      "selftext_head": ""
     },
     {
@@ -64,24 +64,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Justin Rose slam dunks a 6-iron from 208 yards for a hole in one",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w2pd8n/justin_rose_slam_dunks_a_6iron_from_208_yards_for/",
-     "selftext_head": ""
-    },
-    {
-     "title": "All this just to shoot 105 at a municipal course.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w2e56k/all_this_just_to_shoot_105_at_a_municipal_course/",
-     "selftext_head": ""
-    },
-    {
      "title": "Scheffler shutting out the camera for family time. “Season’s over, folks”",
      "score": null,
      "num_comments": null,
@@ -118,15 +100,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Good Good's CEO and president are out after ad debacle",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w5qst1/good_goods_ceo_and_president_are_out_after_ad/",
-     "selftext_head": ""
-    },
-    {
      "title": "Alright, who was this? Come on, step to the front!",
      "score": null,
      "num_comments": null,
@@ -136,12 +109,39 @@
      "selftext_head": ""
     },
     {
+     "title": "Good Good's CEO and president are out after ad debacle",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w5qst1/good_goods_ceo_and_president_are_out_after_ad/",
+     "selftext_head": ""
+    },
+    {
      "title": "Swing clicked after 15 months of golfing",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w6p4b6/swing_clicked_after_15_months_of_golfing/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Golf Nirvana?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w6jzky/golf_nirvana/",
+     "selftext_head": ""
+    },
+    {
+     "title": "USGA is a joke",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w777bh/usga_is_a_joke/",
      "selftext_head": ""
     }
    ]
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "iva jovic",
-  "mike myers",
-  "rob gronkowski",
-  "wyoming vs co state",
-  "norfolk state vs old dominion",
-  "jamari johnson",
-  "spencer danielson",
-  "coco gauff net worth",
-  "bijan robinson",
-  "robin morgan"
+  "suicide mission",
+  "león vs américa",
+  "botafogo vs palmeiras",
+  "aj dybantsa",
+  "ciclón tropical",
+  "manny machado",
+  "amy acton",
+  "strait of hormuz military clashes",
+  "brendan carr",
+  "washington state football coach"
  ],
  "errors": []
 }
