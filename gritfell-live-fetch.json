@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-07",
- "fetched_at": "2026-09-07T04:30:03.206443+07:00",
+ "date": "2026-09-08",
+ "fetched_at": "2026-09-08T04:30:03.208793+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 107,
@@ -1879,7 +1879,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2645000",
+     "price": "2641000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -1892,7 +1892,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5290000",
+     "price": "5282000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -1905,7 +1905,7 @@
       "retail",
       "wsc"
      ],
-     "price": "926000",
+     "price": "925000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -1918,7 +1918,7 @@
       "retail",
       "wsc"
      ],
-     "price": "926000",
+     "price": "925000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -1929,7 +1929,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1587000",
+     "price": "1585000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -1989,6 +1989,25 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Whitetail Deer Hunting Polo Shirt VCP1028",
+     "handle": "whitetail-deer-hunting-polo-shirt-vcp1028",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-09-07T02:42:28-06:00"
+    },
+    {
+     "title": "Embroidered Deer Duck Fish Sweatshirt, Hunting and Fishing Crewneck",
+     "handle": "embroidered-deer-duck-fish-sweatshirt-hunting-and-fishing-crewneck",
+     "type": "",
+     "tags": [],
+     "price": "61.00",
+     "published_at": "2026-09-07T01:52:37-06:00"
+    },
+    {
      "title": "Turkey Hunter Orange Line Art Polo Shirt VCP1028",
      "handle": "turkey-hunter-orange-line-art-polo-shirt-vcp1028",
      "type": "Polo Shirt",
@@ -2020,33 +2039,61 @@
      ],
      "price": "39.99",
      "published_at": "2026-08-28T03:18:29-06:00"
-    },
-    {
-     "title": "Cream Upland Bird Pheasant & Feather Polo Shirt VCP1025",
-     "handle": "cream-upland-bird-pheasant-feather-polo-shirt-vcp1025",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-26T01:18:20-06:00"
-    },
-    {
-     "title": "Mallard Duck Head Retro Camo Polo Shirt DVC0111",
-     "handle": "mallard-duck-head-retro-camo-polo-shirt-dvc0111",
-     "type": "Polo Shirt",
-     "tags": [
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-08-24T09:57:46-06:00"
     }
    ]
   },
   "Terrabound": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Arm Sleeves - UPF 50+ Sun Sleeves, UV Sleeves & Arm Covers, Pair",
+     "handle": "arm-sleeves-upf-50-sun-sleeves-uv-arm-covers",
+     "type": "Arm Sleeves",
+     "tags": [
+      "accessories",
+      "arm covers",
+      "arm sleeves",
+      "cooling",
+      "cycling",
+      "gardening",
+      "hiking",
+      "sun sleeves",
+      "unisex",
+      "upf 50",
+      "uv sleeves"
+     ],
+     "price": "24.95",
+     "published_at": "2026-09-07T19:28:20+02:00"
+    },
+    {
+     "title": "Men's Full-Zip Sun Hoodie - UPF 50+ Vented Hiking & Fishing Jacket",
+     "handle": "mens-lightweight-jacket-sun-protection-with-visor-hood-face-mask",
+     "type": "Jacket",
+     "tags": [
+      "activity:fishing",
+      "activity:hiking",
+      "activity:summer",
+      "gender:mens",
+      "type:shirts"
+     ],
+     "price": "44.95",
+     "published_at": "2026-09-07T17:18:52+02:00"
+    },
+    {
+     "title": "Women's Zip-Up Sun Hoodie - UPF 50+ Lightweight UV Protection Jacket",
+     "handle": "womens-zip-up-sun-hoodie-lightweight-uv-protection-jacket",
+     "type": "sun hoodie",
+     "tags": [
+      "activity:hiking",
+      "activity:outdoor",
+      "activity:summer",
+      "gender:womens",
+      "season:summer",
+      "type:jacket"
+     ],
+     "price": "44.95",
+     "published_at": "2026-09-07T14:40:53+02:00"
+    },
     {
      "title": "Half Zip Fleece - Quilted Panel Fleece Jumper for Outdoor",
      "handle": "half-zip-fleece-quilted-panel-fleece-jumper-for-outdoor",
@@ -2083,39 +2130,6 @@
      ],
      "price": "44.95",
      "published_at": "2026-09-04T11:50:12+02:00"
-    },
-    {
-     "title": "Quilted House Slippers | Fleece-Lined, Non-Slip Cushioned Comfort",
-     "handle": "棉拖鞋男冬季2026乳胶抑菌防滑防水厚底踩屎感情侣保暖居家舒适",
-     "type": "",
-     "tags": [
-      "gender:unisex",
-      "house slippers",
-      "indoor footwear",
-      "slippers",
-      "type:footwear"
-     ],
-     "price": "24.95",
-     "published_at": "2026-09-01T23:01:01+02:00"
-    },
-    {
-     "title": "Tactical Waist Pack - Clip-On Hip Bag - Military-Style Outdoor Bag",
-     "handle": "tactical-waist-pack-clip-on-hip-bag-military-style-outdoor-bag",
-     "type": "",
-     "tags": [],
-     "price": "29.95",
-     "published_at": "2026-09-01T22:59:59+02:00"
-    },
-    {
-     "title": "Camp Slippers - Closed-Back - Warm Fleece-Lined Outdoor House Shoes",
-     "handle": "camp-slippers-closed-back-warm-fleece-lined-outdoor-house-shoes",
-     "type": "",
-     "tags": [
-      "activity:camping",
-      "type:camping-gear"
-     ],
-     "price": "29.99",
-     "published_at": "2026-09-01T22:09:19+02:00"
     }
    ]
   }
