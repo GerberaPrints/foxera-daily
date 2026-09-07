@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-07",
- "fetched_at": "2026-09-07T04:15:03.183198+07:00",
+ "date": "2026-09-08",
+ "fetched_at": "2026-09-08T04:15:03.172909+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -46,6 +46,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Can I just sit in a Catholic church as someone who isn't Catholic?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w8idv4/can_i_just_sit_in_a_catholic_church_as_someone/",
+     "selftext_head": ""
+    },
+    {
      "title": "[Free Friday] My favorite imagination of the Fourth Glorious Mystery. I shall have it framed.",
      "score": null,
      "num_comments": null,
@@ -61,24 +70,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w4fovi/i_chose_love_of_jesus_and_left_hateful_islam_i/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Visiting priest looked directly at me during homily and knew I was considering priesthood",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w3cycx/visiting_priest_looked_directly_at_me_during/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Can I just sit in a Catholic church as someone who isn't Catholic?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w8idv4/can_i_just_sit_in_a_catholic_church_as_someone/",
      "selftext_head": ""
     },
     {
@@ -115,6 +106,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w689tq/todays_the_memorial_of_pope_st_gregory_the_great/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Ecumenical Patriarch: We await the restoration of full communion with the Church of Rome",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w9ca84/ecumenical_patriarch_we_await_the_restoration_of/",
      "selftext_head": ""
     },
     {
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "amy acton",
-  "brendan carr",
-  "america vs leon",
-  "cooper hjerpe",
-  "tiafoe girlfriend",
-  "washington state football coach",
-  "dutton ranch season 2",
-  "anna wintour",
-  "brett baty",
-  "matthew mcconaughey"
+  "brewers",
+  "darius slayton",
+  "arthur gea",
+  "mlb standings",
+  "bobby flay",
+  "f 35b",
+  "geomagnetic storm",
+  "fiba world cup schedule",
+  "social security retirement age changes",
+  "rybakina"
  ],
  "errors": []
 }
