@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-07",
- "fetched_at": "2026-09-07T04:45:03.911025+07:00",
+ "date": "2026-09-08",
+ "fetched_at": "2026-09-08T04:45:03.591467+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -37,15 +37,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Golf course pest control",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w2yz5d/golf_course_pest_control/",
-     "selftext_head": ""
-    },
-    {
      "title": "It’s gonna be a long five years",
      "score": null,
      "num_comments": null,
@@ -55,21 +46,12 @@
      "selftext_head": ""
     },
     {
-     "title": "The swing of a two-time FedExCup champion 🏌️‍♂️",
+     "title": "Fingagolf Open Championship 2026 - Final 3 Hole Playoff",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w3jmtm/the_swing_of_a_twotime_fedexcup_champion/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Scheffler shutting out the camera for family time. “Season’s over, folks”",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w2uwao/scheffler_shutting_out_the_camera_for_family_time/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1w8yimz/fingagolf_open_championship_2026_final_3_hole/",
      "selftext_head": ""
     },
     {
@@ -100,21 +82,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Alright, who was this? Come on, step to the front!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w3u5fx/alright_who_was_this_come_on_step_to_the_front/",
-     "selftext_head": ""
-    },
-    {
      "title": "Good Good's CEO and president are out after ad debacle",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w5qst1/good_goods_ceo_and_president_are_out_after_ad/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Alright, who was this? Come on, step to the front!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w3u5fx/alright_who_was_this_come_on_step_to_the_front/",
      "selftext_head": ""
     },
     {
@@ -127,6 +109,15 @@
      "selftext_head": ""
     },
     {
+     "title": "USGA is a joke",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w777bh/usga_is_a_joke/",
+     "selftext_head": ""
+    },
+    {
      "title": "Golf Nirvana?",
      "score": null,
      "num_comments": null,
@@ -136,12 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "USGA is a joke",
+     "title": "Rate my pre shot routine",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w777bh/usga_is_a_joke/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1w576hr/rate_my_pre_shot_routine/",
+     "selftext_head": ""
+    },
+    {
+     "title": "My buddy and I both got our first hole-in-ones in the same round the other day 🔥",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w6padd/my_buddy_and_i_both_got_our_first_holeinones_in/",
      "selftext_head": ""
     }
    ]
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "suicide mission",
-  "león vs américa",
-  "botafogo vs palmeiras",
-  "aj dybantsa",
-  "ciclón tropical",
-  "manny machado",
-  "amy acton",
-  "strait of hormuz military clashes",
-  "brendan carr",
-  "washington state football coach"
+  "karen khachanov",
+  "ballon d&apos;or",
+  "hershey park closing",
+  "social security administration",
+  "pink",
+  "the handmaid&apos;s tale",
+  "darius slayton",
+  "arthur gea",
+  "brewers",
+  "kc royals"
  ],
  "errors": []
 }
