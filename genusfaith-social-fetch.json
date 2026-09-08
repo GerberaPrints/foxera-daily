@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-08",
- "fetched_at": "2026-09-08T16:11:30.934360+07:00",
+ "date": "2026-09-09",
+ "fetched_at": "2026-09-09T04:15:02.950021+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -16,15 +16,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7pl7h/free_friday_jesus_playing_with_his_cousin/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Lady of Lourdes",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w4c744/lady_of_lourdes/",
      "selftext_head": ""
     },
     {
@@ -64,12 +55,21 @@
      "selftext_head": ""
     },
     {
-     "title": "I chose love of Jesus and left hateful Islam. I wanna be Catholic soon.",
+     "title": "\"Today we celebrate the birth of a little girl who would be called to become the Mother of Her Creator, the Mother of God.\" - Pope Leo XIV",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w4fovi/i_chose_love_of_jesus_and_left_hateful_islam_i/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1waq1zn/today_we_celebrate_the_birth_of_a_little_girl_who/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Does anyone have a similar Catholic portable shrine, and how did you get it?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w9yr91/does_anyone_have_a_similar_catholic_portable/",
      "selftext_head": ""
     },
     {
@@ -100,21 +100,30 @@
      "selftext_head": ""
     },
     {
-     "title": "Does anyone have a similar Catholic portable shrine, and how did you get it?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w9yr91/does_anyone_have_a_similar_catholic_portable/",
-     "selftext_head": ""
-    },
-    {
      "title": "Today's the Memorial of Pope St. Gregory the Great (d. 604). Doctor of the Church and first monk to become Pope. Attributed namesake of Gregorian Chant. Reformer of the Mass. Contributing author to the Presanctified Divine Liturgy. Patron saint of musicians, singers, students, and teachers.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w689tq/todays_the_memorial_of_pope_st_gregory_the_great/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Is this a disrespectful crucifix?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wa4zcw/is_this_a_disrespectful_crucifix/",
+     "selftext_head": ""
+    },
+    {
+     "title": "The Symbolic Meaning behind the Subdeacon’s Humeral Veil",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wa8eqp/the_symbolic_meaning_behind_the_subdeacons/",
      "selftext_head": ""
     },
     {
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7etbk/christ_blessing_the_saviour_of_the_world_el_greco/",
-     "selftext_head": ""
-    },
-    {
-     "title": "On this day (September 2) in 1686, after 145 years of Ottoman rule, Christian forces recaptured Buda",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w557v7/on_this_day_september_2_in_1686_after_145_years/",
      "selftext_head": ""
     }
    ]
@@ -187,8 +187,8 @@
   ],
   "confirmation gift": [
    "confirmation gifts",
-   "confirmation gifts for girls",
    "confirmation gifts for boys",
+   "confirmation gift for girl",
    "confirmation gift ideas",
    "confirmation gifts of the holy spirit",
    "confirmation gifts for adults",
@@ -204,8 +204,8 @@
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
+   "baptism gift for baby boy",
    "baptism gifts near me",
-   "baptism gifts for baby boy",
    "baptism gifts from godparents",
    "baptism gift from godmother"
   ],
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "artificial intelligence news",
-  "sarah khalifá",
-  "winning powerball numbers",
-  "iran war hormuz",
-  "driverless taxis",
-  "navier stokes",
-  "billy joel collaborator jon small",
-  "youtube tv settlement",
-  "matthew mcconaughey",
-  "christian gonzalez"
+  "baker mayfield",
+  "stephen curry",
+  "artificial sweetener xylitol cardiovascular events",
+  "tiafoe girlfriend",
+  "liv golf",
+  "treveyon henderson",
+  "cody rhodes dog",
+  "el nino california sea levels",
+  "russia avalanche",
+  "puka nacua potential nfl suspension"
  ],
  "errors": []
 }
