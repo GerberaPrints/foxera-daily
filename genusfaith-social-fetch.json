@@ -3,7 +3,7 @@
  "producer": "DESKTOP",
  "project": "genusfaith",
  "date": "2026-09-08",
- "fetched_at": "2026-09-08T04:15:03.172909+07:00",
+ "fetched_at": "2026-09-08T16:11:30.934360+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -100,6 +100,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Does anyone have a similar Catholic portable shrine, and how did you get it?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w9yr91/does_anyone_have_a_similar_catholic_portable/",
+     "selftext_head": ""
+    },
+    {
      "title": "Today's the Memorial of Pope St. Gregory the Great (d. 604). Doctor of the Church and first monk to become Pope. Attributed namesake of Gregorian Chant. Reformer of the Mass. Contributing author to the Presanctified Divine Liturgy. Patron saint of musicians, singers, students, and teachers.",
      "score": null,
      "num_comments": null,
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w557v7/on_this_day_september_2_in_1686_after_145_years/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Catholics in Canada",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w6ccko/catholics_in_canada/",
      "selftext_head": ""
     }
    ]
@@ -190,12 +190,12 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
+   "confirmation gifts of the holy spirit",
    "confirmation gifts for adults",
    "confirmation gifts from sponsor",
    "confirmation gift ideas for boy",
    "confirmation gifts catholic",
-   "confirmation gifts for teenage boys",
-   "confirmation gift ideas for girls"
+   "confirmation gifts for teenage boys"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -204,8 +204,8 @@
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
-   "baptism gift for baby boy",
    "baptism gifts near me",
+   "baptism gifts for baby boy",
    "baptism gifts from godparents",
    "baptism gift from godmother"
   ],
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "brewers",
-  "darius slayton",
-  "arthur gea",
-  "mlb standings",
-  "bobby flay",
-  "f 35b",
-  "geomagnetic storm",
-  "fiba world cup schedule",
-  "social security retirement age changes",
-  "rybakina"
+  "artificial intelligence news",
+  "sarah khalifá",
+  "winning powerball numbers",
+  "iran war hormuz",
+  "driverless taxis",
+  "navier stokes",
+  "billy joel collaborator jon small",
+  "youtube tv settlement",
+  "matthew mcconaughey",
+  "christian gonzalez"
  ],
  "errors": []
 }
