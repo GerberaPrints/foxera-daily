@@ -2,13 +2,22 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-09",
- "fetched_at": "2026-09-09T04:15:02.950021+07:00",
+ "date": "2026-09-10",
+ "fetched_at": "2026-09-10T08:34:48.034500+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "\"Today we celebrate the birth of a little girl who would be called to become the Mother of Her Creator, the Mother of God.\" - Pope Leo XIV",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1waq1zn/today_we_celebrate_the_birth_of_a_little_girl_who/",
+     "selftext_head": ""
+    },
     {
      "title": "(Free Friday) Jesus playing with His cousin",
      "score": null,
@@ -55,12 +64,12 @@
      "selftext_head": ""
     },
     {
-     "title": "\"Today we celebrate the birth of a little girl who would be called to become the Mother of Her Creator, the Mother of God.\" - Pope Leo XIV",
+     "title": "Shawn Ryan announces his conversion to Catholicism.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1waq1zn/today_we_celebrate_the_birth_of_a_little_girl_who/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wb0fdq/shawn_ryan_announces_his_conversion_to_catholicism/",
      "selftext_head": ""
     },
     {
@@ -70,6 +79,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w9yr91/does_anyone_have_a_similar_catholic_portable/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Happy feast day of St. Peter Claver, the slave of the slaves!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wbhiva/happy_feast_day_of_st_peter_claver_the_slave_of/",
      "selftext_head": ""
     },
     {
@@ -91,21 +109,12 @@
      "selftext_head": ""
     },
     {
-     "title": "I received devastating news about my unborn baby, and I’m struggling to understand God’s plan",
+     "title": "The Symbolic Meaning behind the Subdeacon’s Humeral Veil",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w5glyw/i_received_devastating_news_about_my_unborn_baby/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Today's the Memorial of Pope St. Gregory the Great (d. 604). Doctor of the Church and first monk to become Pope. Attributed namesake of Gregorian Chant. Reformer of the Mass. Contributing author to the Presanctified Divine Liturgy. Patron saint of musicians, singers, students, and teachers.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w689tq/todays_the_memorial_of_pope_st_gregory_the_great/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wa8eqp/the_symbolic_meaning_behind_the_subdeacons/",
      "selftext_head": ""
     },
     {
@@ -118,30 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "The Symbolic Meaning behind the Subdeacon’s Humeral Veil",
+     "title": "Today's the Memorial of Pope St. Gregory the Great (d. 604). Doctor of the Church and first monk to become Pope. Attributed namesake of Gregorian Chant. Reformer of the Mass. Contributing author to the Presanctified Divine Liturgy. Patron saint of musicians, singers, students, and teachers.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wa8eqp/the_symbolic_meaning_behind_the_subdeacons/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w689tq/todays_the_memorial_of_pope_st_gregory_the_great/",
      "selftext_head": ""
     },
     {
-     "title": "Ecumenical Patriarch: We await the restoration of full communion with the Church of Rome",
+     "title": "A celebration our lady the Virgin Mary September 8th",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w9ca84/ecumenical_patriarch_we_await_the_restoration_of/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Christ Blessing ('The Saviour of the World') - El Greco",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7etbk/christ_blessing_the_saviour_of_the_world_el_greco/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wazhdq/a_celebration_our_lady_the_virgin_mary_september/",
      "selftext_head": ""
     }
    ]
@@ -166,12 +166,12 @@
    "rosary bracelet mens",
    "rosary bracelet women",
    "rosary bracelet gold",
-   "rosary bracelet beads",
-   "rosary bracelet pattern",
-   "rosary bracelet silver",
-   "rosary bracelet australia",
    "rosary bracelet magnetic",
-   "rosary bracelet tattoo"
+   "rosary bracelet silver",
+   "rosary bracelet pattern",
+   "rosary bracelet tattoo",
+   "rosary bracelet catholic",
+   "rosary bracelet near me"
   ],
   "christian gift for her": [
    "christian gift for her",
@@ -187,15 +187,15 @@
   ],
   "confirmation gift": [
    "confirmation gifts",
+   "confirmation gifts for girls",
    "confirmation gifts for boys",
-   "confirmation gift for girl",
    "confirmation gift ideas",
-   "confirmation gifts of the holy spirit",
-   "confirmation gifts for adults",
-   "confirmation gifts from sponsor",
-   "confirmation gift ideas for boy",
+   "confirmation gifts for teenage boys",
    "confirmation gifts catholic",
-   "confirmation gifts for teenage boys"
+   "confirmation gifts for teen girls",
+   "confirmation gifts for adults",
+   "confirmation gift ideas for girls",
+   "confirmation gifts near me"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -204,10 +204,10 @@
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
-   "baptism gift for baby boy",
-   "baptism gifts near me",
    "baptism gifts from godparents",
-   "baptism gift from godmother"
+   "baptism gifts near me",
+   "baptism gift for adult male",
+   "baptism gifts for teen girl"
   ],
   "catholic home decor": [
    "catholic home decor",
@@ -236,7 +236,7 @@
   "first communion gift": [
    "first communion gifts",
    "first communion gifts for boys",
-   "first communion gifts for girls",
+   "first communion gifts for girl",
    "first communion gift ideas",
    "first communion gifts near me",
    "first communion gifts for boys catholic",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "baker mayfield",
-  "stephen curry",
-  "artificial sweetener xylitol cardiovascular events",
-  "tiafoe girlfriend",
-  "liv golf",
-  "treveyon henderson",
-  "cody rhodes dog",
-  "el nino california sea levels",
-  "russia avalanche",
-  "puka nacua potential nfl suspension"
+  "phillies",
+  "caleb lomu",
+  "alec baldwin",
+  "peyton manning",
+  "wolverine ps5",
+  "emanuel wilson",
+  "gobierno",
+  "lan larison",
+  "corey kiner",
+  "tom brady"
  ],
  "errors": []
 }
