@@ -1,6 +1,6 @@
 @echo off
 REM ============================================================
-REM run_gerbera_fetch.bat - PC-side FETCH GerberaPrints   v6 (11/09/2026)
+REM run_gerbera_fetch.bat - PC-side FETCH GerberaPrints   v6.2 (11/09/2026)
 REM
 REM === QUAN TRONG: MAY NAY CO HAI CLONE ===
 REM   C:\gerbera\foxera-daily       <- job gerbera chay o day (log 55 dong + commit rieng)
@@ -34,8 +34,15 @@ REM 1) Commit leftover CUA JOB NAY truoc (phong khi lan truoc push that bai)
 git add gerbera-live-fetch.json gerbera-local-fetch/fetch_log.txt 2>nul
 git commit -m "gerbera pc-fetch leftover" 2>nul
 
-REM 2) Vut moi thay doi CHUA COMMIT con lai (output tu dong cua job khac)
-git checkout -- . 2>nul
+REM 2) Tree phai sach. Con thay doi la CUA JOB KHAC -> DUNG, tuyet doi khong tu vut.
+git diff --quiet HEAD
+if errorlevel 1 (
+  echo [gerbera_fetch] DUNG - tree con thay doi chua commit khong thuoc job nay:
+  git diff --name-only HEAD
+  echo   Xu ly thu cong roi chay lai. Ban v6.1 tro ve truoc tu vut cho nay - da xoa du lieu job khac.
+  call :log DIRTY_TREE
+  exit /b 1
+)
 
 REM 3) Dong bo voi remote - tree da sach nen rebase chay tron
 git pull --rebase origin main
