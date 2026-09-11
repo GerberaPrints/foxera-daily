@@ -1,0 +1,18 @@
+[
+ {
+  "file": "gritfell-daily.json",
+  "vi_sao": "⚠️ KHONG PHAI CANH BAO. GritFell v6.0 (14/08) da chuyen sang GOOGLE DRIVE: 'DRIVE — BAT BUOC, LAM TRUOC, DAY LA DUONG SONG'; GitHub push 'duoc phep fail'. File nay dung im trong repo la DUNG THIET KE.",
+  "sinh_boi": "routine cloud GritFell Daily",
+  "sua": "KHONG can lam gi voi file repo nay. Muon kiem GritFell that su co ra ban tin khong thi xem nhom Telegram 'GritFell - Daily Market Research' hoac folder Drive cua no — KHONG xem file nay.",
+  "tat_tu": "2026-09-11",
+  "ly_do_tat": "Da chuyen sang Google Drive theo thiet ke. Giu lai de tra cuu; selfcheck KHONG doc file nay."
+ },
+ {
+  "file": "genusfaith-daily.json",
+  "vi_sao": "⚠️ KHONG PHAI CANH BAO. Genus-Research v9.1-drive da chuyen sang GOOGLE DRIVE (folder GenusFaith_Briefs, ten file genusfaith-daily-YYYY-MM-DD.json, GAS v4.4 doc thang tu Drive). Prompt ghi ro: '403 = BINH THUONG, KHONG retry, KHONG coi la loi'. File nay dung im trong repo la DUNG THIET KE.",
+  "sinh_boi": "routine cloud Genus-Research Daily",
+  "sua": "KHONG can lam gi voi file repo nay. Muon kiem thi xem folder Drive GenusFaith_Briefs co file genusfaith-daily-<hom nay>.json khong — KHONG xem file nay.",
+  "tat_tu": "2026-09-11",
+  "ly_do_tat": "Da chuyen sang Google Drive theo thiet ke. Giu lai de tra cuu; selfcheck KHONG doc file nay."
+ }
+]

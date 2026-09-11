@@ -20,18 +20,6 @@
   "sua": "Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich."
  },
  {
-  "file": "gritfell-daily.json",
-  "vi_sao": "⚠️ KHONG PHAI CANH BAO. GritFell v6.0 (14/08) da chuyen sang GOOGLE DRIVE: 'DRIVE — BAT BUOC, LAM TRUOC, DAY LA DUONG SONG'; GitHub push 'duoc phep fail'. File nay dung im trong repo la DUNG THIET KE.",
-  "sinh_boi": "routine cloud GritFell Daily",
-  "sua": "KHONG can lam gi voi file repo nay. Muon kiem GritFell that su co ra ban tin khong thi xem nhom Telegram 'GritFell - Daily Market Research' hoac folder Drive cua no — KHONG xem file nay."
- },
- {
-  "file": "genusfaith-daily.json",
-  "vi_sao": "⚠️ KHONG PHAI CANH BAO. Genus-Research v9.1-drive da chuyen sang GOOGLE DRIVE (folder GenusFaith_Briefs, ten file genusfaith-daily-YYYY-MM-DD.json, GAS v4.4 doc thang tu Drive). Prompt ghi ro: '403 = BINH THUONG, KHONG retry, KHONG coi la loi'. File nay dung im trong repo la DUNG THIET KE.",
-  "sinh_boi": "routine cloud Genus-Research Daily",
-  "sua": "KHONG can lam gi voi file repo nay. Muon kiem thi xem folder Drive GenusFaith_Briefs co file genusfaith-daily-<hom nay>.json khong — KHONG xem file nay."
- },
- {
   "file": "foxera-job.json",
   "vi_sao": "Ban tin FoxEra Job (EraCloset). DAY LA MUC HONG THAT — job nay VAN push GitHub, khac hai muc gritfell/genusfaith da chuyen Drive.",
   "sinh_boi": "routine cloud FoxEra Job",
