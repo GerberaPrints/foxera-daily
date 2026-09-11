@@ -2,7 +2,7 @@
  "schema_version": "1.1",
  "source": "pc-local (gerbera_fetch.py, Task Scheduler)",
  "date": "2026-09-11",
- "fetched_at": "2026-09-11T08:57:56.439638+07:00",
+ "fetched_at": "2026-09-11T09:06:29.188666+07:00",
  "locale_note": "US/USD (products.json shop default) — máy quét ở VN, giá feed theo market mặc định shop",
  "feeds": {
   "Bogey Bros": {
@@ -870,7 +870,7 @@
    {
     "title": "Accessories",
     "handle": "accessories",
-    "updated_at": "2026-09-10T09:42:54-07:00",
+    "updated_at": "2026-09-10T19:01:25-07:00",
     "published_at": "2023-10-04T12:48:25-07:00",
     "products_count": 639
    },
@@ -926,14 +926,14 @@
    {
     "title": "All Products (Excluding Sale Items - Legacy Collection)",
     "handle": "all-products-excluding-sale-items",
-    "updated_at": "2026-09-10T15:39:51-07:00",
+    "updated_at": "2026-09-10T19:01:25-07:00",
     "published_at": "2023-12-06T14:43:47-07:00",
     "products_count": 2284
    },
    {
     "title": "All Products excluding Redo",
     "handle": "all-products-excluding-redo",
-    "updated_at": "2026-09-10T15:39:51-07:00",
+    "updated_at": "2026-09-10T19:01:25-07:00",
     "published_at": "2024-07-24T12:26:28-07:00",
     "products_count": 2913
    },
@@ -1486,21 +1486,21 @@
    {
     "title": "Golf Gifts for Her",
     "handle": "golf-gifts-for-her",
-    "updated_at": "2026-09-10T15:35:02-07:00",
+    "updated_at": "2026-09-10T19:01:25-07:00",
     "published_at": "2024-10-22T12:31:56-07:00",
     "products_count": 1360
    },
    {
     "title": "Golf Gifts for Him",
     "handle": "golf-gifts-for-him",
-    "updated_at": "2026-09-10T15:39:51-07:00",
+    "updated_at": "2026-09-10T19:01:25-07:00",
     "published_at": "2024-10-22T12:19:00-07:00",
     "products_count": 2036
    },
    {
     "title": "Golf Gifts under $50",
     "handle": "golf-gifts-under-50",
-    "updated_at": "2026-09-10T15:11:35-07:00",
+    "updated_at": "2026-09-10T19:01:25-07:00",
     "published_at": "2024-10-22T12:32:42-07:00",
     "products_count": 1157
    },
