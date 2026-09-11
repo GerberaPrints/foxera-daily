@@ -22,6 +22,7 @@ REM ============================================================
 
 set "REPO=C:\gerbera\foxera-daily"
 set "PUSHLOG=D:\FoxEra\logs\push_status.log"
+set "GIT_ASK_YESNO=false"
 
 cd /d "%REPO%"
 if errorlevel 1 (
@@ -67,7 +68,7 @@ if errorlevel 1 (
 git push origin HEAD:main
 if errorlevel 1 (
   echo [gerbera_fetch] PUSH FAILED - token cua clone nay con song khong?
-  echo   Chay:  D:\FoxEra\fix_github_token.bat   (cam token vao CA HAI clone)
+  echo   Chay:  D:\FoxEra\fix_github_token.bat   - cam token vao CA HAI clone
   call :log PUSH_FAILED
   exit /b 1
 )
