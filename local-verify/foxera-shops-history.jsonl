@@ -1632,3 +1632,5 @@
 {"date": "2026-08-14", "code": "E4", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
 {"date": "2026-08-14", "code": "E137", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
 {"date": "2026-08-14", "code": "E5", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "exception: TimeoutError"}
+{"date": "2026-09-11", "code": "E29", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "exception: TargetClosedError"}
+{"date": "2026-09-11", "code": "E29", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "exception: TargetClosedError"}
