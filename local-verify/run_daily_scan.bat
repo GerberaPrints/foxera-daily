@@ -1,7 +1,7 @@
 @echo off
 setlocal
 REM ============================================================
-REM run_daily_scan.bat - FoxEra shop scan   v2.1 (11/09/2026)
+REM run_daily_scan.bat - FoxEra shop scan   v2.2 (11/09/2026)
 REM
 REM   Task Scheduler: "FoxEra shop scan" 04:00
 REM   Quet 161 shop Etsy bang Chromium that, che do --auto.
@@ -59,6 +59,8 @@ REM     11/09/2026 ban quet tra 0/161 shop song, da push nguyen so rac len main.
 python local-verify\scan_gate.py
 if errorlevel 1 (
   echo [shopscan] DUNG - ket qua quet khong dung duoc. Khong commit, khong push.
+  echo   Vut ket qua rac de lan chay sau khong commit nham no o buoc 1.
+  git checkout -- %MINE%
   call :log SCAN_BLOCKED
   exit /b 1
 )
