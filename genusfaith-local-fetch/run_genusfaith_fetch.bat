@@ -1,38 +1,90 @@
 @echo off
 REM ============================================================
-REM run_genusfaith_fetch.bat ??? PC-side FETCH GenusFaith
-REM Pattern FoxEra: commit-truoc-pull-sau -> chay job -> commit/pull/push
-REM Task Scheduler: hang ngay 04:00 (gio may = Bangkok/Hanoi)
-REM   -> chay TRUOC routine cloud 04:30 de cloud doc duoc so cua CUNG NGAY
-REM   + Trigger phu: At log on (chay bu khi may tat luc 04:00)
-REM   + Settings tick "Run task as soon as possible after a scheduled start is missed"
+REM run_genusfaith_fetch.bat - PC-side FETCH GenusFaith   v6 (11/09/2026)
+REM
+REM === QUAN TRONG: MAY NAY CO HAI CLONE ===
+REM   C:\gerbera\foxera-daily       <- job gerbera chay o day (log 55 dong + commit rieng)
+REM   C:\Users\Admin\foxera-daily   <- genusfaith / gritfell / _pcfetch chay o day
+REM Moi clone co remote URL rieng -> phai cam token vao CA HAI.
+REM Job nay chay o: C:\Users\Admin\foxera-daily
+REM
+REM === v6 SUA GI ===
+REM  1. Giu DUNG clone cua job nay (ban v5 tro sai clone -> se bo roi du lieu).
+REM  2. "git checkout -- ." don tree truoc khi pull (port tu gritfell v3).
+REM     fetch_log.txt la file APPEND-ONLY: hai ben cung them dong cuoi -> pull --rebase
+REM     chac chan xung dot. Tree sach thi khong co gi de xung dot.
+REM     CANH BAO: buoc nay XOA moi thay doi chua commit, KE CA thay doi cua chinh file
+REM     .bat nay. PHAI COMMIT ban va TRUOC khi chay lan dau.
+REM  3. "if errorlevel 1" sau MOI lenh git (ban cu khong kiem sau pull).
+REM  4. Buoc 7 xac nhan that su len remote -> chan bao DONE GIA (luat S16).
+REM  5. Ghi ket qua push ra D:\FoxEra\logs\push_status.log (NGOAI repo, khong xung dot).
 REM ============================================================
 
-REM >>> SUA DUONG DAN NAY theo noi ban clone repo tren may <<<
-REM     (placeholder duoi day CHAC CHAN sai tren may ban ??? phai doi thanh duong dan that)
-cd /d C:\Users\Admin\foxera-daily
+set "REPO=C:\Users\Admin\foxera-daily"
+set "PUSHLOG=D:\FoxEra\logs\push_status.log"
 
-REM 1) don leftover local truoc (commit-truoc-pull-sau)
+cd /d "%REPO%"
+if errorlevel 1 (
+  echo [genusfaith_fetch] KHONG VAO DUOC %REPO%
+  exit /b 1
+)
+
+REM 1) Commit leftover CUA JOB NAY truoc (phong khi lan truoc push that bai)
 git add genusfaith-live-fetch.json genusfaith-local-fetch/fetch_log.txt 2>nul
 git commit -m "genusfaith pc-fetch leftover" 2>nul
-git pull --rebase origin main
 
-REM 2) chay job fetch
+REM 2) Vut moi thay doi CHUA COMMIT con lai (output tu dong cua job khac)
+git checkout -- . 2>nul
+
+REM 3) Dong bo voi remote - tree da sach nen rebase chay tron
+git pull --rebase origin main
+if errorlevel 1 (
+  echo [genusfaith_fetch] PULL FAILED - repo co the dang ket o trang thai xung dot.
+  echo   Kiem tra:  git status
+  call :log PULL_FAILED
+  exit /b 1
+)
+
+REM 4) Chay job fetch
 python genusfaith-local-fetch\genusfaith_fetch.py
 if errorlevel 1 (
-  echo [genusfaith_fetch] FAIL toan bo - khong push, cloud se carry so cu
+  echo [genusfaith_fetch] FETCH FAIL toan bo - khong push, cloud se chay che do suy giam
+  call :log FETCH_FAILED
   exit /b 1
 )
 
-REM 3) commit + pull --rebase + push (CHI 2 file cua job nay, TUYET DOI KHONG git add -A)
+REM 5) Commit CHI file cua job nay (KHONG add -A)
 git add genusfaith-live-fetch.json genusfaith-local-fetch/fetch_log.txt
 git commit -m "genusfaith pc-fetch %date% %time%"
+
+REM 6) Dong bo lan cuoi roi push
 git pull --rebase origin main
+if errorlevel 1 (
+  echo [genusfaith_fetch] PULL truoc khi push FAILED - dung lai, khong push mu.
+  call :log PULL2_FAILED
+  exit /b 1
+)
 git push origin HEAD:main
 if errorlevel 1 (
-  echo [genusfaith_fetch] PUSH FAILED - kiem tra remote URL co PAT that chua:
-  echo   git remote set-url origin "https://x-access-token:TOKEN@github.com/GerberaPrints/foxera-daily.git"
+  echo [genusfaith_fetch] PUSH FAILED - token cua clone nay con song khong?
+  echo   Chay:  D:\FoxEra\fix_github_token.bat   (cam token vao CA HAI clone)
+  call :log PUSH_FAILED
   exit /b 1
 )
 
-echo [genusfaith_fetch] DONE
+REM 7) Xac nhan that su len remote - chan bao DONE gia
+git diff --quiet HEAD origin/main
+if errorlevel 1 (
+  echo [genusfaith_fetch] CANH BAO: local va origin/main van khac nhau sau khi push.
+  call :log PUSH_UNVERIFIED
+  exit /b 1
+)
+
+call :log OK
+echo [genusfaith_fetch] DONE - da xac nhan len remote
+exit /b 0
+
+:log
+if not exist "D:\FoxEra\logs" mkdir "D:\FoxEra\logs"
+>>"%PUSHLOG%" echo %date% %time% ^| genusfaith ^| %~1
+goto :eof
