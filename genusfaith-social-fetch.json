@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-11",
- "fetched_at": "2026-09-11T11:23:16.741644+07:00",
+ "date": "2026-09-12",
+ "fetched_at": "2026-09-12T04:15:03.007733+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -19,15 +19,6 @@
      "selftext_head": ""
     },
     {
-     "title": "\"Today we celebrate the birth of a little girl who would be called to become the Mother of Her Creator, the Mother of God.\" - Pope Leo XIV",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1waq1zn/today_we_celebrate_the_birth_of_a_little_girl_who/",
-     "selftext_head": ""
-    },
-    {
      "title": "Catholic In Japan",
      "score": null,
      "num_comments": null,
@@ -37,30 +28,21 @@
      "selftext_head": ""
     },
     {
+     "title": "\"Today we celebrate the birth of a little girl who would be called to become the Mother of Her Creator, the Mother of God.\" - Pope Leo XIV",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1waq1zn/today_we_celebrate_the_birth_of_a_little_girl_who/",
+     "selftext_head": ""
+    },
+    {
      "title": "(Free Friday) Jesus playing with His cousin",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7pl7h/free_friday_jesus_playing_with_his_cousin/",
-     "selftext_head": ""
-    },
-    {
-     "title": "[Free Friday] I’m almost finished with my painting of the birth of Jesus, with the focus on Joseph. What do you think so far?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w76qq5/free_friday_im_almost_finished_with_my_painting/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Restoring Of Beauty",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w6xmh9/restoring_of_beauty/",
      "selftext_head": ""
     },
     {
@@ -109,15 +91,6 @@
      "selftext_head": ""
     },
     {
-     "title": "New icon of the Holy Family that I bought in Rome just outside the Vatican",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w74dkf/new_icon_of_the_holy_family_that_i_bought_in_rome/",
-     "selftext_head": ""
-    },
-    {
      "title": "Please pray for the holiness of the Church in Singapore and me",
      "score": null,
      "num_comments": null,
@@ -143,6 +116,33 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wa4zcw/is_this_a_disrespectful_crucifix/",
      "selftext_head": ""
+    },
+    {
+     "title": "A celebration our lady the Virgin Mary September 8th",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wazhdq/a_celebration_our_lady_the_virgin_mary_september/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Exclusive | NJ teen set on priesthood had vision of Virgin Mary before his tumor miraculously shrank",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wbh5j7/exclusive_nj_teen_set_on_priesthood_had_vision_of/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Ecumenical Patriarch: We await the restoration of full communion with the Church of Rome",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w9ca84/ecumenical_patriarch_we_await_the_restoration_of/",
+     "selftext_head": ""
     }
    ]
   }
@@ -166,12 +166,12 @@
    "rosary bracelet mens",
    "rosary bracelet women",
    "rosary bracelet gold",
-   "rosary bracelet beads",
-   "rosary bracelet pattern",
-   "rosary bracelet silver",
-   "rosary bracelet australia",
    "rosary bracelet magnetic",
-   "rosary bracelet tattoo"
+   "rosary bracelet silver",
+   "rosary bracelet pattern",
+   "rosary bracelet tattoo",
+   "rosary bracelet catholic",
+   "rosary bracelet near me"
   ],
   "christian gift for her": [
    "christian gift for her",
@@ -200,7 +200,7 @@
   "baptism gift": [
    "baptism gifts",
    "baptism gifts for boys",
-   "baptism gifts for girls",
+   "baptism gift for girl",
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
@@ -236,7 +236,7 @@
   "first communion gift": [
    "first communion gifts",
    "first communion gifts for boys",
-   "first communion gifts for girls",
+   "first communion gifts for girl",
    "first communion gift ideas",
    "first communion gifts near me",
    "first communion gifts for boys catholic",
@@ -247,6 +247,7 @@
   ],
   "catholic wedding gift": [
    "catholic wedding gifts",
+   "catholic wedding gift ideas",
    "catholic wedding gifts for couples",
    "catholic wedding gift ideas for couple",
    "catholic wedding gift for wife",
@@ -254,8 +255,7 @@
    "catholic wedding gifts rituals",
    "catholic wedding gift bearers",
    "catholic wedding gifts for bride",
-   "catholic wedding gift for husband",
-   "catholic wedding gift for the poor"
+   "catholic wedding gift for husband"
   ],
   "christian tote bag": [
    "christian tote bags",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "내일 날씨",
-  "aster",
-  "gal gadot",
-  "joe digenova",
-  "jhene aiko new album",
-  "carin leon",
-  "jimmy kimmel youtube",
-  "silo - season 3",
-  "jared goff",
-  "new moon september 2026"
+  "kansas football",
+  "iphone duo iphone 18 pro",
+  "atlanta weather",
+  "malik nabers",
+  "championship",
+  "reflecting pool damage contractor report",
+  "woody harrelson",
+  "sony playstation",
+  "call of duty",
+  "d&apos;andre swift"
  ],
  "errors": []
 }
