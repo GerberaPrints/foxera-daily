@@ -1,7 +1,7 @@
 @echo off
 setlocal
 REM ============================================================
-REM run_daily_scan.bat - FoxEra shop scan   v2 (11/09/2026)
+REM run_daily_scan.bat - FoxEra shop scan   v2.1 (11/09/2026)
 REM
 REM   Task Scheduler: "FoxEra shop scan" 04:00
 REM   Quet 161 shop Etsy bang Chromium that, che do --auto.
@@ -51,6 +51,15 @@ python local-verify\verify_shops.py --auto
 if errorlevel 1 (
   echo [shopscan] SCAN FAILED - khong push. Kiem verify_shops.py con nguyen khong.
   call :log SCAN_FAILED
+  exit /b 1
+)
+
+REM 4b- CONG CHAN: bi Etsy chan bot thi so lieu la rac -> KHONG commit, KHONG push.
+REM     11/09/2026 ban quet tra 0/161 shop song, da push nguyen so rac len main.
+python local-verify\scan_gate.py
+if errorlevel 1 (
+  echo [shopscan] DUNG - ket qua quet khong dung duoc. Khong commit, khong push.
+  call :log SCAN_BLOCKED
   exit /b 1
 )
 
