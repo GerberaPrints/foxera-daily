@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-11",
- "fetched_at": "2026-09-11T11:09:26.336395+07:00",
+ "date": "2026-09-12",
+ "fetched_at": "2026-09-12T04:45:03.270733+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "I say we need more of this out on the course!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w7efrp/i_say_we_need_more_of_this_out_on_the_course/",
-     "selftext_head": ""
-    },
     {
      "title": "Fingagolf Open Championship 2026 - Final 3 Hole Playoff",
      "score": null,
@@ -28,12 +19,30 @@
      "selftext_head": ""
     },
     {
-     "title": "USGA is a joke",
+     "title": "Golfer Collin Morikawa creating core memory for young fan.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w777bh/usga_is_a_joke/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wdf6j0/golfer_collin_morikawa_creating_core_memory_for/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Who is cooler than Fred Couples? Closest to the pin challenge at the Sanford Invitational this week, doesn’t even need to watch",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wd0dn5/who_is_cooler_than_fred_couples_closest_to_the/",
+     "selftext_head": ""
+    },
+    {
+     "title": "\"Why do people play golf?\" Sean Connery was once asked, and he gave a brilliant answer.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wck5aa/why_do_people_play_golf_sean_connery_was_once/",
      "selftext_head": ""
     },
     {
@@ -64,30 +73,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Albatross Alert: Thomas Detry with a big bird from 232 yards at the Irish Open (DP World Tour)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wcpsop/albatross_alert_thomas_detry_with_a_big_bird_from/",
+     "selftext_head": ""
+    },
+    {
      "title": "Ludvig Åberg grades celebrity swings",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1waoc41/ludvig_åberg_grades_celebrity_swings/",
-     "selftext_head": ""
-    },
-    {
-     "title": "\"Why do people play golf?\" Sean Connery was once asked, and he gave a brilliant answer.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wck5aa/why_do_people_play_golf_sean_connery_was_once/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Excellent use of pledge hazing",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w783c7/excellent_use_of_pledge_hazing/",
      "selftext_head": ""
     },
     {
@@ -109,21 +109,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Who is cooler than Fred Couples? Closest to the pin challenge at the Sanford Invitational this week, doesn’t even need to watch",
+     "title": "This angle is perfection and should be the standard for TV broadcast",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wd0dn5/who_is_cooler_than_fred_couples_closest_to_the/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Albatross Alert: Thomas Detry with a big bird from 232 yards at the Irish Open (DP World Tour)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wcpsop/albatross_alert_thomas_detry_with_a_big_bird_from/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wdroda/this_angle_is_perfection_and_should_be_the/",
      "selftext_head": ""
     },
     {
@@ -142,6 +133,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wbpx9x/justin_thomas_endorses_pricks_at_golf_courses/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Why do some smokers make their disgusting habit everyone else's problem?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wb0yy3/why_do_some_smokers_make_their_disgusting_habit/",
      "selftext_head": ""
     }
    ]
@@ -244,16 +244,16 @@
    "golf towels with funny sayings"
   ],
   "bachelor party golf": [
+   "bachelor party golf shirts",
    "bachelor party golf trips",
    "bachelor party golf balls",
-   "bachelor party golf shirts",
-   "bachelor party golf gifts",
    "bachelor party golf ideas",
+   "bachelor party golf gifts",
    "bachelor party golf games",
    "bachelor party golf hats",
-   "bachelor party golf polos",
+   "bachelor party golf",
    "bachelor party golf packages",
-   "bachelor party golf"
+   "bachelor party golf polos"
   ],
   "golf gift for boss": [
    "golf gift for boss",
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "jimmy kimmel youtube",
-  "carin leon",
-  "silo - season 3",
-  "jared goff",
-  "project runway",
-  "new moon september 2026",
-  "stetson bennett",
-  "did coco gauff win today",
-  "pumas",
-  "nate landman"
+  "austin weather",
+  "pete sampras",
+  "boston college football",
+  "jenna bush hager",
+  "franco mastantuono",
+  "united states golf association",
+  "kansas football",
+  "iphone duo iphone 18 pro",
+  "atlanta weather",
+  "malik nabers"
  ],
  "errors": []
 }
