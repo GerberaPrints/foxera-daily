@@ -2,13 +2,22 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-10",
- "fetched_at": "2026-09-10T08:34:48.034500+07:00",
+ "date": "2026-09-11",
+ "fetched_at": "2026-09-11T11:23:16.741644+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "My 15th anniversary as a bishop",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wci35x/my_15th_anniversary_as_a_bishop/",
+     "selftext_head": ""
+    },
     {
      "title": "\"Today we celebrate the birth of a little girl who would be called to become the Mother of Her Creator, the Mother of God.\" - Pope Leo XIV",
      "score": null,
@@ -16,6 +25,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1waq1zn/today_we_celebrate_the_birth_of_a_little_girl_who/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Catholic In Japan",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wcjryn/catholic_in_japan/",
      "selftext_head": ""
     },
     {
@@ -43,6 +61,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w6xmh9/restoring_of_beauty/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Happy feast day of St. Peter Claver, the slave of the slaves!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wbhiva/happy_feast_day_of_st_peter_claver_the_slave_of/",
      "selftext_head": ""
     },
     {
@@ -82,15 +109,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Happy feast day of St. Peter Claver, the slave of the slaves!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wbhiva/happy_feast_day_of_st_peter_claver_the_slave_of/",
-     "selftext_head": ""
-    },
-    {
      "title": "New icon of the Holy Family that I bought in Rome just outside the Vatican",
      "score": null,
      "num_comments": null,
@@ -125,24 +143,6 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wa4zcw/is_this_a_disrespectful_crucifix/",
      "selftext_head": ""
-    },
-    {
-     "title": "Today's the Memorial of Pope St. Gregory the Great (d. 604). Doctor of the Church and first monk to become Pope. Attributed namesake of Gregorian Chant. Reformer of the Mass. Contributing author to the Presanctified Divine Liturgy. Patron saint of musicians, singers, students, and teachers.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w689tq/todays_the_memorial_of_pope_st_gregory_the_great/",
-     "selftext_head": ""
-    },
-    {
-     "title": "A celebration our lady the Virgin Mary September 8th",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wazhdq/a_celebration_our_lady_the_virgin_mary_september/",
-     "selftext_head": ""
     }
    ]
   }
@@ -166,12 +166,12 @@
    "rosary bracelet mens",
    "rosary bracelet women",
    "rosary bracelet gold",
-   "rosary bracelet magnetic",
-   "rosary bracelet silver",
+   "rosary bracelet beads",
    "rosary bracelet pattern",
-   "rosary bracelet tattoo",
-   "rosary bracelet catholic",
-   "rosary bracelet near me"
+   "rosary bracelet silver",
+   "rosary bracelet australia",
+   "rosary bracelet magnetic",
+   "rosary bracelet tattoo"
   ],
   "christian gift for her": [
    "christian gift for her",
@@ -190,12 +190,12 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gifts for teenage boys",
-   "confirmation gifts catholic",
-   "confirmation gifts for teen girls",
+   "confirmation gifts of the holy spirit",
    "confirmation gifts for adults",
-   "confirmation gift ideas for girls",
-   "confirmation gifts near me"
+   "confirmation gifts from sponsor",
+   "confirmation gift ideas for boy",
+   "confirmation gifts catholic",
+   "confirmation gifts for teenage boys"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -204,10 +204,10 @@
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
-   "baptism gifts from godparents",
+   "baptism gift for baby boy",
    "baptism gifts near me",
-   "baptism gift for adult male",
-   "baptism gifts for teen girl"
+   "baptism gifts from godparents",
+   "baptism gift from godmother"
   ],
   "catholic home decor": [
    "catholic home decor",
@@ -236,7 +236,7 @@
   "first communion gift": [
    "first communion gifts",
    "first communion gifts for boys",
-   "first communion gifts for girl",
+   "first communion gifts for girls",
    "first communion gift ideas",
    "first communion gifts near me",
    "first communion gifts for boys catholic",
@@ -247,7 +247,6 @@
   ],
   "catholic wedding gift": [
    "catholic wedding gifts",
-   "catholic wedding gift ideas",
    "catholic wedding gifts for couples",
    "catholic wedding gift ideas for couple",
    "catholic wedding gift for wife",
@@ -255,7 +254,8 @@
    "catholic wedding gifts rituals",
    "catholic wedding gift bearers",
    "catholic wedding gifts for bride",
-   "catholic wedding gift for husband"
+   "catholic wedding gift for husband",
+   "catholic wedding gift for the poor"
   ],
   "christian tote bag": [
    "christian tote bags",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "phillies",
-  "caleb lomu",
-  "alec baldwin",
-  "peyton manning",
-  "wolverine ps5",
-  "emanuel wilson",
-  "gobierno",
-  "lan larison",
-  "corey kiner",
-  "tom brady"
+  "내일 날씨",
+  "aster",
+  "gal gadot",
+  "joe digenova",
+  "jhene aiko new album",
+  "carin leon",
+  "jimmy kimmel youtube",
+  "silo - season 3",
+  "jared goff",
+  "new moon september 2026"
  ],
  "errors": []
 }
