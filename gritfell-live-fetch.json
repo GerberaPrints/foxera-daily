@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-11",
- "fetched_at": "2026-09-11T11:10:17.336090+07:00",
+ "date": "2026-09-12",
+ "fetched_at": "2026-09-12T04:30:02.744066+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 114,
@@ -1382,6 +1382,51 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Corduroy 5-Panel Hat - TB Ducks",
+     "handle": "corduroy-5-panel-hat-tb-ducks",
+     "type": "Hats",
+     "tags": [
+      "field sport",
+      "FW2026ZR",
+      "HATSZR",
+      "HUNTZR",
+      "MENZR",
+      "MFIELDZR",
+      "MHATZR",
+      "MNEWZR",
+      "WFIELDZR",
+      "WHATZR",
+      "WNEWZR",
+      "WOMENZR"
+     ],
+     "price": "55.00",
+     "published_at": "2026-09-11T15:30:20-05:00"
+    },
+    {
+     "title": "Leather LoPro Shell Bag",
+     "handle": "leather-lopro-shell-bag",
+     "type": "Misc.",
+     "tags": [
+      "BAGZR",
+      "field sport",
+      "FW2026ZR",
+      "HUNTBAGZR",
+      "HUNTZR",
+      "LEATHERGIFTZR",
+      "LEATHERZR",
+      "MENZR",
+      "MFIELDZR",
+      "MNEWZR",
+      "SPORTSMANGIFTZR",
+      "UPHUNTGIFTZR",
+      "UPLANDZR",
+      "WFIELDZR",
+      "WOMENZR"
+     ],
+     "price": "175.00",
+     "published_at": "2026-09-11T15:06:35-05:00"
+    },
+    {
      "title": "Water Bottle Carrier in Mossy Oak Original Bottomland",
      "handle": "water-bottle-carrier-in-mossy-oak-original-bottomland",
      "type": "Misc.",
@@ -1453,59 +1498,6 @@
      ],
      "price": "695.00",
      "published_at": "2026-09-03T11:18:16-05:00"
-    },
-    {
-     "title": "Large Clip Game Strap",
-     "handle": "large-clip-game-strap",
-     "type": "Misc.",
-     "tags": [
-      "Accessories",
-      "ACCESSZR",
-      "alabama",
-      "all-season",
-      "early-season",
-      "Essential",
-      "fall",
-      "field sport",
-      "fieldsport",
-      "GIFTS100ZR",
-      "Hunting",
-      "HUNTZR",
-      "leather",
-      "LEATHERGIFTZR",
-      "LEATHERZR",
-      "MENZR",
-      "MFIELDZR",
-      "UNDER100ZR",
-      "UPHUNTGIFTZR",
-      "UPLANDZR",
-      "waterfowl",
-      "WATERFOWLZR",
-      "WFIELDZR",
-      "WFOWLGIFTZR",
-      "WINGSHOOTZR"
-     ],
-     "price": "55.00",
-     "published_at": "2026-09-02T19:24:29-05:00"
-    },
-    {
-     "title": "Conecuh Sausage Cotton Twill 6-Panel Hat",
-     "handle": "conecuh-sausage-cotton-twill-6-panel-hat",
-     "type": "Hats",
-     "tags": [
-      "CONECUHZR",
-      "FW2026ZR",
-      "HATSZR",
-      "MENZR",
-      "MHATZR",
-      "MNEWZR",
-      "SS2026ZR",
-      "WHATZR",
-      "WNEWZR",
-      "WOMENZR"
-     ],
-     "price": "45.00",
-     "published_at": "2026-08-31T10:45:20-05:00"
     }
    ]
   },
@@ -1823,23 +1815,25 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Men's Bamboo Lightweight Fleece Hoodie - Dash Double Stripe Birch",
-     "handle": "mens-bamboo-lightweight-fleece-hoodie-dash-double-stripe-birch",
-     "type": "Men's",
+     "title": "Women's Bamboo Lightweight Hoodie II - Ocean Mist",
+     "handle": "womens-bamboo-lightweight-hoodie-ii-ocean-mist",
+     "type": "Women's",
      "tags": [
       "discounts::none",
-      "excMLWFLH",
+      "excWLWH",
       "final-sale",
       "final_sale",
+      "flag::Bestseller",
       "flag::final sale",
-      "pdp_group: men-bamboo-fleece",
+      "pdp_group: women-bamboo-lightweight",
       "Pro-Exclude-Discount",
-      "product_style: Mens Bamboo Lightweight Fleece Hoodie",
+      "product_style: Womens Bamboo Lightweight Hoodie II",
       "returns::none",
-      "SP26"
+      "SP25",
+      "women-bamboo-lightweight"
      ],
-     "price": "84.99",
-     "published_at": "2026-09-10T13:38:12-04:00"
+     "price": "59.99",
+     "published_at": "2026-09-11T10:29:34-04:00"
     },
     {
      "title": "Men's Bamboo Hybrid Hoodie - Storm Cloud / Desert Tan",
@@ -1858,26 +1852,6 @@
      ],
      "price": "59.99",
      "published_at": "2026-09-09T16:38:28-04:00"
-    },
-    {
-     "title": "Women's Bamboo-Lined Active Breeze Skort – 13\" - Sea Pine",
-     "handle": "womens-bamboo-lined-active-breeze-skort-13-sea-pine",
-     "type": "Women's",
-     "tags": [
-      "discounts::none",
-      "excWLABZ",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "pdp_group: women-active-breeze-skort",
-      "Pro-Exclude-Discount",
-      "product_style: Womens Bamboo Lined Active Breeze Skort 13",
-      "returns::none",
-      "SP26",
-      "women-active-breeze"
-     ],
-     "price": "59.99",
-     "published_at": "2026-09-09T16:36:39-04:00"
     },
     {
      "title": "Men's Bamboo Current Polo - Bright White",
@@ -1917,12 +1891,74 @@
      ],
      "price": "40.60",
      "published_at": "2026-09-09T16:32:47-04:00"
+    },
+    {
+     "title": "Women's Reverb Short - Sand Dune",
+     "handle": "womens-reverb-short-sand-dune",
+     "type": "Women's",
+     "tags": [
+      "care::bamboo",
+      "collection::women",
+      "color-category::New",
+      "discounts::none",
+      "final-sale",
+      "final_sale",
+      "flag::final sale",
+      "Pro-Exclude-Discount",
+      "product_style: Womens Reverb Short",
+      "R-SP24W",
+      "returns::none",
+      "Reverb",
+      "SP24"
+     ],
+     "price": "25.00",
+     "published_at": "2026-09-09T16:21:57-04:00"
     }
    ]
   },
   "BURLEBO": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Performance Hoodie - Gun Metal Grey",
+     "handle": "performance-hoodie-gun-metal-grey",
+     "type": "Performance Hoodie",
+     "tags": [
+      "8/4/26",
+      "B2B_Active",
+      "B2B_Sync",
+      "BlinkAutoHide",
+      "Camo",
+      "hide-notify-btn",
+      "hide-preorder-btn",
+      "Long Sleeve",
+      "pdqreview",
+      "Performance Hoodie",
+      "PREBOOK START: 06/01/2026",
+      "retail",
+      "Tops",
+      "wholesale"
+     ],
+     "price": "68.00",
+     "published_at": "2026-09-11T11:24:22-05:00"
+    },
+    {
+     "title": "Boxer Briefs - Classic Deer Camo, Digi Camo Navy, Flying Mallards Green",
+     "handle": "boxer-briefs-sp26",
+     "type": "Boxers",
+     "tags": [
+      "Accessories",
+      "BassPro",
+      "Boxers",
+      "Feb1",
+      "retail",
+      "Season SPRING26",
+      "Spring 26",
+      "wholesale"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-11T10:46:34-05:00"
+    },
     {
      "title": "Father and Son Bundle - Sherpa Mountain Fleece - Wave on Wave",
      "handle": "father-and-son-bundle-sherpa-mountain-fleece-wave-on-wave",
@@ -1981,73 +2017,6 @@
      ],
      "price": "49.00",
      "published_at": "2026-09-10T09:54:52-05:00"
-    },
-    {
-     "title": "Fleece Hoodie - Classic Deer Camo",
-     "handle": "fleece-hoodie-deer-camo",
-     "type": "Fleece Hoodie",
-     "tags": [
-      "9/10/26",
-      "9/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "Bass Pro",
-      "BassPro",
-      "BlinkAutoHide",
-      "classic-deer-camo",
-      "Core",
-      "FALL CORE",
-      "Hooded",
-      "Hunting",
-      "Logo",
-      "Mia Review",
-      "Oatmeal",
-      "Outerwear",
-      "Outerwear Top",
-      "pdqreview",
-      "PREBOOK START: 08/01/2026",
-      "retail",
-      "Season Core",
-      "Season Fall26",
-      "Sweatshirt",
-      "Tops",
-      "wholesale"
-     ],
-     "price": "68.00",
-     "published_at": "2026-09-10T09:54:52-05:00"
-    },
-    {
-     "title": "Fleece Jogger - Classic Deer Camo",
-     "handle": "fleece-joggers-classic-deer-camo",
-     "type": "Fleece Joggers",
-     "tags": [
-      "9/10/26",
-      "9/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "Bass Pro",
-      "BassPro",
-      "Bottoms",
-      "Camo",
-      "Core",
-      "Duck",
-      "FALL CORE",
-      "FALL21",
-      "Fleece Joggers",
-      "hide-notify-btn",
-      "Mia Review",
-      "Outerwear",
-      "Outerwear Bottom",
-      "pdqreview",
-      "PREBOOK START: 08/01/2026",
-      "retail",
-      "retro",
-      "Season Core",
-      "Season Fall26",
-      "wholesale"
-     ],
-     "price": "68.00",
-     "published_at": "2026-09-10T09:54:52-05:00"
     }
    ]
   },
@@ -2067,7 +2036,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2630000",
+     "price": "2631000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2080,7 +2049,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5261000",
+     "price": "5262000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2117,7 +2086,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1578000",
+     "price": "1579000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2125,6 +2094,14 @@
   "Hunthide": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Mourning Dove Camo Hoodie - Sunflower Field Break-Up Camo",
+     "handle": "mourning-dove-camo-hoodie-sunflower-field-break-up-camo",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-11T01:08:15-07:00"
+    },
     {
      "title": "Bull Elk Bugling Snow Camo Hoodie - Realistic Winter Camouflage",
      "handle": "bull-elk-bugling-snow-camo-hoodie-realistic-winter-camouflage",
@@ -2160,20 +2137,34 @@
      "tags": [],
      "price": "69.95",
      "published_at": "2026-09-10T00:51:11-07:00"
-    },
-    {
-     "title": "Bull Moose Camo Hoodie — All-Over North Woods Scene Print, Moose Hunting Gift",
-     "handle": "bull-moose-camo-hoodie-all-over-north-woods-scene-print-moose-hunting-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-10T00:47:47-07:00"
     }
    ]
   },
   "Huntdad": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Elk hunting camo polo shirt VC1109",
+     "handle": "elk-hunting-camo-polo-shirt-vc1109",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-09-11T04:52:20-06:00"
+    },
+    {
+     "title": "Bottomland Camo Goose Polo Shirt VCP1042",
+     "handle": "bottomland-camo-goose-polo-shirt-vcp1042",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-09-11T04:44:06-06:00"
+    },
     {
      "title": "3D Leafy Camouflage Ghillie Suit for Hunting",
      "handle": "3d-leafy-camouflage-ghillie-suit-for-hunting",
@@ -2203,28 +2194,6 @@
      ],
      "price": "39.99",
      "published_at": "2026-09-10T02:39:34-06:00"
-    },
-    {
-     "title": "Dove Field Camouflage Dark Polo Shirt VCP1043",
-     "handle": "dove-field-camouflage-dark-polo-shirt-vcp1043",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-09-10T02:30:42-06:00"
-    },
-    {
-     "title": "Tactical Hexagonal Deer Hunting Camo Polo Shirt VCP1042",
-     "handle": "tactical-hexagonal-deer-hunting-camo-polo-shirt-vcp1042",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-09-10T02:22:35-06:00"
     }
    ]
   },
@@ -2324,14 +2293,14 @@
     "Tracking updates may take 2-5 business days to appear after the carrier receives your package."
    ],
    "https://gritfell.com/policies/refund-policy": [
-    "Free Ground Shipping on Order $75+ Refund policy If you have any issues with your order, please contact our Customer Support team at support@gritfell.com to start a request.",
-    "For additional information regarding returns, exchanges, and refunds, please review the policy below.",
-    "Return We accept returns for both defective and non-defective products.",
-    "You may request a return or refund within 60 days of delivery.",
-    "Returned items must be unused, unwashed, and in their original condition, including the original packaging if applicable.",
-    "Items that are washed, worn, damaged, or missing original packaging will not be eligible for a refund or replacement and may be forfeited.",
-    "For requests involving refunds, returns, or reshipments, we reserve the right to approve or reject requests if they are determined to be unjustified.",
-    "Please note that refunds or replacements will not be issued for issues that are not caused by our error."
+    "Free Ground Shipping on Order $75+ Refund policy At GritFell, we want you to be satisfied with your order.",
+    "If there is an issue with the product you received, please contact our Customer Support team at support@gritfell.com before returning any item.",
+    "60-Day Return Policy Eligible products may be returned within 60 days from the date of delivery.",
+    "Free Returns for Eligible Orders If your return is approved because the product is defective, damaged, incorrect, or the issue was caused by GritFell, there will be no return shipping cost to you.",
+    "Our Customer Support team will provide the appropriate return instructions after reviewing and approving your request.",
+    "How to Start a Return Do not automatically send your order back to the original shipping address, warehouse address, manufacturer, or the address shown on your package.",
+    "Returns sent without prior authorization or sent to an incorrect or unauthorized address are not our responsibility.",
+    "GritFell is not responsible for products that are lost, delayed, or undeliverable because they were returned without following our return instructions."
    ]
   },
   "Duck Camp": {
