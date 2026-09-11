@@ -1632,3 +1632,164 @@
 {"date": "2026-08-14", "code": "E4", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
 {"date": "2026-08-14", "code": "E137", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
 {"date": "2026-08-14", "code": "E5", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "exception: TimeoutError"}
+{"date": "2026-09-11", "code": "E29", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E26", "status": "not_selling", "sales": 92, "rating": 3.5, "reviews": 13, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E24", "status": "not_selling", "sales": 101, "rating": 3.5, "reviews": 16, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E169", "status": "not_selling", "sales": 2, "rating": 1.0, "reviews": 1, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E135", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E114", "status": "not_selling", "sales": 3, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E109", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E84", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E47", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E43", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E42", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E1", "status": "not_selling", "sales": 620, "rating": 4.5, "reviews": 113, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E4", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E257", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E193", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E81", "status": "not_selling", "sales": 3, "rating": 5.0, "reviews": 1, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E119", "status": "not_selling", "sales": 2, "rating": 5.0, "reviews": 1, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E80", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E85", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E93", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=366)"}
+{"date": "2026-09-11", "code": "E92", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E55", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E62", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E188", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=368)"}
+{"date": "2026-09-11", "code": "E172", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E61", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E127", "status": "not_selling", "sales": null, "rating": 5.0, "reviews": 1, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E146", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=368)"}
+{"date": "2026-09-11", "code": "E155", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E190", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E107", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E77", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E150", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=364)"}
+{"date": "2026-09-11", "code": "E48", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E185", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E238", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E237", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E236", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E235", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E233", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E232", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E208", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E202", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E204", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=366)"}
+{"date": "2026-09-11", "code": "E205", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E206", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E207", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E196", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E197", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E198", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E199", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E200", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E201", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E239", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E240", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=364)"}
+{"date": "2026-09-11", "code": "E195", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E248", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E249", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E250", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E252", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E253", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E254", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E256", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E243", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E244", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E245", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E246", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E247", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E189", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E163", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=364)"}
+{"date": "2026-09-11", "code": "E152", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E138", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=366)"}
+{"date": "2026-09-11", "code": "E137", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=366)"}
+{"date": "2026-09-11", "code": "E133", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E100", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=366)"}
+{"date": "2026-09-11", "code": "E66", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E35", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E288", "status": "not_selling", "sales": 10, "rating": 5.0, "reviews": 4, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E187", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=364)"}
+{"date": "2026-09-11", "code": "E180", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=360)"}
+{"date": "2026-09-11", "code": "E166", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E165", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=360)"}
+{"date": "2026-09-11", "code": "E149", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E148", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E134", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E121", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=366)"}
+{"date": "2026-09-11", "code": "E103", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E76", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E75", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E74", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=368)"}
+{"date": "2026-09-11", "code": "E73", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E53", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=360)"}
+{"date": "2026-09-11", "code": "E52", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E49", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E46", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=366)"}
+{"date": "2026-09-11", "code": "E203", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E167", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E147", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=360)"}
+{"date": "2026-09-11", "code": "E136", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=360)"}
+{"date": "2026-09-11", "code": "E131", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E125", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=368)"}
+{"date": "2026-09-11", "code": "E181", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E173", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=368)"}
+{"date": "2026-09-11", "code": "E78", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E56", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=366)"}
+{"date": "2026-09-11", "code": "E54", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=364)"}
+{"date": "2026-09-11", "code": "E51", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=360)"}
+{"date": "2026-09-11", "code": "E50", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E40", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=364)"}
+{"date": "2026-09-11", "code": "E39", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E38", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=364)"}
+{"date": "2026-09-11", "code": "E183", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=368)"}
+{"date": "2026-09-11", "code": "E192", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E177", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E171", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E156", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=366)"}
+{"date": "2026-09-11", "code": "E143", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E140", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=366)"}
+{"date": "2026-09-11", "code": "E128", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E120", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E108", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E106", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E83", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=368)"}
+{"date": "2026-09-11", "code": "E82", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E79", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=366)"}
+{"date": "2026-09-11", "code": "E45", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E44", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E227", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E217", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=368)"}
+{"date": "2026-09-11", "code": "E273", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E272", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E271", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=368)"}
+{"date": "2026-09-11", "code": "E270", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E269", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=366)"}
+{"date": "2026-09-11", "code": "E268", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E266", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E265", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E264", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E263", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E262", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E261", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E260", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E258", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E226", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E194", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E280", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=368)"}
+{"date": "2026-09-11", "code": "E279", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E278", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E277", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E276", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E275", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E274", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=364)"}
+{"date": "2026-09-11", "code": "E287", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=370)"}
+{"date": "2026-09-11", "code": "E286", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-09-11", "code": "E285", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E284", "status": "unknown", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "trang chua render du (len=362)"}
+{"date": "2026-09-11", "code": "E3", "status": "not_selling", "sales": 337, "rating": 4.0, "reviews": 37, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E5", "status": "not_selling", "sales": 415, "rating": 4.5, "reviews": 71, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E22", "status": "not_selling", "sales": 30, "rating": 5.0, "reviews": 4, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E32", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-09-11", "code": "E37", "status": "not_selling", "sales": 2, "rating": 1.0, "reviews": 1, "listings": null, "evidence": "cau trang thai nguyen van"}
