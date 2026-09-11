@@ -2,7 +2,7 @@
  "schema_version": "1.1",
  "source": "pc-local (gerbera_fetch.py, Task Scheduler)",
  "date": "2026-09-11",
- "fetched_at": "2026-09-11T06:45:03.639241+07:00",
+ "fetched_at": "2026-09-11T08:27:46.787570+07:00",
  "locale_note": "US/USD (products.json shop default) — máy quét ở VN, giá feed theo market mặc định shop",
  "feeds": {
   "Bogey Bros": {
@@ -453,7 +453,7 @@
   },
   "Bad Birdie": {
    "url": "https://badbirdiegolf.com/collections/polos/products.json?limit=250",
-   "sku_count": 74,
+   "sku_count": 75,
    "mode_price": 88.0,
    "price_distribution": {
     "88.00": 212,
@@ -490,7 +490,7 @@
    {
     "title": "Accessories",
     "handle": "accessories",
-    "updated_at": "2026-09-10T06:12:05-05:00",
+    "updated_at": "2026-09-10T20:06:11-05:00",
     "published_at": "2024-04-29T12:24:09-05:00",
     "products_count": 174
    },
@@ -721,7 +721,7 @@
    {
     "title": "Polo Shirts",
     "handle": "funny-golf-polo-shirts",
-    "updated_at": "2026-09-10T13:32:29-05:00",
+    "updated_at": "2026-09-10T19:30:11-05:00",
     "published_at": "2022-09-23T08:41:35-05:00",
     "products_count": 246
    },
@@ -784,7 +784,7 @@
    {
     "title": "Spring '26 Collection",
     "handle": "spring-26",
-    "updated_at": "2026-09-10T13:32:29-05:00",
+    "updated_at": "2026-09-10T19:48:11-05:00",
     "published_at": "2026-04-10T14:50:26-05:00",
     "products_count": 35
    },
@@ -1143,9 +1143,9 @@
    {
     "title": "Best Sellers",
     "handle": "best-sellers",
-    "updated_at": "2026-09-10T05:10:06-07:00",
+    "updated_at": "2026-09-10T17:07:02-07:00",
     "published_at": "2024-11-21T10:25:19-07:00",
-    "products_count": 191
+    "products_count": 188
    },
    {
     "title": "Bird's Nest Bad Saloon",
@@ -1528,9 +1528,9 @@
    {
     "title": "Golf Polos",
     "handle": "polos",
-    "updated_at": "2026-09-10T13:30:20-07:00",
+    "updated_at": "2026-09-10T17:08:44-07:00",
     "published_at": "2017-11-24T00:39:17-07:00",
-    "products_count": 119
+    "products_count": 120
    },
    {
     "title": "Golf Rain Gear",
@@ -1976,9 +1976,9 @@
    {
     "title": "Men's Top Sellers",
     "handle": "top-selling-golf-apparel-for-men",
-    "updated_at": "2026-09-10T04:03:30-07:00",
+    "updated_at": "2026-09-10T17:04:24-07:00",
     "published_at": "2024-11-14T10:42:18-07:00",
-    "products_count": 105
+    "products_count": 104
    },
    {
     "title": "Men's Tops",
@@ -2102,7 +2102,7 @@
    {
     "title": "On-Course Polos",
     "handle": "on-course-polos",
-    "updated_at": "2026-09-10T15:11:35-07:00",
+    "updated_at": "2026-09-10T17:11:25-07:00",
     "published_at": "2025-01-17T12:27:21-07:00",
     "products_count": 522
    },
@@ -5118,7 +5118,7 @@
    {
     "title": "All Gear",
     "handle": "all-products",
-    "updated_at": "2026-09-10T11:55:51-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2020-09-26T13:39:34-04:00",
     "products_count": 332
    },
@@ -5146,21 +5146,21 @@
    {
     "title": "Best Sellers",
     "handle": "best-sellers",
-    "updated_at": "2026-09-10T11:55:51-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2025-11-03T18:07:03-05:00",
     "products_count": 132
    },
    {
     "title": "Black Friday Door Busters",
     "handle": "black-friday-door-busters",
-    "updated_at": "2026-09-10T11:55:51-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2025-11-09T09:31:48-05:00",
     "products_count": 90
    },
    {
     "title": "Build Your Bundle 31% OFF",
     "handle": "build-your-bundle-31-off",
-    "updated_at": "2026-09-10T11:47:46-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2025-10-22T06:27:41-04:00",
     "products_count": 28
    },
@@ -5230,7 +5230,7 @@
    {
     "title": "Father's Day Gift Shop — Hats, Gloves & Polos",
     "handle": "fathers-day-gift-shop-hats-gloves-polos",
-    "updated_at": "2026-09-10T19:40:33-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2026-06-15T15:24:41-04:00",
     "products_count": 182
    },
@@ -5244,7 +5244,7 @@
    {
     "title": "Gloves",
     "handle": "gloves",
-    "updated_at": "2026-09-10T11:55:51-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2025-06-25T21:01:41-04:00",
     "products_count": 132
    },
@@ -5265,7 +5265,7 @@
    {
     "title": "Golf Gifts Under $60",
     "handle": "gifts-for-golfers-under-60",
-    "updated_at": "2026-09-10T11:48:23-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2025-12-04T09:14:56-05:00",
     "products_count": 86
    },
@@ -5279,7 +5279,7 @@
    {
     "title": "Hats",
     "handle": "hats",
-    "updated_at": "2026-09-10T11:48:39-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2020-09-26T13:36:51-04:00",
     "products_count": 74
    },
@@ -5328,21 +5328,21 @@
    {
     "title": "Memorial Day Sale",
     "handle": "memorial-day-sale",
-    "updated_at": "2026-09-10T11:48:36-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2025-05-21T13:38:09-04:00",
     "products_count": 104
    },
    {
     "title": "New hats",
     "handle": "new-hats",
-    "updated_at": "2026-09-10T11:48:39-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2026-06-10T14:02:58-04:00",
     "products_count": 36
    },
    {
     "title": "NEW!",
     "handle": "new-arrivals",
-    "updated_at": "2026-09-10T12:29:14-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2024-10-22T11:03:44-04:00",
     "products_count": 192
    },
@@ -5405,7 +5405,7 @@
    {
     "title": "Splatter",
     "handle": "paint-splatter-collection",
-    "updated_at": "2026-09-10T11:47:53-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2025-06-25T20:20:51-04:00",
     "products_count": 19
    },
@@ -5426,7 +5426,7 @@
    {
     "title": "The Hello Friends Sale",
     "handle": "the-hello-friends-sale",
-    "updated_at": "2026-09-10T11:48:36-04:00",
+    "updated_at": "2026-09-10T20:15:28-04:00",
     "published_at": "2026-04-03T17:05:14-04:00",
     "products_count": 61
    },
