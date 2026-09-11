@@ -1,6 +1,6 @@
 @echo off
 REM ============================================================
-REM run_gerbera_fetch.bat - PC-side FETCH GerberaPrints   v6.2 (11/09/2026)
+REM run_gerbera_fetch.bat - PC-side FETCH GerberaPrints   v7 (11/09/2026) - gop ve mot clone duy nhat
 REM
 REM === QUAN TRONG: MAY NAY CO HAI CLONE ===
 REM   C:\gerbera\foxera-daily       <- job gerbera chay o day (log 55 dong + commit rieng)
@@ -20,7 +20,7 @@ REM  4. Buoc 7 xac nhan that su len remote -> chan bao DONE GIA (luat S16).
 REM  5. Ghi ket qua push ra D:\FoxEra\logs\push_status.log (NGOAI repo, khong xung dot).
 REM ============================================================
 
-set "REPO=C:\gerbera\foxera-daily"
+set "REPO=C:\Users\Admin\foxera-daily"
 set "PUSHLOG=D:\FoxEra\logs\push_status.log"
 set "GIT_ASK_YESNO=false"
 
