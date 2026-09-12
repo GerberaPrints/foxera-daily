@@ -50,7 +50,17 @@ git commit -m "%PROJ% pc-fetch: leftover + scripts" 2>nul
 
 REM 2) Don file chua commit CON LAI (dau ra tu dong cua job khac — se duoc
 REM    chinh job do ghi lai). LOAI TRU _pcfetch de khong nuot code moi.
-git checkout -- . ":(exclude)_pcfetch" 2>nul
+REM 12/09/2026: bo "git checkout -- ." o day. No vut MOI thay doi chua commit
+REM cua nguoi khac, khong bao, khong hoi. Sang 12/09 no da xoa mat ban va v9.2
+REM cua verify_shops.py va scan_gate.py vi hai file do chua kip commit qua dem.
+REM Tree ban boi file KHONG thuoc job nay -> DUNG va bao, de nguoi xu ly.
+git diff --quiet HEAD
+if errorlevel 1 (
+  echo [%PROJ%] DUNG - tree con thay doi chua commit khong thuoc job nay:
+  git diff --name-only HEAD
+  echo   Commit hoac vut thu cong roi chay lai.
+  exit /b 1
+)
 
 REM 3) Dong bo — cay da sach nen rebase chay tron
 git pull --rebase origin main

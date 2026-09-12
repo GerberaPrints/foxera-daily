@@ -27,7 +27,17 @@ git commit -m "gritfell pc-fetch leftover" 2>nul
 
 REM 2) Vut moi thay doi CHUA COMMIT con lai (output tu dong cua job khac).
 REM    Day la thu thay the --autostash: khong co gi de stash thi khong the xung dot.
-git checkout -- . 2>nul
+REM 12/09/2026: bo "git checkout -- ." o day. No vut MOI thay doi chua commit
+REM cua nguoi khac, khong bao, khong hoi. Sang 12/09 no da xoa mat ban va v9.2
+REM cua verify_shops.py va scan_gate.py vi hai file do chua kip commit qua dem.
+REM Tree ban boi file KHONG thuoc job nay -> DUNG va bao, de nguoi xu ly.
+git diff --quiet HEAD
+if errorlevel 1 (
+  echo [gritfell_fetch] DUNG - tree con thay doi chua commit khong thuoc job nay:
+  git diff --name-only HEAD
+  echo   Commit hoac vut thu cong roi chay lai.
+  exit /b 1
+)
 
 REM 3) Dong bo voi remote — tree da sach nen rebase chay tron
 git pull --rebase origin main
