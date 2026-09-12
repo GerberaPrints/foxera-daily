@@ -93,6 +93,17 @@ echo [genusfaith_fetch] DONE - da xac nhan len remote
 exit /b 0
 
 :log
+REM 12/09/2026: shopscan va genusfaith cung chay 04:00 -> hai tien trinh cung
+REM mo push_status.log de ghi -> mot ben bi tu choi va dong log BIEN MAT.
+REM Sang 12/09 genusfaith thoat ma 1 nhung khong de lai dau vet nao.
+REM Thu lai toi 15 lan, moi lan cach 1 giay. KHONG dung dau ngoac don o day.
 if not exist "D:\FoxEra\logs" mkdir "D:\FoxEra\logs"
->>"%PUSHLOG%" echo %date% %time% ^| genusfaith ^| %~1
-goto :eof
+set "LOGMSG=%~1"
+set /a LOGTRY=0
+:log_retry
+set /a LOGTRY+=1
+>>"%PUSHLOG%" echo %date% %time% ^| genusfaith ^| %LOGMSG%
+if not errorlevel 1 goto :eof
+if %LOGTRY% GEQ 15 goto :eof
+ping -n 2 127.0.0.1 >nul
+goto :log_retry
