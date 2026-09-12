@@ -2,20 +2,20 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-12",
- "fetched_at": "2026-09-12T04:45:03.270733+07:00",
+ "date": "2026-09-13",
+ "fetched_at": "2026-09-13T04:45:03.229292+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
     {
-     "title": "Fingagolf Open Championship 2026 - Final 3 Hole Playoff",
+     "title": "This angle is perfection and should be the standard for TV broadcast",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w8yimz/fingagolf_open_championship_2026_final_3_hole/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wdroda/this_angle_is_perfection_and_should_be_the/",
      "selftext_head": ""
     },
     {
@@ -28,12 +28,30 @@
      "selftext_head": ""
     },
     {
+     "title": "Fingagolf Open Championship 2026 - Final 3 Hole Playoff",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1w8yimz/fingagolf_open_championship_2026_final_3_hole/",
+     "selftext_head": ""
+    },
+    {
      "title": "Who is cooler than Fred Couples? Closest to the pin challenge at the Sanford Invitational this week, doesn’t even need to watch",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wd0dn5/who_is_cooler_than_fred_couples_closest_to_the/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Where does John Daly rank all time?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wdyf4o/where_does_john_daly_rank_all_time/",
      "selftext_head": ""
     },
     {
@@ -91,6 +109,15 @@
      "selftext_head": ""
     },
     {
+     "title": "My nearly-11 year old just started two months ago. I fear I don't have long before she's beating me.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wdo0oj/my_nearly11_year_old_just_started_two_months_ago/",
+     "selftext_head": ""
+    },
+    {
      "title": "3200 ft.² putting green we knocked out",
      "score": null,
      "num_comments": null,
@@ -109,39 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "This angle is perfection and should be the standard for TV broadcast",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wdroda/this_angle_is_perfection_and_should_be_the/",
-     "selftext_head": ""
-    },
-    {
      "title": "A Golfer's Worst Nightmare",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1w92qnk/a_golfers_worst_nightmare/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Justin Thomas endorses \"pricks\" at golf courses being named and shamed in the clubhouse.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wbpx9x/justin_thomas_endorses_pricks_at_golf_courses/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Why do some smokers make their disgusting habit everyone else's problem?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wb0yy3/why_do_some_smokers_make_their_disgusting_habit/",
      "selftext_head": ""
     }
    ]
@@ -151,15 +151,15 @@
  "suggest": {
   "funny golf polo": [
    "funny golf polos",
-   "funny golf polos for men",
    "funny golf polo shirts",
    "funny golf polo shirts uk",
    "funny golf polos for women",
    "funny golf polo shirts for men",
-   "funny golf polos canada",
    "funny golf polos amazon",
-   "funny golf polos for men amazon",
-   "funny golf polos near me"
+   "funny golf polos canada",
+   "funny golf polo for men",
+   "funny golf polos near me",
+   "funny golf polo shirts australia"
   ],
   "golf gift for him": [
    "golf gift for him",
@@ -280,25 +280,25 @@
    "hawaiian golf shirts for men",
    "hawaiian golf shirts for women",
    "hawaiian golf shirts amazon",
+   "hawaiian golf shirts ladies",
    "hawaiian golf shirts australia",
    "hawaiian golf shirts canada",
    "hawaiian golf shirts near me",
    "hawaiian golf shirts nearby",
-   "hawaiian golf shirts for couples",
-   "hawaiian golf shirt brand"
+   "hawaiian golf shirts for couples"
   ]
  },
  "trends": [
-  "austin weather",
-  "pete sampras",
-  "boston college football",
-  "jenna bush hager",
-  "franco mastantuono",
-  "united states golf association",
-  "kansas football",
-  "iphone duo iphone 18 pro",
-  "atlanta weather",
-  "malik nabers"
+  "alan ritchson catherine marriage split",
+  "atlético tucumán - river plate",
+  "buffalo vs fiu",
+  "unm football",
+  "billie jean king",
+  "jerome bettis",
+  "chris kreider",
+  "jax state vs ohio",
+  "judd nelson",
+  "springboks vs all blacks"
  ],
  "errors": []
 }
