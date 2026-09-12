@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-13",
   "scanner_version": "v9",
   "provenance": "live_local_browser",
   "note": "Desktop CHI ghi file nay. Cloud doc va merge vao foxera-accounts-daily.json. v8 ghi de accounts-daily -> 2 nguoi ghi 1 file, da bo.",
@@ -10,10 +10,10 @@
       "status": "not_selling",
       "sales": 620,
       "rating": 4.5,
-      "reviews": null,
+      "reviews": 113,
       "listings": null,
-      "status_confirmed": null,
-      "evidence": "quote"
+      "status_confirmed": true,
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E100",
@@ -78,8 +78,8 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": null,
-      "evidence": "quote"
+      "status_confirmed": true,
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E114",
@@ -89,8 +89,8 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": null,
-      "evidence": "quote"
+      "status_confirmed": true,
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E119",
@@ -194,13 +194,13 @@
     {
       "code": "E135",
       "shop": "VDKHandmade",
-      "status": "active",
-      "sales": 3,
-      "rating": 5,
-      "reviews": 1,
-      "listings": 77,
-      "status_confirmed": null,
-      "evidence": "fields"
+      "status": "blocked",
+      "sales": null,
+      "rating": null,
+      "reviews": null,
+      "listings": null,
+      "status_confirmed": false,
+      "evidence": "botwall marker: captcha"
     },
     {
       "code": "E136",
@@ -394,11 +394,11 @@
       "shop": "Kindelora",
       "status": "not_selling",
       "sales": 2,
-      "rating": null,
-      "reviews": null,
+      "rating": 1.0,
+      "reviews": 1,
       "listings": null,
-      "status_confirmed": null,
-      "evidence": "quote"
+      "status_confirmed": true,
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E171",
@@ -843,13 +843,13 @@
     {
       "code": "E24",
       "shop": "Celivandora",
-      "status": "active",
-      "sales": 77,
+      "status": "not_selling",
+      "sales": 101,
       "rating": 3.5,
-      "reviews": 11,
-      "listings": 268,
-      "status_confirmed": null,
-      "evidence": "fields"
+      "reviews": 16,
+      "listings": null,
+      "status_confirmed": false,
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E240",
@@ -997,13 +997,13 @@
     {
       "code": "E257",
       "shop": "VintagebyTung",
-      "status": "active",
-      "sales": 573,
-      "rating": 4.3,
-      "reviews": 80,
-      "listings": 459,
-      "status_confirmed": null,
-      "evidence": "fields"
+      "status": "blocked",
+      "sales": null,
+      "rating": null,
+      "reviews": null,
+      "listings": null,
+      "status_confirmed": false,
+      "evidence": "botwall marker: captcha"
     },
     {
       "code": "E258",
@@ -1019,13 +1019,13 @@
     {
       "code": "E26",
       "shop": "Aurevanelis",
-      "status": "active",
-      "sales": 59,
-      "rating": 2.4,
-      "reviews": 5,
-      "listings": 309,
-      "status_confirmed": null,
-      "evidence": "fields"
+      "status": "not_selling",
+      "sales": 92,
+      "rating": 3.5,
+      "reviews": 13,
+      "listings": null,
+      "status_confirmed": false,
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E260",
@@ -1305,13 +1305,13 @@
     {
       "code": "E29",
       "shop": "Velarionne",
-      "status": "unknown",
+      "status": "blocked",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": true,
-      "evidence": "exception: TargetClosedError"
+      "status_confirmed": false,
+      "evidence": "botwall marker: captcha"
     },
     {
       "code": "E3",
@@ -1382,13 +1382,13 @@
     {
       "code": "E4",
       "shop": "ThreadMelodia",
-      "status": "active",
-      "sales": 680,
-      "rating": 4.4,
-      "reviews": 113,
-      "listings": 348,
-      "status_confirmed": null,
-      "evidence": "fields"
+      "status": "blocked",
+      "sales": null,
+      "rating": null,
+      "reviews": null,
+      "listings": null,
+      "status_confirmed": false,
+      "evidence": "botwall marker: captcha"
     },
     {
       "code": "E40",
@@ -1404,24 +1404,24 @@
     {
       "code": "E42",
       "shop": "GoldenMossWorks",
-      "status": "active",
-      "sales": 1,
+      "status": "not_selling",
+      "sales": 2,
       "rating": null,
-      "reviews": 0,
-      "listings": 43,
-      "status_confirmed": null,
-      "evidence": "fields"
+      "reviews": null,
+      "listings": null,
+      "status_confirmed": false,
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E43",
       "shop": "DreamPineCo",
-      "status": "active",
-      "sales": 3,
+      "status": "blocked",
+      "sales": null,
       "rating": null,
-      "reviews": 0,
-      "listings": 43,
-      "status_confirmed": null,
-      "evidence": "fields"
+      "reviews": null,
+      "listings": null,
+      "status_confirmed": false,
+      "evidence": "botwall marker: captcha"
     },
     {
       "code": "E44",
@@ -1464,8 +1464,8 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": null,
-      "evidence": "quote"
+      "status_confirmed": true,
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E48",
@@ -1739,8 +1739,8 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": null,
-      "evidence": "quote"
+      "status_confirmed": true,
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E85",
