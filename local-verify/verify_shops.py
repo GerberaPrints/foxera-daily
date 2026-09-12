@@ -93,6 +93,10 @@ def classify(html, http_status=None):
     """
     if http_status == 404:
         return "not_found", "http 404", None
+    # v9.2 (11/09/2026, va lai 12/09): Etsy chan bang HTTP 429, KHONG phai captcha.
+    # Truoc day 429 roi vao nhanh "chua render du" -> bi doc nham la bot-wall.
+    if http_status == 429 or (html and "429 Too Many Requests" in html):
+        return "rate_limited", "http 429 - Etsy siet toc do", None
     if not html:
         return "unknown", "html rong", None
     low = html.lower()
@@ -358,9 +362,23 @@ async def main():
         except Exception as e:
             print("warm-up skip:", e)
 
+        lien_tiep_429 = 0
         for i, acc in enumerate(targets, 1):
             rec = await scrape_shop(page, acc)
             results.append(rec)
+            # v9.2: bi siet toc do thi DUNG NGAY. Cay them request chi lam Etsy siet
+            # chat hon va bien cac shop con lai thanh so rac.
+            if rec.get("status") == "rate_limited":
+                lien_tiep_429 += 1
+                if lien_tiep_429 >= 3:
+                    print()
+                    print(">>> DUNG QUET: Etsy tra 429 ba lan lien tiep tai shop", i, "/", len(targets))
+                    print("    Da quet duoc", i - 3, "shop co so that. Phan con lai GIU NGUYEN so cu.")
+                    print("    Doi it nhat 1-2 gio roi chay lai. KHONG chay lai ngay.")
+                    results = results[:-3]
+                    break
+            else:
+                lien_tiep_429 = 0
             print(f"[{i}/{len(targets)}] {acc['code']:6s} {acc['shop']:24s} {rec['status']:12s} "
                   f"sales={rec.get('sales')} rating={rec.get('rating')} listings={rec.get('listings')}"
                   + ("" if rec['status'] != 'unknown' else f"  <-- {rec.get('evidence')}"))

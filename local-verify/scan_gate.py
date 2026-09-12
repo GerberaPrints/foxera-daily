@@ -28,7 +28,7 @@ if n == 0:
     sys.exit(1)
 
 active = sum(1 for s in shops if s.get("status") == "active")
-bad    = sum(1 for s in shops if s.get("status") in ("blocked", "unknown"))
+bad    = sum(1 for s in shops if s.get("status") in ("blocked", "unknown", "rate_limited"))
 print("[gate] tong %d | active %d | blocked+unknown %d (%.0f%%)" % (n, active, bad, 100.0*bad/n))
 
 if active == 0:
