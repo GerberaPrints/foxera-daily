@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-12",
- "fetched_at": "2026-09-12T04:15:03.007733+07:00",
+ "date": "2026-09-13",
+ "fetched_at": "2026-09-13T04:15:02.661046+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -19,30 +19,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Catholic In Japan",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wcjryn/catholic_in_japan/",
-     "selftext_head": ""
-    },
-    {
      "title": "\"Today we celebrate the birth of a little girl who would be called to become the Mother of Her Creator, the Mother of God.\" - Pope Leo XIV",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1waq1zn/today_we_celebrate_the_birth_of_a_little_girl_who/",
-     "selftext_head": ""
-    },
-    {
-     "title": "(Free Friday) Jesus playing with His cousin",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7pl7h/free_friday_jesus_playing_with_his_cousin/",
      "selftext_head": ""
     },
     {
@@ -64,12 +46,12 @@
      "selftext_head": ""
     },
     {
-     "title": "[Free Friday] My favorite imagination of the Fourth Glorious Mystery. I shall have it framed.",
+     "title": "Went to the holy name cathedral in Chicago today",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7sx1u/free_friday_my_favorite_imagination_of_the_fourth/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wdx0dg/went_to_the_holy_name_cathedral_in_chicago_today/",
      "selftext_head": ""
     },
     {
@@ -91,15 +73,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Please pray for the holiness of the Church in Singapore and me",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w7ha5a/please_pray_for_the_holiness_of_the_church_in/",
-     "selftext_head": ""
-    },
-    {
      "title": "The Symbolic Meaning behind the Subdeacon’s Humeral Veil",
      "score": null,
      "num_comments": null,
@@ -118,12 +91,30 @@
      "selftext_head": ""
     },
     {
+     "title": "I made an updated one-page guide to praying the Rosary, improved thanks to your helpful your feedback",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wdh69h/i_made_an_updated_onepage_guide_to_praying_the/",
+     "selftext_head": ""
+    },
+    {
      "title": "A celebration our lady the Virgin Mary September 8th",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wazhdq/a_celebration_our_lady_the_virgin_mary_september/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[Free Friday] Monasteries dissolved in England and Wales by Henry VIII mapped on Google Maps",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wdedzy/free_friday_monasteries_dissolved_in_england_and/",
      "selftext_head": ""
     },
     {
@@ -142,6 +133,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1w9ca84/ecumenical_patriarch_we_await_the_restoration_of/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Why do some churches in Spain not feature the cross at the centre?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wbfo8n/why_do_some_churches_in_spain_not_feature_the/",
      "selftext_head": ""
     }
    ]
@@ -166,12 +166,12 @@
    "rosary bracelet mens",
    "rosary bracelet women",
    "rosary bracelet gold",
-   "rosary bracelet magnetic",
-   "rosary bracelet silver",
+   "rosary bracelet beads",
    "rosary bracelet pattern",
-   "rosary bracelet tattoo",
-   "rosary bracelet catholic",
-   "rosary bracelet near me"
+   "rosary bracelet silver",
+   "rosary bracelet australia",
+   "rosary bracelet magnetic",
+   "rosary bracelet tattoo"
   ],
   "christian gift for her": [
    "christian gift for her",
@@ -190,17 +190,17 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gifts of the holy spirit",
    "confirmation gifts for adults",
    "confirmation gifts from sponsor",
    "confirmation gift ideas for boy",
    "confirmation gifts catholic",
-   "confirmation gifts for teenage boys"
+   "confirmation gifts for teenage boys",
+   "confirmation gift ideas for girls"
   ],
   "baptism gift": [
    "baptism gifts",
    "baptism gifts for boys",
-   "baptism gift for girl",
+   "baptism gifts for girls",
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
@@ -236,7 +236,7 @@
   "first communion gift": [
    "first communion gifts",
    "first communion gifts for boys",
-   "first communion gifts for girl",
+   "first communion gifts for girls",
    "first communion gift ideas",
    "first communion gifts near me",
    "first communion gifts for boys catholic",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "kansas football",
-  "iphone duo iphone 18 pro",
-  "atlanta weather",
-  "malik nabers",
-  "championship",
-  "reflecting pool damage contractor report",
-  "woody harrelson",
-  "sony playstation",
-  "call of duty",
-  "d&apos;andre swift"
+  "kylian mbappé",
+  "jude bellingham",
+  "cdc band",
+  "brad pitt",
+  "palmeiras vs são paulo",
+  "georgios frangulis",
+  "disney+",
+  "sabatini",
+  "oklahoma state cowboys football vs oregon ducks football match player stats",
+  "campbell vs florida"
  ],
  "errors": []
 }
