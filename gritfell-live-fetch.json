@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-12",
- "fetched_at": "2026-09-12T04:30:02.744066+07:00",
+ "date": "2026-09-13",
+ "fetched_at": "2026-09-13T04:30:02.692630+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 114,
@@ -1893,26 +1893,27 @@
      "published_at": "2026-09-09T16:32:47-04:00"
     },
     {
-     "title": "Women's Reverb Short - Sand Dune",
-     "handle": "womens-reverb-short-sand-dune",
+     "title": "Women's All Day Pocket Legging - Baltic Amber",
+     "handle": "womens-all-day-pocket-legging-baltic-amber",
      "type": "Women's",
      "tags": [
+      "All Day",
       "care::bamboo",
       "collection::women",
-      "color-category::New",
       "discounts::none",
+      "excWPKLG",
       "final-sale",
       "final_sale",
       "flag::final sale",
+      "pdp_group: women-all-day-legging",
       "Pro-Exclude-Discount",
-      "product_style: Womens Reverb Short",
-      "R-SP24W",
+      "product_style: Womens All Day Pocket Legging",
       "returns::none",
-      "Reverb",
-      "SP24"
+      "SP24",
+      "women-all-day-legging"
      ],
-     "price": "25.00",
-     "published_at": "2026-09-09T16:21:57-04:00"
+     "price": "65.99",
+     "published_at": "2026-09-09T16:21:33-04:00"
     }
    ]
   },
