@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-13",
- "fetched_at": "2026-09-13T04:45:03.229292+07:00",
+ "date": "2026-09-14",
+ "fetched_at": "2026-09-14T04:45:03.254301+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -28,15 +28,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Fingagolf Open Championship 2026 - Final 3 Hole Playoff",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w8yimz/fingagolf_open_championship_2026_final_3_hole/",
-     "selftext_head": ""
-    },
-    {
      "title": "Who is cooler than Fred Couples? Closest to the pin challenge at the Sanford Invitational this week, doesn’t even need to watch",
      "score": null,
      "num_comments": null,
@@ -46,12 +37,30 @@
      "selftext_head": ""
     },
     {
+     "title": "Shane Lowry wins the Amgen Irish Open. Lowry shoots rounds of 67, a course record 62, 65 and 63 to win the Amgen Irish Open by a record ELEVEN shots",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wfdp7t/shane_lowry_wins_the_amgen_irish_open_lowry/",
+     "selftext_head": ""
+    },
+    {
      "title": "Where does John Daly rank all time?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wdyf4o/where_does_john_daly_rank_all_time/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Jennifer Kupcho from 91 feet to tie the last Solheim Cup match of the day on the 17th hole",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wei1ea/jennifer_kupcho_from_91_feet_to_tie_the_last/",
      "selftext_head": ""
     },
     {
@@ -73,12 +82,12 @@
      "selftext_head": ""
     },
     {
-     "title": "DP World Tour always has better broadcasts",
+     "title": "Albatross Alert: Thomas Detry with a big bird from 232 yards at the Irish Open (DP World Tour)",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w8i47p/dp_world_tour_always_has_better_broadcasts/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wcpsop/albatross_alert_thomas_detry_with_a_big_bird_from/",
      "selftext_head": ""
     },
     {
@@ -91,39 +100,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Albatross Alert: Thomas Detry with a big bird from 232 yards at the Irish Open (DP World Tour)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wcpsop/albatross_alert_thomas_detry_with_a_big_bird_from/",
-     "selftext_head": ""
-    },
-    {
      "title": "Ludvig Åberg grades celebrity swings",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1waoc41/ludvig_åberg_grades_celebrity_swings/",
-     "selftext_head": ""
-    },
-    {
-     "title": "My nearly-11 year old just started two months ago. I fear I don't have long before she's beating me.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wdo0oj/my_nearly11_year_old_just_started_two_months_ago/",
-     "selftext_head": ""
-    },
-    {
-     "title": "3200 ft.² putting green we knocked out",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w96468/3200_ft²_putting_green_we_knocked_out/",
      "selftext_head": ""
     },
     {
@@ -136,12 +118,30 @@
      "selftext_head": ""
     },
     {
-     "title": "A Golfer's Worst Nightmare",
+     "title": "Two chinooks holding up the play at the Irish Open",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1w92qnk/a_golfers_worst_nightmare/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wede58/two_chinooks_holding_up_the_play_at_the_irish_open/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Justin Thomas endorses \"pricks\" at golf courses being named and shamed in the clubhouse.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wbpx9x/justin_thomas_endorses_pricks_at_golf_courses/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Shane Lowry wins the Irish Open (DP World Tour) by 11 strokes!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wfdj84/shane_lowry_wins_the_irish_open_dp_world_tour_by/",
      "selftext_head": ""
     }
    ]
@@ -151,15 +151,15 @@
  "suggest": {
   "funny golf polo": [
    "funny golf polos",
+   "funny golf polos for men",
    "funny golf polo shirts",
    "funny golf polo shirts uk",
    "funny golf polos for women",
    "funny golf polo shirts for men",
-   "funny golf polos amazon",
    "funny golf polos canada",
-   "funny golf polo for men",
-   "funny golf polos near me",
-   "funny golf polo shirts australia"
+   "funny golf polos amazon",
+   "funny golf polos for men amazon",
+   "funny golf polos near me"
   ],
   "golf gift for him": [
    "golf gift for him",
@@ -244,16 +244,16 @@
    "golf towels with funny sayings"
   ],
   "bachelor party golf": [
-   "bachelor party golf shirts",
    "bachelor party golf trips",
    "bachelor party golf balls",
-   "bachelor party golf ideas",
+   "bachelor party golf shirts",
    "bachelor party golf gifts",
+   "bachelor party golf ideas",
    "bachelor party golf games",
    "bachelor party golf hats",
-   "bachelor party golf",
+   "bachelor party golf polos",
    "bachelor party golf packages",
-   "bachelor party golf polos"
+   "bachelor party golf"
   ],
   "golf gift for boss": [
    "golf gift for boss",
@@ -280,25 +280,25 @@
    "hawaiian golf shirts for men",
    "hawaiian golf shirts for women",
    "hawaiian golf shirts amazon",
-   "hawaiian golf shirts ladies",
    "hawaiian golf shirts australia",
    "hawaiian golf shirts canada",
    "hawaiian golf shirts near me",
    "hawaiian golf shirts nearby",
-   "hawaiian golf shirts for couples"
+   "hawaiian golf shirts for couples",
+   "hawaiian golf shirt brand"
   ]
  },
  "trends": [
-  "alan ritchson catherine marriage split",
-  "atlético tucumán - river plate",
-  "buffalo vs fiu",
-  "unm football",
-  "billie jean king",
-  "jerome bettis",
-  "chris kreider",
-  "jax state vs ohio",
-  "judd nelson",
-  "springboks vs all blacks"
+  "ben shelton sister",
+  "jacob rodriguez",
+  "nascar race",
+  "jeff goldblum",
+  "jayden reed",
+  "russell westbrook",
+  "pardon",
+  "harrison ford",
+  "caleb douglas",
+  "immaculate inning"
  ],
  "errors": []
 }
