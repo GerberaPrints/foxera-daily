@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-14",
- "fetched_at": "2026-09-14T04:45:03.254301+07:00",
+ "date": "2026-09-15",
+ "fetched_at": "2026-09-15T04:45:03.296408+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -16,6 +16,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wdroda/this_angle_is_perfection_and_should_be_the/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Shane Lowry wins the Amgen Irish Open. Lowry shoots rounds of 67, a course record 62, 65 and 63 to win the Amgen Irish Open by a record ELEVEN shots",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wfdp7t/shane_lowry_wins_the_amgen_irish_open_lowry/",
      "selftext_head": ""
     },
     {
@@ -34,15 +43,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wd0dn5/who_is_cooler_than_fred_couples_closest_to_the/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Shane Lowry wins the Amgen Irish Open. Lowry shoots rounds of 67, a course record 62, 65 and 63 to win the Amgen Irish Open by a record ELEVEN shots",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wfdp7t/shane_lowry_wins_the_amgen_irish_open_lowry/",
      "selftext_head": ""
     },
     {
@@ -79,6 +79,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1waqj7b/i_found_my_ball_ten_feet_from_the_tree_line_it/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Shane Lowry wins the Irish Open (DP World Tour) by 11 strokes!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wfdj84/shane_lowry_wins_the_irish_open_dp_world_tour_by/",
      "selftext_head": ""
     },
     {
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wbpx9x/justin_thomas_endorses_pricks_at_golf_courses/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Shane Lowry wins the Irish Open (DP World Tour) by 11 strokes!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wfdj84/shane_lowry_wins_the_irish_open_dp_world_tour_by/",
      "selftext_head": ""
     }
    ]
@@ -244,16 +244,16 @@
    "golf towels with funny sayings"
   ],
   "bachelor party golf": [
+   "bachelor party golf shirts",
    "bachelor party golf trips",
    "bachelor party golf balls",
-   "bachelor party golf shirts",
-   "bachelor party golf gifts",
    "bachelor party golf ideas",
+   "bachelor party golf gifts",
    "bachelor party golf games",
    "bachelor party golf hats",
-   "bachelor party golf polos",
+   "bachelor party golf",
    "bachelor party golf packages",
-   "bachelor party golf"
+   "bachelor party golf polos"
   ],
   "golf gift for boss": [
    "golf gift for boss",
@@ -266,14 +266,14 @@
   "golf apparel funny": [
    "golf apparel funny",
    "golf shirts funny",
-   "golf shirts funny men",
    "golf clothing funny",
    "golf shirt funny pattern",
    "golf shirts funny women",
    "golf shirts funny australia",
-   "golf shirts funny print",
    "golf shirts funny sayings",
-   "golf shirts funny amazon"
+   "golf shirts funny amazon",
+   "golf shirt funny design",
+   "funny golf outfit ideas"
   ],
   "hawaiian golf shirt": [
    "hawaiian golf shirts",
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "ben shelton sister",
-  "jacob rodriguez",
-  "nascar race",
-  "jeff goldblum",
-  "jayden reed",
-  "russell westbrook",
-  "pardon",
-  "harrison ford",
-  "caleb douglas",
-  "immaculate inning"
+  "arrest",
+  "mikayla matthews",
+  "harry and meghan",
+  "braga vs estoril",
+  "retail",
+  "villarreal cf vs real betis standings",
+  "chris gallant",
+  "braga fc",
+  "arapaho",
+  "gervonta davis"
  ],
  "errors": []
 }
