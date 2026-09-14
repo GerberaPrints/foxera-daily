@@ -2,13 +2,22 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-14",
- "fetched_at": "2026-09-14T04:15:02.714752+07:00",
+ "date": "2026-09-15",
+ "fetched_at": "2026-09-15T04:15:02.693713+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "Happy 71st Birthday Pope Leo !",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wg1vzl/happy_71st_birthday_pope_leo/",
+     "selftext_head": ""
+    },
     {
      "title": "My 15th anniversary as a bishop",
      "score": null,
@@ -64,12 +73,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Does anyone have a similar Catholic portable shrine, and how did you get it?",
+     "title": "This blessed painting was gifted to me by my friend’s Great Grandfather. He was a painter and did this work for Saint Matthew’s Catholic Church. I’ve had it since my First Communion. What do you think of his depiction of Mary and infant Christ?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1w9yr91/does_anyone_have_a_similar_catholic_portable/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1werddg/this_blessed_painting_was_gifted_to_me_by_my/",
      "selftext_head": ""
     },
     {
@@ -109,12 +118,12 @@
      "selftext_head": ""
     },
     {
-     "title": "This blessed painting was gifted to me by my friend’s Great Grandfather. He was a painter and did this work for Saint Matthew’s Catholic Church. I’ve had it since my First Communion. What do you think of his depiction of Mary and infant Christ?",
+     "title": "Brown scapular devotion",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1werddg/this_blessed_painting_was_gifted_to_me_by_my/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wfwdaq/brown_scapular_devotion/",
      "selftext_head": ""
     },
     {
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wazhdq/a_celebration_our_lady_the_virgin_mary_september/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Exclusive | NJ teen set on priesthood had vision of Virgin Mary before his tumor miraculously shrank",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wbh5j7/exclusive_nj_teen_set_on_priesthood_had_vision_of/",
      "selftext_head": ""
     }
    ]
@@ -190,12 +190,12 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
+   "confirmation gifts of the holy spirit",
    "confirmation gifts for adults",
    "confirmation gifts from sponsor",
    "confirmation gift ideas for boy",
    "confirmation gifts catholic",
-   "confirmation gifts for teenage boys",
-   "confirmation gift ideas for girls"
+   "confirmation gifts for teenage boys"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -211,7 +211,6 @@
   ],
   "catholic home decor": [
    "catholic home decor",
-   "catholic home decor ideas",
    "catholic home decor shop",
    "catholic home decor canada",
    "catholic home decor australia",
@@ -219,6 +218,7 @@
    "catholic home decor near me",
    "catholic home decor nearby",
    "catholic home decor reddit",
+   "catholic home decor store",
    "catholic home decor book"
   ],
   "saint medal necklace": [
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "dallas goedert",
-  "matt lafleur",
-  "michael mayer",
-  "tucker kraft",
-  "bo melton",
-  "jonathan david",
-  "jauan jennings",
-  "jordan mason",
-  "kyler murray injury",
-  "carson wentz"
+  "retail",
+  "braga fc",
+  "arapaho",
+  "gervonta davis",
+  "rj harvey",
+  "chris gallant",
+  "republican party",
+  "john krasinski",
+  "punk guitarist cheetah chrome passes",
+  "silver"
  ],
  "errors": []
 }
