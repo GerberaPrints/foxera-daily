@@ -2,12 +2,42 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-15",
- "fetched_at": "2026-09-15T04:30:02.920670+07:00",
+ "date": "2026-09-16",
+ "fetched_at": "2026-09-16T04:30:02.695315+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 114,
+   "count_returned": 117,
    "products": [
+    {
+     "title": "Ocean Camo Swim Short",
+     "handle": "ocean-camo-swim-short",
+     "type": "Swim Short",
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-09-15T01:50:46-07:00"
+    },
+    {
+     "title": "Bluewater Drift Swim Short",
+     "handle": "bluewater-drift-swim-short",
+     "type": "Swim Short",
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-09-15T01:48:54-07:00"
+    },
+    {
+     "title": "Waterline Swim Short",
+     "handle": "waterline-swim-short",
+     "type": "Swim Short",
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-09-15T00:51:19-07:00"
+    },
     {
      "title": "Waterline Camo Sun Hoodie",
      "handle": "waterline-camo-sun-hoodie",
@@ -1382,6 +1412,85 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Fowler Jacket",
+     "handle": "fowler-jacket",
+     "type": "Outerwear",
+     "tags": [
+      "field sport",
+      "FW2023ZR",
+      "FW2024ZR",
+      "FW2026ZR",
+      "HIMGIFTZR",
+      "HUNTZR",
+      "MENZR",
+      "MF23ZR",
+      "MFIELDZR",
+      "MJACKETZR",
+      "MWAXZR",
+      "Regions",
+      "SPORTSMANGIFTZR",
+      "WATERFOWLZR",
+      "WAXZR",
+      "WFOWLGIFTZR"
+     ],
+     "price": "595.00",
+     "published_at": "2026-09-15T15:25:22-05:00"
+    },
+    {
+     "title": "Westport Wool Overshirt",
+     "handle": "westport-wool-overshirt",
+     "type": "Shirting",
+     "tags": [
+      "field sport",
+      "FW2026ZR",
+      "HUNTZR",
+      "MENZR",
+      "MFIELDZR",
+      "MNEWZR",
+      "MSHIRTZR",
+      "MSWEATLAYZR",
+      "WOOLZR"
+     ],
+     "price": "450.00",
+     "published_at": "2026-09-15T14:44:01-05:00"
+    },
+    {
+     "title": "Dalton Crewneck Sweater",
+     "handle": "dalton-crewneck-sweater",
+     "type": "Layering",
+     "tags": [
+      "FW2026ZR",
+      "MENZR",
+      "MNEWZR",
+      "MSHIRTZR",
+      "MSWEATLAYZR",
+      "WOOLZR"
+     ],
+     "price": "375.00",
+     "published_at": "2026-09-15T12:30:42-05:00"
+    },
+    {
+     "title": "Wool 6-Panel Hat - Cattle Brand",
+     "handle": "wool-6-panel-hat-cattle-brand",
+     "type": "Hats",
+     "tags": [
+      "field sport",
+      "FW2026ZR",
+      "HATSZR",
+      "HUNTZR",
+      "MENZR",
+      "MFIELDZR",
+      "MHATZR",
+      "MNEWZR",
+      "WFIELDZR",
+      "WHATZR",
+      "WNEWZR",
+      "WOMENZR"
+     ],
+     "price": "55.00",
+     "published_at": "2026-09-14T22:11:44-05:00"
+    },
+    {
      "title": "Corduroy 5-Panel Hat - TB Ducks",
      "handle": "corduroy-5-panel-hat-tb-ducks",
      "type": "Hats",
@@ -1401,103 +1510,6 @@
      ],
      "price": "55.00",
      "published_at": "2026-09-11T15:30:20-05:00"
-    },
-    {
-     "title": "Leather LoPro Shell Bag",
-     "handle": "leather-lopro-shell-bag",
-     "type": "Misc.",
-     "tags": [
-      "BAGZR",
-      "field sport",
-      "FW2026ZR",
-      "HUNTBAGZR",
-      "HUNTZR",
-      "LEATHERGIFTZR",
-      "LEATHERZR",
-      "MENZR",
-      "MFIELDZR",
-      "MNEWZR",
-      "SPORTSMANGIFTZR",
-      "UPHUNTGIFTZR",
-      "UPLANDZR",
-      "WFIELDZR",
-      "WOMENZR"
-     ],
-     "price": "175.00",
-     "published_at": "2026-09-11T15:06:35-05:00"
-    },
-    {
-     "title": "Water Bottle Carrier in Mossy Oak Original Bottomland",
-     "handle": "water-bottle-carrier-in-mossy-oak-original-bottomland",
-     "type": "Misc.",
-     "tags": [
-      "ACCESSZR",
-      "field sport",
-      "HUNTBAGZR",
-      "HUNTZR",
-      "MFIELDZR",
-      "MOSSYZR",
-      "UPHUNTGIFTZR",
-      "WFIELDZR",
-      "WINGSHOOTZR"
-     ],
-     "price": "55.00",
-     "published_at": "2026-09-10T12:37:02-05:00"
-    },
-    {
-     "title": "Medium Clip Game Strap",
-     "handle": "medium-clip-game-strap",
-     "type": "Misc.",
-     "tags": [
-      "Accessories",
-      "ACCESSZR",
-      "alabama",
-      "all-season",
-      "early-season",
-      "Essential",
-      "fall",
-      "field sport",
-      "fieldsport",
-      "GIFTS100ZR",
-      "Hunting",
-      "HUNTZR",
-      "leather",
-      "LEATHERGIFTZR",
-      "LEATHERZR",
-      "MENZR",
-      "MFIELDZR",
-      "UNDER100ZR",
-      "UPHUNTGIFTZR",
-      "UPLANDZR",
-      "waterfowl",
-      "WATERFOWLZR",
-      "WFIELDZR",
-      "WFOWLGIFTZR",
-      "WINGSHOOTZR"
-     ],
-     "price": "65.00",
-     "published_at": "2026-09-09T11:13:55-05:00"
-    },
-    {
-     "title": "Aigle Parcours 3.0 TR Boot",
-     "handle": "aigle-parcours-3-0-tr-boot",
-     "type": "Footwear",
-     "tags": [
-      "field sport",
-      "FISHZR",
-      "FW2026ZR",
-      "HUNTZR",
-      "MENZR",
-      "MFIELDZR",
-      "MFOOTZR",
-      "MNEWZR",
-      "WFIELDZR",
-      "WFOOTZR",
-      "WNEWZR",
-      "WOMENZR"
-     ],
-     "price": "695.00",
-     "published_at": "2026-09-03T11:18:16-05:00"
     }
    ]
   },
@@ -1594,6 +1606,98 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Boatbar SS Button Down Shirt | Conch",
+     "handle": "boatbar-ss-button-down-shirt-conch",
+     "type": "MENS WOVENS",
+     "tags": [
+      "__tab2:tops-mens-size-chart",
+      "AFBLOCK-50",
+      "AFGUARD",
+      "AFLITE",
+      "DWR-STAIN-RESISTANCE",
+      "filter::size:2X",
+      "filter::size:3X",
+      "filter::size:L",
+      "filter::size:M",
+      "filter::size:S",
+      "filter::size:XL",
+      "filter::type:BUTTON DOWN SHIRTS",
+      "fit-guide-mens-regular-fit",
+      "LABEL CHECK",
+      "mens",
+      "mens-fit-guide",
+      "mens-how-to-measure",
+      "REGULARFIT",
+      "RGroup_Boatbar",
+      "sandbar",
+      "SP26",
+      "Wovens"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-15T06:36:58-07:00"
+    },
+    {
+     "title": "Fetch SS T-Shirt",
+     "handle": "fetch-ss-t-shirt-sale",
+     "type": "MENS T-SHIRTS",
+     "tags": [
+      "__tab2:tops-mens-size-chart",
+      "filter::size:2X",
+      "filter::size:L",
+      "filter::size:M",
+      "filter::size:S",
+      "filter::size:XL",
+      "filter::type:Short Sleeve T-Shirts",
+      "FINAL SALE",
+      "FINALSALE",
+      "LABEL CHECK",
+      "MENS",
+      "mens-fishing-short-sleeve-t-shirts",
+      "mens-fit-guide",
+      "mens-how-to-measure",
+      "mens-short-sleeve-t-shirts",
+      "mens-t-shirts",
+      "Recycled",
+      "REGULARFIT",
+      "RGroup_MT3481",
+      "sandbar",
+      "SHORT SLEEVE",
+      "SP24",
+      "SP25",
+      "T-Shirts"
+     ],
+     "price": "12.99",
+     "published_at": "2026-09-15T06:35:49-07:00"
+    },
+    {
+     "title": "Women's Mojeaux 1/4 Zip Performance Shirt",
+     "handle": "womens-mojeaux-quarter-zip-performance-shirt",
+     "type": "WOMENS PERFORMANCE",
+     "tags": [
+      "1/4 zip",
+      "__tab2:womens-tops-size-chart",
+      "AFBLOCK-50",
+      "AFCOOL",
+      "baselayer",
+      "BFCM25",
+      "DWR-STAIN-RESISTANCE",
+      "ICAST2023",
+      "ICAST23WIN",
+      "LABEL CHECK",
+      "Performance Knit",
+      "REGULARFIT",
+      "SALE",
+      "SP24",
+      "WOMENS",
+      "womens-fishing-shirts",
+      "womens-fit-guide-regular-fit",
+      "womens-how-to-measure",
+      "womens-performance-fishing-shirts"
+     ],
+     "price": "44.99",
+     "published_at": "2026-09-15T06:27:54-07:00"
+    },
+    {
      "title": "Women's Drift Jacket",
      "handle": "womens-drift-insulated-fishing-jacket",
      "type": "WOMENS JACKETS",
@@ -1634,77 +1738,41 @@
      ],
      "price": "249.00",
      "published_at": "2026-09-01T09:23:58-07:00"
-    },
-    {
-     "title": "Hydronaut® Insulated Jacket",
-     "handle": "hydronaut-insulated-fishing-jacket",
-     "type": "MENS JACKETS",
-     "tags": [
-      "__tab2:tops-mens-size-chart",
-      "FA26",
-      "fishing-clothing",
-      "fit-guide-mens-relaxed-fit",
-      "mens-how-to-measure",
-      "NEW",
-      "NEW-TAG",
-      "RAIN SUIT",
-      "RELAXED-FIT"
-     ],
-     "price": "399.00",
-     "published_at": "2026-09-01T09:15:35-07:00"
-    },
-    {
-     "title": "Hydronaut® Insulated Bib",
-     "handle": "hydronaut-insulated-fishing-bib",
-     "type": "MENS BIBS",
-     "tags": [
-      "__tab2:mens-bibs-size-chart",
-      "FA26",
-      "fishing-clothing",
-      "fit-guide-mens-relaxed-fit",
-      "mens-fishing-rain-gear-bibs",
-      "mens-how-to-measure",
-      "NEW",
-      "NEW-TAG",
-      "RAIN SUIT",
-      "RELAXED-FIT"
-     ],
-     "price": "399.00",
-     "published_at": "2026-09-01T09:10:37-07:00"
-    },
-    {
-     "title": "Drift Hooded Jacket",
-     "handle": "drift-primaloft-hooded-fishing-jacket",
-     "type": "MENS JACKETS",
-     "tags": [
-      "__tab2:tops-mens-size-chart",
-      "FA26",
-      "filter::size:2X",
-      "filter::size:L",
-      "filter::size:M",
-      "filter::size:S",
-      "filter::size:XL",
-      "filter::size:XS",
-      "filter::type:RAIN JACKETS",
-      "fishing-clothing",
-      "fit-guide-mens-regular-fit",
-      "jackets-bibs-pants",
-      "Mens",
-      "mens-fishing-rain-jackets",
-      "mens-how-to-measure",
-      "NEW",
-      "NEW-TAG",
-      "Outerwear",
-      "REGULARFIT"
-     ],
-     "price": "179.00",
-     "published_at": "2026-09-01T08:46:04-07:00"
     }
    ]
   },
   "Drake Waterfowl": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "MST Fleece Convertible Face Mask",
+     "handle": "mst-fleece-convertible-face-mask",
+     "type": "Headwear",
+     "tags": [
+      "AW26 Catalog",
+      "AW26_NEW",
+      "master_list_new_arrivals_26",
+      "new"
+     ],
+     "price": "34.99",
+     "published_at": "2026-09-15T14:16:01-05:00"
+    },
+    {
+     "title": "MST Drake Dry Waxed Cotton Jac-Shirt",
+     "handle": "mst-drake-dry-waxed-cotton-jac-shirt",
+     "type": "Shirts & Tops",
+     "tags": [
+      "AW26 Catalog",
+      "AW26 Price Tracking",
+      "AW26_NEW",
+      "master_list_new_arrivals_26",
+      "mens",
+      "new",
+      "tops"
+     ],
+     "price": "169.99",
+     "published_at": "2026-09-15T14:14:28-05:00"
+    },
     {
      "title": "Youth Endurance Pant",
      "handle": "youth-endurance-pant",
@@ -1754,51 +1822,6 @@
      ],
      "price": "49.99",
      "published_at": "2026-09-14T08:31:21-05:00"
-    },
-    {
-     "title": "LST Handwarmer Muff",
-     "handle": "handwarmer-muff",
-     "type": "Field Essentials",
-     "tags": [
-      "- waterfowl",
-      "AW25 Catalog",
-      "AW26 Catalog",
-      "bestseller_24",
-      "bestseller_nov",
-      "brand_waterfowl",
-      "cold weather",
-      "Cold Weather Gear",
-      "cold weather hunting",
-      "duck hunting",
-      "EOS_23",
-      "Gifts For Waterfowler",
-      "gloves",
-      "gloves-handwarmers",
-      "hand warmer",
-      "hunting accessories",
-      "lst-late-season-technology",
-      "Men WF Waders Bags & Accessories",
-      "new_color:Mossy Oak Original Shadow Grass",
-      "Old School Camo",
-      "sale",
-      "winter hunting",
-      "YGroup_lsthandwarmer"
-     ],
-     "price": "69.99",
-     "published_at": "2026-09-10T11:48:53-05:00"
-    },
-    {
-     "title": "3 Headlamp Lighting Pack 250LM",
-     "handle": "3-headlamp-lighting-pack-250lm",
-     "type": "Field Accessories",
-     "tags": [
-      "AW26_NEW",
-      "BFCM2026",
-      "master_list_new_arrivals_26",
-      "new"
-     ],
-     "price": "74.99",
-     "published_at": "2026-09-10T11:41:21-05:00"
     }
    ]
   },
@@ -1843,26 +1866,6 @@
      "published_at": "2026-09-09T16:34:26-04:00"
     },
     {
-     "title": "Women's Bamboo Flex Sunday Short - Heather Black",
-     "handle": "womens-bamboo-flex-sunday-short-heather-black",
-     "type": "Women's",
-     "tags": [
-      "care::bamboo",
-      "discounts::none",
-      "excWFXSS",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "klaviyo-low-inventory",
-      "Pro-Exclude-Discount",
-      "product_style: Womens Bamboo Flex Sunday Short",
-      "returns::none",
-      "SP25"
-     ],
-     "price": "40.60",
-     "published_at": "2026-09-09T16:32:47-04:00"
-    },
-    {
      "title": "Women's All Day Pocket Legging - Baltic Amber",
      "handle": "womens-all-day-pocket-legging-baltic-amber",
      "type": "Women's",
@@ -1886,31 +1889,129 @@
      "published_at": "2026-09-09T16:21:33-04:00"
     },
     {
-     "title": "Women's Elevate Lightweight Coverup - Agave Green",
-     "handle": "womens-elevate-lightweight-coverup-agave-green",
-     "type": "Women's",
+     "title": "Men's Elevate Hoodie - Shale Green",
+     "handle": "mens-elevate-hoodie-shale-green",
+     "type": "Men's",
      "tags": [
+      "Arrival",
       "care::bamboo",
-      "collection::women",
-      "color-category::New",
+      "collection::men",
+      "complete-the-look",
+      "discounts::none",
       "Elevate",
+      "excMCWHD",
       "final-sale",
       "final_sale",
       "flag::final sale",
-      "klaviyo-low-inventory",
+      "listo-new-pdp",
+      "LTV - Paid Social",
+      "LTV - Paid Social - Elevate",
+      "priority-product",
       "Pro-Exclude-Discount",
-      "product_style: Womens Elevate Lightweight Coverup",
-      "returns::none",
-      "SP24"
+      "product_style: Mens Elevate Hoodie",
+      "R-SP24M",
+      "returns::none"
      ],
-     "price": "33.60",
-     "published_at": "2026-09-09T16:18:33-04:00"
+     "price": "61.99",
+     "published_at": "2026-09-09T16:08:52-04:00"
+    },
+    {
+     "title": "Men's Bamboo Lightweight Hoodie - Glacier",
+     "handle": "mens-bamboo-lightweight-hoodie-glacier",
+     "type": "Men's",
+     "tags": [
+      "care::bamboo",
+      "collection::men",
+      "Color",
+      "discounts::none",
+      "excLWH",
+      "excmcamohoody",
+      "fdbun",
+      "final-sale",
+      "final_sale",
+      "flag::final sale",
+      "Lightweight",
+      "men-bamboo-lightweight",
+      "priority-product",
+      "Pro-Exclude-Discount",
+      "product_style: Mens LWH Sale",
+      "returns::none"
+     ],
+     "price": "49.99",
+     "published_at": "2026-09-09T16:06:42-04:00"
     }
    ]
   },
   "BURLEBO": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Vintage Washed Tee - Light Grey",
+     "handle": "vintage-washed-tee-light-grey",
+     "type": "Short Sleeve Tee",
+     "tags": [
+      "8/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "Casual",
+      "FALL25",
+      "Light Grey",
+      "Men's",
+      "pdqreview",
+      "retail",
+      "Season Fall25",
+      "Tops",
+      "Vintage Washed Tee",
+      "wholesale"
+     ],
+     "price": "34.00",
+     "published_at": "2026-09-15T08:37:29-05:00"
+    },
+    {
+     "title": "Vintage Washed Tee - Black",
+     "handle": "vintage-washed-tee-black",
+     "type": "Short Sleeve Tee",
+     "tags": [
+      "8/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "Black",
+      "Casual",
+      "FALL25",
+      "Men's",
+      "retail",
+      "Season Fall25",
+      "Tops",
+      "Vintage Washed Tee",
+      "wholesale"
+     ],
+     "price": "34.00",
+     "published_at": "2026-09-15T08:37:27-05:00"
+    },
+    {
+     "title": "Vintage Washed Hoodie - Midland Camo",
+     "handle": "vintage-washed-fleece-hoodie-midland-camo",
+     "type": "Vintage Washed Hoodie",
+     "tags": [
+      "8/13/26",
+      "B2B_Active",
+      "B2B_Sync",
+      "BlinkAutoHide",
+      "Fall 26",
+      "Fall26",
+      "Fleece Hoodie",
+      "Mia Review",
+      "Outerwear",
+      "PREBOOK START: 07/15/2026",
+      "retail",
+      "Season Fall26",
+      "Tops",
+      "Vintage Washed Fleece Hoodie",
+      "wholesale"
+     ],
+     "price": "68.00",
+     "published_at": "2026-09-15T08:37:21-05:00"
+    },
     {
      "title": "Performance Hoodie - Gun Metal Grey",
      "handle": "performance-hoodie-gun-metal-grey",
@@ -1950,65 +2051,6 @@
      ],
      "price": "59.00",
      "published_at": "2026-09-11T10:46:34-05:00"
-    },
-    {
-     "title": "Father and Son Bundle - Sherpa Mountain Fleece - Wave on Wave",
-     "handle": "father-and-son-bundle-sherpa-mountain-fleece-wave-on-wave",
-     "type": "Bundle",
-     "tags": [],
-     "price": "164.35",
-     "published_at": "2026-09-10T11:51:05-05:00"
-    },
-    {
-     "title": "Durango Jacket - Bendita Camo",
-     "handle": "durango-jacket-bendita-camo",
-     "type": "Jacket",
-     "tags": [
-      "8/27/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "Durango Jacket",
-      "Fall 26",
-      "Fall26",
-      "Long Sleeve",
-      "missinglifestyle",
-      "Outerwear",
-      "PREBOOK START: 08/01/2026",
-      "retail",
-      "Season Fall26",
-      "Tops",
-      "wholesale"
-     ],
-     "price": "119.00",
-     "published_at": "2026-09-10T10:32:34-05:00"
-    },
-    {
-     "title": "Youth Fleece Jogger - Classic Deer Camo",
-     "handle": "youth-fleece-joggers-classic-deer-camo",
-     "type": "Youth Pants",
-     "tags": [
-      "9/10/26",
-      "9/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "Bass Pro",
-      "classic-deer-camo",
-      "Core",
-      "FALL CORE",
-      "Mia Review",
-      "pdqreview",
-      "PREBOOK START: 08/01/2026",
-      "retail",
-      "Season Core",
-      "Season Fall26",
-      "wholesale",
-      "WinterSale",
-      "WinterSale34.7%",
-      "Youth"
-     ],
-     "price": "49.00",
-     "published_at": "2026-09-10T09:54:52-05:00"
     }
    ]
   },
@@ -2028,7 +2070,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2638000",
+     "price": "2636000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2041,7 +2083,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5276000",
+     "price": "5271000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2078,7 +2120,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1583000",
+     "price": "1581000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
