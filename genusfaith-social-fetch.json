@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-15",
- "fetched_at": "2026-09-15T04:15:02.693713+07:00",
+ "date": "2026-09-16",
+ "fetched_at": "2026-09-16T04:15:02.695960+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -25,15 +25,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wci35x/my_15th_anniversary_as_a_bishop/",
-     "selftext_head": ""
-    },
-    {
-     "title": "\"Today we celebrate the birth of a little girl who would be called to become the Mother of Her Creator, the Mother of God.\" - Pope Leo XIV",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1waq1zn/today_we_celebrate_the_birth_of_a_little_girl_who/",
      "selftext_head": ""
     },
     {
@@ -64,12 +55,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Shawn Ryan announces his conversion to Catholicism.",
+     "title": "Brown scapular devotion",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wb0fdq/shawn_ryan_announces_his_conversion_to_catholicism/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wfwdaq/brown_scapular_devotion/",
      "selftext_head": ""
     },
     {
@@ -91,39 +82,12 @@
      "selftext_head": ""
     },
     {
-     "title": "The Symbolic Meaning behind the Subdeacon’s Humeral Veil",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wa8eqp/the_symbolic_meaning_behind_the_subdeacons/",
-     "selftext_head": ""
-    },
-    {
      "title": "[Free Friday] back from Lourdes & Fatima for the first time with big relief!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1we07ah/free_friday_back_from_lourdes_fatima_for_the/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Is this a disrespectful crucifix?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wa4zcw/is_this_a_disrespectful_crucifix/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Brown scapular devotion",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wfwdaq/brown_scapular_devotion/",
      "selftext_head": ""
     },
     {
@@ -136,12 +100,48 @@
      "selftext_head": ""
     },
     {
-     "title": "A celebration our lady the Virgin Mary September 8th",
+     "title": "Exclusive | NJ teen set on priesthood had vision of Virgin Mary before his tumor miraculously shrank",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wazhdq/a_celebration_our_lady_the_virgin_mary_september/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wbh5j7/exclusive_nj_teen_set_on_priesthood_had_vision_of/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Why do some churches in Spain not feature the cross at the centre?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wbfo8n/why_do_some_churches_in_spain_not_feature_the/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Sacred Heart of Jesus.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wdg4d5/sacred_heart_of_jesus/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Saint Michael icon I picked up at Savelli, St. Peter’s square",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wb55z5/saint_michael_icon_i_picked_up_at_savelli_st/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Patriarch of Antioch to meet Pope as Antioch–Vatican relations deepen",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wdpc8k/patriarch_of_antioch_to_meet_pope_as/",
      "selftext_head": ""
     }
    ]
@@ -158,8 +158,8 @@
    "catholic gift for mom",
    "catholic gift for kids",
    "catholic gift for baptism",
-   "catholic gift for wife",
-   "catholic gift for baby"
+   "catholic gift for husband",
+   "catholic gift for dad"
   ],
   "rosary bracelet": [
    "rosary bracelet",
@@ -190,17 +190,17 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gifts of the holy spirit",
    "confirmation gifts for adults",
    "confirmation gifts from sponsor",
    "confirmation gift ideas for boy",
    "confirmation gifts catholic",
-   "confirmation gifts for teenage boys"
+   "confirmation gifts for teenage boys",
+   "confirmation gift ideas for girls"
   ],
   "baptism gift": [
    "baptism gifts",
    "baptism gifts for boys",
-   "baptism gifts for girls",
+   "baptism gift for girl",
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
@@ -211,6 +211,7 @@
   ],
   "catholic home decor": [
    "catholic home decor",
+   "catholic home decor ideas",
    "catholic home decor shop",
    "catholic home decor canada",
    "catholic home decor australia",
@@ -218,7 +219,6 @@
    "catholic home decor near me",
    "catholic home decor nearby",
    "catholic home decor reddit",
-   "catholic home decor store",
    "catholic home decor book"
   ],
   "saint medal necklace": [
@@ -247,7 +247,6 @@
   ],
   "catholic wedding gift": [
    "catholic wedding gifts",
-   "catholic wedding gift ideas",
    "catholic wedding gifts for couples",
    "catholic wedding gift ideas for couple",
    "catholic wedding gift for wife",
@@ -255,7 +254,8 @@
    "catholic wedding gifts rituals",
    "catholic wedding gift bearers",
    "catholic wedding gifts for bride",
-   "catholic wedding gift for husband"
+   "catholic wedding gift for husband",
+   "catholic wedding gift for the poor"
   ],
   "christian tote bag": [
    "christian tote bags",
@@ -263,8 +263,8 @@
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
-   "christian tote bag designs",
    "christian tote bag amazon",
+   "christian tote bag designs",
    "christian tote bag design ideas",
    "christian tote bags in bulk",
    "christian dior tote bag cost"
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "retail",
-  "braga fc",
-  "arapaho",
-  "gervonta davis",
-  "rj harvey",
-  "chris gallant",
-  "republican party",
-  "john krasinski",
-  "punk guitarist cheetah chrome passes",
-  "silver"
+  "fiorentina vs pisa",
+  "simone biles indianapolis move",
+  "prince harry meghan markle uk move",
+  "gasbuddy",
+  "yan diomandé",
+  "jimmy horn jr",
+  "uju anya",
+  "arda güler",
+  "2025 georgia hyundai plant immigration raid",
+  "venezuela"
  ],
  "errors": []
 }

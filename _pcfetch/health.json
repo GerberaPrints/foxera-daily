@@ -1,7 +1,7 @@
 {
  "schema_version": "1.2",
- "checked_at": "2026-09-15T04:45:49.100101+07:00",
- "date": "2026-09-15",
+ "checked_at": "2026-09-16T04:15:35.645231+07:00",
+ "date": "2026-09-16",
  "projects": [
   {
    "project": "eracloset",
@@ -26,24 +26,32 @@
   {
    "project": "gerberaprints",
    "checks": [
-    "OK live-fetch = hom nay",
-    "OK feed 10/10"
+    "FAIL live-fetch cu: 2026-09-15 (hom nay 2026-09-16)",
+    "OK feed 10/10",
+    "FAIL social-fetch cu: 2026-09-15"
    ],
    "healed": [],
-   "need_human": [],
-   "status": "OK",
+   "need_human": [
+    "gerberaprints: du lieu dung o 2026-09-15, task CO THAT (27 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
+    "gerberaprints: social dung o 2026-09-15 (hom nay 2026-09-16). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gerberaprints"
+   ],
+   "status": "FAIL",
    "feeds": "10/10",
    "reddit": "1/1"
   },
   {
    "project": "gritfell",
    "checks": [
-    "OK live-fetch = hom nay",
-    "OK feed 13/13"
+    "FAIL live-fetch cu: 2026-09-15 (hom nay 2026-09-16)",
+    "OK feed 13/13",
+    "FAIL social-fetch cu: 2026-09-15"
    ],
    "healed": [],
-   "need_human": [],
-   "status": "OK",
+   "need_human": [
+    "gritfell: du lieu dung o 2026-09-15, task CO THAT (29 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
+    "gritfell: social dung o 2026-09-15 (hom nay 2026-09-16). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gritfell"
+   ],
+   "status": "FAIL",
    "feeds": "13/13",
    "reddit": "10/10"
   },
@@ -66,11 +74,11 @@
   {
    "project": "[watch] gerbera-live-fetch.json",
    "checks": [
-    "FAIL cu: 2026-09-14"
+    "FAIL cu: 2026-09-15"
    ],
    "healed": [],
    "need_human": [
-    "gerbera-live-fetch.json dung o 2026-09-14 (hom nay 2026-09-15) — ban tin Gerbera market moi sang DOC file nay (khong phai gerberaprints-live-fetch.json). Sinh boi: Task Scheduler 'Gerbera PC Fetch' 06:45 (gerbera_fetch.py v1.1.1, 15 nguon/lan). Kiem: schtasks /Query /TN \"Gerbera PC Fetch\" /V /FO LIST | findstr \"Last Result\""
+    "gerbera-live-fetch.json dung o 2026-09-15 (hom nay 2026-09-16) — ban tin Gerbera market moi sang DOC file nay (khong phai gerberaprints-live-fetch.json). Sinh boi: Task Scheduler 'Gerbera PC Fetch' 06:45 (gerbera_fetch.py v1.1.1, 15 nguon/lan). Kiem: schtasks /Query /TN \"Gerbera PC Fetch\" /V /FO LIST | findstr \"Last Result\""
    ],
    "status": "FAIL"
   },
@@ -90,7 +98,7 @@
    ],
    "healed": [],
    "need_human": [
-    "gerbera-market.json dung o 2026-08-22 (hom nay 2026-09-15) — GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.. Sinh boi: routine cloud [Gerbera-Trend] Research. Kiem: Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich. || 14/09: ghi chu nay VAN DUNG cho muc nay (loi proxy 403 khi phien cloud push thang GitHub). Duong ra sach hon dang de xuat: cho routine ghi len Drive roi de fxDrivePush day ho, y het nhanh Etsy."
+    "gerbera-market.json dung o 2026-08-22 (hom nay 2026-09-16) — GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.. Sinh boi: routine cloud [Gerbera-Trend] Research. Kiem: Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich. || 14/09: ghi chu nay VAN DUNG cho muc nay (loi proxy 403 khi phien cloud push thang GitHub). Duong ra sach hon dang de xuat: cho routine ghi len Drive roi de fxDrivePush day ho, y het nhanh Etsy."
    ],
    "status": "FAIL"
   },
@@ -101,7 +109,7 @@
    ],
    "healed": [],
    "need_human": [
-    "foxera-job.json dung o 2026-08-03 (hom nay 2026-09-15) — Ban tin FoxEra Job (EraCloset). DAY LA MUC HONG THAT — job nay VAN push GitHub, khac hai muc gritfell/genusfaith da chuyen Drive.. Sinh boi: routine cloud FoxEra Job. Kiem: Prompt task da duoc sua 22/08/2026: push loi -> BAT BUOC SendUserFile 2 file truoc, roi moi PushNotification. Tu 23/08 tro di, push hong thi user van nhan duoc file — chep vao repo roi chay 'python gpday.py'. Neu 23/08 van khong nhan duoc file thi ban va prompt do hong, bao Claude. || 14/09: ghi chu nay VAN DUNG cho muc nay (loi proxy 403 khi phien cloud push thang GitHub). Duong ra sach hon dang de xuat: cho routine ghi len Drive roi de fxDrivePush day ho, y het nhanh Etsy."
+    "foxera-job.json dung o 2026-08-03 (hom nay 2026-09-16) — Ban tin FoxEra Job (EraCloset). DAY LA MUC HONG THAT — job nay VAN push GitHub, khac hai muc gritfell/genusfaith da chuyen Drive.. Sinh boi: routine cloud FoxEra Job. Kiem: Prompt task da duoc sua 22/08/2026: push loi -> BAT BUOC SendUserFile 2 file truoc, roi moi PushNotification. Tu 23/08 tro di, push hong thi user van nhan duoc file — chep vao repo roi chay 'python gpday.py'. Neu 23/08 van khong nhan duoc file thi ban va prompt do hong, bao Claude. || 14/09: ghi chu nay VAN DUNG cho muc nay (loi proxy 403 khi phien cloud push thang GitHub). Duong ra sach hon dang de xuat: cho routine ghi len Drive roi de fxDrivePush day ho, y het nhanh Etsy."
    ],
    "status": "FAIL"
   },
@@ -112,7 +120,7 @@
    ],
    "healed": [],
    "need_human": [
-    "foxera-daily.json dung o 2026-09-14 (hom nay 2026-09-15) — Ban tin FoxEra Etsy/POD. Hub GAS va routine cloud deu doc lai file nay, nen no cu thi ca hai chay tren so cu ma khong bao gi.. Sinh boi: routine cloud Etsy FoxEra Daily Research 02:00 + CHAY BU 04:00 (ca hai dang khong giao duoc file). Kiem: DUONG ONG THAT (da xac minh 14/09/2026): routine cloud ghi file len Drive, roi ham GAS fxDrivePush() trong project Apps Script 'FoxEra - Etsy System' doc Drive va commit len GitHub luc ~05:35 BKK. Tac gia commit = 'FoxEra Co. Ltd'. SU CO 11-14/09: GH_TOKEN trong Script Properties cua project do bi xoa hom 09/09 -> moi lenh goi GitHub tra 401 Bad credentials -> ban sao dung im o 10/09 suot 4 ngay. CACH SUA DA CHAY DUOC: tao GitHub fine-grained PAT (owner GerberaPrints, repo foxera-daily, Contents Read and write) -> dan vao Script Property GH_TOKEN -> chay tay fxDrivePush(). CANH BAO: fxDrivePush BAT loi 401 roi bao qua Telegram thay vi de vang, nen trang 'Lan thuc thi' cua Apps Script van hien 'Da hoan thanh' du no khong day duoc gi. KHONG dung trang do de ket luan. Kiem that bang raw URL: khoa 'date' phai la hom nay. GHI CHU LICH SU: ghi chu cu o day noi 'DUNG cap lai PAT - vo ich' la NOI VE proxy 403 cua phien cloud khi push THANG GitHub - dung cho gerbera-market.json va foxera-job.json, SAI cho hai file nay."
+    "foxera-daily.json dung o 2026-09-14 (hom nay 2026-09-16) — Ban tin FoxEra Etsy/POD. Hub GAS va routine cloud deu doc lai file nay, nen no cu thi ca hai chay tren so cu ma khong bao gi.. Sinh boi: routine cloud Etsy FoxEra Daily Research 02:00 + CHAY BU 04:00 (ca hai dang khong giao duoc file). Kiem: DUONG ONG THAT (da xac minh 14/09/2026): routine cloud ghi file len Drive, roi ham GAS fxDrivePush() trong project Apps Script 'FoxEra - Etsy System' doc Drive va commit len GitHub luc ~05:35 BKK. Tac gia commit = 'FoxEra Co. Ltd'. SU CO 11-14/09: GH_TOKEN trong Script Properties cua project do bi xoa hom 09/09 -> moi lenh goi GitHub tra 401 Bad credentials -> ban sao dung im o 10/09 suot 4 ngay. CACH SUA DA CHAY DUOC: tao GitHub fine-grained PAT (owner GerberaPrints, repo foxera-daily, Contents Read and write) -> dan vao Script Property GH_TOKEN -> chay tay fxDrivePush(). CANH BAO: fxDrivePush BAT loi 401 roi bao qua Telegram thay vi de vang, nen trang 'Lan thuc thi' cua Apps Script van hien 'Da hoan thanh' du no khong day duoc gi. KHONG dung trang do de ket luan. Kiem that bang raw URL: khoa 'date' phai la hom nay. GHI CHU LICH SU: ghi chu cu o day noi 'DUNG cap lai PAT - vo ich' la NOI VE proxy 403 cua phien cloud khi push THANG GitHub - dung cho gerbera-market.json va foxera-job.json, SAI cho hai file nay."
    ],
    "status": "FAIL"
   },
@@ -123,17 +131,21 @@
    ],
    "healed": [],
    "need_human": [
-    "foxera-accounts-daily.json dung o 2026-09-14 (hom nay 2026-09-15) — Registry tai khoan Etsy - Hub GAS doc qua raw URL (key external_fetch_contract).. Sinh boi: routine cloud FoxEra (cung nhanh voi foxera-daily.json). Kiem: DUONG ONG THAT (da xac minh 14/09/2026): routine cloud ghi file len Drive, roi ham GAS fxDrivePush() trong project Apps Script 'FoxEra - Etsy System' doc Drive va commit len GitHub luc ~05:35 BKK. Tac gia commit = 'FoxEra Co. Ltd'. SU CO 11-14/09: GH_TOKEN trong Script Properties cua project do bi xoa hom 09/09 -> moi lenh goi GitHub tra 401 Bad credentials -> ban sao dung im o 10/09 suot 4 ngay. CACH SUA DA CHAY DUOC: tao GitHub fine-grained PAT (owner GerberaPrints, repo foxera-daily, Contents Read and write) -> dan vao Script Property GH_TOKEN -> chay tay fxDrivePush(). CANH BAO: fxDrivePush BAT loi 401 roi bao qua Telegram thay vi de vang, nen trang 'Lan thuc thi' cua Apps Script van hien 'Da hoan thanh' du no khong day duoc gi. KHONG dung trang do de ket luan. Kiem that bang raw URL: khoa 'date' phai la hom nay. GHI CHU LICH SU: ghi chu cu o day noi 'DUNG cap lai PAT - vo ich' la NOI VE proxy 403 cua phien cloud khi push THANG GitHub - dung cho gerbera-market.json va foxera-job.json, SAI cho hai file nay."
+    "foxera-accounts-daily.json dung o 2026-09-14 (hom nay 2026-09-16) — Registry tai khoan Etsy - Hub GAS doc qua raw URL (key external_fetch_contract).. Sinh boi: routine cloud FoxEra (cung nhanh voi foxera-daily.json). Kiem: DUONG ONG THAT (da xac minh 14/09/2026): routine cloud ghi file len Drive, roi ham GAS fxDrivePush() trong project Apps Script 'FoxEra - Etsy System' doc Drive va commit len GitHub luc ~05:35 BKK. Tac gia commit = 'FoxEra Co. Ltd'. SU CO 11-14/09: GH_TOKEN trong Script Properties cua project do bi xoa hom 09/09 -> moi lenh goi GitHub tra 401 Bad credentials -> ban sao dung im o 10/09 suot 4 ngay. CACH SUA DA CHAY DUOC: tao GitHub fine-grained PAT (owner GerberaPrints, repo foxera-daily, Contents Read and write) -> dan vao Script Property GH_TOKEN -> chay tay fxDrivePush(). CANH BAO: fxDrivePush BAT loi 401 roi bao qua Telegram thay vi de vang, nen trang 'Lan thuc thi' cua Apps Script van hien 'Da hoan thanh' du no khong day duoc gi. KHONG dung trang do de ket luan. Kiem that bang raw URL: khoa 'date' phai la hom nay. GHI CHU LICH SU: ghi chu cu o day noi 'DUNG cap lai PAT - vo ich' la NOI VE proxy 403 cua phien cloud khi push THANG GitHub - dung cho gerbera-market.json va foxera-job.json, SAI cho hai file nay."
    ],
    "status": "FAIL"
   }
  ],
  "need_human": [
-  "gerbera-live-fetch.json dung o 2026-09-14 (hom nay 2026-09-15) — ban tin Gerbera market moi sang DOC file nay (khong phai gerberaprints-live-fetch.json). Sinh boi: Task Scheduler 'Gerbera PC Fetch' 06:45 (gerbera_fetch.py v1.1.1, 15 nguon/lan). Kiem: schtasks /Query /TN \"Gerbera PC Fetch\" /V /FO LIST | findstr \"Last Result\"",
-  "gerbera-market.json dung o 2026-08-22 (hom nay 2026-09-15) — GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.. Sinh boi: routine cloud [Gerbera-Trend] Research. Kiem: Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich. || 14/09: ghi chu nay VAN DUNG cho muc nay (loi proxy 403 khi phien cloud push thang GitHub). Duong ra sach hon dang de xuat: cho routine ghi len Drive roi de fxDrivePush day ho, y het nhanh Etsy.",
-  "foxera-job.json dung o 2026-08-03 (hom nay 2026-09-15) — Ban tin FoxEra Job (EraCloset). DAY LA MUC HONG THAT — job nay VAN push GitHub, khac hai muc gritfell/genusfaith da chuyen Drive.. Sinh boi: routine cloud FoxEra Job. Kiem: Prompt task da duoc sua 22/08/2026: push loi -> BAT BUOC SendUserFile 2 file truoc, roi moi PushNotification. Tu 23/08 tro di, push hong thi user van nhan duoc file — chep vao repo roi chay 'python gpday.py'. Neu 23/08 van khong nhan duoc file thi ban va prompt do hong, bao Claude. || 14/09: ghi chu nay VAN DUNG cho muc nay (loi proxy 403 khi phien cloud push thang GitHub). Duong ra sach hon dang de xuat: cho routine ghi len Drive roi de fxDrivePush day ho, y het nhanh Etsy.",
-  "foxera-daily.json dung o 2026-09-14 (hom nay 2026-09-15) — Ban tin FoxEra Etsy/POD. Hub GAS va routine cloud deu doc lai file nay, nen no cu thi ca hai chay tren so cu ma khong bao gi.. Sinh boi: routine cloud Etsy FoxEra Daily Research 02:00 + CHAY BU 04:00 (ca hai dang khong giao duoc file). Kiem: DUONG ONG THAT (da xac minh 14/09/2026): routine cloud ghi file len Drive, roi ham GAS fxDrivePush() trong project Apps Script 'FoxEra - Etsy System' doc Drive va commit len GitHub luc ~05:35 BKK. Tac gia commit = 'FoxEra Co. Ltd'. SU CO 11-14/09: GH_TOKEN trong Script Properties cua project do bi xoa hom 09/09 -> moi lenh goi GitHub tra 401 Bad credentials -> ban sao dung im o 10/09 suot 4 ngay. CACH SUA DA CHAY DUOC: tao GitHub fine-grained PAT (owner GerberaPrints, repo foxera-daily, Contents Read and write) -> dan vao Script Property GH_TOKEN -> chay tay fxDrivePush(). CANH BAO: fxDrivePush BAT loi 401 roi bao qua Telegram thay vi de vang, nen trang 'Lan thuc thi' cua Apps Script van hien 'Da hoan thanh' du no khong day duoc gi. KHONG dung trang do de ket luan. Kiem that bang raw URL: khoa 'date' phai la hom nay. GHI CHU LICH SU: ghi chu cu o day noi 'DUNG cap lai PAT - vo ich' la NOI VE proxy 403 cua phien cloud khi push THANG GitHub - dung cho gerbera-market.json va foxera-job.json, SAI cho hai file nay.",
-  "foxera-accounts-daily.json dung o 2026-09-14 (hom nay 2026-09-15) — Registry tai khoan Etsy - Hub GAS doc qua raw URL (key external_fetch_contract).. Sinh boi: routine cloud FoxEra (cung nhanh voi foxera-daily.json). Kiem: DUONG ONG THAT (da xac minh 14/09/2026): routine cloud ghi file len Drive, roi ham GAS fxDrivePush() trong project Apps Script 'FoxEra - Etsy System' doc Drive va commit len GitHub luc ~05:35 BKK. Tac gia commit = 'FoxEra Co. Ltd'. SU CO 11-14/09: GH_TOKEN trong Script Properties cua project do bi xoa hom 09/09 -> moi lenh goi GitHub tra 401 Bad credentials -> ban sao dung im o 10/09 suot 4 ngay. CACH SUA DA CHAY DUOC: tao GitHub fine-grained PAT (owner GerberaPrints, repo foxera-daily, Contents Read and write) -> dan vao Script Property GH_TOKEN -> chay tay fxDrivePush(). CANH BAO: fxDrivePush BAT loi 401 roi bao qua Telegram thay vi de vang, nen trang 'Lan thuc thi' cua Apps Script van hien 'Da hoan thanh' du no khong day duoc gi. KHONG dung trang do de ket luan. Kiem that bang raw URL: khoa 'date' phai la hom nay. GHI CHU LICH SU: ghi chu cu o day noi 'DUNG cap lai PAT - vo ich' la NOI VE proxy 403 cua phien cloud khi push THANG GitHub - dung cho gerbera-market.json va foxera-job.json, SAI cho hai file nay."
+  "gerberaprints: du lieu dung o 2026-09-15, task CO THAT (27 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
+  "gerberaprints: social dung o 2026-09-15 (hom nay 2026-09-16). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gerberaprints",
+  "gritfell: du lieu dung o 2026-09-15, task CO THAT (29 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
+  "gritfell: social dung o 2026-09-15 (hom nay 2026-09-16). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gritfell",
+  "gerbera-live-fetch.json dung o 2026-09-15 (hom nay 2026-09-16) — ban tin Gerbera market moi sang DOC file nay (khong phai gerberaprints-live-fetch.json). Sinh boi: Task Scheduler 'Gerbera PC Fetch' 06:45 (gerbera_fetch.py v1.1.1, 15 nguon/lan). Kiem: schtasks /Query /TN \"Gerbera PC Fetch\" /V /FO LIST | findstr \"Last Result\"",
+  "gerbera-market.json dung o 2026-08-22 (hom nay 2026-09-16) — GAS v3.9 doc file nay o 4 nhip: gpSlot3Market 08:30 (B1-B3) · gpSlot4Ideas 09:00 (B4-B8) · gpSlot6Video 09:45 (B10) · gpSlot7Moves 10:00 (B11). Cu = 4 tin Telegram moi sang lap lai ban cu.. Sinh boi: routine cloud [Gerbera-Trend] Research. Kiem: Phien cloud Cowork KHONG push duoc: git proxy tra 403 'not in this session's authorized repository set' va GO PAT ra, tu tiem credential rieng. KIEM CHUNG 21/08/2026: (a) job_config cua ca 14 task cloud KHONG co truong sources/repo nao de khai; (b) permission_mode cua chung VON DA la 'auto', khong he o che do duyet tay; (c) GitHub App Claude da cai voi Contents:write ma phien Cowork van 403 -> HAI TANG khac nhau. DUONG DANG CHAY: phien claude.ai/code push duoc vao main (da chung minh commit 2399f3d). CACH XU LY HANG NGAY: mo phien cua task cloud (nut 'Open session' trong thong bao), lay 2 file dinh kem, chay 'python gpday.py'. DUNG cap lai PAT — vo ich. || 14/09: ghi chu nay VAN DUNG cho muc nay (loi proxy 403 khi phien cloud push thang GitHub). Duong ra sach hon dang de xuat: cho routine ghi len Drive roi de fxDrivePush day ho, y het nhanh Etsy.",
+  "foxera-job.json dung o 2026-08-03 (hom nay 2026-09-16) — Ban tin FoxEra Job (EraCloset). DAY LA MUC HONG THAT — job nay VAN push GitHub, khac hai muc gritfell/genusfaith da chuyen Drive.. Sinh boi: routine cloud FoxEra Job. Kiem: Prompt task da duoc sua 22/08/2026: push loi -> BAT BUOC SendUserFile 2 file truoc, roi moi PushNotification. Tu 23/08 tro di, push hong thi user van nhan duoc file — chep vao repo roi chay 'python gpday.py'. Neu 23/08 van khong nhan duoc file thi ban va prompt do hong, bao Claude. || 14/09: ghi chu nay VAN DUNG cho muc nay (loi proxy 403 khi phien cloud push thang GitHub). Duong ra sach hon dang de xuat: cho routine ghi len Drive roi de fxDrivePush day ho, y het nhanh Etsy.",
+  "foxera-daily.json dung o 2026-09-14 (hom nay 2026-09-16) — Ban tin FoxEra Etsy/POD. Hub GAS va routine cloud deu doc lai file nay, nen no cu thi ca hai chay tren so cu ma khong bao gi.. Sinh boi: routine cloud Etsy FoxEra Daily Research 02:00 + CHAY BU 04:00 (ca hai dang khong giao duoc file). Kiem: DUONG ONG THAT (da xac minh 14/09/2026): routine cloud ghi file len Drive, roi ham GAS fxDrivePush() trong project Apps Script 'FoxEra - Etsy System' doc Drive va commit len GitHub luc ~05:35 BKK. Tac gia commit = 'FoxEra Co. Ltd'. SU CO 11-14/09: GH_TOKEN trong Script Properties cua project do bi xoa hom 09/09 -> moi lenh goi GitHub tra 401 Bad credentials -> ban sao dung im o 10/09 suot 4 ngay. CACH SUA DA CHAY DUOC: tao GitHub fine-grained PAT (owner GerberaPrints, repo foxera-daily, Contents Read and write) -> dan vao Script Property GH_TOKEN -> chay tay fxDrivePush(). CANH BAO: fxDrivePush BAT loi 401 roi bao qua Telegram thay vi de vang, nen trang 'Lan thuc thi' cua Apps Script van hien 'Da hoan thanh' du no khong day duoc gi. KHONG dung trang do de ket luan. Kiem that bang raw URL: khoa 'date' phai la hom nay. GHI CHU LICH SU: ghi chu cu o day noi 'DUNG cap lai PAT - vo ich' la NOI VE proxy 403 cua phien cloud khi push THANG GitHub - dung cho gerbera-market.json va foxera-job.json, SAI cho hai file nay.",
+  "foxera-accounts-daily.json dung o 2026-09-14 (hom nay 2026-09-16) — Registry tai khoan Etsy - Hub GAS doc qua raw URL (key external_fetch_contract).. Sinh boi: routine cloud FoxEra (cung nhanh voi foxera-daily.json). Kiem: DUONG ONG THAT (da xac minh 14/09/2026): routine cloud ghi file len Drive, roi ham GAS fxDrivePush() trong project Apps Script 'FoxEra - Etsy System' doc Drive va commit len GitHub luc ~05:35 BKK. Tac gia commit = 'FoxEra Co. Ltd'. SU CO 11-14/09: GH_TOKEN trong Script Properties cua project do bi xoa hom 09/09 -> moi lenh goi GitHub tra 401 Bad credentials -> ban sao dung im o 10/09 suot 4 ngay. CACH SUA DA CHAY DUOC: tao GitHub fine-grained PAT (owner GerberaPrints, repo foxera-daily, Contents Read and write) -> dan vao Script Property GH_TOKEN -> chay tay fxDrivePush(). CANH BAO: fxDrivePush BAT loi 401 roi bao qua Telegram thay vi de vang, nen trang 'Lan thuc thi' cua Apps Script van hien 'Da hoan thanh' du no khong day duoc gi. KHONG dung trang do de ket luan. Kiem that bang raw URL: khoa 'date' phai la hom nay. GHI CHU LICH SU: ghi chu cu o day noi 'DUNG cap lai PAT - vo ich' la NOI VE proxy 403 cua phien cloud khi push THANG GitHub - dung cho gerbera-market.json va foxera-job.json, SAI cho hai file nay."
  ],
  "overall": "NEED_HUMAN",
  "chua_mo": [
