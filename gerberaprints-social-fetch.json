@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-15",
- "fetched_at": "2026-09-15T04:45:03.296408+07:00",
+ "date": "2026-09-16",
+ "fetched_at": "2026-09-16T04:45:03.881390+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -34,6 +34,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wdf6j0/golfer_collin_morikawa_creating_core_memory_for/",
+     "selftext_head": ""
+    },
+    {
+     "title": "First Hole in One!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wgka8s/first_hole_in_one/",
      "selftext_head": ""
     },
     {
@@ -73,15 +82,6 @@
      "selftext_head": ""
     },
     {
-     "title": "I found my ball ten feet from the tree line. It must have kicked out. I don't have anything to deceive you on. I've been playing a Callaway all round. Of course I'm not deceiving you. I'm engaging with you as a human being.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1waqj7b/i_found_my_ball_ten_feet_from_the_tree_line_it/",
-     "selftext_head": ""
-    },
-    {
      "title": "Shane Lowry wins the Irish Open (DP World Tour) by 11 strokes!",
      "score": null,
      "num_comments": null,
@@ -100,33 +100,6 @@
      "selftext_head": ""
     },
     {
-     "title": "LIV Golf: Players free to leave after competition files for bankruptcy protection",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wb07b4/liv_golf_players_free_to_leave_after_competition/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Ludvig Åberg grades celebrity swings",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1waoc41/ludvig_åberg_grades_celebrity_swings/",
-     "selftext_head": ""
-    },
-    {
-     "title": "I'm new to golf and I got this driver gifted to me is it good?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wac1u6/im_new_to_golf_and_i_got_this_driver_gifted_to_me/",
-     "selftext_head": ""
-    },
-    {
      "title": "Two chinooks holding up the play at the Irish Open",
      "score": null,
      "num_comments": null,
@@ -136,12 +109,39 @@
      "selftext_head": ""
     },
     {
+     "title": "Some hooligans tearing up our home course",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wgixmn/some_hooligans_tearing_up_our_home_course/",
+     "selftext_head": ""
+    },
+    {
      "title": "Justin Thomas endorses \"pricks\" at golf courses being named and shamed in the clubhouse.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wbpx9x/justin_thomas_endorses_pricks_at_golf_courses/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Haven't really played in 20 years. Wanted to try out some hybrids for the first time to build out a set and even found an old 7 wood. The gapping between clubs did not turn out well...",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wetawp/havent_really_played_in_20_years_wanted_to_try/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Tiger is hitting balls again this morning at Liberty National. No word on if the driver was taken out",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wh11eu/tiger_is_hitting_balls_again_this_morning_at/",
      "selftext_head": ""
     }
    ]
@@ -214,8 +214,8 @@
    "golf tournament gift bags",
    "golf tournament gifts for players",
    "golf tournament gift basket ideas",
-   "golf tournament gifts under $10",
    "golf tournament gifts under $5",
+   "golf tournament gifts under $10",
    "prizes for golf tournaments",
    "whats a good gift for a golfer"
   ],
@@ -266,14 +266,14 @@
   "golf apparel funny": [
    "golf apparel funny",
    "golf shirts funny",
+   "golf shirts funny men",
    "golf clothing funny",
    "golf shirt funny pattern",
    "golf shirts funny women",
    "golf shirts funny australia",
+   "golf shirts funny print",
    "golf shirts funny sayings",
-   "golf shirts funny amazon",
-   "golf shirt funny design",
-   "funny golf outfit ideas"
+   "golf shirts funny amazon"
   ],
   "hawaiian golf shirt": [
    "hawaiian golf shirts",
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "arrest",
-  "mikayla matthews",
-  "harry and meghan",
-  "braga vs estoril",
-  "retail",
-  "villarreal cf vs real betis standings",
-  "chris gallant",
-  "braga fc",
-  "arapaho",
-  "gervonta davis"
+  "kauai",
+  "fiorentina vs pisa",
+  "simone biles indianapolis move",
+  "kim kardashian paris heist verdict",
+  "prince harry meghan markle uk move",
+  "in",
+  "yan diomandé",
+  "jimmy horn jr",
+  "uju anya",
+  "mortgage rates today"
  ],
  "errors": []
 }
