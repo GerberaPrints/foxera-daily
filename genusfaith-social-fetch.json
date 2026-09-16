@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-16",
- "fetched_at": "2026-09-16T04:15:02.695960+07:00",
+ "date": "2026-09-17",
+ "fetched_at": "2026-09-17T04:15:03.137151+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -25,15 +25,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wci35x/my_15th_anniversary_as_a_bishop/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Happy feast day of St. Peter Claver, the slave of the slaves!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wbhiva/happy_feast_day_of_st_peter_claver_the_slave_of/",
      "selftext_head": ""
     },
     {
@@ -100,21 +91,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Exclusive | NJ teen set on priesthood had vision of Virgin Mary before his tumor miraculously shrank",
+     "title": "Exposed brick churches",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wbh5j7/exclusive_nj_teen_set_on_priesthood_had_vision_of/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Why do some churches in Spain not feature the cross at the centre?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wbfo8n/why_do_some_churches_in_spain_not_feature_the/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wh3w81/exposed_brick_churches/",
      "selftext_head": ""
     },
     {
@@ -127,21 +109,39 @@
      "selftext_head": ""
     },
     {
-     "title": "Saint Michael icon I picked up at Savelli, St. Peter’s square",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wb55z5/saint_michael_icon_i_picked_up_at_savelli_st/",
-     "selftext_head": ""
-    },
-    {
      "title": "Patriarch of Antioch to meet Pope as Antioch–Vatican relations deepen",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wdpc8k/patriarch_of_antioch_to_meet_pope_as/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I’m an atheist and am thinking about attending Mass for the first time",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wggi8d/im_an_atheist_and_am_thinking_about_attending/",
+     "selftext_head": ""
+    },
+    {
+     "title": "My post from the other day with my cat and Catholic study Bible got deleted. but here are all three of the boys as requested.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wdt8q3/my_post_from_the_other_day_with_my_cat_and/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Responding to Witches attending mass",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wfdc10/responding_to_witches_attending_mass/",
      "selftext_head": ""
     }
    ]
@@ -158,8 +158,8 @@
    "catholic gift for mom",
    "catholic gift for kids",
    "catholic gift for baptism",
-   "catholic gift for husband",
-   "catholic gift for dad"
+   "catholic gift for wife",
+   "catholic gift for baby"
   ],
   "rosary bracelet": [
    "rosary bracelet",
@@ -190,12 +190,12 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gifts for adults",
-   "confirmation gifts from sponsor",
-   "confirmation gift ideas for boy",
-   "confirmation gifts catholic",
    "confirmation gifts for teenage boys",
-   "confirmation gift ideas for girls"
+   "confirmation gifts catholic",
+   "confirmation gifts for teen girls",
+   "confirmation gifts for adults",
+   "confirmation gift ideas for girls",
+   "confirmation gifts near me"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -236,7 +236,7 @@
   "first communion gift": [
    "first communion gifts",
    "first communion gifts for boys",
-   "first communion gifts for girls",
+   "first communion gifts for girl",
    "first communion gift ideas",
    "first communion gifts near me",
    "first communion gifts for boys catholic",
@@ -247,6 +247,7 @@
   ],
   "catholic wedding gift": [
    "catholic wedding gifts",
+   "catholic wedding gift ideas",
    "catholic wedding gifts for couples",
    "catholic wedding gift ideas for couple",
    "catholic wedding gift for wife",
@@ -254,8 +255,7 @@
    "catholic wedding gifts rituals",
    "catholic wedding gift bearers",
    "catholic wedding gifts for bride",
-   "catholic wedding gift for husband",
-   "catholic wedding gift for the poor"
+   "catholic wedding gift for husband"
   ],
   "christian tote bag": [
    "christian tote bags",
@@ -263,8 +263,8 @@
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
-   "christian tote bag amazon",
    "christian tote bag designs",
+   "christian tote bag amazon",
    "christian tote bag design ideas",
    "christian tote bags in bulk",
    "christian dior tote bag cost"
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "fiorentina vs pisa",
-  "simone biles indianapolis move",
-  "prince harry meghan markle uk move",
-  "gasbuddy",
-  "yan diomandé",
-  "jimmy horn jr",
-  "uju anya",
-  "arda güler",
-  "2025 georgia hyundai plant immigration raid",
-  "venezuela"
+  "multiverse reforged commander decklist",
+  "jeanine fereshetian",
+  "nia long",
+  "campeones cup",
+  "thresher shark",
+  "wichita ks boil water advisory",
+  "red bull",
+  "raphinha",
+  "troy aikman",
+  "white house chief of staff"
  ],
  "errors": []
 }
