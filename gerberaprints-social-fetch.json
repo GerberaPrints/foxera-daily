@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-16",
- "fetched_at": "2026-09-16T04:45:03.881390+07:00",
+ "date": "2026-09-17",
+ "fetched_at": "2026-09-17T04:45:02.866970+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -55,6 +55,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Sometimes I hit my golf ball so hard, it changes brands when Ifind it 🤔😜😂",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1whdsel/sometimes_i_hit_my_golf_ball_so_hard_it_changes/",
+     "selftext_head": ""
+    },
+    {
      "title": "Where does John Daly rank all time?",
      "score": null,
      "num_comments": null,
@@ -100,15 +109,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Two chinooks holding up the play at the Irish Open",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wede58/two_chinooks_holding_up_the_play_at_the_irish_open/",
-     "selftext_head": ""
-    },
-    {
      "title": "Some hooligans tearing up our home course",
      "score": null,
      "num_comments": null,
@@ -118,12 +118,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Justin Thomas endorses \"pricks\" at golf courses being named and shamed in the clubhouse.",
+     "title": "Tiger is hitting balls again this morning at Liberty National. No word on if the driver was taken out",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wbpx9x/justin_thomas_endorses_pricks_at_golf_courses/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wh11eu/tiger_is_hitting_balls_again_this_morning_at/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Two chinooks holding up the play at the Irish Open",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wede58/two_chinooks_holding_up_the_play_at_the_irish_open/",
      "selftext_head": ""
     },
     {
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wetawp/havent_really_played_in_20_years_wanted_to_try/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Tiger is hitting balls again this morning at Liberty National. No word on if the driver was taken out",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wh11eu/tiger_is_hitting_balls_again_this_morning_at/",
      "selftext_head": ""
     }
    ]
@@ -214,8 +214,8 @@
    "golf tournament gift bags",
    "golf tournament gifts for players",
    "golf tournament gift basket ideas",
-   "golf tournament gifts under $5",
    "golf tournament gifts under $10",
+   "golf tournament gifts under $5",
    "prizes for golf tournaments",
    "whats a good gift for a golfer"
   ],
@@ -259,8 +259,10 @@
    "golf gift for boss",
    "golf gift ideas for boss",
    "best golf.gift for.boss",
+   "golf related gift for boss",
    "golf gift for manager",
    "gift for boss who likes golf",
+   "gift for boss who loves golf",
    "golf gift ideas for him"
   ],
   "golf apparel funny": [
@@ -289,16 +291,16 @@
   ]
  },
  "trends": [
-  "kauai",
-  "fiorentina vs pisa",
-  "simone biles indianapolis move",
-  "kim kardashian paris heist verdict",
-  "prince harry meghan markle uk move",
-  "in",
-  "yan diomandé",
-  "jimmy horn jr",
-  "uju anya",
-  "mortgage rates today"
+  "joan garcía",
+  "carabao cup draw",
+  "ldu quito - palmeiras",
+  "de",
+  "caitlin clark indiana fever",
+  "pennsylvania measles outbreak",
+  "saidah belo-osagie",
+  "atlético mineiro vs santos",
+  "twins",
+  "measles symptoms"
  ],
  "errors": []
 }
