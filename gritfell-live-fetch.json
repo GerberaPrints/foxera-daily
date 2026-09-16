@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-16",
- "fetched_at": "2026-09-16T04:30:02.695315+07:00",
+ "date": "2026-09-17",
+ "fetched_at": "2026-09-17T04:30:02.872598+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 117,
@@ -1204,6 +1204,74 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Men's Brush Wingshooting Vest",
+     "handle": "mens-brush-wingshooting-vest",
+     "type": "Combined Product",
+     "tags": [],
+     "price": "129.00",
+     "published_at": "2026-09-16T12:49:19-05:00"
+    },
+    {
+     "title": "Men's Brush Wingshooting Vest - Reed",
+     "handle": "mens-brush-wingshooting-vest-reed",
+     "type": "Brush Vest",
+     "tags": [
+      "__label:new",
+      "brush",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "hunt",
+      "lifestyle",
+      "mens",
+      "msrp",
+      "outerwear",
+      "vest"
+     ],
+     "price": "129.00",
+     "published_at": "2026-09-16T12:47:04-05:00"
+    },
+    {
+     "title": "Men's Brush Wingshooting Vest - Pin Oak",
+     "handle": "mens-brush-wingshooting-vest-pin-oak",
+     "type": "Brush Vest",
+     "tags": [
+      "__label:new",
+      "brush",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "hunt",
+      "lifestyle",
+      "mens",
+      "msrp",
+      "outerwear",
+      "vest"
+     ],
+     "price": "129.00",
+     "published_at": "2026-09-16T12:44:54-05:00"
+    },
+    {
+     "title": "Men's Brush Overalls - Pin Oak",
+     "handle": "mens-brush-overalls-pin-oak",
+     "type": "Brush Overalls",
+     "tags": [
+      "__label:new",
+      "bottoms",
+      "brush",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "hunt",
+      "lifestyle",
+      "mens",
+      "msrp",
+      "outerwear",
+      "overalls"
+     ],
+     "price": "149.00",
+     "published_at": "2026-09-16T12:20:51-05:00"
+    },
+    {
      "title": "Stewards of the Wild x DC Hat - Wetland",
      "handle": "stewards-of-the-wild-dc-hat-wetland",
      "type": "Limited Release Hat",
@@ -1224,74 +1292,6 @@
      ],
      "price": "36.00",
      "published_at": "2026-09-10T14:39:24-05:00"
-    },
-    {
-     "title": "Stewards of the Wild x DC Tee - Vintage Khaki",
-     "handle": "stewards-of-the-wild-dc-tee-vintage-khaki",
-     "type": "Limited Release T-shirt",
-     "tags": [
-      "__label:new",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "hats-tees",
-      "hunt",
-      "lifestyle",
-      "logowear",
-      "logowear-tees",
-      "mens",
-      "msrp",
-      "top",
-      "womens"
-     ],
-     "price": "39.00",
-     "published_at": "2026-09-10T14:37:16-05:00"
-    },
-    {
-     "title": "TWA x DC Javelina Tee - Ivory",
-     "handle": "twa-javelina-tee",
-     "type": "Limited Release T-shirt",
-     "tags": [
-      "__label:50% off",
-      "collection-feature",
-      "eoss-f25",
-      "hunt",
-      "hunting t-shirt",
-      "last call",
-      "lifestyle",
-      "S25",
-      "size-guide::t-shirts",
-      "t-shirt",
-      "T-shirts",
-      "top"
-     ],
-     "price": "19.50",
-     "published_at": "2026-09-10T10:24:40-05:00"
-    },
-    {
-     "title": "Men's Field Tech Guide Pants",
-     "handle": "mens-field-tech-guide-pants",
-     "type": "Combined Product",
-     "tags": [],
-     "price": "159.00",
-     "published_at": "2026-08-30T13:06:24-05:00"
-    },
-    {
-     "title": "Men's Field Tech Guide Pants - Wheat",
-     "handle": "mens-field-tech-guide-pants-wheat",
-     "type": "Field Tech Pants",
-     "tags": [
-      "__label:new",
-      "bottoms",
-      "dc-inventory-sync::OFF",
-      "exchange-eligible",
-      "F26",
-      "field-tech",
-      "mens",
-      "msrp"
-     ],
-     "price": "159.00",
-     "published_at": "2026-08-30T13:05:25-05:00"
     }
    ]
   },
@@ -1758,7 +1758,7 @@
      "published_at": "2026-09-15T14:16:01-05:00"
     },
     {
-     "title": "MST Drake Dry Waxed Cotton Jac-Shirt",
+     "title": "MST Flannel-Lined Waxed Cotton Jac-Shirt",
      "handle": "mst-drake-dry-waxed-cotton-jac-shirt",
      "type": "Shirts & Tops",
      "tags": [
@@ -1795,7 +1795,7 @@
      "published_at": "2026-09-14T13:42:02-05:00"
     },
     {
-     "title": "LST Drake Featherless Down Dry Waxed Cotton Vest",
+     "title": "LST Insulated Waxed Cotton Vest",
      "handle": "lst-drake-featherless-down-dry-waxed-cotton-jacket-copy",
      "type": "Jackets & Vests",
      "tags": [
@@ -2070,7 +2070,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2636000",
+     "price": "2639000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2083,7 +2083,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5271000",
+     "price": "5278000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2096,7 +2096,7 @@
       "retail",
       "wsc"
      ],
-     "price": "923000",
+     "price": "924000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -2109,7 +2109,7 @@
       "retail",
       "wsc"
      ],
-     "price": "923000",
+     "price": "924000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2120,7 +2120,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1581000",
+     "price": "1583000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2178,6 +2178,17 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Moose Hunting Camo  Silhouette Polo Shirt VCP1004",
+     "handle": "moose-hunting-camo-silhouette-polo-shirt-vcp1004",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-09-16T05:53:41-06:00"
+    },
+    {
      "title": "Midnight Dove Hunting Paisley Hawaiian Shirt VCP1050",
      "handle": "midnight-dove-hunting-paisley-hawaiian-shirt-vcp1050",
      "type": "Polo Shirt",
@@ -2220,17 +2231,6 @@
      ],
      "price": "39.99",
      "published_at": "2026-09-13T23:47:40-06:00"
-    },
-    {
-     "title": "Tactical Hexagonal Wild Hog Hunting Camo polo Shirt VCP1046",
-     "handle": "tactical-hexagonal-wild-hog-hunting-camo-polo-shirt-vcp1046",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-09-13T23:01:19-06:00"
     }
    ]
   },
@@ -2238,75 +2238,65 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Kids' Sun Hoodie - UPF 50+ Long Sleeve UV Top for Boys & Girls",
-     "handle": "kids-sun-hoodie-upf-50-long-sleeve-uv-top",
-     "type": "sun hoodie",
-     "tags": [
-      "activity:camping",
-      "activity:hiking",
-      "activity:summer",
-      "gender:kids",
-      "type:shirts"
-     ],
-     "price": "24.95",
-     "published_at": "2026-09-14T20:26:11+02:00"
-    },
-    {
-     "title": "Men's Walking Trousers - Lightweight Cargo - Quick-Dry Hiking Trousers",
-     "handle": "mens-walking-trousers-lightweight-cargo-quick-dry-hiking-trousers",
-     "type": "Trousers",
+     "title": "Men's Windbreaker - Lined Waterproof Jacket for Hiking & Outdoor",
+     "handle": "mens-windbreaker-lined-waterproof-jacket-for-hiking-outdoor",
+     "type": "Clothing",
      "tags": [],
-     "price": "49.95",
-     "published_at": "2026-09-10T11:23:21+02:00"
+     "price": "89.95",
+     "published_at": "2026-09-16T21:28:30+02:00"
     },
     {
-     "title": "Arm Sleeves - UPF 50+ Sun Sleeves, UV Sleeves & Arm Covers, Pair",
-     "handle": "arm-sleeves-upf-50-sun-sleeves-uv-arm-covers",
-     "type": "Arm Sleeves",
-     "tags": [
-      "accessories",
-      "arm covers",
-      "arm sleeves",
-      "cooling",
-      "cycling",
-      "gardening",
-      "hiking",
-      "sun sleeves",
-      "unisex",
-      "upf 50",
-      "uv sleeves"
-     ],
-     "price": "24.95",
-     "published_at": "2026-09-07T19:28:20+02:00"
-    },
-    {
-     "title": "Men's Full-Zip Sun Hoodie - UPF 50+ Vented Hiking & Fishing Jacket",
-     "handle": "mens-lightweight-jacket-sun-protection-with-visor-hood-face-mask",
+     "title": "Men's Down Jacket - Convertible V-Neck Collar - Quilted Lightweight",
+     "handle": "mens-convertible-down-jacket",
      "type": "Jacket",
      "tags": [
-      "activity:fishing",
-      "activity:hiking",
-      "activity:summer",
+      "activity:autumn",
+      "activity:winter",
       "gender:mens",
-      "type:shirts"
+      "type:jackets"
      ],
-     "price": "44.95",
-     "published_at": "2026-09-07T17:18:52+02:00"
+     "price": "54.95",
+     "published_at": "2026-09-16T17:01:42+02:00"
     },
     {
-     "title": "Women's Zip-Up Sun Hoodie - UPF 50+ Lightweight UV Protection Jacket",
-     "handle": "womens-zip-up-sun-hoodie-lightweight-uv-protection-jacket",
-     "type": "sun hoodie",
+     "title": "Men's Puffer Jacket - Lightweight Quilted Down Jacket for Layering",
+     "handle": "mens-puffer-jacket-lightweight-quilted-down-jacket-for-layering",
+     "type": "Jacket",
      "tags": [
       "activity:hiking",
-      "activity:outdoor",
-      "activity:summer",
-      "gender:womens",
-      "season:summer",
-      "type:jacket"
+      "activity:walking",
+      "gender:mens",
+      "type:jackets"
      ],
-     "price": "44.95",
-     "published_at": "2026-09-07T14:40:53+02:00"
+     "price": "59.95",
+     "published_at": "2026-09-16T15:13:31+02:00"
+    },
+    {
+     "title": "Women's Puffer Jacket - Lightweight Packable Duck Down Jacket",
+     "handle": "womens-puffer-jacket-lightweight-packable-duck-down-jacket",
+     "type": "Puffer Jacket",
+     "tags": [
+      "activity:autumn",
+      "activity:travel",
+      "activity:winter",
+      "gender:womens",
+      "type:jackets"
+     ],
+     "price": "39.95",
+     "published_at": "2026-09-16T15:07:18+02:00"
+    },
+    {
+     "title": "Women's Walking Boots - Suede Leather Ankle Boots, Chunky Grip Sole",
+     "handle": "womens-walking-boots-suede-leather-ankle-boots-chunky-grip-sole",
+     "type": "Boots",
+     "tags": [
+      "activity:hiking",
+      "activity:walking",
+      "gender:womens",
+      "type:footwear"
+     ],
+     "price": "64.95",
+     "published_at": "2026-09-16T14:26:28+02:00"
     }
    ]
   }
