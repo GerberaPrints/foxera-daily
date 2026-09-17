@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-17",
- "fetched_at": "2026-09-17T04:30:02.872598+07:00",
+ "date": "2026-09-18",
+ "fetched_at": "2026-09-18T04:30:02.815369+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 117,
@@ -1204,6 +1204,28 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Brush Field Apron - Wetland",
+     "handle": "brush-field-apron-wetland",
+     "type": "Brush Apron",
+     "tags": [
+      "__label:new",
+      "accessory",
+      "apron",
+      "brush",
+      "collection-feature",
+      "cooking",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "gear",
+      "hunt",
+      "lifestyle",
+      "mens",
+      "msrp"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-17T13:29:48-05:00"
+    },
+    {
      "title": "Men's Brush Wingshooting Vest",
      "handle": "mens-brush-wingshooting-vest",
      "type": "Combined Product",
@@ -1270,28 +1292,6 @@
      ],
      "price": "149.00",
      "published_at": "2026-09-16T12:20:51-05:00"
-    },
-    {
-     "title": "Stewards of the Wild x DC Hat - Wetland",
-     "handle": "stewards-of-the-wild-dc-hat-wetland",
-     "type": "Limited Release Hat",
-     "tags": [
-      "__label:new",
-      "accessory",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "game-series",
-      "hat",
-      "hats-tees",
-      "headwear",
-      "lifestyle",
-      "logowear-hats",
-      "mens",
-      "womens"
-     ],
-     "price": "36.00",
-     "published_at": "2026-09-10T14:39:24-05:00"
     }
    ]
   },
@@ -1412,6 +1412,45 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Red Wing Weekender Chelsea Boot",
+     "handle": "red-wing-weekender-chelsea-boot",
+     "type": "Footwear",
+     "tags": [
+      "FW2026ZR",
+      "MENZR",
+      "MFOOTZR",
+      "MNEWZR"
+     ],
+     "price": "279.99",
+     "published_at": "2026-09-17T15:32:39-05:00"
+    },
+    {
+     "title": "Red Wing Weekender Chukka Boot",
+     "handle": "red-wing-weekender-chukka-boot",
+     "type": "Footwear",
+     "tags": [
+      "FW2026ZR",
+      "MENZR",
+      "MFOOTZR",
+      "MNEWZR"
+     ],
+     "price": "269.99",
+     "published_at": "2026-09-17T15:24:24-05:00"
+    },
+    {
+     "title": "Alden Custom Guide Boot",
+     "handle": "alden-custom-guide-boot",
+     "type": "Footwear",
+     "tags": [
+      "FW2026ZR",
+      "MENZR",
+      "MFOOTZR",
+      "MNEWZR"
+     ],
+     "price": "795.00",
+     "published_at": "2026-09-17T14:58:09-05:00"
+    },
+    {
      "title": "Fowler Jacket",
      "handle": "fowler-jacket",
      "type": "Outerwear",
@@ -1446,6 +1485,7 @@
       "HUNTZR",
       "MENZR",
       "MFIELDZR",
+      "MJACKETZR",
       "MNEWZR",
       "MSHIRTZR",
       "MSWEATLAYZR",
@@ -1453,63 +1493,6 @@
      ],
      "price": "450.00",
      "published_at": "2026-09-15T14:44:01-05:00"
-    },
-    {
-     "title": "Dalton Crewneck Sweater",
-     "handle": "dalton-crewneck-sweater",
-     "type": "Layering",
-     "tags": [
-      "FW2026ZR",
-      "MENZR",
-      "MNEWZR",
-      "MSHIRTZR",
-      "MSWEATLAYZR",
-      "WOOLZR"
-     ],
-     "price": "375.00",
-     "published_at": "2026-09-15T12:30:42-05:00"
-    },
-    {
-     "title": "Wool 6-Panel Hat - Cattle Brand",
-     "handle": "wool-6-panel-hat-cattle-brand",
-     "type": "Hats",
-     "tags": [
-      "field sport",
-      "FW2026ZR",
-      "HATSZR",
-      "HUNTZR",
-      "MENZR",
-      "MFIELDZR",
-      "MHATZR",
-      "MNEWZR",
-      "WFIELDZR",
-      "WHATZR",
-      "WNEWZR",
-      "WOMENZR"
-     ],
-     "price": "55.00",
-     "published_at": "2026-09-14T22:11:44-05:00"
-    },
-    {
-     "title": "Corduroy 5-Panel Hat - TB Ducks",
-     "handle": "corduroy-5-panel-hat-tb-ducks",
-     "type": "Hats",
-     "tags": [
-      "field sport",
-      "FW2026ZR",
-      "HATSZR",
-      "HUNTZR",
-      "MENZR",
-      "MFIELDZR",
-      "MHATZR",
-      "MNEWZR",
-      "WFIELDZR",
-      "WHATZR",
-      "WNEWZR",
-      "WOMENZR"
-     ],
-     "price": "55.00",
-     "published_at": "2026-09-11T15:30:20-05:00"
     }
    ]
   },
@@ -1847,25 +1830,6 @@
      "published_at": "2026-09-09T16:38:28-04:00"
     },
     {
-     "title": "Men's Bamboo Current Polo - Bright White",
-     "handle": "mens-bamboo-current-polo-bright-white",
-     "type": "Men's",
-     "tags": [
-      "care::bamboo",
-      "discounts::none",
-      "excMCRNP",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "Pro-Exclude-Discount",
-      "product_style: Mens Bamboo Current Polo",
-      "returns::none",
-      "SP25"
-     ],
-     "price": "36.00",
-     "published_at": "2026-09-09T16:34:26-04:00"
-    },
-    {
      "title": "Women's All Day Pocket Legging - Baltic Amber",
      "handle": "womens-all-day-pocket-legging-baltic-amber",
      "type": "Women's",
@@ -1939,6 +1903,27 @@
      ],
      "price": "49.99",
      "published_at": "2026-09-09T16:06:42-04:00"
+    },
+    {
+     "title": "Men's Bamboo Motion Boxer Brief - Slate Blue",
+     "handle": "mens-bamboo-motion-boxer-brief-slate-blue",
+     "type": "Men's",
+     "tags": [
+      "bundle::Buy 3 for $96. Use code: BUNDLE",
+      "care::bamboo",
+      "Color",
+      "discount::motion_boxer::3::percent::11::BUY 3 FOR $85",
+      "EXCBBB",
+      "fdbun",
+      "final-sale",
+      "final_sale",
+      "listo-new-pdp",
+      "motionboxergroup",
+      "product_style: Mens Bamboo Motion Boxer Brief",
+      "returns::none"
+     ],
+     "price": "36.00",
+     "published_at": "2026-09-03T00:06:23-04:00"
     }
    ]
   },
@@ -1946,111 +1931,89 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Vintage Washed Tee - Light Grey",
-     "handle": "vintage-washed-tee-light-grey",
-     "type": "Short Sleeve Tee",
-     "tags": [
-      "8/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "Casual",
-      "FALL25",
-      "Light Grey",
-      "Men's",
-      "pdqreview",
-      "retail",
-      "Season Fall25",
-      "Tops",
-      "Vintage Washed Tee",
-      "wholesale"
-     ],
-     "price": "34.00",
-     "published_at": "2026-09-15T08:37:29-05:00"
-    },
-    {
-     "title": "Vintage Washed Tee - Black",
-     "handle": "vintage-washed-tee-black",
-     "type": "Short Sleeve Tee",
-     "tags": [
-      "8/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "Black",
-      "Casual",
-      "FALL25",
-      "Men's",
-      "retail",
-      "Season Fall25",
-      "Tops",
-      "Vintage Washed Tee",
-      "wholesale"
-     ],
-     "price": "34.00",
-     "published_at": "2026-09-15T08:37:27-05:00"
-    },
-    {
-     "title": "Vintage Washed Hoodie - Midland Camo",
-     "handle": "vintage-washed-fleece-hoodie-midland-camo",
-     "type": "Vintage Washed Hoodie",
-     "tags": [
-      "8/13/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "Fall 26",
-      "Fall26",
-      "Fleece Hoodie",
-      "Mia Review",
-      "Outerwear",
-      "PREBOOK START: 07/15/2026",
-      "retail",
-      "Season Fall26",
-      "Tops",
-      "Vintage Washed Fleece Hoodie",
-      "wholesale"
-     ],
-     "price": "68.00",
-     "published_at": "2026-09-15T08:37:21-05:00"
-    },
-    {
-     "title": "Performance Hoodie - Gun Metal Grey",
-     "handle": "performance-hoodie-gun-metal-grey",
-     "type": "Performance Hoodie",
-     "tags": [
-      "8/4/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "Camo",
-      "hide-notify-btn",
-      "hide-preorder-btn",
-      "Long Sleeve",
-      "pdqreview",
-      "Performance Hoodie",
-      "PREBOOK START: 06/01/2026",
-      "retail",
-      "Tops",
-      "wholesale"
-     ],
-     "price": "68.00",
-     "published_at": "2026-09-11T11:24:22-05:00"
-    },
-    {
-     "title": "Boxer Briefs - Classic Deer Camo, Digi Camo Navy, Flying Mallards Green",
-     "handle": "boxer-briefs-sp26",
-     "type": "Boxers",
+     "title": "Cooler Backpack - Classic Deer Camo",
+     "handle": "cooler-backpack-classic-deer-camo",
+     "type": "Cooler",
      "tags": [
       "Accessories",
+      "B2B_Active",
+      "B2B_Sync",
       "BassPro",
-      "Boxers",
-      "Feb1",
+      "Feb17",
       "retail",
       "Season SPRING26",
       "Spring 26",
       "wholesale"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-11T10:46:34-05:00"
+     "price": "79.00",
+     "published_at": "2026-09-17T14:13:37-05:00"
+    },
+    {
+     "title": "Cap - Classic Rad Dad - Navy",
+     "handle": "rad-dad-cap",
+     "type": "Caps",
+     "tags": [
+      "BlinkAutoHide",
+      "Cap",
+      "Dad",
+      "FALL20",
+      "Hat",
+      "navy",
+      "pdqreview",
+      "Rad Dad",
+      "retail",
+      "Snapback Cap"
+     ],
+     "price": "35.00",
+     "published_at": "2026-09-17T14:08:13-05:00"
+    },
+    {
+     "title": "Cap - WHATA Logo - Classic Deer Camo",
+     "handle": "cap-whata-logo-classic-deer-camo-1",
+     "type": "Caps",
+     "tags": [
+      "9/17/26",
+      "Collab",
+      "FA26",
+      "Fall 2026",
+      "Season Fall 2026",
+      "Whata",
+      "Whataburger"
+     ],
+     "price": "35.00",
+     "published_at": "2026-09-17T09:57:55-05:00"
+    },
+    {
+     "title": "Cap - Support Local WHATA - Black",
+     "handle": "cap-support-local-whata-black",
+     "type": "Caps",
+     "tags": [
+      "9/17/26",
+      "Collab",
+      "FA26",
+      "Fall 2026",
+      "Season Fall 2026",
+      "Whata",
+      "Whataburger"
+     ],
+     "price": "35.00",
+     "published_at": "2026-09-17T09:57:53-05:00"
+    },
+    {
+     "title": "Baby Zip Up - WHATA Mallard",
+     "handle": "baby-zip-up-whata-mallard",
+     "type": "Baby Zip Up",
+     "tags": [
+      "9/17/26",
+      "Collab",
+      "FA26",
+      "Fall 2026",
+      "Season Fall 2026",
+      "Whata",
+      "Whataburger"
+     ],
+     "price": "36.00",
+     "published_at": "2026-09-17T09:57:51-05:00"
     }
    ]
   },
@@ -2070,7 +2033,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2639000",
+     "price": "2640000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2083,7 +2046,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5278000",
+     "price": "5280000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2120,7 +2083,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1583000",
+     "price": "1584000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2178,59 +2141,57 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Moose Hunting Camo  Silhouette Polo Shirt VCP1004",
-     "handle": "moose-hunting-camo-silhouette-polo-shirt-vcp1004",
+     "title": "Coyote Skull Hunting Pattern Polo Shirt DP1013",
+     "handle": "coyote-skull-hunting-pattern-polo-shirt-dp1013",
      "type": "Polo Shirt",
      "tags": [
-      "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-16T05:53:41-06:00"
+     "published_at": "2026-09-16T21:02:49-06:00"
     },
     {
-     "title": "Midnight Dove Hunting Paisley Hawaiian Shirt VCP1050",
-     "handle": "midnight-dove-hunting-paisley-hawaiian-shirt-vcp1050",
+     "title": "Coyote Hunting Pattern Polo Shirt DP1012",
+     "handle": "coyote-hunting-pattern-polo-shirt-dp1012",
      "type": "Polo Shirt",
      "tags": [
-      "Fishing",
       "Polo Shirt"
      ],
-     "price": "39.99",
-     "published_at": "2026-09-14T00:07:43-06:00"
+     "price": "41.99",
+     "published_at": "2026-09-16T20:59:12-06:00"
     },
     {
-     "title": "Midnight Opossum Paisley Men Polo Shirt VCP1049",
-     "handle": "midnight-opossum-paisley-men-polo-shirt-vcp1049",
-     "type": "Polo Shirt",
+     "title": "Funny Dove Smoking Cocktail Glasses Canvas Wall Art Hunter Gift",
+     "handle": "funny-dove-smoking-cocktail-glasses-canvas-wall-art-hunter-gift",
+     "type": "",
      "tags": [
-      "Fishing",
-      "Polo Shirt"
+      "bear",
+      "Canvas"
      ],
-     "price": "39.99",
-     "published_at": "2026-09-13T23:55:08-06:00"
+     "price": "49.99",
+     "published_at": "2026-09-16T20:20:49-06:00"
     },
     {
-     "title": "Tactical Hexagonal Dove Hunting Camo Polo Shirt VCP1048",
-     "handle": "tactical-hexagonal-dove-hunting-camo-polo-shirt-vcp1048",
+     "title": "Dove Field Hunting Polo Shirt VCP1006",
+     "handle": "dove-field-hunting-polo-shirt-vcp1006",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-13T23:50:06-06:00"
+     "published_at": "2026-09-16T19:41:18-06:00"
     },
     {
-     "title": "Midnight Raccoon Paisley Men Polo Shirt VCP1047",
-     "handle": "midnight-raccoon-paisley-men-polo-shirt-vcp1047",
+     "title": "Dove Hunting  Polo Shirt VCP1005",
+     "handle": "dove-hunting-polo-shirt-vcp1005",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-13T23:47:40-06:00"
+     "published_at": "2026-09-16T19:40:25-06:00"
     }
    ]
   },
@@ -2238,12 +2199,12 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Men's Windbreaker - Lined Waterproof Jacket for Hiking & Outdoor",
-     "handle": "mens-windbreaker-lined-waterproof-jacket-for-hiking-outdoor",
-     "type": "Clothing",
+     "title": "Men's Gilet - Lightweight Down Filled Body Warmer for Hiking & Outdoor",
+     "handle": "mens-gilet-lightweight-down-filled-body-warmer",
+     "type": "Gilets",
      "tags": [],
-     "price": "89.95",
-     "published_at": "2026-09-16T21:28:30+02:00"
+     "price": "39.95",
+     "published_at": "2026-09-17T08:49:51+02:00"
     },
     {
      "title": "Men's Down Jacket - Convertible V-Neck Collar - Quilted Lightweight",
