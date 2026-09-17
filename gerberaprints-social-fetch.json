@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-17",
- "fetched_at": "2026-09-17T04:45:02.866970+07:00",
+ "date": "2026-09-18",
+ "fetched_at": "2026-09-18T04:45:03.243419+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -46,21 +46,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Who is cooler than Fred Couples? Closest to the pin challenge at the Sanford Invitational this week, doesn’t even need to watch",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wd0dn5/who_is_cooler_than_fred_couples_closest_to_the/",
-     "selftext_head": ""
-    },
-    {
      "title": "Sometimes I hit my golf ball so hard, it changes brands when Ifind it 🤔😜😂",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1whdsel/sometimes_i_hit_my_golf_ball_so_hard_it_changes/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Who is cooler than Fred Couples? Closest to the pin challenge at the Sanford Invitational this week, doesn’t even need to watch",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wd0dn5/who_is_cooler_than_fred_couples_closest_to_the/",
      "selftext_head": ""
     },
     {
@@ -82,30 +82,12 @@
      "selftext_head": ""
     },
     {
-     "title": "\"Why do people play golf?\" Sean Connery was once asked, and he gave a brilliant answer.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wck5aa/why_do_people_play_golf_sean_connery_was_once/",
-     "selftext_head": ""
-    },
-    {
      "title": "Shane Lowry wins the Irish Open (DP World Tour) by 11 strokes!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wfdj84/shane_lowry_wins_the_irish_open_dp_world_tour_by/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Albatross Alert: Thomas Detry with a big bird from 232 yards at the Irish Open (DP World Tour)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wcpsop/albatross_alert_thomas_detry_with_a_big_bird_from/",
      "selftext_head": ""
     },
     {
@@ -136,12 +118,30 @@
      "selftext_head": ""
     },
     {
-     "title": "Haven't really played in 20 years. Wanted to try out some hybrids for the first time to build out a set and even found an old 7 wood. The gapping between clubs did not turn out well...",
+     "title": "Best drives of the season",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wetawp/havent_really_played_in_20_years_wanted_to_try/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wh8h02/best_drives_of_the_season/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Wife - Just because you have a laser doesn't mean you need to laser everything. Me - Yes, yes it does.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wj2s0k/wife_just_because_you_have_a_laser_doesnt_mean/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Got my first hole in one on Wednesday at Rancho mañana",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wh45cq/got_my_first_hole_in_one_on_wednesday_at_rancho/",
      "selftext_head": ""
     }
    ]
@@ -259,10 +259,8 @@
    "golf gift for boss",
    "golf gift ideas for boss",
    "best golf.gift for.boss",
-   "golf related gift for boss",
    "golf gift for manager",
    "gift for boss who likes golf",
-   "gift for boss who loves golf",
    "golf gift ideas for him"
   ],
   "golf apparel funny": [
@@ -291,16 +289,16 @@
   ]
  },
  "trends": [
-  "joan garcía",
-  "carabao cup draw",
-  "ldu quito - palmeiras",
-  "de",
-  "caitlin clark indiana fever",
-  "pennsylvania measles outbreak",
-  "saidah belo-osagie",
-  "atlético mineiro vs santos",
-  "twins",
-  "measles symptoms"
+  "sione vaki",
+  "taylor frankie paul",
+  "warrantless immigration arrests injunction california",
+  "eric zahnd",
+  "todd blanche",
+  "earthquake",
+  "earthquake today",
+  "chris olave",
+  "shooting",
+  "intercon chemical bacteria contamination recall"
  ],
  "errors": []
 }
