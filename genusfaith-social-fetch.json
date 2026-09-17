@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-17",
- "fetched_at": "2026-09-17T04:15:03.137151+07:00",
+ "date": "2026-09-18",
+ "fetched_at": "2026-09-18T04:15:02.698972+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -16,15 +16,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wg1vzl/happy_71st_birthday_pope_leo/",
-     "selftext_head": ""
-    },
-    {
-     "title": "My 15th anniversary as a bishop",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wci35x/my_15th_anniversary_as_a_bishop/",
      "selftext_head": ""
     },
     {
@@ -52,6 +43,24 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wfwdaq/brown_scapular_devotion/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Why do catholics belive Mary was sinless?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wijqu6/why_do_catholics_belive_mary_was_sinless/",
+     "selftext_head": ""
+    },
+    {
+     "title": "MN Priest Has Mystical Experience During Consecration - Livestream Footage",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wihdi4/mn_priest_has_mystical_experience_during/",
      "selftext_head": ""
     },
     {
@@ -109,6 +118,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Today is the feast of Saint Hildegard von Bingen!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wiv0rh/today_is_the_feast_of_saint_hildegard_von_bingen/",
+     "selftext_head": ""
+    },
+    {
      "title": "Patriarch of Antioch to meet Pope as Antioch–Vatican relations deepen",
      "score": null,
      "num_comments": null,
@@ -124,24 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wggi8d/im_an_atheist_and_am_thinking_about_attending/",
-     "selftext_head": ""
-    },
-    {
-     "title": "My post from the other day with my cat and Catholic study Bible got deleted. but here are all three of the boys as requested.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wdt8q3/my_post_from_the_other_day_with_my_cat_and/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Responding to Witches attending mass",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wfdc10/responding_to_witches_attending_mass/",
      "selftext_head": ""
     }
    ]
@@ -190,17 +190,17 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gifts for teenage boys",
-   "confirmation gifts catholic",
-   "confirmation gifts for teen girls",
    "confirmation gifts for adults",
-   "confirmation gift ideas for girls",
-   "confirmation gifts near me"
+   "confirmation gifts from sponsor",
+   "confirmation gift ideas for boy",
+   "confirmation gifts catholic",
+   "confirmation gifts for teenage boys",
+   "confirmation gift ideas for girls"
   ],
   "baptism gift": [
    "baptism gifts",
    "baptism gifts for boys",
-   "baptism gift for girl",
+   "baptism gifts for girls",
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "multiverse reforged commander decklist",
-  "jeanine fereshetian",
-  "nia long",
-  "campeones cup",
-  "thresher shark",
-  "wichita ks boil water advisory",
-  "red bull",
-  "raphinha",
-  "troy aikman",
-  "white house chief of staff"
+  "earthquake",
+  "earthquake today",
+  "chris olave",
+  "shooting",
+  "intercon chemical bacteria contamination recall",
+  "dengue",
+  "kylie kelce",
+  "kennedy center demolished",
+  "boil water advisory wichita ks",
+  "fox news iran"
  ],
  "errors": []
 }
