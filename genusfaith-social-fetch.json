@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-18",
- "fetched_at": "2026-09-18T04:15:02.698972+07:00",
+ "date": "2026-09-19",
+ "fetched_at": "2026-09-19T04:15:02.768490+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -16,6 +16,24 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wg1vzl/happy_71st_birthday_pope_leo/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[Free Friday] What's not to love!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wjq7xm/free_friday_whats_not_to_love/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Why do catholics belive Mary was sinless?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wijqu6/why_do_catholics_belive_mary_was_sinless/",
      "selftext_head": ""
     },
     {
@@ -46,75 +64,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Why do catholics belive Mary was sinless?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wijqu6/why_do_catholics_belive_mary_was_sinless/",
-     "selftext_head": ""
-    },
-    {
      "title": "MN Priest Has Mystical Experience During Consecration - Livestream Footage",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wihdi4/mn_priest_has_mystical_experience_during/",
-     "selftext_head": ""
-    },
-    {
-     "title": "This blessed painting was gifted to me by my friend’s Great Grandfather. He was a painter and did this work for Saint Matthew’s Catholic Church. I’ve had it since my First Communion. What do you think of his depiction of Mary and infant Christ?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1werddg/this_blessed_painting_was_gifted_to_me_by_my/",
-     "selftext_head": ""
-    },
-    {
-     "title": "I made an updated one-page guide to praying the Rosary, improved thanks to your helpful your feedback",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wdh69h/i_made_an_updated_onepage_guide_to_praying_the/",
-     "selftext_head": ""
-    },
-    {
-     "title": "[Free Friday] back from Lourdes & Fatima for the first time with big relief!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1we07ah/free_friday_back_from_lourdes_fatima_for_the/",
-     "selftext_head": ""
-    },
-    {
-     "title": "[Free Friday] Monasteries dissolved in England and Wales by Henry VIII mapped on Google Maps",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wdedzy/free_friday_monasteries_dissolved_in_england_and/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Exposed brick churches",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wh3w81/exposed_brick_churches/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Sacred Heart of Jesus.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wdg4d5/sacred_heart_of_jesus/",
      "selftext_head": ""
     },
     {
@@ -127,12 +82,57 @@
      "selftext_head": ""
     },
     {
-     "title": "Patriarch of Antioch to meet Pope as Antioch–Vatican relations deepen",
+     "title": "This blessed painting was gifted to me by my friend’s Great Grandfather. He was a painter and did this work for Saint Matthew’s Catholic Church. I’ve had it since my First Communion. What do you think of his depiction of Mary and infant Christ?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wdpc8k/patriarch_of_antioch_to_meet_pope_as/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1werddg/this_blessed_painting_was_gifted_to_me_by_my/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[Free Friday] back from Lourdes & Fatima for the first time with big relief!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1we07ah/free_friday_back_from_lourdes_fatima_for_the/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Exposed brick churches",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wh3w81/exposed_brick_churches/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I made a one sheet guide for Eucharistic Adoration!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wj15b9/i_made_a_one_sheet_guide_for_eucharistic_adoration/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[Free Friday] Archbishop Jorge Bergoglio and Father Robert Prevost, concelebrating Mass in Buenos Aires, 2006",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wjylci/free_friday_archbishop_jorge_bergoglio_and_father/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[Free Friday] St. Francis Xavier Church (De Krijtberg), Amsterdam",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wjkx4o/free_friday_st_francis_xavier_church_de_krijtberg/",
      "selftext_head": ""
     },
     {
@@ -181,14 +181,14 @@
    "christian valentines gift for her",
    "christian jewelry gift for her",
    "christian christmas gift for her",
+   "christian gift for women",
    "christian gift for wife",
-   "christian gift for women amazon",
-   "christian gift for wife birthday"
+   "christian gift for women amazon"
   ],
   "confirmation gift": [
    "confirmation gifts",
-   "confirmation gifts for girls",
    "confirmation gifts for boys",
+   "confirmation gift for girl",
    "confirmation gift ideas",
    "confirmation gifts for adults",
    "confirmation gifts from sponsor",
@@ -236,7 +236,7 @@
   "first communion gift": [
    "first communion gifts",
    "first communion gifts for boys",
-   "first communion gifts for girl",
+   "first communion gifts for girls",
    "first communion gift ideas",
    "first communion gifts near me",
    "first communion gifts for boys catholic",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "earthquake",
-  "earthquake today",
-  "chris olave",
-  "shooting",
-  "intercon chemical bacteria contamination recall",
-  "dengue",
-  "kylie kelce",
-  "kennedy center demolished",
-  "boil water advisory wichita ks",
-  "fox news iran"
+  "dow jones industrial average",
+  "wake forest football",
+  "antonio pemberton",
+  "peso mexicano",
+  "u.s. 101",
+  "bayern munich vs union berlin standings",
+  "wil traval",
+  "sarah huckabee sanders",
+  "gerrit graham",
+  "texans depth chart"
  ],
  "errors": []
 }
