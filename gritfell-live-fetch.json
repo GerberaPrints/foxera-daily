@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-18",
- "fetched_at": "2026-09-18T04:30:02.815369+07:00",
+ "date": "2026-09-19",
+ "fetched_at": "2026-09-19T04:30:02.967322+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 117,
@@ -1299,6 +1299,46 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Women's Surfside Waffle Shirt",
+     "handle": "womens-surfside-waffle-knit-shirt-mallard-green",
+     "type": "WOMENS PERFORMANCE",
+     "tags": [
+      "CLOTHING",
+      "FA26",
+      "NEW",
+      "NEW-TAG",
+      "Performance Knit",
+      "SHIRTS",
+      "Tech",
+      "TOPS",
+      "WOMENS",
+      "Womens Shirts",
+      "womens-shirts-tops"
+     ],
+     "price": "55.00",
+     "published_at": "2026-09-18T14:09:34-07:00"
+    },
+    {
+     "title": "Women's Surfside Waffle Shirt",
+     "handle": "womens-surfside-waffle-knit-shirt-pelican",
+     "type": "WOMENS PERFORMANCE",
+     "tags": [
+      "CLOTHING",
+      "FA26",
+      "NEW",
+      "NEW-TAG",
+      "Performance Knit",
+      "SHIRTS",
+      "Tech",
+      "TOPS",
+      "WOMENS",
+      "Womens Shirts",
+      "womens-shirts-tops"
+     ],
+     "price": "55.00",
+     "published_at": "2026-09-18T14:09:16-07:00"
+    },
+    {
      "title": "Escape Pant",
      "handle": "escape-fishing-pants-grape-leaf-32-inseam",
      "type": "MENS PANTS",
@@ -1361,50 +1401,6 @@
      ],
      "price": "99.00",
      "published_at": "2026-09-09T14:24:30-07:00"
-    },
-    {
-     "title": "Long Haul Pants",
-     "handle": "long-haul-everyday-pants-desert-palm-30-inseam",
-     "type": "MENS PANTS",
-     "tags": [
-      "Bottoms",
-      "CLOTHING",
-      "FA25",
-      "FA26",
-      "MENS",
-      "mens-pants-bottoms",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "pants",
-      "RGroup_MWP15"
-     ],
-     "price": "99.00",
-     "published_at": "2026-09-09T14:24:15-07:00"
-    },
-    {
-     "title": "Women's Surfside Waffle Hood",
-     "handle": "womens-surfside-long-sleeve-waffle-knit-hood-mallard-green",
-     "type": "WOMENS PERFORMANCE",
-     "tags": [
-      "CLOTHING",
-      "FA25",
-      "FA26",
-      "mallardcamo",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "performance knit",
-      "RGroup_WWK3005",
-      "SHIRTS",
-      "Sweatshirt",
-      "Tech",
-      "TOPS",
-      "WOMENS",
-      "Womens Shirts",
-      "womens-shirts-tops",
-      "Woven Women"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-09T14:16:19-07:00"
     }
    ]
   },
@@ -1500,88 +1496,51 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Quintana Quilted Shirt",
-     "handle": "quintana-quilted-shirt",
+     "title": "ACL Fest 2026 Bandana - Festival Sky Dye",
+     "handle": "acl-fest-2026-bandana-festival-sky-dye",
      "type": "",
      "tags": [],
-     "price": "145.00",
-     "published_at": "2026-09-08T08:34:02-05:00"
+     "price": "20.00",
+     "published_at": "2026-09-18T08:34:47-05:00"
     },
     {
-     "title": "Timber Beanie - HB Mfg. Co. : Goblin",
-     "handle": "timber-beanie-hb-mfg-co-goblin",
+     "title": "ACL Fest 2026 Snapback - Midnight Corduroy",
+     "handle": "acl-fest-2026-snapback-midnight-corduroy",
      "type": "",
+     "tags": [],
+     "price": "40.00",
+     "published_at": "2026-09-18T08:34:47-05:00"
+    },
+    {
+     "title": "ACL Fest 2026 Snapback - Day to Night",
+     "handle": "acl-fest-2026-snapback-day-to-night",
+     "type": "",
+     "tags": [],
+     "price": "40.00",
+     "published_at": "2026-09-18T08:34:47-05:00"
+    },
+    {
+     "title": "ACL Fest 2026 Feedstore Snapback - Yellow",
+     "handle": "acl-fest-2026-feedstore-snapback-yellow",
+     "type": "",
+     "tags": [],
+     "price": "40.00",
+     "published_at": "2026-09-18T08:34:46-05:00"
+    },
+    {
+     "title": "ACL Fest 2026 Bandana - Festival Sky Dye",
+     "handle": "bandana-acl-2026-festival-sky-dye",
+     "type": "Accessories",
      "tags": [
-      "__eligible-for-discount",
       "accessories-collection",
-      "everyday-wear",
+      "acl-2026",
       "f26",
-      "f26-drop-2",
-      "hats-collection",
-      "hiking-collection",
-      "new-arrivals-collection",
       "no-treet",
       "published-online",
-      "trade-collection"
+      "search-bug-fix"
      ],
-     "price": "45.00",
-     "published_at": "2026-09-08T08:32:09-05:00"
-    },
-    {
-     "title": "Command Beanie - Big HB : Indigo Heather",
-     "handle": "command-beanie-big-hb-indigo-heather",
-     "type": "",
-     "tags": [
-      "__eligible-for-discount",
-      "accessories-collection",
-      "f26",
-      "f26-drop-2",
-      "hats-collection",
-      "hiking-collection",
-      "new-arrivals-collection",
-      "no-treet",
-      "published-online"
-     ],
-     "price": "45.00",
-     "published_at": "2026-09-08T08:32:06-05:00"
-    },
-    {
-     "title": "Hawkeye Beanie - Howler Script : Olive Heather",
-     "handle": "hawkeye-beanie-howler-script-olive-heather",
-     "type": "",
-     "tags": [
-      "__eligible-for-discount",
-      "accessories-collection",
-      "everyday-wear",
-      "f26",
-      "f26-drop-2",
-      "hats-collection",
-      "hiking-collection",
-      "new-arrivals-collection",
-      "no-treet",
-      "published-online"
-     ],
-     "price": "45.00",
-     "published_at": "2026-09-08T08:32:05-05:00"
-    },
-    {
-     "title": "Waxed Depot Jacket - Camel",
-     "handle": "waxed-depot-jacket-camel",
-     "type": "",
-     "tags": [
-      "__eligible-for-discount",
-      "everyday-wear",
-      "f26",
-      "f26-drop-2",
-      "mens-jackets-collection",
-      "mens-outerwear-collection",
-      "new-arrivals-collection",
-      "no-treet",
-      "published-online",
-      "western-collection"
-     ],
-     "price": "225.00",
-     "published_at": "2026-09-08T08:32:05-05:00"
+     "price": "20.00",
+     "published_at": "2026-09-18T08:31:41-05:00"
     }
    ]
   },
@@ -1728,6 +1687,31 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "LST Wool Neck Gaiter",
+     "handle": "wool-neck-gaiter",
+     "type": "Headwear",
+     "tags": [
+      "- $25 - $50",
+      "- headwear",
+      "AW25 Catalog",
+      "AW26 Catalog",
+      "brand_waterfowl",
+      "Cold Weather Gear",
+      "face-masks-neck-gaiters",
+      "Gifts For Big Game",
+      "hats",
+      "hunting accessories",
+      "Men WF New Accessories",
+      "outerlayer",
+      "outerlayers",
+      "top rated",
+      "warmest gifts",
+      "waterfowl"
+     ],
+     "price": "34.99",
+     "published_at": "2026-09-18T08:30:05-05:00"
+    },
+    {
      "title": "MST Fleece Convertible Face Mask",
      "handle": "mst-fleece-convertible-face-mask",
      "type": "Headwear",
@@ -1792,19 +1776,6 @@
      ],
      "price": "249.99",
      "published_at": "2026-09-14T08:40:38-05:00"
-    },
-    {
-     "title": "LST BMF Balaclava with Primaloft",
-     "handle": "lst-bmf-balaclava-with-primaloft",
-     "type": "Headwear",
-     "tags": [
-      "AW26 Catalog",
-      "AW26_NEW",
-      "master_list_new_arrivals_26",
-      "new"
-     ],
-     "price": "49.99",
-     "published_at": "2026-09-14T08:31:21-05:00"
     }
    ]
   },
@@ -2033,7 +2004,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2640000",
+     "price": "2642000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2046,7 +2017,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5280000",
+     "price": "5283000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2059,7 +2030,7 @@
       "retail",
       "wsc"
      ],
-     "price": "924000",
+     "price": "925000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -2072,7 +2043,7 @@
       "retail",
       "wsc"
      ],
-     "price": "924000",
+     "price": "925000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2083,7 +2054,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1584000",
+     "price": "1585000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2199,65 +2170,81 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Men's Gilet - Lightweight Down Filled Body Warmer for Hiking & Outdoor",
-     "handle": "mens-gilet-lightweight-down-filled-body-warmer",
-     "type": "Gilets",
-     "tags": [],
-     "price": "39.95",
-     "published_at": "2026-09-17T08:49:51+02:00"
+     "title": "Men's Beanie Hat - Fleece Lined Ear Flap - Woolly Winter Hat",
+     "handle": "mens-beanie-hat-fleece-lined-ear-flap-woolly-winter-hat",
+     "type": "Hats",
+     "tags": [
+      "activity:fishing",
+      "activity:hiking",
+      "activity:walking",
+      "gender:male",
+      "season:winter",
+      "type:headwear"
+     ],
+     "price": "29.95",
+     "published_at": "2026-09-18T18:05:17+02:00"
     },
     {
-     "title": "Men's Down Jacket - Convertible V-Neck Collar - Quilted Lightweight",
-     "handle": "mens-convertible-down-jacket",
-     "type": "Jacket",
+     "title": "Men's Fleece Jacket - Full Zip Stand Collar - Walking & Hiking Midlayer",
+     "handle": "mens-fleece-jacket-full-zip-stand-collar-walking-hiking-midlayer",
+     "type": "Fleece Jacket",
+     "tags": [],
+     "price": "44.95",
+     "published_at": "2026-09-18T18:01:16+02:00"
+    },
+    {
+     "title": "Men's Fleece Lined Trousers - Sherpa Thermal Winter Joggers",
+     "handle": "mens-fleece-lined-trousers-sherpa-thermal-winter-joggers",
+     "type": "Clothing",
      "tags": [
-      "activity:autumn",
-      "activity:winter",
-      "gender:mens",
-      "type:jackets"
+      "fleece-joggers",
+      "fleece-lined-trousers",
+      "mens",
+      "sherpa-joggers",
+      "sherpa-lined",
+      "thermal-joggers",
+      "thermal-trousers",
+      "warm-joggers",
+      "winter",
+      "winter-trousers"
      ],
      "price": "54.95",
-     "published_at": "2026-09-16T17:01:42+02:00"
+     "published_at": "2026-09-18T17:33:39+02:00"
     },
     {
-     "title": "Men's Puffer Jacket - Lightweight Quilted Down Jacket for Layering",
-     "handle": "mens-puffer-jacket-lightweight-quilted-down-jacket-for-layering",
-     "type": "Jacket",
+     "title": "Headlamp 2 Pack - Rechargeable 5 LED Head Torch with Tilting Head",
+     "handle": "headlamp-2-pack-rechargeable-5-led-head-torch-with-tilting-head",
+     "type": "Head Torch",
      "tags": [
+      "2 pack",
+      "activity:camping",
+      "activity:fishing",
       "activity:hiking",
-      "activity:walking",
-      "gender:mens",
-      "type:jackets"
-     ],
-     "price": "59.95",
-     "published_at": "2026-09-16T15:13:31+02:00"
-    },
-    {
-     "title": "Women's Puffer Jacket - Lightweight Packable Duck Down Jacket",
-     "handle": "womens-puffer-jacket-lightweight-packable-duck-down-jacket",
-     "type": "Puffer Jacket",
-     "tags": [
-      "activity:autumn",
-      "activity:travel",
-      "activity:winter",
-      "gender:womens",
-      "type:jackets"
+      "camping",
+      "dog walking",
+      "gender:unisex",
+      "head torch",
+      "headlamp",
+      "led head torch",
+      "night fishing",
+      "rechargeable head torch",
+      "type:tech"
      ],
      "price": "39.95",
-     "published_at": "2026-09-16T15:07:18+02:00"
+     "published_at": "2026-09-18T15:26:35+02:00"
     },
     {
-     "title": "Women's Walking Boots - Suede Leather Ankle Boots, Chunky Grip Sole",
-     "handle": "womens-walking-boots-suede-leather-ankle-boots-chunky-grip-sole",
-     "type": "Boots",
+     "title": "Men's Fleece Jacket - Full-Zip Relaxed Fit - Soft Brushed Fleece",
+     "handle": "mens-fleece-jacket-full-zip-relaxed-fit",
+     "type": "Men's Fleece",
      "tags": [
-      "activity:hiking",
-      "activity:walking",
-      "gender:womens",
-      "type:footwear"
+      "autumn",
+      "gender:mens",
+      "type:fleeces",
+      "winter"
      ],
-     "price": "64.95",
-     "published_at": "2026-09-16T14:26:28+02:00"
+     "price": "39.95",
+     "published_at": "2026-09-18T15:25:27+02:00"
     }
    ]
   }
@@ -2265,7 +2252,7 @@
  "policies": {
   "GritFell": {
    "https://gritfell.com/policies/shipping-policy": [
-    "Free Ground Shipping on Order $75+ Shipping policy At Gritfell, we strive to deliver your order as quickly and efficiently as possible.",
+    "Continue shopping BUY 2 GET 1 FREE SITEWIDE | ENDS OCTOBER 08 Free Ground Shipping on Order $75+ Shipping policy At Gritfell, we strive to deliver your order as quickly and efficiently as possible.",
     "Please review the information below regarding production times, shipping methods, delivery estimates, and shipping fees.",
     "Clothing: Production typically takes 3 - 7 business days before shipment.",
     "Embroidered Hats: Production typically takes 1- 3 business days before shipment.",
@@ -2275,7 +2262,7 @@
     "Tracking updates may take 2-5 business days to appear after the carrier receives your package."
    ],
    "https://gritfell.com/policies/refund-policy": [
-    "Free Ground Shipping on Order $75+ Refund policy At GritFell, we want you to be satisfied with your order.",
+    "Continue shopping BUY 2 GET 1 FREE SITEWIDE | ENDS OCTOBER 08 Free Ground Shipping on Order $75+ Refund policy At GritFell, we want you to be satisfied with your order.",
     "If there is an issue with the product you received, please contact our Customer Support team at support@gritfell.com before returning any item.",
     "60-Day Return Policy Eligible products may be returned within 60 days from the date of delivery.",
     "Free Returns for Eligible Orders If your return is approved because the product is defective, damaged, incorrect, or the issue was caused by GritFell, there will be no return shipping cost to you.",
