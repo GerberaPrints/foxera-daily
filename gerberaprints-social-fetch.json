@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-18",
- "fetched_at": "2026-09-18T04:45:03.243419+07:00",
+ "date": "2026-09-19",
+ "fetched_at": "2026-09-19T04:45:02.784198+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "This angle is perfection and should be the standard for TV broadcast",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wdroda/this_angle_is_perfection_and_should_be_the/",
-     "selftext_head": ""
-    },
     {
      "title": "Shane Lowry wins the Amgen Irish Open. Lowry shoots rounds of 67, a course record 62, 65 and 63 to win the Amgen Irish Open by a record ELEVEN shots",
      "score": null,
@@ -25,15 +16,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wfdp7t/shane_lowry_wins_the_amgen_irish_open_lowry/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Golfer Collin Morikawa creating core memory for young fan.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wdf6j0/golfer_collin_morikawa_creating_core_memory_for/",
      "selftext_head": ""
     },
     {
@@ -46,21 +28,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Wife - Just because you have a laser doesn't mean you need to laser everything. Me - Yes, yes it does.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wj2s0k/wife_just_because_you_have_a_laser_doesnt_mean/",
+     "selftext_head": ""
+    },
+    {
      "title": "Sometimes I hit my golf ball so hard, it changes brands when Ifind it 🤔😜😂",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1whdsel/sometimes_i_hit_my_golf_ball_so_hard_it_changes/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Who is cooler than Fred Couples? Closest to the pin challenge at the Sanford Invitational this week, doesn’t even need to watch",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wd0dn5/who_is_cooler_than_fred_couples_closest_to_the/",
      "selftext_head": ""
     },
     {
@@ -127,12 +109,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Wife - Just because you have a laser doesn't mean you need to laser everything. Me - Yes, yes it does.",
+     "title": "Custom Kirkland Wedges🤔",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wj2s0k/wife_just_because_you_have_a_laser_doesnt_mean/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wiyvbd/custom_kirkland_wedges/",
      "selftext_head": ""
     },
     {
@@ -142,6 +124,24 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wh45cq/got_my_first_hole_in_one_on_wednesday_at_rancho/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Haven't really played in 20 years. Wanted to try out some hybrids for the first time to build out a set and even found an old 7 wood. The gapping between clubs did not turn out well...",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wetawp/havent_really_played_in_20_years_wanted_to_try/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Alex Fitzpatrick had to hole this shot to make the cut at the BMW PGA Championship",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wk05o7/alex_fitzpatrick_had_to_hole_this_shot_to_make/",
      "selftext_head": ""
     }
    ]
@@ -259,8 +259,10 @@
    "golf gift for boss",
    "golf gift ideas for boss",
    "best golf.gift for.boss",
+   "golf related gift for boss",
    "golf gift for manager",
    "gift for boss who likes golf",
+   "gift for boss who loves golf",
    "golf gift ideas for him"
   ],
   "golf apparel funny": [
@@ -289,16 +291,16 @@
   ]
  },
  "trends": [
-  "sione vaki",
-  "taylor frankie paul",
-  "warrantless immigration arrests injunction california",
-  "eric zahnd",
-  "todd blanche",
-  "earthquake",
-  "earthquake today",
-  "chris olave",
-  "shooting",
-  "intercon chemical bacteria contamination recall"
+  "greenland",
+  "kellyanne conway",
+  "fever game",
+  "fábio carvalho",
+  "karl rove",
+  "louder than life evacuation",
+  "best of the best",
+  "fda approval inluriyo verzenio eli lilly",
+  "oktoberfest",
+  "dow jones industrial average"
  ],
  "errors": []
 }
