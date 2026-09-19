@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-19",
- "fetched_at": "2026-09-19T04:30:02.967322+07:00",
+ "date": "2026-09-20",
+ "fetched_at": "2026-09-20T04:30:03.110596+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 117,
@@ -1299,6 +1299,31 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Seadrift Overshirt",
+     "handle": "seadrift-long-sleeve-overshirt-canteen",
+     "type": "MENS WOVENS",
+     "tags": [
+      "COMING-SOON",
+      "F26-SEPT1",
+      "FA26",
+      "FALL24",
+      "Fleece",
+      "Fleece Collection",
+      "MENS",
+      "mens-outerwear-fleece",
+      "mens-outerwear-shackets-overshirts",
+      "NEWCOLOR",
+      "Outerwear",
+      "Shackets and Overshirts",
+      "shackets-overshirts",
+      "Slowcountry",
+      "TOPS",
+      "Wovens"
+     ],
+     "price": "109.00",
+     "published_at": "2026-09-18T15:13:38-07:00"
+    },
+    {
      "title": "Women's Surfside Waffle Shirt",
      "handle": "womens-surfside-waffle-knit-shirt-mallard-green",
      "type": "WOMENS PERFORMANCE",
@@ -1382,25 +1407,6 @@
      ],
      "price": "89.00",
      "published_at": "2026-09-09T14:24:37-07:00"
-    },
-    {
-     "title": "Long Haul Pants",
-     "handle": "long-haul-everyday-pants-desert-palm-32-inseam",
-     "type": "MENS PANTS",
-     "tags": [
-      "Bottoms",
-      "CLOTHING",
-      "FA25",
-      "FA26",
-      "MENS",
-      "mens-pants-bottoms",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "pants",
-      "RGroup_MWP14"
-     ],
-     "price": "99.00",
-     "published_at": "2026-09-09T14:24:30-07:00"
     }
    ]
   },
@@ -2063,6 +2069,30 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Whitetail Deer Vintage Camo Hoodie — Retro Blotch All-Over Print, Deer Hunting Gift",
+     "handle": "whitetail-deer-vintage-camo-hoodie-retro-blotch-all-over-print-deer-hunting-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-19T00:28:18-07:00"
+    },
+    {
+     "title": "Mallard Duck Marsh Reed Camo Hoodie — All-Over Cattail Print, Waterfowl Hunting Gift",
+     "handle": "mallard-duck-marsh-reed-camo-hoodie-all-over-cattail-print-waterfowl-hunting-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-19T00:26:32-07:00"
+    },
+    {
+     "title": "Mallard Duck Cypress Swamp Camo Hoodie — All-Over Flooded Timber Print, Duck Hunting Gift",
+     "handle": "mallard-duck-cypress-swamp-camo-hoodie-all-over-flooded-timber-print-duck-hunting-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-19T00:24:08-07:00"
+    },
+    {
      "title": "Mourning Dove Camo Hoodie - Sunflower Field Break-Up Camo",
      "handle": "mourning-dove-camo-hoodie-sunflower-field-break-up-camo",
      "type": "",
@@ -2077,34 +2107,6 @@
      "tags": [],
      "price": "69.95",
      "published_at": "2026-09-10T01:42:16-07:00"
-    },
-    {
-     "title": "Mallard Duck Hunting Hawaiian Shirt for Men — Oversized Vintage Print, Duck Season Gift",
-     "handle": "mallard-duck-hunting-hawaiian-shirt-for-men-oversized-vintage-print-duck-season-gift",
-     "type": "",
-     "tags": [
-      "hawaiian shirt"
-     ],
-     "price": "39.95",
-     "published_at": "2026-09-10T00:59:37-07:00"
-    },
-    {
-     "title": "Mourning Dove Hunting Hawaiian Shirt for Men — Vintage Border Print, Dove Season Gift",
-     "handle": "mourning-dove-hunting-hawaiian-shirt-for-men-vintage-border-print-dove-season-gift",
-     "type": "",
-     "tags": [
-      "hawaiian shirt"
-     ],
-     "price": "39.95",
-     "published_at": "2026-09-10T00:55:16-07:00"
-    },
-    {
-     "title": "Wild Turkey Camo Hoodie — All-Over Autumn Woods Scene Print, Turkey Hunting Gift",
-     "handle": "wild-turkey-camo-hoodie-all-over-autumn-woods-scene-print-turkey-hunting-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-10T00:51:11-07:00"
     }
    ]
   },
@@ -2170,6 +2172,23 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Weed Puller Tool - Stand Up Weed Remover - Garden Weeding Tool",
+     "handle": "weed-puller-tool-stand-up-weed-remover",
+     "type": "Garden Tools",
+     "tags": [
+      "chemical free",
+      "dandelion",
+      "garden tools",
+      "lawn care",
+      "stand up weeder",
+      "weed puller",
+      "weed remover",
+      "weeding tool"
+     ],
+     "price": "54.95",
+     "published_at": "2026-09-19T16:02:35+02:00"
+    },
+    {
      "title": "Men's Beanie Hat - Fleece Lined Ear Flap - Woolly Winter Hat",
      "handle": "mens-beanie-hat-fleece-lined-ear-flap-woolly-winter-hat",
      "type": "Hats",
@@ -2232,19 +2251,6 @@
      ],
      "price": "39.95",
      "published_at": "2026-09-18T15:26:35+02:00"
-    },
-    {
-     "title": "Men's Fleece Jacket - Full-Zip Relaxed Fit - Soft Brushed Fleece",
-     "handle": "mens-fleece-jacket-full-zip-relaxed-fit",
-     "type": "Men's Fleece",
-     "tags": [
-      "autumn",
-      "gender:mens",
-      "type:fleeces",
-      "winter"
-     ],
-     "price": "39.95",
-     "published_at": "2026-09-18T15:25:27+02:00"
     }
    ]
   }
