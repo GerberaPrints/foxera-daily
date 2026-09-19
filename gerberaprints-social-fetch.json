@@ -2,13 +2,22 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-19",
- "fetched_at": "2026-09-19T04:45:02.784198+07:00",
+ "date": "2026-09-20",
+ "fetched_at": "2026-09-20T04:45:02.799205+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "Video has surfaced of Alejandro Tosti’s caddie quitting mid-round yesterday",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wk345v/video_has_surfaced_of_alejandro_tostis_caddie/",
+     "selftext_head": ""
+    },
     {
      "title": "Shane Lowry wins the Amgen Irish Open. Lowry shoots rounds of 67, a course record 62, 65 and 63 to win the Amgen Irish Open by a record ELEVEN shots",
      "score": null,
@@ -16,6 +25,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wfdp7t/shane_lowry_wins_the_amgen_irish_open_lowry/",
+     "selftext_head": ""
+    },
+    {
+     "title": "No way… I actually found one",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wk8c12/no_way_i_actually_found_one/",
      "selftext_head": ""
     },
     {
@@ -46,21 +64,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Where does John Daly rank all time?",
+     "title": "Alex Fitzpatrick had to hole this shot to make the cut at the BMW PGA Championship",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wdyf4o/where_does_john_daly_rank_all_time/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Jennifer Kupcho from 91 feet to tie the last Solheim Cup match of the day on the 17th hole",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wei1ea/jennifer_kupcho_from_91_feet_to_tie_the_last/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wk05o7/alex_fitzpatrick_had_to_hole_this_shot_to_make/",
      "selftext_head": ""
     },
     {
@@ -91,15 +100,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Two chinooks holding up the play at the Irish Open",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wede58/two_chinooks_holding_up_the_play_at_the_irish_open/",
-     "selftext_head": ""
-    },
-    {
      "title": "Best drives of the season",
      "score": null,
      "num_comments": null,
@@ -118,6 +118,15 @@
      "selftext_head": ""
     },
     {
+     "title": "3 month update to “Closed on a house half way up the right side fairway on a par 4, week one golf ball review.”",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wjbhi8/3_month_update_to_closed_on_a_house_half_way_up/",
+     "selftext_head": ""
+    },
+    {
      "title": "Got my first hole in one on Wednesday at Rancho mañana",
      "score": null,
      "num_comments": null,
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wetawp/havent_really_played_in_20_years_wanted_to_try/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Alex Fitzpatrick had to hole this shot to make the cut at the BMW PGA Championship",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wk05o7/alex_fitzpatrick_had_to_hole_this_shot_to_make/",
      "selftext_head": ""
     }
    ]
@@ -259,23 +259,21 @@
    "golf gift for boss",
    "golf gift ideas for boss",
    "best golf.gift for.boss",
-   "golf related gift for boss",
    "golf gift for manager",
    "gift for boss who likes golf",
-   "gift for boss who loves golf",
    "golf gift ideas for him"
   ],
   "golf apparel funny": [
    "golf apparel funny",
    "golf shirts funny",
-   "golf shirts funny men",
    "golf clothing funny",
    "golf shirt funny pattern",
    "golf shirts funny women",
    "golf shirts funny australia",
-   "golf shirts funny print",
    "golf shirts funny sayings",
-   "golf shirts funny amazon"
+   "golf shirts funny amazon",
+   "golf shirt funny design",
+   "funny golf outfit ideas"
   ],
   "hawaiian golf shirt": [
    "hawaiian golf shirts",
@@ -291,16 +289,16 @@
   ]
  },
  "trends": [
-  "greenland",
-  "kellyanne conway",
-  "fever game",
-  "fábio carvalho",
-  "karl rove",
-  "louder than life evacuation",
-  "best of the best",
-  "fda approval inluriyo verzenio eli lilly",
-  "oktoberfest",
-  "dow jones industrial average"
+  "bristol motor speedway",
+  "espn news",
+  "carson benge",
+  "sean sharaf",
+  "trey mancini",
+  "choi doo-ho",
+  "robelis despaigne",
+  "presidents cup",
+  "casey o&apos;neill",
+  "stanford football"
  ],
  "errors": []
 }
