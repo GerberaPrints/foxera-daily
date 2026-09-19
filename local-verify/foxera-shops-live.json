@@ -1,6 +1,6 @@
 {
   "project": "foxera",
-  "verified_at": "2026-09-18",
+  "verified_at": "2026-09-20",
   "scanner_version": "v9",
   "provenance": "live_local_browser",
   "counts": {
@@ -30,7 +30,7 @@
       "reviews": 113,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E100",
@@ -105,7 +105,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E114",
@@ -120,7 +120,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E119",
@@ -242,7 +242,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E136",
@@ -461,7 +461,7 @@
       "reviews": 1,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E171",
@@ -957,7 +957,7 @@
       "reviews": 16,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E240",
@@ -1127,7 +1127,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E258",
@@ -1151,10 +1151,10 @@
       "http_status": 200,
       "sales": 92,
       "rating": 3.5,
-      "reviews": 15,
+      "reviews": 16,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E260",
@@ -1468,7 +1468,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E3",
@@ -1554,7 +1554,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E40",
@@ -1581,7 +1581,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E43",
@@ -1595,7 +1595,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E44",
@@ -1646,7 +1646,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E48",
@@ -1949,7 +1949,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-18"
+      "verified_at": "2026-09-20"
     },
     {
       "code": "E85",
