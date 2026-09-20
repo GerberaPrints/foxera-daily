@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-20",
- "fetched_at": "2026-09-20T04:30:03.110596+07:00",
+ "date": "2026-09-21",
+ "fetched_at": "2026-09-21T04:30:02.797968+07:00",
  "reddit": {
   "waterfowl": {
    "sub_niche": "SN1_waterfowl",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "Crane Down!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1wep3ag/crane_down/",
-     "selftext_head": ""
-    },
     {
      "title": "First double band hunt!",
      "score": null,
@@ -34,15 +25,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Waterfowl/comments/1wfqv09/second_waterfowl_season_started_off_great/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Opening day goose",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1wepa2p/opening_day_goose/",
      "selftext_head": ""
     },
     {
@@ -89,6 +71,15 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Waterfowl/comments/1wgik56/anyone_seen_teal_in_md_yet/",
      "selftext_head": ""
+    },
+    {
+     "title": "Kayak hunting a river that one side of a WMA and legal to hunt, and other side is either private or otherwise not WMA. Have y'all or would y'all hunt a set up like that?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1wlhou0/kayak_hunting_a_river_that_one_side_of_a_wma_and/",
+     "selftext_head": ""
     }
    ]
   },
@@ -96,6 +87,15 @@
    "sub_niche": "SN1_waterfowl",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "I made this for duck hunting son in law!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wl1s6h/i_made_this_for_duck_hunting_son_in_law/",
+     "selftext_head": ""
+    },
     {
      "title": "First duck ever, Blue Winged Teal",
      "score": null,
@@ -106,21 +106,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Triple Mallard for this noob",
+     "title": "Rate my blind",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wfgc64/triple_mallard_for_this_noob/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Shit with wings are moving",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wer4sz/shit_with_wings_are_moving/",
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wl1i0v/rate_my_blind/",
      "selftext_head": ""
     },
     {
@@ -130,15 +121,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wfqvb4/second_waterfowl_season_started_off_great/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Opening day goose",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wepah9/opening_day_goose/",
      "selftext_head": ""
     },
     {
@@ -178,12 +160,12 @@
      "selftext_head": ""
     },
     {
-     "title": "New wader recommendations for a semi advanced duck hunter?",
+     "title": "Any idea what this is?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1weqme1/new_wader_recommendations_for_a_semi_advanced/",
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wlgig8/any_idea_what_this_is/",
      "selftext_head": ""
     },
     {
@@ -202,6 +184,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wfl5tv/podcast_recommendations_for_newbies/",
+     "selftext_head": ""
+    },
+    {
+     "title": "DIY kayak camouflage",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wlsvun/diy_kayak_camouflage/",
      "selftext_head": ""
     },
     {
@@ -265,24 +256,6 @@
      "selftext_head": ""
     },
     {
-     "title": "After a couple trips of getting skunked, my son lands his PB during a 5am session on the chatterbait. 3.79IB",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1wfe5vk/after_a_couple_trips_of_getting_skunked_my_son/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Lil man done snagged him a hawg this AM! 🤘💪🎣💚 rippin lips early this morning & glad we did because they were quite active!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1wf9d5z/lil_man_done_snagged_him_a_hawg_this_am_rippin/",
-     "selftext_head": ""
-    },
-    {
      "title": "It finally happened!",
      "score": null,
      "num_comments": null,
@@ -319,30 +292,30 @@
      "selftext_head": ""
     },
     {
-     "title": "Caught my PB today!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1wgparn/caught_my_pb_today/",
-     "selftext_head": ""
-    },
-    {
-     "title": "guys..",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1wev8ji/guys/",
-     "selftext_head": ""
-    },
-    {
      "title": "PB largemouth! 4.8lbs in a small upstate NY pond!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bassfishing/comments/1wkc32n/pb_largemouth_48lbs_in_a_small_upstate_ny_pond/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Caught 4 and lost. But I had a good time.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1wl1blj/caught_4_and_lost_but_i_had_a_good_time/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Caught my PB today!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1wgparn/caught_my_pb_today/",
      "selftext_head": ""
     },
     {
@@ -371,6 +344,24 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bassfishing/comments/1wh1ue4/first_cast_of_the_night_38lbs/",
      "selftext_head": ""
+    },
+    {
+     "title": "6.0 6.2 6.4 Maine bass",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1wkbpwr/60_62_64_maine_bass/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Kokanee eaters!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1wk300k/kokanee_eaters/",
+     "selftext_head": ""
     }
    ]
   },
@@ -397,15 +388,6 @@
      "selftext_head": ""
     },
     {
-     "title": "North Carolina Pier Tarpon",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing/comments/1wfrd6g/north_carolina_pier_tarpon/",
-     "selftext_head": ""
-    },
-    {
      "title": "First Bluefin - 85” 401lbs",
      "score": null,
      "num_comments": null,
@@ -415,12 +397,21 @@
      "selftext_head": ""
     },
     {
-     "title": "5' Bull in the canal. Galveston, Tx",
+     "title": "North Carolina Pier Tarpon",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing/comments/1weqt83/5_bull_in_the_canal_galveston_tx/",
+     "permalink": "https://www.reddit.com/r/Fishing/comments/1wfrd6g/north_carolina_pier_tarpon/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Just caught this guy what is he?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing/comments/1wk5d9e/just_caught_this_guy_what_is_he/",
      "selftext_head": ""
     },
     {
@@ -451,15 +442,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Just caught this guy what is he?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing/comments/1wk5d9e/just_caught_this_guy_what_is_he/",
-     "selftext_head": ""
-    },
-    {
      "title": "PB ol yeller",
      "score": null,
      "num_comments": null,
@@ -487,21 +469,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Absolute chode of a Parisian pike",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing/comments/1wf82ut/absolute_chode_of_a_parisian_pike/",
-     "selftext_head": ""
-    },
-    {
      "title": "First King Salmon ever!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Fishing/comments/1wj8so4/first_king_salmon_ever/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Week 6: caught 6 kept 1",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing/comments/1wlfzif/week_6_caught_6_kept_1/",
      "selftext_head": ""
     },
     {
@@ -512,6 +494,15 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Fishing/comments/1wi7e9q/i_caught_a_fish_by_the_hole_of_the_previous_hook/",
      "selftext_head": ""
+    },
+    {
+     "title": "61\" bull put on a show",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing/comments/1wkxr7t/61_bull_put_on_a_show/",
+     "selftext_head": ""
     }
    ]
   },
@@ -519,15 +510,6 @@
    "sub_niche": "SN2_freshwater",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "$5 salvation army find",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1wfdmvq/5_salvation_army_find/",
-     "selftext_head": ""
-    },
     {
      "title": "Not sure if this allowed here, a month ago I posted asking for advice regarding all of the free gear my girls uncle gave us. With all the advice this weekend we were able to make the most of it!",
      "score": null,
@@ -556,12 +538,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Trebles to singles discussion",
+     "title": "What do you all think of this color called Ditch Pickle?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1wey8hz/trebles_to_singles_discussion/",
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1wkb747/what_do_you_all_think_of_this_color_called_ditch/",
      "selftext_head": ""
     },
     {
@@ -574,21 +556,21 @@
      "selftext_head": ""
     },
     {
-     "title": "What do you all think of this color called Ditch Pickle?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1wkb747/what_do_you_all_think_of_this_color_called_ditch/",
-     "selftext_head": ""
-    },
-    {
      "title": "Finally decided for high end reels",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1wjzahc/finally_decided_for_high_end_reels/",
+     "selftext_head": ""
+    },
+    {
+     "title": "$30 at Costco - Utah",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1wkw9fs/30_at_costco_utah/",
      "selftext_head": ""
     },
     {
@@ -653,6 +635,15 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1who1if/how_do_you_fish_this/",
      "selftext_head": ""
+    },
+    {
+     "title": "New Pole!!!!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1wjvdsc/new_pole/",
+     "selftext_head": ""
     }
    ]
   },
@@ -661,30 +652,12 @@
    "route": "R2-rss",
    "posts": [
     {
-     "title": "Bite has still be tough, but 4 citation fish in 2 days. Biggest at 25\" (all released)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wf6b8d/bite_has_still_be_tough_but_4_citation_fish_in_2/",
-     "selftext_head": ""
-    },
-    {
      "title": "First Saltwater Fish!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wig4q9/first_saltwater_fish/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Where everyone else failed I succeeded!!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wfha4d/where_everyone_else_failed_i_succeeded/",
      "selftext_head": ""
     },
     {
@@ -697,12 +670,12 @@
      "selftext_head": ""
     },
     {
-     "title": "some more chonkers and little guys since last post",
+     "title": "I gave up on bass fishing and returned to the salt water species today.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wgima0/some_more_chonkers_and_little_guys_since_last_post/",
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wkwnc3/i_gave_up_on_bass_fishing_and_returned_to_the/",
      "selftext_head": ""
     },
     {
@@ -712,6 +685,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1whu29m/got_my_first_redfish/",
+     "selftext_head": ""
+    },
+    {
+     "title": "some more chonkers and little guys since last post",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wgima0/some_more_chonkers_and_little_guys_since_last_post/",
      "selftext_head": ""
     },
     {
@@ -733,6 +715,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Teaching them young",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wli2tc/teaching_them_young/",
+     "selftext_head": ""
+    },
+    {
      "title": "Fishing Record Costa Rica",
      "score": null,
      "num_comments": null,
@@ -751,15 +742,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Bite was amazing this morning. 3 trout, 2 Ladyfish and a redfish all within an hour",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wesls7/bite_was_amazing_this_morning_3_trout_2_ladyfish/",
-     "selftext_head": ""
-    },
-    {
      "title": "Tuesday charter fishing out of Fort Morgan Marina - Fort Morgan, AL",
      "score": null,
      "num_comments": null,
@@ -769,21 +751,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Best saltyz",
+     "title": "Swordfish ⚔️",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wkgcc7/best_saltyz/",
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wl1bp2/swordfish/",
      "selftext_head": ""
     },
     {
-     "title": "Corvina were practically jumping into the boat",
+     "title": "Personal Best Inshore Redfish",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wfhkd1/corvina_were_practically_jumping_into_the_boat/",
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wlnabe/personal_best_inshore_redfish/",
      "selftext_head": ""
     },
     {
@@ -794,6 +776,15 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wgefyq/worse_feeling_ever/",
      "selftext_head": ""
+    },
+    {
+     "title": "Ocean to table",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wl0oo7/ocean_to_table/",
+     "selftext_head": ""
     }
    ]
   },
@@ -801,24 +792,6 @@
    "sub_niche": "SN4_big_game",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "DIY Colorado archery Elk hunt 2026",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Hunting/comments/1wet3xq/diy_colorado_archery_elk_hunt_2026/",
-     "selftext_head": ""
-    },
-    {
-     "title": "I shot my first buck",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Hunting/comments/1wewe4x/i_shot_my_first_buck/",
-     "selftext_head": ""
-    },
     {
      "title": "Got it done.",
      "score": null,
@@ -874,15 +847,6 @@
      "selftext_head": ""
     },
     {
-     "title": "70 lb draw might be a bit much…",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Hunting/comments/1wer55e/70_lb_draw_might_be_a_bit_much/",
-     "selftext_head": ""
-    },
-    {
      "title": "Red stag rut in Croatia 🇭🇷",
      "score": null,
      "num_comments": null,
@@ -892,12 +856,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Where to aim & ethical shots",
+     "title": "First ever Montana mule deer",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Hunting/comments/1wgmmnw/where_to_aim_ethical_shots/",
+     "permalink": "https://www.reddit.com/r/Hunting/comments/1wks650/first_ever_montana_mule_deer/",
      "selftext_head": ""
     },
     {
@@ -907,6 +871,24 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Hunting/comments/1wjxy9r/meet_blondie/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Couldn’t Pass Him Up",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Hunting/comments/1wlgj9i/couldnt_pass_him_up/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Where to aim & ethical shots",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Hunting/comments/1wgmmnw/where_to_aim_ethical_shots/",
      "selftext_head": ""
     },
     {
@@ -925,6 +907,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Hunting/comments/1wi7591/you_know_youre_a_girl_dad_when/",
+     "selftext_head": ""
+    },
+    {
+     "title": "My Colorado Shiras Moose",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Hunting/comments/1wjzmou/my_colorado_shiras_moose/",
      "selftext_head": ""
     },
     {
@@ -970,21 +961,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Got my first antelope buck this week",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wfk79a/got_my_first_antelope_buck_this_week/",
-     "selftext_head": ""
-    },
-    {
      "title": "Roosevelt Bull",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bowhunting/comments/1wg8vry/roosevelt_bull/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Doe by Canoe Access (NH)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wlgnr4/doe_by_canoe_access_nh/",
      "selftext_head": ""
     },
     {
@@ -997,12 +988,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Got him last night in miss",
+     "title": "2026 opening day buck",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wg866b/got_him_last_night_in_miss/",
+     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wlh28o/2026_opening_day_buck/",
      "selftext_head": ""
     },
     {
@@ -1015,12 +1006,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Thanks to everyone for input this morning. Went to the local shop and they set me up right.",
+     "title": "Got him last night in miss",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wj0zj0/thanks_to_everyone_for_input_this_morning_went_to/",
+     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wg866b/got_him_last_night_in_miss/",
      "selftext_head": ""
     },
     {
@@ -1033,21 +1024,30 @@
      "selftext_head": ""
     },
     {
-     "title": "Opening Day Georgia",
+     "title": "Thanks to everyone for input this morning. Went to the local shop and they set me up right.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wep6wg/opening_day_georgia/",
+     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wj0zj0/thanks_to_everyone_for_input_this_morning_went_to/",
      "selftext_head": ""
     },
     {
-     "title": "2026 1st Target 🎯",
+     "title": "Opening day in PA. Hoping everyone has a safe and successful season",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wg7h05/2026_1st_target/",
+     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wkyqtz/opening_day_in_pa_hoping_everyone_has_a_safe_and/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Looks like I chose the wrong stand for Minnesota opener..",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wl1ih0/looks_like_i_chose_the_wrong_stand_for_minnesota/",
      "selftext_head": ""
     },
     {
@@ -1060,21 +1060,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Backyard Michigan bucks",
+     "title": "2026 1st Target 🎯",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wjrzku/backyard_michigan_bucks/",
-     "selftext_head": ""
-    },
-    {
-     "title": "I'm ready to quit",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wfc7tx/im_ready_to_quit/",
+     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wg7h05/2026_1st_target/",
      "selftext_head": ""
     }
    ]
@@ -1099,6 +1090,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/elkhunting/comments/1wil7h5/another_picture_of_my_elk/",
+     "selftext_head": ""
+    },
+    {
+     "title": "09/09 , ID",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/elkhunting/comments/1wlkfhx/0909_id/",
      "selftext_head": ""
     },
     {
@@ -1207,15 +1207,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/elkhunting/comments/1whmpn9/1st_rifle_elk_colorado/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Looking for a partner - NE Oregon",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/elkhunting/comments/1wka6s2/looking_for_a_partner_ne_oregon/",
      "selftext_head": ""
     }
    ]
@@ -1442,6 +1433,11 @@
    "channel_id": "UCr2D7uDiJ6bA1Ov0ZZy_5mA",
    "videos": [
     {
+     "title": "Before You Fish the 2.0 Paddletail, Watch This",
+     "published": "2026-09-20T14:35:21+00:00",
+     "url": "https://youtu.be/RijwE3DWOxM"
+    },
+    {
      "title": "Here's Why Your FG Knot Fails!",
      "published": "2026-09-18T00:00:37+00:00",
      "url": "https://youtu.be/SpgQFofgymw"
@@ -1485,11 +1481,6 @@
      "title": "Trick to Get Grouper Out of the Rocks 🪕",
      "published": "2026-09-11T00:00:26+00:00",
      "url": "https://youtu.be/izZkwTsiDVs"
-    },
-    {
-     "title": "Always Close the Bail By Hand!",
-     "published": "2026-09-09T22:45:00+00:00",
-     "url": "https://youtu.be/XgJN8WtQF3c"
     }
    ]
   },
@@ -1823,16 +1814,16 @@
   ]
  },
  "trends": [
-  "espn news",
-  "carson benge",
-  "sean sharaf",
-  "trey mancini",
-  "choi doo-ho",
-  "robelis despaigne",
-  "presidents cup",
-  "casey o&apos;neill",
-  "stanford football",
-  "charles jourdain"
+  "stefon diggs",
+  "sunday night football",
+  "texas rangers",
+  "49ers score",
+  "greg papa",
+  "rachaad white",
+  "kirk cousins",
+  "tyreek hill",
+  "tua tagovailoa",
+  "tom brady"
  ],
  "errors": []
 }
