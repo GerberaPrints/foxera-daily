@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-20",
- "fetched_at": "2026-09-20T04:45:02.799205+07:00",
+ "date": "2026-09-21",
+ "fetched_at": "2026-09-21T04:45:02.356854+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -19,15 +19,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Shane Lowry wins the Amgen Irish Open. Lowry shoots rounds of 67, a course record 62, 65 and 63 to win the Amgen Irish Open by a record ELEVEN shots",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wfdp7t/shane_lowry_wins_the_amgen_irish_open_lowry/",
-     "selftext_head": ""
-    },
-    {
      "title": "No way… I actually found one",
      "score": null,
      "num_comments": null,
@@ -37,21 +28,21 @@
      "selftext_head": ""
     },
     {
-     "title": "First Hole in One!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wgka8s/first_hole_in_one/",
-     "selftext_head": ""
-    },
-    {
      "title": "Wife - Just because you have a laser doesn't mean you need to laser everything. Me - Yes, yes it does.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wj2s0k/wife_just_because_you_have_a_laser_doesnt_mean/",
+     "selftext_head": ""
+    },
+    {
+     "title": "First Hole in One!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wgka8s/first_hole_in_one/",
      "selftext_head": ""
     },
     {
@@ -73,12 +64,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Shane Lowry wins the Irish Open (DP World Tour) by 11 strokes!",
+     "title": "Rory from 231 to a foot on 18.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wfdj84/shane_lowry_wins_the_irish_open_dp_world_tour_by/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wkp4np/rory_from_231_to_a_foot_on_18/",
      "selftext_head": ""
     },
     {
@@ -109,6 +100,15 @@
      "selftext_head": ""
     },
     {
+     "title": "3 month update to “Closed on a house half way up the right side fairway on a par 4, week one golf ball review.”",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wjbhi8/3_month_update_to_closed_on_a_house_half_way_up/",
+     "selftext_head": ""
+    },
+    {
      "title": "Custom Kirkland Wedges🤔",
      "score": null,
      "num_comments": null,
@@ -118,12 +118,12 @@
      "selftext_head": ""
     },
     {
-     "title": "3 month update to “Closed on a house half way up the right side fairway on a par 4, week one golf ball review.”",
+     "title": "Car running into Brae Burn pro shop in Mass.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wjbhi8/3_month_update_to_closed_on_a_house_half_way_up/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wlfsq1/car_running_into_brae_burn_pro_shop_in_mass/",
      "selftext_head": ""
     },
     {
@@ -136,12 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Haven't really played in 20 years. Wanted to try out some hybrids for the first time to build out a set and even found an old 7 wood. The gapping between clubs did not turn out well...",
+     "title": "I too like to see the whole course, not by choice though",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wetawp/havent_really_played_in_20_years_wanted_to_try/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wgfbte/i_too_like_to_see_the_whole_course_not_by_choice/",
      "selftext_head": ""
     }
    ]
@@ -266,14 +266,14 @@
   "golf apparel funny": [
    "golf apparel funny",
    "golf shirts funny",
+   "golf shirts funny men",
    "golf clothing funny",
    "golf shirt funny pattern",
    "golf shirts funny women",
    "golf shirts funny australia",
+   "golf shirts funny print",
    "golf shirts funny sayings",
-   "golf shirts funny amazon",
-   "golf shirt funny design",
-   "funny golf outfit ideas"
+   "golf shirts funny amazon"
   ],
   "hawaiian golf shirt": [
    "hawaiian golf shirts",
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "bristol motor speedway",
-  "espn news",
-  "carson benge",
-  "sean sharaf",
-  "trey mancini",
-  "choi doo-ho",
-  "robelis despaigne",
-  "presidents cup",
-  "casey o&apos;neill",
-  "stanford football"
+  "malik willis",
+  "terry mclaurin",
+  "mark schlereth",
+  "treylon burks",
+  "ice shooting",
+  "marvin harrison jr",
+  "dan quinn",
+  "tampa bay lightning",
+  "stefon diggs",
+  "sunday night football"
  ],
  "errors": []
 }
