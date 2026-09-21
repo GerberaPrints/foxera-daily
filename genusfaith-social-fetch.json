@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-21",
- "fetched_at": "2026-09-21T04:15:02.724265+07:00",
+ "date": "2026-09-22",
+ "fetched_at": "2026-09-22T04:15:02.762587+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "Happy 71st Birthday Pope Leo !",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wg1vzl/happy_71st_birthday_pope_leo/",
-     "selftext_head": ""
-    },
     {
      "title": "[Free Friday] What's not to love!",
      "score": null,
@@ -46,21 +37,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Something disturbing happened at Mass today.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wlmbbs/something_disturbing_happened_at_mass_today/",
+     "selftext_head": ""
+    },
+    {
      "title": "Why do catholics belive Mary was sinless?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wijqu6/why_do_catholics_belive_mary_was_sinless/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Brown scapular devotion",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wfwdaq/brown_scapular_devotion/",
      "selftext_head": ""
     },
     {
@@ -100,15 +91,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Something disturbing happened at Mass today.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wlmbbs/something_disturbing_happened_at_mass_today/",
-     "selftext_head": ""
-    },
-    {
      "title": "I made a one sheet guide for Eucharistic Adoration!",
      "score": null,
      "num_comments": null,
@@ -136,12 +118,30 @@
      "selftext_head": ""
     },
     {
-     "title": "Father Leon, a Korean virtual YouTuber affiliated with the Diocese of Suwon, has seen success with his online catechesis program \"Holy Live.\" 10 baptisms have been reported as a result of a recent broadcast, aside from the general interest generated among young viewers.",
+     "title": "Romanian Greek Eastern Catholic priest and his family, they are one of the most interesting Catholic Rites",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wlgk7q/father_leon_a_korean_virtual_youtuber_affiliated/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wk22ub/romanian_greek_eastern_catholic_priest_and_his/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I’m an atheist and am thinking about attending Mass for the first time",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wggi8d/im_an_atheist_and_am_thinking_about_attending/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Does anyone know why Christ is looking away in the Mandylion",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1whx6kc/does_anyone_know_why_christ_is_looking_away_in/",
      "selftext_head": ""
     }
    ]
@@ -150,14 +150,14 @@
  "youtube": {},
  "suggest": {
   "catholic gift for": [
+   "catholic gift for men",
    "catholic gift for new home",
+   "catholic gift for baptism",
    "catholic gift for newborn",
    "catholic gift for funeral",
-   "catholic gift for men",
    "catholic gift for women",
    "catholic gift for mom",
    "catholic gift for kids",
-   "catholic gift for baptism",
    "catholic gift for wife",
    "catholic gift for baby"
   ],
@@ -177,8 +177,8 @@
    "christian gift for her",
    "christian gift ideas for her",
    "christian dior gift for her",
-   "christian gift box for her",
    "christian valentines gift for her",
+   "christian gift box for her",
    "christian jewelry gift for her",
    "christian christmas gift for her",
    "christian gift for wife",
@@ -190,12 +190,12 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
+   "confirmation gift ideas for boy",
+   "confirmation gift ideas for girls",
    "confirmation gifts for adults",
    "confirmation gifts from sponsor",
-   "confirmation gift ideas for boy",
    "confirmation gifts catholic",
-   "confirmation gifts for teenage boys",
-   "confirmation gift ideas for girls"
+   "confirmation gift for teen girl"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -204,7 +204,7 @@
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
-   "baptism gift for baby boy",
+   "baptism gifts for baby boy",
    "baptism gifts near me",
    "baptism gifts from godparents",
    "baptism gift from godmother"
@@ -217,8 +217,8 @@
    "catholic home decor australia",
    "catholic home decor uk",
    "catholic home decor near me",
-   "catholic home decor nearby",
    "catholic home decor reddit",
+   "catholic home decor nearby",
    "catholic home decor book"
   ],
   "saint medal necklace": [
@@ -235,24 +235,24 @@
   ],
   "first communion gift": [
    "first communion gifts",
-   "first communion gifts for boys",
    "first communion gifts for girls",
+   "first communion gifts for boys",
    "first communion gift ideas",
-   "first communion gifts near me",
    "first communion gifts for boys catholic",
-   "first communion gift ideas for boys",
+   "first communion gifts near me",
    "first communion gift for boy non religious",
-   "first communion gifts for girls catholic",
-   "first communion gift set"
+   "first communion gift ideas for boys",
+   "first communion gifts australia",
+   "first communion gifts for boys near me"
   ],
   "catholic wedding gift": [
    "catholic wedding gifts",
    "catholic wedding gift ideas",
    "catholic wedding gifts for couples",
-   "catholic wedding gift ideas for couple",
+   "catholic wedding gifts rituals",
    "catholic wedding gift for wife",
    "catholic wedding gifts personalized",
-   "catholic wedding gifts rituals",
+   "catholic wedding gift ideas for couple",
    "catholic wedding gift bearers",
    "catholic wedding gifts for bride",
    "catholic wedding gift for husband"
@@ -263,23 +263,23 @@
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
-   "christian tote bag amazon",
-   "christian tote bag designs",
-   "christian tote bag design ideas",
    "christian tote bags in bulk",
+   "christian tote bag designs",
+   "christian tote bag amazon",
+   "christian tote bag design ideas",
    "christian dior tote bag cost"
   ],
   "faith based jewelry": [
    "faith based jewelry",
    "faith based jewelry for women",
+   "faith based jewelry company",
    "faith based jewelry for men",
    "faith based jewelry brands",
-   "faith based jewelry company",
    "faith based jewelry wholesale",
    "faith based jewelry near me",
    "faith based jewelry store",
-   "faith based jewelry nearby",
-   "faith based jewelry south africa"
+   "faith based jewelry south africa",
+   "faith based jewelry nearby"
   ],
   "catholic leather bag": [
    "catholic leather bag",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "tua tagovailoa",
-  "tom brady",
-  "omarion hampton",
-  "cardinals game",
-  "astros game today",
-  "49ers",
-  "niners",
-  "trey mcbride",
-  "tre tucker",
-  "travis hunter"
+  "puka nacua",
+  "monday night football schedule",
+  "monday night football tonight",
+  "gracie mansion",
+  "comerica park",
+  "flores amarillas",
+  "argentina",
+  "bryson dechambeau",
+  "meta stock",
+  "baseball"
  ],
  "errors": []
 }
