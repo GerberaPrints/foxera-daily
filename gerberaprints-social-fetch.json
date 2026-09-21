@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-21",
- "fetched_at": "2026-09-21T04:45:02.356854+07:00",
+ "date": "2026-09-22",
+ "fetched_at": "2026-09-22T04:45:02.968428+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "Video has surfaced of Alejandro Tosti’s caddie quitting mid-round yesterday",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wk345v/video_has_surfaced_of_alejandro_tostis_caddie/",
-     "selftext_head": ""
-    },
     {
      "title": "No way… I actually found one",
      "score": null,
@@ -55,15 +46,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Alex Fitzpatrick had to hole this shot to make the cut at the BMW PGA Championship",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wk05o7/alex_fitzpatrick_had_to_hole_this_shot_to_make/",
-     "selftext_head": ""
-    },
-    {
      "title": "Rory from 231 to a foot on 18.",
      "score": null,
      "num_comments": null,
@@ -73,21 +55,39 @@
      "selftext_head": ""
     },
     {
+     "title": "The r/golf “Hats in the Dishwasher” advice is clutch",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wlne0e/the_rgolf_hats_in_the_dishwasher_advice_is_clutch/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Car running into Brae Burn pro shop in Mass.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wlfsq1/car_running_into_brae_burn_pro_shop_in_mass/",
+     "selftext_head": ""
+    },
+    {
+     "title": "🍁 Canadians! Callaway fairway woods are on clearance at Golf Town!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wlts4s/canadians_callaway_fairway_woods_are_on_clearance/",
+     "selftext_head": ""
+    },
+    {
      "title": "Some hooligans tearing up our home course",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wgixmn/some_hooligans_tearing_up_our_home_course/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Tiger is hitting balls again this morning at Liberty National. No word on if the driver was taken out",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wh11eu/tiger_is_hitting_balls_again_this_morning_at/",
      "selftext_head": ""
     },
     {
@@ -109,21 +109,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Custom Kirkland Wedges🤔",
+     "title": "Me all day yesterday 😂",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wiyvbd/custom_kirkland_wedges/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Car running into Brae Burn pro shop in Mass.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wlfsq1/car_running_into_brae_burn_pro_shop_in_mass/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wljhnl/me_all_day_yesterday/",
      "selftext_head": ""
     },
     {
@@ -136,12 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "I too like to see the whole course, not by choice though",
+     "title": "Kids these days - High School Junior Shoots a 59",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wgfbte/i_too_like_to_see_the_whole_course_not_by_choice/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wkmccf/kids_these_days_high_school_junior_shoots_a_59/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Golf is hard because you can’t practice the majority of shots you encounter in a round",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1whyyft/golf_is_hard_because_you_cant_practice_the/",
      "selftext_head": ""
     }
    ]
@@ -157,9 +157,9 @@
    "funny golf polos for women",
    "funny golf polo shirts for men",
    "funny golf polos canada",
+   "funny golf polos near me",
    "funny golf polos amazon",
-   "funny golf polos for men amazon",
-   "funny golf polos near me"
+   "funny golf polos for men amazon"
   ],
   "golf gift for him": [
    "golf gift for him",
@@ -175,11 +175,12 @@
   ],
   "golf bachelor party shirt": [
    "golf bachelor party shirts",
+   "golf bachelor party shirt ideas",
    "funny golf bachelor party shirts",
-   "golf themed bachelor party shirts",
    "golf bachelor party t shirts",
-   "bachelor party golf shirt ideas",
+   "golf themed bachelor party shirts",
    "custom bachelor party golf shirts",
+   "mens bachelor party golf shirts",
    "bachelor party golf rules",
    "bachelor party golf gift ideas"
   ],
@@ -202,22 +203,22 @@
    "custom golf polos with logo",
    "custom golf polo with face",
    "custom golf polo shirts uk",
-   "custom golf polos australia",
    "custom golf polo shirts with logo",
    "custom golf polos no minimum",
-   "custom golf polos canada"
+   "custom golf polos canada",
+   "custom golf polo shirts australia"
   ],
   "golf tournament gift": [
    "golf tournament gift ideas",
    "golf tournament gifts",
    "golf tournament gift bag ideas",
+   "golf tournament gifts under $10",
    "golf tournament gift bags",
    "golf tournament gifts for players",
    "golf tournament gift basket ideas",
-   "golf tournament gifts under $10",
+   "golf tournament gifts under $20",
    "golf tournament gifts under $5",
-   "prizes for golf tournaments",
-   "whats a good gift for a golfer"
+   "prizes for golf tournaments"
   ],
   "golf koozie": [
    "golf koozie",
@@ -226,10 +227,10 @@
    "golf koozie designs",
    "golf koozies bulk",
    "golf koozie nearby",
+   "golf koozie with tee holder",
    "golf koozie sleeve",
    "golf koozie near me",
-   "golf koozie with tee holder",
-   "golf koozie funny"
+   "golf koozie custom"
   ],
   "golf towel funny": [
    "golf towel funny",
@@ -237,16 +238,16 @@
    "golf towel fun",
    "golf ball towel funny",
    "golf bag towel funny",
-   "amazon golf towel funny",
    "golf club towel funny",
+   "amazon golf towel funny",
    "disc golf towel funny",
    "magnetic golf towel funny",
    "golf towels with funny sayings"
   ],
   "bachelor party golf": [
-   "bachelor party golf shirts",
    "bachelor party golf trips",
    "bachelor party golf balls",
+   "bachelor party golf shirts",
    "bachelor party golf ideas",
    "bachelor party golf gifts",
    "bachelor party golf games",
@@ -267,13 +268,13 @@
    "golf apparel funny",
    "golf shirts funny",
    "golf shirts funny men",
-   "golf clothing funny",
    "golf shirt funny pattern",
+   "golf clothing funny",
    "golf shirts funny women",
    "golf shirts funny australia",
    "golf shirts funny print",
-   "golf shirts funny sayings",
-   "golf shirts funny amazon"
+   "golf shirts funny amazon",
+   "golf shirts funny sayings"
   ],
   "hawaiian golf shirt": [
    "hawaiian golf shirts",
@@ -284,21 +285,21 @@
    "hawaiian golf shirts canada",
    "hawaiian golf shirts near me",
    "hawaiian golf shirts nearby",
-   "hawaiian golf shirts for couples",
-   "hawaiian golf shirt brand"
+   "hawaiian golf shirt brand",
+   "hawaiian golf shirts for couples"
   ]
  },
  "trends": [
-  "malik willis",
-  "terry mclaurin",
-  "mark schlereth",
-  "treylon burks",
-  "ice shooting",
-  "marvin harrison jr",
-  "dan quinn",
-  "tampa bay lightning",
-  "stefon diggs",
-  "sunday night football"
+  "daredevil born again",
+  "the voice",
+  "presidents cup",
+  "puka nacua",
+  "monday night football schedule",
+  "monday night football tonight",
+  "gracie mansion",
+  "comerica park",
+  "flores amarillas",
+  "argentina"
  ],
  "errors": []
 }
