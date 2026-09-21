@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "scanner_version": "v9",
   "provenance": "live_local_browser",
   "note": "Desktop CHI ghi file nay. Cloud doc va merge vao foxera-accounts-daily.json. v8 ghi de accounts-daily -> 2 nguoi ghi 1 file, da bo.",
@@ -846,7 +846,7 @@
       "status": "not_selling",
       "sales": 101,
       "rating": 3.5,
-      "reviews": 16,
+      "reviews": 17,
       "listings": null,
       "status_confirmed": true,
       "evidence": "cau trang thai nguyen van"
