@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-21",
- "fetched_at": "2026-09-21T04:30:02.797968+07:00",
+ "date": "2026-09-22",
+ "fetched_at": "2026-09-22T04:30:02.781908+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 117,
@@ -1440,7 +1440,7 @@
      "published_at": "2026-09-17T15:24:24-05:00"
     },
     {
-     "title": "Alden Custom Guide Boot",
+     "title": "Guide Boot by Alden",
      "handle": "alden-custom-guide-boot",
      "type": "Footwear",
      "tags": [
@@ -2069,6 +2069,30 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Whitetail Deer Forest Camo Hoodie | Hunting Hoodie for Him | Deer Hunter Gift",
+     "handle": "whitetail-deer-forest-camo-hoodie-hunting-hoodie-for-him-deer-hunter-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-21T00:33:00-07:00"
+    },
+    {
+     "title": "Mourning Dove Millet Field Camo Hoodie — All-Over Golden Hour Print, Dove Hunting Gift",
+     "handle": "mourning-dove-millet-field-camo-hoodie-all-over-golden-hour-print-dove-hunting-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-20T23:50:19-07:00"
+    },
+    {
+     "title": "Mourning Dove Harvest Field Camo Hoodie — All-Over Wheat & Stalk Print, Dove Hunting Gift",
+     "handle": "mourning-dove-harvest-field-camo-hoodie-all-over-wheat-stalk-print-dove-hunting-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-20T23:39:04-07:00"
+    },
+    {
      "title": "Whitetail Deer Vintage Camo Hoodie — Retro Blotch All-Over Print, Deer Hunting Gift",
      "handle": "whitetail-deer-vintage-camo-hoodie-retro-blotch-all-over-print-deer-hunting-gift",
      "type": "",
@@ -2083,30 +2107,6 @@
      "tags": [],
      "price": "69.95",
      "published_at": "2026-09-19T00:26:32-07:00"
-    },
-    {
-     "title": "Mallard Duck Cypress Swamp Camo Hoodie — All-Over Flooded Timber Print, Duck Hunting Gift",
-     "handle": "mallard-duck-cypress-swamp-camo-hoodie-all-over-flooded-timber-print-duck-hunting-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-19T00:24:08-07:00"
-    },
-    {
-     "title": "Mourning Dove Camo Hoodie - Sunflower Field Break-Up Camo",
-     "handle": "mourning-dove-camo-hoodie-sunflower-field-break-up-camo",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-11T01:08:15-07:00"
-    },
-    {
-     "title": "Bull Elk Bugling Snow Camo Hoodie - Realistic Winter Camouflage",
-     "handle": "bull-elk-bugling-snow-camo-hoodie-realistic-winter-camouflage",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-10T01:42:16-07:00"
     }
    ]
   },
@@ -2114,57 +2114,59 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Coyote Skull Hunting Pattern Polo Shirt DP1013",
-     "handle": "coyote-skull-hunting-pattern-polo-shirt-dp1013",
-     "type": "Polo Shirt",
-     "tags": [
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-09-16T21:02:49-06:00"
-    },
-    {
-     "title": "Coyote Hunting Pattern Polo Shirt DP1012",
-     "handle": "coyote-hunting-pattern-polo-shirt-dp1012",
-     "type": "Polo Shirt",
-     "tags": [
-      "Polo Shirt"
-     ],
-     "price": "41.99",
-     "published_at": "2026-09-16T20:59:12-06:00"
-    },
-    {
-     "title": "Funny Dove Smoking Cocktail Glasses Canvas Wall Art Hunter Gift",
-     "handle": "funny-dove-smoking-cocktail-glasses-canvas-wall-art-hunter-gift",
-     "type": "",
-     "tags": [
-      "bear",
-      "Canvas"
-     ],
-     "price": "49.99",
-     "published_at": "2026-09-16T20:20:49-06:00"
-    },
-    {
-     "title": "Dove Field Hunting Polo Shirt VCP1006",
-     "handle": "dove-field-hunting-polo-shirt-vcp1006",
+     "title": "Bear Hunting Polo Shirt VCE1017",
+     "handle": "bear-hunting-polo-shirt-vce1017",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-16T19:41:18-06:00"
+     "published_at": "2026-09-21T02:43:41-06:00"
     },
     {
-     "title": "Dove Hunting  Polo Shirt VCP1005",
-     "handle": "dove-hunting-polo-shirt-vcp1005",
+     "title": "Elk Hunting Frost Mountain Field Polo Shirt VCE1016",
+     "handle": "elk-hunting-frost-mountain-field-polo-shirt-vce1016",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-16T19:40:25-06:00"
+     "published_at": "2026-09-21T01:25:53-06:00"
+    },
+    {
+     "title": "Timber Flow Elk Hunting Polo Shirt VCE1015",
+     "handle": "timber-flow-elk-hunting-polo-shirt-vce1015",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-09-21T01:24:08-06:00"
+    },
+    {
+     "title": "Fly Fishing Polo Shirt VCE1014",
+     "handle": "fly-fishing-polo-shirt-vce1014",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-09-21T01:05:14-06:00"
+    },
+    {
+     "title": "Personalized Dog's Name Black Labrador Retriever Camo Duck Polo Shirt VCE1013",
+     "handle": "personalized-dogs-name-black-labrador-retriever-camo-duck-polo-shirt-vce1013",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-09-21T00:59:48-06:00"
     }
    ]
   },
