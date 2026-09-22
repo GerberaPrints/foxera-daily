@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-22",
- "fetched_at": "2026-09-22T04:30:02.781908+07:00",
+ "date": "2026-09-23",
+ "fetched_at": "2026-09-23T04:30:03.217021+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 117,
@@ -1204,94 +1204,85 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Brush Field Apron - Wetland",
-     "handle": "brush-field-apron-wetland",
-     "type": "Brush Apron",
-     "tags": [
-      "__label:new",
-      "accessory",
-      "apron",
-      "brush",
-      "collection-feature",
-      "cooking",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "gear",
-      "hunt",
-      "lifestyle",
-      "mens",
-      "msrp"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-17T13:29:48-05:00"
-    },
-    {
-     "title": "Men's Brush Wingshooting Vest",
-     "handle": "mens-brush-wingshooting-vest",
+     "title": "Men's Terrain Guard Softshell Vest",
+     "handle": "mens-terrain-guard-softshell-vest",
      "type": "Combined Product",
      "tags": [],
-     "price": "129.00",
-     "published_at": "2026-09-16T12:49:19-05:00"
+     "price": "169.00",
+     "published_at": "2026-09-22T10:44:49-05:00"
     },
     {
-     "title": "Men's Brush Wingshooting Vest - Reed",
-     "handle": "mens-brush-wingshooting-vest-reed",
-     "type": "Brush Vest",
+     "title": "Men's Terrain Guard Softshell Vest - Moss",
+     "handle": "mens-terrain-guard-softshell-vest-moss",
+     "type": "Terrain Guard Vest",
      "tags": [
       "__label:new",
-      "brush",
       "collection-feature",
       "dc-inventory-sync::OFF",
       "F26",
       "hunt",
-      "lifestyle",
       "mens",
       "msrp",
       "outerwear",
+      "terrain-guard",
       "vest"
      ],
-     "price": "129.00",
-     "published_at": "2026-09-16T12:47:04-05:00"
+     "price": "169.00",
+     "published_at": "2026-09-22T10:43:14-05:00"
     },
     {
-     "title": "Men's Brush Wingshooting Vest - Pin Oak",
-     "handle": "mens-brush-wingshooting-vest-pin-oak",
-     "type": "Brush Vest",
+     "title": "Men's Terrain Guard Softshell Vest - Woodland",
+     "handle": "mens-terrain-guard-softshell-vest-woodland",
+     "type": "Terrain Guard Vest",
      "tags": [
       "__label:new",
-      "brush",
       "dc-inventory-sync::OFF",
       "F26",
       "hunt",
-      "lifestyle",
       "mens",
       "msrp",
       "outerwear",
+      "terrain-guard",
       "vest"
      ],
-     "price": "129.00",
-     "published_at": "2026-09-16T12:44:54-05:00"
+     "price": "169.00",
+     "published_at": "2026-09-22T10:39:09-05:00"
     },
     {
-     "title": "Men's Brush Overalls - Pin Oak",
-     "handle": "mens-brush-overalls-pin-oak",
-     "type": "Brush Overalls",
+     "title": "Men's Terrain Guard Softshell Vest - Wetland",
+     "handle": "mens-terrain-guard-softshell-vest-wetland",
+     "type": "Terrain Guard Vest",
      "tags": [
       "__label:new",
-      "bottoms",
-      "brush",
-      "collection-feature",
       "dc-inventory-sync::OFF",
       "F26",
       "hunt",
-      "lifestyle",
       "mens",
       "msrp",
       "outerwear",
-      "overalls"
+      "terrain-guard",
+      "vest"
      ],
-     "price": "149.00",
-     "published_at": "2026-09-16T12:20:51-05:00"
+     "price": "169.00",
+     "published_at": "2026-09-22T10:38:02-05:00"
+    },
+    {
+     "title": "Men's Terrain Guard Softshell Vest - Pin Oak",
+     "handle": "mens-terrain-guard-softshell-vest-pin-oak",
+     "type": "Terrain Guard Vest",
+     "tags": [
+      "__label:new",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "hunt",
+      "mens",
+      "msrp",
+      "outerwear",
+      "terrain-guard",
+      "vest"
+     ],
+     "price": "169.00",
+     "published_at": "2026-09-22T10:36:09-05:00"
     }
    ]
   },
@@ -1502,6 +1493,32 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "HB Trade Pants - Putty",
+     "handle": "hb-trade-pants-painters-putty",
+     "type": "Men's Pants",
+     "tags": [
+      "__eligible-for-discount",
+      "alt-text",
+      "everyday-wear",
+      "f26-carryover",
+      "fall-2024",
+      "fall-2025-drop-1",
+      "mens-bottoms-collection",
+      "mens-pants-collection",
+      "not-online",
+      "october-capsule",
+      "pants",
+      "product-merging",
+      "restocked",
+      "search-bug-fix",
+      "solids",
+      "trade-collection",
+      "unpublish-101524"
+     ],
+     "price": "129.00",
+     "published_at": "2026-09-22T15:09:14-05:00"
+    },
+    {
      "title": "ACL Fest 2026 Bandana - Festival Sky Dye",
      "handle": "acl-fest-2026-bandana-festival-sky-dye",
      "type": "",
@@ -1532,21 +1549,6 @@
      "tags": [],
      "price": "40.00",
      "published_at": "2026-09-18T08:34:46-05:00"
-    },
-    {
-     "title": "ACL Fest 2026 Bandana - Festival Sky Dye",
-     "handle": "bandana-acl-2026-festival-sky-dye",
-     "type": "Accessories",
-     "tags": [
-      "accessories-collection",
-      "acl-2026",
-      "f26",
-      "no-treet",
-      "published-online",
-      "search-bug-fix"
-     ],
-     "price": "20.00",
-     "published_at": "2026-09-18T08:31:41-05:00"
     }
    ]
   },
@@ -1693,6 +1695,20 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "CommandXT Eqwader Vest",
+     "handle": "commandxt-eqwader-vest",
+     "type": "Jackets & Vests",
+     "tags": [
+      "AW26 Catalog",
+      "AW26_NEW",
+      "jackets-vests",
+      "mens",
+      "new"
+     ],
+     "price": "119.99",
+     "published_at": "2026-09-22T10:01:26-05:00"
+    },
+    {
      "title": "LST Wool Neck Gaiter",
      "handle": "wool-neck-gaiter",
      "type": "Headwear",
@@ -1759,6 +1775,7 @@
       "BFCM2026",
       "decdeals_25",
       "EOS_JAN_26",
+      "HOL_26 Flyer",
       "New_No_Coming_Soon",
       "pants & bibs",
       "top seller 2025",
@@ -1766,22 +1783,6 @@
      ],
      "price": "94.99",
      "published_at": "2026-09-14T13:42:02-05:00"
-    },
-    {
-     "title": "LST Insulated Waxed Cotton Vest",
-     "handle": "lst-drake-featherless-down-dry-waxed-cotton-jacket-copy",
-     "type": "Jackets & Vests",
-     "tags": [
-      "AW26 Catalog",
-      "AW26 Price Tracking",
-      "AW26_NEW",
-      "jackets-vests",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new"
-     ],
-     "price": "249.99",
-     "published_at": "2026-09-14T08:40:38-05:00"
     }
    ]
   },
@@ -1908,89 +1909,96 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Cooler Backpack - Classic Deer Camo",
-     "handle": "cooler-backpack-classic-deer-camo",
-     "type": "Cooler",
+     "title": "Performance Polo - Texas Grey and White",
+     "handle": "performance-polo-texas-grey-and-white",
+     "type": "Polo",
      "tags": [
-      "Accessories",
+      "8/4/26",
       "B2B_Active",
       "B2B_Sync",
       "BassPro",
-      "Feb17",
+      "BlinkAutoHide",
+      "FA26 Missing image",
+      "Fall 26",
+      "Fall26",
+      "Gameday",
+      "July 14th",
+      "missingboth",
+      "Performance Polo",
+      "Polo",
+      "PREBOOK START: 06/01/2026",
       "retail",
-      "Season SPRING26",
-      "Spring 26",
+      "Season Fall26",
+      "Short Sleeve",
+      "Tops",
       "wholesale"
      ],
-     "price": "79.00",
-     "published_at": "2026-09-17T14:13:37-05:00"
+     "price": "59.00",
+     "published_at": "2026-09-22T14:04:17-05:00"
     },
     {
-     "title": "Cap - Classic Rad Dad - Navy",
-     "handle": "rad-dad-cap",
+     "title": "Father and Son Bundle - Vintage Washed Hoodie - Classic Deer Camo",
+     "handle": "father-and-son-bundle-vintage-washed-fleece-hoodie-classic-deer-camo",
+     "type": "Bundle",
+     "tags": [
+      "8/13/26"
+     ],
+     "price": "111.00",
+     "published_at": "2026-09-22T13:27:36-05:00"
+    },
+    {
+     "title": "Father and Son Bundle - Vintage Washed Hoodie - Midland Camo",
+     "handle": "father-and-son-bundle-vintage-washed-fleece-hoodie-midland-camo",
+     "type": "Bundle",
+     "tags": [
+      "8/13/26"
+     ],
+     "price": "111.00",
+     "published_at": "2026-09-22T13:26:41-05:00"
+    },
+    {
+     "title": "Performance Polo - Fly Life",
+     "handle": "copy-of-performance-polo-electric-storm",
+     "type": "Polo",
+     "tags": [
+      "B2B_Active",
+      "B2B_Sync",
+      "hide-notify-btn",
+      "hide-preorder-btn",
+      "pdqreview",
+      "Performance Polo",
+      "retail",
+      "Sale",
+      "Season Uncategorized",
+      "Short Sleeve",
+      "Tops",
+      "vintage vault",
+      "Warehouse Sale 2026",
+      "wholesale"
+     ],
+     "price": "25.00",
+     "published_at": "2026-09-22T11:50:46-05:00"
+    },
+    {
+     "title": "Youth Cap - Patch Logo - Camo Mesh",
+     "handle": "youth-cap-mesh-camo-cap",
      "type": "Caps",
      "tags": [
+      "B2B_Active",
+      "B2B_Sync",
       "BlinkAutoHide",
       "Cap",
-      "Dad",
-      "FALL20",
-      "Hat",
-      "navy",
+      "hide-notify-btn",
+      "hide-preorder-btn",
       "pdqreview",
-      "Rad Dad",
       "retail",
-      "Snapback Cap"
+      "Sale",
+      "Warehouse Sale 2026",
+      "wholesale",
+      "Youth"
      ],
-     "price": "35.00",
-     "published_at": "2026-09-17T14:08:13-05:00"
-    },
-    {
-     "title": "Cap - WHATA Logo - Classic Deer Camo",
-     "handle": "cap-whata-logo-classic-deer-camo-1",
-     "type": "Caps",
-     "tags": [
-      "9/17/26",
-      "Collab",
-      "FA26",
-      "Fall 2026",
-      "Season Fall 2026",
-      "Whata",
-      "Whataburger"
-     ],
-     "price": "35.00",
-     "published_at": "2026-09-17T09:57:55-05:00"
-    },
-    {
-     "title": "Cap - Support Local WHATA - Black",
-     "handle": "cap-support-local-whata-black",
-     "type": "Caps",
-     "tags": [
-      "9/17/26",
-      "Collab",
-      "FA26",
-      "Fall 2026",
-      "Season Fall 2026",
-      "Whata",
-      "Whataburger"
-     ],
-     "price": "35.00",
-     "published_at": "2026-09-17T09:57:53-05:00"
-    },
-    {
-     "title": "Baby Zip Up - WHATA Mallard",
-     "handle": "baby-zip-up-whata-mallard",
-     "type": "Baby Zip Up",
-     "tags": [
-      "9/17/26",
-      "Collab",
-      "FA26",
-      "Fall 2026",
-      "Season Fall 2026",
-      "Whata",
-      "Whataburger"
-     ],
-     "price": "36.00",
-     "published_at": "2026-09-17T09:57:51-05:00"
+     "price": "22.40",
+     "published_at": "2026-09-22T10:59:43-05:00"
     }
    ]
   },
@@ -2010,7 +2018,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2642000",
+     "price": "2641000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2023,7 +2031,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5283000",
+     "price": "5281000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2036,7 +2044,7 @@
       "retail",
       "wsc"
      ],
-     "price": "925000",
+     "price": "924000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -2049,7 +2057,7 @@
       "retail",
       "wsc"
      ],
-     "price": "925000",
+     "price": "924000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
