@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-22",
- "fetched_at": "2026-09-22T04:15:02.762587+07:00",
+ "date": "2026-09-23",
+ "fetched_at": "2026-09-23T04:15:02.773032+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -43,6 +43,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wlmbbs/something_disturbing_happened_at_mass_today/",
+     "selftext_head": ""
+    },
+    {
+     "title": "156 years ago today, fall of Rome to Italians",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wmt5io/156_years_ago_today_fall_of_rome_to_italians/",
      "selftext_head": ""
     },
     {
@@ -100,15 +109,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Exposed brick churches",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wh3w81/exposed_brick_churches/",
-     "selftext_head": ""
-    },
-    {
      "title": "[Free Friday] St. Francis Xavier Church (De Krijtberg), Amsterdam",
      "score": null,
      "num_comments": null,
@@ -118,30 +118,30 @@
      "selftext_head": ""
     },
     {
+     "title": "Happy St Matthew's Day. Apostle, Evangelist, and patron of bankers, accountants, and bill collectors. He was called Levi, which means ' God's gift'.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wm9gum/happy_st_matthews_day_apostle_evangelist_and/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Found in an antique store... what is it and is it licit to sell/buy?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wmf5sq/found_in_an_antique_store_what_is_it_and_is_it/",
+     "selftext_head": ""
+    },
+    {
      "title": "Romanian Greek Eastern Catholic priest and his family, they are one of the most interesting Catholic Rites",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wk22ub/romanian_greek_eastern_catholic_priest_and_his/",
-     "selftext_head": ""
-    },
-    {
-     "title": "I’m an atheist and am thinking about attending Mass for the first time",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wggi8d/im_an_atheist_and_am_thinking_about_attending/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Does anyone know why Christ is looking away in the Mandylion",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1whx6kc/does_anyone_know_why_christ_is_looking_away_in/",
      "selftext_head": ""
     }
    ]
@@ -195,7 +195,7 @@
    "confirmation gifts for adults",
    "confirmation gifts from sponsor",
    "confirmation gifts catholic",
-   "confirmation gift for teen girl"
+   "confirmation gifts of the holy spirit"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -204,7 +204,7 @@
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
-   "baptism gifts for baby boy",
+   "baptism gift for baby boy",
    "baptism gifts near me",
    "baptism gifts from godparents",
    "baptism gift from godmother"
@@ -235,8 +235,8 @@
   ],
   "first communion gift": [
    "first communion gifts",
-   "first communion gifts for girls",
    "first communion gifts for boys",
+   "first communion gift for girl",
    "first communion gift ideas",
    "first communion gifts for boys catholic",
    "first communion gifts near me",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "puka nacua",
-  "monday night football schedule",
-  "monday night football tonight",
-  "gracie mansion",
-  "comerica park",
-  "flores amarillas",
-  "argentina",
-  "bryson dechambeau",
-  "meta stock",
-  "baseball"
+  "la verne",
+  "measles",
+  "andy green",
+  "oxford",
+  "cody bellinger",
+  "dairy queen oreo halloween blizzard",
+  "ryan nembhard",
+  "amber alert",
+  "kratom",
+  "deion sanders colorado football dismissals"
  ],
  "errors": []
 }
