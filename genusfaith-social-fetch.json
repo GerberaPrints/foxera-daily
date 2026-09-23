@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-23",
- "fetched_at": "2026-09-23T04:15:02.773032+07:00",
+ "date": "2026-09-24",
+ "fetched_at": "2026-09-24T04:15:02.772195+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -37,12 +37,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Something disturbing happened at Mass today.",
+     "title": "Today is the Feast Day of St. Padre Pio, receiver of Christ’s stigmata. St Pio, pray for us!!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wlmbbs/something_disturbing_happened_at_mass_today/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wo3dmw/today_is_the_feast_day_of_st_padre_pio_receiver/",
      "selftext_head": ""
     },
     {
@@ -52,6 +52,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wmt5io/156_years_ago_today_fall_of_rome_to_italians/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Something disturbing happened at Mass today.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wlmbbs/something_disturbing_happened_at_mass_today/",
      "selftext_head": ""
     },
     {
@@ -118,15 +127,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Happy St Matthew's Day. Apostle, Evangelist, and patron of bankers, accountants, and bill collectors. He was called Levi, which means ' God's gift'.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wm9gum/happy_st_matthews_day_apostle_evangelist_and/",
-     "selftext_head": ""
-    },
-    {
      "title": "Found in an antique store... what is it and is it licit to sell/buy?",
      "score": null,
      "num_comments": null,
@@ -136,12 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Romanian Greek Eastern Catholic priest and his family, they are one of the most interesting Catholic Rites",
+     "title": "Happy St Matthew's Day. Apostle, Evangelist, and patron of bankers, accountants, and bill collectors. He was called Levi, which means ' God's gift'.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wk22ub/romanian_greek_eastern_catholic_priest_and_his/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wm9gum/happy_st_matthews_day_apostle_evangelist_and/",
      "selftext_head": ""
     }
    ]
@@ -150,11 +150,11 @@
  "youtube": {},
  "suggest": {
   "catholic gift for": [
-   "catholic gift for men",
    "catholic gift for new home",
    "catholic gift for baptism",
-   "catholic gift for newborn",
    "catholic gift for funeral",
+   "catholic gift for men",
+   "catholic gift for newborn",
    "catholic gift for women",
    "catholic gift for mom",
    "catholic gift for kids",
@@ -166,12 +166,12 @@
    "rosary bracelet mens",
    "rosary bracelet women",
    "rosary bracelet gold",
-   "rosary bracelet beads",
-   "rosary bracelet pattern",
    "rosary bracelet silver",
-   "rosary bracelet australia",
    "rosary bracelet magnetic",
-   "rosary bracelet tattoo"
+   "rosary bracelet pattern",
+   "rosary bracelet tattoo",
+   "rosary bracelet near me",
+   "rosary bracelet meaning"
   ],
   "christian gift for her": [
    "christian gift for her",
@@ -190,11 +190,11 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gift ideas for boy",
-   "confirmation gift ideas for girls",
-   "confirmation gifts for adults",
-   "confirmation gifts from sponsor",
    "confirmation gifts catholic",
+   "confirmation gifts for teenage boys",
+   "confirmation gifts for adults",
+   "confirmation gifts for teen girls",
+   "confirmation gift ideas for girls",
    "confirmation gifts of the holy spirit"
   ],
   "baptism gift": [
@@ -204,7 +204,7 @@
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
-   "baptism gift for baby boy",
+   "baptism gifts for baby boy",
    "baptism gifts near me",
    "baptism gifts from godparents",
    "baptism gift from godmother"
@@ -235,8 +235,8 @@
   ],
   "first communion gift": [
    "first communion gifts",
+   "first communion gifts for girls",
    "first communion gifts for boys",
-   "first communion gift for girl",
    "first communion gift ideas",
    "first communion gifts for boys catholic",
    "first communion gifts near me",
@@ -264,8 +264,8 @@
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
    "christian tote bags in bulk",
-   "christian tote bag designs",
    "christian tote bag amazon",
+   "christian tote bag designs",
    "christian tote bag design ideas",
    "christian dior tote bag cost"
   ],
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "la verne",
-  "measles",
-  "andy green",
-  "oxford",
-  "cody bellinger",
-  "dairy queen oreo halloween blizzard",
-  "ryan nembhard",
-  "amber alert",
-  "kratom",
-  "deion sanders colorado football dismissals"
+  "tom cruise digger premiere kate middleton",
+  "vladimir guerrero jr",
+  "iran",
+  "congressional budget office social security projection",
+  "cristiano ronaldo",
+  "arc raiders",
+  "carnival panorama",
+  "jonathan taylor thomas",
+  "tsa new 3d bag scanners",
+  "hayley williams"
  ],
  "errors": []
 }
