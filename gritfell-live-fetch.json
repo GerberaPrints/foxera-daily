@@ -2,12 +2,424 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-23",
- "fetched_at": "2026-09-23T04:30:03.217021+07:00",
+ "date": "2026-09-24",
+ "fetched_at": "2026-09-24T04:30:02.935807+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 117,
+   "count_returned": 156,
    "products": [
+    {
+     "title": "Fishing Is My Therapy T-shirt",
+     "handle": "fishing-is-my-therapy-t-shirt-copy",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-23T02:12:07-07:00"
+    },
+    {
+     "title": "Same Timber Opener T-shirt",
+     "handle": "same-timber-opener-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-23T02:08:34-07:00"
+    },
+    {
+     "title": "Mountain Water Hold T-shirt",
+     "handle": "mountain-water-hold-t-shirt-copy",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-23T02:06:57-07:00"
+    },
+    {
+     "title": "Nose Into Wind T-shirt",
+     "handle": "nose-into-windt-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-23T02:04:28-07:00"
+    },
+    {
+     "title": "First Run Marker T-shirt",
+     "handle": "first-run-marker-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-23T02:02:24-07:00"
+    },
+    {
+     "title": "Hung Up Tom T-shirt",
+     "handle": "hung-up-tom-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-23T02:00:16-07:00"
+    },
+    {
+     "title": "The One That Turned T-shirt",
+     "handle": "the-one-that-turned-t-shirt-copy",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-23T01:53:33-07:00"
+    },
+    {
+     "title": "The Unbothered Follow Hoodie With Face Cover",
+     "handle": "the-unbothered-follow-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "fishing",
+      "hoodie"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:47:34-07:00"
+    },
+    {
+     "title": "Tide Turn Wait Hoodie With Face Cover",
+     "handle": "tide-turn-wait-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "fishing",
+      "hoodie"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:46:08-07:00"
+    },
+    {
+     "title": "First Light Watch Hoodie With Face Cover",
+     "handle": "first-light-watch-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:34:30-07:00"
+    },
+    {
+     "title": "Timber First Light Hoodie With Face Cover",
+     "handle": "timber-first-light-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:32:39-07:00"
+    },
+    {
+     "title": "Moonrise Opener Hoodie With Face Cover",
+     "handle": "moonrise-opener-hoodie-with-face-cover-copy",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:29:46-07:00"
+    },
+    {
+     "title": "Cut Corn Standoff Hoodie With Face Cover",
+     "handle": "cut-corn-standoff-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:28:01-07:00"
+    },
+    {
+     "title": "Catch Tally Hoodie With Face Cover",
+     "handle": "catch-tally-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "fishing",
+      "hoodie"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:26:23-07:00"
+    },
+    {
+     "title": "Never Patterns Hoodie With Face Cover",
+     "handle": "never-patterns-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:24:53-07:00"
+    },
+    {
+     "title": "Decoy Dawn Wait Hoodie With Face Cover",
+     "handle": "decoy-dawn-wait-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:23:17-07:00"
+    },
+    {
+     "title": "Confirm The Wingbeat Hoodie With Face Cover",
+     "handle": "confirm-the-wingbeat-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:21:41-07:00"
+    },
+    {
+     "title": "Cut Corn Silhouette Hoodie With Face Cover",
+     "handle": "cut-corn-silhouette-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:20:00-07:00"
+    },
+    {
+     "title": "Deep Current Hoodie With Face Cover",
+     "handle": "deep-current-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "fishing",
+      "hoodie"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:16:53-07:00"
+    },
+    {
+     "title": "First Light Field Hoodie With Face Cover",
+     "handle": "first-light-field-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:13:21-07:00"
+    },
+    {
+     "title": "Grey Light Marsh Hoodie With Face Cover",
+     "handle": "grey-light-marsh-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T01:11:10-07:00"
+    },
+    {
+     "title": "Trough Silhouette Hoodie With Face Cover",
+     "handle": "trough-silhouette-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "fishing",
+      "hoodie"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T00:49:06-07:00"
+    },
+    {
+     "title": "Wash Blitz Crew Hoodie With Face Cover",
+     "handle": "wash-blitz-crew-hoodie-with-face-covers",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "fishing",
+      "hoodie"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T00:47:10-07:00"
+    },
+    {
+     "title": "Moonrise Crossing Hoodie With Face Cover",
+     "handle": "moonrise-crossing-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T00:45:17-07:00"
+    },
+    {
+     "title": "Cut Corn Wait Hoodie With Face Cover",
+     "handle": "cut-corn-wait-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T00:44:03-07:00"
+    },
+    {
+     "title": "Grey Light Teal Hoodie With Face Cover",
+     "handle": "grey-light-teal-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T00:21:18-07:00"
+    },
+    {
+     "title": "Wash Blitz Crew Hoodie With Face Cover",
+     "handle": "wash-blitz-crew-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "fishing",
+      "hoodie"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T00:18:52-07:00"
+    },
+    {
+     "title": "Moonrise Buck Hoodie With Face Cover",
+     "handle": "moonrise-buck-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "hoodie",
+      "hunting"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T00:17:43-07:00"
+    },
+    {
+     "title": "Quick Strike Legacy Hoodie With Face Cover",
+     "handle": "quick-strike-legacy-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "fishing",
+      "hoodie"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-23T00:14:46-07:00"
+    },
+    {
+     "title": "I Suck At Fishing T-shirt",
+     "handle": "i-suck-at-fishing-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-22T21:27:35-07:00"
+    },
+    {
+     "title": "First Woodie T-shirt",
+     "handle": "first-woodie-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-22T21:25:52-07:00"
+    },
+    {
+     "title": "Teaching the Point T-shirt",
+     "handle": "teaching-the-point-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-22T21:23:46-07:00"
+    },
+    {
+     "title": "Grip And Release T-shirt",
+     "handle": "grip-and-release-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-22T21:22:01-07:00"
+    },
+    {
+     "title": "Dove Opener Badge T-shirt",
+     "handle": "dove-opener-badge-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-22T21:19:10-07:00"
+    },
+    {
+     "title": "First Run Marker T-shirt",
+     "handle": "first-run-marker-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-22T21:16:41-07:00"
+    },
+    {
+     "title": "First Light Five Bar T-shirt",
+     "handle": "first-light-five-bar-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-22T21:02:39-07:00"
+    },
+    {
+     "title": "Turkey Opener Badge T-shirt",
+     "handle": "turkey-opener-badge-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-22T20:59:39-07:00"
+    },
+    {
+     "title": "First Retrieve Timber T-shirt",
+     "handle": "first-retrieve-timber-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-22T20:55:38-07:00"
+    },
+    {
+     "title": "First Light Stand T-shirt",
+     "handle": "first-light-stand-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-22T20:36:10-07:00"
+    },
     {
      "title": "Ocean Camo Swim Short",
      "handle": "ocean-camo-swim-short",
@@ -1204,6 +1616,22 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Pheasants Forever x DC Hat",
+     "handle": "pheasants-forever-x-dc-hat",
+     "type": "",
+     "tags": [],
+     "price": "36.00",
+     "published_at": "2026-09-22T17:13:06-05:00"
+    },
+    {
+     "title": "Pheasants Forever x DC Tee - Ivory",
+     "handle": "pheasants-forever-x-dc-tee-ivory",
+     "type": "",
+     "tags": [],
+     "price": "39.00",
+     "published_at": "2026-09-22T17:12:56-05:00"
+    },
+    {
      "title": "Men's Terrain Guard Softshell Vest",
      "handle": "mens-terrain-guard-softshell-vest",
      "type": "Combined Product",
@@ -1247,48 +1675,59 @@
      ],
      "price": "169.00",
      "published_at": "2026-09-22T10:39:09-05:00"
-    },
-    {
-     "title": "Men's Terrain Guard Softshell Vest - Wetland",
-     "handle": "mens-terrain-guard-softshell-vest-wetland",
-     "type": "Terrain Guard Vest",
-     "tags": [
-      "__label:new",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "hunt",
-      "mens",
-      "msrp",
-      "outerwear",
-      "terrain-guard",
-      "vest"
-     ],
-     "price": "169.00",
-     "published_at": "2026-09-22T10:38:02-05:00"
-    },
-    {
-     "title": "Men's Terrain Guard Softshell Vest - Pin Oak",
-     "handle": "mens-terrain-guard-softshell-vest-pin-oak",
-     "type": "Terrain Guard Vest",
-     "tags": [
-      "__label:new",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "hunt",
-      "mens",
-      "msrp",
-      "outerwear",
-      "terrain-guard",
-      "vest"
-     ],
-     "price": "169.00",
-     "published_at": "2026-09-22T10:36:09-05:00"
     }
    ]
   },
   "Marsh Wear": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Women's Stono Shacket",
+     "handle": "womens-stono-shacket-marshmallow",
+     "type": "WOMENS JACKETS",
+     "tags": [
+      "F26-SEPT1",
+      "FA26",
+      "jackets-overshirts",
+      "NEW",
+      "NEW-TAG",
+      "Outerwear",
+      "WOMENS",
+      "womens-jackets-overshirts-outerwear"
+     ],
+     "price": "99.00",
+     "published_at": "2026-09-23T12:03:37-07:00"
+    },
+    {
+     "title": "Delano Shacket",
+     "handle": "delano-outdoor-shacket-marshmallow",
+     "type": "MENS JACKETS",
+     "tags": [
+      "Best Seller F26",
+      "best sellers",
+      "camo",
+      "F26 Drop 1",
+      "FA21",
+      "FA26",
+      "FALL24",
+      "group",
+      "Mallard Camo",
+      "mallardcamo",
+      "MENS",
+      "mens-outerwear-shackets-overshirts",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "Outerwear",
+      "RGroup_MWJ09",
+      "Shackets and Overshirts",
+      "shackets-overshirts",
+      "Slowcountry",
+      "Tech Jacket",
+      "TOPS"
+     ],
+     "price": "99.00",
+     "published_at": "2026-09-23T07:49:50-07:00"
+    },
     {
      "title": "Seadrift Overshirt",
      "handle": "seadrift-long-sleeve-overshirt-canteen",
@@ -1353,51 +1792,6 @@
      ],
      "price": "55.00",
      "published_at": "2026-09-18T14:09:16-07:00"
-    },
-    {
-     "title": "Escape Pant",
-     "handle": "escape-fishing-pants-grape-leaf-32-inseam",
-     "type": "MENS PANTS",
-     "tags": [
-      "BOTTOMS",
-      "CLOTHING",
-      "dawnpatrol",
-      "FA21",
-      "FA26",
-      "fall 19",
-      "MENS",
-      "mens-pants-bottoms",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "pants",
-      "RGroup_MWP02",
-      "SP24",
-      "weekender"
-     ],
-     "price": "89.00",
-     "published_at": "2026-09-09T14:24:41-07:00"
-    },
-    {
-     "title": "Escape Pant",
-     "handle": "escape-fishing-pants-grape-leaf-30-inseam",
-     "type": "MENS PANTS",
-     "tags": [
-      "Bottoms",
-      "CLOTHING",
-      "FA25",
-      "FA26",
-      "group",
-      "MENS",
-      "mens-pants-bottoms",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "pants",
-      "RGroup_MWP02",
-      "RGroup_MWP13",
-      "Slowcountry"
-     ],
-     "price": "89.00",
-     "published_at": "2026-09-09T14:24:37-07:00"
     }
    ]
   },
@@ -1695,6 +2089,64 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Drake x Lost Hat BMF Goat Rope Cap",
+     "handle": "drake-x-lost-hat-bmf-goat-rope-cap",
+     "type": "Headwear",
+     "tags": [
+      "AW26 Catalog",
+      "AW26_NEW",
+      "new"
+     ],
+     "price": "39.99",
+     "published_at": "2026-09-23T08:56:56-05:00"
+    },
+    {
+     "title": "Black Lab Print Hoodie",
+     "handle": "black-lab-print-hoodie",
+     "type": "Hoodies & Pullovers",
+     "tags": [
+      "AW26 Catalog",
+      "AW26_NEW",
+      "jackets-vests",
+      "master_list_new_arrivals_26",
+      "mens",
+      "new"
+     ],
+     "price": "49.99",
+     "published_at": "2026-09-23T08:47:48-05:00"
+    },
+    {
+     "title": "Mallard Circle Logo Hoodie",
+     "handle": "mallard-circle-logo-hoodie",
+     "type": "Hoodies & Pullovers",
+     "tags": [
+      "AW26 Catalog",
+      "AW26_NEW",
+      "jackets-vests",
+      "master_list_new_arrivals_26",
+      "mens",
+      "new"
+     ],
+     "price": "49.99",
+     "published_at": "2026-09-23T08:44:41-05:00"
+    },
+    {
+     "title": "MST Quarter Zip Refuge Eqwader with Hood",
+     "handle": "mst-quarter-zip-refuge-eqwader-with-hood",
+     "type": "Hoodies & Pullovers",
+     "tags": [
+      "AW26 Catalog",
+      "AW26_NEW",
+      "Eqwader Hybrid System",
+      "jackets-vests",
+      "master_list_new_arrivals_26",
+      "mens",
+      "new"
+     ],
+     "price": "99.99",
+     "published_at": "2026-09-23T08:35:55-05:00"
+    },
+    {
      "title": "CommandXT Eqwader Vest",
      "handle": "commandxt-eqwader-vest",
      "type": "Jackets & Vests",
@@ -1707,88 +2159,31 @@
      ],
      "price": "119.99",
      "published_at": "2026-09-22T10:01:26-05:00"
-    },
-    {
-     "title": "LST Wool Neck Gaiter",
-     "handle": "wool-neck-gaiter",
-     "type": "Headwear",
-     "tags": [
-      "- $25 - $50",
-      "- headwear",
-      "AW25 Catalog",
-      "AW26 Catalog",
-      "brand_waterfowl",
-      "Cold Weather Gear",
-      "face-masks-neck-gaiters",
-      "Gifts For Big Game",
-      "hats",
-      "hunting accessories",
-      "Men WF New Accessories",
-      "outerlayer",
-      "outerlayers",
-      "top rated",
-      "warmest gifts",
-      "waterfowl"
-     ],
-     "price": "34.99",
-     "published_at": "2026-09-18T08:30:05-05:00"
-    },
-    {
-     "title": "MST Fleece Convertible Face Mask",
-     "handle": "mst-fleece-convertible-face-mask",
-     "type": "Headwear",
-     "tags": [
-      "AW26 Catalog",
-      "AW26_NEW",
-      "master_list_new_arrivals_26",
-      "new"
-     ],
-     "price": "34.99",
-     "published_at": "2026-09-15T14:16:01-05:00"
-    },
-    {
-     "title": "MST Flannel-Lined Waxed Cotton Jac-Shirt",
-     "handle": "mst-drake-dry-waxed-cotton-jac-shirt",
-     "type": "Shirts & Tops",
-     "tags": [
-      "AW26 Catalog",
-      "AW26 Price Tracking",
-      "AW26_NEW",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new",
-      "tops"
-     ],
-     "price": "169.99",
-     "published_at": "2026-09-15T14:14:28-05:00"
-    },
-    {
-     "title": "Youth Endurance Pant",
-     "handle": "youth-endurance-pant",
-     "type": "Pants & Bibs",
-     "tags": [
-      "ACS2025",
-      "AW25 Show Special",
-      "AW25_New",
-      "bfcm 2025",
-      "BFCM2025",
-      "BFCM2026",
-      "decdeals_25",
-      "EOS_JAN_26",
-      "HOL_26 Flyer",
-      "New_No_Coming_Soon",
-      "pants & bibs",
-      "top seller 2025",
-      "youth"
-     ],
-     "price": "94.99",
-     "published_at": "2026-09-14T13:42:02-05:00"
     }
    ]
   },
   "Free Fly": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Men's Bamboo Current Polo - Bright White",
+     "handle": "mens-bamboo-current-polo-bright-white",
+     "type": "Men's",
+     "tags": [
+      "care::bamboo",
+      "discounts::none",
+      "excMCRNP",
+      "final-sale",
+      "final_sale",
+      "flag::final sale",
+      "Pro-Exclude-Discount",
+      "product_style: Mens Bamboo Current Polo",
+      "returns::none",
+      "SP25"
+     ],
+     "price": "36.00",
+     "published_at": "2026-09-23T11:28:44-04:00"
+    },
     {
      "title": "Men's Bamboo Hybrid Hoodie - Storm Cloud / Desert Tan",
      "handle": "mens-bamboo-hybrid-hoodie-storm-cloud-desert-tan",
@@ -1881,27 +2276,6 @@
      ],
      "price": "49.99",
      "published_at": "2026-09-09T16:06:42-04:00"
-    },
-    {
-     "title": "Men's Bamboo Motion Boxer Brief - Slate Blue",
-     "handle": "mens-bamboo-motion-boxer-brief-slate-blue",
-     "type": "Men's",
-     "tags": [
-      "bundle::Buy 3 for $96. Use code: BUNDLE",
-      "care::bamboo",
-      "Color",
-      "discount::motion_boxer::3::percent::11::BUY 3 FOR $85",
-      "EXCBBB",
-      "fdbun",
-      "final-sale",
-      "final_sale",
-      "listo-new-pdp",
-      "motionboxergroup",
-      "product_style: Mens Bamboo Motion Boxer Brief",
-      "returns::none"
-     ],
-     "price": "36.00",
-     "published_at": "2026-09-03T00:06:23-04:00"
     }
    ]
   },
@@ -2018,7 +2392,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2641000",
+     "price": "2640000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2031,7 +2405,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5281000",
+     "price": "5280000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2068,7 +2442,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1585000",
+     "price": "1584000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2077,44 +2451,44 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Dove Hunting Topographic Sweatshirt | Mourning Dove Camo Sweatshirt | Dove Hunter Gift",
+     "handle": "dove-hunting-topographic-sweatshirt-mourning-dove-camo-sweatshirt-dove-hunter-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-23T01:53:06-07:00"
+    },
+    {
+     "title": "Duck Hunting Sweatshirt | Minimalist Mallard Badge Camo Sweatshirt | Duck Hunter Gift",
+     "handle": "duck-hunting-sweatshirt-minimalist-mallard-badge-camo-sweatshirt-duck-hunter-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-22T23:45:55-07:00"
+    },
+    {
+     "title": "Whitetail Deer Camo Sweatshirt | Hunting Sweatshirt for Him | Deer Hunter Gift",
+     "handle": "whitetail-deer-camo-sweatshirt-hunting-sweatshirt-for-him-deer-hunter-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-22T20:04:42-07:00"
+    },
+    {
+     "title": "Labrador Retriever Camo Sweatshirt | Black Chocolate Yellow Lab Dog Lover Gift",
+     "handle": "labrador-retriever-camo-sweatshirt-black-chocolate-yellow-lab-dog-lover-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-22T19:24:12-07:00"
+    },
+    {
      "title": "Whitetail Deer Forest Camo Hoodie | Hunting Hoodie for Him | Deer Hunter Gift",
      "handle": "whitetail-deer-forest-camo-hoodie-hunting-hoodie-for-him-deer-hunter-gift",
      "type": "",
      "tags": [],
      "price": "69.95",
      "published_at": "2026-09-21T00:33:00-07:00"
-    },
-    {
-     "title": "Mourning Dove Millet Field Camo Hoodie — All-Over Golden Hour Print, Dove Hunting Gift",
-     "handle": "mourning-dove-millet-field-camo-hoodie-all-over-golden-hour-print-dove-hunting-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-20T23:50:19-07:00"
-    },
-    {
-     "title": "Mourning Dove Harvest Field Camo Hoodie — All-Over Wheat & Stalk Print, Dove Hunting Gift",
-     "handle": "mourning-dove-harvest-field-camo-hoodie-all-over-wheat-stalk-print-dove-hunting-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-20T23:39:04-07:00"
-    },
-    {
-     "title": "Whitetail Deer Vintage Camo Hoodie — Retro Blotch All-Over Print, Deer Hunting Gift",
-     "handle": "whitetail-deer-vintage-camo-hoodie-retro-blotch-all-over-print-deer-hunting-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-19T00:28:18-07:00"
-    },
-    {
-     "title": "Mallard Duck Marsh Reed Camo Hoodie — All-Over Cattail Print, Waterfowl Hunting Gift",
-     "handle": "mallard-duck-marsh-reed-camo-hoodie-all-over-cattail-print-waterfowl-hunting-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-19T00:26:32-07:00"
     }
    ]
   },
