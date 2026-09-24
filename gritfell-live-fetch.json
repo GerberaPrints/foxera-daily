@@ -2,12 +2,63 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-24",
- "fetched_at": "2026-09-24T04:30:02.935807+07:00",
+ "date": "2026-09-25",
+ "fetched_at": "2026-09-25T04:30:02.885291+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 156,
+   "count_returned": 161,
    "products": [
+    {
+     "title": "Fogline Camo Hoodie With Face Cover",
+     "handle": "fogline-camo-hoodie-with-face-cover",
+     "type": "Hoodie With Face Cover",
+     "tags": [
+      "fishing",
+      "hoodie"
+     ],
+     "price": "59.00",
+     "published_at": "2026-09-24T02:42:30-07:00"
+    },
+    {
+     "title": "Marsh Pattern Swim Short",
+     "handle": "marsh-pattern-swim-short",
+     "type": "Swim Short",
+     "tags": [
+      "hunting"
+     ],
+     "price": "39.00",
+     "published_at": "2026-09-24T00:00:23-07:00"
+    },
+    {
+     "title": "Woodland Drift Swim Short",
+     "handle": "woodland-drift-swim-short",
+     "type": "Swim Short",
+     "tags": [
+      "hunting"
+     ],
+     "price": "39.00",
+     "published_at": "2026-09-23T23:58:04-07:00"
+    },
+    {
+     "title": "Blue Tide Swim Short",
+     "handle": "blue-tide-swim-short",
+     "type": "Swim Short",
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-09-23T23:56:12-07:00"
+    },
+    {
+     "title": "Coastal Current Swim Short",
+     "handle": "coastal-current-swim-short",
+     "type": "Swim Short",
+     "tags": [
+      "fishing"
+     ],
+     "price": "39.00",
+     "published_at": "2026-09-23T23:53:59-07:00"
+    },
     {
      "title": "Fishing Is My Therapy T-shirt",
      "handle": "fishing-is-my-therapy-t-shirt-copy",
@@ -1682,116 +1733,92 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Women's Stono Shacket",
-     "handle": "womens-stono-shacket-marshmallow",
-     "type": "WOMENS JACKETS",
+     "title": "Tight Lines Trucker Hat",
+     "handle": "tight-lines-trucker-hw-headwear-khaki-mallard-camo",
+     "type": "MENS HEADWEAR",
      "tags": [
-      "F26-SEPT1",
-      "FA26",
-      "jackets-overshirts",
-      "NEW",
-      "NEW-TAG",
-      "Outerwear",
-      "WOMENS",
-      "womens-jackets-overshirts-outerwear"
-     ],
-     "price": "99.00",
-     "published_at": "2026-09-23T12:03:37-07:00"
-    },
-    {
-     "title": "Delano Shacket",
-     "handle": "delano-outdoor-shacket-marshmallow",
-     "type": "MENS JACKETS",
-     "tags": [
-      "Best Seller F26",
-      "best sellers",
-      "camo",
-      "F26 Drop 1",
-      "FA21",
-      "FA26",
-      "FALL24",
-      "group",
-      "Mallard Camo",
+      "Accessories",
+      "HATS",
+      "Headwear",
       "mallardcamo",
       "MENS",
-      "mens-outerwear-shackets-overshirts",
-      "NEW-COLOR-TAG",
-      "NEWCOLOR",
-      "Outerwear",
-      "RGroup_MWJ09",
-      "Shackets and Overshirts",
-      "shackets-overshirts",
-      "Slowcountry",
-      "Tech Jacket",
-      "TOPS"
+      "SP25"
      ],
-     "price": "99.00",
-     "published_at": "2026-09-23T07:49:50-07:00"
+     "price": "35.00",
+     "published_at": "2026-09-24T09:04:33-07:00"
     },
     {
-     "title": "Seadrift Overshirt",
-     "handle": "seadrift-long-sleeve-overshirt-canteen",
-     "type": "MENS WOVENS",
+     "title": "Women's Pine Island Puff Jacket",
+     "handle": "womens-pine-island-puffer-jacket-parisian-night",
+     "type": "WOMENS JACKETS",
      "tags": [
       "COMING-SOON",
       "F26-SEPT1",
       "FA26",
-      "FALL24",
-      "Fleece",
-      "Fleece Collection",
-      "MENS",
-      "mens-outerwear-fleece",
-      "mens-outerwear-shackets-overshirts",
-      "NEWCOLOR",
+      "ICAST2026",
+      "jackets-overshirts",
+      "NEW",
       "Outerwear",
-      "Shackets and Overshirts",
-      "shackets-overshirts",
-      "Slowcountry",
-      "TOPS",
-      "Wovens"
+      "WOMENS",
+      "womens-jackets-overshirts-outerwear"
      ],
-     "price": "109.00",
-     "published_at": "2026-09-18T15:13:38-07:00"
+     "price": "169.00",
+     "published_at": "2026-09-24T08:03:50-07:00"
     },
     {
-     "title": "Women's Surfside Waffle Shirt",
-     "handle": "womens-surfside-waffle-knit-shirt-mallard-green",
-     "type": "WOMENS PERFORMANCE",
+     "title": "Pine Island Puff Vest",
+     "handle": "pine-island-puffer-vest-sage-brush",
+     "type": "MENS JACKETS",
      "tags": [
-      "CLOTHING",
+      "COMING-SOON",
+      "F26-SEPT1",
       "FA26",
+      "Fleece",
+      "JACKETS",
+      "MENS",
+      "mens-outerwear-jackets",
       "NEW",
-      "NEW-TAG",
-      "Performance Knit",
-      "SHIRTS",
-      "Tech",
-      "TOPS",
-      "WOMENS",
-      "Womens Shirts",
-      "womens-shirts-tops"
+      "Outerwear"
      ],
-     "price": "55.00",
-     "published_at": "2026-09-18T14:09:34-07:00"
+     "price": "149.00",
+     "published_at": "2026-09-24T08:03:49-07:00"
     },
     {
-     "title": "Women's Surfside Waffle Shirt",
-     "handle": "womens-surfside-waffle-knit-shirt-pelican",
-     "type": "WOMENS PERFORMANCE",
+     "title": "Pine Island Puff Vest",
+     "handle": "pine-island-puffer-vest-parisian-night",
+     "type": "MENS JACKETS",
      "tags": [
-      "CLOTHING",
+      "COMING-SOON",
+      "F26-SEPT1",
       "FA26",
+      "Fleece",
+      "JACKETS",
+      "MENS",
+      "mens-outerwear-jackets",
       "NEW",
-      "NEW-TAG",
-      "Performance Knit",
-      "SHIRTS",
-      "Tech",
-      "TOPS",
-      "WOMENS",
-      "Womens Shirts",
-      "womens-shirts-tops"
+      "Outerwear"
      ],
-     "price": "55.00",
-     "published_at": "2026-09-18T14:09:16-07:00"
+     "price": "149.00",
+     "published_at": "2026-09-24T08:03:47-07:00"
+    },
+    {
+     "title": "Pine Island Puff Jacket",
+     "handle": "pine-island-puffer-jacket-sage-brush",
+     "type": "MENS JACKETS",
+     "tags": [
+      "COMING-SOON",
+      "F26-SEPT1",
+      "FA26",
+      "foul-weather",
+      "JACKETS",
+      "MENS",
+      "mens-outerwear-foul-weather",
+      "mens-outerwear-jackets",
+      "NEW",
+      "Outerwear"
+     ],
+     "price": "189.00",
+     "published_at": "2026-09-24T08:03:46-07:00"
     }
    ]
   },
@@ -1899,10 +1926,10 @@
       "fall-2025-drop-1",
       "mens-bottoms-collection",
       "mens-pants-collection",
-      "not-online",
       "october-capsule",
       "pants",
       "product-merging",
+      "published-online",
       "restocked",
       "search-bug-fix",
       "solids",
@@ -2131,9 +2158,9 @@
      "published_at": "2026-09-23T08:44:41-05:00"
     },
     {
-     "title": "MST Quarter Zip Refuge Eqwader with Hood",
+     "title": "MST Quarter Zip Refuge Eqwader Jacket with Hood",
      "handle": "mst-quarter-zip-refuge-eqwader-with-hood",
-     "type": "Hoodies & Pullovers",
+     "type": "Jackets & Vests",
      "tags": [
       "AW26 Catalog",
       "AW26_NEW",
@@ -2153,6 +2180,7 @@
      "tags": [
       "AW26 Catalog",
       "AW26_NEW",
+      "Eqwader Hybrid System",
       "jackets-vests",
       "mens",
       "new"
@@ -2392,7 +2420,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2640000",
+     "price": "2638000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2405,7 +2433,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5280000",
+     "price": "5276000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2442,7 +2470,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1584000",
+     "price": "1583000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2496,59 +2524,59 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Bear Hunting Polo Shirt VCE1017",
-     "handle": "bear-hunting-polo-shirt-vce1017",
+     "title": "Feral Boar Fall Forest Polo Shirt VCE1022",
+     "handle": "feral-boar-fall-forest-hawaiian-shirt-vce1022",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-21T02:43:41-06:00"
+     "published_at": "2026-09-24T01:52:18-06:00"
     },
     {
-     "title": "Elk Hunting Frost Mountain Field Polo Shirt VCE1016",
-     "handle": "elk-hunting-frost-mountain-field-polo-shirt-vce1016",
+     "title": "Wild Boar Camouflage Hunting Polo Shirt VCE1021",
+     "handle": "wild-boar-camouflage-hunting-polo-shirt-vce1021",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-21T01:25:53-06:00"
+     "published_at": "2026-09-24T01:44:31-06:00"
     },
     {
-     "title": "Timber Flow Elk Hunting Polo Shirt VCE1015",
-     "handle": "timber-flow-elk-hunting-polo-shirt-vce1015",
+     "title": "Feral Boar Woodland Hunting Camo Polo Shirt VCE1019",
+     "handle": "feral-boar-woodland-hunting-camo-hawaiian-shirt-vce1019",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-21T01:24:08-06:00"
+     "published_at": "2026-09-24T01:39:58-06:00"
     },
     {
-     "title": "Fly Fishing Polo Shirt VCE1014",
-     "handle": "fly-fishing-polo-shirt-vce1014",
+     "title": "Feral Boar Camouflage Polo Shirt VCE1018",
+     "handle": "feral-boar-camouflage-polo-shirt-vce1018",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-21T01:05:14-06:00"
+     "published_at": "2026-09-24T01:37:36-06:00"
     },
     {
-     "title": "Personalized Dog's Name Black Labrador Retriever Camo Duck Polo Shirt VCE1013",
-     "handle": "personalized-dogs-name-black-labrador-retriever-camo-duck-polo-shirt-vce1013",
+     "title": "Camouflage Wild Boar Hunting Polo Shirt VCE1018",
+     "handle": "camouflage-wild-boar-hunting-polo-shirt-vce1018",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-21T00:59:48-06:00"
+     "published_at": "2026-09-24T01:34:42-06:00"
     }
    ]
   },
