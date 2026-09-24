@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-24",
- "fetched_at": "2026-09-24T04:45:03.503063+07:00",
+ "date": "2026-09-25",
+ "fetched_at": "2026-09-25T04:45:03.245436+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -19,15 +19,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Wife - Just because you have a laser doesn't mean you need to laser everything. Me - Yes, yes it does.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wj2s0k/wife_just_because_you_have_a_laser_doesnt_mean/",
-     "selftext_head": ""
-    },
-    {
      "title": "155yd par 3. My heart was pounding for a moment there. It was a nice par though.",
      "score": null,
      "num_comments": null,
@@ -37,21 +28,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Neighbour invited me over and showed me his garage",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wmn2na/neighbour_invited_me_over_and_showed_me_his_garage/",
-     "selftext_head": ""
-    },
-    {
      "title": "John F. Kennedy's Golf Swing",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wnd9j9/john_f_kennedys_golf_swing/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Neighbour invited me over and showed me his garage",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wmn2na/neighbour_invited_me_over_and_showed_me_his_garage/",
      "selftext_head": ""
     },
     {
@@ -115,6 +106,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wljhnl/me_all_day_yesterday/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I hate to be a hater, but Bryson being in his wannabe golf Mr. beast era brings tears of joy to my eyes.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wohyin/i_hate_to_be_a_hater_but_bryson_being_in_his/",
      "selftext_head": ""
     },
     {
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "angry anderson age 79",
-  "fafsa",
-  "daredevil born again",
-  "miami airport",
-  "kevin durant",
-  "khloe kardashian",
-  "tom cruise digger premiere kate middleton",
-  "vladimir guerrero jr",
-  "iran",
-  "congressional budget office social security projection"
+  "bill burr",
+  "carney news",
+  "dow jones industrial average",
+  "politics",
+  "tim tebow",
+  "costco stock",
+  "white sox",
+  "white sox standings",
+  "tunisia vs uganda",
+  "falcons vs packers"
  ],
  "errors": []
 }
