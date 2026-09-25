@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-25",
- "fetched_at": "2026-09-25T04:30:02.885291+07:00",
+ "date": "2026-09-26",
+ "fetched_at": "2026-09-26T04:30:03.595564+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 161,
@@ -1667,22 +1667,6 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Pheasants Forever x DC Hat",
-     "handle": "pheasants-forever-x-dc-hat",
-     "type": "",
-     "tags": [],
-     "price": "36.00",
-     "published_at": "2026-09-22T17:13:06-05:00"
-    },
-    {
-     "title": "Pheasants Forever x DC Tee - Ivory",
-     "handle": "pheasants-forever-x-dc-tee-ivory",
-     "type": "",
-     "tags": [],
-     "price": "39.00",
-     "published_at": "2026-09-22T17:12:56-05:00"
-    },
-    {
      "title": "Men's Terrain Guard Softshell Vest",
      "handle": "mens-terrain-guard-softshell-vest",
      "type": "Combined Product",
@@ -1726,6 +1710,42 @@
      ],
      "price": "169.00",
      "published_at": "2026-09-22T10:39:09-05:00"
+    },
+    {
+     "title": "Men's Terrain Guard Softshell Vest - Wetland",
+     "handle": "mens-terrain-guard-softshell-vest-wetland",
+     "type": "Terrain Guard Vest",
+     "tags": [
+      "__label:new",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "hunt",
+      "mens",
+      "msrp",
+      "outerwear",
+      "terrain-guard",
+      "vest"
+     ],
+     "price": "169.00",
+     "published_at": "2026-09-22T10:38:02-05:00"
+    },
+    {
+     "title": "Men's Terrain Guard Softshell Vest - Pin Oak",
+     "handle": "mens-terrain-guard-softshell-vest-pin-oak",
+     "type": "Terrain Guard Vest",
+     "tags": [
+      "__label:new",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "hunt",
+      "mens",
+      "msrp",
+      "outerwear",
+      "terrain-guard",
+      "vest"
+     ],
+     "price": "169.00",
+     "published_at": "2026-09-22T10:36:09-05:00"
     }
    ]
   },
@@ -2116,6 +2136,49 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "MST Youth Eqwader Quarter Zip Jacket",
+     "handle": "youth-mst-ewader-quarter-zip",
+     "type": "Jackets & Vests",
+     "tags": [
+      "- $50 - $100",
+      "- pullovers",
+      "20171031-MST-Youth",
+      "AW25 Catalog",
+      "AW26 Catalog",
+      "bestseller_24",
+      "bestseller_nov",
+      "bfcm2024",
+      "early season teal",
+      "eqwader",
+      "Eqwader Hybrid System",
+      "hoodies",
+      "hoodies & pullover",
+      "insulated",
+      "JACKET & VEST CATEGORY - JACKETS",
+      "jackets",
+      "jackets-vests",
+      "Jackets_Vests_Hoodies",
+      "mst jackets",
+      "mst-mid-season-technology",
+      "new_color:Mossy Oak Original Shadow Grass",
+      "Qtr_Zip_Eqwaders",
+      "r26",
+      "top rated",
+      "VERTICAL MAGNATTACH POCKET",
+      "warm weather gear list",
+      "waterfowl",
+      "waterproof",
+      "YGroup_mstyoutheqwader",
+      "youth",
+      "Youth Apparel - Keep-em-Dry-and-Warm",
+      "youth-casual",
+      "youth-featured",
+      "youth-hunting-gear"
+     ],
+     "price": "99.99",
+     "published_at": "2026-09-25T09:20:00-05:00"
+    },
+    {
      "title": "Drake x Lost Hat BMF Goat Rope Cap",
      "handle": "drake-x-lost-hat-bmf-goat-rope-cap",
      "type": "Headwear",
@@ -2168,25 +2231,11 @@
       "jackets-vests",
       "master_list_new_arrivals_26",
       "mens",
-      "new"
+      "new",
+      "top seller 2026"
      ],
      "price": "99.99",
      "published_at": "2026-09-23T08:35:55-05:00"
-    },
-    {
-     "title": "CommandXT Eqwader Vest",
-     "handle": "commandxt-eqwader-vest",
-     "type": "Jackets & Vests",
-     "tags": [
-      "AW26 Catalog",
-      "AW26_NEW",
-      "Eqwader Hybrid System",
-      "jackets-vests",
-      "mens",
-      "new"
-     ],
-     "price": "119.99",
-     "published_at": "2026-09-22T10:01:26-05:00"
     }
    ]
   },
@@ -2420,7 +2469,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2638000",
+     "price": "2637000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2433,7 +2482,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5276000",
+     "price": "5273000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2446,7 +2495,7 @@
       "retail",
       "wsc"
      ],
-     "price": "924000",
+     "price": "923000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -2459,7 +2508,7 @@
       "retail",
       "wsc"
      ],
-     "price": "924000",
+     "price": "923000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2470,7 +2519,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1583000",
+     "price": "1582000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2584,85 +2633,64 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Weed Puller Tool - Stand Up Weed Remover - Garden Weeding Tool",
-     "handle": "weed-puller-tool-stand-up-weed-remover",
-     "type": "Garden Tools",
-     "tags": [
-      "chemical free",
-      "dandelion",
-      "garden tools",
-      "lawn care",
-      "stand up weeder",
-      "weed puller",
-      "weed remover",
-      "weeding tool"
-     ],
+     "title": "Men's Trousers - Cargo Trousers with Elasticated Waist",
+     "handle": "mens-trousers-cargo-trousers-with-elasticated-waist",
+     "type": "Trousers",
+     "tags": [],
      "price": "54.95",
-     "published_at": "2026-09-19T16:02:35+02:00"
+     "published_at": "2026-09-25T16:34:17+02:00"
     },
     {
-     "title": "Men's Beanie Hat - Fleece Lined Ear Flap - Woolly Winter Hat",
-     "handle": "mens-beanie-hat-fleece-lined-ear-flap-woolly-winter-hat",
-     "type": "Hats",
-     "tags": [
-      "activity:fishing",
-      "activity:hiking",
-      "activity:walking",
-      "gender:male",
-      "season:winter",
-      "type:headwear"
-     ],
-     "price": "29.95",
-     "published_at": "2026-09-18T18:05:17+02:00"
-    },
-    {
-     "title": "Men's Fleece Jacket - Full Zip Stand Collar - Walking & Hiking Midlayer",
-     "handle": "mens-fleece-jacket-full-zip-stand-collar-walking-hiking-midlayer",
+     "title": "Men's Zip Up Fleece - Full Zip Fleece Jacket - Walking & Hiking Fleece",
+     "handle": "mens-zip-up-fleece-full-zip-fleece-jacket-walking-hiking-fleece",
      "type": "Fleece Jacket",
      "tags": [],
      "price": "44.95",
-     "published_at": "2026-09-18T18:01:16+02:00"
+     "published_at": "2026-09-25T16:32:46+02:00"
     },
     {
-     "title": "Men's Fleece Lined Trousers - Sherpa Thermal Winter Joggers",
-     "handle": "mens-fleece-lined-trousers-sherpa-thermal-winter-joggers",
-     "type": "Clothing",
+     "title": "Men's Fleece Vest - Sleeveless Fleece Body Warmer - Fleece Waistcoat",
+     "handle": "mens-fleece-vest-sleeveless-fleece-body-warmer-fleece-waistcoat",
+     "type": "Gilets",
      "tags": [
-      "fleece-joggers",
-      "fleece-lined-trousers",
+      "Body Warmer",
+      "Dog Walking",
+      "Fleece",
+      "Fleece Gilet",
+      "Fleece Vest",
+      "Gifts for Dad",
+      "Gilets",
+      "Men's",
+      "Midlayer"
+     ],
+     "price": "44.95",
+     "published_at": "2026-09-25T16:31:50+02:00"
+    },
+    {
+     "title": "Snood - Knitted Neck Gaiter with Mesh Panel - Winter Face Mask",
+     "handle": "snood-knitted-neck-gaiter-with-mesh-panel-winter-face-mask",
+     "type": "Accessories",
+     "tags": [],
+     "price": "29.95",
+     "published_at": "2026-09-25T16:30:53+02:00"
+    },
+    {
+     "title": "Men's Cycling Jersey - Short Sleeve Cycling Top - Plain Full Zip",
+     "handle": "mens-cycling-jersey-short-sleeve-plain-full-zip",
+     "type": "Cycling Jersey",
+     "tags": [
+      "commuting",
+      "cycling",
+      "cycling jersey",
+      "cycling top",
+      "gravel",
       "mens",
-      "sherpa-joggers",
-      "sherpa-lined",
-      "thermal-joggers",
-      "thermal-trousers",
-      "warm-joggers",
-      "winter",
-      "winter-trousers"
+      "road cycling",
+      "short sleeve",
+      "summer"
      ],
-     "price": "54.95",
-     "published_at": "2026-09-18T17:33:39+02:00"
-    },
-    {
-     "title": "Headlamp 2 Pack - Rechargeable 5 LED Head Torch with Tilting Head",
-     "handle": "headlamp-2-pack-rechargeable-5-led-head-torch-with-tilting-head",
-     "type": "Head Torch",
-     "tags": [
-      "2 pack",
-      "activity:camping",
-      "activity:fishing",
-      "activity:hiking",
-      "camping",
-      "dog walking",
-      "gender:unisex",
-      "head torch",
-      "headlamp",
-      "led head torch",
-      "night fishing",
-      "rechargeable head torch",
-      "type:tech"
-     ],
-     "price": "39.95",
-     "published_at": "2026-09-18T15:26:35+02:00"
+     "price": "35.00",
+     "published_at": "2026-09-25T16:21:27+02:00"
     }
    ]
   }
