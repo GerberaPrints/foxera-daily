@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-25",
- "fetched_at": "2026-09-25T04:45:03.245436+07:00",
+ "date": "2026-09-26",
+ "fetched_at": "2026-09-26T04:45:02.923568+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -19,12 +19,30 @@
      "selftext_head": ""
     },
     {
+     "title": "Welp…now we know why Tosti’s caddie, Cliff Ellis, quit. 😬 (audio)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wppviz/welpnow_we_know_why_tostis_caddie_cliff_ellis/",
+     "selftext_head": ""
+    },
+    {
      "title": "155yd par 3. My heart was pounding for a moment there. It was a nice par though.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wnr5cj/155yd_par_3_my_heart_was_pounding_for_a_moment/",
+     "selftext_head": ""
+    },
+    {
+     "title": "S. H. Kim. One of the unluckiest breaks in golf history. 🤣",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wpc379/s_h_kim_one_of_the_unluckiest_breaks_in_golf/",
      "selftext_head": ""
     },
     {
@@ -91,15 +109,6 @@
      "selftext_head": ""
     },
     {
-     "title": "3 month update to “Closed on a house half way up the right side fairway on a par 4, week one golf ball review.”",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wjbhi8/3_month_update_to_closed_on_a_house_half_way_up/",
-     "selftext_head": ""
-    },
-    {
      "title": "Me all day yesterday 😂",
      "score": null,
      "num_comments": null,
@@ -118,30 +127,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Jackson Koivun Stripes1st Tee Shot in President's Cup, Gets a \"Proud Father\" Moment From Keegan Bradley",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wp7qc3/jackson_koivun_stripes1st_tee_shot_in_presidents/",
+     "selftext_head": ""
+    },
+    {
      "title": "Kids these days - High School Junior Shoots a 59",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wkmccf/kids_these_days_high_school_junior_shoots_a_59/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Just bomb my driver today 317 straight as a pipe",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wn6pg1/just_bomb_my_driver_today_317_straight_as_a_pipe/",
-     "selftext_head": ""
-    },
-    {
-     "title": "BMW PGA Championship: J.J. Spaun becomes just the third American to win. Spaun shot a final-round 5-under 67 and birdied four of the final five holes to finish at 17-under 271",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wlnc9n/bmw_pga_championship_jj_spaun_becomes_just_the/",
      "selftext_head": ""
     }
    ]
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "bill burr",
-  "carney news",
   "dow jones industrial average",
-  "politics",
-  "tim tebow",
-  "costco stock",
-  "white sox",
-  "white sox standings",
-  "tunisia vs uganda",
-  "falcons vs packers"
+  "connor nelson apartment burglary california",
+  "steve gleason",
+  "life surge",
+  "cornell",
+  "xrp news",
+  "snake",
+  "brendan beck",
+  "fleabag",
+  "google"
  ],
  "errors": []
 }
