@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-25",
- "fetched_at": "2026-09-25T04:15:02.761529+07:00",
+ "date": "2026-09-26",
+ "fetched_at": "2026-09-26T04:15:03.199076+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "[Free Friday] What's not to love!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wjq7xm/free_friday_whats_not_to_love/",
-     "selftext_head": ""
-    },
     {
      "title": "Today is the Feast Day of St. Padre Pio, receiver of Christ’s stigmata. St Pio, pray for us!!",
      "score": null,
@@ -28,12 +19,12 @@
      "selftext_head": ""
     },
     {
-     "title": "[Free Friday] Archbishop Jorge Bergoglio and Father Robert Prevost, concelebrating Mass in Buenos Aires, 2006",
+     "title": "[Free Friday] The jawbone of Blessed Fulton Sheen, now on display for veneration (image credit: Tim Stanley).",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wjylci/free_friday_archbishop_jorge_bergoglio_and_father/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpgr1r/free_friday_the_jawbone_of_blessed_fulton_sheen/",
      "selftext_head": ""
     },
     {
@@ -73,15 +64,6 @@
      "selftext_head": ""
     },
     {
-     "title": "What’s the strongest overlooked argument for Catholicism?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wjtru7/whats_the_strongest_overlooked_argument_for/",
-     "selftext_head": ""
-    },
-    {
      "title": "Went to adoration for the first time as a non catholic (with story below)",
      "score": null,
      "num_comments": null,
@@ -91,21 +73,21 @@
      "selftext_head": ""
     },
     {
+     "title": "My Prayer Corner 😁",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpmh3e/my_prayer_corner/",
+     "selftext_head": ""
+    },
+    {
      "title": "I saw Pope Leo today at the Papal General Audience at the Vatican",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wog1vo/i_saw_pope_leo_today_at_the_papal_general/",
-     "selftext_head": ""
-    },
-    {
-     "title": "[Free Friday] St. Francis Xavier Church (De Krijtberg), Amsterdam",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wjkx4o/free_friday_st_francis_xavier_church_de_krijtberg/",
      "selftext_head": ""
     },
     {
@@ -127,21 +109,39 @@
      "selftext_head": ""
     },
     {
-     "title": "Romanian Greek Eastern Catholic priest and his family, they are one of the most interesting Catholic Rites",
+     "title": "Is it morally licit to not be from Illinois?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wk22ub/romanian_greek_eastern_catholic_priest_and_his/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpye4x/is_it_morally_licit_to_not_be_from_illinois/",
      "selftext_head": ""
     },
     {
-     "title": "[Free Friday] Jesus, I trust in you! Image of The Merciful Savior, Chapel of St. Joseph in Krakow, Poland",
+     "title": "Pope Leo XIV, in France, will bring Catholic social teaching to a secular Europe",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wjpd0z/free_friday_jesus_i_trust_in_you_image_of_the/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wngdi3/pope_leo_xiv_in_france_will_bring_catholic_social/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Help finding who made this painting",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpnqh5/help_finding_who_made_this_painting/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[Free Friday] My Rosary from Pope Francis",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wk2sjm/free_friday_my_rosary_from_pope_francis/",
      "selftext_head": ""
     }
    ]
@@ -235,9 +235,9 @@
   ],
   "first communion gift": [
    "first communion gifts",
-   "first communion gifts for girls",
    "first communion gifts for boys",
    "first communion gift ideas",
+   "first communion gift for girl",
    "first communion gifts for boys catholic",
    "first communion gifts near me",
    "first communion gift for boy non religious",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "white sox",
-  "white sox standings",
-  "tunisia vs uganda",
-  "erling haaland",
-  "falcons vs packers",
-  "alejandro tosti caddie cliff ellis split",
-  "cubs",
-  "hawker hunter",
-  "nation league",
-  "portugal vs gales"
+  "life surge",
+  "steve gleason",
+  "cornell",
+  "xrp news",
+  "france game",
+  "dow",
+  "brendan beck",
+  "google",
+  "fleabag",
+  "temple football"
  ],
  "errors": []
 }
