@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "scanner_version": "v9",
   "provenance": "live_local_browser",
   "note": "Desktop CHI ghi file nay. Cloud doc va merge vao foxera-accounts-daily.json. v8 ghi de accounts-daily -> 2 nguoi ghi 1 file, da bo.",
@@ -1415,13 +1415,13 @@
     {
       "code": "E43",
       "shop": "DreamPineCo",
-      "status": "blocked",
-      "sales": null,
-      "rating": null,
-      "reviews": null,
+      "status": "not_selling",
+      "sales": 5,
+      "rating": 5.0,
+      "reviews": 1,
       "listings": null,
-      "status_confirmed": true,
-      "evidence": "botwall marker: captcha"
+      "status_confirmed": false,
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E44",

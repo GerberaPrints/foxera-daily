@@ -1,14 +1,14 @@
 {
   "project": "foxera",
-  "verified_at": "2026-09-26",
+  "verified_at": "2026-09-27",
   "scanner_version": "v9",
   "provenance": "live_local_browser",
   "counts": {
     "active": 84,
-    "not_selling": 72,
+    "not_selling": 73,
     "on_break": 0,
     "not_found": 0,
-    "blocked": 5,
+    "blocked": 4,
     "unknown": 0
   },
   "quality": {
@@ -30,7 +30,7 @@
       "reviews": 113,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E100",
@@ -105,7 +105,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E114",
@@ -120,7 +120,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E119",
@@ -242,7 +242,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E136",
@@ -461,7 +461,7 @@
       "reviews": 1,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E171",
@@ -957,7 +957,7 @@
       "reviews": 17,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E240",
@@ -1127,7 +1127,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E258",
@@ -1154,7 +1154,7 @@
       "reviews": 16,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E260",
@@ -1468,7 +1468,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E3",
@@ -1554,7 +1554,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E40",
@@ -1581,21 +1581,24 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E43",
       "shop": "DreamPineCo",
       "url": "https://www.etsy.com/shop/DreamPineCo",
-      "status": "blocked",
-      "evidence": "botwall marker: captcha",
+      "status": "not_selling",
+      "evidence": "cau trang thai nguyen van",
+      "quote": "DreamPineCo is currently not selling on Etsy",
       "http_status": 200,
-      "sales": null,
-      "rating": null,
-      "reviews": null,
+      "sales": 5,
+      "rating": 5.0,
+      "reviews": 1,
       "listings": null,
-      "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "prev_status": "blocked",
+      "prev_checked": "2026-09-26",
+      "status_confirmed": false,
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E44",
@@ -1646,7 +1649,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E48",
@@ -1949,7 +1952,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-09-26"
+      "verified_at": "2026-09-27"
     },
     {
       "code": "E85",
