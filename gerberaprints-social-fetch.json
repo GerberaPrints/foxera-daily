@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-26",
- "fetched_at": "2026-09-26T04:45:02.923568+07:00",
+ "date": "2026-09-27",
+ "fetched_at": "2026-09-27T04:45:02.991138+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "No way… I actually found one",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wk8c12/no_way_i_actually_found_one/",
-     "selftext_head": ""
-    },
     {
      "title": "Welp…now we know why Tosti’s caddie, Cliff Ellis, quit. 😬 (audio)",
      "score": null,
@@ -43,6 +34,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wpc379/s_h_kim_one_of_the_unluckiest_breaks_in_golf/",
+     "selftext_head": ""
+    },
+    {
+     "title": "5 Years ago. Jordan Spieth almost sends himself into Lake Michigan. INSANE flop shot. One of the best we will ever see. 🎯",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wq6iwa/5_years_ago_jordan_spieth_almost_sends_himself/",
      "selftext_head": ""
     },
     {
@@ -73,15 +73,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Rory from 231 to a foot on 18.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wkp4np/rory_from_231_to_a_foot_on_18/",
-     "selftext_head": ""
-    },
-    {
      "title": "🍁 Canadians! Callaway fairway woods are on clearance at Golf Town!",
      "score": null,
      "num_comments": null,
@@ -97,6 +88,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wlfsq1/car_running_into_brae_burn_pro_shop_in_mass/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Victor Hovland rips an INSANE driver off the deck. What an angle by the cameraman! Wow. 🤩",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wq82dn/victor_hovland_rips_an_insane_driver_off_the_deck/",
      "selftext_head": ""
     },
     {
@@ -118,30 +118,30 @@
      "selftext_head": ""
     },
     {
+     "title": "Casually filming swings to improve, and caught my buddy hitting this ace (volume up, definitely some shouting and cursing).",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wqtycz/casually_filming_swings_to_improve_and_caught_my/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Clean sweep",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wq9t2f/clean_sweep/",
+     "selftext_head": ""
+    },
+    {
      "title": "I hate to be a hater, but Bryson being in his wannabe golf Mr. beast era brings tears of joy to my eyes.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wohyin/i_hate_to_be_a_hater_but_bryson_being_in_his/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Jackson Koivun Stripes1st Tee Shot in President's Cup, Gets a \"Proud Father\" Moment From Keegan Bradley",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wp7qc3/jackson_koivun_stripes1st_tee_shot_in_presidents/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Kids these days - High School Junior Shoots a 59",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wkmccf/kids_these_days_high_school_junior_shoots_a_59/",
      "selftext_head": ""
     }
    ]
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "dow jones industrial average",
-  "connor nelson apartment burglary california",
-  "steve gleason",
-  "life surge",
-  "cornell",
-  "xrp news",
-  "snake",
-  "brendan beck",
-  "fleabag",
-  "google"
+  "twitch",
+  "rob dillingham",
+  "uiw vs texas state",
+  "delaware vs virginia",
+  "james madison vs old dominion",
+  "alateng heili",
+  "josh turek",
+  "valesca machado",
+  "montel jackson",
+  "bailey stockton"
  ],
  "errors": []
 }
