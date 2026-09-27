@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-27",
- "fetched_at": "2026-09-27T04:45:02.991138+07:00",
+ "date": "2026-09-28",
+ "fetched_at": "2026-09-28T04:45:02.878552+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -25,6 +25,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wnr5cj/155yd_par_3_my_heart_was_pounding_for_a_moment/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Rory Mcllroy’s second shot on 15 at The Masters is a serious contender for shot of the decade. Absolutely world class!! 🥇",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wr0zan/rory_mcllroys_second_shot_on_15_at_the_masters_is/",
      "selftext_head": ""
     },
     {
@@ -64,30 +73,12 @@
      "selftext_head": ""
     },
     {
-     "title": "The r/golf “Hats in the Dishwasher” advice is clutch",
+     "title": "Casually filming swings to improve, and caught my buddy hitting this ace (volume up, definitely some shouting and cursing).",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wlne0e/the_rgolf_hats_in_the_dishwasher_advice_is_clutch/",
-     "selftext_head": ""
-    },
-    {
-     "title": "🍁 Canadians! Callaway fairway woods are on clearance at Golf Town!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wlts4s/canadians_callaway_fairway_woods_are_on_clearance/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Car running into Brae Burn pro shop in Mass.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wlfsq1/car_running_into_brae_burn_pro_shop_in_mass/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wqtycz/casually_filming_swings_to_improve_and_caught_my/",
      "selftext_head": ""
     },
     {
@@ -100,30 +91,39 @@
      "selftext_head": ""
     },
     {
+     "title": "Fan deliberately kicks ball back into play (still deemed out of bounds)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wqyhud/fan_deliberately_kicks_ball_back_into_play_still/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Lauren Coughlin makes nine straight birdies to post LPGA’s lowest nine holes ever, carding a 9-under 26 Saturday at the LPGA’s Walmart NW Arkansas Championship.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wr1tgs/lauren_coughlin_makes_nine_straight_birdies_to/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Scottie concedes 32-foot putt to halve the hole as a goodwill gesture to Echavarria after a fan yells during Nico's backswing",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wruuma/scottie_concedes_32foot_putt_to_halve_the_hole_as/",
+     "selftext_head": ""
+    },
+    {
      "title": "Updated full video of the Brae Burn pro shop car crash, including the outside security camera",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wmqbig/updated_full_video_of_the_brae_burn_pro_shop_car/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Me all day yesterday 😂",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wljhnl/me_all_day_yesterday/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Casually filming swings to improve, and caught my buddy hitting this ace (volume up, definitely some shouting and cursing).",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wqtycz/casually_filming_swings_to_improve_and_caught_my/",
      "selftext_head": ""
     },
     {
@@ -281,25 +281,25 @@
    "hawaiian golf shirts for men",
    "hawaiian golf shirts for women",
    "hawaiian golf shirts amazon",
+   "hawaiian golf shirts ladies",
    "hawaiian golf shirts australia",
    "hawaiian golf shirts canada",
    "hawaiian golf shirts near me",
    "hawaiian golf shirts nearby",
-   "hawaiian golf shirt brand",
-   "hawaiian golf shirts for couples"
+   "hawaiian golf shirt brand"
   ]
  },
  "trends": [
-  "twitch",
-  "rob dillingham",
-  "uiw vs texas state",
-  "delaware vs virginia",
-  "james madison vs old dominion",
-  "alateng heili",
-  "josh turek",
-  "valesca machado",
-  "montel jackson",
-  "bailey stockton"
+  "social reckoning",
+  "jp crawford",
+  "travis etienne",
+  "furious",
+  "jordan addison",
+  "michael mayer",
+  "dan wilson",
+  "the lobster house",
+  "roquan smith",
+  "chris gotterup"
  ],
  "errors": []
 }
