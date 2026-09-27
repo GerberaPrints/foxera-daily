@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-27",
- "fetched_at": "2026-09-27T04:30:03.157689+07:00",
+ "date": "2026-09-28",
+ "fetched_at": "2026-09-28T04:30:02.813949+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 161,
@@ -1667,6 +1667,50 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Pheasants Forever x DC Tee - Ivory",
+     "handle": "pheasants-forever-dc-tee-ivory",
+     "type": "Limited Release T-shirt",
+     "tags": [
+      "__label:new",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "hats-tees",
+      "hunt",
+      "lifestyle",
+      "logowear",
+      "logowear-tees",
+      "mens",
+      "msrp",
+      "top",
+      "womens"
+     ],
+     "price": "39.00",
+     "published_at": "2026-09-27T14:51:58-05:00"
+    },
+    {
+     "title": "Pheasants Forever x DC Hat - Sagebrush",
+     "handle": "pheasants-forever-dc-hat",
+     "type": "Limited Release Hat",
+     "tags": [
+      "__label:new",
+      "accessory",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "game-series",
+      "hat",
+      "hats-tees",
+      "headwear",
+      "lifestyle",
+      "logowear-hats",
+      "mens",
+      "womens"
+     ],
+     "price": "36.00",
+     "published_at": "2026-09-27T14:51:04-05:00"
+    },
+    {
      "title": "Men's Terrain Guard Softshell Vest",
      "handle": "mens-terrain-guard-softshell-vest",
      "type": "Combined Product",
@@ -1710,42 +1754,6 @@
      ],
      "price": "169.00",
      "published_at": "2026-09-22T10:39:09-05:00"
-    },
-    {
-     "title": "Men's Terrain Guard Softshell Vest - Wetland",
-     "handle": "mens-terrain-guard-softshell-vest-wetland",
-     "type": "Terrain Guard Vest",
-     "tags": [
-      "__label:new",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "hunt",
-      "mens",
-      "msrp",
-      "outerwear",
-      "terrain-guard",
-      "vest"
-     ],
-     "price": "169.00",
-     "published_at": "2026-09-22T10:38:02-05:00"
-    },
-    {
-     "title": "Men's Terrain Guard Softshell Vest - Pin Oak",
-     "handle": "mens-terrain-guard-softshell-vest-pin-oak",
-     "type": "Terrain Guard Vest",
-     "tags": [
-      "__label:new",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "hunt",
-      "mens",
-      "msrp",
-      "outerwear",
-      "terrain-guard",
-      "vest"
-     ],
-     "price": "169.00",
-     "published_at": "2026-09-22T10:36:09-05:00"
     }
    ]
   },
@@ -2164,6 +2172,7 @@
       "Qtr_Zip_Eqwaders",
       "r26",
       "top rated",
+      "top seller 2026",
       "VERTICAL MAGNATTACH POCKET",
       "warm weather gear list",
       "waterfowl",
@@ -2243,6 +2252,33 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Men's Elevate Hoodie - Shale Green",
+     "handle": "mens-elevate-hoodie-shale-green",
+     "type": "Men's",
+     "tags": [
+      "Arrival",
+      "care::bamboo",
+      "collection::men",
+      "complete-the-look",
+      "discounts::none",
+      "Elevate",
+      "excMCWHD",
+      "final-sale",
+      "final_sale",
+      "flag::final sale",
+      "listo-new-pdp",
+      "LTV - Paid Social",
+      "LTV - Paid Social - Elevate",
+      "priority-product",
+      "Pro-Exclude-Discount",
+      "product_style: Mens Elevate Hoodie",
+      "R-SP24M",
+      "returns::none"
+     ],
+     "price": "61.99",
+     "published_at": "2026-09-27T16:11:33-04:00"
+    },
+    {
      "title": "Men's Bamboo Current Polo - Bright White",
      "handle": "mens-bamboo-current-polo-bright-white",
      "type": "Men's",
@@ -2301,33 +2337,6 @@
      ],
      "price": "65.99",
      "published_at": "2026-09-09T16:21:33-04:00"
-    },
-    {
-     "title": "Men's Elevate Hoodie - Shale Green",
-     "handle": "mens-elevate-hoodie-shale-green",
-     "type": "Men's",
-     "tags": [
-      "Arrival",
-      "care::bamboo",
-      "collection::men",
-      "complete-the-look",
-      "discounts::none",
-      "Elevate",
-      "excMCWHD",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "listo-new-pdp",
-      "LTV - Paid Social",
-      "LTV - Paid Social - Elevate",
-      "priority-product",
-      "Pro-Exclude-Discount",
-      "product_style: Mens Elevate Hoodie",
-      "R-SP24M",
-      "returns::none"
-     ],
-     "price": "61.99",
-     "published_at": "2026-09-09T16:08:52-04:00"
     },
     {
      "title": "Men's Bamboo Lightweight Hoodie - Glacier",
@@ -2633,80 +2642,52 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Knee High Running Socks - Mesh Vent Panel, Reinforced Heel and Toe",
-     "handle": "knee-high-running-socks-mesh-vent-panel",
-     "type": "Socks",
-     "tags": [
-      "knee high",
-      "running socks",
-      "socks",
-      "sports socks",
-      "training"
-     ],
-     "price": "11.95",
-     "published_at": "2026-09-26T18:05:24+02:00"
+     "title": "Men's Swim Shorts - Zip Pocket Swimming Trunks - Summer Shorts",
+     "handle": "mens-swim-shorts-zip-pocket-swimming-trunks-summer-shorts",
+     "type": "Swimming Short",
+     "tags": [],
+     "price": "39.95",
+     "published_at": "2026-09-27T19:52:11+02:00"
     },
     {
-     "title": "Wool Blend Hiking Socks - Cushioned Crew - Unisex Walking Socks",
-     "handle": "wool-blend-hiking-socks-cushioned-crew",
-     "type": "Hiking Socks",
-     "tags": [
-      "crew socks",
-      "cushioned",
-      "hiking",
-      "hiking socks",
-      "outdoor",
-      "unisex",
-      "walking socks",
-      "wool socks"
-     ],
-     "price": "9.95",
-     "published_at": "2026-09-26T18:04:55+02:00"
+     "title": "Women's Rain Trousers - Reflective Trousers with Zip Pockets",
+     "handle": "womens-rain-trousers-reflective-trousers-with-zip-pockets",
+     "type": "Trousers women",
+     "tags": [],
+     "price": "44.95",
+     "published_at": "2026-09-27T17:14:36+02:00"
     },
     {
-     "title": "Hiking Socks - Cushioned Crew Walking Socks with Arch Band",
-     "handle": "hiking-socks-cushioned-crew-walking-socks",
-     "type": "Socks",
-     "tags": [
-      "crew socks",
-      "cushioned",
-      "hiking socks",
-      "outdoor",
-      "socks",
-      "unisex",
-      "walking socks"
-     ],
-     "price": "9.95",
-     "published_at": "2026-09-26T17:52:39+02:00"
+     "title": "Women's Fleece Lined Trousers - Quilted Winter Trousers",
+     "handle": "womens-fleece-lined-trousers-quilted-winter-trousers",
+     "type": "Trousers",
+     "tags": [],
+     "price": "54.95",
+     "published_at": "2026-09-27T17:13:56+02:00"
     },
     {
-     "title": "Merino Wool Socks - Cushioned Walking Socks for Hiking",
-     "handle": "merino-wool-socks-cushioned-walking-socks-for-hiking",
-     "type": "Socks",
-     "tags": [
-      "crew socks",
-      "hiking socks",
-      "merino wool",
-      "socks",
-      "unisex",
-      "walking socks",
-      "winter",
-      "wool socks"
-     ],
-     "price": "19.95",
-     "published_at": "2026-09-26T17:52:30+02:00"
+     "title": "Women's Cycling Shorts - Gel Padded Chamois - Leg Gripper Bands",
+     "handle": "womens-cycling-shorts-gel-padded-chamois-leg-gripper-bands",
+     "type": "Cycling Shorts",
+     "tags": [],
+     "price": "39.95",
+     "published_at": "2026-09-27T17:10:55+02:00"
     },
     {
-     "title": "Cycling Socks - Reflective Crew Socks - Breathable Sports Socks",
-     "handle": "cycling-socks-reflective-crew-socks",
-     "type": "Socks",
+     "title": "Tactical Fishing Backpack with Rod Holders and MOLLE System for Bank Fishing",
+     "handle": "tactical-fishing-backpack-with-rod-holders-and-molle-system-for-bank-fishing",
+     "type": "Bags and backpacks",
      "tags": [
-      "activity:cycling",
-      "gender:unisex",
-      "type:accessories"
+      "backpacks",
+      "fishing",
+      "fishing backpack",
+      "molle",
+      "rod holders",
+      "rucksack",
+      "tactical"
      ],
-     "price": "11.95",
-     "published_at": "2026-09-26T17:52:26+02:00"
+     "price": "66.45",
+     "published_at": "2026-09-27T17:05:12+02:00"
     }
    ]
   }
