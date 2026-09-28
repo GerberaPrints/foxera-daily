@@ -2,13 +2,22 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-28",
- "fetched_at": "2026-09-28T04:45:02.878552+07:00",
+ "date": "2026-09-29",
+ "fetched_at": "2026-09-29T04:45:02.920256+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "Scottie concedes 32-foot putt to halve the hole as a goodwill gesture to Echavarria after a fan yells during Nico's backswing",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wruuma/scottie_concedes_32foot_putt_to_halve_the_hole_as/",
+     "selftext_head": ""
+    },
     {
      "title": "Welp…now we know why Tosti’s caddie, Cliff Ellis, quit. 😬 (audio)",
      "score": null,
@@ -16,6 +25,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wppviz/welpnow_we_know_why_tostis_caddie_cliff_ellis/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Golfing in the Rocky Mountains",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wsgk2z/golfing_in_the_rocky_mountains/",
      "selftext_head": ""
     },
     {
@@ -28,21 +46,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Fair sportsmanship",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wruugb/fair_sportsmanship/",
+     "selftext_head": ""
+    },
+    {
      "title": "Rory Mcllroy’s second shot on 15 at The Masters is a serious contender for shot of the decade. Absolutely world class!! 🥇",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wr0zan/rory_mcllroys_second_shot_on_15_at_the_masters_is/",
-     "selftext_head": ""
-    },
-    {
-     "title": "S. H. Kim. One of the unluckiest breaks in golf history. 🤣",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wpc379/s_h_kim_one_of_the_unluckiest_breaks_in_golf/",
      "selftext_head": ""
     },
     {
@@ -55,6 +73,15 @@
      "selftext_head": ""
     },
     {
+     "title": "S. H. Kim. One of the unluckiest breaks in golf history. 🤣",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wpc379/s_h_kim_one_of_the_unluckiest_breaks_in_golf/",
+     "selftext_head": ""
+    },
+    {
      "title": "John F. Kennedy's Golf Swing",
      "score": null,
      "num_comments": null,
@@ -64,21 +91,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Neighbour invited me over and showed me his garage",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wmn2na/neighbour_invited_me_over_and_showed_me_his_garage/",
-     "selftext_head": ""
-    },
-    {
      "title": "Casually filming swings to improve, and caught my buddy hitting this ace (volume up, definitely some shouting and cursing).",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wqtycz/casually_filming_swings_to_improve_and_caught_my/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Lauren Coughlin makes nine straight birdies to post LPGA’s lowest nine holes ever, carding a 9-under 26 Saturday at the LPGA’s Walmart NW Arkansas Championship.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wr1tgs/lauren_coughlin_makes_nine_straight_birdies_to/",
      "selftext_head": ""
     },
     {
@@ -100,33 +127,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Lauren Coughlin makes nine straight birdies to post LPGA’s lowest nine holes ever, carding a 9-under 26 Saturday at the LPGA’s Walmart NW Arkansas Championship.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wr1tgs/lauren_coughlin_makes_nine_straight_birdies_to/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Scottie concedes 32-foot putt to halve the hole as a goodwill gesture to Echavarria after a fan yells during Nico's backswing",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wruuma/scottie_concedes_32foot_putt_to_halve_the_hole_as/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Updated full video of the Brae Burn pro shop car crash, including the outside security camera",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wmqbig/updated_full_video_of_the_brae_burn_pro_shop_car/",
-     "selftext_head": ""
-    },
-    {
      "title": "Clean sweep",
      "score": null,
      "num_comments": null,
@@ -136,12 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "I hate to be a hater, but Bryson being in his wannabe golf Mr. beast era brings tears of joy to my eyes.",
+     "title": "Presidents Cup: Comeback complete!The U.S. Team clinches its eleventh Presidents Cup in a row in dramatic fashion, besting the International Team at Medinah.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wohyin/i_hate_to_be_a_hater_but_bryson_being_in_his/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wrx1gg/presidents_cup_comeback_completethe_us_team/",
      "selftext_head": ""
     }
    ]
@@ -262,6 +262,7 @@
    "best golf.gift for.boss",
    "golf gift for manager",
    "gift for boss who likes golf",
+   "gift for boss who loves golf",
    "golf gift ideas for him"
   ],
   "golf apparel funny": [
@@ -281,25 +282,25 @@
    "hawaiian golf shirts for men",
    "hawaiian golf shirts for women",
    "hawaiian golf shirts amazon",
-   "hawaiian golf shirts ladies",
    "hawaiian golf shirts australia",
    "hawaiian golf shirts canada",
    "hawaiian golf shirts near me",
    "hawaiian golf shirts nearby",
-   "hawaiian golf shirt brand"
+   "hawaiian golf shirt brand",
+   "hawaiian golf shirts for couples"
   ]
  },
  "trends": [
-  "social reckoning",
-  "jp crawford",
-  "travis etienne",
-  "furious",
-  "jordan addison",
-  "michael mayer",
-  "dan wilson",
-  "the lobster house",
-  "roquan smith",
-  "chris gotterup"
+  "is caleb williams playing today",
+  "josh allen injury",
+  "rob dillingham",
+  "tunisia vs botswana",
+  "world labs",
+  "katie miller",
+  "michael kayode",
+  "warren county ohio",
+  "data center",
+  "lieutenant stitchie"
  ],
  "errors": []
 }
