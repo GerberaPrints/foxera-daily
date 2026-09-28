@@ -2,12 +2,72 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-28",
- "fetched_at": "2026-09-28T04:30:02.813949+07:00",
+ "date": "2026-09-29",
+ "fetched_at": "2026-09-29T04:30:02.891862+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 161,
+   "count_returned": 167,
    "products": [
+    {
+     "title": "The One He Let Walk T-shirt",
+     "handle": "the-one-he-let-walk-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-27T19:09:44-07:00"
+    },
+    {
+     "title": "Grass Edge Hold T-shirt",
+     "handle": "grass-edge-hold-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-27T19:07:26-07:00"
+    },
+    {
+     "title": "Grass Edge Turn Away T-shirt",
+     "handle": "grass-edge-turn-away-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-27T18:39:53-07:00"
+    },
+    {
+     "title": "Broke Off At The Piling T-shirt",
+     "handle": "broke-off-at-the-piling-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-27T18:36:58-07:00"
+    },
+    {
+     "title": "First Follow T-shirt",
+     "handle": "first-follow-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-27T18:33:53-07:00"
+    },
+    {
+     "title": "Tailgate Before Light Hold T-shirt",
+     "handle": "tailgate-before-light-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-09-27T18:30:53-07:00"
+    },
     {
      "title": "Fogline Camo Hoodie With Face Cover",
      "handle": "fogline-camo-hoodie-with-face-cover",
@@ -2252,33 +2312,6 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Men's Elevate Hoodie - Shale Green",
-     "handle": "mens-elevate-hoodie-shale-green",
-     "type": "Men's",
-     "tags": [
-      "Arrival",
-      "care::bamboo",
-      "collection::men",
-      "complete-the-look",
-      "discounts::none",
-      "Elevate",
-      "excMCWHD",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "listo-new-pdp",
-      "LTV - Paid Social",
-      "LTV - Paid Social - Elevate",
-      "priority-product",
-      "Pro-Exclude-Discount",
-      "product_style: Mens Elevate Hoodie",
-      "R-SP24M",
-      "returns::none"
-     ],
-     "price": "61.99",
-     "published_at": "2026-09-27T16:11:33-04:00"
-    },
-    {
      "title": "Men's Bamboo Current Polo - Bright White",
      "handle": "mens-bamboo-current-polo-bright-white",
      "type": "Men's",
@@ -2362,6 +2395,27 @@
      ],
      "price": "49.99",
      "published_at": "2026-09-09T16:06:42-04:00"
+    },
+    {
+     "title": "Men's Bamboo Motion Boxer Brief - Slate Blue",
+     "handle": "mens-bamboo-motion-boxer-brief-slate-blue",
+     "type": "Men's",
+     "tags": [
+      "bundle::Buy 3 for $96. Use code: BUNDLE",
+      "care::bamboo",
+      "Color",
+      "discount::motion_boxer::3::percent::11::BUY 3 FOR $85",
+      "EXCBBB",
+      "fdbun",
+      "final-sale",
+      "final_sale",
+      "listo-new-pdp",
+      "motionboxergroup",
+      "product_style: Mens Bamboo Motion Boxer Brief",
+      "returns::none"
+     ],
+     "price": "36.00",
+     "published_at": "2026-09-03T00:06:23-04:00"
     }
    ]
   },
@@ -2478,7 +2532,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2637000",
+     "price": "2636000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2491,7 +2545,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5273000",
+     "price": "5272000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2537,6 +2591,22 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Mallard Duck Hoodie – Misty Marsh Waterfowl All-Over Print Unisex Pullover, Duck Hunting Gift",
+     "handle": "mallard-duck-hoodie-misty-marsh-waterfowl-all-over-print-unisex-pullover-duck-hunting-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-28T01:12:21-07:00"
+    },
+    {
+     "title": "Opossum Paisley Hoodie – Vintage Navy Bandana Pattern All-Over Print Unisex Pullover, Possum Lover Gift",
+     "handle": "opossum-paisley-hoodie-vintage-navy-bandana-pattern-all-over-print-unisex-pullover-possum-lover-gift",
+     "type": "",
+     "tags": [],
+     "price": "69.95",
+     "published_at": "2026-09-28T01:02:35-07:00"
+    },
+    {
      "title": "Dove Hunting Topographic Sweatshirt | Mourning Dove Camo Sweatshirt | Dove Hunter Gift",
      "handle": "dove-hunting-topographic-sweatshirt-mourning-dove-camo-sweatshirt-dove-hunter-gift",
      "type": "",
@@ -2559,22 +2629,6 @@
      "tags": [],
      "price": "69.95",
      "published_at": "2026-09-22T20:04:42-07:00"
-    },
-    {
-     "title": "Labrador Retriever Camo Sweatshirt | Black Chocolate Yellow Lab Dog Lover Gift",
-     "handle": "labrador-retriever-camo-sweatshirt-black-chocolate-yellow-lab-dog-lover-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-22T19:24:12-07:00"
-    },
-    {
-     "title": "Whitetail Deer Forest Camo Hoodie | Hunting Hoodie for Him | Deer Hunter Gift",
-     "handle": "whitetail-deer-forest-camo-hoodie-hunting-hoodie-for-him-deer-hunter-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-21T00:33:00-07:00"
     }
    ]
   },
@@ -2642,52 +2696,63 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Men's Swim Shorts - Zip Pocket Swimming Trunks - Summer Shorts",
-     "handle": "mens-swim-shorts-zip-pocket-swimming-trunks-summer-shorts",
+     "title": "Men's Swim Shorts - Quick Dry Mesh Lined - Swimming Trunks",
+     "handle": "mens-swim-shorts-quick-dry-mesh-lined",
      "type": "Swimming Short",
-     "tags": [],
-     "price": "39.95",
-     "published_at": "2026-09-27T19:52:11+02:00"
-    },
-    {
-     "title": "Women's Rain Trousers - Reflective Trousers with Zip Pockets",
-     "handle": "womens-rain-trousers-reflective-trousers-with-zip-pockets",
-     "type": "Trousers women",
-     "tags": [],
-     "price": "44.95",
-     "published_at": "2026-09-27T17:14:36+02:00"
-    },
-    {
-     "title": "Women's Fleece Lined Trousers - Quilted Winter Trousers",
-     "handle": "womens-fleece-lined-trousers-quilted-winter-trousers",
-     "type": "Trousers",
-     "tags": [],
-     "price": "54.95",
-     "published_at": "2026-09-27T17:13:56+02:00"
-    },
-    {
-     "title": "Women's Cycling Shorts - Gel Padded Chamois - Leg Gripper Bands",
-     "handle": "womens-cycling-shorts-gel-padded-chamois-leg-gripper-bands",
-     "type": "Cycling Shorts",
-     "tags": [],
-     "price": "39.95",
-     "published_at": "2026-09-27T17:10:55+02:00"
-    },
-    {
-     "title": "Tactical Fishing Backpack with Rod Holders and MOLLE System for Bank Fishing",
-     "handle": "tactical-fishing-backpack-with-rod-holders-and-molle-system-for-bank-fishing",
-     "type": "Bags and backpacks",
      "tags": [
-      "backpacks",
-      "fishing",
-      "fishing backpack",
-      "molle",
-      "rod holders",
-      "rucksack",
-      "tactical"
+      "activity:summer",
+      "gender:mens",
+      "type:trousers-shorts"
      ],
-     "price": "66.45",
-     "published_at": "2026-09-27T17:05:12+02:00"
+     "price": "34.95",
+     "published_at": "2026-09-28T18:12:38+02:00"
+    },
+    {
+     "title": "Men's Swim Shorts - Striped Quick Dry Swim Trunks - Beach Shorts",
+     "handle": "mens-swim-shorts-striped-quick-dry-swim-trunks-beach-shorts",
+     "type": "Shorts",
+     "tags": [],
+     "price": "39.95",
+     "published_at": "2026-09-28T18:11:39+02:00"
+    },
+    {
+     "title": "Men's Fleece Jacket - Full Zip Fleece Hoodie for Walking & Hiking",
+     "handle": "mens-fleece-jacket-full-zip-fleece-hoodie",
+     "type": "Men's Fleece",
+     "tags": [
+      "activity:hiking",
+      "activity:walking",
+      "gender:mens",
+      "type:fleeces"
+     ],
+     "price": "59.95",
+     "published_at": "2026-09-28T17:26:09+02:00"
+    },
+    {
+     "title": "Men's Padded Cycling Tights - Long Cycling Trousers with Pockets",
+     "handle": "mens-padded-cycling-tights-long-cycling-trousers-with-pockets",
+     "type": "Cycling tights",
+     "tags": [
+      "activity:autumn",
+      "activity:cycling",
+      "activity:spring",
+      "gender:mens",
+      "type:trousers-shorts"
+     ],
+     "price": "44.95",
+     "published_at": "2026-09-28T16:48:57+02:00"
+    },
+    {
+     "title": "Men's Ski Suit - Hooded Ski Jacket and Trousers Set - Ski Outfit",
+     "handle": "mens-ski-suit-hooded-ski-jacket-and-trousers-set-ski-outfit",
+     "type": "Set men",
+     "tags": [
+      "bestseller",
+      "Heren sets",
+      "Man"
+     ],
+     "price": "138.95",
+     "published_at": "2026-09-28T10:54:34+02:00"
     }
    ]
   }
