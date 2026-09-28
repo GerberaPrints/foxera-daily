@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-28",
- "fetched_at": "2026-09-28T04:15:02.777002+07:00",
+ "date": "2026-09-29",
+ "fetched_at": "2026-09-29T04:15:02.855908+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -64,6 +64,15 @@
      "selftext_head": ""
     },
     {
+     "title": "'You Are Not a Burden': Pope Leo Challenges France's Assisted-Dying Law at Lourdes",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wruhr4/you_are_not_a_burden_pope_leo_challenges_frances/",
+     "selftext_head": ""
+    },
+    {
      "title": "Went to adoration for the first time as a non catholic (with story below)",
      "score": null,
      "num_comments": null,
@@ -82,21 +91,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Is it morally licit to not be from Illinois?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpye4x/is_it_morally_licit_to_not_be_from_illinois/",
-     "selftext_head": ""
-    },
-    {
      "title": "This evening in the Shrine of Lourdes, Pope Leo XIV offered a Golden rose to Our Lady of Lourdes in the Grotto of Massabielle.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wr7l82/this_evening_in_the_shrine_of_lourdes_pope_leo/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Is it morally licit to not be from Illinois?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpye4x/is_it_morally_licit_to_not_be_from_illinois/",
      "selftext_head": ""
     },
     {
@@ -127,15 +136,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Found in an antique store... what is it and is it licit to sell/buy?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wmf5sq/found_in_an_antique_store_what_is_it_and_is_it/",
-     "selftext_head": ""
-    },
-    {
      "title": "Saint Gemma Galgani is a total bada**",
      "score": null,
      "num_comments": null,
@@ -158,8 +158,8 @@
    "catholic gift for women",
    "catholic gift for mom",
    "catholic gift for kids",
-   "catholic gift for wife",
-   "catholic gift for baby"
+   "catholic gift for husband",
+   "catholic gift for dad"
   ],
   "rosary bracelet": [
    "rosary bracelet",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "raiders",
-  "baltimore",
-  "kyle hamilton",
-  "mark andrews",
-  "nfl scores",
-  "astros",
-  "jackson koivun",
-  "travis kelce",
-  "max scherzer",
-  "jacob misiorowski"
+  "rob dillingham",
+  "tunisia vs botswana",
+  "world labs",
+  "katie miller",
+  "michael kayode",
+  "warren county ohio",
+  "data center",
+  "lieutenant stitchie",
+  "warren county ky",
+  "france"
  ],
  "errors": []
 }
