@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-29",
- "fetched_at": "2026-09-29T04:15:02.855908+07:00",
+ "date": "2026-09-30",
+ "fetched_at": "2026-09-30T04:15:03.072916+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -34,15 +34,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wqrjr2/pope_leo_xiv_offering_the_holy_sacrifice_of_the/",
-     "selftext_head": ""
-    },
-    {
-     "title": "156 years ago today, fall of Rome to Italians",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wmt5io/156_years_ago_today_fall_of_rome_to_italians/",
      "selftext_head": ""
     },
     {
@@ -82,12 +73,12 @@
      "selftext_head": ""
     },
     {
-     "title": "[Free Friday] Pope Leo to the french youth: \"You are the saints of France !\"",
+     "title": "Feast of the Holy Archangels Michael, Raphael, and Gabriel.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wqhqx2/free_friday_pope_leo_to_the_french_youth_you_are/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wt76br/feast_of_the_holy_archangels_michael_raphael_and/",
      "selftext_head": ""
     },
     {
@@ -100,12 +91,30 @@
      "selftext_head": ""
     },
     {
+     "title": "[Free Friday] Pope Leo to the french youth: \"You are the saints of France !\"",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wqhqx2/free_friday_pope_leo_to_the_french_youth_you_are/",
+     "selftext_head": ""
+    },
+    {
      "title": "Is it morally licit to not be from Illinois?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpye4x/is_it_morally_licit_to_not_be_from_illinois/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Saint Lawrence Ruiz, martyr of Manila",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1ws7nca/saint_lawrence_ruiz_martyr_of_manila/",
      "selftext_head": ""
     },
     {
@@ -118,15 +127,6 @@
      "selftext_head": ""
     },
     {
-     "title": "The Altar of the Crucifixion at the Church of the Holy Sepulchre, Jerusalem",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wq0mca/the_altar_of_the_crucifixion_at_the_church_of_the/",
-     "selftext_head": ""
-    },
-    {
      "title": "[Free Friday]Chapel on the USS Wisconsin",
      "score": null,
      "num_comments": null,
@@ -136,12 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Saint Gemma Galgani is a total bada**",
+     "title": "The Altar of the Crucifixion at the Church of the Holy Sepulchre, Jerusalem",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wr86o0/saint_gemma_galgani_is_a_total_bada/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wq0mca/the_altar_of_the_crucifixion_at_the_church_of_the/",
      "selftext_head": ""
     }
    ]
@@ -158,8 +158,8 @@
    "catholic gift for women",
    "catholic gift for mom",
    "catholic gift for kids",
-   "catholic gift for husband",
-   "catholic gift for dad"
+   "catholic gift for wife",
+   "catholic gift for baby"
   ],
   "rosary bracelet": [
    "rosary bracelet",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "rob dillingham",
-  "tunisia vs botswana",
-  "world labs",
-  "katie miller",
-  "michael kayode",
-  "warren county ohio",
-  "data center",
-  "lieutenant stitchie",
-  "warren county ky",
-  "france"
+  "earthquake seattle",
+  "tsa",
+  "devin neal",
+  "mlb scores today",
+  "nhl schedule",
+  "trump administration third-country deportations",
+  "baseball",
+  "trump accounts child enrollment regulations",
+  "don mattingly",
+  "jerry colangelo"
  ],
  "errors": []
 }
