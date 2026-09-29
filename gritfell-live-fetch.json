@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-29",
- "fetched_at": "2026-09-29T04:30:02.891862+07:00",
+ "date": "2026-09-30",
+ "fetched_at": "2026-09-30T04:30:02.921401+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 167,
@@ -1821,80 +1821,86 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Tight Lines Trucker Hat",
-     "handle": "tight-lines-trucker-hw-headwear-khaki-mallard-camo",
+     "title": "South Texas Snapback Hat",
+     "handle": "south-texas-snapback-hat-bushlan-camo",
      "type": "MENS HEADWEAR",
      "tags": [
       "Accessories",
+      "FA26",
       "HATS",
       "Headwear",
-      "mallardcamo",
       "MENS",
-      "SP25"
+      "NEW",
+      "NEW-TAG"
      ],
-     "price": "35.00",
-     "published_at": "2026-09-24T09:04:33-07:00"
+     "price": "45.00",
+     "published_at": "2026-09-29T13:51:45-07:00"
     },
     {
-     "title": "Women's Pine Island Puff Jacket",
-     "handle": "womens-pine-island-puffer-jacket-parisian-night",
-     "type": "WOMENS JACKETS",
+     "title": "Bushlan Snapback Hat",
+     "handle": "bushlan-snapback-hat-camo",
+     "type": "MENS HEADWEAR",
      "tags": [
-      "COMING-SOON",
+      "Accessories",
+      "FA26",
+      "HATS",
+      "Headwear",
+      "MENS",
+      "NEW",
+      "NEW-TAG"
+     ],
+     "price": "39.00",
+     "published_at": "2026-09-29T13:51:37-07:00"
+    },
+    {
+     "title": "Stackhouse Tech Tee",
+     "handle": "stackhouse-short-sleeve-sun-protection-shirt-bushlan-camo",
+     "type": "MENS PERFORMANCE",
+     "tags": [
+      "BUXTON",
+      "camo",
+      "CLOTHING",
+      "FA26",
+      "MENS",
+      "mens-tech-tops",
+      "MOISTURE",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "Performance Knit",
+      "RGroup_MWK1016",
+      "rockcamo",
+      "SOFT",
+      "SP26",
+      "Tech",
+      "TOPS",
+      "UPF40"
+     ],
+     "price": "49.00",
+     "published_at": "2026-09-29T11:35:49-07:00"
+    },
+    {
+     "title": "Folly Flannel Shirt",
+     "handle": "folly-flannel-shirt-bushlan-camo",
+     "type": "MENS WOVENS",
+     "tags": [
       "F26-SEPT1",
       "FA26",
-      "ICAST2026",
-      "jackets-overshirts",
-      "NEW",
-      "Outerwear",
-      "WOMENS",
-      "womens-jackets-overshirts-outerwear"
-     ],
-     "price": "169.00",
-     "published_at": "2026-09-24T08:03:50-07:00"
-    },
-    {
-     "title": "Pine Island Puff Vest",
-     "handle": "pine-island-puffer-vest-sage-brush",
-     "type": "MENS JACKETS",
-     "tags": [
-      "COMING-SOON",
-      "F26-SEPT1",
-      "FA26",
-      "Fleece",
-      "JACKETS",
+      "Longsleeve Shirt",
       "MENS",
-      "mens-outerwear-jackets",
+      "MENS-Longsleeve Shirt-TOPS",
       "NEW",
-      "Outerwear"
+      "NEW-TAG",
+      "TOPS",
+      "Wovens"
      ],
-     "price": "149.00",
-     "published_at": "2026-09-24T08:03:49-07:00"
+     "price": "89.00",
+     "published_at": "2026-09-29T11:35:48-07:00"
     },
     {
-     "title": "Pine Island Puff Vest",
-     "handle": "pine-island-puffer-vest-parisian-night",
+     "title": "Portside Anorak",
+     "handle": "portside-hunting-anorak-jacket-bushlan-camo",
      "type": "MENS JACKETS",
      "tags": [
-      "COMING-SOON",
-      "F26-SEPT1",
-      "FA26",
-      "Fleece",
-      "JACKETS",
-      "MENS",
-      "mens-outerwear-jackets",
-      "NEW",
-      "Outerwear"
-     ],
-     "price": "149.00",
-     "published_at": "2026-09-24T08:03:47-07:00"
-    },
-    {
-     "title": "Pine Island Puff Jacket",
-     "handle": "pine-island-puffer-jacket-sage-brush",
-     "type": "MENS JACKETS",
-     "tags": [
-      "COMING-SOON",
       "F26-SEPT1",
       "FA26",
       "foul-weather",
@@ -1903,10 +1909,11 @@
       "mens-outerwear-foul-weather",
       "mens-outerwear-jackets",
       "NEW",
+      "NEW-TAG",
       "Outerwear"
      ],
-     "price": "189.00",
-     "published_at": "2026-09-24T08:03:46-07:00"
+     "price": "129.00",
+     "published_at": "2026-09-29T11:35:47-07:00"
     }
    ]
   },
@@ -2002,62 +2009,44 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "HB Trade Pants - Putty",
-     "handle": "hb-trade-pants-painters-putty",
-     "type": "Men's Pants",
-     "tags": [
-      "__eligible-for-discount",
-      "alt-text",
-      "everyday-wear",
-      "f26-carryover",
-      "fall-2024",
-      "fall-2025-drop-1",
-      "mens-bottoms-collection",
-      "mens-pants-collection",
-      "october-capsule",
-      "pants",
-      "product-merging",
-      "published-online",
-      "restocked",
-      "search-bug-fix",
-      "solids",
-      "trade-collection",
-      "unpublish-101524"
-     ],
-     "price": "129.00",
-     "published_at": "2026-09-22T15:09:14-05:00"
-    },
-    {
-     "title": "ACL Fest 2026 Bandana - Festival Sky Dye",
-     "handle": "acl-fest-2026-bandana-festival-sky-dye",
-     "type": "",
-     "tags": [],
-     "price": "20.00",
-     "published_at": "2026-09-18T08:34:47-05:00"
-    },
-    {
-     "title": "ACL Fest 2026 Snapback - Midnight Corduroy",
-     "handle": "acl-fest-2026-snapback-midnight-corduroy",
+     "title": "UVA Aperture Tech Strapback",
+     "handle": "uva-aperture-tech-strapback",
      "type": "",
      "tags": [],
      "price": "40.00",
-     "published_at": "2026-09-18T08:34:47-05:00"
+     "published_at": "2026-09-29T08:48:00-05:00"
     },
     {
-     "title": "ACL Fest 2026 Snapback - Day to Night",
-     "handle": "acl-fest-2026-snapback-day-to-night",
+     "title": "UVA Feedstore Snapback",
+     "handle": "uva-feedstore-snapback",
      "type": "",
      "tags": [],
      "price": "40.00",
-     "published_at": "2026-09-18T08:34:47-05:00"
+     "published_at": "2026-09-29T08:47:59-05:00"
     },
     {
-     "title": "ACL Fest 2026 Feedstore Snapback - Yellow",
-     "handle": "acl-fest-2026-feedstore-snapback-yellow",
+     "title": "UVA Snapback -  Leaping Hoo : Cavalier Blue",
+     "handle": "uva-snapback-leaping-hoo-cavalier-blue",
      "type": "",
      "tags": [],
      "price": "40.00",
-     "published_at": "2026-09-18T08:34:46-05:00"
+     "published_at": "2026-09-29T08:47:59-05:00"
+    },
+    {
+     "title": "UVA Longsleeve Cotton T-Shirt",
+     "handle": "uva-longsleeve-cotton-t-shirt",
+     "type": "",
+     "tags": [],
+     "price": "45.00",
+     "published_at": "2026-09-29T08:47:59-05:00"
+    },
+    {
+     "title": "Wahoo Matrix T-Shirt",
+     "handle": "wahoo-matrix-t-shirt",
+     "type": "",
+     "tags": [],
+     "price": "45.00",
+     "published_at": "2026-09-29T08:47:58-05:00"
     }
    ]
   },
@@ -2204,6 +2193,43 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "MST Endurance Hoodie With Kangaroo Pouch",
+     "handle": "mst-endurance-hoodie-with-kangaroo-pouch",
+     "type": "Hoodies & Pullovers",
+     "tags": [
+      "acs2024",
+      "ACS2025",
+      "alt_text",
+      "AW25 Price Tracking",
+      "AW25 Show Special",
+      "AW26 Price Tracking",
+      "best_seller",
+      "bestseller_24",
+      "bestseller_nov",
+      "bfcm 2025",
+      "bfcm2024",
+      "BFCM2025",
+      "BFCM2026",
+      "camo_hoodie",
+      "Gifts Under $100",
+      "HOL_26 Flyer",
+      "hoodie collection",
+      "hunting_hoodies",
+      "jackets-vests",
+      "Jackets_Vests_Hoodies",
+      "mens",
+      "new_color:Old School Sport",
+      "Super Sale 2024",
+      "Super Sale 2025",
+      "waterfowl",
+      "waterfowl_hoodies",
+      "waterfowl_shirts_tops",
+      "YGroup_hoodie"
+     ],
+     "price": "119.99",
+     "published_at": "2026-09-29T12:57:22-05:00"
+    },
+    {
      "title": "MST Youth Eqwader Quarter Zip Jacket",
      "handle": "youth-mst-ewader-quarter-zip",
      "type": "Jackets & Vests",
@@ -2211,6 +2237,7 @@
       "- $50 - $100",
       "- pullovers",
       "20171031-MST-Youth",
+      "alt_text",
       "AW25 Catalog",
       "AW26 Catalog",
       "bestseller_24",
@@ -2252,6 +2279,7 @@
      "handle": "drake-x-lost-hat-bmf-goat-rope-cap",
      "type": "Headwear",
      "tags": [
+      "alt_text",
       "AW26 Catalog",
       "AW26_NEW",
       "new"
@@ -2288,23 +2316,6 @@
      ],
      "price": "49.99",
      "published_at": "2026-09-23T08:44:41-05:00"
-    },
-    {
-     "title": "MST Quarter Zip Refuge Eqwader Jacket with Hood",
-     "handle": "mst-quarter-zip-refuge-eqwader-with-hood",
-     "type": "Jackets & Vests",
-     "tags": [
-      "AW26 Catalog",
-      "AW26_NEW",
-      "Eqwader Hybrid System",
-      "jackets-vests",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new",
-      "top seller 2026"
-     ],
-     "price": "99.99",
-     "published_at": "2026-09-23T08:35:55-05:00"
     }
    ]
   },
@@ -2423,9 +2434,71 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Toddler Crocs Classic Clog - Classic Deer Camo",
+     "handle": "toddler-crocs-classic-clog-classic-deer-camo",
+     "type": "Footwear",
+     "tags": [
+      "9/29/26",
+      "Accessories",
+      "B2B_Active",
+      "B2B_Sync",
+      "classic-deer-camo",
+      "Crocs",
+      "Footwear",
+      "pdqreview",
+      "retail",
+      "wholesale",
+      "wrapped:blocks:include",
+      "Youth"
+     ],
+     "price": "44.99",
+     "published_at": "2026-09-29T07:09:23-05:00"
+    },
+    {
+     "title": "Youth Crocs Classic Clog - Classic Deer Camo",
+     "handle": "youth-crocs-classic-clog-classic-deer-camo",
+     "type": "Footwear",
+     "tags": [
+      "9/29/26",
+      "Accessories",
+      "B2B_Active",
+      "B2B_Sync",
+      "classic-deer-camo",
+      "Crocs",
+      "Footwear",
+      "pdqreview",
+      "retail",
+      "wholesale",
+      "wrapped:blocks:include",
+      "Youth"
+     ],
+     "price": "49.99",
+     "published_at": "2026-09-29T07:09:22-05:00"
+    },
+    {
+     "title": "Crocs Classic Clog - Classic Deer Camo",
+     "handle": "crocs-classic-clog-classic-deer-camo",
+     "type": "Footwear",
+     "tags": [
+      "9/29/26",
+      "Accessories",
+      "B2B_Active",
+      "B2B_Sync",
+      "classic-deer-camo",
+      "Crocs",
+      "Footwear",
+      "pdqreview",
+      "retail",
+      "wholesale",
+      "wrapped:blocks:include"
+     ],
+     "price": "64.99",
+     "published_at": "2026-09-29T07:09:20-05:00"
+    },
+    {
      "title": "Performance Polo - Texas Grey and White",
      "handle": "performance-polo-texas-grey-and-white",
-     "type": "Polo",
+     "type": "Performance Polo",
      "tags": [
       "8/4/26",
       "B2B_Active",
@@ -2459,60 +2532,6 @@
      ],
      "price": "111.00",
      "published_at": "2026-09-22T13:27:36-05:00"
-    },
-    {
-     "title": "Father and Son Bundle - Vintage Washed Hoodie - Midland Camo",
-     "handle": "father-and-son-bundle-vintage-washed-fleece-hoodie-midland-camo",
-     "type": "Bundle",
-     "tags": [
-      "8/13/26"
-     ],
-     "price": "111.00",
-     "published_at": "2026-09-22T13:26:41-05:00"
-    },
-    {
-     "title": "Performance Polo - Fly Life",
-     "handle": "copy-of-performance-polo-electric-storm",
-     "type": "Polo",
-     "tags": [
-      "B2B_Active",
-      "B2B_Sync",
-      "hide-notify-btn",
-      "hide-preorder-btn",
-      "pdqreview",
-      "Performance Polo",
-      "retail",
-      "Sale",
-      "Season Uncategorized",
-      "Short Sleeve",
-      "Tops",
-      "vintage vault",
-      "Warehouse Sale 2026",
-      "wholesale"
-     ],
-     "price": "25.00",
-     "published_at": "2026-09-22T11:50:46-05:00"
-    },
-    {
-     "title": "Youth Cap - Patch Logo - Camo Mesh",
-     "handle": "youth-cap-mesh-camo-cap",
-     "type": "Caps",
-     "tags": [
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "Cap",
-      "hide-notify-btn",
-      "hide-preorder-btn",
-      "pdqreview",
-      "retail",
-      "Sale",
-      "Warehouse Sale 2026",
-      "wholesale",
-      "Youth"
-     ],
-     "price": "22.40",
-     "published_at": "2026-09-22T10:59:43-05:00"
     }
    ]
   },
@@ -2591,44 +2610,44 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Mallard Duck Hoodie – Misty Marsh Waterfowl All-Over Print Unisex Pullover, Duck Hunting Gift",
-     "handle": "mallard-duck-hoodie-misty-marsh-waterfowl-all-over-print-unisex-pullover-duck-hunting-gift",
+     "title": "Mallard Duck Paisley Hoodie – Vintage Burgundy Duck Hunting All-Over Print Unisex Pullover, Duck Hunter Gift",
+     "handle": "mallard-duck-paisley-hoodie-vintage-burgundy-duck-hunting-all-over-print-unisex-pullover-duck-hunter-gift",
      "type": "",
      "tags": [],
      "price": "69.95",
-     "published_at": "2026-09-28T01:12:21-07:00"
+     "published_at": "2026-09-29T01:08:27-07:00"
     },
     {
-     "title": "Opossum Paisley Hoodie – Vintage Navy Bandana Pattern All-Over Print Unisex Pullover, Possum Lover Gift",
-     "handle": "opossum-paisley-hoodie-vintage-navy-bandana-pattern-all-over-print-unisex-pullover-possum-lover-gift",
+     "title": "Whitetail Deer Hoodie – Vintage Paisley Deer Hunting All-Over Print Unisex Pullover, Hunter Green, Deer Hunter Gift",
+     "handle": "whitetail-deer-hoodie-vintage-paisley-deer-hunting-all-over-print-unisex-pullover-hunter-green-deer-hunter-gift",
      "type": "",
      "tags": [],
      "price": "69.95",
-     "published_at": "2026-09-28T01:02:35-07:00"
+     "published_at": "2026-09-29T01:06:10-07:00"
     },
     {
-     "title": "Dove Hunting Topographic Sweatshirt | Mourning Dove Camo Sweatshirt | Dove Hunter Gift",
-     "handle": "dove-hunting-topographic-sweatshirt-mourning-dove-camo-sweatshirt-dove-hunter-gift",
+     "title": "Mallard Duck Hunting Hoodie – Cattail Marsh Camo All-Over Print Unisex Pullover, Duck Hunter Gift",
+     "handle": "mallard-duck-hunting-hoodie-cattail-marsh-camo-all-over-print-unisex-pullover-duck-hunter-gift",
      "type": "",
      "tags": [],
      "price": "69.95",
-     "published_at": "2026-09-23T01:53:06-07:00"
+     "published_at": "2026-09-29T00:59:44-07:00"
     },
     {
-     "title": "Duck Hunting Sweatshirt | Minimalist Mallard Badge Camo Sweatshirt | Duck Hunter Gift",
-     "handle": "duck-hunting-sweatshirt-minimalist-mallard-badge-camo-sweatshirt-duck-hunter-gift",
+     "title": "Crow Camo Hoodie – Black Crow Hunting Camouflage All-Over Print Unisex Pullover, Crow Hunter Gift",
+     "handle": "crow-camo-hoodie-black-crow-hunting-camouflage-all-over-print-unisex-pullover-crow-hunter-gift",
      "type": "",
      "tags": [],
      "price": "69.95",
-     "published_at": "2026-09-22T23:45:55-07:00"
+     "published_at": "2026-09-29T00:50:14-07:00"
     },
     {
-     "title": "Whitetail Deer Camo Sweatshirt | Hunting Sweatshirt for Him | Deer Hunter Gift",
-     "handle": "whitetail-deer-camo-sweatshirt-hunting-sweatshirt-for-him-deer-hunter-gift",
+     "title": "Possum Hunting Camo Hoodie – Opossum Woodland Camouflage All-Over Print Unisex Pullover, Hunter Gift",
+     "handle": "possum-hunting-camo-hoodie-opossum-woodland-camouflage-all-over-print-unisex-pullover-hunter-gift",
      "type": "",
      "tags": [],
      "price": "69.95",
-     "published_at": "2026-09-22T20:04:42-07:00"
+     "published_at": "2026-09-29T00:41:53-07:00"
     }
    ]
   },
@@ -2636,59 +2655,56 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Feral Boar Fall Forest Polo Shirt VCE1022",
-     "handle": "feral-boar-fall-forest-hawaiian-shirt-vce1022",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-09-24T01:52:18-06:00"
+     "title": "Winter Thicken Men Camo Suit Waterproof Tactical Training Set Multi-pocket Hooded Jacket Fleece Pants Outdoor Hunting 2-piece",
+     "handle": "winter-thicken-men-camo-suit-waterproof-tactical-training-set-multi-pocket-hooded-jacket-fleece-pants-outdoor-hunting-2-piece",
+     "type": "",
+     "tags": [],
+     "price": "159.00",
+     "published_at": "2026-09-28T21:44:00-06:00"
     },
     {
-     "title": "Wild Boar Camouflage Hunting Polo Shirt VCE1021",
-     "handle": "wild-boar-camouflage-hunting-polo-shirt-vce1021",
-     "type": "Polo Shirt",
+     "title": "Winter Camouflage Fleece Lining Warm Hunting Boots Men's Outdoor Non-Slip Waterproof Snow Shoes Hiking Mountaineering Boots",
+     "handle": "winter-camouflage-fleece-lining-warm-hunting-boots-mens-outdoor-non-slip-waterproof-snow-shoes-hiking-mountaineering-boots",
+     "type": "Hunting Boots",
      "tags": [
-      "Fishing",
-      "Polo Shirt"
+      "Footwear",
+      "Hunting Boots"
      ],
-     "price": "39.99",
-     "published_at": "2026-09-24T01:44:31-06:00"
+     "price": "74.99",
+     "published_at": "2026-09-28T21:21:58-06:00"
     },
     {
-     "title": "Feral Boar Woodland Hunting Camo Polo Shirt VCE1019",
-     "handle": "feral-boar-woodland-hunting-camo-hawaiian-shirt-vce1019",
-     "type": "Polo Shirt",
+     "title": "Camouflage Hunting Boots Men's High-Top Breathable Tactical Shoes Outdoor Hiking Wear-Resistant Waterproof Mountaineering Boots",
+     "handle": "camouflage-hunting-boots-mens-high-top-breathable-tactical-shoes-outdoor-hiking-wear-resistant-waterproof-mountaineering-boots",
+     "type": "Hunting Boots",
      "tags": [
-      "Fishing",
-      "Polo Shirt"
+      "Footwear",
+      "Hunting Boots"
      ],
-     "price": "39.99",
-     "published_at": "2026-09-24T01:39:58-06:00"
+     "price": "74.49",
+     "published_at": "2026-09-28T21:21:56-06:00"
     },
     {
-     "title": "Feral Boar Camouflage Polo Shirt VCE1018",
-     "handle": "feral-boar-camouflage-polo-shirt-vce1018",
-     "type": "Polo Shirt",
+     "title": "Summer Lightweight Breathable Desert Tactical Boots Shock Absorbing Hunting Shoes Men Women's CQB Special Military Boots",
+     "handle": "summer-lightweight-breathable-desert-tactical-boots-shock-absorbing-hunting-shoes-men-womens-cqb-special-military-boots",
+     "type": "Hunting Boots",
      "tags": [
-      "Fishing",
-      "Polo Shirt"
+      "Footwear",
+      "Hunting Boots"
      ],
-     "price": "39.99",
-     "published_at": "2026-09-24T01:37:36-06:00"
+     "price": "94.49",
+     "published_at": "2026-09-28T21:21:55-06:00"
     },
     {
-     "title": "Camouflage Wild Boar Hunting Polo Shirt VCE1018",
-     "handle": "camouflage-wild-boar-hunting-polo-shirt-vce1018",
-     "type": "Polo Shirt",
+     "title": "Panama Desert Tactical Boots Men's Camouflage Hunting Boots Outdoor Off Road Training Shoes Hiking Mountaineering Boots",
+     "handle": "panama-desert-tactical-boots-mens-camouflage-hunting-boots-outdoor-off-road-training-shoes-hiking-mountaineering-boots",
+     "type": "Hunting Boots",
      "tags": [
-      "Fishing",
-      "Polo Shirt"
+      "Footwear",
+      "Hunting Boots"
      ],
-     "price": "39.99",
-     "published_at": "2026-09-24T01:34:42-06:00"
+     "price": "79.49",
+     "published_at": "2026-09-28T21:21:53-06:00"
     }
    ]
   },
