@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-09-30",
- "fetched_at": "2026-09-30T04:15:03.072916+07:00",
+ "date": "2026-10-01",
+ "fetched_at": "2026-10-01T04:15:03.558155+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "Today is the Feast Day of St. Padre Pio, receiver of Christ’s stigmata. St Pio, pray for us!!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wo3dmw/today_is_the_feast_day_of_st_padre_pio_receiver/",
-     "selftext_head": ""
-    },
     {
      "title": "[Free Friday] The jawbone of Blessed Fulton Sheen, now on display for veneration (image credit: Tim Stanley).",
      "score": null,
@@ -46,6 +37,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Feast of the Holy Archangels Michael, Raphael, and Gabriel.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wt76br/feast_of_the_holy_archangels_michael_raphael_and/",
+     "selftext_head": ""
+    },
+    {
      "title": "My Prayer Corner 😁",
      "score": null,
      "num_comments": null,
@@ -70,15 +70,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wonixl/went_to_adoration_for_the_first_time_as_a_non/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Feast of the Holy Archangels Michael, Raphael, and Gabriel.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wt76br/feast_of_the_holy_archangels_michael_raphael_and/",
      "selftext_head": ""
     },
     {
@@ -118,15 +109,6 @@
      "selftext_head": ""
     },
     {
-     "title": "I saw Pope Leo today at the Papal General Audience at the Vatican",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wog1vo/i_saw_pope_leo_today_at_the_papal_general/",
-     "selftext_head": ""
-    },
-    {
      "title": "[Free Friday]Chapel on the USS Wisconsin",
      "score": null,
      "num_comments": null,
@@ -142,6 +124,24 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wq0mca/the_altar_of_the_crucifixion_at_the_church_of_the/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Saint Gemma Galgani is a total bada**",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wr86o0/saint_gemma_galgani_is_a_total_bada/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[ free friday ] I digital paint done by me, St Michael - inspired",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpt88f/free_friday_i_digital_paint_done_by_me_st_michael/",
      "selftext_head": ""
     }
    ]
@@ -163,13 +163,13 @@
   ],
   "rosary bracelet": [
    "rosary bracelet",
-   "rosary bracelet mens",
    "rosary bracelet women",
+   "rosary bracelet mens",
    "rosary bracelet gold",
    "rosary bracelet silver",
    "rosary bracelet magnetic",
-   "rosary bracelet pattern",
    "rosary bracelet tattoo",
+   "rosary bracelet pattern",
    "rosary bracelet near me",
    "rosary bracelet meaning"
   ],
@@ -177,10 +177,10 @@
    "christian gift for her",
    "christian gift ideas for her",
    "christian dior gift for her",
-   "christian valentines gift for her",
    "christian gift box for her",
-   "christian jewelry gift for her",
+   "christian valentines gift for her",
    "christian christmas gift for her",
+   "christian jewelry gift for her",
    "christian gift for wife",
    "christian gift for women amazon",
    "christian gift for wife birthday"
@@ -253,8 +253,8 @@
    "catholic wedding gift for wife",
    "catholic wedding gifts personalized",
    "catholic wedding gift ideas for couple",
-   "catholic wedding gift bearers",
    "catholic wedding gifts for bride",
+   "catholic wedding gift bearers",
    "catholic wedding gift for husband"
   ],
   "christian tote bag": [
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "earthquake seattle",
-  "tsa",
-  "devin neal",
-  "mlb scores today",
-  "nhl schedule",
-  "trump administration third-country deportations",
-  "baseball",
-  "trump accounts child enrollment regulations",
-  "don mattingly",
-  "jerry colangelo"
+  "alec bohm",
+  "white sox - astros",
+  "northern lights",
+  "vaccine",
+  "drake baldwin",
+  "karl-anthony towns",
+  "dunkin halloween menu",
+  "andrew painter",
+  "googl stock",
+  "phil mickelson"
  ],
  "errors": []
 }
