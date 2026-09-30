@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-09-30",
- "fetched_at": "2026-09-30T04:45:02.978411+07:00",
+ "date": "2026-10-01",
+ "fetched_at": "2026-10-01T04:45:03.389328+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "Scottie concedes 32-foot putt to halve the hole as a goodwill gesture to Echavarria after a fan yells during Nico's backswing",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wruuma/scottie_concedes_32foot_putt_to_halve_the_hole_as/",
-     "selftext_head": ""
-    },
     {
      "title": "Golfing in the Rocky Mountains",
      "score": null,
@@ -25,6 +16,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wsgk2z/golfing_in_the_rocky_mountains/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Scottie concedes 32-foot putt to halve the hole as a goodwill gesture to Echavarria after a fan yells during Nico's backswing",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wruuma/scottie_concedes_32foot_putt_to_halve_the_hole_as/",
      "selftext_head": ""
     },
     {
@@ -43,15 +43,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wruugb/fair_sportsmanship/",
-     "selftext_head": ""
-    },
-    {
-     "title": "155yd par 3. My heart was pounding for a moment there. It was a nice par though.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wnr5cj/155yd_par_3_my_heart_was_pounding_for_a_moment/",
      "selftext_head": ""
     },
     {
@@ -100,21 +91,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Fan deliberately kicks ball back into play (still deemed out of bounds)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wqyhud/fan_deliberately_kicks_ball_back_into_play_still/",
-     "selftext_head": ""
-    },
-    {
      "title": "Victor Hovland rips an INSANE driver off the deck. What an angle by the cameraman! Wow. 🤩",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wq82dn/victor_hovland_rips_an_insane_driver_off_the_deck/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Fan deliberately kicks ball back into play (still deemed out of bounds)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wqyhud/fan_deliberately_kicks_ball_back_into_play_still/",
      "selftext_head": ""
     },
     {
@@ -136,12 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "I hate to be a hater, but Bryson being in his wannabe golf Mr. beast era brings tears of joy to my eyes.",
+     "title": "Shout out to Ben. Be like Ben.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wohyin/i_hate_to_be_a_hater_but_bryson_being_in_his/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wtir1z/shout_out_to_ben_be_like_ben/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Same",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wsfgip/same/",
      "selftext_head": ""
     }
    ]
@@ -176,8 +176,8 @@
   "golf bachelor party shirt": [
    "golf bachelor party shirts",
    "golf bachelor party shirt ideas",
-   "funny golf bachelor party shirts",
    "golf bachelor party t shirts",
+   "funny golf bachelor party shirts",
    "golf themed bachelor party shirts",
    "custom bachelor party golf shirts",
    "mens bachelor party golf shirts",
@@ -209,8 +209,8 @@
    "custom golf polo shirts uk"
   ],
   "golf tournament gift": [
-   "golf tournament gift ideas",
    "golf tournament gifts",
+   "golf tournament gift ideas",
    "golf tournament gift bag ideas",
    "golf tournament gifts under $10",
    "golf tournament gifts for players",
@@ -238,9 +238,9 @@
    "golf towel fun",
    "golf ball towel funny",
    "golf bag towel funny",
-   "golf club towel funny",
    "amazon golf towel funny",
    "disc golf towel funny",
+   "golf club towel funny",
    "magnetic golf towel funny",
    "golf towels with funny sayings"
   ],
@@ -248,12 +248,12 @@
    "bachelor party golf trips",
    "bachelor party golf balls",
    "bachelor party golf shirts",
-   "bachelor party golf gifts",
    "bachelor party golf ideas",
+   "bachelor party golf gifts",
    "bachelor party golf games",
    "bachelor party golf hats",
+   "bachelor party golf packages",
    "bachelor party golf polos",
-   "bachelor party golf theme",
    "bachelor party golf"
   ],
   "golf gift for boss": [
@@ -268,11 +268,11 @@
    "golf apparel funny",
    "golf shirts funny",
    "golf shirts funny men",
-   "golf shirt funny pattern",
    "golf clothing funny",
+   "golf shirt funny pattern",
    "golf shirts funny women",
-   "golf shirts funny australia",
    "golf shirts funny print",
+   "golf shirts funny australia",
    "golf shirts funny amazon",
    "golf shirts funny sayings"
   ],
@@ -282,24 +282,24 @@
    "hawaiian golf shirts for women",
    "hawaiian golf shirts amazon",
    "hawaiian golf shirts australia",
-   "hawaiian golf shirts canada",
    "hawaiian golf shirts near me",
+   "hawaiian golf shirts canada",
    "hawaiian golf shirts nearby",
    "hawaiian golf shirt brand",
    "hawaiian golf shirts for couples"
   ]
  },
  "trends": [
-  "sox",
-  "trader joe&apos;s halloween bag release",
-  "kevin zeitler",
-  "charles kelley",
-  "usa vs chile",
-  "earthquakes today",
-  "tsa",
-  "mlb scores today",
-  "devin neal",
-  "nhl schedule"
+  "astros",
+  "caitlin clark indiana fever playoff performance",
+  "tj maxx closing",
+  "lawsuit",
+  "karl-anthony towns",
+  "dunkin halloween menu",
+  "vaccine",
+  "northern lights",
+  "drake baldwin",
+  "googl stock"
  ],
  "errors": []
 }
