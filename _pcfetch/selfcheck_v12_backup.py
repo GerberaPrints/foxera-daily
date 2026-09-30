@@ -77,7 +77,7 @@ Ma thoat: 0 = khong co gi can nguoi · 1 = co viec can nguoi
 import json, os, sys, re, time, shutil, difflib
 from datetime import datetime, timezone, timedelta
 
-VERSION = "1.3"
+VERSION = "1.2"
 TZ = timezone(timedelta(hours=7))
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -361,63 +361,18 @@ def check_project(project, today, do_heal=True):
 
 # ─────────────────── v1.2: file ngoai du an ───────────────────
 
-def _days_between(d1, d2):
-    """So ngay giua hai chuoi YYYY-MM-DD. Tra None neu khong parse duoc."""
-    try:
-        a = datetime.strptime(d1, "%Y-%m-%d")
-        b = datetime.strptime(d2, "%Y-%m-%d")
-        return (b - a).days
-    except Exception:
-        return None
-
-
-def check_watchlist(today, now=None):
+def check_watchlist(today):
     """Kiem cac file BUOC PHAI tuoi nhung khong thuoc project nao.
 
     Doc _pcfetch/watch.json:
       [{"file": "gerbera-live-fetch.json",
         "vi_sao": "ban tin Gerbera doc file nay",
         "sinh_boi": "gerbera_fetch.py luc 06:45",
-        "san_sang_luc": "06:45",          <-- v1.3, xem duoi
-        "hong_tu_ngay": "2026-08-22",     <-- v1.3, xem duoi
         "sua": "schtasks /Query /TN \"...\" /V /FO LIST | findstr \"Last Result\""}]
 
     Khong co watch.json -> tra ve [] va im lang. Day la tinh nang THEM,
     khong duoc lam gay ban chay cu.
-
-    =================== v1.3 — 30/09/2026 ===================
-    VA HAI LOI LAM HONG CHINH CONG CU NAY (ca hai deu la BAO DONG SAI):
-
-    (1) CHAM FILE TRUOC KHI NGUOI SINH RA NO KIP CHAY.
-        v1.2 so thang `date != today` ma KHONG he biet producer chay luc may
-        gio. gerbera-live-fetch.json do task 'Gerbera PC Fetch' sinh luc 06:45,
-        nhung selfcheck chay 04:45 va watchdog cloud chay 06:15 — ca hai deu
-        SOM HON producer. Ket qua: muc nay FAIL mo^~i nga`y, vinh vien, du
-        khong co gi hong. Ngay 30/09 da xac minh: file ghi date 2026-09-29 voi
-        fetched_at 2026-09-29T06:45:03+07 => dung y nhu thiet ke.
-        => Them "san_sang_luc": "HH:MM" (gio dia phuong TZ, tuc gio Bangkok).
-           Neu BAY GIO con som hon moc do VA file dang la cua HOM QUA thi day
-           la CHUA DEN GIO, khong phai hong. Ghi trang thai CHUA_DEN_GIO,
-           KHONG sinh need_human.
-        Muc watch KHONG khai san_sang_luc thi giu nguyen hanh vi cu (so voi
-        today) — khong lam gay cau hinh da co.
-
-    (2) LA DI LA LAI VE CUNG MOT CHO HONG SUOT NHIEU TUAN.
-        gerbera-market.json dung tu 22/08 va foxera-job.json tu 03/08. Moi
-        sang watchdog deu bao lai y het nhau. Bao dong lap lai khong them
-        thong tin chinh la thu lam nguoi ta thoi doc bao dong (luat S17).
-        => Them "hong_tu_ngay": "YYYY-MM-DD". Muc da khai thi ha xuong
-           KNOWN_STALE: van hien tren bang, van vao health.json muc
-           "known_stale" kem so ngay, nhung KHONG vao need_human moi ngay.
-           NGOAI TRU: cu moi 7 ngay ke tu hong_tu_ngay thi day len need_human
-           mot lan (nhac dinh ky), va neu file BIEN MAT hoac HONG PARSE thi
-           bao ngay lap tuc — do la tinh huong MOI, khac voi "van cu".
-        Quan trong: hong_tu_ngay KHONG phai de giau loi. No la de phan biet
-        "hom nay co chuyen moi" voi "van cai cu hom qua da biet". Muc nao het
-        hong thi XOA khoa nay di, dung de lai.
-    =========================================================
     """
-    now = now or datetime.now(TZ)
     wp = os.path.join(HERE, "watch.json")
     if not os.path.exists(wp):
         return []
@@ -426,83 +381,39 @@ def check_watchlist(today, now=None):
     except Exception as e:
         return [{"project": "watch.json", "status": "FAIL", "checks": ["FAIL doc khong duoc: %s" % e],
                  "healed": [], "need_human": ["watch.json hong, sua lai cho dung JSON"]}]
-    yesterday = (now - timedelta(days=1)).strftime("%Y-%m-%d")
-    hhmm = now.strftime("%H:%M")
     reps = []
     for it in items:
         name = it.get("file")
         r = {"project": "[watch] " + str(name), "checks": [], "healed": [],
              "need_human": [], "status": "OK"}
         fp = os.path.join(ROOT, name or "")
-
-        # File BIEN MAT hoac HONG PARSE = tinh huong MOI => bao ngay, ke ca
-        # muc da khai hong_tu_ngay. "Cu" khac "mat han".
         if not name or not os.path.exists(fp):
             r["status"] = "FAIL"
             r["checks"].append("FAIL khong co file")
             r["need_human"].append("%s: khong ton tai. %s" % (name, it.get("sua", "")))
-            reps.append(r); continue
-        try:
-            d = json.load(open(fp, encoding="utf-8"))
-        except Exception as e:
-            r["status"] = "FAIL"; r["checks"].append("FAIL doc loi")
-            r["need_human"].append("%s: doc khong duoc (%s)" % (name, e))
-            reps.append(r); continue
-
-        got = d.get("date")
-        if got != today:
-            ready = it.get("san_sang_luc")
-            # --- (1) CHUA DEN GIO producer chay ---
-            if ready and hhmm < str(ready) and got == yesterday:
-                r["status"] = "CHUA_DEN_GIO"
-                r["checks"].append("OK chua den gio (producer %s, bay gio %s)"
-                                   % (ready, hhmm))
-                r["ready_at"] = ready
-                reps.append(r); continue
-
-            stale_since = it.get("hong_tu_ngay")
-            ndays = _days_between(stale_since, today) if stale_since else None
-            # --- (2) DA BIET HONG TU TRUOC => digest, khong bao moi ngay ---
-            if stale_since and ndays is not None and ndays > 0:
-                r["status"] = "KNOWN_STALE"
-                r["stale_since"] = stale_since
-                r["stale_days"] = ndays
-                r["checks"].append("KNOWN_STALE cu: %s (%d ngay, da biet)"
-                                   % (got, ndays))
-                # nhac dinh ky moi 7 ngay — de khong bao gio bi quen han
-                if ndays % 7 == 0:
-                    r["need_human"].append(
-                        "[NHAC DINH KY %d ngay] %s van dung o %s — %s. "
-                        "Sinh boi: %s. Kiem: %s"
-                        % (ndays, name, got, it.get("vi_sao", ""),
-                           it.get("sinh_boi", "?"), it.get("sua", "?")))
-                reps.append(r); continue
-
-            # --- hong MOI => bao that to, day la cai dang can nguoi ---
-            r["status"] = "FAIL"
-            r["checks"].append("FAIL cu: %s" % got)
-            r["need_human"].append(
-                "%s dung o %s (hom nay %s) — %s. Sinh boi: %s. Kiem: %s"
-                % (name, got, today, it.get("vi_sao", ""),
-                   it.get("sinh_boi", "?"), it.get("sua", "?")))
         else:
-            r["checks"].append("OK = hom nay")
-            # File da tuoi tro lai ma watch.json van khai hong_tu_ngay =>
-            # nhac nguoi XOA khoa do, khong de cau hinh noi doi ve hien trang.
-            if it.get("hong_tu_ngay"):
+            try:
+                d = json.load(open(fp, encoding="utf-8"))
+            except Exception as e:
+                r["status"] = "FAIL"; r["checks"].append("FAIL doc loi")
+                r["need_human"].append("%s: doc khong duoc (%s)" % (name, e)); reps.append(r); continue
+            got = d.get("date")
+            if got != today:
+                r["status"] = "FAIL"
+                r["checks"].append("FAIL cu: %s" % got)
                 r["need_human"].append(
-                    "%s DA TUOI TRO LAI (date = %s) nhung watch.json van khai "
-                    "hong_tu_ngay=%s. Xoa khoa do khoi watch.json, neu khong lan "
-                    "hong that ke tiep se bi ha cap nham thanh 'da biet'."
-                    % (name, got, it.get("hong_tu_ngay")))
-
-        src = d.get("source") or d.get("producer")
-        want = it.get("sinh_boi_khoa")
-        if want and src and want not in str(src):
-            r["status"] = "FAIL"
-            r["need_human"].append(
-                "%s: nguon la '%s' chu khong phai '%s' => co the da bi duong "
-                "ong KHAC ghi de. Kiem ngay." % (name, src, want))
+                    "%s dung o %s (hom nay %s) — %s. Sinh boi: %s. Kiem: %s"
+                    % (name, got, today, it.get("vi_sao", ""),
+                       it.get("sinh_boi", "?"), it.get("sua", "?")))
+            else:
+                r["checks"].append("OK = hom nay")
+            src = d.get("source") or d.get("producer")
+            want = it.get("sinh_boi_khoa")
+            if want and src and want not in str(src):
+                r["status"] = "FAIL"
+                r["need_human"].append(
+                    "%s: nguon la '%s' chu khong phai '%s' => co the da bi duong "
+                    "ong KHAC ghi de. Kiem ngay." % (name, src, want))
         reps.append(r)
     return reps
 
@@ -511,8 +422,7 @@ def check_watchlist(today, now=None):
 
 def main():
     only = sys.argv[1].strip().lower() if len(sys.argv) > 1 else None
-    now = datetime.now(TZ)
-    today = now.strftime("%Y-%m-%d")
+    today = datetime.now(TZ).strftime("%Y-%m-%d")
     projects = sorted(f[:-5] for f in os.listdir(PROJDIR)
                       if f.endswith(".json") and not f.startswith("_"))
     # v1.1 — KHONG con loc danh sach theo tham so nua.
@@ -548,7 +458,7 @@ def main():
             print("   TU VA: " + h)
 
     # v1.2 — file ngoai du an
-    wreps = check_watchlist(today, now)
+    wreps = check_watchlist(today)
     for r in wreps:
         reps.append(r); need += r["need_human"]
         note = "; ".join(c for c in r["checks"] if not c.startswith("OK")) or "sach"
