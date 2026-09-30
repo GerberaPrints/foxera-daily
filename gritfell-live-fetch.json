@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-09-30",
- "fetched_at": "2026-09-30T04:30:02.921401+07:00",
+ "date": "2026-10-01",
+ "fetched_at": "2026-10-01T04:30:02.927509+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 167,
@@ -1763,6 +1763,7 @@
       "hats-tees",
       "headwear",
       "lifestyle",
+      "logowear",
       "logowear-hats",
       "mens",
       "womens"
@@ -1921,6 +1922,19 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Clayton Quilted Jacket",
+     "handle": "clayton-quilted-jacket",
+     "type": "Outerwear",
+     "tags": [
+      "FW2026ZR",
+      "MENZR",
+      "MJACKETZR",
+      "MNEWZR"
+     ],
+     "price": "595.00",
+     "published_at": "2026-09-30T15:10:07-05:00"
+    },
+    {
      "title": "Red Wing Weekender Chelsea Boot",
      "handle": "red-wing-weekender-chelsea-boot",
      "type": "Footwear",
@@ -1983,25 +1997,6 @@
      ],
      "price": "595.00",
      "published_at": "2026-09-15T15:25:22-05:00"
-    },
-    {
-     "title": "Westport Wool Overshirt",
-     "handle": "westport-wool-overshirt",
-     "type": "Shirting",
-     "tags": [
-      "field sport",
-      "FW2026ZR",
-      "HUNTZR",
-      "MENZR",
-      "MFIELDZR",
-      "MJACKETZR",
-      "MNEWZR",
-      "MSHIRTZR",
-      "MSWEATLAYZR",
-      "WOOLZR"
-     ],
-     "price": "450.00",
-     "published_at": "2026-09-15T14:44:01-05:00"
     }
    ]
   },
@@ -2174,6 +2169,7 @@
      "type": "WOMENS BIBS",
      "tags": [
       "__tab2:womens-barricade-bib-sizing",
+      "COMINGSOON",
       "FA26",
       "NEW",
       "NEW-TAG",
@@ -2192,6 +2188,66 @@
   "Drake Waterfowl": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Campfire Canvas Bomber Jacket",
+     "handle": "campfire-canvas-bomber-jacket",
+     "type": "Jackets & Vests",
+     "tags": [
+      "alt_text",
+      "AW26 Catalog",
+      "AW26_NEW",
+      "master_list_new_arrivals_26",
+      "new"
+     ],
+     "price": "129.99",
+     "published_at": "2026-09-30T11:03:37-05:00"
+    },
+    {
+     "title": "Non-Typical Slacker Quarter Zip Hoodie",
+     "handle": "slacker-quarter-zip-hoodie-copy",
+     "type": "Hoodies & Pullovers",
+     "tags": [
+      "alt_text",
+      "AW26 Catalog",
+      "AW26_NEW",
+      "BFCM2026",
+      "HOL_26 Flyer",
+      "master_list_new_arrivals_26",
+      "new"
+     ],
+     "price": "119.99",
+     "published_at": "2026-09-30T11:01:34-05:00"
+    },
+    {
+     "title": "Non-Typical Down Vest with Agion Active X2",
+     "handle": "non-typical-down-vest-with-agion-active-x2",
+     "type": "Jackets & Vests",
+     "tags": [
+      "alt_text",
+      "AW26 Catalog",
+      "AW26 Price Tracking",
+      "AW26_NEW",
+      "master_list_new_arrivals_26",
+      "new"
+     ],
+     "price": "179.99",
+     "published_at": "2026-09-30T10:52:07-05:00"
+    },
+    {
+     "title": "Non-Typical Down Jacket with Agion Active X2",
+     "handle": "non-typical-down-jacket-with-agion-active-x2",
+     "type": "Jackets & Vests",
+     "tags": [
+      "alt_text",
+      "AW26 Catalog",
+      "AW26 Price Tracking",
+      "AW26_NEW",
+      "master_list_new_arrivals_26",
+      "new"
+     ],
+     "price": "249.99",
+     "published_at": "2026-09-30T10:50:52-05:00"
+    },
     {
      "title": "MST Endurance Hoodie With Kangaroo Pouch",
      "handle": "mst-endurance-hoodie-with-kangaroo-pouch",
@@ -2228,94 +2284,6 @@
      ],
      "price": "119.99",
      "published_at": "2026-09-29T12:57:22-05:00"
-    },
-    {
-     "title": "MST Youth Eqwader Quarter Zip Jacket",
-     "handle": "youth-mst-ewader-quarter-zip",
-     "type": "Jackets & Vests",
-     "tags": [
-      "- $50 - $100",
-      "- pullovers",
-      "20171031-MST-Youth",
-      "alt_text",
-      "AW25 Catalog",
-      "AW26 Catalog",
-      "bestseller_24",
-      "bestseller_nov",
-      "bfcm2024",
-      "early season teal",
-      "eqwader",
-      "Eqwader Hybrid System",
-      "hoodies",
-      "hoodies & pullover",
-      "insulated",
-      "JACKET & VEST CATEGORY - JACKETS",
-      "jackets",
-      "jackets-vests",
-      "Jackets_Vests_Hoodies",
-      "mst jackets",
-      "mst-mid-season-technology",
-      "new_color:Mossy Oak Original Shadow Grass",
-      "Qtr_Zip_Eqwaders",
-      "r26",
-      "top rated",
-      "top seller 2026",
-      "VERTICAL MAGNATTACH POCKET",
-      "warm weather gear list",
-      "waterfowl",
-      "waterproof",
-      "YGroup_mstyoutheqwader",
-      "youth",
-      "Youth Apparel - Keep-em-Dry-and-Warm",
-      "youth-casual",
-      "youth-featured",
-      "youth-hunting-gear"
-     ],
-     "price": "99.99",
-     "published_at": "2026-09-25T09:20:00-05:00"
-    },
-    {
-     "title": "Drake x Lost Hat BMF Goat Rope Cap",
-     "handle": "drake-x-lost-hat-bmf-goat-rope-cap",
-     "type": "Headwear",
-     "tags": [
-      "alt_text",
-      "AW26 Catalog",
-      "AW26_NEW",
-      "new"
-     ],
-     "price": "39.99",
-     "published_at": "2026-09-23T08:56:56-05:00"
-    },
-    {
-     "title": "Black Lab Print Hoodie",
-     "handle": "black-lab-print-hoodie",
-     "type": "Hoodies & Pullovers",
-     "tags": [
-      "AW26 Catalog",
-      "AW26_NEW",
-      "jackets-vests",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new"
-     ],
-     "price": "49.99",
-     "published_at": "2026-09-23T08:47:48-05:00"
-    },
-    {
-     "title": "Mallard Circle Logo Hoodie",
-     "handle": "mallard-circle-logo-hoodie",
-     "type": "Hoodies & Pullovers",
-     "tags": [
-      "AW26 Catalog",
-      "AW26_NEW",
-      "jackets-vests",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new"
-     ],
-     "price": "49.99",
-     "published_at": "2026-09-23T08:44:41-05:00"
     }
    ]
   },
@@ -2434,6 +2402,28 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Toddler + Youth Crocs Classic Clog - Classic Deer Camo",
+     "handle": "toddler-youth-crocs-classic-clog-classic-deer-camo",
+     "type": "Footwear",
+     "tags": [
+      "9/29/26",
+      "Accessories",
+      "B2B_Active",
+      "B2B_Sync",
+      "classic-deer-camo",
+      "Crocs",
+      "Footwear",
+      "pdqreview",
+      "retail",
+      "Toddler",
+      "wholesale",
+      "wrapped:blocks:include",
+      "Youth"
+     ],
+     "price": "44.99",
+     "published_at": "2026-09-29T17:30:42-05:00"
+    },
+    {
      "title": "Toddler Crocs Classic Clog - Classic Deer Camo",
      "handle": "toddler-crocs-classic-clog-classic-deer-camo",
      "type": "Footwear",
@@ -2522,16 +2512,6 @@
      ],
      "price": "59.00",
      "published_at": "2026-09-22T14:04:17-05:00"
-    },
-    {
-     "title": "Father and Son Bundle - Vintage Washed Hoodie - Classic Deer Camo",
-     "handle": "father-and-son-bundle-vintage-washed-fleece-hoodie-classic-deer-camo",
-     "type": "Bundle",
-     "tags": [
-      "8/13/26"
-     ],
-     "price": "111.00",
-     "published_at": "2026-09-22T13:27:36-05:00"
     }
    ]
   },
@@ -2551,7 +2531,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2636000",
+     "price": "2635000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2564,7 +2544,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5272000",
+     "price": "5271000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2601,7 +2581,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1582000",
+     "price": "1581000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2655,56 +2635,59 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Winter Thicken Men Camo Suit Waterproof Tactical Training Set Multi-pocket Hooded Jacket Fleece Pants Outdoor Hunting 2-piece",
-     "handle": "winter-thicken-men-camo-suit-waterproof-tactical-training-set-multi-pocket-hooded-jacket-fleece-pants-outdoor-hunting-2-piece",
-     "type": "",
-     "tags": [],
-     "price": "159.00",
-     "published_at": "2026-09-28T21:44:00-06:00"
+     "title": "Custom Name Fishing Team Polo Shirt VCE1027",
+     "handle": "custom-name-fishing-team-polo-shirt-vce1027",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-09-30T04:26:02-06:00"
     },
     {
-     "title": "Winter Camouflage Fleece Lining Warm Hunting Boots Men's Outdoor Non-Slip Waterproof Snow Shoes Hiking Mountaineering Boots",
-     "handle": "winter-camouflage-fleece-lining-warm-hunting-boots-mens-outdoor-non-slip-waterproof-snow-shoes-hiking-mountaineering-boots",
-     "type": "Hunting Boots",
+     "title": "Custom Name Deep Sea Fishing Polo Shirt VCE1026",
+     "handle": "custom-name-deep-sea-fishing-polo-shirt-vce1026",
+     "type": "Polo Shirt",
      "tags": [
-      "Footwear",
-      "Hunting Boots"
+      "Fishing",
+      "Polo Shirt"
      ],
-     "price": "74.99",
-     "published_at": "2026-09-28T21:21:58-06:00"
+     "price": "39.99",
+     "published_at": "2026-09-30T04:15:10-06:00"
     },
     {
-     "title": "Camouflage Hunting Boots Men's High-Top Breathable Tactical Shoes Outdoor Hiking Wear-Resistant Waterproof Mountaineering Boots",
-     "handle": "camouflage-hunting-boots-mens-high-top-breathable-tactical-shoes-outdoor-hiking-wear-resistant-waterproof-mountaineering-boots",
-     "type": "Hunting Boots",
+     "title": "Custom Name Deep Sea Fishing Polo Shirt VCE1025",
+     "handle": "custom-name-deep-sea-fishing-polo-shirt-vce1025",
+     "type": "Polo Shirt",
      "tags": [
-      "Footwear",
-      "Hunting Boots"
+      "Fishing",
+      "Polo Shirt"
      ],
-     "price": "74.49",
-     "published_at": "2026-09-28T21:21:56-06:00"
+     "price": "39.99",
+     "published_at": "2026-09-30T03:23:39-06:00"
     },
     {
-     "title": "Summer Lightweight Breathable Desert Tactical Boots Shock Absorbing Hunting Shoes Men Women's CQB Special Military Boots",
-     "handle": "summer-lightweight-breathable-desert-tactical-boots-shock-absorbing-hunting-shoes-men-womens-cqb-special-military-boots",
-     "type": "Hunting Boots",
+     "title": "Blue Marlin Fishing Polo Shirt VCE1024",
+     "handle": "blue-marlin-fishing-polo-shirt-vce1024",
+     "type": "Polo Shirt",
      "tags": [
-      "Footwear",
-      "Hunting Boots"
+      "Fishing",
+      "Polo Shirt"
      ],
-     "price": "94.49",
-     "published_at": "2026-09-28T21:21:55-06:00"
+     "price": "39.99",
+     "published_at": "2026-09-30T03:02:21-06:00"
     },
     {
-     "title": "Panama Desert Tactical Boots Men's Camouflage Hunting Boots Outdoor Off Road Training Shoes Hiking Mountaineering Boots",
-     "handle": "panama-desert-tactical-boots-mens-camouflage-hunting-boots-outdoor-off-road-training-shoes-hiking-mountaineering-boots",
-     "type": "Hunting Boots",
+     "title": "Custom American Flag Fishing Polo Shirt VCE1023",
+     "handle": "custom-american-flag-fishing-polo-shirt-vce1023",
+     "type": "Polo Shirt",
      "tags": [
-      "Footwear",
-      "Hunting Boots"
+      "Fishing",
+      "Polo Shirt"
      ],
-     "price": "79.49",
-     "published_at": "2026-09-28T21:21:53-06:00"
+     "price": "39.99",
+     "published_at": "2026-09-30T02:47:47-06:00"
     }
    ]
   },
