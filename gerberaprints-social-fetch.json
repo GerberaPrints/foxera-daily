@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-01",
- "fetched_at": "2026-10-01T13:43:22.563398+07:00",
+ "date": "2026-10-02",
+ "fetched_at": "2026-10-02T04:45:03.680242+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -64,15 +64,6 @@
      "selftext_head": ""
     },
     {
-     "title": "S. H. Kim. One of the unluckiest breaks in golf history. 🤣",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wpc379/s_h_kim_one_of_the_unluckiest_breaks_in_golf/",
-     "selftext_head": ""
-    },
-    {
      "title": "Casually filming swings to improve, and caught my buddy hitting this ace (volume up, definitely some shouting and cursing).",
      "score": null,
      "num_comments": null,
@@ -118,6 +109,24 @@
      "selftext_head": ""
     },
     {
+     "title": "British speedgolf champ Rob Hogan (aka Marooch) has a pretty great beard",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wuit2n/british_speedgolf_champ_rob_hogan_aka_marooch_has/",
+     "selftext_head": ""
+    },
+    {
+     "title": "California Governor signs law prohibiting tee time scalping (punishment of up to $2,500 per violation). Let's see if this actually works.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wtvceo/california_governor_signs_law_prohibiting_tee/",
+     "selftext_head": ""
+    },
+    {
      "title": "Clean sweep",
      "score": null,
      "num_comments": null,
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wrx1gg/presidents_cup_comeback_completethe_us_team/",
-     "selftext_head": ""
-    },
-    {
-     "title": "California Governor signs law prohibiting tee time scalping (punishment of up to $2,500 per violation). Let's see if this actually works.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wtvceo/california_governor_signs_law_prohibiting_tee/",
      "selftext_head": ""
     }
    ]
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "panama vs new zealand",
-  "quentin halys",
-  "franklin high school",
-  "lamelo ball",
-  "china open",
-  "frances tiafoe",
-  "jim carrey",
-  "florence pugh",
-  "mlb playoff picture",
-  "padres vs brewers"
+  "peso mexicano",
+  "donald trump time magazine interview",
+  "john wick",
+  "cronos venom band",
+  "big brother finale",
+  "ciara",
+  "damien shanklin",
+  "saints depth chart",
+  "servicio de control de inmigración y aduanas",
+  "travis etienne"
  ],
  "errors": []
 }
