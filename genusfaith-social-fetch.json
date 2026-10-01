@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-01",
- "fetched_at": "2026-10-01T13:43:22.572396+07:00",
+ "date": "2026-10-02",
+ "fetched_at": "2026-10-02T04:15:03.120874+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -43,6 +43,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wt76br/feast_of_the_holy_archangels_michael_raphael_and/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Feast day of Saint Thérèse of the Child Jesus",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wum09g/feast_day_of_saint_thérèse_of_the_child_jesus/",
      "selftext_head": ""
     },
     {
@@ -127,15 +136,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Feast day of Saint Thérèse of the Child Jesus",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wum09g/feast_day_of_saint_thérèse_of_the_child_jesus/",
-     "selftext_head": ""
-    },
-    {
      "title": "[ free friday ] I digital paint done by me, St Michael - inspired",
      "score": null,
      "num_comments": null,
@@ -181,9 +181,9 @@
    "christian valentines gift for her",
    "christian christmas gift for her",
    "christian jewelry gift for her",
+   "christian gift for women",
    "christian gift for wife",
-   "christian gift for women amazon",
-   "christian gift for wife birthday"
+   "christian gift for women amazon"
   ],
   "confirmation gift": [
    "confirmation gifts",
@@ -204,9 +204,9 @@
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
+   "baptism gifts for baby boy",
    "baptism gifts near me",
    "baptism gifts from godparents",
-   "baptism gifts for teen girl",
    "baptism gift from godmother"
   ],
   "catholic home decor": [
@@ -258,8 +258,7 @@
    "catholic wedding gift for husband"
   ],
   "christian tote bag": [
-   "christian tote bags",
-   "christian tote bags for women",
+   "christian tote bag",
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
@@ -293,16 +292,16 @@
   ]
  },
  "trends": [
-  "panama vs new zealand",
-  "quentin halys",
-  "franklin high school",
-  "lamelo ball",
-  "china open",
-  "frances tiafoe",
-  "jim carrey",
-  "florence pugh",
-  "mlb playoff picture",
-  "padres vs brewers"
+  "royal family news",
+  "big brother finale",
+  "damien shanklin",
+  "ciara",
+  "saints depth chart",
+  "servicio de control de inmigración y aduanas",
+  "travis etienne",
+  "aja wilson suspension",
+  "supplemental nutrition assistance program changes",
+  "nike stock"
  ],
  "errors": []
 }
