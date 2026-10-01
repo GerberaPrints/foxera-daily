@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-01",
- "fetched_at": "2026-10-01T13:43:22.590397+07:00",
+ "date": "2026-10-02",
+ "fetched_at": "2026-10-02T04:30:03.323694+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 167,
@@ -2197,7 +2197,9 @@
       "alt_text",
       "AW26 Catalog",
       "AW26_NEW",
+      "jackets-vests",
       "master_list_new_arrivals_26",
+      "mens",
       "new"
      ],
      "price": "129.99",
@@ -2213,7 +2215,9 @@
       "AW26_NEW",
       "BFCM2026",
       "HOL_26 Flyer",
+      "jackets-vests",
       "master_list_new_arrivals_26",
+      "mens",
       "new"
      ],
      "price": "119.99",
@@ -2228,7 +2232,9 @@
       "AW26 Catalog",
       "AW26 Price Tracking",
       "AW26_NEW",
+      "jackets-vests",
       "master_list_new_arrivals_26",
+      "mens",
       "new"
      ],
      "price": "179.99",
@@ -2243,7 +2249,9 @@
       "AW26 Catalog",
       "AW26 Price Tracking",
       "AW26_NEW",
+      "jackets-vests",
       "master_list_new_arrivals_26",
+      "mens",
       "new"
      ],
      "price": "249.99",
@@ -2291,6 +2299,52 @@
   "Free Fly": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Men's Headwind Jacket - Aspen Grey",
+     "handle": "mens-headwind-jacket-aspen-grey",
+     "type": "Men's",
+     "tags": [
+      "Arrival",
+      "collection::men",
+      "final-sale",
+      "final_sale",
+      "flag::final sale",
+      "listo-new-pdp",
+      "priority-product",
+      "Pro-Exclude-Discount",
+      "product_style: Mens Headwind Jacket",
+      "returns::none"
+     ],
+     "price": "40.00",
+     "published_at": "2026-10-01T13:49:53-04:00"
+    },
+    {
+     "title": "Men's Elevate Hoodie - Shale Green",
+     "handle": "mens-elevate-hoodie-shale-green",
+     "type": "Men's",
+     "tags": [
+      "Arrival",
+      "care::bamboo",
+      "collection::men",
+      "complete-the-look",
+      "discounts::none",
+      "Elevate",
+      "excMCWHD",
+      "final-sale",
+      "final_sale",
+      "flag::final sale",
+      "listo-new-pdp",
+      "LTV - Paid Social",
+      "LTV - Paid Social - Elevate",
+      "priority-product",
+      "Pro-Exclude-Discount",
+      "product_style: Mens Elevate Hoodie",
+      "R-SP24M",
+      "returns::none"
+     ],
+     "price": "61.99",
+     "published_at": "2026-10-01T13:47:16-04:00"
+    },
     {
      "title": "Men's Bamboo Current Polo - Bright White",
      "handle": "mens-bamboo-current-polo-bright-white",
@@ -2350,58 +2404,36 @@
      ],
      "price": "65.99",
      "published_at": "2026-09-09T16:21:33-04:00"
-    },
-    {
-     "title": "Men's Bamboo Lightweight Hoodie - Glacier",
-     "handle": "mens-bamboo-lightweight-hoodie-glacier",
-     "type": "Men's",
-     "tags": [
-      "care::bamboo",
-      "collection::men",
-      "Color",
-      "discounts::none",
-      "excLWH",
-      "excmcamohoody",
-      "fdbun",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "Lightweight",
-      "men-bamboo-lightweight",
-      "priority-product",
-      "Pro-Exclude-Discount",
-      "product_style: Mens LWH Sale",
-      "returns::none"
-     ],
-     "price": "49.99",
-     "published_at": "2026-09-09T16:06:42-04:00"
-    },
-    {
-     "title": "Men's Bamboo Motion Boxer Brief - Slate Blue",
-     "handle": "mens-bamboo-motion-boxer-brief-slate-blue",
-     "type": "Men's",
-     "tags": [
-      "bundle::Buy 3 for $96. Use code: BUNDLE",
-      "care::bamboo",
-      "Color",
-      "discount::motion_boxer::3::percent::11::BUY 3 FOR $85",
-      "EXCBBB",
-      "fdbun",
-      "final-sale",
-      "final_sale",
-      "listo-new-pdp",
-      "motionboxergroup",
-      "product_style: Mens Bamboo Motion Boxer Brief",
-      "returns::none"
-     ],
-     "price": "36.00",
-     "published_at": "2026-09-03T00:06:23-04:00"
     }
    ]
   },
   "BURLEBO": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Youth Mesh Training Shorts - Fowl Ball - Classic Deer Camo",
+     "handle": "youth-mesh-training-shorts-fowl-ball-classic-deer-camo",
+     "type": "Youth - Mesh Training Short",
+     "tags": [
+      "7/28/26",
+      "B2B_Active",
+      "B2B_Sync",
+      "BlinkAutoHide",
+      "Bottoms",
+      "excludeblink",
+      "Mesh Short",
+      "Mesh Training Short",
+      "retail",
+      "Season Fall26",
+      "Season Summer26",
+      "Short Sleeve",
+      "Summer 26",
+      "wholesale",
+      "Youth"
+     ],
+     "price": "46.00",
+     "published_at": "2026-10-01T08:08:29-05:00"
+    },
     {
      "title": "Toddler + Youth Crocs Classic Clog - Classic Deer Camo",
      "handle": "toddler-youth-crocs-classic-clog-classic-deer-camo",
@@ -2485,34 +2517,6 @@
      ],
      "price": "64.99",
      "published_at": "2026-09-29T07:09:20-05:00"
-    },
-    {
-     "title": "Performance Polo - Texas Grey and White",
-     "handle": "performance-polo-texas-grey-and-white",
-     "type": "Performance Polo",
-     "tags": [
-      "8/4/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "BassPro",
-      "BlinkAutoHide",
-      "FA26 Missing image",
-      "Fall 26",
-      "Fall26",
-      "Gameday",
-      "July 14th",
-      "missingboth",
-      "Performance Polo",
-      "Polo",
-      "PREBOOK START: 06/01/2026",
-      "retail",
-      "Season Fall26",
-      "Short Sleeve",
-      "Tops",
-      "wholesale"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-22T14:04:17-05:00"
     }
    ]
   },
@@ -2532,7 +2536,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2636000",
+     "price": "2637000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2545,7 +2549,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5272000",
+     "price": "5274000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2582,7 +2586,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1582000",
+     "price": "1583000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
