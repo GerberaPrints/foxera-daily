@@ -3,7 +3,7 @@
  "producer": "DESKTOP",
  "project": "gerberaprints",
  "date": "2026-10-01",
- "fetched_at": "2026-10-01T04:45:03.389328+07:00",
+ "fetched_at": "2026-10-01T13:43:22.563398+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -109,6 +109,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Shout out to Ben. Be like Ben.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wtir1z/shout_out_to_ben_be_like_ben/",
+     "selftext_head": ""
+    },
+    {
      "title": "Clean sweep",
      "score": null,
      "num_comments": null,
@@ -127,21 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Shout out to Ben. Be like Ben.",
+     "title": "California Governor signs law prohibiting tee time scalping (punishment of up to $2,500 per violation). Let's see if this actually works.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wtir1z/shout_out_to_ben_be_like_ben/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Same",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wsfgip/same/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wtvceo/california_governor_signs_law_prohibiting_tee/",
      "selftext_head": ""
     }
    ]
@@ -158,8 +158,8 @@
    "funny golf polos near me",
    "funny golf polos amazon",
    "funny golf polos for men amazon",
-   "funny golf polos for team",
-   "funny golf polo shirts uk"
+   "funny golf polo shirts uk",
+   "funny golf polos canada"
   ],
   "golf gift for him": [
    "golf gift for him",
@@ -168,16 +168,16 @@
    "golf gifts for him ireland",
    "golf gifts for him uk",
    "golf gifts for him nearby",
-   "golf gifts for him amazon",
    "golf gifts for him and her",
+   "golf gifts for him amazon",
    "golf gifts for him funny",
    "golf gifts for him near me"
   ],
   "golf bachelor party shirt": [
    "golf bachelor party shirts",
    "golf bachelor party shirt ideas",
-   "golf bachelor party t shirts",
    "funny golf bachelor party shirts",
+   "golf bachelor party t shirts",
    "golf themed bachelor party shirts",
    "custom bachelor party golf shirts",
    "mens bachelor party golf shirts",
@@ -200,8 +200,8 @@
    "custom golf polos",
    "custom golf polos for men",
    "custom golf polos with logo",
-   "custom golf polo with face",
    "custom golf polo shirts",
+   "custom golf polo with face",
    "custom golf polo shirts with logo",
    "custom golf polos no minimum",
    "custom golf polo with picture",
@@ -209,8 +209,8 @@
    "custom golf polo shirts uk"
   ],
   "golf tournament gift": [
-   "golf tournament gifts",
    "golf tournament gift ideas",
+   "golf tournament gifts",
    "golf tournament gift bag ideas",
    "golf tournament gifts under $10",
    "golf tournament gifts for players",
@@ -282,24 +282,24 @@
    "hawaiian golf shirts for women",
    "hawaiian golf shirts amazon",
    "hawaiian golf shirts australia",
-   "hawaiian golf shirts near me",
    "hawaiian golf shirts canada",
+   "hawaiian golf shirts near me",
    "hawaiian golf shirts nearby",
    "hawaiian golf shirt brand",
    "hawaiian golf shirts for couples"
   ]
  },
  "trends": [
-  "astros",
-  "caitlin clark indiana fever playoff performance",
-  "tj maxx closing",
-  "lawsuit",
-  "karl-anthony towns",
-  "dunkin halloween menu",
-  "vaccine",
-  "northern lights",
-  "drake baldwin",
-  "googl stock"
+  "panama vs new zealand",
+  "quentin halys",
+  "franklin high school",
+  "lamelo ball",
+  "china open",
+  "frances tiafoe",
+  "jim carrey",
+  "florence pugh",
+  "mlb playoff picture",
+  "padres vs brewers"
  ],
  "errors": []
 }
