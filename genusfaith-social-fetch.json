@@ -3,7 +3,7 @@
  "producer": "DESKTOP",
  "project": "genusfaith",
  "date": "2026-10-01",
- "fetched_at": "2026-10-01T04:15:03.558155+07:00",
+ "fetched_at": "2026-10-01T13:43:22.572396+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -61,15 +61,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wruhr4/you_are_not_a_burden_pope_leo_challenges_frances/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Went to adoration for the first time as a non catholic (with story below)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wonixl/went_to_adoration_for_the_first_time_as_a_non/",
      "selftext_head": ""
     },
     {
@@ -136,6 +127,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Feast day of Saint Thérèse of the Child Jesus",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wum09g/feast_day_of_saint_thérèse_of_the_child_jesus/",
+     "selftext_head": ""
+    },
+    {
      "title": "[ free friday ] I digital paint done by me, St Michael - inspired",
      "score": null,
      "num_comments": null,
@@ -168,10 +168,10 @@
    "rosary bracelet gold",
    "rosary bracelet silver",
    "rosary bracelet magnetic",
-   "rosary bracelet tattoo",
    "rosary bracelet pattern",
-   "rosary bracelet near me",
-   "rosary bracelet meaning"
+   "rosary bracelet catholic",
+   "rosary bracelet tattoo",
+   "rosary bracelet near me"
   ],
   "christian gift for her": [
    "christian gift for her",
@@ -190,8 +190,8 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gifts catholic",
    "confirmation gifts for teenage boys",
+   "confirmation gifts catholic",
    "confirmation gifts for adults",
    "confirmation gifts for teen girls",
    "confirmation gift ideas for girls",
@@ -204,9 +204,9 @@
    "baptism gifts for baby girl",
    "baptism gift ideas",
    "baptism gifts for adults",
-   "baptism gifts for baby boy",
    "baptism gifts near me",
    "baptism gifts from godparents",
+   "baptism gifts for teen girl",
    "baptism gift from godmother"
   ],
   "catholic home decor": [
@@ -263,8 +263,8 @@
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
-   "christian tote bags in bulk",
    "christian tote bag amazon",
+   "christian tote bags in bulk",
    "christian tote bag designs",
    "christian tote bag design ideas",
    "christian dior tote bag cost"
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "alec bohm",
-  "white sox - astros",
-  "northern lights",
-  "vaccine",
-  "drake baldwin",
-  "karl-anthony towns",
-  "dunkin halloween menu",
-  "andrew painter",
-  "googl stock",
-  "phil mickelson"
+  "panama vs new zealand",
+  "quentin halys",
+  "franklin high school",
+  "lamelo ball",
+  "china open",
+  "frances tiafoe",
+  "jim carrey",
+  "florence pugh",
+  "mlb playoff picture",
+  "padres vs brewers"
  ],
  "errors": []
 }
