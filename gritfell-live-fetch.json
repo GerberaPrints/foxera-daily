@@ -3,7 +3,7 @@
  "producer": "DESKTOP",
  "project": "gritfell",
  "date": "2026-10-01",
- "fetched_at": "2026-10-01T04:30:02.927509+07:00",
+ "fetched_at": "2026-10-01T13:43:22.590397+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 167,
@@ -2175,6 +2175,7 @@
       "NEW-TAG",
       "RAIN SUIT",
       "RELAXED-FIT",
+      "RGroup_WB35",
       "womens-fishing-clothing",
       "womens-fishing-shorts-and-leggings",
       "womens-fit-guide-relaxed-fit",
@@ -2249,7 +2250,7 @@
      "published_at": "2026-09-30T10:50:52-05:00"
     },
     {
-     "title": "MST Endurance Hoodie With Kangaroo Pouch",
+     "title": "MST Endurance Hoodie",
      "handle": "mst-endurance-hoodie-with-kangaroo-pouch",
      "type": "Hoodies & Pullovers",
      "tags": [
@@ -2531,7 +2532,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2635000",
+     "price": "2636000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2544,7 +2545,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5271000",
+     "price": "5272000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2581,7 +2582,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1581000",
+     "price": "1582000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2635,6 +2636,14 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "24 Days Lure Advent Calendar Fishing 2026 Advent Calendar Fishing Gifts Fisherman",
+     "handle": "24-days-lure-advent-calendar-fishing-2026-advent-calendar-fishing-gifts-fisherman",
+     "type": "",
+     "tags": [],
+     "price": "79.99",
+     "published_at": "2026-09-30T21:51:07-06:00"
+    },
+    {
      "title": "Custom Name Fishing Team Polo Shirt VCE1027",
      "handle": "custom-name-fishing-team-polo-shirt-vce1027",
      "type": "Polo Shirt",
@@ -2677,17 +2686,6 @@
      ],
      "price": "39.99",
      "published_at": "2026-09-30T03:02:21-06:00"
-    },
-    {
-     "title": "Custom American Flag Fishing Polo Shirt VCE1023",
-     "handle": "custom-american-flag-fishing-polo-shirt-vce1023",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-09-30T02:47:47-06:00"
     }
    ]
   },
