@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-02",
- "fetched_at": "2026-10-02T04:45:03.680242+07:00",
+ "date": "2026-10-03",
+ "fetched_at": "2026-10-03T04:45:03.573153+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -28,15 +28,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Welp…now we know why Tosti’s caddie, Cliff Ellis, quit. 😬 (audio)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wppviz/welpnow_we_know_why_tostis_caddie_cliff_ellis/",
-     "selftext_head": ""
-    },
-    {
      "title": "Fair sportsmanship",
      "score": null,
      "num_comments": null,
@@ -55,15 +46,6 @@
      "selftext_head": ""
     },
     {
-     "title": "5 Years ago. Jordan Spieth almost sends himself into Lake Michigan. INSANE flop shot. One of the best we will ever see. 🎯",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wq6iwa/5_years_ago_jordan_spieth_almost_sends_himself/",
-     "selftext_head": ""
-    },
-    {
      "title": "Casually filming swings to improve, and caught my buddy hitting this ace (volume up, definitely some shouting and cursing).",
      "score": null,
      "num_comments": null,
@@ -73,21 +55,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Lauren Coughlin makes nine straight birdies to post LPGA’s lowest nine holes ever, carding a 9-under 26 Saturday at the LPGA’s Walmart NW Arkansas Championship.",
+     "title": "Throwback to Bubba Walton’s legendary Driver-Driver-Putt for eagle at Kapalua (2011)",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wr1tgs/lauren_coughlin_makes_nine_straight_birdies_to/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Victor Hovland rips an INSANE driver off the deck. What an angle by the cameraman! Wow. 🤩",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wq82dn/victor_hovland_rips_an_insane_driver_off_the_deck/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wvhcxs/throwback_to_bubba_waltons_legendary/",
      "selftext_head": ""
     },
     {
@@ -100,21 +73,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Shout out to Ben. Be like Ben.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wtir1z/shout_out_to_ben_be_like_ben/",
-     "selftext_head": ""
-    },
-    {
      "title": "British speedgolf champ Rob Hogan (aka Marooch) has a pretty great beard",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wuit2n/british_speedgolf_champ_rob_hogan_aka_marooch_has/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Shout out to Ben. Be like Ben.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wtir1z/shout_out_to_ben_be_like_ben/",
      "selftext_head": ""
     },
     {
@@ -142,6 +115,33 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wrx1gg/presidents_cup_comeback_completethe_us_team/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Same",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wsfgip/same/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Presidents Cup players now being paid $250,000 each to keep instead of $150,000 each to donate to charity, as in years past, selfish much? These men are all multi-millionaires. In years past, the President's Cup was a charitable event. Each player was given $150,000 to donate to the charity of thei",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wrgq9w/presidents_cup_players_now_being_paid_250000_each/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Phil Mickelson Entered Treatment Center for Family Trauma and Addiction",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wues5t/phil_mickelson_entered_treatment_center_for/",
      "selftext_head": ""
     }
    ]
@@ -205,20 +205,20 @@
    "custom golf polo shirts with logo",
    "custom golf polos no minimum",
    "custom golf polo with picture",
-   "custom golf polos near me",
-   "custom golf polo shirts uk"
+   "custom golf polo shirts uk",
+   "custom golf polos canada"
   ],
   "golf tournament gift": [
-   "golf tournament gift ideas",
    "golf tournament gifts",
+   "golf tournament gift ideas",
    "golf tournament gift bag ideas",
    "golf tournament gifts under $10",
-   "golf tournament gifts for players",
    "golf tournament gift bags",
    "golf tournament gift basket ideas",
    "golf tournament gifts under $5",
    "golf tournament gifts under $20",
-   "prizes for golf tournaments"
+   "prizes for golf tournaments",
+   "whats a good gift for a golfer"
   ],
   "golf koozie": [
    "golf koozie",
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "peso mexicano",
-  "donald trump time magazine interview",
-  "john wick",
-  "cronos venom band",
-  "big brother finale",
-  "ciara",
-  "damien shanklin",
-  "saints depth chart",
-  "servicio de control de inmigración y aduanas",
-  "travis etienne"
+  "nicole linton",
+  "suriname vs guatemala",
+  "colombia vs paraguay",
+  "doing life",
+  "surinam - guatemala",
+  "penn state vs northwestern",
+  "tony reno",
+  "estados unidos",
+  "benny johnson",
+  "luigi mangione"
  ],
  "errors": []
 }
