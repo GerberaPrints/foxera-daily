@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-02",
- "fetched_at": "2026-10-02T04:15:03.120874+07:00",
+ "date": "2026-10-03",
+ "fetched_at": "2026-10-03T04:15:02.749199+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "[Free Friday] The jawbone of Blessed Fulton Sheen, now on display for veneration (image credit: Tim Stanley).",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpgr1r/free_friday_the_jawbone_of_blessed_fulton_sheen/",
-     "selftext_head": ""
-    },
     {
      "title": "Pope Leo XIV offering the Holy Sacrifice of the Mass in the Place de la Concorde, where Louis XVI was beheaded, near the place where the Last Supper was mocked during the Olympics. He will gather in memory of hundreds martyred during the French Revolution. This is an Act of Reparation.",
      "score": null,
@@ -25,24 +16,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wqrjr2/pope_leo_xiv_offering_the_holy_sacrifice_of_the/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Pope Leo XIV travels down the Champs-Élysées towards the Place de la Concorde before a crowd of over 600,000 people ✝️🫶🏻🇫🇷",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wqpm0t/pope_leo_xiv_travels_down_the_champsélysées/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Feast of the Holy Archangels Michael, Raphael, and Gabriel.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wt76br/feast_of_the_holy_archangels_michael_raphael_and/",
      "selftext_head": ""
     },
     {
@@ -55,12 +28,30 @@
      "selftext_head": ""
     },
     {
-     "title": "My Prayer Corner 😁",
+     "title": "Feast of the Holy Archangels Michael, Raphael, and Gabriel.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpmh3e/my_prayer_corner/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wt76br/feast_of_the_holy_archangels_michael_raphael_and/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Pope Leo XIV travels down the Champs-Élysées towards the Place de la Concorde before a crowd of over 600,000 people ✝️🫶🏻🇫🇷",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wqpm0t/pope_leo_xiv_travels_down_the_champsélysées/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Pope Leo on the importance of humanity and art in the AI era.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvwlom/pope_leo_on_the_importance_of_humanity_and_art_in/",
      "selftext_head": ""
     },
     {
@@ -70,6 +61,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wruhr4/you_are_not_a_burden_pope_leo_challenges_frances/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Friday October 2nd, Feast of Guardian Angels",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvjsb0/friday_october_2nd_feast_of_guardian_angels/",
      "selftext_head": ""
     },
     {
@@ -91,15 +91,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Is it morally licit to not be from Illinois?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpye4x/is_it_morally_licit_to_not_be_from_illinois/",
-     "selftext_head": ""
-    },
-    {
      "title": "Saint Lawrence Ruiz, martyr of Manila",
      "score": null,
      "num_comments": null,
@@ -109,39 +100,48 @@
      "selftext_head": ""
     },
     {
-     "title": "[Free Friday]Chapel on the USS Wisconsin",
+     "title": "The One World Leader We Can All Look Up To",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpzbo0/free_fridaychapel_on_the_uss_wisconsin/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wu4139/the_one_world_leader_we_can_all_look_up_to/",
      "selftext_head": ""
     },
     {
-     "title": "The Altar of the Crucifixion at the Church of the Holy Sepulchre, Jerusalem",
+     "title": "Pope Leo’s tender blessing of girl with disabilities captures spirit of his France trip",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wq0mca/the_altar_of_the_crucifixion_at_the_church_of_the/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wthjrr/pope_leos_tender_blessing_of_girl_with/",
      "selftext_head": ""
     },
     {
-     "title": "Saint Gemma Galgani is a total bada**",
+     "title": "Flag I designed for my college dorm",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wr86o0/saint_gemma_galgani_is_a_total_bada/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wqe962/flag_i_designed_for_my_college_dorm/",
      "selftext_head": ""
     },
     {
-     "title": "[ free friday ] I digital paint done by me, St Michael - inspired",
+     "title": "Wounded Polish priest calls for forgiveness after deadly attack",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wpt88f/free_friday_i_digital_paint_done_by_me_st_michael/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wsawqp/wounded_polish_priest_calls_for_forgiveness_after/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[Free Friday] Happy Feast Day of The Holy Guardian Angels",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvrllf/free_friday_happy_feast_day_of_the_holy_guardian/",
      "selftext_head": ""
     }
    ]
@@ -181,9 +181,9 @@
    "christian valentines gift for her",
    "christian christmas gift for her",
    "christian jewelry gift for her",
-   "christian gift for women",
    "christian gift for wife",
-   "christian gift for women amazon"
+   "christian gift for women amazon",
+   "christian gift for wife birthday"
   ],
   "confirmation gift": [
    "confirmation gifts",
@@ -258,7 +258,8 @@
    "catholic wedding gift for husband"
   ],
   "christian tote bag": [
-   "christian tote bag",
+   "christian tote bags",
+   "christian tote bags for women",
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
@@ -292,16 +293,16 @@
   ]
  },
  "trends": [
-  "royal family news",
-  "big brother finale",
-  "damien shanklin",
-  "ciara",
-  "saints depth chart",
-  "servicio de control de inmigración y aduanas",
-  "travis etienne",
-  "aja wilson suspension",
-  "supplemental nutrition assistance program changes",
-  "nike stock"
+  "penn state vs northwestern",
+  "tony reno",
+  "estados unidos",
+  "benny johnson",
+  "luigi mangione",
+  "robot",
+  "eminem",
+  "owen coyne marblehead",
+  "berkeley shooting",
+  "belgium vs turkey"
  ],
  "errors": []
 }
