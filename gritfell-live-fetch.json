@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-02",
- "fetched_at": "2026-10-02T04:30:03.323694+07:00",
+ "date": "2026-10-03",
+ "fetched_at": "2026-10-03T04:30:02.944602+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 167,
@@ -2190,6 +2190,87 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Uninsulated 16\" Camp Boot",
+     "handle": "uninsulated-16-camp-boot",
+     "type": "Footwear",
+     "tags": [
+      "alt_text",
+      "AW26_NEW",
+      "BFCM2026",
+      "HOL_26 Flyer",
+      "master_list_new_arrivals_26",
+      "new"
+     ],
+     "price": "179.99",
+     "published_at": "2026-10-02T15:46:37-05:00"
+    },
+    {
+     "title": "LST Windstopper Beanie",
+     "handle": "lst-windstopper-beanie",
+     "type": "Headwear",
+     "tags": [
+      "AW24_New",
+      "AW25 Catalog",
+      "AW26 Catalog",
+      "beanies-stocking-caps",
+      "bestseller_24",
+      "bestseller_nov",
+      "Cold Weather Gear",
+      "Gifts For Waterfowler",
+      "Gifts Under $100",
+      "Gifts Under $75",
+      "headwear",
+      "hunting accessories",
+      "new_color:Mossy Oak Original Shadow Grass",
+      "warmest gifts",
+      "waterfowl",
+      "waterfowl_new_arrivals"
+     ],
+     "price": "69.99",
+     "published_at": "2026-10-02T15:33:34-05:00"
+    },
+    {
+     "title": "Drake Duck Life Hoodie",
+     "handle": "drake-duck-life-hoodie",
+     "type": "Hoodies & Pullovers",
+     "tags": [
+      "alt_text",
+      "AW26 Catalog",
+      "AW26_NEW",
+      "master_list_new_arrivals_26",
+      "mens",
+      "new",
+      "tops"
+     ],
+     "price": "49.99",
+     "published_at": "2026-10-02T09:09:27-05:00"
+    },
+    {
+     "title": "Old School Logo Hoodie",
+     "handle": "old-school-logo-hoodie-1",
+     "type": "Hoodies & Pullovers",
+     "tags": [
+      "ACS2025",
+      "alt_text",
+      "AW25 Price Tracking",
+      "AW25_New",
+      "AW26 Catalog",
+      "CTW_2026",
+      "EOS_JAN_26",
+      "graphic_hoodie_pullover",
+      "graphic_tops",
+      "hoodie collection",
+      "logowear",
+      "mens",
+      "New_No_Coming_Soon",
+      "top seller 2025",
+      "tops",
+      "waterfowl_logo_wear"
+     ],
+     "price": "39.99",
+     "published_at": "2026-10-02T09:04:18-05:00"
+    },
+    {
      "title": "Campfire Canvas Bomber Jacket",
      "handle": "campfire-canvas-bomber-jacket",
      "type": "Jackets & Vests",
@@ -2204,147 +2285,12 @@
      ],
      "price": "129.99",
      "published_at": "2026-09-30T11:03:37-05:00"
-    },
-    {
-     "title": "Non-Typical Slacker Quarter Zip Hoodie",
-     "handle": "slacker-quarter-zip-hoodie-copy",
-     "type": "Hoodies & Pullovers",
-     "tags": [
-      "alt_text",
-      "AW26 Catalog",
-      "AW26_NEW",
-      "BFCM2026",
-      "HOL_26 Flyer",
-      "jackets-vests",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new"
-     ],
-     "price": "119.99",
-     "published_at": "2026-09-30T11:01:34-05:00"
-    },
-    {
-     "title": "Non-Typical Down Vest with Agion Active X2",
-     "handle": "non-typical-down-vest-with-agion-active-x2",
-     "type": "Jackets & Vests",
-     "tags": [
-      "alt_text",
-      "AW26 Catalog",
-      "AW26 Price Tracking",
-      "AW26_NEW",
-      "jackets-vests",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new"
-     ],
-     "price": "179.99",
-     "published_at": "2026-09-30T10:52:07-05:00"
-    },
-    {
-     "title": "Non-Typical Down Jacket with Agion Active X2",
-     "handle": "non-typical-down-jacket-with-agion-active-x2",
-     "type": "Jackets & Vests",
-     "tags": [
-      "alt_text",
-      "AW26 Catalog",
-      "AW26 Price Tracking",
-      "AW26_NEW",
-      "jackets-vests",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new"
-     ],
-     "price": "249.99",
-     "published_at": "2026-09-30T10:50:52-05:00"
-    },
-    {
-     "title": "MST Endurance Hoodie",
-     "handle": "mst-endurance-hoodie-with-kangaroo-pouch",
-     "type": "Hoodies & Pullovers",
-     "tags": [
-      "acs2024",
-      "ACS2025",
-      "alt_text",
-      "AW25 Price Tracking",
-      "AW25 Show Special",
-      "AW26 Price Tracking",
-      "best_seller",
-      "bestseller_24",
-      "bestseller_nov",
-      "bfcm 2025",
-      "bfcm2024",
-      "BFCM2025",
-      "BFCM2026",
-      "camo_hoodie",
-      "Gifts Under $100",
-      "HOL_26 Flyer",
-      "hoodie collection",
-      "hunting_hoodies",
-      "jackets-vests",
-      "Jackets_Vests_Hoodies",
-      "mens",
-      "new_color:Old School Sport",
-      "Super Sale 2024",
-      "Super Sale 2025",
-      "waterfowl",
-      "waterfowl_hoodies",
-      "waterfowl_shirts_tops",
-      "YGroup_hoodie"
-     ],
-     "price": "119.99",
-     "published_at": "2026-09-29T12:57:22-05:00"
     }
    ]
   },
   "Free Fly": {
    "count_returned": 5,
    "products": [
-    {
-     "title": "Men's Headwind Jacket - Aspen Grey",
-     "handle": "mens-headwind-jacket-aspen-grey",
-     "type": "Men's",
-     "tags": [
-      "Arrival",
-      "collection::men",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "listo-new-pdp",
-      "priority-product",
-      "Pro-Exclude-Discount",
-      "product_style: Mens Headwind Jacket",
-      "returns::none"
-     ],
-     "price": "40.00",
-     "published_at": "2026-10-01T13:49:53-04:00"
-    },
-    {
-     "title": "Men's Elevate Hoodie - Shale Green",
-     "handle": "mens-elevate-hoodie-shale-green",
-     "type": "Men's",
-     "tags": [
-      "Arrival",
-      "care::bamboo",
-      "collection::men",
-      "complete-the-look",
-      "discounts::none",
-      "Elevate",
-      "excMCWHD",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "listo-new-pdp",
-      "LTV - Paid Social",
-      "LTV - Paid Social - Elevate",
-      "priority-product",
-      "Pro-Exclude-Discount",
-      "product_style: Mens Elevate Hoodie",
-      "R-SP24M",
-      "returns::none"
-     ],
-     "price": "61.99",
-     "published_at": "2026-10-01T13:47:16-04:00"
-    },
     {
      "title": "Men's Bamboo Current Polo - Bright White",
      "handle": "mens-bamboo-current-polo-bright-white",
@@ -2404,6 +2350,52 @@
      ],
      "price": "65.99",
      "published_at": "2026-09-09T16:21:33-04:00"
+    },
+    {
+     "title": "Men's Bamboo Lightweight Hoodie - Glacier",
+     "handle": "mens-bamboo-lightweight-hoodie-glacier",
+     "type": "Men's",
+     "tags": [
+      "care::bamboo",
+      "collection::men",
+      "Color",
+      "discounts::none",
+      "excLWH",
+      "excmcamohoody",
+      "fdbun",
+      "final-sale",
+      "final_sale",
+      "flag::final sale",
+      "Lightweight",
+      "men-bamboo-lightweight",
+      "priority-product",
+      "Pro-Exclude-Discount",
+      "product_style: Mens LWH Sale",
+      "returns::none"
+     ],
+     "price": "49.99",
+     "published_at": "2026-09-09T16:06:42-04:00"
+    },
+    {
+     "title": "Men's Bamboo Motion Boxer Brief - Slate Blue",
+     "handle": "mens-bamboo-motion-boxer-brief-slate-blue",
+     "type": "Men's",
+     "tags": [
+      "bundle::Buy 3 for $96. Use code: BUNDLE",
+      "care::bamboo",
+      "Color",
+      "discount::motion_boxer::3::percent::11::BUY 3 FOR $85",
+      "EXCBBB",
+      "fdbun",
+      "final-sale",
+      "final_sale",
+      "listo-new-pdp",
+      "motionboxergroup",
+      "product_style: Mens Bamboo Motion Boxer Brief",
+      "returns::none"
+     ],
+     "price": "36.00",
+     "published_at": "2026-09-03T00:06:23-04:00"
     }
    ]
   },
@@ -2536,7 +2528,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2637000",
+     "price": "2638000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2549,7 +2541,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5274000",
+     "price": "5275000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2697,63 +2689,82 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Men's Swim Shorts - Quick Dry Mesh Lined - Swimming Trunks",
-     "handle": "mens-swim-shorts-quick-dry-mesh-lined",
-     "type": "Swimming Short",
-     "tags": [
-      "activity:summer",
-      "gender:mens",
-      "type:trousers-shorts"
-     ],
-     "price": "34.95",
-     "published_at": "2026-09-28T18:12:38+02:00"
-    },
-    {
-     "title": "Men's Swim Shorts - Striped Quick Dry Swim Trunks - Beach Shorts",
-     "handle": "mens-swim-shorts-striped-quick-dry-swim-trunks-beach-shorts",
-     "type": "Shorts",
+     "title": "Snood - Plush Lined Knitted Neck Warmer - Snood Scarf & Neck Gaiter",
+     "handle": "snood-plush-lined-knitted-neck-warmer-snood-scarf-neck-gaiter",
+     "type": "Accessories",
      "tags": [],
-     "price": "39.95",
-     "published_at": "2026-09-28T18:11:39+02:00"
+     "price": "34.95",
+     "published_at": "2026-10-02T15:43:06+02:00"
     },
     {
-     "title": "Men's Fleece Jacket - Full Zip Fleece Hoodie for Walking & Hiking",
-     "handle": "mens-fleece-jacket-full-zip-fleece-hoodie",
-     "type": "Men's Fleece",
+     "title": "Men's Long Johns - White Base Layer Top & Leggings Set",
+     "handle": "mens-long-johns-white-base-layer-top-leggings-set",
+     "type": "Long Johns",
      "tags": [
-      "activity:hiking",
-      "activity:walking",
-      "gender:mens",
-      "type:fleeces"
-     ],
-     "price": "59.95",
-     "published_at": "2026-09-28T17:26:09+02:00"
-    },
-    {
-     "title": "Men's Padded Cycling Tights - Long Cycling Trousers with Pockets",
-     "handle": "mens-padded-cycling-tights-long-cycling-trousers-with-pockets",
-     "type": "Cycling tights",
-     "tags": [
-      "activity:autumn",
-      "activity:cycling",
-      "activity:spring",
-      "gender:mens",
-      "type:trousers-shorts"
+      "base layer",
+      "base layer set",
+      "gender:male",
+      "leggings",
+      "long johns",
+      "mens long johns",
+      "type:clothing",
+      "white",
+      "winter"
      ],
      "price": "44.95",
-     "published_at": "2026-09-28T16:48:57+02:00"
+     "published_at": "2026-10-02T15:41:36+02:00"
     },
     {
-     "title": "Men's Ski Suit - Hooded Ski Jacket and Trousers Set - Ski Outfit",
-     "handle": "mens-ski-suit-hooded-ski-jacket-and-trousers-set-ski-outfit",
-     "type": "Set men",
+     "title": "Men's Long Johns - Long Sleeve Top and Leggings Set - Navy",
+     "handle": "mens-long-johns-long-sleeve-top-and-leggings-set-navy",
+     "type": "Long Johns",
      "tags": [
-      "bestseller",
-      "Heren sets",
-      "Man"
+      "activity:fishing",
+      "activity:walking",
+      "base layer",
+      "gender:male",
+      "long johns",
+      "mens long johns",
+      "type:clothing",
+      "winter"
      ],
-     "price": "138.95",
-     "published_at": "2026-09-28T10:54:34+02:00"
+     "price": "44.95",
+     "published_at": "2026-10-02T15:40:39+02:00"
+    },
+    {
+     "title": "Men's Crew Neck Jumper - Sherpa Lined Fleece Interior - Warm Winter Top",
+     "handle": "mens-crew-neck-jumper-sherpa-lined-fleece-interior-warm-winter-top",
+     "type": "Men's Fleece",
+     "tags": [
+      "autumn winter",
+      "crew neck jumper",
+      "fleece lined jumper",
+      "fleece sweatshirt",
+      "mens jumper",
+      "sherpa jumper",
+      "sherpa lined",
+      "warm jumper",
+      "winter jumper"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-02T15:28:40+02:00"
+    },
+    {
+     "title": "Men's Fisherman Beanie - Short Docker Hat - Ribbed Knitted Hat",
+     "handle": "mens-fisherman-beanie-short-docker-hat-ribbed-knitted-hat",
+     "type": "Hats",
+     "tags": [
+      "activity:fishing",
+      "activity:walking",
+      "beanie 2 pack",
+      "docker hat",
+      "fisherman beanie",
+      "gender:male",
+      "knitted hat",
+      "type:headwear"
+     ],
+     "price": "34.95",
+     "published_at": "2026-10-02T13:20:53+02:00"
     }
    ]
   }
