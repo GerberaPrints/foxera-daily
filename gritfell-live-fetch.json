@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-03",
- "fetched_at": "2026-10-03T04:30:02.944602+07:00",
+ "date": "2026-10-04",
+ "fetched_at": "2026-10-04T04:30:02.753123+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 167,
@@ -2689,6 +2689,18 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Lightweight Outdoor Utility Vest with Multiple Pockets – Breathable Design for Field Use",
+     "handle": "lightweight-outdoor-utility-vest-with-multiple-pockets-breathable-design-for-field-use",
+     "type": "utility vest",
+     "tags": [
+      "activity:fishing",
+      "gender:mens",
+      "type:gilets"
+     ],
+     "price": "52.45",
+     "published_at": "2026-10-03T12:26:02+02:00"
+    },
+    {
      "title": "Snood - Plush Lined Knitted Neck Warmer - Snood Scarf & Neck Gaiter",
      "handle": "snood-plush-lined-knitted-neck-warmer-snood-scarf-neck-gaiter",
      "type": "Accessories",
@@ -2748,23 +2760,6 @@
      ],
      "price": "44.95",
      "published_at": "2026-10-02T15:28:40+02:00"
-    },
-    {
-     "title": "Men's Fisherman Beanie - Short Docker Hat - Ribbed Knitted Hat",
-     "handle": "mens-fisherman-beanie-short-docker-hat-ribbed-knitted-hat",
-     "type": "Hats",
-     "tags": [
-      "activity:fishing",
-      "activity:walking",
-      "beanie 2 pack",
-      "docker hat",
-      "fisherman beanie",
-      "gender:male",
-      "knitted hat",
-      "type:headwear"
-     ],
-     "price": "34.95",
-     "published_at": "2026-10-02T13:20:53+02:00"
     }
    ]
   }
