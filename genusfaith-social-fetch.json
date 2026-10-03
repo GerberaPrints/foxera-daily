@@ -2,20 +2,20 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-03",
- "fetched_at": "2026-10-03T04:15:02.749199+07:00",
+ "date": "2026-10-04",
+ "fetched_at": "2026-10-04T04:15:02.764094+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
     {
-     "title": "Pope Leo XIV offering the Holy Sacrifice of the Mass in the Place de la Concorde, where Louis XVI was beheaded, near the place where the Last Supper was mocked during the Olympics. He will gather in memory of hundreds martyred during the French Revolution. This is an Act of Reparation.",
+     "title": "Pope Leo on the importance of humanity and art in the AI era.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wqrjr2/pope_leo_xiv_offering_the_holy_sacrifice_of_the/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvwlom/pope_leo_on_the_importance_of_humanity_and_art_in/",
      "selftext_head": ""
     },
     {
@@ -37,24 +37,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Pope Leo XIV travels down the Champs-Élysées towards the Place de la Concorde before a crowd of over 600,000 people ✝️🫶🏻🇫🇷",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wqpm0t/pope_leo_xiv_travels_down_the_champsélysées/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Pope Leo on the importance of humanity and art in the AI era.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvwlom/pope_leo_on_the_importance_of_humanity_and_art_in/",
-     "selftext_head": ""
-    },
-    {
      "title": "'You Are Not a Burden': Pope Leo Challenges France's Assisted-Dying Law at Lourdes",
      "score": null,
      "num_comments": null,
@@ -73,6 +55,15 @@
      "selftext_head": ""
     },
     {
+     "title": "[Free Friday] Here I am Lord, Send me",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1ww8lxd/free_friday_here_i_am_lord_send_me/",
+     "selftext_head": ""
+    },
+    {
      "title": "This evening in the Shrine of Lourdes, Pope Leo XIV offered a Golden rose to Our Lady of Lourdes in the Grotto of Massabielle.",
      "score": null,
      "num_comments": null,
@@ -82,21 +73,39 @@
      "selftext_head": ""
     },
     {
-     "title": "[Free Friday] Pope Leo to the french youth: \"You are the saints of France !\"",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wqhqx2/free_friday_pope_leo_to_the_french_youth_you_are/",
-     "selftext_head": ""
-    },
-    {
      "title": "Saint Lawrence Ruiz, martyr of Manila",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1ws7nca/saint_lawrence_ruiz_martyr_of_manila/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Free Friday: My atheist dad found out I am converting and he's... proud?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1ww1n2a/free_friday_my_atheist_dad_found_out_i_am/",
+     "selftext_head": ""
+    },
+    {
+     "title": "My drawing of Mary :) (free Friday)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1ww43id/my_drawing_of_mary_free_friday/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[Free Friday] Happy Feast Day of The Holy Guardian Angels",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvrllf/free_friday_happy_feast_day_of_the_holy_guardian/",
      "selftext_head": ""
     },
     {
@@ -118,12 +127,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Flag I designed for my college dorm",
+     "title": "Notre très chère Saint-Pères a metz",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wqe962/flag_i_designed_for_my_college_dorm/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvcprr/notre_très_chère_saintpères_a_metz/",
      "selftext_head": ""
     },
     {
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wsawqp/wounded_polish_priest_calls_for_forgiveness_after/",
-     "selftext_head": ""
-    },
-    {
-     "title": "[Free Friday] Happy Feast Day of The Holy Guardian Angels",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvrllf/free_friday_happy_feast_day_of_the_holy_guardian/",
      "selftext_head": ""
     }
    ]
@@ -169,8 +169,8 @@
    "rosary bracelet silver",
    "rosary bracelet magnetic",
    "rosary bracelet pattern",
-   "rosary bracelet catholic",
    "rosary bracelet tattoo",
+   "rosary bracelet catholic",
    "rosary bracelet near me"
   ],
   "christian gift for her": [
@@ -192,16 +192,16 @@
    "confirmation gift ideas",
    "confirmation gifts for teenage boys",
    "confirmation gifts catholic",
-   "confirmation gifts for adults",
    "confirmation gifts for teen girls",
+   "confirmation gifts for adults",
    "confirmation gift ideas for girls",
    "confirmation gifts of the holy spirit"
   ],
   "baptism gift": [
    "baptism gifts",
    "baptism gifts for boys",
-   "baptism gifts for girls",
    "baptism gifts for baby girl",
+   "baptism gift for girl",
    "baptism gift ideas",
    "baptism gifts for adults",
    "baptism gifts for baby boy",
@@ -237,8 +237,8 @@
    "first communion gifts",
    "first communion gifts for girls",
    "first communion gifts for boys",
-   "first communion gift ideas",
    "first communion gifts for boys catholic",
+   "first communion gift ideas",
    "first communion gifts near me",
    "first communion gift for boy non religious",
    "first communion gift ideas for boys",
@@ -258,8 +258,7 @@
    "catholic wedding gift for husband"
   ],
   "christian tote bag": [
-   "christian tote bags",
-   "christian tote bags for women",
+   "christian tote bag",
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
@@ -271,8 +270,8 @@
   ],
   "faith based jewelry": [
    "faith based jewelry",
-   "faith based jewelry for women",
    "faith based jewelry company",
+   "faith based jewelry for women",
    "faith based jewelry for men",
    "faith based jewelry brands",
    "faith based jewelry wholesale",
@@ -293,16 +292,16 @@
   ]
  },
  "trends": [
-  "penn state vs northwestern",
-  "tony reno",
-  "estados unidos",
-  "benny johnson",
-  "luigi mangione",
-  "robot",
-  "eminem",
-  "owen coyne marblehead",
-  "berkeley shooting",
-  "belgium vs turkey"
+  "faizon brandon",
+  "george macintyre",
+  "jacobe smith",
+  "joe mixon",
+  "drake baldwin",
+  "nebraska football",
+  "prince harry, duke of sussex",
+  "youngstown st vs southern il",
+  "fox sports",
+  "braves game today"
  ],
  "errors": []
 }
