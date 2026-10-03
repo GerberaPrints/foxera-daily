@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-03",
- "fetched_at": "2026-10-03T04:45:03.573153+07:00",
+ "date": "2026-10-04",
+ "fetched_at": "2026-10-04T04:45:03.564560+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -37,21 +37,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Rory Mcllroy’s second shot on 15 at The Masters is a serious contender for shot of the decade. Absolutely world class!! 🥇",
+     "title": "South Korean golfer Tom Kim receives a military exemption with a gold medal at the Asian Games",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wr0zan/rory_mcllroys_second_shot_on_15_at_the_masters_is/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Casually filming swings to improve, and caught my buddy hitting this ace (volume up, definitely some shouting and cursing).",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wqtycz/casually_filming_swings_to_improve_and_caught_my/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wwn49m/south_korean_golfer_tom_kim_receives_a_military/",
      "selftext_head": ""
     },
     {
@@ -61,15 +52,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wvhcxs/throwback_to_bubba_waltons_legendary/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Fan deliberately kicks ball back into play (still deemed out of bounds)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wqyhud/fan_deliberately_kicks_ball_back_into_play_still/",
      "selftext_head": ""
     },
     {
@@ -100,12 +82,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Clean sweep",
+     "title": "Tom Kim wins gold at Asian games 2026 and receives military exemption",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wq9t2f/clean_sweep/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wwi2op/tom_kim_wins_gold_at_asian_games_2026_and/",
      "selftext_head": ""
     },
     {
@@ -143,6 +125,24 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wues5t/phil_mickelson_entered_treatment_center_for/",
      "selftext_head": ""
+    },
+    {
+     "title": "PGA Tour Bank of Utah Championship: Jordan Smith holed out his 238-yard approach shot to card the rare albatross on the 590-yard, par-5 ninth hole",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wvfan2/pga_tour_bank_of_utah_championship_jordan_smith/",
+     "selftext_head": ""
+    },
+    {
+     "title": "USGA Mid-Amateur Championship Update: We're down to 8 golfers. 6 are former professional golfers.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wtso8o/usga_midamateur_championship_update_were_down_to/",
+     "selftext_head": ""
     }
    ]
   }
@@ -155,8 +155,8 @@
    "funny golf polo shirts",
    "funny golf polos for women",
    "funny golf polo shirts for men",
-   "funny golf polos near me",
    "funny golf polos amazon",
+   "funny golf polos near me",
    "funny golf polos for men amazon",
    "funny golf polo shirts uk",
    "funny golf polos canada"
@@ -200,25 +200,25 @@
    "custom golf polos",
    "custom golf polos for men",
    "custom golf polos with logo",
-   "custom golf polo shirts",
    "custom golf polo with face",
+   "custom golf polo shirts",
    "custom golf polo shirts with logo",
    "custom golf polos no minimum",
    "custom golf polo with picture",
    "custom golf polo shirts uk",
-   "custom golf polos canada"
+   "custom golf polos australia"
   ],
   "golf tournament gift": [
-   "golf tournament gifts",
    "golf tournament gift ideas",
+   "golf tournament gifts",
    "golf tournament gift bag ideas",
    "golf tournament gifts under $10",
+   "golf tournament gifts for players",
    "golf tournament gift bags",
    "golf tournament gift basket ideas",
    "golf tournament gifts under $5",
    "golf tournament gifts under $20",
-   "prizes for golf tournaments",
-   "whats a good gift for a golfer"
+   "prizes for golf tournaments"
   ],
   "golf koozie": [
    "golf koozie",
@@ -251,8 +251,8 @@
    "bachelor party golf ideas",
    "bachelor party golf gifts",
    "bachelor party golf games",
-   "bachelor party golf hats",
    "bachelor party golf packages",
+   "bachelor party golf hats",
    "bachelor party golf polos",
    "bachelor party golf"
   ],
@@ -262,6 +262,7 @@
    "best golf.gift for.boss",
    "golf gift for manager",
    "gift for boss who likes golf",
+   "gift for boss who loves golf",
    "golf gift ideas for him"
   ],
   "golf apparel funny": [
@@ -290,16 +291,16 @@
   ]
  },
  "trends": [
-  "nicole linton",
-  "suriname vs guatemala",
-  "colombia vs paraguay",
-  "doing life",
-  "surinam - guatemala",
-  "penn state vs northwestern",
-  "tony reno",
-  "estados unidos",
-  "benny johnson",
-  "luigi mangione"
+  "jeremiah smith",
+  "yankees vs rays",
+  "sergey brin",
+  "anthony wint",
+  "uss dwight d eisenhower cvn 69",
+  "atlético-mg x bragantino",
+  "ben whittaker",
+  "amy acton",
+  "marcus mcghee",
+  "oregon state vs co state"
  ],
  "errors": []
 }
