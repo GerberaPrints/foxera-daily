@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-04",
- "fetched_at": "2026-10-04T04:15:02.764094+07:00",
+ "date": "2026-10-05",
+ "fetched_at": "2026-10-05T04:15:02.736375+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -37,21 +37,12 @@
      "selftext_head": ""
     },
     {
-     "title": "'You Are Not a Burden': Pope Leo Challenges France's Assisted-Dying Law at Lourdes",
+     "title": "Francis of Assisi died 800 years ago. On October 3, like today. On a saturday evening, like today",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wruhr4/you_are_not_a_burden_pope_leo_challenges_frances/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Friday October 2nd, Feast of Guardian Angels",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvjsb0/friday_october_2nd_feast_of_guardian_angels/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wwvgqc/francis_of_assisi_died_800_years_ago_on_october_3/",
      "selftext_head": ""
     },
     {
@@ -64,12 +55,12 @@
      "selftext_head": ""
     },
     {
-     "title": "This evening in the Shrine of Lourdes, Pope Leo XIV offered a Golden rose to Our Lady of Lourdes in the Grotto of Massabielle.",
+     "title": "Friday October 2nd, Feast of Guardian Angels",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wr7l82/this_evening_in_the_shrine_of_lourdes_pope_leo/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvjsb0/friday_october_2nd_feast_of_guardian_angels/",
      "selftext_head": ""
     },
     {
@@ -109,6 +100,24 @@
      "selftext_head": ""
     },
     {
+     "title": "San Francisco Archdiocese celebrated Vigil for the local Solemnity of St. Francis of Assisi. Happy Jubilee of the 800th Anniversary of St. Francis’ Transitus!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wx734p/san_francisco_archdiocese_celebrated_vigil_for/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Happy Feast of Saint Francis of Assisi! 🦒🐅🐇🌳",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wxkl93/happy_feast_of_saint_francis_of_assisi/",
+     "selftext_head": ""
+    },
+    {
      "title": "The One World Leader We Can All Look Up To",
      "score": null,
      "num_comments": null,
@@ -127,21 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Notre très chère Saint-Pères a metz",
+     "title": "October 4: Happy Feast Day of St.Francis of Assisi ✝️♥️🙏🏻🌹",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvcprr/notre_très_chère_saintpères_a_metz/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Wounded Polish priest calls for forgiveness after deadly attack",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wsawqp/wounded_polish_priest_calls_for_forgiveness_after/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wx5isi/october_4_happy_feast_day_of_stfrancis_of_assisi/",
      "selftext_head": ""
     }
    ]
@@ -200,8 +200,8 @@
   "baptism gift": [
    "baptism gifts",
    "baptism gifts for boys",
+   "baptism gifts for girls",
    "baptism gifts for baby girl",
-   "baptism gift for girl",
    "baptism gift ideas",
    "baptism gifts for adults",
    "baptism gifts for baby boy",
@@ -292,16 +292,16 @@
   ]
  },
  "trends": [
-  "faizon brandon",
-  "george macintyre",
-  "jacobe smith",
-  "joe mixon",
-  "drake baldwin",
-  "nebraska football",
-  "prince harry, duke of sussex",
-  "youngstown st vs southern il",
-  "fox sports",
-  "braves game today"
+  "gabby williams",
+  "xavier worthy",
+  "visionquest",
+  "cupertino",
+  "kristen bell",
+  "jordan addison",
+  "erin andrews",
+  "erling haaland",
+  "iran news",
+  "tyquan thornton"
  ],
  "errors": []
 }
