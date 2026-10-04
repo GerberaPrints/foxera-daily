@@ -70,3 +70,4 @@
 2026-10-02T04:05:03.405837+07:00 | brands 7/7 | products 2558 | pages 14 | new14d 66 | errors 0 | changes new 13 / removed 0 / price 6 / stock 3
 2026-10-03T04:05:03.399470+07:00 | brands 7/7 | products 2558 | pages 14 | new14d 45 | errors 0 | changes new 0 / removed 0 / price 6 / stock 3
 2026-10-04T04:05:03.257473+07:00 | brands 7/7 | products 2558 | pages 14 | new14d 45 | errors 0 | changes new 0 / removed 0 / price 0 / stock 5
+2026-10-05T04:05:03.280848+07:00 | brands 7/7 | products 2558 | pages 14 | new14d 45 | errors 0 | changes new 0 / removed 0 / price 33 / stock 4
