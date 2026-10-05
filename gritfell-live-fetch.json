@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-05",
- "fetched_at": "2026-10-05T04:30:03.276424+07:00",
+ "date": "2026-10-06",
+ "fetched_at": "2026-10-06T04:30:02.749011+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 167,
@@ -2190,101 +2190,73 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Uninsulated 16\" Camp Boot",
-     "handle": "uninsulated-16-camp-boot",
-     "type": "Footwear",
-     "tags": [
-      "alt_text",
-      "AW26_NEW",
-      "BFCM2026",
-      "HOL_26 Flyer",
-      "master_list_new_arrivals_26",
-      "new"
-     ],
-     "price": "179.99",
-     "published_at": "2026-10-02T15:46:37-05:00"
-    },
-    {
-     "title": "LST Windstopper Beanie",
-     "handle": "lst-windstopper-beanie",
-     "type": "Headwear",
-     "tags": [
-      "AW24_New",
-      "AW25 Catalog",
-      "AW26 Catalog",
-      "beanies-stocking-caps",
-      "bestseller_24",
-      "bestseller_nov",
-      "Cold Weather Gear",
-      "Gifts For Waterfowler",
-      "Gifts Under $100",
-      "Gifts Under $75",
-      "headwear",
-      "hunting accessories",
-      "new_color:Mossy Oak Original Shadow Grass",
-      "warmest gifts",
-      "waterfowl",
-      "waterfowl_new_arrivals"
-     ],
-     "price": "69.99",
-     "published_at": "2026-10-02T15:33:34-05:00"
-    },
-    {
-     "title": "Drake Duck Life Hoodie",
-     "handle": "drake-duck-life-hoodie",
+     "title": "Spoonie Head Logo Hoodie",
+     "handle": "spoonie-hollywood-hoodie-copy",
      "type": "Hoodies & Pullovers",
      "tags": [
       "alt_text",
-      "AW26 Catalog",
       "AW26_NEW",
-      "master_list_new_arrivals_26",
       "mens",
       "new",
       "tops"
      ],
-     "price": "49.99",
-     "published_at": "2026-10-02T09:09:27-05:00"
+     "price": "44.99",
+     "published_at": "2026-10-05T15:37:20-05:00"
     },
     {
-     "title": "Old School Logo Hoodie",
-     "handle": "old-school-logo-hoodie-1",
-     "type": "Hoodies & Pullovers",
-     "tags": [
-      "ACS2025",
-      "alt_text",
-      "AW25 Price Tracking",
-      "AW25_New",
-      "AW26 Catalog",
-      "CTW_2026",
-      "EOS_JAN_26",
-      "graphic_hoodie_pullover",
-      "graphic_tops",
-      "hoodie collection",
-      "logowear",
-      "mens",
-      "New_No_Coming_Soon",
-      "top seller 2025",
-      "tops",
-      "waterfowl_logo_wear"
-     ],
-     "price": "39.99",
-     "published_at": "2026-10-02T09:04:18-05:00"
-    },
-    {
-     "title": "Campfire Canvas Bomber Jacket",
-     "handle": "campfire-canvas-bomber-jacket",
+     "title": "Spoonie Eqwader Quarter Zip",
+     "handle": "spoonie-eqwader-quarter-zip",
      "type": "Jackets & Vests",
      "tags": [
       "alt_text",
-      "AW26 Catalog",
+      "coming soon",
+      "jackets-vests",
+      "mens"
+     ],
+     "price": "54.00",
+     "published_at": "2026-10-05T11:23:52-05:00"
+    },
+    {
+     "title": "Spoonie Hollywood Jacket",
+     "handle": "spoonie-hollywood-jacket",
+     "type": "Jackets & Vests",
+     "tags": [
+      "alt_text",
       "AW26_NEW",
       "jackets-vests",
-      "master_list_new_arrivals_26",
       "mens",
       "new"
      ],
-     "price": "129.99",
-     "published_at": "2026-09-30T11:03:37-05:00"
+     "price": "79.00",
+     "published_at": "2026-10-05T11:23:52-05:00"
+    },
+    {
+     "title": "Spoonie Silencer Hoodie",
+     "handle": "spoonie-silencer-hoodie",
+     "type": "Hoodies & Pullovers",
+     "tags": [
+      "alt_text",
+      "AW26_NEW",
+      "mens",
+      "new",
+      "tops"
+     ],
+     "price": "74.00",
+     "published_at": "2026-10-05T11:23:51-05:00"
+    },
+    {
+     "title": "Spoonie Hollywood Pant",
+     "handle": "spoonie-hollywood-pant",
+     "type": "Pants & Bibs",
+     "tags": [
+      "alt_text",
+      "AW26_NEW",
+      "mens",
+      "new",
+      "pants & bibs"
+     ],
+     "price": "64.00",
+     "published_at": "2026-10-05T11:23:50-05:00"
     }
    ]
   },
@@ -2308,30 +2280,7 @@
       "SP25"
      ],
      "price": "36.00",
-     "published_at": "2026-09-23T11:28:44-04:00"
-    },
-    {
-     "title": "Women's All Day Pocket Legging - Baltic Amber",
-     "handle": "womens-all-day-pocket-legging-baltic-amber",
-     "type": "Women's",
-     "tags": [
-      "All Day",
-      "care::bamboo",
-      "collection::women",
-      "discounts::none",
-      "excWPKLG",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "pdp_group: women-all-day-legging",
-      "Pro-Exclude-Discount",
-      "product_style: Womens All Day Pocket Legging",
-      "returns::none",
-      "SP24",
-      "women-all-day-legging"
-     ],
-     "price": "65.99",
-     "published_at": "2026-09-09T16:21:33-04:00"
+     "published_at": "2026-10-05T16:31:01-04:00"
     },
     {
      "title": "Men's Bamboo Lightweight Hoodie - Glacier",
@@ -2398,6 +2347,20 @@
      ],
      "price": "36.00",
      "published_at": "2026-09-03T00:06:18-04:00"
+    },
+    {
+     "title": "Women's Ribbed Bamboo Long Sleeve - Plum",
+     "handle": "womens-ribbed-bamboo-long-sleeve-plum",
+     "type": "Women's",
+     "tags": [
+      "excWRIBLS",
+      "FA26",
+      "flag::New Color",
+      "pdp_group: women-ribbed-bamboo",
+      "product_style: Womens Ribbed Bamboo Long Sleeve"
+     ],
+     "price": "68.00",
+     "published_at": "2026-08-31T08:42:13-04:00"
     }
    ]
   },
@@ -2530,7 +2493,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2638000",
+     "price": "2639000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2543,7 +2506,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5275000",
+     "price": "5278000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2556,7 +2519,7 @@
       "retail",
       "wsc"
      ],
-     "price": "923000",
+     "price": "924000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -2569,7 +2532,7 @@
       "retail",
       "wsc"
      ],
-     "price": "923000",
+     "price": "924000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2580,7 +2543,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1583000",
+     "price": "1584000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2634,62 +2597,90 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "24 Days Lure Advent Calendar Fishing 2026 Advent Calendar Fishing Gifts Fisherman",
-     "handle": "24-days-lure-advent-calendar-fishing-2026-advent-calendar-fishing-gifts-fisherman",
-     "type": "",
-     "tags": [],
-     "price": "79.99",
-     "published_at": "2026-09-30T21:51:07-06:00"
-    },
-    {
-     "title": "Custom Name Fishing Team Polo Shirt VCE1027",
-     "handle": "custom-name-fishing-team-polo-shirt-vce1027",
+     "title": "Mallard Duck feather pattern Polo Shirt VCE051031",
+     "handle": "mallard-duck-feather-pattern-polo-shirt-vce051031",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-30T04:26:02-06:00"
+     "published_at": "2026-10-05T03:58:01-06:00"
     },
     {
-     "title": "Custom Name Deep Sea Fishing Polo Shirt VCE1026",
-     "handle": "custom-name-deep-sea-fishing-polo-shirt-vce1026",
+     "title": "Wood Duck feather pattern Polo Shirt VCE051030",
+     "handle": "wood-duck-feather-pattern-polo-shirt-vce051030",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-30T04:15:10-06:00"
+     "published_at": "2026-10-05T03:55:16-06:00"
     },
     {
-     "title": "Custom Name Deep Sea Fishing Polo Shirt VCE1025",
-     "handle": "custom-name-deep-sea-fishing-polo-shirt-vce1025",
+     "title": "Northern Pintail feather pattern Polo Shirt VCE051029",
+     "handle": "northern-pintail-feather-pattern-polo-shirt-vce051029",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-30T03:23:39-06:00"
+     "published_at": "2026-10-05T03:52:49-06:00"
     },
     {
-     "title": "Blue Marlin Fishing Polo Shirt VCE1024",
-     "handle": "blue-marlin-fishing-polo-shirt-vce1024",
+     "title": "Trout Fish Scale Camo Fishing Polo ShirtVCE051028",
+     "handle": "trout-fish-scale-camo-fishing-polo-shirtvce051028",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-09-30T03:02:21-06:00"
+     "published_at": "2026-10-05T02:43:02-06:00"
+    },
+    {
+     "title": "Bass Fish Scale Camo Fishing Polo ShirtVCE051027",
+     "handle": "bass-fish-scale-camo-fishing-polo-shirtvce051027",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-10-05T02:42:22-06:00"
     }
    ]
   },
   "Terrabound": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Men's Gilet - Hooded Fleece Gilet - Quilted Body Warmer",
+     "handle": "mens-gilet-hooded-fleece-gilet-quilted-body-warmer",
+     "type": "Outdoor gilet",
+     "tags": [
+      "activity:hiking",
+      "activity:walking",
+      "autumn",
+      "body warmer",
+      "bodywarmer",
+      "fleece gilet",
+      "fleece lined",
+      "gender:mens",
+      "gilet",
+      "hooded gilet",
+      "mens gilet",
+      "outdoor",
+      "quilted gilet",
+      "sherpa",
+      "type:gilets",
+      "winter"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-05T19:01:37+02:00"
+    },
     {
      "title": "Lightweight Outdoor Utility Vest with Multiple Pockets – Breathable Design for Field Use",
      "handle": "lightweight-outdoor-utility-vest-with-multiple-pockets-breathable-design-for-field-use",
@@ -2744,24 +2735,6 @@
      ],
      "price": "44.95",
      "published_at": "2026-10-02T15:40:39+02:00"
-    },
-    {
-     "title": "Men's Crew Neck Jumper - Sherpa Lined Fleece Interior - Warm Winter Top",
-     "handle": "mens-crew-neck-jumper-sherpa-lined-fleece-interior-warm-winter-top",
-     "type": "Men's Fleece",
-     "tags": [
-      "autumn winter",
-      "crew neck jumper",
-      "fleece lined jumper",
-      "fleece sweatshirt",
-      "mens jumper",
-      "sherpa jumper",
-      "sherpa lined",
-      "warm jumper",
-      "winter jumper"
-     ],
-     "price": "44.95",
-     "published_at": "2026-10-02T15:28:40+02:00"
     }
    ]
   }
@@ -2769,7 +2742,7 @@
  "policies": {
   "GritFell": {
    "https://gritfell.com/policies/shipping-policy": [
-    "Continue shopping BUY 2 GET 1 FREE SITEWIDE | ENDS OCTOBER 08 Free Ground Shipping on Order $75+ Shipping policy At Gritfell, we strive to deliver your order as quickly and efficiently as possible.",
+    "Continue shopping BUY 2 GET 1 FREE SITEWIDE Free Ground Shipping on Order $75+ Shipping policy At Gritfell, we strive to deliver your order as quickly and efficiently as possible.",
     "Please review the information below regarding production times, shipping methods, delivery estimates, and shipping fees.",
     "Clothing: Production typically takes 3 - 7 business days before shipment.",
     "Embroidered Hats: Production typically takes 1- 3 business days before shipment.",
@@ -2779,7 +2752,7 @@
     "Tracking updates may take 2-5 business days to appear after the carrier receives your package."
    ],
    "https://gritfell.com/policies/refund-policy": [
-    "Continue shopping BUY 2 GET 1 FREE SITEWIDE | ENDS OCTOBER 08 Free Ground Shipping on Order $75+ Refund policy At GritFell, we want you to be satisfied with your order.",
+    "Continue shopping BUY 2 GET 1 FREE SITEWIDE Free Ground Shipping on Order $75+ Refund policy At GritFell, we want you to be satisfied with your order.",
     "If there is an issue with the product you received, please contact our Customer Support team at support@gritfell.com before returning any item.",
     "60-Day Return Policy Eligible products may be returned within 60 days from the date of delivery.",
     "Free Returns for Eligible Orders If your return is approved because the product is defective, damaged, incorrect, or the issue was caused by GritFell, there will be no return shipping cost to you.",
