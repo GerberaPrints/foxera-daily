@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-05",
- "fetched_at": "2026-10-05T04:45:03.609112+07:00",
+ "date": "2026-10-06",
+ "fetched_at": "2026-10-06T04:45:03.649076+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "Golfing in the Rocky Mountains",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wsgk2z/golfing_in_the_rocky_mountains/",
-     "selftext_head": ""
-    },
     {
      "title": "South Korean golfer Tom Kim receives a military exemption with a gold medal at the Asian Games",
      "score": null,
@@ -91,15 +82,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Same",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wsfgip/same/",
-     "selftext_head": ""
-    },
-    {
      "title": "PGA Tour Bank of Utah Championship: Jordan Smith holed out his 238-yard approach shot to card the rare albatross on the 590-yard, par-5 ninth hole",
      "score": null,
      "num_comments": null,
@@ -127,6 +109,15 @@
      "selftext_head": ""
     },
     {
+     "title": "tough day - golfer passed away",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wxvoki/tough_day_golfer_passed_away/",
+     "selftext_head": ""
+    },
+    {
      "title": "Saw this legend on the wall at American Lake Veterans Golf Course in Lakewood, WA.",
      "score": null,
      "num_comments": null,
@@ -142,6 +133,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1ww1ybs/ghins_sexist_system/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Ace or Ace*?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wwu538/ace_or_ace/",
      "selftext_head": ""
     }
    ]
@@ -247,14 +247,14 @@
   "bachelor party golf": [
    "bachelor party golf trips",
    "bachelor party golf balls",
-   "bachelor party golf shirts",
-   "bachelor party golf ideas",
-   "bachelor party golf gifts",
    "bachelor party golf games",
+   "bachelor party golf shirts",
+   "bachelor party golf gifts",
    "bachelor party golf packages",
    "bachelor party golf hats",
    "bachelor party golf polos",
-   "bachelor party golf"
+   "bachelor party golf",
+   "bachelor party golf theme"
   ],
   "golf gift for boss": [
    "golf gift for boss",
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "quay walker",
-  "rashid shaheed",
-  "golden state valkyries",
-  "deebo samuel",
-  "plague",
-  "ap rankings college football",
-  "landman season 3",
-  "jed york",
-  "ashton jeanty",
-  "connor heyward"
+  "monday night football tonight",
+  "sean newcomb",
+  "s&amp;p 500",
+  "martinique vs el salvador",
+  "jeffrey archer",
+  "tank bigsby",
+  "gulf coast tropical storm forecast",
+  "jessica biel",
+  "united states department of justice",
+  "tbs"
  ],
  "errors": []
 }
