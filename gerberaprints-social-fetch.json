@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-06",
- "fetched_at": "2026-10-06T04:45:03.649076+07:00",
+ "date": "2026-10-07",
+ "fetched_at": "2026-10-07T04:45:04.128557+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -46,6 +46,15 @@
      "selftext_head": ""
     },
     {
+     "title": "We tried nothing and are all out of ideas",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wyfz3g/we_tried_nothing_and_are_all_out_of_ideas/",
+     "selftext_head": ""
+    },
+    {
      "title": "Tom Kim wins gold at Asian games 2026 and receives military exemption",
      "score": null,
      "num_comments": null,
@@ -61,15 +70,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wuit2n/british_speedgolf_champ_rob_hogan_aka_marooch_has/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Shout out to Ben. Be like Ben.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wtir1z/shout_out_to_ben_be_like_ben/",
      "selftext_head": ""
     },
     {
@@ -91,21 +91,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Got me a slam dunk!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wz3y2l/got_me_a_slam_dunk/",
+     "selftext_head": ""
+    },
+    {
      "title": "Phil Mickelson Entered Treatment Center for Family Trauma and Addiction",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wues5t/phil_mickelson_entered_treatment_center_for/",
-     "selftext_head": ""
-    },
-    {
-     "title": "USGA Mid-Amateur Championship Update: We're down to 8 golfers. 6 are former professional golfers.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wtso8o/usga_midamateur_championship_update_were_down_to/",
      "selftext_head": ""
     },
     {
@@ -118,21 +118,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Saw this legend on the wall at American Lake Veterans Golf Course in Lakewood, WA.",
+     "title": "USGA Mid-Amateur Championship Update: We're down to 8 golfers. 6 are former professional golfers.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wunenk/saw_this_legend_on_the_wall_at_american_lake/",
-     "selftext_head": ""
-    },
-    {
-     "title": "GHIN’s sexist system",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1ww1ybs/ghins_sexist_system/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wtso8o/usga_midamateur_championship_update_were_down_to/",
      "selftext_head": ""
     },
     {
@@ -142,6 +133,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wwu538/ace_or_ace/",
+     "selftext_head": ""
+    },
+    {
+     "title": "GHIN’s sexist system",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1ww1ybs/ghins_sexist_system/",
      "selftext_head": ""
     }
    ]
@@ -247,14 +247,14 @@
   "bachelor party golf": [
    "bachelor party golf trips",
    "bachelor party golf balls",
-   "bachelor party golf games",
    "bachelor party golf shirts",
+   "bachelor party golf ideas",
    "bachelor party golf gifts",
+   "bachelor party golf games",
    "bachelor party golf packages",
    "bachelor party golf hats",
    "bachelor party golf polos",
-   "bachelor party golf",
-   "bachelor party golf theme"
+   "bachelor party golf"
   ],
   "golf gift for boss": [
    "golf gift for boss",
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "monday night football tonight",
-  "sean newcomb",
+  "troy football",
+  "chloe kim",
   "s&amp;p 500",
-  "martinique vs el salvador",
-  "jeffrey archer",
-  "tank bigsby",
-  "gulf coast tropical storm forecast",
-  "jessica biel",
-  "united states department of justice",
-  "tbs"
+  "colombia vs peru",
+  "doordash outage",
+  "is christa pike awake",
+  "public loan forgiveness",
+  "lax",
+  "vogue france",
+  "reasonable doubt season 4"
  ],
  "errors": []
 }
