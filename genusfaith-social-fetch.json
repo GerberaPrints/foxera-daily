@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-06",
- "fetched_at": "2026-10-06T04:15:02.833398+07:00",
+ "date": "2026-10-07",
+ "fetched_at": "2026-10-07T04:15:02.909740+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -46,15 +46,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Feast of the Holy Archangels Michael, Raphael, and Gabriel.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wt76br/feast_of_the_holy_archangels_michael_raphael_and/",
-     "selftext_head": ""
-    },
-    {
      "title": "[Free Friday] Here I am Lord, Send me",
      "score": null,
      "num_comments": null,
@@ -91,6 +82,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Today is the Feast Day of Faustina Kowalska, author of Divine Mercy In My Soul.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wy7uql/today_is_the_feast_day_of_faustina_kowalska/",
+     "selftext_head": ""
+    },
+    {
      "title": "San Francisco Archdiocese celebrated Vigil for the local Solemnity of St. Francis of Assisi. Happy Jubilee of the 800th Anniversary of St. Francis’ Transitus!",
      "score": null,
      "num_comments": null,
@@ -109,6 +109,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Haven't consummated marriage after one year",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wyr6gn/havent_consummated_marriage_after_one_year/",
+     "selftext_head": ""
+    },
+    {
      "title": "The One World Leader We Can All Look Up To",
      "score": null,
      "num_comments": null,
@@ -118,30 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Pope Leo’s tender blessing of girl with disabilities captures spirit of his France trip",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wthjrr/pope_leos_tender_blessing_of_girl_with/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Today is the Feast Day of Faustina Kowalska, author of Divine Mercy In My Soul.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wy7uql/today_is_the_feast_day_of_faustina_kowalska/",
-     "selftext_head": ""
-    },
-    {
      "title": "October 4: Happy Feast Day of St.Francis of Assisi ✝️♥️🙏🏻🌹",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wx5isi/october_4_happy_feast_day_of_stfrancis_of_assisi/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Exclusive | Stanford University sees Catholicism surge among Gen Z students",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wyb8ib/exclusive_stanford_university_sees_catholicism/",
      "selftext_head": ""
     }
    ]
@@ -235,8 +235,8 @@
   ],
   "first communion gift": [
    "first communion gifts",
+   "first communion gifts for girls",
    "first communion gifts for boys",
-   "first communion gift for girl",
    "first communion gifts for boys catholic",
    "first communion gift ideas",
    "first communion gifts near me",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "tbs",
-  "central park cyclist dog collision",
-  "artificial intelligence",
-  "eye drop",
-  "mark mortimer",
-  "nations league standings",
-  "southern charm",
-  "bosnia y herzegovina - polonia",
-  "montenegro vs armenia",
-  "france vs"
+  "dodgers vs braves",
+  "today with jenna and sheinelle",
+  "darius wabbington",
+  "usa vs canada",
+  "luke daley detention arizona",
+  "nathan gallagher below deck final episode",
+  "adamari lópez",
+  "argentina hoy",
+  "ai data center",
+  "david rush"
  ],
  "errors": []
 }
