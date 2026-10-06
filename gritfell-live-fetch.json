@@ -2,12 +2,52 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-06",
- "fetched_at": "2026-10-06T04:30:02.749011+07:00",
+ "date": "2026-10-07",
+ "fetched_at": "2026-10-07T04:30:03.409672+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 167,
+   "count_returned": 171,
    "products": [
+    {
+     "title": "First Buck Tag T-shirt",
+     "handle": "first-buck-tag-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-05T18:21:38-07:00"
+    },
+    {
+     "title": "Piling Shadow Tripletail T-shirt",
+     "handle": "piling-shadow-tripletail-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-05T18:19:31-07:00"
+    },
+    {
+     "title": "Still Fishing T-shirt",
+     "handle": "still-fishing-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-05T18:18:49-07:00"
+    },
+    {
+     "title": "Dock Light Read T-shirt",
+     "handle": "dock-light-read-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-05T18:14:06-07:00"
+    },
     {
      "title": "The One He Let Walk T-shirt",
      "handle": "the-one-he-let-walk-t-shirt",
@@ -1922,6 +1962,32 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Winston Dress Shirt",
+     "handle": "winston-dress-shirt",
+     "type": "Shirting",
+     "tags": [
+      "FW2026ZR",
+      "MENZR",
+      "MNEWZR",
+      "MSHIRTZR"
+     ],
+     "price": "225.00",
+     "published_at": "2026-10-06T09:59:51-05:00"
+    },
+    {
+     "title": "Kimbrough Chambray Shirt",
+     "handle": "kimbrough-chambray-shirt",
+     "type": "Shirting",
+     "tags": [
+      "FW2026ZR",
+      "MENZR",
+      "MNEWZR",
+      "MSHIRTZR"
+     ],
+     "price": "185.00",
+     "published_at": "2026-10-05T16:32:06-05:00"
+    },
+    {
      "title": "Clayton Quilted Jacket",
      "handle": "clayton-quilted-jacket",
      "type": "Outerwear",
@@ -1929,7 +1995,8 @@
       "FW2026ZR",
       "MENZR",
       "MJACKETZR",
-      "MNEWZR"
+      "MNEWZR",
+      "WAXZR"
      ],
      "price": "595.00",
      "published_at": "2026-09-30T15:10:07-05:00"
@@ -1959,44 +2026,6 @@
      ],
      "price": "269.99",
      "published_at": "2026-09-17T15:24:24-05:00"
-    },
-    {
-     "title": "Guide Boot by Alden",
-     "handle": "alden-custom-guide-boot",
-     "type": "Footwear",
-     "tags": [
-      "FW2026ZR",
-      "MENZR",
-      "MFOOTZR",
-      "MNEWZR"
-     ],
-     "price": "795.00",
-     "published_at": "2026-09-17T14:58:09-05:00"
-    },
-    {
-     "title": "Fowler Jacket",
-     "handle": "fowler-jacket",
-     "type": "Outerwear",
-     "tags": [
-      "field sport",
-      "FW2023ZR",
-      "FW2024ZR",
-      "FW2026ZR",
-      "HIMGIFTZR",
-      "HUNTZR",
-      "MENZR",
-      "MF23ZR",
-      "MFIELDZR",
-      "MJACKETZR",
-      "MWAXZR",
-      "Regions",
-      "SPORTSMANGIFTZR",
-      "WATERFOWLZR",
-      "WAXZR",
-      "WFOWLGIFTZR"
-     ],
-     "price": "595.00",
-     "published_at": "2026-09-15T15:25:22-05:00"
     }
    ]
   },
@@ -2264,109 +2293,179 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Men's Bamboo Current Polo - Bright White",
-     "handle": "mens-bamboo-current-polo-bright-white",
+     "title": "Men's Elevate Lightweight Tee - Sea Pine",
+     "handle": "mens-elevate-lightweight-tee-sea-pine",
      "type": "Men's",
      "tags": [
-      "care::bamboo",
       "discounts::none",
-      "excMCRNP",
+      "excMELWSS",
+      "final-sale",
+      "final_sale",
+      "flag::final sale",
+      "men-elevate-lightweight",
+      "pdp_group: men-elevate-lightweight",
+      "Pro-Exclude-Discount",
+      "product_style: Mens Elevate Lightweight Tee",
+      "returns::none",
+      "SP26"
+     ],
+     "price": "49.99",
+     "published_at": "2026-10-06T00:33:28-04:00"
+    },
+    {
+     "title": "Women's Bamboo-Lined Active Breeze Skort – 13\" - Sea Pine",
+     "handle": "womens-bamboo-lined-active-breeze-skort-13-sea-pine",
+     "type": "Women's",
+     "tags": [
+      "discounts::none",
+      "excWLABZ",
+      "final-sale",
+      "final_sale",
+      "flag::final sale",
+      "pdp_group: women-active-breeze-skort",
+      "Pro-Exclude-Discount",
+      "product_style: Womens Bamboo Lined Active Breeze Skort 13",
+      "returns::none",
+      "SP26",
+      "women-active-breeze"
+     ],
+     "price": "59.99",
+     "published_at": "2026-10-06T00:31:40-04:00"
+    },
+    {
+     "title": "Knit Beanie - Black Sand",
+     "handle": "knit-beanie-black-sand",
+     "type": "Beanies",
+     "tags": [
+      "discounts::none",
+      "FA25",
       "final-sale",
       "final_sale",
       "flag::final sale",
       "Pro-Exclude-Discount",
-      "product_style: Mens Bamboo Current Polo",
+      "product_style: Knit Beanie",
+      "returns::none"
+     ],
+     "price": "26.60",
+     "published_at": "2026-10-06T00:31:21-04:00"
+    },
+    {
+     "title": "Men's Bamboo Slub Hoodie II - Ochre",
+     "handle": "mens-bamboo-slub-hoodie-ii-ochre",
+     "type": "Men's",
+     "tags": [
+      "care::bamboo",
+      "discounts::none",
+      "excMSLBH",
+      "final-sale",
+      "final_sale",
+      "flag::final sale",
+      "Pro-Exclude-Discount",
+      "product_style: Mens Bamboo Slub Hoodie II",
       "returns::none",
       "SP25"
      ],
-     "price": "36.00",
-     "published_at": "2026-10-05T16:31:01-04:00"
+     "price": "58.80",
+     "published_at": "2026-10-06T00:27:38-04:00"
     },
     {
-     "title": "Men's Bamboo Lightweight Hoodie - Glacier",
-     "handle": "mens-bamboo-lightweight-hoodie-glacier",
-     "type": "Men's",
+     "title": "Women's Elevate Lightweight Coverup - Agave Green",
+     "handle": "womens-elevate-lightweight-coverup-agave-green",
+     "type": "Women's",
      "tags": [
       "care::bamboo",
-      "collection::men",
-      "Color",
-      "discounts::none",
-      "excLWH",
-      "excmcamohoody",
-      "fdbun",
+      "collection::women",
+      "color-category::New",
+      "Elevate",
       "final-sale",
       "final_sale",
       "flag::final sale",
-      "Lightweight",
-      "men-bamboo-lightweight",
-      "priority-product",
+      "klaviyo-low-inventory",
       "Pro-Exclude-Discount",
-      "product_style: Mens LWH Sale",
-      "returns::none"
+      "product_style: Womens Elevate Lightweight Coverup",
+      "returns::none",
+      "SP24"
      ],
-     "price": "49.99",
-     "published_at": "2026-09-09T16:06:42-04:00"
-    },
-    {
-     "title": "Men's Bamboo Motion Boxer Brief - Slate Blue",
-     "handle": "mens-bamboo-motion-boxer-brief-slate-blue",
-     "type": "Men's",
-     "tags": [
-      "bundle::Buy 3 for $96. Use code: BUNDLE",
-      "care::bamboo",
-      "Color",
-      "discount::motion_boxer::3::percent::11::BUY 3 FOR $85",
-      "EXCBBB",
-      "fdbun",
-      "final-sale",
-      "final_sale",
-      "listo-new-pdp",
-      "motionboxergroup",
-      "product_style: Mens Bamboo Motion Boxer Brief",
-      "returns::none"
-     ],
-     "price": "36.00",
-     "published_at": "2026-09-03T00:06:23-04:00"
-    },
-    {
-     "title": "Men's Bamboo Motion Boxer Brief - Slate",
-     "handle": "mens-bamboo-motion-boxer-brief-slate",
-     "type": "Men's",
-     "tags": [
-      "care::bamboo",
-      "collection::men",
-      "Color",
-      "EXCBBB",
-      "fdbun",
-      "final-sale",
-      "final_sale",
-      "listo-new-pdp",
-      "motionboxergroup",
-      "product_style: Mens Bamboo Motion Boxer Brief",
-      "returns::none"
-     ],
-     "price": "36.00",
-     "published_at": "2026-09-03T00:06:18-04:00"
-    },
-    {
-     "title": "Women's Ribbed Bamboo Long Sleeve - Plum",
-     "handle": "womens-ribbed-bamboo-long-sleeve-plum",
-     "type": "Women's",
-     "tags": [
-      "excWRIBLS",
-      "FA26",
-      "flag::New Color",
-      "pdp_group: women-ribbed-bamboo",
-      "product_style: Womens Ribbed Bamboo Long Sleeve"
-     ],
-     "price": "68.00",
-     "published_at": "2026-08-31T08:42:13-04:00"
+     "price": "33.60",
+     "published_at": "2026-10-06T00:18:38-04:00"
     }
    ]
   },
   "BURLEBO": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Duke Tech - Mid Layer - Pintail Camo",
+     "handle": "duke-tech-mid-layer-pintail-camo",
+     "type": "Duke Tech",
+     "tags": [
+      "9/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "Duke Tech",
+      "hide-notify-btn",
+      "Men's",
+      "Outerwear",
+      "pdqreview",
+      "Pintail Camo",
+      "retail",
+      "Season Uncategorized",
+      "Warehouse Sale 2026",
+      "wholesale",
+      "WinterSale",
+      "WinterSale37%"
+     ],
+     "price": "109.00",
+     "published_at": "2026-10-06T15:31:48-05:00"
+    },
+    {
+     "title": "Vintage Washed Tee - Midland Camo",
+     "handle": "vintage-washed-tee-midland-camo",
+     "type": "Vintage Washed Tee",
+     "tags": [
+      "8/13/26",
+      "B2B_Active",
+      "B2B_Sync",
+      "BassPro",
+      "Fall 26",
+      "Fall26",
+      "Mia Review",
+      "PREBOOK START: 07/15/2026",
+      "retail",
+      "Season Fall26",
+      "Short Sleeve",
+      "Tops",
+      "Vintage Washed Tee",
+      "wholesale"
+     ],
+     "price": "34.00",
+     "published_at": "2026-10-06T15:21:18-05:00"
+    },
+    {
+     "title": "Duke Tech - Mid Layer - Gauge Camo",
+     "handle": "duke-tech-mid-layer-gauge-camo",
+     "type": "Duke Tech",
+     "tags": [
+      "9/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "BassPro",
+      "Duke Tech",
+      "Gauge Camo",
+      "hide-notify-btn",
+      "Men's",
+      "Outerwear",
+      "pdqreview",
+      "retail",
+      "Season Uncategorized",
+      "Warehouse Sale 2026",
+      "wholesale",
+      "WinterSale",
+      "WinterSale37%"
+     ],
+     "price": "109.00",
+     "published_at": "2026-10-06T12:54:59-05:00"
+    },
     {
      "title": "Youth Mesh Training Shorts - Fowl Ball - Classic Deer Camo",
      "handle": "youth-mesh-training-shorts-fowl-ball-classic-deer-camo",
@@ -2412,68 +2511,6 @@
      ],
      "price": "44.99",
      "published_at": "2026-09-29T17:30:42-05:00"
-    },
-    {
-     "title": "Toddler Crocs Classic Clog - Classic Deer Camo",
-     "handle": "toddler-crocs-classic-clog-classic-deer-camo",
-     "type": "Footwear",
-     "tags": [
-      "9/29/26",
-      "Accessories",
-      "B2B_Active",
-      "B2B_Sync",
-      "classic-deer-camo",
-      "Crocs",
-      "Footwear",
-      "pdqreview",
-      "retail",
-      "wholesale",
-      "wrapped:blocks:include",
-      "Youth"
-     ],
-     "price": "44.99",
-     "published_at": "2026-09-29T07:09:23-05:00"
-    },
-    {
-     "title": "Youth Crocs Classic Clog - Classic Deer Camo",
-     "handle": "youth-crocs-classic-clog-classic-deer-camo",
-     "type": "Footwear",
-     "tags": [
-      "9/29/26",
-      "Accessories",
-      "B2B_Active",
-      "B2B_Sync",
-      "classic-deer-camo",
-      "Crocs",
-      "Footwear",
-      "pdqreview",
-      "retail",
-      "wholesale",
-      "wrapped:blocks:include",
-      "Youth"
-     ],
-     "price": "49.99",
-     "published_at": "2026-09-29T07:09:22-05:00"
-    },
-    {
-     "title": "Crocs Classic Clog - Classic Deer Camo",
-     "handle": "crocs-classic-clog-classic-deer-camo",
-     "type": "Footwear",
-     "tags": [
-      "9/29/26",
-      "Accessories",
-      "B2B_Active",
-      "B2B_Sync",
-      "classic-deer-camo",
-      "Crocs",
-      "Footwear",
-      "pdqreview",
-      "retail",
-      "wholesale",
-      "wrapped:blocks:include"
-     ],
-     "price": "64.99",
-     "published_at": "2026-09-29T07:09:20-05:00"
     }
    ]
   },
@@ -2493,7 +2530,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2639000",
+     "price": "2638000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2506,7 +2543,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5278000",
+     "price": "5276000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2543,7 +2580,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1584000",
+     "price": "1583000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2597,59 +2634,47 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Mallard Duck feather pattern Polo Shirt VCE051031",
-     "handle": "mallard-duck-feather-pattern-polo-shirt-vce051031",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-10-05T03:58:01-06:00"
+     "title": "Fishing Bass Hunting Hoodie",
+     "handle": "fishing-bass-hunting-hoodie",
+     "type": "",
+     "tags": [],
+     "price": "69.99",
+     "published_at": "2026-10-06T06:37:33-06:00"
     },
     {
-     "title": "Wood Duck feather pattern Polo Shirt VCE051030",
-     "handle": "wood-duck-feather-pattern-polo-shirt-vce051030",
+     "title": "Bass Fishing Hunting Camo Polo Shirt VCP1049",
+     "handle": "bass-fishing-hunting-camo-polo-shirt-vcp1049",
      "type": "Polo Shirt",
      "tags": [
       "Fishing",
       "Polo Shirt"
      ],
      "price": "39.99",
-     "published_at": "2026-10-05T03:55:16-06:00"
+     "published_at": "2026-10-06T06:32:27-06:00"
     },
     {
-     "title": "Northern Pintail feather pattern Polo Shirt VCE051029",
-     "handle": "northern-pintail-feather-pattern-polo-shirt-vce051029",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-10-05T03:52:49-06:00"
+     "title": "Fishing Whisperer Camo Hunting Hoodie",
+     "handle": "fishing-whisperer-camo-hunting-hoodie",
+     "type": "",
+     "tags": [],
+     "price": "69.99",
+     "published_at": "2026-10-06T05:54:46-06:00"
     },
     {
-     "title": "Trout Fish Scale Camo Fishing Polo ShirtVCE051028",
-     "handle": "trout-fish-scale-camo-fishing-polo-shirtvce051028",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-10-05T02:43:02-06:00"
+     "title": "Fishing Pattern Camo Hunting Hoodie",
+     "handle": "fishing-pattern-camo-hunting-hoodie",
+     "type": "",
+     "tags": [],
+     "price": "69.99",
+     "published_at": "2026-10-06T05:52:23-06:00"
     },
     {
-     "title": "Bass Fish Scale Camo Fishing Polo ShirtVCE051027",
-     "handle": "bass-fish-scale-camo-fishing-polo-shirtvce051027",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-10-05T02:42:22-06:00"
+     "title": "Labrador retriever Duck Hunting Hoodie",
+     "handle": "labrador-retriever-duck-hunting-hoodie",
+     "type": "",
+     "tags": [],
+     "price": "69.99",
+     "published_at": "2026-10-06T04:27:32-06:00"
     }
    ]
   },
@@ -2788,14 +2813,14 @@
   },
   "Huntdad": {
    "https://huntdad.com/policies/shipping-policy": [
-    "Shipping policy &ndash; HuntDad Skip to content storefront Wishing you a Merry Christmas filled with joy and warmth!",
     "DEER HUNTING DEER HUNTING Shopping Cart You're $199 away from Free Shipping!",
     "&nbsp local_shipping Free Ship Loading...",
     "Subtotal $0.00 Update Check out Amazon American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa Shipping policy Shipping and delivery 1.",
     "Processing Time Orders are processed within 3– 4 business days before shipment.",
     "During peak seasons or holidays, processing may take slightly longer.",
     "Shipping Methods and Rates We currently ship within the United States only.",
-    "Flat rates apply: United States Economy (4–6 business days): $6.99 Estimated Delivery Time = Processing + Shipping Example: A U.S."
+    "Flat rates apply: United States Economy (4–6 business days): $6.99 Estimated Delivery Time = Processing + Shipping Example: A U.S.",
+    "Economy order may take 7–10 business days total."
    ]
   }
  },
