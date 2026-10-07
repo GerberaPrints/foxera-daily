@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-07",
- "fetched_at": "2026-10-07T04:15:02.909740+07:00",
+ "date": "2026-10-08",
+ "fetched_at": "2026-10-08T04:15:03.107789+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -73,6 +73,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Our Lady of the Rosary",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wzskdy/our_lady_of_the_rosary/",
+     "selftext_head": ""
+    },
+    {
      "title": "My drawing of Mary :) (free Friday)",
      "score": null,
      "num_comments": null,
@@ -118,12 +127,12 @@
      "selftext_head": ""
     },
     {
-     "title": "The One World Leader We Can All Look Up To",
+     "title": "Pope Leo prays for Gaza victims: \"How long, O Lord?\" - Vatican News",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wu4139/the_one_world_leader_we_can_all_look_up_to/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wz3f72/pope_leo_prays_for_gaza_victims_how_long_o_lord/",
      "selftext_head": ""
     },
     {
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wx5isi/october_4_happy_feast_day_of_stfrancis_of_assisi/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Exclusive | Stanford University sees Catholicism surge among Gen Z students",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wyb8ib/exclusive_stanford_university_sees_catholicism/",
      "selftext_head": ""
     }
    ]
@@ -211,7 +211,6 @@
   ],
   "catholic home decor": [
    "catholic home decor",
-   "catholic home decor ideas",
    "catholic home decor shop",
    "catholic home decor canada",
    "catholic home decor australia",
@@ -219,6 +218,7 @@
    "catholic home decor near me",
    "catholic home decor reddit",
    "catholic home decor nearby",
+   "catholic home decor store",
    "catholic home decor book"
   ],
   "saint medal necklace": [
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "dodgers vs braves",
-  "today with jenna and sheinelle",
-  "darius wabbington",
-  "usa vs canada",
-  "luke daley detention arizona",
-  "nathan gallagher below deck final episode",
-  "adamari lópez",
-  "argentina hoy",
-  "ai data center",
-  "david rush"
+  "sam antonacci",
+  "bryan hudson",
+  "talarico",
+  "escambia county school district",
+  "reese pumpkin candy carving disclaimer",
+  "steven kwan",
+  "cle vs cws",
+  "cody rhodes",
+  "jim thome",
+  "will venable"
  ],
  "errors": []
 }
