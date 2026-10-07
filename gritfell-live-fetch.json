@@ -2,12 +2,122 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-07",
- "fetched_at": "2026-10-07T04:30:03.409672+07:00",
+ "date": "2026-10-08",
+ "fetched_at": "2026-10-08T04:30:03.153286+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 171,
+   "count_returned": 182,
    "products": [
+    {
+     "title": "Deer Anatomy T-shirt",
+     "handle": "deer-anatomy-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T02:22:55-07:00"
+    },
+    {
+     "title": "First Fish Lift T-shirt",
+     "handle": "first-fish-lift-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T02:20:26-07:00"
+    },
+    {
+     "title": "Piling Shadow Dawn T-shirt",
+     "handle": "piling-shadow-dawn-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T02:18:30-07:00"
+    },
+    {
+     "title": "Frozen Field Wait T-shirt",
+     "handle": "frozen-field-wait-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T02:16:26-07:00"
+    },
+    {
+     "title": "Creek Crossing Pause T-shirt",
+     "handle": "creek-crossing-pause-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T02:13:03-07:00"
+    },
+    {
+     "title": "Whitetail Pursuit T-shirt",
+     "handle": "whitetail-pursuit-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T02:10:52-07:00"
+    },
+    {
+     "title": "Ridge Line Bugle T-shirt",
+     "handle": "ridge-line-bugle-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T02:07:56-07:00"
+    },
+    {
+     "title": "Bird Dog Hunt T-shirt",
+     "handle": "bird-dog-hunt-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T01:01:08-07:00"
+    },
+    {
+     "title": "Wild Hunt T-shirt",
+     "handle": "wild-hunt-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T00:58:48-07:00"
+    },
+    {
+     "title": "Find Unseen Coastal Keepers T-shirt",
+     "handle": "find-unseen-coastal-keepers-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T00:53:45-07:00"
+    },
+    {
+     "title": "Hooked on Freedom T-shirt",
+     "handle": "hooked-on-freedom-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T00:51:32-07:00"
+    },
     {
      "title": "First Buck Tag T-shirt",
      "handle": "first-buck-tag-t-shirt",
@@ -2029,51 +2139,6 @@
     }
    ]
   },
-  "Howler Brothers": {
-   "count_returned": 5,
-   "products": [
-    {
-     "title": "UVA Aperture Tech Strapback",
-     "handle": "uva-aperture-tech-strapback",
-     "type": "",
-     "tags": [],
-     "price": "40.00",
-     "published_at": "2026-09-29T08:48:00-05:00"
-    },
-    {
-     "title": "UVA Feedstore Snapback",
-     "handle": "uva-feedstore-snapback",
-     "type": "",
-     "tags": [],
-     "price": "40.00",
-     "published_at": "2026-09-29T08:47:59-05:00"
-    },
-    {
-     "title": "UVA Snapback -  Leaping Hoo : Cavalier Blue",
-     "handle": "uva-snapback-leaping-hoo-cavalier-blue",
-     "type": "",
-     "tags": [],
-     "price": "40.00",
-     "published_at": "2026-09-29T08:47:59-05:00"
-    },
-    {
-     "title": "UVA Longsleeve Cotton T-Shirt",
-     "handle": "uva-longsleeve-cotton-t-shirt",
-     "type": "",
-     "tags": [],
-     "price": "45.00",
-     "published_at": "2026-09-29T08:47:59-05:00"
-    },
-    {
-     "title": "Wahoo Matrix T-Shirt",
-     "handle": "wahoo-matrix-t-shirt",
-     "type": "",
-     "tags": [],
-     "price": "45.00",
-     "published_at": "2026-09-29T08:47:58-05:00"
-    }
-   ]
-  },
   "AFTCO": {
    "count_returned": 5,
    "products": [
@@ -2219,6 +2284,24 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "MST Drake Dry Waxed Cotton Wading Jacket",
+     "handle": "mst-drake-dry-waxed-cotton-wading-jacket",
+     "type": "Jackets & Vests",
+     "tags": [
+      "alt_text",
+      "AW26 Catalog",
+      "AW26 Price Tracking",
+      "AW26_NEW",
+      "insulated",
+      "jackets-vests",
+      "master_list_new_arrivals_26",
+      "mens",
+      "new"
+     ],
+     "price": "299.99",
+     "published_at": "2026-10-07T08:55:51-05:00"
+    },
+    {
      "title": "Spoonie Head Logo Hoodie",
      "handle": "spoonie-hollywood-hoodie-copy",
      "type": "Hoodies & Pullovers",
@@ -2272,20 +2355,6 @@
      ],
      "price": "74.00",
      "published_at": "2026-10-05T11:23:51-05:00"
-    },
-    {
-     "title": "Spoonie Hollywood Pant",
-     "handle": "spoonie-hollywood-pant",
-     "type": "Pants & Bibs",
-     "tags": [
-      "alt_text",
-      "AW26_NEW",
-      "mens",
-      "new",
-      "pants & bibs"
-     ],
-     "price": "64.00",
-     "published_at": "2026-10-05T11:23:50-05:00"
     }
    ]
   },
@@ -2293,224 +2362,70 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Men's Elevate Lightweight Tee - Sea Pine",
-     "handle": "mens-elevate-lightweight-tee-sea-pine",
+     "title": "Men's Bamboo Flex Pocket Tee - Anthracite",
+     "handle": "mens-bamboo-flex-pocket-tee-anthracite",
      "type": "Men's",
      "tags": [
-      "discounts::none",
-      "excMELWSS",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "men-elevate-lightweight",
-      "pdp_group: men-elevate-lightweight",
-      "Pro-Exclude-Discount",
-      "product_style: Mens Elevate Lightweight Tee",
-      "returns::none",
-      "SP26"
+      "excMFT",
+      "FA26",
+      "flag::New Color",
+      "product_style: Mens Bamboo Flex Pocket Tee"
      ],
-     "price": "49.99",
-     "published_at": "2026-10-06T00:33:28-04:00"
+     "price": "58.00",
+     "published_at": "2026-10-07T15:35:47-04:00"
     },
     {
-     "title": "Women's Bamboo-Lined Active Breeze Skort – 13\" - Sea Pine",
-     "handle": "womens-bamboo-lined-active-breeze-skort-13-sea-pine",
+     "title": "Loop Gift Card",
+     "handle": "loop-gift-card",
+     "type": "Gift Cards",
+     "tags": [
+      "exclude-review",
+      "listo-pdp-legacy"
+     ],
+     "price": "30.00",
+     "published_at": "2026-10-07T15:11:33-04:00"
+    },
+    {
+     "title": "Women's Bamboo-Lined Breeze Short – 4\" - Clear Sky",
+     "handle": "womens-bamboo-lined-breeze-shorts-clear-sky",
      "type": "Women's",
      "tags": [
-      "discounts::none",
-      "excWLABZ",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "pdp_group: women-active-breeze-skort",
-      "Pro-Exclude-Discount",
-      "product_style: Womens Bamboo Lined Active Breeze Skort 13",
-      "returns::none",
-      "SP26",
-      "women-active-breeze"
-     ],
-     "price": "59.99",
-     "published_at": "2026-10-06T00:31:40-04:00"
-    },
-    {
-     "title": "Knit Beanie - Black Sand",
-     "handle": "knit-beanie-black-sand",
-     "type": "Beanies",
-     "tags": [
-      "discounts::none",
-      "FA25",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "Pro-Exclude-Discount",
-      "product_style: Knit Beanie",
-      "returns::none"
-     ],
-     "price": "26.60",
-     "published_at": "2026-10-06T00:31:21-04:00"
-    },
-    {
-     "title": "Men's Bamboo Slub Hoodie II - Ochre",
-     "handle": "mens-bamboo-slub-hoodie-ii-ochre",
-     "type": "Men's",
-     "tags": [
-      "care::bamboo",
-      "discounts::none",
-      "excMSLBH",
-      "final-sale",
-      "final_sale",
-      "flag::final sale",
-      "Pro-Exclude-Discount",
-      "product_style: Mens Bamboo Slub Hoodie II",
-      "returns::none",
-      "SP25"
-     ],
-     "price": "58.80",
-     "published_at": "2026-10-06T00:27:38-04:00"
-    },
-    {
-     "title": "Women's Elevate Lightweight Coverup - Agave Green",
-     "handle": "womens-elevate-lightweight-coverup-agave-green",
-     "type": "Women's",
-     "tags": [
+      "breeze",
       "care::bamboo",
       "collection::women",
-      "color-category::New",
-      "Elevate",
+      "Color",
+      "discounts::none",
+      "excwlinedbreeze",
       "final-sale",
       "final_sale",
       "flag::final sale",
-      "klaviyo-low-inventory",
+      "linedbreeze",
+      "listo-new-pdp",
+      "LTV - Paid Social",
+      "LTV - Paid Social - Breeze",
+      "priority-product",
       "Pro-Exclude-Discount",
-      "product_style: Womens Elevate Lightweight Coverup",
-      "returns::none",
-      "SP24"
+      "product_style: Womens Bamboo_Lined Breeze Short – 4",
+      "returns::none"
      ],
-     "price": "33.60",
-     "published_at": "2026-10-06T00:18:38-04:00"
-    }
-   ]
-  },
-  "BURLEBO": {
-   "count_returned": 5,
-   "products": [
-    {
-     "title": "Duke Tech - Mid Layer - Pintail Camo",
-     "handle": "duke-tech-mid-layer-pintail-camo",
-     "type": "Duke Tech",
-     "tags": [
-      "9/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "Duke Tech",
-      "hide-notify-btn",
-      "Men's",
-      "Outerwear",
-      "pdqreview",
-      "Pintail Camo",
-      "retail",
-      "Season Uncategorized",
-      "Warehouse Sale 2026",
-      "wholesale",
-      "WinterSale",
-      "WinterSale37%"
-     ],
-     "price": "109.00",
-     "published_at": "2026-10-06T15:31:48-05:00"
+     "price": "54.99",
+     "published_at": "2026-10-07T15:10:25-04:00"
     },
     {
-     "title": "Vintage Washed Tee - Midland Camo",
-     "handle": "vintage-washed-tee-midland-camo",
-     "type": "Vintage Washed Tee",
-     "tags": [
-      "8/13/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "BassPro",
-      "Fall 26",
-      "Fall26",
-      "Mia Review",
-      "PREBOOK START: 07/15/2026",
-      "retail",
-      "Season Fall26",
-      "Short Sleeve",
-      "Tops",
-      "Vintage Washed Tee",
-      "wholesale"
-     ],
-     "price": "34.00",
-     "published_at": "2026-10-06T15:21:18-05:00"
+     "title": "SS - Polos",
+     "handle": "ss-polos",
+     "type": "",
+     "tags": [],
+     "price": "25.00",
+     "published_at": "2026-10-07T15:06:36-04:00"
     },
     {
-     "title": "Duke Tech - Mid Layer - Gauge Camo",
-     "handle": "duke-tech-mid-layer-gauge-camo",
-     "type": "Duke Tech",
-     "tags": [
-      "9/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "BassPro",
-      "Duke Tech",
-      "Gauge Camo",
-      "hide-notify-btn",
-      "Men's",
-      "Outerwear",
-      "pdqreview",
-      "retail",
-      "Season Uncategorized",
-      "Warehouse Sale 2026",
-      "wholesale",
-      "WinterSale",
-      "WinterSale37%"
-     ],
-     "price": "109.00",
-     "published_at": "2026-10-06T12:54:59-05:00"
-    },
-    {
-     "title": "Youth Mesh Training Shorts - Fowl Ball - Classic Deer Camo",
-     "handle": "youth-mesh-training-shorts-fowl-ball-classic-deer-camo",
-     "type": "Youth - Mesh Training Short",
-     "tags": [
-      "7/28/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "Bottoms",
-      "excludeblink",
-      "Mesh Short",
-      "Mesh Training Short",
-      "retail",
-      "Season Fall26",
-      "Season Summer26",
-      "Short Sleeve",
-      "Summer 26",
-      "wholesale",
-      "Youth"
-     ],
-     "price": "46.00",
-     "published_at": "2026-10-01T08:08:29-05:00"
-    },
-    {
-     "title": "Toddler + Youth Crocs Classic Clog - Classic Deer Camo",
-     "handle": "toddler-youth-crocs-classic-clog-classic-deer-camo",
-     "type": "Footwear",
-     "tags": [
-      "9/29/26",
-      "Accessories",
-      "B2B_Active",
-      "B2B_Sync",
-      "classic-deer-camo",
-      "Crocs",
-      "Footwear",
-      "pdqreview",
-      "retail",
-      "Toddler",
-      "wholesale",
-      "wrapped:blocks:include",
-      "Youth"
-     ],
-     "price": "44.99",
-     "published_at": "2026-09-29T17:30:42-05:00"
+     "title": "SS - Henleys",
+     "handle": "ss-henleys",
+     "type": "",
+     "tags": [],
+     "price": "25.00",
+     "published_at": "2026-10-07T15:06:35-04:00"
     }
    ]
   },
@@ -2530,7 +2445,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2638000",
+     "price": "2637000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2543,7 +2458,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5276000",
+     "price": "5274000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2556,7 +2471,7 @@
       "retail",
       "wsc"
      ],
-     "price": "924000",
+     "price": "923000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -2569,7 +2484,7 @@
       "retail",
       "wsc"
      ],
-     "price": "924000",
+     "price": "923000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2580,7 +2495,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1583000",
+     "price": "1582000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2627,139 +2542,6 @@
      "tags": [],
      "price": "69.95",
      "published_at": "2026-09-29T00:41:53-07:00"
-    }
-   ]
-  },
-  "Huntdad": {
-   "count_returned": 5,
-   "products": [
-    {
-     "title": "Fishing Bass Hunting Hoodie",
-     "handle": "fishing-bass-hunting-hoodie",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-06T06:37:33-06:00"
-    },
-    {
-     "title": "Bass Fishing Hunting Camo Polo Shirt VCP1049",
-     "handle": "bass-fishing-hunting-camo-polo-shirt-vcp1049",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-10-06T06:32:27-06:00"
-    },
-    {
-     "title": "Fishing Whisperer Camo Hunting Hoodie",
-     "handle": "fishing-whisperer-camo-hunting-hoodie",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-06T05:54:46-06:00"
-    },
-    {
-     "title": "Fishing Pattern Camo Hunting Hoodie",
-     "handle": "fishing-pattern-camo-hunting-hoodie",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-06T05:52:23-06:00"
-    },
-    {
-     "title": "Labrador retriever Duck Hunting Hoodie",
-     "handle": "labrador-retriever-duck-hunting-hoodie",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-06T04:27:32-06:00"
-    }
-   ]
-  },
-  "Terrabound": {
-   "count_returned": 5,
-   "products": [
-    {
-     "title": "Men's Gilet - Hooded Fleece Gilet - Quilted Body Warmer",
-     "handle": "mens-gilet-hooded-fleece-gilet-quilted-body-warmer",
-     "type": "Outdoor gilet",
-     "tags": [
-      "activity:hiking",
-      "activity:walking",
-      "autumn",
-      "body warmer",
-      "bodywarmer",
-      "fleece gilet",
-      "fleece lined",
-      "gender:mens",
-      "gilet",
-      "hooded gilet",
-      "mens gilet",
-      "outdoor",
-      "quilted gilet",
-      "sherpa",
-      "type:gilets",
-      "winter"
-     ],
-     "price": "44.95",
-     "published_at": "2026-10-05T19:01:37+02:00"
-    },
-    {
-     "title": "Lightweight Outdoor Utility Vest with Multiple Pockets – Breathable Design for Field Use",
-     "handle": "lightweight-outdoor-utility-vest-with-multiple-pockets-breathable-design-for-field-use",
-     "type": "utility vest",
-     "tags": [
-      "activity:fishing",
-      "gender:mens",
-      "type:gilets"
-     ],
-     "price": "52.45",
-     "published_at": "2026-10-03T12:26:02+02:00"
-    },
-    {
-     "title": "Snood - Plush Lined Knitted Neck Warmer - Snood Scarf & Neck Gaiter",
-     "handle": "snood-plush-lined-knitted-neck-warmer-snood-scarf-neck-gaiter",
-     "type": "Accessories",
-     "tags": [],
-     "price": "34.95",
-     "published_at": "2026-10-02T15:43:06+02:00"
-    },
-    {
-     "title": "Men's Long Johns - White Base Layer Top & Leggings Set",
-     "handle": "mens-long-johns-white-base-layer-top-leggings-set",
-     "type": "Long Johns",
-     "tags": [
-      "base layer",
-      "base layer set",
-      "gender:male",
-      "leggings",
-      "long johns",
-      "mens long johns",
-      "type:clothing",
-      "white",
-      "winter"
-     ],
-     "price": "44.95",
-     "published_at": "2026-10-02T15:41:36+02:00"
-    },
-    {
-     "title": "Men's Long Johns - Long Sleeve Top and Leggings Set - Navy",
-     "handle": "mens-long-johns-long-sleeve-top-and-leggings-set-navy",
-     "type": "Long Johns",
-     "tags": [
-      "activity:fishing",
-      "activity:walking",
-      "base layer",
-      "gender:male",
-      "long johns",
-      "mens long johns",
-      "type:clothing",
-      "winter"
-     ],
-     "price": "44.95",
-     "published_at": "2026-10-02T15:40:39+02:00"
     }
    ]
   }
@@ -2824,5 +2606,30 @@
    ]
   }
  },
- "errors": []
+ "errors": [
+  {
+   "kind": "feed",
+   "brand": "Howler Brothers",
+   "code": "HTTP 429",
+   "err": "bi rate-limit (cham lai)"
+  },
+  {
+   "kind": "feed",
+   "brand": "BURLEBO",
+   "code": "HTTP 429",
+   "err": "bi rate-limit (cham lai)"
+  },
+  {
+   "kind": "feed",
+   "brand": "Huntdad",
+   "code": "HTTP 429",
+   "err": "bi rate-limit (cham lai)"
+  },
+  {
+   "kind": "feed",
+   "brand": "Terrabound",
+   "code": "HTTP 429",
+   "err": "bi rate-limit (cham lai)"
+  }
+ ]
 }
