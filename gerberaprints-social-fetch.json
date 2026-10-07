@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-07",
- "fetched_at": "2026-10-07T04:45:04.128557+07:00",
+ "date": "2026-10-08",
+ "fetched_at": "2026-10-08T04:45:03.923618+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -16,6 +16,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wwn49m/south_korean_golfer_tom_kim_receives_a_military/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Gonna be shorts on the course from here on out",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wzgkky/gonna_be_shorts_on_the_course_from_here_on_out/",
      "selftext_head": ""
     },
     {
@@ -46,6 +55,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Got me a slam dunk!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wz3y2l/got_me_a_slam_dunk/",
+     "selftext_head": ""
+    },
+    {
      "title": "We tried nothing and are all out of ideas",
      "score": null,
      "num_comments": null,
@@ -73,12 +91,12 @@
      "selftext_head": ""
     },
     {
-     "title": "California Governor signs law prohibiting tee time scalping (punishment of up to $2,500 per violation). Let's see if this actually works.",
+     "title": "Michigan…. You’ve got it good!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wtvceo/california_governor_signs_law_prohibiting_tee/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wzhe0i/michigan_youve_got_it_good/",
      "selftext_head": ""
     },
     {
@@ -91,39 +109,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Got me a slam dunk!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wz3y2l/got_me_a_slam_dunk/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Phil Mickelson Entered Treatment Center for Family Trauma and Addiction",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wues5t/phil_mickelson_entered_treatment_center_for/",
-     "selftext_head": ""
-    },
-    {
      "title": "tough day - golfer passed away",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wxvoki/tough_day_golfer_passed_away/",
-     "selftext_head": ""
-    },
-    {
-     "title": "USGA Mid-Amateur Championship Update: We're down to 8 golfers. 6 are former professional golfers.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wtso8o/usga_midamateur_championship_update_were_down_to/",
      "selftext_head": ""
     },
     {
@@ -142,6 +133,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1ww1ybs/ghins_sexist_system/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Saw this legend on the wall at American Lake Veterans Golf Course in Lakewood, WA.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wunenk/saw_this_legend_on_the_wall_at_american_lake/",
      "selftext_head": ""
     }
    ]
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "troy football",
-  "chloe kim",
-  "s&amp;p 500",
-  "colombia vs peru",
-  "doordash outage",
-  "is christa pike awake",
-  "public loan forgiveness",
-  "lax",
-  "vogue france",
-  "reasonable doubt season 4"
+  "kimberly guilfoyle",
+  "minka kelly",
+  "selección de fútbol de guatemala",
+  "pacers",
+  "sam antonacci",
+  "jo adell",
+  "bryan hudson",
+  "talarico",
+  "steven kwan",
+  "cody rhodes"
  ],
  "errors": []
 }
