@@ -2,12 +2,62 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-08",
- "fetched_at": "2026-10-08T04:30:03.153286+07:00",
+ "date": "2026-10-09",
+ "fetched_at": "2026-10-09T04:30:03.074517+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 182,
+   "count_returned": 187,
    "products": [
+    {
+     "title": "Wild Bear",
+     "handle": "wild-bear",
+     "type": "Hat",
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-10-07T19:29:54-07:00"
+    },
+    {
+     "title": "First Cast New Year T-shirt",
+     "handle": "first-cast-new-year-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T19:11:48-07:00"
+    },
+    {
+     "title": "Last Cold Week T-shirt",
+     "handle": "last-cold-week-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-07T19:09:04-07:00"
+    },
+    {
+     "title": "Claw Mark Hat",
+     "handle": "claw-mark-hat",
+     "type": "Hat",
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-10-07T19:03:45-07:00"
+    },
+    {
+     "title": "Buckmark",
+     "handle": "buckmark",
+     "type": "Hat",
+     "tags": [
+      "hunting"
+     ],
+     "price": "34.00",
+     "published_at": "2026-10-07T18:54:00-07:00"
+    },
     {
      "title": "Deer Anatomy T-shirt",
      "handle": "deer-anatomy-t-shirt",
@@ -2139,6 +2189,51 @@
     }
    ]
   },
+  "Howler Brothers": {
+   "count_returned": 5,
+   "products": [
+    {
+     "title": "UVA Aperture Tech Strapback",
+     "handle": "uva-aperture-tech-strapback",
+     "type": "",
+     "tags": [],
+     "price": "40.00",
+     "published_at": "2026-09-29T08:48:00-05:00"
+    },
+    {
+     "title": "UVA Feedstore Snapback",
+     "handle": "uva-feedstore-snapback",
+     "type": "",
+     "tags": [],
+     "price": "40.00",
+     "published_at": "2026-09-29T08:47:59-05:00"
+    },
+    {
+     "title": "UVA Snapback -  Leaping Hoo : Cavalier Blue",
+     "handle": "uva-snapback-leaping-hoo-cavalier-blue",
+     "type": "",
+     "tags": [],
+     "price": "40.00",
+     "published_at": "2026-09-29T08:47:59-05:00"
+    },
+    {
+     "title": "UVA Longsleeve Cotton T-Shirt",
+     "handle": "uva-longsleeve-cotton-t-shirt",
+     "type": "",
+     "tags": [],
+     "price": "45.00",
+     "published_at": "2026-09-29T08:47:59-05:00"
+    },
+    {
+     "title": "Wahoo Matrix T-Shirt",
+     "handle": "wahoo-matrix-t-shirt",
+     "type": "",
+     "tags": [],
+     "price": "45.00",
+     "published_at": "2026-09-29T08:47:58-05:00"
+    }
+   ]
+  },
   "AFTCO": {
    "count_returned": 5,
    "products": [
@@ -2284,6 +2379,22 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Ol' Tom Youth Tech Stretch Turkey Pants",
+     "handle": "ol-tom-tech-stretch-turkey-pants-copy",
+     "type": "Pants & Bibs",
+     "tags": [
+      "ol-tom",
+      "pants & bibs",
+      "Pants-Shorts",
+      "SS26 Catalog",
+      "SS26_New",
+      "SS27 Catalog",
+      "youth"
+     ],
+     "price": "89.99",
+     "published_at": "2026-10-08T10:37:36-05:00"
+    },
+    {
      "title": "MST Drake Dry Waxed Cotton Wading Jacket",
      "handle": "mst-drake-dry-waxed-cotton-wading-jacket",
      "type": "Jackets & Vests",
@@ -2341,20 +2452,6 @@
      ],
      "price": "79.00",
      "published_at": "2026-10-05T11:23:52-05:00"
-    },
-    {
-     "title": "Spoonie Silencer Hoodie",
-     "handle": "spoonie-silencer-hoodie",
-     "type": "Hoodies & Pullovers",
-     "tags": [
-      "alt_text",
-      "AW26_NEW",
-      "mens",
-      "new",
-      "tops"
-     ],
-     "price": "74.00",
-     "published_at": "2026-10-05T11:23:51-05:00"
     }
    ]
   },
@@ -2429,6 +2526,129 @@
     }
    ]
   },
+  "BURLEBO": {
+   "count_returned": 5,
+   "products": [
+    {
+     "title": "Duke Tech - Mid Layer - Pintail Camo",
+     "handle": "duke-tech-mid-layer-pintail-camo",
+     "type": "Duke Tech",
+     "tags": [
+      "9/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "Duke Tech",
+      "hide-notify-btn",
+      "Men's",
+      "Outerwear",
+      "pdqreview",
+      "Pintail Camo",
+      "retail",
+      "Season Uncategorized",
+      "Warehouse Sale",
+      "wholesale",
+      "WinterSale",
+      "WinterSale37%"
+     ],
+     "price": "109.00",
+     "published_at": "2026-10-06T15:31:48-05:00"
+    },
+    {
+     "title": "Vintage Washed Tee - Midland Camo",
+     "handle": "vintage-washed-tee-midland-camo",
+     "type": "Vintage Washed Tee",
+     "tags": [
+      "8/13/26",
+      "B2B_Active",
+      "B2B_Sync",
+      "BassPro",
+      "Fall 26",
+      "Fall26",
+      "Mia Review",
+      "PREBOOK START: 07/15/2026",
+      "retail",
+      "Season Fall26",
+      "Short Sleeve",
+      "Tops",
+      "Vintage Washed Tee",
+      "wholesale"
+     ],
+     "price": "34.00",
+     "published_at": "2026-10-06T15:21:18-05:00"
+    },
+    {
+     "title": "Duke Tech - Mid Layer - Gauge Camo",
+     "handle": "duke-tech-mid-layer-gauge-camo",
+     "type": "Duke Tech",
+     "tags": [
+      "9/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "BassPro",
+      "Duke Tech",
+      "Gauge Camo",
+      "hide-notify-btn",
+      "Men's",
+      "Outerwear",
+      "pdqreview",
+      "retail",
+      "Season Uncategorized",
+      "Warehouse Sale",
+      "wholesale",
+      "WinterSale",
+      "WinterSale37%"
+     ],
+     "price": "109.00",
+     "published_at": "2026-10-06T12:54:59-05:00"
+    },
+    {
+     "title": "Youth Mesh Training Shorts - Fowl Ball - Classic Deer Camo",
+     "handle": "youth-mesh-training-shorts-fowl-ball-classic-deer-camo",
+     "type": "Youth - Mesh Training Short",
+     "tags": [
+      "7/28/26",
+      "B2B_Active",
+      "B2B_Sync",
+      "BlinkAutoHide",
+      "Bottoms",
+      "excludeblink",
+      "Mesh Short",
+      "Mesh Training Short",
+      "retail",
+      "Season Fall26",
+      "Season Summer26",
+      "Short Sleeve",
+      "Summer 26",
+      "wholesale",
+      "Youth"
+     ],
+     "price": "46.00",
+     "published_at": "2026-10-01T08:08:29-05:00"
+    },
+    {
+     "title": "Toddler + Youth Crocs Classic Clog - Classic Deer Camo",
+     "handle": "toddler-youth-crocs-classic-clog-classic-deer-camo",
+     "type": "Footwear",
+     "tags": [
+      "9/29/26",
+      "Accessories",
+      "B2B_Active",
+      "B2B_Sync",
+      "classic-deer-camo",
+      "Crocs",
+      "Footwear",
+      "pdqreview",
+      "retail",
+      "Toddler",
+      "wholesale",
+      "wrapped:blocks:include",
+      "Youth"
+     ],
+     "price": "44.99",
+     "published_at": "2026-09-29T17:30:42-05:00"
+    }
+   ]
+  },
   "DECOY Apparel": {
    "count_returned": 5,
    "products": [
@@ -2445,7 +2665,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2637000",
+     "price": "2629000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2458,7 +2678,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5274000",
+     "price": "5258000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2471,7 +2691,7 @@
       "retail",
       "wsc"
      ],
-     "price": "923000",
+     "price": "920000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -2484,7 +2704,7 @@
       "retail",
       "wsc"
      ],
-     "price": "923000",
+     "price": "920000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2495,7 +2715,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1582000",
+     "price": "1577000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2542,6 +2762,122 @@
      "tags": [],
      "price": "69.95",
      "published_at": "2026-09-29T00:41:53-07:00"
+    }
+   ]
+  },
+  "Huntdad": {
+   "count_returned": 5,
+   "products": [
+    {
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10077",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10077",
+     "type": "lam",
+     "tags": [],
+     "price": "27.95",
+     "published_at": "2026-10-07T10:01:48-06:00"
+    },
+    {
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10076",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10076",
+     "type": "lam",
+     "tags": [],
+     "price": "27.95",
+     "published_at": "2026-10-07T09:46:52-06:00"
+    },
+    {
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10075",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10074-copy",
+     "type": "lam",
+     "tags": [],
+     "price": "27.95",
+     "published_at": "2026-10-07T09:41:01-06:00"
+    },
+    {
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10074",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10074",
+     "type": "lam",
+     "tags": [],
+     "price": "27.95",
+     "published_at": "2026-10-07T09:35:11-06:00"
+    },
+    {
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10073",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10073",
+     "type": "lam",
+     "tags": [],
+     "price": "27.95",
+     "published_at": "2026-10-07T09:31:13-06:00"
+    }
+   ]
+  },
+  "Terrabound": {
+   "count_returned": 5,
+   "products": [
+    {
+     "title": "Men's Puffer Coat - Hooded Padded Jacket - Winter Jacket",
+     "handle": "mens-puffer-coat-hooded-padded-jacket",
+     "type": "Jacket",
+     "tags": [],
+     "price": "64.95",
+     "published_at": "2026-10-08T18:55:51+02:00"
+    },
+    {
+     "title": "Men's Padded Jacket - Lightweight Insulated Hooded Winter Jacket",
+     "handle": "mens-winter-warm-padded-jackets-lightweight-hooded-tactical-cotton-coat-male-outdoor-waterproof-windproof-thermal-hiking-jackets",
+     "type": "Jackets",
+     "tags": [
+      "activity:camping",
+      "activity:hiking",
+      "activity:walking",
+      "gender:male",
+      "gmc-approved",
+      "type:jacket"
+     ],
+     "price": "59.95",
+     "published_at": "2026-10-08T18:55:36+02:00"
+    },
+    {
+     "title": "Women's Gilet - Quilted Fleece Lined Body Warmer with Poppers",
+     "handle": "womens-gilet-quilted-fleece-lined-body-warmer-with-poppers",
+     "type": "Gilet",
+     "tags": [
+      "activity:walking",
+      "gender:female",
+      "gilet women",
+      "ladies gilet",
+      "quilted gilet",
+      "type:outerwear",
+      "womens body warmer",
+      "womens fleece gilet",
+      "womens gilet",
+      "womens padded gilet",
+      "womens quilted gilet"
+     ],
+     "price": "10.54",
+     "published_at": "2026-10-08T18:54:35+02:00"
+    },
+    {
+     "title": "Mens Softshell Jacket – Fleece Lined Hooded Military Style Coat with Zip Pockets",
+     "handle": "mens-softshell-jacket-fleece-lined-hooded-military-style-coat-with-zip-pockets",
+     "type": "Jacket",
+     "tags": [
+      "jackets"
+     ],
+     "price": "54.45",
+     "published_at": "2026-10-08T18:52:11+02:00"
+    },
+    {
+     "title": "Men's Winter Walking Trousers - Insulated Hiking Trousers",
+     "handle": "mens-insulated-walking-trousers-with-reinforced-knees-for-hill-walking",
+     "type": "Trousers men",
+     "tags": [
+      "activity:hiking",
+      "activity:walking",
+      "gender:mens",
+      "type:trousers-shorts"
+     ],
+     "price": "54.95",
+     "published_at": "2026-10-08T18:51:30+02:00"
     }
    ]
   }
@@ -2606,30 +2942,5 @@
    ]
   }
  },
- "errors": [
-  {
-   "kind": "feed",
-   "brand": "Howler Brothers",
-   "code": "HTTP 429",
-   "err": "bi rate-limit (cham lai)"
-  },
-  {
-   "kind": "feed",
-   "brand": "BURLEBO",
-   "code": "HTTP 429",
-   "err": "bi rate-limit (cham lai)"
-  },
-  {
-   "kind": "feed",
-   "brand": "Huntdad",
-   "code": "HTTP 429",
-   "err": "bi rate-limit (cham lai)"
-  },
-  {
-   "kind": "feed",
-   "brand": "Terrabound",
-   "code": "HTTP 429",
-   "err": "bi rate-limit (cham lai)"
-  }
- ]
+ "errors": []
 }
