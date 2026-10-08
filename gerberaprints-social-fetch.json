@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-08",
- "fetched_at": "2026-10-08T04:45:03.923618+07:00",
+ "date": "2026-10-09",
+ "fetched_at": "2026-10-09T04:45:03.453965+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "South Korean golfer Tom Kim receives a military exemption with a gold medal at the Asian Games",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wwn49m/south_korean_golfer_tom_kim_receives_a_military/",
-     "selftext_head": ""
-    },
     {
      "title": "Gonna be shorts on the course from here on out",
      "score": null,
@@ -25,6 +16,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wzgkky/gonna_be_shorts_on_the_course_from_here_on_out/",
+     "selftext_head": ""
+    },
+    {
+     "title": "South Korean golfer Tom Kim receives a military exemption with a gold medal at the Asian Games",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wwn49m/south_korean_golfer_tom_kim_receives_a_military/",
      "selftext_head": ""
     },
     {
@@ -73,24 +73,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Tom Kim wins gold at Asian games 2026 and receives military exemption",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wwi2op/tom_kim_wins_gold_at_asian_games_2026_and/",
-     "selftext_head": ""
-    },
-    {
-     "title": "British speedgolf champ Rob Hogan (aka Marooch) has a pretty great beard",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wuit2n/british_speedgolf_champ_rob_hogan_aka_marooch_has/",
-     "selftext_head": ""
-    },
-    {
      "title": "Michigan…. You’ve got it good!",
      "score": null,
      "num_comments": null,
@@ -100,12 +82,12 @@
      "selftext_head": ""
     },
     {
-     "title": "PGA Tour Bank of Utah Championship: Jordan Smith holed out his 238-yard approach shot to card the rare albatross on the 590-yard, par-5 ninth hole",
+     "title": "Tom Kim wins gold at Asian games 2026 and receives military exemption",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wvfan2/pga_tour_bank_of_utah_championship_jordan_smith/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wwi2op/tom_kim_wins_gold_at_asian_games_2026_and/",
      "selftext_head": ""
     },
     {
@@ -127,6 +109,15 @@
      "selftext_head": ""
     },
     {
+     "title": "To the hats in dishwasher guy TY",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wzyido/to_the_hats_in_dishwasher_guy_ty/",
+     "selftext_head": ""
+    },
+    {
      "title": "GHIN’s sexist system",
      "score": null,
      "num_comments": null,
@@ -136,12 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Saw this legend on the wall at American Lake Veterans Golf Course in Lakewood, WA.",
+     "title": "To continue from",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wunenk/saw_this_legend_on_the_wall_at_american_lake/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wyaod8/to_continue_from/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I hit the center of my club face today. AMA!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wxtx57/i_hit_the_center_of_my_club_face_today_ama/",
      "selftext_head": ""
     }
    ]
@@ -191,10 +191,10 @@
    "golf dad hat near me",
    "golf dad hat style",
    "golf dad hat canada",
-   "golf dad hat pga superstore",
    "golf daddy hat",
    "golf daddy hat paddington",
-   "golf daddy hat no laying up"
+   "golf daddy hat no laying up",
+   "golf daddy hat australia"
   ],
   "custom golf polo": [
    "custom golf polos",
@@ -230,7 +230,7 @@
    "golf koozie with tee holder",
    "golf koozie sleeve",
    "golf koozie near me",
-   "golf koozie custom"
+   "golf koozie funny"
   ],
   "golf towel funny": [
    "golf towel funny",
@@ -240,9 +240,9 @@
    "golf bag towel funny",
    "amazon golf towel funny",
    "disc golf towel funny",
-   "golf club towel funny",
    "magnetic golf towel funny",
-   "golf towels with funny sayings"
+   "golf towels with funny sayings",
+   "best golf.towels funny"
   ],
   "bachelor party golf": [
    "bachelor party golf trips",
@@ -271,8 +271,8 @@
    "golf clothing funny",
    "golf shirt funny pattern",
    "golf shirts funny women",
-   "golf shirts funny print",
    "golf shirts funny australia",
+   "golf shirts funny print",
    "golf shirts funny amazon",
    "golf shirts funny sayings"
   ],
@@ -282,24 +282,24 @@
    "hawaiian golf shirts for women",
    "hawaiian golf shirts amazon",
    "hawaiian golf shirts australia",
-   "hawaiian golf shirts canada",
    "hawaiian golf shirts near me",
-   "hawaiian golf shirts nearby",
+   "hawaiian golf shirts canada",
    "hawaiian golf shirt brand",
+   "hawaiian golf shirts nearby",
    "hawaiian golf shirts for couples"
   ]
  },
  "trends": [
-  "kimberly guilfoyle",
-  "minka kelly",
-  "selección de fútbol de guatemala",
-  "pacers",
-  "sam antonacci",
-  "jo adell",
-  "bryan hudson",
-  "talarico",
-  "steven kwan",
-  "cody rhodes"
+  "baby angelita",
+  "meteor shower tonight",
+  "ashton jeanty injury",
+  "nasdaq composite",
+  "verizon stock",
+  "att stock",
+  "missouri state football",
+  "natalie harp",
+  "kennedy center board",
+  "carnell tate"
  ],
  "errors": []
 }
