@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-08",
- "fetched_at": "2026-10-08T04:15:03.107789+07:00",
+ "date": "2026-10-09",
+ "fetched_at": "2026-10-09T04:15:03.341025+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -16,15 +16,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvwlom/pope_leo_on_the_importance_of_humanity_and_art_in/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Feast day of Saint Thérèse of the Child Jesus",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wum09g/feast_day_of_saint_thérèse_of_the_child_jesus/",
      "selftext_head": ""
     },
     {
@@ -55,6 +46,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Our Lady of the Rosary",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wzskdy/our_lady_of_the_rosary/",
+     "selftext_head": ""
+    },
+    {
      "title": "Friday October 2nd, Feast of Guardian Angels",
      "score": null,
      "num_comments": null,
@@ -70,15 +70,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1ww1n2a/free_friday_my_atheist_dad_found_out_i_am/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Our Lady of the Rosary",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wzskdy/our_lady_of_the_rosary/",
      "selftext_head": ""
     },
     {
@@ -143,6 +134,15 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wx5isi/october_4_happy_feast_day_of_stfrancis_of_assisi/",
      "selftext_head": ""
+    },
+    {
+     "title": "Exclusive | Stanford University sees Catholicism surge among Gen Z students",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wyb8ib/exclusive_stanford_university_sees_catholicism/",
+     "selftext_head": ""
     }
    ]
   }
@@ -158,8 +158,8 @@
    "catholic gift for women",
    "catholic gift for mom",
    "catholic gift for kids",
-   "catholic gift for wife",
-   "catholic gift for baby"
+   "catholic gift for baby",
+   "catholic gift for husband"
   ],
   "rosary bracelet": [
    "rosary bracelet",
@@ -177,8 +177,8 @@
    "christian gift for her",
    "christian gift ideas for her",
    "christian dior gift for her",
-   "christian gift box for her",
    "christian valentines gift for her",
+   "christian gift box for her",
    "christian christmas gift for her",
    "christian jewelry gift for her",
    "christian gift for wife",
@@ -211,15 +211,15 @@
   ],
   "catholic home decor": [
    "catholic home decor",
+   "catholic home decor ideas",
    "catholic home decor shop",
    "catholic home decor canada",
    "catholic home decor australia",
    "catholic home decor uk",
-   "catholic home decor near me",
    "catholic home decor reddit",
+   "catholic home decor near me",
    "catholic home decor nearby",
-   "catholic home decor store",
-   "catholic home decor book"
+   "catholic home decor companies"
   ],
   "saint medal necklace": [
    "saint medal necklace",
@@ -278,8 +278,8 @@
    "faith based jewelry wholesale",
    "faith based jewelry near me",
    "faith based jewelry store",
-   "faith based jewelry south africa",
-   "faith based jewelry nearby"
+   "faith based jewelry nearby",
+   "faith based jewelry south africa"
   ],
   "catholic leather bag": [
    "catholic leather bag",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "sam antonacci",
-  "bryan hudson",
-  "talarico",
-  "escambia county school district",
-  "reese pumpkin candy carving disclaimer",
-  "steven kwan",
-  "cle vs cws",
-  "cody rhodes",
-  "jim thome",
-  "will venable"
+  "carnell tate",
+  "wnba mvp",
+  "john roberts",
+  "vz stock",
+  "t stock",
+  "rockstar gta 6 new screenshots",
+  "harper and finley lockwood birthday",
+  "matt shaw",
+  "marvel zodiac",
+  "fort hood shooter"
  ],
  "errors": []
 }
