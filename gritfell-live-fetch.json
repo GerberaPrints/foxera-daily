@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-09",
- "fetched_at": "2026-10-09T04:30:03.074517+07:00",
+ "date": "2026-10-10",
+ "fetched_at": "2026-10-10T04:30:02.978558+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 187,
@@ -1927,6 +1927,24 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Pheasants Forever Tee - Ivory",
+     "handle": "pheasants-forever-tee-ivory",
+     "type": "T-Shirt",
+     "tags": [
+      "__label:50% off",
+      "F24",
+      "last call",
+      "lifestyle",
+      "mens",
+      "msrp",
+      "size-guide::t-shirts",
+      "top",
+      "womens"
+     ],
+     "price": "19.50",
+     "published_at": "2026-10-08T21:31:11-05:00"
+    },
+    {
      "title": "Pheasants Forever x DC Tee - Ivory",
      "handle": "pheasants-forever-dc-tee-ivory",
      "type": "Limited Release T-shirt",
@@ -1997,24 +2015,6 @@
      ],
      "price": "169.00",
      "published_at": "2026-09-22T10:43:14-05:00"
-    },
-    {
-     "title": "Men's Terrain Guard Softshell Vest - Woodland",
-     "handle": "mens-terrain-guard-softshell-vest-woodland",
-     "type": "Terrain Guard Vest",
-     "tags": [
-      "__label:new",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "hunt",
-      "mens",
-      "msrp",
-      "outerwear",
-      "terrain-guard",
-      "vest"
-     ],
-     "price": "169.00",
-     "published_at": "2026-09-22T10:39:09-05:00"
     }
    ]
   },
@@ -2193,6 +2193,22 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Machete Sun Snapback",
+     "handle": "machete-sun-snapback",
+     "type": "",
+     "tags": [],
+     "price": "0.00",
+     "published_at": "2026-10-09T12:18:28-05:00"
+    },
+    {
+     "title": "HB Machete Cotton Pocket T-Shirt",
+     "handle": "hb-machete-cotton-pocket-t-shirt-1",
+     "type": "",
+     "tags": [],
+     "price": "40.00",
+     "published_at": "2026-10-09T12:17:06-05:00"
+    },
+    {
      "title": "UVA Aperture Tech Strapback",
      "handle": "uva-aperture-tech-strapback",
      "type": "",
@@ -2215,22 +2231,6 @@
      "tags": [],
      "price": "40.00",
      "published_at": "2026-09-29T08:47:59-05:00"
-    },
-    {
-     "title": "UVA Longsleeve Cotton T-Shirt",
-     "handle": "uva-longsleeve-cotton-t-shirt",
-     "type": "",
-     "tags": [],
-     "price": "45.00",
-     "published_at": "2026-09-29T08:47:59-05:00"
-    },
-    {
-     "title": "Wahoo Matrix T-Shirt",
-     "handle": "wahoo-matrix-t-shirt",
-     "type": "",
-     "tags": [],
-     "price": "45.00",
-     "published_at": "2026-09-29T08:47:58-05:00"
     }
    ]
   },
@@ -2395,24 +2395,6 @@
      "published_at": "2026-10-08T10:37:36-05:00"
     },
     {
-     "title": "MST Drake Dry Waxed Cotton Wading Jacket",
-     "handle": "mst-drake-dry-waxed-cotton-wading-jacket",
-     "type": "Jackets & Vests",
-     "tags": [
-      "alt_text",
-      "AW26 Catalog",
-      "AW26 Price Tracking",
-      "AW26_NEW",
-      "insulated",
-      "jackets-vests",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new"
-     ],
-     "price": "299.99",
-     "published_at": "2026-10-07T08:55:51-05:00"
-    },
-    {
      "title": "Spoonie Head Logo Hoodie",
      "handle": "spoonie-hollywood-hoodie-copy",
      "type": "Hoodies & Pullovers",
@@ -2432,9 +2414,9 @@
      "type": "Jackets & Vests",
      "tags": [
       "alt_text",
-      "coming soon",
       "jackets-vests",
-      "mens"
+      "mens",
+      "new"
      ],
      "price": "54.00",
      "published_at": "2026-10-05T11:23:52-05:00"
@@ -2452,6 +2434,20 @@
      ],
      "price": "79.00",
      "published_at": "2026-10-05T11:23:52-05:00"
+    },
+    {
+     "title": "Spoonie Silencer Hoodie",
+     "handle": "spoonie-silencer-hoodie",
+     "type": "Hoodies & Pullovers",
+     "tags": [
+      "alt_text",
+      "AW26_NEW",
+      "mens",
+      "new",
+      "tops"
+     ],
+     "price": "74.00",
+     "published_at": "2026-10-05T11:23:51-05:00"
     }
    ]
   },
@@ -2665,7 +2661,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2629000",
+     "price": "2627000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2678,7 +2674,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5258000",
+     "price": "5254000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2715,7 +2711,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1577000",
+     "price": "1576000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2769,44 +2765,44 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10077",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10077",
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10083",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10082-copy",
      "type": "lam",
      "tags": [],
      "price": "27.95",
-     "published_at": "2026-10-07T10:01:48-06:00"
+     "published_at": "2026-10-09T03:29:40-06:00"
     },
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10076",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10076",
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10082",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10082",
      "type": "lam",
      "tags": [],
      "price": "27.95",
-     "published_at": "2026-10-07T09:46:52-06:00"
+     "published_at": "2026-10-09T03:25:57-06:00"
     },
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10075",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10074-copy",
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10081",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10081",
      "type": "lam",
      "tags": [],
      "price": "27.95",
-     "published_at": "2026-10-07T09:41:01-06:00"
+     "published_at": "2026-10-09T03:20:44-06:00"
     },
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10074",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10074",
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10080",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10079-copy",
      "type": "lam",
      "tags": [],
      "price": "27.95",
-     "published_at": "2026-10-07T09:35:11-06:00"
+     "published_at": "2026-10-09T03:15:01-06:00"
     },
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10073",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10073",
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10079",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10079",
      "type": "lam",
      "tags": [],
      "price": "27.95",
-     "published_at": "2026-10-07T09:31:13-06:00"
+     "published_at": "2026-10-09T01:51:00-06:00"
     }
    ]
   },
@@ -2814,70 +2810,86 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Men's Puffer Coat - Hooded Padded Jacket - Winter Jacket",
-     "handle": "mens-puffer-coat-hooded-padded-jacket",
-     "type": "Jacket",
-     "tags": [],
-     "price": "64.95",
-     "published_at": "2026-10-08T18:55:51+02:00"
-    },
-    {
-     "title": "Men's Padded Jacket - Lightweight Insulated Hooded Winter Jacket",
-     "handle": "mens-winter-warm-padded-jackets-lightweight-hooded-tactical-cotton-coat-male-outdoor-waterproof-windproof-thermal-hiking-jackets",
-     "type": "Jackets",
-     "tags": [
-      "activity:camping",
-      "activity:hiking",
-      "activity:walking",
-      "gender:male",
-      "gmc-approved",
-      "type:jacket"
-     ],
-     "price": "59.95",
-     "published_at": "2026-10-08T18:55:36+02:00"
-    },
-    {
-     "title": "Women's Gilet - Quilted Fleece Lined Body Warmer with Poppers",
-     "handle": "womens-gilet-quilted-fleece-lined-body-warmer-with-poppers",
-     "type": "Gilet",
-     "tags": [
-      "activity:walking",
-      "gender:female",
-      "gilet women",
-      "ladies gilet",
-      "quilted gilet",
-      "type:outerwear",
-      "womens body warmer",
-      "womens fleece gilet",
-      "womens gilet",
-      "womens padded gilet",
-      "womens quilted gilet"
-     ],
-     "price": "10.54",
-     "published_at": "2026-10-08T18:54:35+02:00"
-    },
-    {
-     "title": "Mens Softshell Jacket – Fleece Lined Hooded Military Style Coat with Zip Pockets",
-     "handle": "mens-softshell-jacket-fleece-lined-hooded-military-style-coat-with-zip-pockets",
-     "type": "Jacket",
-     "tags": [
-      "jackets"
-     ],
-     "price": "54.45",
-     "published_at": "2026-10-08T18:52:11+02:00"
-    },
-    {
-     "title": "Men's Winter Walking Trousers - Insulated Hiking Trousers",
-     "handle": "mens-insulated-walking-trousers-with-reinforced-knees-for-hill-walking",
-     "type": "Trousers men",
+     "title": "Men's Puffer Body Warmer - Colour Block Down Gilet, 700 Fill Power",
+     "handle": "mens-puffer-body-warmer-colour-block-down-gilet-700-fill-power",
+     "type": "Gilets",
      "tags": [
       "activity:hiking",
       "activity:walking",
       "gender:mens",
-      "type:trousers-shorts"
+      "type:gilets"
      ],
-     "price": "54.95",
-     "published_at": "2026-10-08T18:51:30+02:00"
+     "price": "69.95",
+     "published_at": "2026-10-09T18:08:43+02:00"
+    },
+    {
+     "title": "Hiking Head Torch - USB Rechargeable Head Light Torch with Magnet",
+     "handle": "hiking-head-torch-usb-rechargeable-head-light-torch-with-magnet",
+     "type": "Head Torch",
+     "tags": [
+      "activity:camping",
+      "activity:fishing",
+      "activity:hiking",
+      "camping",
+      "dog walking",
+      "gender:unisex",
+      "head light torch",
+      "head torch",
+      "hiking head torch",
+      "magnetic",
+      "night fishing",
+      "type:tech",
+      "usb head torch"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-09T17:34:56+02:00"
+    },
+    {
+     "title": "Women's Puffer Jacket - Hooded Short Down Jacket for Winter",
+     "handle": "womens-puffer-jacket-hooded-short-down-jacket-for-winter",
+     "type": "Puffer Jacket",
+     "tags": [
+      "activity:autumn",
+      "activity:travel",
+      "activity:winter",
+      "gender:womens",
+      "type:jackets"
+     ],
+     "price": "79.95",
+     "published_at": "2026-10-09T17:22:20+02:00"
+    },
+    {
+     "title": "Men's Puffer Jacket - Colour Block Down Jacket, 700 Fill Power",
+     "handle": "mens-puffer-jacket-colour-block-down-jacket-700-fill-power",
+     "type": "Jacket",
+     "tags": [
+      "activity:hiking",
+      "activity:walking",
+      "gender:mens",
+      "type:jackets"
+     ],
+     "price": "89.95",
+     "published_at": "2026-10-09T16:15:28+02:00"
+    },
+    {
+     "title": "Men's Sherpa Jacket - Hooded Fleece Jacket - Zip Up Hoodie",
+     "handle": "mens-sherpa-jacket-hooded-fleece-jacket-zip-up-hoodie",
+     "type": "Men's Fleece",
+     "tags": [
+      "Casual men’s fashion",
+      "fall jacket",
+      "fleece jacket",
+      "Hooded jacket",
+      "loser",
+      "Men’s jacket",
+      "Outdoor jacket",
+      "Padded",
+      "warm jacket",
+      "Windproof",
+      "winter jacket"
+     ],
+     "price": "79.95",
+     "published_at": "2026-10-09T14:21:41+02:00"
     }
    ]
   }
