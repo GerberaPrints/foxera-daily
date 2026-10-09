@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-09",
- "fetched_at": "2026-10-09T04:45:03.453965+07:00",
+ "date": "2026-10-10",
+ "fetched_at": "2026-10-10T04:45:03.887741+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -25,15 +25,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wwn49m/south_korean_golfer_tom_kim_receives_a_military/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Throwback to Bubba Walton’s legendary Driver-Driver-Putt for eagle at Kapalua (2011)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wvhcxs/throwback_to_bubba_waltons_legendary/",
      "selftext_head": ""
     },
     {
@@ -100,15 +91,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Ace or Ace*?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wwu538/ace_or_ace/",
-     "selftext_head": ""
-    },
-    {
      "title": "To the hats in dishwasher guy TY",
      "score": null,
      "num_comments": null,
@@ -118,12 +100,12 @@
      "selftext_head": ""
     },
     {
-     "title": "GHIN’s sexist system",
+     "title": "Ace or Ace*?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1ww1ybs/ghins_sexist_system/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wwu538/ace_or_ace/",
      "selftext_head": ""
     },
     {
@@ -136,12 +118,30 @@
      "selftext_head": ""
     },
     {
+     "title": "Meanwhile, fully-abled me is taking a drop after finding the water 10/10 times.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x1p9b0/meanwhile_fullyabled_me_is_taking_a_drop_after/",
+     "selftext_head": ""
+    },
+    {
      "title": "I hit the center of my club face today. AMA!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wxtx57/i_hit_the_center_of_my_club_face_today_ama/",
+     "selftext_head": ""
+    },
+    {
+     "title": "We've all been there",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x14fmg/weve_all_been_there/",
      "selftext_head": ""
     }
    ]
@@ -151,15 +151,15 @@
  "suggest": {
   "funny golf polo": [
    "funny golf polos",
-   "funny golf polos for men",
    "funny golf polo shirts",
    "funny golf polos for women",
    "funny golf polo shirts for men",
    "funny golf polos amazon",
+   "funny golf polos men",
    "funny golf polos near me",
-   "funny golf polos for men amazon",
    "funny golf polo shirts uk",
-   "funny golf polos canada"
+   "funny golf polos canada",
+   "is a golf better than a polo"
   ],
   "golf gift for him": [
    "golf gift for him",
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "baby angelita",
-  "meteor shower tonight",
-  "ashton jeanty injury",
-  "nasdaq composite",
-  "verizon stock",
-  "att stock",
-  "missouri state football",
-  "natalie harp",
-  "kennedy center board",
-  "carnell tate"
+  "dow jones industrial average",
+  "texas vs oklahoma",
+  "rc lens vs olympique lyon standings",
+  "erik prince",
+  "kennedy center lawsuit joyce beatty",
+  "tui cruises danube low water",
+  "utah state football",
+  "sonic racing crossworlds",
+  "jonas brothers birmingham",
+  "barbara palvin"
  ],
  "errors": []
 }
