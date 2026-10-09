@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-09",
- "fetched_at": "2026-10-09T04:15:03.341025+07:00",
+ "date": "2026-10-10",
+ "fetched_at": "2026-10-10T04:15:02.958827+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "Pope Leo on the importance of humanity and art in the AI era.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvwlom/pope_leo_on_the_importance_of_humanity_and_art_in/",
-     "selftext_head": ""
-    },
     {
      "title": "Happy Feast of Saint Francis of Assisi! 🦒🐅🐇🌳",
      "score": null,
@@ -55,30 +46,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Friday October 2nd, Feast of Guardian Angels",
+     "title": "Happy feast of Ven. Pius XII, Pope during WW2. Under his Papacy, the Vatican covertly saved 700,000 Jewish refugees by sheltering them in religious homes and issuing fake baptism certificates. More than any other country.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvjsb0/friday_october_2nd_feast_of_guardian_angels/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Free Friday: My atheist dad found out I am converting and he's... proud?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1ww1n2a/free_friday_my_atheist_dad_found_out_i_am/",
-     "selftext_head": ""
-    },
-    {
-     "title": "My drawing of Mary :) (free Friday)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1ww43id/my_drawing_of_mary_free_friday/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x1bjl8/happy_feast_of_ven_pius_xii_pope_during_ww2_under/",
      "selftext_head": ""
     },
     {
@@ -100,15 +73,6 @@
      "selftext_head": ""
     },
     {
-     "title": "[Free Friday] Happy Feast Day of The Holy Guardian Angels",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wvrllf/free_friday_happy_feast_day_of_the_holy_guardian/",
-     "selftext_head": ""
-    },
-    {
      "title": "Haven't consummated marriage after one year",
      "score": null,
      "num_comments": null,
@@ -118,12 +82,30 @@
      "selftext_head": ""
     },
     {
+     "title": "I love this painting of Mary so muchㅤ♡ Artist is Ruben Zarculea (Free Friday)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x1nccs/i_love_this_painting_of_mary_so_muchㅤ_artist_is/",
+     "selftext_head": ""
+    },
+    {
      "title": "Pope Leo prays for Gaza victims: \"How long, O Lord?\" - Vatican News",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wz3f72/pope_leo_prays_for_gaza_victims_how_long_o_lord/",
+     "selftext_head": ""
+    },
+    {
+     "title": "October 7 — Feast of Our Lady of the Rosary and the Victory at Lepanto (1571)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x0hrl3/october_7_feast_of_our_lady_of_the_rosary_and_the/",
      "selftext_head": ""
     },
     {
@@ -143,6 +125,24 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wyb8ib/exclusive_stanford_university_sees_catholicism/",
      "selftext_head": ""
+    },
+    {
+     "title": "Pope urges frank reckoning with Catholic teaching on sex and marriage",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x08bar/pope_urges_frank_reckoning_with_catholic_teaching/",
+     "selftext_head": ""
+    },
+    {
+     "title": "A Friendship With St. Thérèse of the Child Jesus",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wxun5g/a_friendship_with_st_thérèse_of_the_child_jesus/",
+     "selftext_head": ""
     }
    ]
   }
@@ -158,8 +158,8 @@
    "catholic gift for women",
    "catholic gift for mom",
    "catholic gift for kids",
-   "catholic gift for baby",
-   "catholic gift for husband"
+   "catholic gift for wife",
+   "catholic gift for baby"
   ],
   "rosary bracelet": [
    "rosary bracelet",
@@ -259,7 +259,6 @@
   ],
   "christian tote bag": [
    "christian tote bag",
-   "christian tote bags for women",
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
@@ -271,15 +270,15 @@
   ],
   "faith based jewelry": [
    "faith based jewelry",
-   "faith based jewelry company",
    "faith based jewelry for women",
    "faith based jewelry for men",
-   "faith based jewelry brands",
    "faith based jewelry wholesale",
    "faith based jewelry near me",
    "faith based jewelry store",
    "faith based jewelry nearby",
-   "faith based jewelry south africa"
+   "faith based jewelry south africa",
+   "faith based jewelry for kids",
+   "faith and jewelry"
   ],
   "catholic leather bag": [
    "catholic leather bag",
@@ -293,16 +292,16 @@
   ]
  },
  "trends": [
-  "carnell tate",
-  "wnba mvp",
-  "john roberts",
-  "vz stock",
-  "t stock",
-  "rockstar gta 6 new screenshots",
-  "harper and finley lockwood birthday",
-  "matt shaw",
-  "marvel zodiac",
-  "fort hood shooter"
+  "utah state football",
+  "kennedy center lawsuit joyce beatty",
+  "tui cruises danube low water",
+  "barbara palvin",
+  "kaytron allen",
+  "sporting cp",
+  "trump putin diesel",
+  "a&apos;ja wilson mvp speech reaction",
+  "atf",
+  "univision"
  ],
  "errors": []
 }
