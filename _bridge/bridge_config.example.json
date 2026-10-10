@@ -1,0 +1,11 @@
+{
+  "_ghi_chu": "Chep thanh bridge_config.json (file do KHONG commit - .gitignore). Chi cac root liet ke o day moi duoc doc. 'repo' tu them.",
+  "roots": {
+    "platform": "D:\\FoxEra\\foxera-platform",
+    "foxera":   "D:\\FoxEra",
+    "kinmireva":"D:\\Kinmireva",
+    "gritfell": "D:\\GritFell",
+    "genusfaith":"D:\\GenusFaith"
+  },
+  "approve_file": "%USERPROFILE%\\foxera_bridge_approve.txt"
+}
