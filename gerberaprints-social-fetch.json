@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-10",
- "fetched_at": "2026-10-10T04:45:03.887741+07:00",
+ "date": "2026-10-11",
+ "fetched_at": "2026-10-11T04:45:03.701248+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -19,12 +19,21 @@
      "selftext_head": ""
     },
     {
-     "title": "South Korean golfer Tom Kim receives a military exemption with a gold medal at the Asian Games",
+     "title": "golf etiquette with Mike Ditka",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wwn49m/south_korean_golfer_tom_kim_receives_a_military/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x26isn/golf_etiquette_with_mike_ditka/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Right place at the right time on the course today",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x238ux/right_place_at_the_right_time_on_the_course_today/",
      "selftext_head": ""
     },
     {
@@ -34,15 +43,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wwzcnv/tony_finau_almost_takes_out_the_group_in_front_of/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Yard sale find of a lifetime…",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wwxrwe/yard_sale_find_of_a_lifetime/",
      "selftext_head": ""
     },
     {
@@ -73,12 +73,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Tom Kim wins gold at Asian games 2026 and receives military exemption",
+     "title": "Meanwhile, fully-abled me is taking a drop after finding the water 10/10 times.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wwi2op/tom_kim_wins_gold_at_asian_games_2026_and/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x1p9b0/meanwhile_fullyabled_me_is_taking_a_drop_after/",
      "selftext_head": ""
     },
     {
@@ -100,12 +100,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Ace or Ace*?",
+     "title": "We've all been there",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wwu538/ace_or_ace/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x14fmg/weve_all_been_there/",
      "selftext_head": ""
     },
     {
@@ -118,15 +118,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Meanwhile, fully-abled me is taking a drop after finding the water 10/10 times.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x1p9b0/meanwhile_fullyabled_me_is_taking_a_drop_after/",
-     "selftext_head": ""
-    },
-    {
      "title": "I hit the center of my club face today. AMA!",
      "score": null,
      "num_comments": null,
@@ -136,12 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "We've all been there",
+     "title": "Does this L.A.B. Golf post look like astroturfing to anyone else?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x14fmg/weve_all_been_there/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1wx90z8/does_this_lab_golf_post_look_like_astroturfing_to/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Show me your Fall colors. I'll start!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wyptu3/show_me_your_fall_colors_ill_start/",
      "selftext_head": ""
     }
    ]
@@ -151,15 +151,15 @@
  "suggest": {
   "funny golf polo": [
    "funny golf polos",
+   "funny golf polos for men",
    "funny golf polo shirts",
    "funny golf polos for women",
    "funny golf polo shirts for men",
    "funny golf polos amazon",
-   "funny golf polos men",
    "funny golf polos near me",
+   "funny golf polos for men amazon",
    "funny golf polo shirts uk",
-   "funny golf polos canada",
-   "is a golf better than a polo"
+   "funny golf polos canada"
   ],
   "golf gift for him": [
    "golf gift for him",
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "dow jones industrial average",
-  "texas vs oklahoma",
-  "rc lens vs olympique lyon standings",
-  "erik prince",
-  "kennedy center lawsuit joyce beatty",
-  "tui cruises danube low water",
-  "utah state football",
-  "sonic racing crossworlds",
-  "jonas brothers birmingham",
-  "barbara palvin"
+  "chris henry jr",
+  "boxing tonight",
+  "ducks game",
+  "cal poly vs idaho state",
+  "jamaree johnson danville ky",
+  "griz football",
+  "matthew mcconaughey",
+  "wild vs panthers",
+  "ninku",
+  "swac tv"
  ],
  "errors": []
 }
