@@ -45,7 +45,7 @@ import time
 import traceback
 from datetime import datetime, timezone, timedelta
 
-VERSION = "1.1.0"
+VERSION = "1.2.0"
 TZ = timezone(timedelta(hours=7))
 
 HERE = os.path.dirname(os.path.abspath(__file__))        # <repo>/_bridge
@@ -79,6 +79,10 @@ ALLOWED_CMDS = {
     "git_log_repo":     {"argv": ["git", "log", "--oneline", "-20"], "cwd": "repo"},
     "km_duyet_tukiem":  {"argv": ["py", "km_duyet.py", "--tu-kiem"], "cwd": "kinmireva"},
     "echo_ping":        {"argv": [sys.executable, "-c", "print('pong')"], "cwd": "repo"},
+    # 1.2.0 — GritFell ops (stage gritfell-ops-v0.1, chi doc; token nam o D:\GritFell\.keys, khong qua repo)
+    "gr_kiem":          {"argv": ["cmd", "/c", "GR-KIEM.bat"], "cwd": "gritfell"},
+    "gr_quet":          {"argv": ["cmd", "/c", "GR-QUET.bat"], "cwd": "gritfell"},
+    "gr_don_30":        {"argv": ["cmd", "/c", "GR-DON.bat", "30"], "cwd": "gritfell"},
 }
 
 TASK_TYPES = ("tree", "read", "hash", "cmd", "stage_apply")

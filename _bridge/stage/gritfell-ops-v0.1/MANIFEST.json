@@ -1,0 +1,15 @@
+{
+ "stage": "gritfell-ops-v0.1",
+ "target_root": "gritfell",
+ "version": "0.1.0",
+ "created": "2026-10-10T09:55+07:00",
+ "mo_ta": "Ha tang ops GritFell buoc 1 (chi doc): gr_shop (Admin API: kiem/quet/audit/don) + gr_ten (cong ten + cap SKU theo series) + 3 .bat + GR_CONTEXT.md",
+ "files": {
+  "GR-DON.bat": "61219e7c2bd4b8b88979babb6723566cf99231f46e9a74bca957d33e633ad2c6",
+  "GR-KIEM.bat": "ff2734cd864ad365fd8548d57c728526f944b4bfc81e7407076ef493c2cd17e7",
+  "GR-QUET.bat": "fcc8542c444d55d5f01f754eba24b3bb117d4367d9244d01b5218f592dca8d51",
+  "GR_CONTEXT.md": "766e8bc0370c930cfab62ccc99f33174692d53f66f597fd6ef595485d13a835d",
+  "gr_shop.py": "9b6f97b7f1e410d2c81adb8b94c0429691ddc4ab8a31e546fb3ac45c851c71b3",
+  "gr_ten.py": "9eabb2c6796a788e3b36a9fc9d468833763f63fd41444a020b914cc4811680c4"
+ }
+}
