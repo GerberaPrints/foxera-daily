@@ -1,0 +1,4 @@
+{
+ "_ghi_chu": "lenh chay MOI luot bridge (30 phut). Chi ghi outbox/cron-<ten>.json khi ket qua DOI. Them ten = phai co trong ALLOWED_CMDS.",
+ "cmds": ["sync_feed_gritfell"]
+}

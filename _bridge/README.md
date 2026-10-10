@@ -1,6 +1,6 @@
 # `_bridge` — cầu nối cloud ⇄ foxera-server qua repo git
 
-**v1.0.0 · 10/10/2026 · tác giả: Claude (phiên GritFell), theo yêu cầu FoxEra "xây bridge để tự quét dữ liệu và tự nâng cấp".**
+**v1.1.0 · 10/10/2026 · tác giả: Claude (phiên GritFell), theo yêu cầu FoxEra "xây bridge để tự quét dữ liệu và tự nâng cấp".**
 
 Phiên Claude trên cloud **không nối được tới máy** (không có device link). Nhưng repo này thì **cả hai bên đều ghi được**: job `_pcfetch` push từ máy lên mỗi 04:30 suốt 50+ ngày; phiên claude.ai/code push được vào `main` (chứng minh 21/08, commit `2399f3d`). Vậy dùng chính kênh đó.
 
@@ -28,9 +28,16 @@ _bridge\run_bridge.bat
 _bridge\make_bridge_task.bat 30
 ```
 
-Kỳ vọng: selftest `PASS 11/11 — SACH`; `run_bridge.bat` in `[bridge] PUSH OK - DONE`; trên GitHub xuất hiện `_bridge/outbox/20261010-01-ping.json` với `"stdout": "pong"`.
+Kỳ vọng: selftest `PASS 12/12 — SACH`; `run_bridge.bat` in `[bridge] PUSH OK - DONE`; trên GitHub xuất hiện `_bridge/outbox/20261010-01-ping.json` với `"stdout": "pong"`.
 
-**Kiểm phiên bản đang chạy (đếm được):** `py -3.11 -c "import sys;sys.path.insert(0,'_bridge');import bridge_agent as b;print(b.VERSION)"` → `1.0.0`.
+**Kiểm phiên bản đang chạy (đếm được):** `py -3.11 -c "import sys;sys.path.insert(0,'_bridge');import bridge_agent as b;print(b.VERSION)"` → `1.1.0`.
+
+## v1.1.0 (10/10 09:45) — sau lượt chạy thật đầu tiên trên FOXERA-SERVER
+- `cmd` chạy với stdin=NUL → `pause` trong `.bat` không còn treo tới timeout (idea_check 594 s).
+- `keep: head|tail` theo lệnh (schtasks giữ đầu, pytest giữ đuôi).
+- **`cron.json`**: lệnh chạy MỖI lượt; chỉ ghi `outbox/cron-<tên>.json` khi kết quả đổi (không đẻ commit 30 phút/lần).
+- **`sync_feed_gritfell`** (`tools/sync_feed.py`): chép `<repo>\gritfell-live-fetch.json` → `D:\FoxEra\ideas\signals\gritfell\` khi `fetched_at` mới hơn. Lý do: `idea_check` 10/10 báo nguồn `shopify_feed` cũ 10 ngày → engine chống trùng với 167 SP cũ, sót 20 SKU mới. Đang trong `cron.json`.
+- Bảo mật cần biết: `run_bridge.bat` `git pull` rồi chạy `bridge_agent.py` từ repo → **mã agent tự cập nhật theo repo** (giống `_pcfetch`). Ai có quyền push vào repo là sửa được agent. Quyền push hiện chỉ thành viên org; giữ nguyên như `_pcfetch`.
 
 ## 5 loại yêu cầu — và chỉ 5
 

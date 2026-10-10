@@ -45,7 +45,7 @@ import time
 import traceback
 from datetime import datetime, timezone, timedelta
 
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 TZ = timezone(timedelta(hours=7))
 
 HERE = os.path.dirname(os.path.abspath(__file__))        # <repo>/_bridge
@@ -73,7 +73,8 @@ ALLOWED_CMDS = {
     "idea_audit":       {"argv": ["cmd", "/c", "idea_audit.bat"], "cwd": "platform"},
     "pytest_platform":  {"argv": ["py", "-3.11", "-m", "pytest", "-q", "--no-header", "-p", "no:cacheprovider"],
                          "cwd": "platform"},
-    "schtasks_list":    {"argv": ["schtasks", "/Query", "/FO", "CSV", "/V"], "cwd": "repo"},
+    "schtasks_list":    {"argv": ["schtasks", "/Query", "/FO", "LIST", "/V"], "cwd": "repo", "keep": "head"},
+    "sync_feed_gritfell": {"argv": ["py", "-3.11", os.path.join(HERE, "tools", "sync_feed.py"), "gritfell"], "cwd": "repo"},
     "python_version":   {"argv": ["py", "-3.11", "--version"], "cwd": "repo"},
     "git_log_repo":     {"argv": ["git", "log", "--oneline", "-20"], "cwd": "repo"},
     "km_duyet_tukiem":  {"argv": ["py", "km_duyet.py", "--tu-kiem"], "cwd": "kinmireva"},
@@ -255,14 +256,16 @@ def t_cmd(cfg, prm):
     env = dict(os.environ, PYTHONIOENCODING="utf-8", GIT_ASK_YESNO="false")
     t0 = time.time()
     try:
-        cp = subprocess.run(spec["argv"], cwd=cwd, capture_output=True, timeout=CMD_TIMEOUT, env=env)
+        cp = subprocess.run(spec["argv"], cwd=cwd, capture_output=True, timeout=CMD_TIMEOUT, env=env,
+                            stdin=subprocess.DEVNULL)   # 1.1.0: 'pause' trong .bat khong con treo toi timeout
         so = cp.stdout.decode("utf-8", "replace"); se = cp.stderr.decode("utf-8", "replace")
         rc = cp.returncode
     except subprocess.TimeoutExpired:
         so, se, rc = "", "TIMEOUT sau %ss" % CMD_TIMEOUT, -1
     except FileNotFoundError as ex:
         so, se, rc = "", "khong tim thay chuong trinh: %s" % ex, -2
-    so, h1 = redact(so[-MAX_READ_BYTES:]); se, h2 = redact(se[-50_000:])
+    cut = (lambda t, n: t[:n]) if spec.get("keep") == "head" else (lambda t, n: t[-n:])
+    so, h1 = redact(cut(so, MAX_READ_BYTES)); se, h2 = redact(cut(se, 50_000))
     return {"name": name, "argv": spec["argv"], "cwd": cwd, "rc": rc, "seconds": round(time.time() - t0, 1),
             "stdout": so, "stderr": se, "redacted_hits": h1 + h2}
 
@@ -353,6 +356,43 @@ def run_task(cfg, path):
     return res["status"]
 
 
+CRON = os.path.join(HERE, "cron.json")
+
+
+def run_cron(cfg, stats):
+    """1.1.0: viec LAP moi luot — danh sach ten lenh trong _bridge/cron.json. Ket qua ghi
+    outbox/cron-<ten>.json va CHI ghi khi stdout/stderr/rc doi (khong tao commit moi 30 phut)."""
+    if not os.path.isfile(CRON):
+        return
+    with io.open(CRON, encoding="utf-8") as f:
+        names = json.load(f).get("cmds", [])
+    os.makedirs(OUTBOX, exist_ok=True)
+    for name in names:
+        out = os.path.join(OUTBOX, "cron-%s.json" % re.sub(r"[^A-Za-z0-9_\-]", "", name))
+        try:
+            r = t_cmd(cfg, {"name": name}); status = "done"
+        except Exception as ex:
+            r = {"name": name, "error": "%s: %s" % (type(ex).__name__, str(ex)[:300])}; status = "error"
+        key = sha256_text(json.dumps({k: r.get(k) for k in ("rc", "stdout", "stderr", "error")}, sort_keys=True))
+        old = None
+        if os.path.isfile(out):
+            try:
+                with io.open(out, encoding="utf-8") as f:
+                    old = json.load(f).get("key")
+            except Exception:
+                old = None
+        if old == key:
+            print("[bridge] cron   %-24s khong doi" % name); continue
+        body = json.dumps({"cron": name, "agent": VERSION, "host": platform.node(), "ran": now(),
+                           "status": status, "key": key, "result": r}, ensure_ascii=False, indent=1)
+        tmp = out + ".tmp"
+        with io.open(tmp, "w", encoding="utf-8", newline="\n") as f:
+            f.write(body)
+        os.replace(tmp, out); json.loads(body)
+        stats["cron_" + status] = stats.get("cron_" + status, 0) + 1
+        print("[bridge] cron   %-24s %s rc=%s" % (name, status.upper(), r.get("rc")))
+
+
 def main_run():
     cfg = load_config()
     os.makedirs(INBOX, exist_ok=True)
@@ -362,6 +402,7 @@ def main_run():
         st = run_task(cfg, p)
         stats[st] = stats.get(st, 0) + 1
         print("[bridge] %-6s %s" % (st.upper(), os.path.basename(p)))
+    run_cron(cfg, stats)
     health = {"agent": VERSION, "host": platform.node(), "last_run": now(), "inbox_seen": len(tasks),
               "stats": stats, "roots": cfg["roots"], "redactor": _REDACT_SRC,
               "allowed_cmds": sorted(ALLOWED_CMDS)}
@@ -430,6 +471,15 @@ def selftest():
     except ValueError:
         check("sha lech voi manifest -> tu choi", True)
     STAGE, BACKUP = STAGE_OLD, BACKUP_OLD
+    # 6b cron: chay echo_ping 2 lan -> lan 2 "khong doi", chi 1 file
+    global OUTBOX, CRON
+    OUTBOX_OLD, CRON_OLD = OUTBOX, CRON
+    OUTBOX = os.path.join(tmp, "outbox"); CRON = os.path.join(tmp, "cron.json")
+    with io.open(CRON, "w") as f: f.write('{"cmds": ["echo_ping", "khong_co_lenh_nay"]}')
+    st = {}; run_cron(cfg, st); run_cron(cfg, st)
+    ok = os.path.isfile(os.path.join(OUTBOX, "cron-echo_ping.json")) and st.get("cron_done") == 1 and st.get("cron_error") == 1
+    check("cron: ghi 1 lan khi khong doi, lenh la -> error khong chan", ok, str(st))
+    OUTBOX, CRON = OUTBOX_OLD, CRON_OLD
     # 7 type la
     try:
         HANDLERS["evil"]; check("type la", False)
