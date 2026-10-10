@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-10",
- "fetched_at": "2026-10-10T04:15:02.958827+07:00",
+ "date": "2026-10-11",
+ "fetched_at": "2026-10-11T04:15:02.722034+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -19,24 +19,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Francis of Assisi died 800 years ago. On October 3, like today. On a saturday evening, like today",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wwvgqc/francis_of_assisi_died_800_years_ago_on_october_3/",
-     "selftext_head": ""
-    },
-    {
-     "title": "[Free Friday] Here I am Lord, Send me",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1ww8lxd/free_friday_here_i_am_lord_send_me/",
-     "selftext_head": ""
-    },
-    {
      "title": "Our Lady of the Rosary",
      "score": null,
      "num_comments": null,
@@ -46,12 +28,30 @@
      "selftext_head": ""
     },
     {
+     "title": "I love this painting of Mary so muchㅤ♡ Artist is Ruben Zarculea (Free Friday)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x1nccs/i_love_this_painting_of_mary_so_muchㅤ_artist_is/",
+     "selftext_head": ""
+    },
+    {
      "title": "Happy feast of Ven. Pius XII, Pope during WW2. Under his Papacy, the Vatican covertly saved 700,000 Jewish refugees by sheltering them in religious homes and issuing fake baptism certificates. More than any other country.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x1bjl8/happy_feast_of_ven_pius_xii_pope_during_ww2_under/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[Free Friday] Blessed Fulton Sheen and St. Mother Teresa",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x22leu/free_friday_blessed_fulton_sheen_and_st_mother/",
      "selftext_head": ""
     },
     {
@@ -73,6 +73,15 @@
      "selftext_head": ""
     },
     {
+     "title": "My first work",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x1wpye/my_first_work/",
+     "selftext_head": ""
+    },
+    {
      "title": "Haven't consummated marriage after one year",
      "score": null,
      "num_comments": null,
@@ -82,21 +91,21 @@
      "selftext_head": ""
     },
     {
-     "title": "I love this painting of Mary so muchㅤ♡ Artist is Ruben Zarculea (Free Friday)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x1nccs/i_love_this_painting_of_mary_so_muchㅤ_artist_is/",
-     "selftext_head": ""
-    },
-    {
      "title": "Pope Leo prays for Gaza victims: \"How long, O Lord?\" - Vatican News",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1wz3f72/pope_leo_prays_for_gaza_victims_how_long_o_lord/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Photo of a newly ordained Canon for the Institute of Christ the King Sovereign Priest taken in October 2025.📍 Rouen 🇨🇵",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x1n5mf/photo_of_a_newly_ordained_canon_for_the_institute/",
      "selftext_head": ""
     },
     {
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x08bar/pope_urges_frank_reckoning_with_catholic_teaching/",
-     "selftext_head": ""
-    },
-    {
-     "title": "A Friendship With St. Thérèse of the Child Jesus",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wxun5g/a_friendship_with_st_thérèse_of_the_child_jesus/",
      "selftext_head": ""
     }
    ]
@@ -187,8 +187,8 @@
   ],
   "confirmation gift": [
    "confirmation gifts",
-   "confirmation gifts for girls",
    "confirmation gifts for boys",
+   "confirmation gift for girl",
    "confirmation gift ideas",
    "confirmation gifts for teenage boys",
    "confirmation gifts catholic",
@@ -235,8 +235,8 @@
   ],
   "first communion gift": [
    "first communion gifts",
-   "first communion gifts for girls",
    "first communion gifts for boys",
+   "first communion gift for girl",
    "first communion gifts for boys catholic",
    "first communion gift ideas",
    "first communion gifts near me",
@@ -259,6 +259,7 @@
   ],
   "christian tote bag": [
    "christian tote bag",
+   "christian tote bags for women",
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
@@ -270,15 +271,15 @@
   ],
   "faith based jewelry": [
    "faith based jewelry",
+   "faith based jewelry company",
    "faith based jewelry for women",
    "faith based jewelry for men",
+   "faith based jewelry brands",
    "faith based jewelry wholesale",
    "faith based jewelry near me",
    "faith based jewelry store",
    "faith based jewelry nearby",
-   "faith based jewelry south africa",
-   "faith based jewelry for kids",
-   "faith and jewelry"
+   "faith based jewelry south africa"
   ],
   "catholic leather bag": [
    "catholic leather bag",
@@ -292,16 +293,16 @@
   ]
  },
  "trends": [
-  "utah state football",
-  "kennedy center lawsuit joyce beatty",
-  "tui cruises danube low water",
-  "barbara palvin",
-  "kaytron allen",
-  "sporting cp",
-  "trump putin diesel",
-  "a&apos;ja wilson mvp speech reaction",
-  "atf",
-  "univision"
+  "f22",
+  "vivek ramaswamy",
+  "kylian mbappé",
+  "dante moore",
+  "malik washington",
+  "tulsa king season 4",
+  "robert lewandowski",
+  "vasco da gama x remo",
+  "inter miami",
+  "vinícius júnior"
  ],
  "errors": []
 }
