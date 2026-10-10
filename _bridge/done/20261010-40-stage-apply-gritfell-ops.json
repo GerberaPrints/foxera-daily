@@ -1,9 +1,0 @@
-{
- "type": "stage_apply",
- "params": {
-  "stage": "gritfell-ops-v0.1"
- },
- "muc_dich": "cai D:\\GritFell buoc 1 (chi doc). Agent se tu choi cho toi khi nguoi chay: _bridge\\approve.bat 582b1f6f2fdb86aef4f3619670415c065ff5c45dc880f9a05d79f599dce02dcc",
- "created_by": "claude-session-01HwkEHFywXM2FerFTp8jbcx",
- "created_at": "2026-10-10T09:58+07:00"
-}
