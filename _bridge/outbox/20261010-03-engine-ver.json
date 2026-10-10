@@ -1,0 +1,25 @@
+{
+ "id": "20261010-03-engine-ver",
+ "agent": "1.0.0",
+ "host": "FOXERA-SERVER",
+ "started": "2026-10-10T09:10:46+0700",
+ "type": "cmd",
+ "result": {
+  "name": "engine_version",
+  "argv": [
+   "py",
+   "-3.11",
+   "-c",
+   "from foxera_core.ideas import __version__ as v;print(v)"
+  ],
+  "cwd": "D:\\FoxEra\\foxera-platform",
+  "rc": 1,
+  "seconds": 0.0,
+  "stdout": "",
+  "stderr": "Traceback (most recent call last):\r\n  File \"<string>\", line 1, in <module>\r\nModuleNotFoundError: No module named 'foxera_core'\r\n",
+  "redacted_hits": 0
+ },
+ "status": "done",
+ "seconds": 0.04,
+ "finished": "2026-10-10T09:10:46+0700"
+}

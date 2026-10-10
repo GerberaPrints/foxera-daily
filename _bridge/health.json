@@ -1,0 +1,30 @@
+{
+ "agent": "1.0.0",
+ "host": "FOXERA-SERVER",
+ "last_run": "2026-10-10T09:25:15+0700",
+ "inbox_seen": 14,
+ "stats": {
+  "done": 13,
+  "error": 1
+ },
+ "roots": {
+  "platform": "D:\\FoxEra\\foxera-platform",
+  "foxera": "D:\\FoxEra",
+  "kinmireva": "D:\\Kinmireva",
+  "gritfell": "D:\\GritFell",
+  "genusfaith": "D:\\GenusFaith",
+  "repo": "C:\\Users\\Admin\\foxera-daily"
+ },
+ "redactor": "gpredactsecrets.py",
+ "allowed_cmds": [
+  "echo_ping",
+  "engine_version",
+  "git_log_repo",
+  "idea_audit",
+  "idea_check_gritfell",
+  "km_duyet_tukiem",
+  "pytest_platform",
+  "python_version",
+  "schtasks_list"
+ ]
+}
