@@ -1,6 +1,6 @@
 {
   "project": "foxera",
-  "verified_at": "2026-10-10",
+  "verified_at": "2026-10-11",
   "scanner_version": "v9",
   "provenance": "live_local_browser",
   "counts": {
@@ -30,7 +30,7 @@
       "reviews": 113,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E100",
@@ -80,17 +80,18 @@
       "code": "E107",
       "shop": "Xenavyra",
       "url": "https://www.etsy.com/shop/Xenavyra",
-      "status": "rate_limited",
-      "evidence": "http 429 - Etsy siet toc do",
-      "http_status": 429,
+      "status": "not_selling",
+      "evidence": "cau trang thai nguyen van",
+      "quote": "Xenavyra is currently not selling on Etsy",
+      "http_status": 200,
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "prev_status": "not_selling",
-      "prev_checked": "2026-09-28",
+      "prev_status": "rate_limited",
+      "prev_checked": "2026-10-09",
       "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E108",
@@ -117,7 +118,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E114",
@@ -132,7 +133,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E119",
@@ -147,7 +148,7 @@
       "reviews": 1,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E120",
@@ -202,7 +203,7 @@
       "reviews": 1,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E128",
@@ -279,7 +280,7 @@
       "reviews": 2,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E136",
@@ -356,18 +357,17 @@
       "code": "E146",
       "shop": "LUNAVEXOR",
       "url": "https://www.etsy.com/shop/LUNAVEXOR",
-      "status": "not_selling",
-      "evidence": "cau trang thai nguyen van",
-      "quote": "Lunavexor is currently not selling on Etsy",
-      "http_status": 200,
+      "status": "rate_limited",
+      "evidence": "http 429 - Etsy siet toc do",
+      "http_status": 429,
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "prev_status": "rate_limited",
-      "prev_checked": "2026-09-28",
+      "prev_status": "not_selling",
+      "prev_checked": "2026-10-09",
       "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E147",
@@ -420,18 +420,17 @@
       "code": "E150",
       "shop": "Elvarixo",
       "url": "https://www.etsy.com/shop/Elvarixo",
-      "status": "not_selling",
-      "evidence": "cau trang thai nguyen van",
-      "quote": "Elvarixo is currently not selling on Etsy",
-      "http_status": 200,
+      "status": "rate_limited",
+      "evidence": "http 429 - Etsy siet toc do",
+      "http_status": 429,
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "prev_status": "rate_limited",
-      "prev_checked": "2026-09-28",
+      "prev_status": "not_selling",
+      "prev_checked": "2026-10-09",
       "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E152",
@@ -460,7 +459,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E156",
@@ -554,7 +553,7 @@
       "reviews": 1,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E171",
@@ -581,7 +580,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E173",
@@ -651,17 +650,18 @@
       "code": "E185",
       "shop": "Norivelledesign",
       "url": "https://www.etsy.com/shop/Norivelledesign",
-      "status": "rate_limited",
-      "evidence": "http 429 - Etsy siet toc do",
-      "http_status": 429,
-      "sales": null,
+      "status": "not_selling",
+      "evidence": "cau trang thai nguyen van",
+      "quote": "Norivelledesign is currently not selling on Etsy",
+      "http_status": 200,
+      "sales": 2,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "prev_status": "not_selling",
-      "prev_checked": "2026-09-28",
+      "prev_status": "rate_limited",
+      "prev_checked": "2026-10-09",
       "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E187",
@@ -693,23 +693,24 @@
       "reviews": 2,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E189",
       "shop": "velorinatelier",
       "url": "https://velorinatelier.etsy.com",
-      "status": "rate_limited",
-      "evidence": "http 429 - Etsy siet toc do",
-      "http_status": 429,
+      "status": "not_selling",
+      "evidence": "cau trang thai nguyen van",
+      "quote": "Velorinatelier is currently not selling on Etsy",
+      "http_status": 200,
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "prev_status": "not_selling",
-      "prev_checked": "2026-09-28",
+      "prev_status": "rate_limited",
+      "prev_checked": "2026-10-09",
       "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E190",
@@ -724,7 +725,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E192",
@@ -750,7 +751,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E194",
@@ -768,15 +769,18 @@
       "code": "E195",
       "shop": "OrvantaArtStudio",
       "url": "https://www.etsy.com/shop/OrvantaArtStudio",
-      "status": "rate_limited",
-      "evidence": "http 429 - Etsy siet toc do",
-      "http_status": 429,
+      "status": "not_selling",
+      "evidence": "cau trang thai nguyen van",
+      "quote": "OrvantaArtStudio is currently not selling on Etsy",
+      "http_status": 200,
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "prev_status": "rate_limited",
+      "prev_checked": "2026-10-09",
+      "status_confirmed": false,
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E196",
@@ -791,22 +795,23 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E197",
       "shop": "VeltronaWorkshop",
       "url": "https://www.etsy.com/shop/VeltronaWorkshop",
-      "status": "not_selling",
-      "evidence": "cau trang thai nguyen van",
-      "quote": "VeltronaWorkshop is currently not selling on Etsy",
-      "http_status": 200,
+      "status": "rate_limited",
+      "evidence": "http 429 - Etsy siet toc do",
+      "http_status": 429,
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "prev_status": "not_selling",
+      "prev_checked": "2026-10-09",
+      "status_confirmed": false,
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E198",
@@ -821,21 +826,24 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E199",
       "shop": "SolvaneCollective",
       "url": "https://www.etsy.com/shop/SolvaneCollective",
-      "status": "rate_limited",
-      "evidence": "http 429 - Etsy siet toc do",
-      "http_status": 429,
+      "status": "not_selling",
+      "evidence": "cau trang thai nguyen van",
+      "quote": "SolvaneCollective is currently not selling on Etsy",
+      "http_status": 200,
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "prev_status": "rate_limited",
+      "prev_checked": "2026-10-09",
+      "status_confirmed": false,
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E200",
@@ -850,7 +858,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E201",
@@ -865,7 +873,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E202",
@@ -880,7 +888,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E203",
@@ -911,29 +919,12 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E205",
       "shop": "NorvellaCraft",
       "url": "https://www.etsy.com/shop/NorvellaCraft",
-      "status": "not_selling",
-      "evidence": "cau trang thai nguyen van",
-      "quote": "NorvellaCraft is currently not selling on Etsy",
-      "http_status": 200,
-      "sales": null,
-      "rating": null,
-      "reviews": null,
-      "listings": null,
-      "prev_status": "rate_limited",
-      "prev_checked": "2026-09-28",
-      "status_confirmed": false,
-      "verified_at": "2026-10-09"
-    },
-    {
-      "code": "E206",
-      "shop": "SolvantaDesign",
-      "url": "https://www.etsy.com/shop/SolvantaDesign",
       "status": "rate_limited",
       "evidence": "http 429 - Etsy siet toc do",
       "http_status": 429,
@@ -942,9 +933,26 @@
       "reviews": null,
       "listings": null,
       "prev_status": "not_selling",
-      "prev_checked": "2026-09-28",
+      "prev_checked": "2026-10-09",
       "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
+    },
+    {
+      "code": "E206",
+      "shop": "SolvantaDesign",
+      "url": "https://www.etsy.com/shop/SolvantaDesign",
+      "status": "not_selling",
+      "evidence": "cau trang thai nguyen van",
+      "quote": "SolvantaDesign is currently not selling on Etsy",
+      "http_status": 200,
+      "sales": null,
+      "rating": null,
+      "reviews": null,
+      "listings": null,
+      "prev_status": "rate_limited",
+      "prev_checked": "2026-10-09",
+      "status_confirmed": false,
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E207",
@@ -959,7 +967,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E208",
@@ -974,7 +982,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E217",
@@ -1028,17 +1036,18 @@
       "code": "E232",
       "shop": "SoftLightCollect",
       "url": "https://www.etsy.com/shop/SoftLightCollect",
-      "status": "rate_limited",
-      "evidence": "http 429 - Etsy siet toc do",
-      "http_status": 429,
+      "status": "not_selling",
+      "evidence": "cau trang thai nguyen van",
+      "quote": "SoftLightCollect is currently not selling on Etsy",
+      "http_status": 200,
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "prev_status": "not_selling",
-      "prev_checked": "2026-09-28",
+      "prev_status": "rate_limited",
+      "prev_checked": "2026-10-09",
       "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E233",
@@ -1053,24 +1062,23 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E235",
       "shop": "EchoLightStudio",
       "url": "https://www.etsy.com/shop/EchoLightStudio",
-      "status": "not_selling",
-      "evidence": "cau trang thai nguyen van",
-      "quote": "EchoLightStudio is currently not selling on Etsy",
-      "http_status": 200,
+      "status": "rate_limited",
+      "evidence": "http 429 - Etsy siet toc do",
+      "http_status": 429,
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "prev_status": "rate_limited",
-      "prev_checked": "2026-09-28",
+      "prev_status": "not_selling",
+      "prev_checked": "2026-10-09",
       "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E236",
@@ -1085,7 +1093,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E237",
@@ -1100,7 +1108,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E238",
@@ -1115,7 +1123,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E239",
@@ -1130,7 +1138,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E24",
@@ -1145,22 +1153,23 @@
       "reviews": 17,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E240",
       "shop": "NexoraDesignLab",
       "url": "https://www.etsy.com/shop/NexoraDesignLab",
-      "status": "not_selling",
-      "evidence": "cau trang thai nguyen van",
-      "quote": "NexoraDesignLab is currently not selling on Etsy",
-      "http_status": 200,
+      "status": "rate_limited",
+      "evidence": "http 429 - Etsy siet toc do",
+      "http_status": 429,
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "prev_status": "not_selling",
+      "prev_checked": "2026-10-09",
+      "status_confirmed": false,
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E243",
@@ -1175,7 +1184,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E244",
@@ -1188,10 +1197,8 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "prev_status": "not_selling",
-      "prev_checked": "2026-09-28",
-      "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "status_confirmed": true,
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E245",
@@ -1206,7 +1213,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E246",
@@ -1221,24 +1228,23 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E247",
       "shop": "BumboHouse",
       "url": "https://www.etsy.com/shop/BumboHouse",
-      "status": "not_selling",
-      "evidence": "cau trang thai nguyen van",
-      "quote": "BumboHouse is currently not selling on Etsy",
-      "http_status": 200,
+      "status": "rate_limited",
+      "evidence": "http 429 - Etsy siet toc do",
+      "http_status": 429,
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "prev_status": "rate_limited",
-      "prev_checked": "2026-09-28",
+      "prev_status": "not_selling",
+      "prev_checked": "2026-10-09",
       "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E248",
@@ -1253,7 +1259,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E249",
@@ -1268,7 +1274,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E250",
@@ -1283,27 +1289,12 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E252",
       "shop": "ToveliCraftCo",
       "url": "https://www.etsy.com/shop/ToveliCraftCo",
-      "status": "not_selling",
-      "evidence": "cau trang thai nguyen van",
-      "quote": "ToveliCraftCo is currently not selling on Etsy",
-      "http_status": 200,
-      "sales": null,
-      "rating": null,
-      "reviews": null,
-      "listings": null,
-      "status_confirmed": true,
-      "verified_at": "2026-10-09"
-    },
-    {
-      "code": "E253",
-      "shop": "OrbiloArtLab",
-      "url": "https://www.etsy.com/shop/OrbiloArtLab",
       "status": "rate_limited",
       "evidence": "http 429 - Etsy siet toc do",
       "http_status": 429,
@@ -1312,9 +1303,26 @@
       "reviews": null,
       "listings": null,
       "prev_status": "not_selling",
-      "prev_checked": "2026-09-28",
+      "prev_checked": "2026-10-09",
       "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
+    },
+    {
+      "code": "E253",
+      "shop": "OrbiloArtLab",
+      "url": "https://www.etsy.com/shop/OrbiloArtLab",
+      "status": "not_selling",
+      "evidence": "cau trang thai nguyen van",
+      "quote": "OrbiloArtLab is currently not selling on Etsy",
+      "http_status": 200,
+      "sales": null,
+      "rating": null,
+      "reviews": null,
+      "listings": null,
+      "prev_status": "rate_limited",
+      "prev_checked": "2026-10-09",
+      "status_confirmed": false,
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E254",
@@ -1328,10 +1336,8 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "prev_status": "rate_limited",
-      "prev_checked": "2026-09-28",
-      "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "status_confirmed": true,
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E256",
@@ -1346,7 +1352,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E257",
@@ -1360,7 +1366,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E258",
@@ -1387,7 +1393,7 @@
       "reviews": 17,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E260",
@@ -1706,7 +1712,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E3",
@@ -1796,7 +1802,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E40",
@@ -1823,7 +1829,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E43",
@@ -1838,7 +1844,7 @@
       "reviews": 1,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E44",
@@ -1894,7 +1900,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E48",
@@ -1909,7 +1915,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E49",
@@ -2021,7 +2027,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E56",
@@ -2048,7 +2054,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E62",
@@ -2063,7 +2069,7 @@
       "reviews": 1,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E66",
@@ -2158,7 +2164,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E78",
@@ -2195,10 +2201,8 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "prev_status": "blocked",
-      "prev_checked": "2026-09-28",
-      "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "status_confirmed": true,
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E81",
@@ -2212,7 +2216,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E82",
@@ -2251,7 +2255,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-10"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E85",
@@ -2266,7 +2270,7 @@
       "reviews": 1,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E92",
@@ -2281,7 +2285,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-10-09"
+      "verified_at": "2026-10-11"
     },
     {
       "code": "E93",
@@ -2295,10 +2299,8 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "prev_status": "rate_limited",
-      "prev_checked": "2026-09-28",
-      "status_confirmed": false,
-      "verified_at": "2026-10-09"
+      "status_confirmed": true,
+      "verified_at": "2026-10-11"
     }
   ]
 }

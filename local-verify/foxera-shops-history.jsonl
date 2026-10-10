@@ -2148,3 +2148,72 @@
 {"date": "2026-10-10", "code": "E1", "status": "not_selling", "sales": 620, "rating": 4.5, "reviews": 113, "listings": null, "evidence": "cau trang thai nguyen van"}
 {"date": "2026-10-10", "code": "E4", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
 {"date": "2026-10-10", "code": "E257", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-10-11", "code": "E29", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-10-11", "code": "E26", "status": "not_selling", "sales": 92, "rating": 3.5, "reviews": 17, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E24", "status": "not_selling", "sales": 101, "rating": 3.5, "reviews": 17, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E169", "status": "not_selling", "sales": 2, "rating": 1.0, "reviews": 1, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E135", "status": "not_selling", "sales": 11, "rating": 5.0, "reviews": 2, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E114", "status": "not_selling", "sales": 3, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E109", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E84", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E47", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E43", "status": "not_selling", "sales": 5, "rating": 5.0, "reviews": 1, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E42", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E1", "status": "not_selling", "sales": 620, "rating": 4.5, "reviews": 113, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E4", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-10-11", "code": "E257", "status": "blocked", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "botwall marker: captcha"}
+{"date": "2026-10-11", "code": "E193", "status": "rate_limited", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "http 429 - Etsy siet toc do"}
+{"date": "2026-10-11", "code": "E81", "status": "rate_limited", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "http 429 - Etsy siet toc do"}
+{"date": "2026-10-11", "code": "E119", "status": "not_selling", "sales": 2, "rating": 5.0, "reviews": 1, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E80", "status": "rate_limited", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "http 429 - Etsy siet toc do"}
+{"date": "2026-10-11", "code": "E85", "status": "not_selling", "sales": 2, "rating": 5.0, "reviews": 1, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E93", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E92", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E55", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E62", "status": "not_selling", "sales": null, "rating": 1.0, "reviews": 1, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E188", "status": "not_selling", "sales": 2, "rating": 3.0, "reviews": 2, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E172", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E61", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E127", "status": "not_selling", "sales": null, "rating": 5.0, "reviews": 1, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E146", "status": "rate_limited", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "http 429 - Etsy siet toc do"}
+{"date": "2026-10-11", "code": "E155", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E190", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E107", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E77", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E150", "status": "rate_limited", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "http 429 - Etsy siet toc do"}
+{"date": "2026-10-11", "code": "E48", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E185", "status": "not_selling", "sales": 2, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E238", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E237", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E236", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E235", "status": "rate_limited", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "http 429 - Etsy siet toc do"}
+{"date": "2026-10-11", "code": "E233", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E232", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E208", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E202", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E204", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E205", "status": "rate_limited", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "http 429 - Etsy siet toc do"}
+{"date": "2026-10-11", "code": "E206", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E207", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E196", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E197", "status": "rate_limited", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "http 429 - Etsy siet toc do"}
+{"date": "2026-10-11", "code": "E198", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E199", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E200", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E201", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E239", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E240", "status": "rate_limited", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "http 429 - Etsy siet toc do"}
+{"date": "2026-10-11", "code": "E195", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E248", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E249", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E250", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E252", "status": "rate_limited", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "http 429 - Etsy siet toc do"}
+{"date": "2026-10-11", "code": "E253", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E254", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E256", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E243", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E244", "status": "rate_limited", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "http 429 - Etsy siet toc do"}
+{"date": "2026-10-11", "code": "E245", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E246", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
+{"date": "2026-10-11", "code": "E247", "status": "rate_limited", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "http 429 - Etsy siet toc do"}
+{"date": "2026-10-11", "code": "E189", "status": "not_selling", "sales": null, "rating": null, "reviews": null, "listings": null, "evidence": "cau trang thai nguyen van"}
