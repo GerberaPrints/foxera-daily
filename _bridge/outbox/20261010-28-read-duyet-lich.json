@@ -1,0 +1,20 @@
+{
+ "id": "20261010-28-read-duyet-lich",
+ "agent": "1.2.0",
+ "host": "FOXERA-SERVER",
+ "started": "2026-10-10T09:35:45+0700",
+ "type": "read",
+ "result": {
+  "path": "D:\\FoxEra\\DUYET-LICH.bat",
+  "size": 3032,
+  "returned": 3032,
+  "truncated": false,
+  "sha256": "d9b8e2e1ffe0eeca682f7c537642572511a1a8b7fc6cf3505f6d4a769d087346",
+  "redacted_hits": 0,
+  "redactor": "gpredactsecrets.py",
+  "content": "@echo off\ncd /d D:\\Kinmireva\ncall khoa-trello.bat\nset PYTHONIOENCODING=utf-8\nif not exist logs mkdir logs\nrem 1. chep card moi tu 6 board ETSY - toi da 10 phut\nset KM_KEO_GHI=1\nset KM_KEO_TRAN=600\nset KM_KEO_PHUT=10\nset KM_KEO_TU_NGAY=2026-08-01\nrem    FoxEra 03/10: chep tu board ETSY toi het 02.10 roi TAM DUNG. Mo lai: xoa dong duoi\nset KM_KEO_DEN_NGAY=2026-10-02\npy -3.11 km_keo_etsy.py >> logs\\km_keo_etsy-console.log 2>&1\nrem 2. mau ban chay tu so don noi bo - moi ngay 1 lan, khong cham Etsy\nset KM_BC_GHI=1\nset KM_BC_MIN=2\npy -3.11 km_keo_ban_chay.py >> logs\\km_keo_ban_chay-console.log 2>&1\nrem 2c. MAU THANG (km_thang 1.0): don that Shopify + so don Etsy -> KM-MAU-THANG.csv (km_duyet uu tien) + kinmireva-winners-*.json (may sinh y doc)\r\nset KM_FEED_DIR=D:\\FoxEra\\ideas\\signals\\kinmireva\r\npy -3.11 km_thang.py >> logs\\km_thang-console.log 2>&1\r\nrem 2b. nap listing tu CSV Etsy xuat (etsy-csv) - khong cham etsy.com, moi ngay 1 lan\nset KM_NAP_GHI=1\nset KM_NAP_TRAN=400\npy -3.11 km_nap_shop.py >> logs\\km_nap_shop-console.log 2>&1\nrem 3. duyet - tu nang tran theo ton dong, toi da 45 phut, tran 1200 card/ngay\nset KM_DUYET_GHI=1\nset KM_DUYET_CHUYEN=1\nset KM_DUYET_MODEL=claude-sonnet-4-6\nset KM_DUYET_TRAN=auto\nset KM_DUYET_PHUT=45\nset KM_DUYET_TRAN_NGAY=1200\nset KM_SKU_SAN=290729\nset KM_FEED_DIR=D:\\FoxEra\\ideas\\signals\\kinmireva\npy -3.11 km_duyet.py >> logs\\km_duyet-console.log 2>&1\nrem 3b. giao lai card Claude DAT bi ket o Cho duyet (km_duyet loi giua chung) -> Cho Upload\nset KM_GL_GHI=1\npy -3.11 km_giao_lai.py >> logs\\km_giao_lai-console.log 2>&1\nrem 4. quet don store: title/SEO/alt/category + thang gia v2 + bo compare-at cho san pham moi upload\nset KM_SHOP_GHI=1\npy -3.11 km_shop_sua.py >> logs\\km_shop_sua-console.log 2>&1\nrem 5. ornament ORN-3.1 (km_ornament): Size nho den lon, nen 1 gia tri, Ribbon 13, tag es-orn-*\nset KM_ORN3_GHI=1\npy -3.11 km_orn_v3.py >> logs\\km_orn3-console.log 2>&1\nrem 5b. bang mau xuong MP-2: doi ten mau cu ve ten xuong tren ao moi len - KHONG xoa variant\nset KM_MP_GHI=1\nset KM_MP_XOA=0\npy -3.11 km_mau_quet.py >> logs\\km_mau_quet-console.log 2>&1\nrem 6. ao/mu: mau mockup len dau (variant mac dinh) - mu + 4 dong ao, moi trang thai, chua co tag mau-mac-dinh\nset KM_MAU_GHI=1\nset KM_MAU_TRAN=60\nset KM_MAU_PHAM_VI=tat-ca\npy -3.11 km_mau_mac_dinh.py >> logs\\km_mau-console.log 2>&1\nset KM_MAU_PHAM_VI=can-xem\npy -3.11 km_mau_mac_dinh.py >> logs\\km_mau-console.log 2>&1\nrem 7. mu + ao: ma Easify es-mu-* / es-ao-* (vi tri + truong) cho san pham chua co es-v1\nset KM_CN_GHI=1\nset KM_CN_LOAI=tat-ca\nset KM_CN_TRAN=60\npy -3.11 km_ca_nhan.py >> logs\\km_ca_nhan-console.log 2>&1\nrem 8. CONG PUBLIC (FoxEra 02/10 bo nguoi duyet): draft cho-public dat het tieu chi -> ACTIVE + 4 kenh; roi hau kiem SP tu-public\nrem    tat khan: tao file TAT-PUBLIC.txt trong D:\\Kinmireva\nset KM_CP_GHI=1\nset KM_CP_TRAN=200\nset KM_CP_PHAM_VI=moi\npy -3.11 km_cong_public.py >> logs\\km_cong_public-console.log 2>&1\nset KM_CP_PHAM_VI=hau-kiem\npy -3.11 km_cong_public.py >> logs\\km_cong_public-console.log 2>&1\n"
+ },
+ "status": "done",
+ "seconds": 0.02,
+ "finished": "2026-10-10T09:35:45+0700"
+}

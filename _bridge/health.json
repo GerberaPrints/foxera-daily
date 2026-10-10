@@ -1,11 +1,12 @@
 {
- "agent": "1.0.0",
+ "agent": "1.2.0",
  "host": "FOXERA-SERVER",
- "last_run": "2026-10-10T09:25:15+0700",
+ "last_run": "2026-10-10T09:35:46+0700",
  "inbox_seen": 14,
  "stats": {
   "done": 13,
-  "error": 1
+  "error": 1,
+  "cron_done": 1
  },
  "roots": {
   "platform": "D:\\FoxEra\\foxera-platform",
@@ -20,11 +21,15 @@
   "echo_ping",
   "engine_version",
   "git_log_repo",
+  "gr_don_30",
+  "gr_kiem",
+  "gr_quet",
   "idea_audit",
   "idea_check_gritfell",
   "km_duyet_tukiem",
   "pytest_platform",
   "python_version",
-  "schtasks_list"
+  "schtasks_list",
+  "sync_feed_gritfell"
  ]
 }
