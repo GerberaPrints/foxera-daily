@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-10",
- "fetched_at": "2026-10-10T04:30:02.978558+07:00",
+ "date": "2026-10-11",
+ "fetched_at": "2026-10-11T04:30:02.969328+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 187,
@@ -273,8 +273,8 @@
      "handle": "fogline-camo-hoodie-with-face-cover",
      "type": "Hoodie With Face Cover",
      "tags": [
-      "fishing",
-      "hoodie"
+      "hoodie",
+      "hunting"
      ],
      "price": "59.00",
      "published_at": "2026-09-24T02:42:30-07:00"
@@ -284,7 +284,7 @@
      "handle": "marsh-pattern-swim-short",
      "type": "Swim Short",
      "tags": [
-      "hunting"
+      "fishing"
      ],
      "price": "39.00",
      "published_at": "2026-09-24T00:00:23-07:00"
@@ -676,7 +676,7 @@
      "handle": "dove-opener-badge-t-shirt",
      "type": "T-Shirt",
      "tags": [
-      "fishing"
+      "hunting"
      ],
      "price": "29.00",
      "published_at": "2026-09-22T21:19:10-07:00"
@@ -2197,7 +2197,7 @@
      "handle": "machete-sun-snapback",
      "type": "",
      "tags": [],
-     "price": "0.00",
+     "price": "35.00",
      "published_at": "2026-10-09T12:18:28-05:00"
     },
     {
@@ -2430,7 +2430,8 @@
       "AW26_NEW",
       "jackets-vests",
       "mens",
-      "new"
+      "new",
+      "top seller 2026"
      ],
      "price": "79.00",
      "published_at": "2026-10-05T11:23:52-05:00"
@@ -2661,7 +2662,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2627000",
+     "price": "2628000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2674,7 +2675,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5254000",
+     "price": "5256000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2711,7 +2712,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1576000",
+     "price": "1577000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2765,50 +2766,69 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10083",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10082-copy",
-     "type": "lam",
+     "title": "Bowhunting Deer Hunting Camo Pattern Hoodie vc1015",
+     "handle": "bowhunting-deer-hunting-camo-pattern-hoodie-vc1015",
+     "type": "",
      "tags": [],
-     "price": "27.95",
-     "published_at": "2026-10-09T03:29:40-06:00"
+     "price": "69.99",
+     "published_at": "2026-10-10T02:54:36-06:00"
     },
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10082",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10082",
-     "type": "lam",
+     "title": "Deer Hunting Camo Pattern Hoodie vc1014",
+     "handle": "deer-hunting-camo-pattern-hoodie-vc1014",
+     "type": "",
      "tags": [],
-     "price": "27.95",
-     "published_at": "2026-10-09T03:25:57-06:00"
+     "price": "69.99",
+     "published_at": "2026-10-10T02:51:52-06:00"
     },
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10081",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10081",
-     "type": "lam",
+     "title": "Deer Hunting Antler Pattern Hoodie vc1013",
+     "handle": "deer-hunting-antler-pattern-hoodie-vc1013",
+     "type": "",
      "tags": [],
-     "price": "27.95",
-     "published_at": "2026-10-09T03:20:44-06:00"
+     "price": "69.99",
+     "published_at": "2026-10-10T02:49:58-06:00"
     },
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10080",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10079-copy",
-     "type": "lam",
+     "title": "Whitetail Society Deer Antler Pattern Hoodie vc1012",
+     "handle": "whitetail-society-deer-antler-pattern-hoodie-vc1012",
+     "type": "",
      "tags": [],
-     "price": "27.95",
-     "published_at": "2026-10-09T03:15:01-06:00"
+     "price": "69.99",
+     "published_at": "2026-10-10T02:45:34-06:00"
     },
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10079",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10079",
-     "type": "lam",
+     "title": "Duck Waterfowl Mini Hunting Pattern Hoodie vc1011",
+     "handle": "duck-waterfowl-mini-hunting-pattern-hoodie-vc1011",
+     "type": "",
      "tags": [],
-     "price": "27.95",
-     "published_at": "2026-10-09T01:51:00-06:00"
+     "price": "69.99",
+     "published_at": "2026-10-10T02:37:48-06:00"
     }
    ]
   },
   "Terrabound": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Women's Dungarees - Canvas Bib Overalls - Work Overalls",
+     "handle": "womens-canvas-dungarees-bib-overalls-work-overalls",
+     "type": "Overalls",
+     "tags": [
+      "Bib Overalls",
+      "Canvas",
+      "Dungarees",
+      "Exclusive",
+      "Gardening",
+      "Women",
+      "Women's Dungarees",
+      "Women's Overalls",
+      "Work Overalls",
+      "Workwear"
+     ],
+     "price": "74.95",
+     "published_at": "2026-10-10T16:08:47+02:00"
+    },
     {
      "title": "Men's Puffer Body Warmer - Colour Block Down Gilet, 700 Fill Power",
      "handle": "mens-puffer-body-warmer-colour-block-down-gilet-700-fill-power",
@@ -2870,26 +2890,6 @@
      ],
      "price": "89.95",
      "published_at": "2026-10-09T16:15:28+02:00"
-    },
-    {
-     "title": "Men's Sherpa Jacket - Hooded Fleece Jacket - Zip Up Hoodie",
-     "handle": "mens-sherpa-jacket-hooded-fleece-jacket-zip-up-hoodie",
-     "type": "Men's Fleece",
-     "tags": [
-      "Casual men’s fashion",
-      "fall jacket",
-      "fleece jacket",
-      "Hooded jacket",
-      "loser",
-      "Men’s jacket",
-      "Outdoor jacket",
-      "Padded",
-      "warm jacket",
-      "Windproof",
-      "winter jacket"
-     ],
-     "price": "79.95",
-     "published_at": "2026-10-09T14:21:41+02:00"
     }
    ]
   }
