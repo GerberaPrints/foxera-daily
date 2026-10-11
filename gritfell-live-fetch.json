@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-11",
- "fetched_at": "2026-10-11T04:30:02.969328+07:00",
+ "date": "2026-10-12",
+ "fetched_at": "2026-10-12T04:30:03.114691+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 187,
@@ -2662,7 +2662,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2628000",
+     "price": "2627000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2675,7 +2675,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5256000",
+     "price": "5254000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2712,7 +2712,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1577000",
+     "price": "1576000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
