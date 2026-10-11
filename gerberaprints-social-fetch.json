@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-11",
- "fetched_at": "2026-10-11T04:45:03.701248+07:00",
+ "date": "2026-10-12",
+ "fetched_at": "2026-10-12T04:45:03.586193+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -37,15 +37,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Tony Finau almost takes out the group in front of him on the 14th yesterday at the Black Desert Resort. What an incredible drive! 😮",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wwzcnv/tony_finau_almost_takes_out_the_group_in_front_of/",
-     "selftext_head": ""
-    },
-    {
      "title": "Got me a slam dunk!",
      "score": null,
      "num_comments": null,
@@ -55,21 +46,21 @@
      "selftext_head": ""
     },
     {
-     "title": "We tried nothing and are all out of ideas",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wyfz3g/we_tried_nothing_and_are_all_out_of_ideas/",
-     "selftext_head": ""
-    },
-    {
      "title": "Michigan…. You’ve got it good!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wzhe0i/michigan_youve_got_it_good/",
+     "selftext_head": ""
+    },
+    {
+     "title": "We tried nothing and are all out of ideas",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wyfz3g/we_tried_nothing_and_are_all_out_of_ideas/",
      "selftext_head": ""
     },
     {
@@ -127,12 +118,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Does this L.A.B. Golf post look like astroturfing to anyone else?",
+     "title": "First ever hole-in-one yesterday",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wx90z8/does_this_lab_golf_post_look_like_astroturfing_to/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x2f823/first_ever_holeinone_yesterday/",
      "selftext_head": ""
     },
     {
@@ -142,6 +133,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wyptu3/show_me_your_fall_colors_ill_start/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Need your opinion. Is this really bad idea?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1wy1p3e/need_your_opinion_is_this_really_bad_idea/",
      "selftext_head": ""
     }
    ]
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "chris henry jr",
-  "boxing tonight",
-  "ducks game",
-  "cal poly vs idaho state",
-  "jamaree johnson danville ky",
-  "griz football",
-  "matthew mcconaughey",
-  "wild vs panthers",
-  "ninku",
-  "swac tv"
+  "jahmyr gibbs",
+  "amon-ra st. brown",
+  "nick bosa injury",
+  "brock purdy",
+  "jsn",
+  "george kittle",
+  "canucks vs rangers",
+  "bike fire",
+  "roy lopez",
+  "ldu quito - barcelona sc"
  ],
  "errors": []
 }
