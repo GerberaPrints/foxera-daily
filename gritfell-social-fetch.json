@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-12",
- "fetched_at": "2026-10-12T04:30:03.114691+07:00",
+ "date": "2026-10-13",
+ "fetched_at": "2026-10-13T04:30:02.929802+07:00",
  "reddit": {
   "waterfowl": {
    "sub_niche": "SN1_waterfowl",
@@ -37,12 +37,30 @@
      "selftext_head": ""
     },
     {
-     "title": "Woodies",
+     "title": "First Hunt of the Year",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1wxs6hd/woodies/",
+     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1x49mvt/first_hunt_of_the_year/",
+     "selftext_head": ""
+    },
+    {
+     "title": "My future duck caller",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1x3goi2/my_future_duck_caller/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Nice early season rainy day!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1x3fiqk/nice_early_season_rainy_day/",
      "selftext_head": ""
     },
     {
@@ -64,12 +82,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Nice early season rainy day!",
+     "title": "Youth Hunt",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1x3fiqk/nice_early_season_rainy_day/",
+     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1x3q29h/youth_hunt/",
+     "selftext_head": ""
+    },
+    {
+     "title": "The rise of the black-bellied whistling duck: How it spread from South Texas across the U.S.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1x3x1qn/the_rise_of_the_blackbellied_whistling_duck_how/",
      "selftext_head": ""
     },
     {
@@ -82,48 +109,12 @@
      "selftext_head": ""
     },
     {
-     "title": "My future duck caller",
+     "title": "Season’s just warming up, but I’m off to a good start.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1x3goi2/my_future_duck_caller/",
-     "selftext_head": ""
-    },
-    {
-     "title": "First Timer",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1wxugco/first_timer/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Wader Reccs",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1x12xdu/wader_reccs/",
-     "selftext_head": ""
-    },
-    {
-     "title": "DIY Motion decoys on river",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1wziqpg/diy_motion_decoys_on_river/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Need help figuring out boat blind strategy",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1wxthrt/need_help_figuring_out_boat_blind_strategy/",
+     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1x44bes/seasons_just_warming_up_but_im_off_to_a_good_start/",
      "selftext_head": ""
     },
     {
@@ -136,12 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Float Tube and Decoy pole for Retrieval Only (shooting from the bank)?",
+     "title": "First Spinner - Any good DIY tips to make this a floater?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1x12ct5/float_tube_and_decoy_pole_for_retrieval_only/",
+     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1x43fp0/first_spinner_any_good_diy_tips_to_make_this_a/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Wader Reccs",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Waterfowl/comments/1x12xdu/wader_reccs/",
      "selftext_head": ""
     }
    ]
@@ -160,12 +160,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Wood ducks make the best dinner",
+     "title": "November Maine Mallard",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wxt3fx/wood_ducks_make_the_best_dinner/",
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1x3uskj/november_maine_mallard/",
      "selftext_head": ""
     },
     {
@@ -178,15 +178,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Shameless brag post",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wyd4ip/shameless_brag_post/",
-     "selftext_head": ""
-    },
-    {
      "title": "New to the page and hunting, any good videos or tips for goose calling? Is it even worth it if I dont have goose decoys?",
      "score": null,
      "num_comments": null,
@@ -196,12 +187,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Hevi-bismuth",
+     "title": "Early morning action",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wym08w/hevibismuth/",
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1x41cqg/early_morning_action/",
      "selftext_head": ""
     },
     {
@@ -211,6 +202,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Duckhunting/comments/1x2t1r6/i_wish_i_could_hunt_in_my_front_yard/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Hevi-bismuth",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wym08w/hevibismuth/",
      "selftext_head": ""
     },
     {
@@ -241,6 +241,24 @@
      "selftext_head": ""
     },
     {
+     "title": "Duck ID",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1x4446g/duck_id/",
+     "selftext_head": ""
+    },
+    {
+     "title": "First snow of the year…",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1x3f34m/first_snow_of_the_year/",
+     "selftext_head": ""
+    },
+    {
      "title": "SBE3 Briley Lever Kit (28 gauge)",
      "score": null,
      "num_comments": null,
@@ -250,39 +268,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Missouri Duck Hunting-Need Advice (not looking for spots)",
+     "title": "UPDATE: Hunting the roost",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wxugk4/missouri_duck_huntingneed_advice_not_looking_for/",
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1x3osgf/update_hunting_the_roost/",
      "selftext_head": ""
     },
     {
-     "title": "Shot Question?",
+     "title": "Inside Louisiana's inaugural black-bellied whistling duck hunting season. Could Texas be next?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wy74jr/shot_question/",
-     "selftext_head": ""
-    },
-    {
-     "title": "How do I go about patterning a shotgun?",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1wzzdiv/how_do_i_go_about_patterning_a_shotgun/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Hunting trip",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1x38lum/hunting_trip/",
+     "permalink": "https://www.reddit.com/r/Duckhunting/comments/1x35kbg/inside_louisianas_inaugural_blackbellied/",
      "selftext_head": ""
     }
    ]
@@ -291,15 +291,6 @@
    "sub_niche": "SN2_freshwater",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "My first bass",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1wyhn28/my_first_bass/",
-     "selftext_head": ""
-    },
     {
      "title": "River fatty to end my day",
      "score": null,
@@ -319,30 +310,12 @@
      "selftext_head": ""
     },
     {
-     "title": "question fellas do it be my fault if i can’t get ah hook out tha fish ? .",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1wxt9n9/question_fellas_do_it_be_my_fault_if_i_cant_get/",
-     "selftext_head": ""
-    },
-    {
      "title": "I’m over the moon. Never dreamt I could catch a slob like this in public IL waters. 6 lbs",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bassfishing/comments/1x20bmg/im_over_the_moon_never_dreamt_i_could_catch_a/",
-     "selftext_head": ""
-    },
-    {
-     "title": "4-3 on a jerkbait!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1wxtp3s/43_on_a_jerkbait/",
      "selftext_head": ""
     },
     {
@@ -382,21 +355,21 @@
      "selftext_head": ""
     },
     {
-     "title": "I'm hooked on topwater lures",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bassfishing/comments/1x1q20e/im_hooked_on_topwater_lures/",
-     "selftext_head": ""
-    },
-    {
      "title": "Was able to get on some good fish this year, finally feels like I know what I’m doing",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bassfishing/comments/1x1w5jn/was_able_to_get_on_some_good_fish_this_year/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I'm hooked on topwater lures",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1x1q20e/im_hooked_on_topwater_lures/",
      "selftext_head": ""
     },
     {
@@ -418,12 +391,39 @@
      "selftext_head": ""
     },
     {
+     "title": "PB 22 inch smallmouth bass",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1x3r8p6/pb_22_inch_smallmouth_bass/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Caught my new PB @ 3.98# Central MN",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1x3m3b9/caught_my_new_pb_398_central_mn/",
+     "selftext_head": ""
+    },
+    {
      "title": "My first big bass after teaching myself to fish this summer",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bassfishing/comments/1x0i9i0/my_first_big_bass_after_teaching_myself_to_fish/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Check Costco now!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bassfishing/comments/1x0xqfm/check_costco_now/",
      "selftext_head": ""
     }
    ]
@@ -448,6 +448,24 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Fishing/comments/1x08z4v/albino_bonnethead_shark/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Hook went right through tongue parasite",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing/comments/1x3asn8/hook_went_right_through_tongue_parasite/",
+     "selftext_head": ""
+    },
+    {
+     "title": "53lb Lake Trout (Released)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing/comments/1x3v8ay/53lb_lake_trout_released/",
      "selftext_head": ""
     },
     {
@@ -478,12 +496,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Hook went right through tongue parasite",
+     "title": "Beautiful Brown Trout in French Alps",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing/comments/1x3asn8/hook_went_right_through_tongue_parasite/",
+     "permalink": "https://www.reddit.com/r/Fishing/comments/1x3uubb/beautiful_brown_trout_in_french_alps/",
      "selftext_head": ""
     },
     {
@@ -505,6 +523,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Hefty Ling",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing/comments/1x3jt28/hefty_ling/",
+     "selftext_head": ""
+    },
+    {
      "title": "5-6 lb largemouth",
      "score": null,
      "num_comments": null,
@@ -523,12 +550,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Took a work buddy for his first fishing trip ever. I live putting newbies on big fish!",
+     "title": "Finally caught a decent smallmouth (for me)",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing/comments/1wz5uef/took_a_work_buddy_for_his_first_fishing_trip_ever/",
+     "permalink": "https://www.reddit.com/r/Fishing/comments/1x2xjza/finally_caught_a_decent_smallmouth_for_me/",
      "selftext_head": ""
     },
     {
@@ -538,33 +565,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Fishing/comments/1x167t2/bull_red_from_charleston/",
-     "selftext_head": ""
-    },
-    {
-     "title": "First day targeting pike, pretty proud of my catches.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing/comments/1wzeto3/first_day_targeting_pike_pretty_proud_of_my/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Went out mainly for a test of the new engine but decided to troll my way back and snagged this note 3.5lb trout",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing/comments/1wzvmfs/went_out_mainly_for_a_test_of_the_new_engine_but/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Finally caught a decent smallmouth (for me)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing/comments/1x2xjza/finally_caught_a_decent_smallmouth_for_me/",
      "selftext_head": ""
     }
    ]
@@ -583,15 +583,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Update: the Stellas and fishing trip was awesome.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x2ow5p/update_the_stellas_and_fishing_trip_was_awesome/",
-     "selftext_head": ""
-    },
-    {
      "title": "Found a megabass giant dogx in moroko today at the local shop, on my first cast I hit on the side of my kayak and it snapped it half 🤢🤢🤢",
      "score": null,
      "num_comments": null,
@@ -601,21 +592,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Grandpa gifted me an old combo for a tournament this weekend. I think you all will like it.",
+     "title": "Update: the Stellas and fishing trip was awesome.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x0pyxm/grandpa_gifted_me_an_old_combo_for_a_tournament/",
-     "selftext_head": ""
-    },
-    {
-     "title": "First ultralight setup!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x1yjiy/first_ultralight_setup/",
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x2ow5p/update_the_stellas_and_fishing_trip_was_awesome/",
      "selftext_head": ""
     },
     {
@@ -628,12 +610,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Pocket fishing kit. What would you put in it?",
+     "title": "First ultralight setup!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x07041/pocket_fishing_kit_what_would_you_put_in_it/",
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x1yjiy/first_ultralight_setup/",
      "selftext_head": ""
     },
     {
@@ -643,6 +625,42 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x1m72f/take_the_ziptie_off/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Grandpa gifted me an old combo for a tournament this weekend. I think you all will like it.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x0pyxm/grandpa_gifted_me_an_old_combo_for_a_tournament/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Pocket fishing kit. What would you put in it?",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x07041/pocket_fishing_kit_what_would_you_put_in_it/",
+     "selftext_head": ""
+    },
+    {
+     "title": "17 yo fishing gear in sweden",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x41kxl/17_yo_fishing_gear_in_sweden/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Lure identification",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x2zb4n/lure_identification/",
      "selftext_head": ""
     },
     {
@@ -673,21 +691,12 @@
      "selftext_head": ""
     },
     {
-     "title": "These are fun!",
+     "title": "Today’s gear",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1wycl5n/these_are_fun/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Lure identification",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x2zb4n/lure_identification/",
+     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1x313xr/todays_gear/",
      "selftext_head": ""
     },
     {
@@ -697,15 +706,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1wz46qk/found_a_time_capsule_of_oldschool_lures_with_the/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Cleaned out my local Ollie's out of #7 swivels",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Fishing_Gear/comments/1wxrbkt/cleaned_out_my_local_ollies_out_of_7_swivels/",
      "selftext_head": ""
     }
    ]
@@ -721,6 +721,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wypuax/didnt_feel_like_cooking/",
+     "selftext_head": ""
+    },
+    {
+     "title": "New PB 38” , released .",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1x3by9a/new_pb_38_released/",
      "selftext_head": ""
     },
     {
@@ -751,24 +760,6 @@
      "selftext_head": ""
     },
     {
-     "title": "First Mahi, goal fish - in 3000 feet of water on an inflatable boat (Hawaii)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wxx0m2/first_mahi_goal_fish_in_3000_feet_of_water_on_an/",
-     "selftext_head": ""
-    },
-    {
-     "title": "New PB 38” , released .",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1x3by9a/new_pb_38_released/",
-     "selftext_head": ""
-    },
-    {
      "title": "Rod/Reel/Braid/Leader Combo - Snapper Species",
      "score": null,
      "num_comments": null,
@@ -796,12 +787,30 @@
      "selftext_head": ""
     },
     {
+     "title": "Brothers first red 39”",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1x3d6ah/brothers_first_red_39/",
+     "selftext_head": ""
+    },
+    {
      "title": "Shared cost/group trip this February in Costa Rica.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1x15xoc/shared_costgroup_trip_this_february_in_costa_rica/",
+     "selftext_head": ""
+    },
+    {
+     "title": "The only thing better than Ono is 2 Ono.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1x3ouel/the_only_thing_better_than_ono_is_2_ono/",
      "selftext_head": ""
     },
     {
@@ -823,15 +832,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Brothers first red 39”",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1x3d6ah/brothers_first_red_39/",
-     "selftext_head": ""
-    },
-    {
      "title": "Fishing at greece",
      "score": null,
      "num_comments": null,
@@ -841,12 +841,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Whats your go to braid?",
+     "title": "Skate!!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1wyofox/whats_your_go_to_braid/",
+     "permalink": "https://www.reddit.com/r/saltwaterfishing/comments/1x2pl84/skate/",
      "selftext_head": ""
     }
    ]
@@ -910,15 +910,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Got my 1st deer with a bow this morning",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Hunting/comments/1x1shl6/got_my_1st_deer_with_a_bow_this_morning/",
-     "selftext_head": ""
-    },
-    {
      "title": "2nd buck of the season",
      "score": null,
      "num_comments": null,
@@ -928,39 +919,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Got my 1st deer with a bow this morning",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Hunting/comments/1x1shl6/got_my_1st_deer_with_a_bow_this_morning/",
+     "selftext_head": ""
+    },
+    {
      "title": "First trophy buck",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Hunting/comments/1wznli8/first_trophy_buck/",
-     "selftext_head": ""
-    },
-    {
-     "title": "First Ever Deer at 30",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Hunting/comments/1wzwwbh/first_ever_deer_at_30/",
-     "selftext_head": ""
-    },
-    {
-     "title": "First grey seal",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Hunting/comments/1wyewlz/first_grey_seal/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Biggest whitetail buck I’ve ever taken.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Hunting/comments/1x140sl/biggest_whitetail_buck_ive_ever_taken/",
      "selftext_head": ""
     },
     {
@@ -979,6 +952,33 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Hunting/comments/1x2sfh9/wyoming_success/",
+     "selftext_head": ""
+    },
+    {
+     "title": "First Ever Deer at 30",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Hunting/comments/1wzwwbh/first_ever_deer_at_30/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Biggest whitetail buck I’ve ever taken.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Hunting/comments/1x140sl/biggest_whitetail_buck_ive_ever_taken/",
+     "selftext_head": ""
+    },
+    {
+     "title": "At last after a 3 year drought. Canadian Whitetail. 7 points.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Hunting/comments/1x2rpc3/at_last_after_a_3_year_drought_canadian_whitetail/",
      "selftext_head": ""
     },
     {
@@ -1042,12 +1042,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Thought you would like",
+     "title": "Shot my first deer ever",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wxsgds/thought_you_would_like/",
+     "permalink": "https://www.reddit.com/r/bowhunting/comments/1x44u0n/shot_my_first_deer_ever/",
      "selftext_head": ""
     },
     {
@@ -1057,15 +1057,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bowhunting/comments/1x202q1/freezer_queen/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Opening PA Weekend",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wxx34d/opening_pa_weekend/",
      "selftext_head": ""
     },
     {
@@ -1096,12 +1087,30 @@
      "selftext_head": ""
     },
     {
+     "title": "Looking for opinions on taking/not taking a shot.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bowhunting/comments/1x2l8t1/looking_for_opinions_on_takingnot_taking_a_shot/",
+     "selftext_head": ""
+    },
+    {
      "title": "Mississippi 2nd day of season.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bowhunting/comments/1wz0q59/mississippi_2nd_day_of_season/",
+     "selftext_head": ""
+    },
+    {
+     "title": "second season, third deer. (second with bow) first time processing entirely on my own.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/bowhunting/comments/1x2fntq/second_season_third_deer_second_with_bow_first/",
      "selftext_head": ""
     },
     {
@@ -1121,15 +1130,6 @@
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/bowhunting/comments/1x07d0u/im_so_frightened_i_wont_be_able_to_recover/",
      "selftext_head": ""
-    },
-    {
-     "title": "Meat",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/bowhunting/comments/1wz7mub/meat/",
-     "selftext_head": ""
     }
    ]
   },
@@ -1137,6 +1137,15 @@
    "sub_niche": "SN4_big_game",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "Last week close call",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/elkhunting/comments/1x3newv/last_week_close_call/",
+     "selftext_head": ""
+    },
     {
      "title": "Loins",
      "score": null,
@@ -1165,12 +1174,30 @@
      "selftext_head": ""
     },
     {
+     "title": "Elk Antler Growth: Part 4 – The Rut",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/elkhunting/comments/1x3t2my/elk_antler_growth_part_4_the_rut/",
+     "selftext_head": ""
+    },
+    {
      "title": "Rain affect?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/elkhunting/comments/1x0wubp/rain_affect/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Recommendations for best boots",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/elkhunting/comments/1x3qvf1/recommendations_for_best_boots/",
      "selftext_head": ""
     },
     {
@@ -1207,15 +1234,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/elkhunting/comments/1x14va5/sound_on_bull_elk_bugling_right_on_camera_wyoming/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Utah Elk Hunting",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/elkhunting/comments/1wxrtvk/utah_elk_hunting/",
      "selftext_head": ""
     },
     {
@@ -1627,13 +1645,13 @@
    "duck hunting hats",
    "duck hunting hats for men",
    "duck hunting hat brands",
+   "duck hunting hat camo",
    "duck hunting hat companies",
    "duck hunting hatteras nc",
    "duck hunting hat with ear flaps",
    "duck hunting hats canada",
    "duck hunting hat patches",
-   "duck hunting hats near me",
-   "duck hunting hat morgan wallen"
+   "duck hunting hats near me"
   ],
   "hunting gift for": [
    "hunting gift for men",
@@ -1726,8 +1744,8 @@
    "teal season 2026",
    "teal season texas",
    "teal season louisiana",
-   "teal season kansas",
    "teal season missouri",
+   "teal season kansas",
    "teal season illinois 2026",
    "teal season iowa"
   ],
@@ -1841,16 +1859,16 @@
   ]
  },
  "trends": [
-  "jsn",
-  "george kittle",
-  "canucks vs rangers",
-  "bike fire",
-  "fernando mendoza raiders debut",
-  "ldu quito - barcelona sc",
-  "cardinals",
-  "jaxon smith njigba",
-  "what holiday is october 12th",
-  "emanuel wilson"
+  "dow jones industrial average",
+  "levante ud vs sevilla fc standings",
+  "aaron paul",
+  "mike elko",
+  "flynn",
+  "jack kiser",
+  "canelo alvarez",
+  "prince archie lilibet adjustment england",
+  "the atlantic",
+  "timothy broglio"
  ],
  "errors": []
 }

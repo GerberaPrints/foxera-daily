@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-12",
- "fetched_at": "2026-10-12T04:30:03.114691+07:00",
+ "date": "2026-10-13",
+ "fetched_at": "2026-10-13T04:30:02.929802+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 187,
@@ -2022,6 +2022,26 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Women's Westwood Jacket",
+     "handle": "womens-westwood-canvas-jacket-tobacco",
+     "type": "WOMENS JACKETS",
+     "tags": [
+      "CLOTHING",
+      "FA25",
+      "FA26",
+      "jackets-overshirts",
+      "mallardcamo",
+      "NEW-COLOR-TAG",
+      "NEWCOLOR",
+      "Outerwear",
+      "TOPS",
+      "WOMENS",
+      "womens-jackets-overshirts-outerwear"
+     ],
+     "price": "169.00",
+     "published_at": "2026-10-12T12:33:11-07:00"
+    },
+    {
      "title": "South Texas Snapback Hat",
      "handle": "south-texas-snapback-hat-bushlan-camo",
      "type": "MENS HEADWEAR",
@@ -2096,25 +2116,6 @@
      ],
      "price": "89.00",
      "published_at": "2026-09-29T11:35:48-07:00"
-    },
-    {
-     "title": "Portside Anorak",
-     "handle": "portside-hunting-anorak-jacket-bushlan-camo",
-     "type": "MENS JACKETS",
-     "tags": [
-      "F26-SEPT1",
-      "FA26",
-      "foul-weather",
-      "JACKETS",
-      "MENS",
-      "mens-outerwear-foul-weather",
-      "mens-outerwear-jackets",
-      "NEW",
-      "NEW-TAG",
-      "Outerwear"
-     ],
-     "price": "129.00",
-     "published_at": "2026-09-29T11:35:47-07:00"
     }
    ]
   },
@@ -2662,7 +2663,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2627000",
+     "price": "2633000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2675,7 +2676,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5254000",
+     "price": "5265000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2688,7 +2689,7 @@
       "retail",
       "wsc"
      ],
-     "price": "920000",
+     "price": "922000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -2701,7 +2702,7 @@
       "retail",
       "wsc"
      ],
-     "price": "920000",
+     "price": "922000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2712,7 +2713,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1576000",
+     "price": "1580000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2766,44 +2767,49 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Bowhunting Deer Hunting Camo Pattern Hoodie vc1015",
-     "handle": "bowhunting-deer-hunting-camo-pattern-hoodie-vc1015",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-10T02:54:36-06:00"
+     "title": "Sports Fish Of North America Canvas",
+     "handle": "sports-fish-of-north-america-canvas",
+     "type": "huntdad",
+     "tags": [
+      "Canvas",
+      "custom",
+      "duck",
+      "hunting"
+     ],
+     "price": "44.99",
+     "published_at": "2026-10-12T11:24:56-06:00"
     },
     {
-     "title": "Deer Hunting Camo Pattern Hoodie vc1014",
-     "handle": "deer-hunting-camo-pattern-hoodie-vc1014",
-     "type": "",
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10091",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10091",
+     "type": "lam",
      "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-10T02:51:52-06:00"
+     "price": "27.95",
+     "published_at": "2026-10-12T04:37:01-06:00"
     },
     {
-     "title": "Deer Hunting Antler Pattern Hoodie vc1013",
-     "handle": "deer-hunting-antler-pattern-hoodie-vc1013",
-     "type": "",
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10094",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10094",
+     "type": "lam",
      "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-10T02:49:58-06:00"
+     "price": "27.95",
+     "published_at": "2026-10-12T04:36:38-06:00"
     },
     {
-     "title": "Whitetail Society Deer Antler Pattern Hoodie vc1012",
-     "handle": "whitetail-society-deer-antler-pattern-hoodie-vc1012",
-     "type": "",
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10093",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10093",
+     "type": "lam",
      "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-10T02:45:34-06:00"
+     "price": "27.95",
+     "published_at": "2026-10-12T04:32:04-06:00"
     },
     {
-     "title": "Duck Waterfowl Mini Hunting Pattern Hoodie vc1011",
-     "handle": "duck-waterfowl-mini-hunting-pattern-hoodie-vc1011",
-     "type": "",
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10092",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10092",
+     "type": "lam",
      "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-10T02:37:48-06:00"
+     "price": "27.95",
+     "published_at": "2026-10-12T04:30:41-06:00"
     }
    ]
   },
@@ -2879,7 +2885,7 @@
      "published_at": "2026-10-09T17:22:20+02:00"
     },
     {
-     "title": "Men's Puffer Jacket - Colour Block Down Jacket, 700 Fill Power",
+     "title": "Men's Puffer Jacket - Colour Block Down Jacket - 700 Fill Power",
      "handle": "mens-puffer-jacket-colour-block-down-jacket-700-fill-power",
      "type": "Jacket",
      "tags": [
