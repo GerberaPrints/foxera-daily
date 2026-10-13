@@ -2,13 +2,22 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-13",
- "fetched_at": "2026-10-13T04:45:03.514496+07:00",
+ "date": "2026-10-14",
+ "fetched_at": "2026-10-14T04:45:03.748876+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "Had one of those moments today…",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x4ido2/had_one_of_those_moments_today/",
+     "selftext_head": ""
+    },
     {
      "title": "Gonna be shorts on the course from here on out",
      "score": null,
@@ -37,12 +46,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Got me a slam dunk!",
+     "title": "19 year old Blades Brown shoots rounds of 68, 61, 68 and 69 to finish second at the Korn Ferry Tour Championship. The result means he finishes 9th on the points list and secures a full PGA Tour card for 2027",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wz3y2l/got_me_a_slam_dunk/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x3jalt/19_year_old_blades_brown_shoots_rounds_of_68_61/",
      "selftext_head": ""
     },
     {
@@ -52,15 +61,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1wzhe0i/michigan_youve_got_it_good/",
-     "selftext_head": ""
-    },
-    {
-     "title": "19 year old Blades Brown shoots rounds of 68, 61, 68 and 69 to finish second at the Korn Ferry Tour Championship. The result means he finishes 9th on the points list and secures a full PGA Tour card for 2027",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x3jalt/19_year_old_blades_brown_shoots_rounds_of_68_61/",
      "selftext_head": ""
     },
     {
@@ -82,6 +82,15 @@
      "selftext_head": ""
     },
     {
+     "title": "DP World Tour bans LIV Golf players, ending Ryder Cup eligibility",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x42cd0/dp_world_tour_bans_liv_golf_players_ending_ryder/",
+     "selftext_head": ""
+    },
+    {
      "title": "To the hats in dishwasher guy TY",
      "score": null,
      "num_comments": null,
@@ -97,15 +106,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x14fmg/weve_all_been_there/",
-     "selftext_head": ""
-    },
-    {
-     "title": "DP World Tour bans LIV Golf players, ending Ryder Cup eligibility",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x42cd0/dp_world_tour_bans_liv_golf_players_ending_ryder/",
      "selftext_head": ""
     },
     {
@@ -127,21 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Show me your Fall colors. I'll start!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wyptu3/show_me_your_fall_colors_ill_start/",
-     "selftext_head": ""
-    },
-    {
      "title": "Putter clean up and repaint",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x0wvg9/putter_clean_up_and_repaint/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Photos I took of some of the nicer courses I've had the privilege of playing over the last couple of years!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x43wgn/photos_i_took_of_some_of_the_nicer_courses_ive/",
      "selftext_head": ""
     }
    ]
@@ -267,14 +267,14 @@
   "golf apparel funny": [
    "golf apparel funny",
    "golf shirts funny",
-   "golf shirts funny men",
    "golf clothing funny",
    "golf shirt funny pattern",
    "golf shirts funny women",
    "golf shirts funny australia",
-   "golf shirts funny print",
    "golf shirts funny amazon",
-   "golf shirts funny sayings"
+   "golf shirts funny sayings",
+   "golf shirt funny design",
+   "funny golf outfit ideas"
   ],
   "hawaiian golf shirt": [
    "hawaiian golf shirts",
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "ryan johnson",
-  "dow jones industrial average",
-  "levante ud vs sevilla fc standings",
-  "aaron paul",
-  "mike elko",
-  "jack kiser",
-  "canelo alvarez",
-  "prince archie lilibet adjustment england",
-  "the atlantic",
-  "timothy broglio"
+  "panthers vs blue jackets",
+  "christian brothers college high school",
+  "posiciones de atlético de madrid contra manchester united",
+  "devils vs red wings",
+  "lioness season 3",
+  "street fighter movie early reviews",
+  "luis díaz",
+  "halle berry child custody hearing",
+  "bank of america money laundering fine",
+  "thélyson orélien"
  ],
  "errors": []
 }
