@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-14",
- "fetched_at": "2026-10-14T04:45:03.748876+07:00",
+ "date": "2026-10-15",
+ "fetched_at": "2026-10-15T04:45:03.567193+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -16,15 +16,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x4ido2/had_one_of_those_moments_today/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Gonna be shorts on the course from here on out",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wzgkky/gonna_be_shorts_on_the_course_from_here_on_out/",
      "selftext_head": ""
     },
     {
@@ -55,12 +46,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Michigan…. You’ve got it good!",
+     "title": "I got to be that guy",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wzhe0i/michigan_youve_got_it_good/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x3oi8y/i_got_to_be_that_guy/",
      "selftext_head": ""
     },
     {
@@ -73,12 +64,21 @@
      "selftext_head": ""
     },
     {
-     "title": "I got to be that guy",
+     "title": "35+MPH Gusts today at the St. Andrews Links Collegiate",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x3oi8y/i_got_to_be_that_guy/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x59pdn/35mph_gusts_today_at_the_st_andrews_links/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Fall Muni in Upstate NY",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x5cxm7/fall_muni_in_upstate_ny/",
      "selftext_head": ""
     },
     {
@@ -88,15 +88,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x42cd0/dp_world_tour_bans_liv_golf_players_ending_ryder/",
-     "selftext_head": ""
-    },
-    {
-     "title": "To the hats in dishwasher guy TY",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1wzyido/to_the_hats_in_dishwasher_guy_ty/",
      "selftext_head": ""
     },
     {
@@ -127,12 +118,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Putter clean up and repaint",
+     "title": "The beautiful swing of LPGA Tour professional Atthaya \"Jeeno\" Thitikul",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x0wvg9/putter_clean_up_and_repaint/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x4y4zh/the_beautiful_swing_of_lpga_tour_professional/",
      "selftext_head": ""
     },
     {
@@ -142,6 +133,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x43wgn/photos_i_took_of_some_of_the_nicer_courses_ive/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Had a long \"walk-off\" putt in front of a wedding party. Not gonna lie, it felt pretty dope.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x448g7/had_a_long_walkoff_putt_in_front_of_a_wedding/",
      "selftext_head": ""
     }
    ]
@@ -267,39 +267,39 @@
   "golf apparel funny": [
    "golf apparel funny",
    "golf shirts funny",
+   "golf shirts funny men",
    "golf clothing funny",
    "golf shirt funny pattern",
    "golf shirts funny women",
    "golf shirts funny australia",
+   "golf shirts funny print",
    "golf shirts funny amazon",
-   "golf shirts funny sayings",
-   "golf shirt funny design",
-   "funny golf outfit ideas"
+   "golf shirts funny sayings"
   ],
   "hawaiian golf shirt": [
    "hawaiian golf shirts",
    "hawaiian golf shirts for men",
    "hawaiian golf shirts for women",
    "hawaiian golf shirts amazon",
+   "hawaiian golf shirts ladies",
    "hawaiian golf shirts australia",
    "hawaiian golf shirts near me",
    "hawaiian golf shirts canada",
    "hawaiian golf shirt brand",
-   "hawaiian golf shirts nearby",
-   "hawaiian golf shirts for couples"
+   "hawaiian golf shirts nearby"
   ]
  },
  "trends": [
-  "panthers vs blue jackets",
-  "christian brothers college high school",
-  "posiciones de atlético de madrid contra manchester united",
-  "devils vs red wings",
-  "lioness season 3",
-  "street fighter movie early reviews",
-  "luis díaz",
-  "halle berry child custody hearing",
-  "bank of america money laundering fine",
-  "thélyson orélien"
+  "keke palmer",
+  "troy jackson",
+  "atlético mineiro vs torque",
+  "atlético-mg x torque",
+  "junior vs deportivo pereira",
+  "classement as roma – real madrid",
+  "kristaps porzingis",
+  "college baseball",
+  "man city vs psg standings",
+  "posiciones de manchester city contra psg"
  ],
  "errors": []
 }
