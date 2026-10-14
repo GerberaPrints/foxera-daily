@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-14",
- "fetched_at": "2026-10-14T04:30:02.739591+07:00",
+ "date": "2026-10-15",
+ "fetched_at": "2026-10-15T04:30:02.706619+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 187,
@@ -2290,6 +2290,64 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Ally Tech Hat",
+     "handle": "ally-tech-fishing-hat",
+     "type": "MENS HATS",
+     "tags": [
+      "__tab2:hats-size-chart-with-image-in-there",
+      "fishing-clothing",
+      "fishing-hats",
+      "Headwear",
+      "LABEL CHECK",
+      "mens-fishing-hats",
+      "MID-PROFILE-FIT",
+      "SP26"
+     ],
+     "price": "32.00",
+     "published_at": "2026-10-14T11:00:14-07:00"
+    },
+    {
+     "title": "Shoreline Tech Hat",
+     "handle": "shoreline-tech-fishing-hat",
+     "type": "MENS HATS",
+     "tags": [
+      "__tab2:hats-size-chart-with-image-in-there",
+      "fishing-clothing",
+      "fishing-hats",
+      "Headwear",
+      "LABEL CHECK",
+      "mens-fishing-hats",
+      "MID-PROFILE-FIT",
+      "SP26"
+     ],
+     "price": "32.00",
+     "published_at": "2026-10-14T10:59:35-07:00"
+    },
+    {
+     "title": "Flippin' Tech Hat",
+     "handle": "flippin-tech-fishing-hat-snapback",
+     "type": "MENS HATS",
+     "tags": [
+      "__tab2:hats-size-chart-with-image-in-there",
+      "accessories",
+      "FA25",
+      "filter::type:FISHING HATS",
+      "filter::type:HATS",
+      "fishing-clothing",
+      "fishing-hats",
+      "GG50",
+      "GG75",
+      "Headwear",
+      "LABEL CHECK",
+      "mens",
+      "mens-fishing-hats",
+      "MID-PROFILE-FIT",
+      "SP26"
+     ],
+     "price": "35.00",
+     "published_at": "2026-10-14T10:59:02-07:00"
+    },
+    {
      "title": "Hermann Fisheries SS T-Shirt",
      "handle": "hermann-fisheries-fishing-t-shirt",
      "type": "MENS T-SHIRTS",
@@ -2348,96 +2406,72 @@
      ],
      "price": "59.00",
      "published_at": "2026-09-15T06:36:58-07:00"
-    },
-    {
-     "title": "Fetch SS T-Shirt",
-     "handle": "fetch-ss-t-shirt-sale",
-     "type": "MENS T-SHIRTS",
-     "tags": [
-      "__tab2:tops-mens-size-chart",
-      "filter::size:2X",
-      "filter::size:L",
-      "filter::size:M",
-      "filter::size:S",
-      "filter::size:XL",
-      "filter::type:Short Sleeve T-Shirts",
-      "FINAL SALE",
-      "FINALSALE",
-      "LABEL CHECK",
-      "MENS",
-      "mens-fishing-short-sleeve-t-shirts",
-      "mens-fit-guide",
-      "mens-how-to-measure",
-      "mens-short-sleeve-t-shirts",
-      "mens-t-shirts",
-      "Recycled",
-      "REGULARFIT",
-      "RGroup_MT3481",
-      "sandbar",
-      "SHORT SLEEVE",
-      "SP24",
-      "SP25",
-      "T-Shirts"
-     ],
-     "price": "12.99",
-     "published_at": "2026-09-15T06:35:49-07:00"
-    },
-    {
-     "title": "Women's Mojeaux 1/4 Zip Performance Shirt",
-     "handle": "womens-mojeaux-quarter-zip-performance-shirt",
-     "type": "WOMENS PERFORMANCE",
-     "tags": [
-      "1/4 zip",
-      "__tab2:womens-tops-size-chart",
-      "AFBLOCK-50",
-      "AFCOOL",
-      "baselayer",
-      "BFCM25",
-      "DWR-STAIN-RESISTANCE",
-      "ICAST2023",
-      "ICAST23WIN",
-      "LABEL CHECK",
-      "Performance Knit",
-      "REGULARFIT",
-      "SALE",
-      "SP24",
-      "WOMENS",
-      "womens-fishing-shirts",
-      "womens-fit-guide-regular-fit",
-      "womens-how-to-measure",
-      "womens-performance-fishing-shirts"
-     ],
-     "price": "44.99",
-     "published_at": "2026-09-15T06:27:54-07:00"
-    },
-    {
-     "title": "Women's Drift Jacket",
-     "handle": "womens-drift-insulated-fishing-jacket",
-     "type": "WOMENS JACKETS",
-     "tags": [
-      "__tab2:womens-tops-size-chart",
-      "FA26",
-      "filter::size:L",
-      "filter::size:M",
-      "filter::size:S",
-      "filter::size:XL",
-      "filter::size:XS",
-      "NEW",
-      "NEW-TAG",
-      "Outerwear",
-      "REGULARFIT",
-      "womens-fishing-clothing",
-      "womens-fit-guide-regular-fit",
-      "womens-how-to-measure"
-     ],
-     "price": "169.00",
-     "published_at": "2026-09-04T15:12:36-07:00"
     }
    ]
   },
   "Drake Waterfowl": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Youth Pop Art Wood Duck Sunglasses T-Shirt",
+     "handle": "youth-pop-art-wood-duck-sunglasses-t-shirt-copy",
+     "type": "T-Shirts",
+     "tags": [
+      "casual_shirts_tops",
+      "casual_spring_apparel",
+      "graphic tees",
+      "graphic_tops",
+      "lifestyle",
+      "MemDay2025",
+      "SS25_New",
+      "SS26 Catalog",
+      "SS27 Catalog",
+      "tops",
+      "youth"
+     ],
+     "price": "24.99",
+     "published_at": "2026-10-14T13:38:10-05:00"
+    },
+    {
+     "title": "Youth Pop Art Old School Lab T-Shirt",
+     "handle": "youth-pop-art-old-school-lab-t-shirt-1",
+     "type": "Tops",
+     "tags": [
+      "- casual",
+      "- t-shirts",
+      "- under $25",
+      "casual_shirts_tops",
+      "casual_spring_apparel",
+      "logowear",
+      "mens",
+      "shirts",
+      "SS24_New",
+      "SS26 Catalog",
+      "SS27 Catalog",
+      "tops",
+      "waterfowl",
+      "WF Youth T-Shirt",
+      "youth",
+      "Youth T-Shirt"
+     ],
+     "price": "24.99",
+     "published_at": "2026-10-14T13:36:22-05:00"
+    },
+    {
+     "title": "Tri-Blend Over Under Quarter Zip",
+     "handle": "quarter-zip-tri-blend-over-under",
+     "type": "Hoodies & Pullovers",
+     "tags": [
+      "alt_text",
+      "AW26_NEW",
+      "BFCM2026",
+      "HOL_26 Flyer",
+      "master_list_new_arrivals_26",
+      "new"
+     ],
+     "price": "69.99",
+     "published_at": "2026-10-14T09:02:26-05:00"
+    },
     {
      "title": "Leather Camp Deck Boot",
      "handle": "leather-camp-deck-boot",
@@ -2469,48 +2503,6 @@
      ],
      "price": "89.99",
      "published_at": "2026-10-08T10:37:36-05:00"
-    },
-    {
-     "title": "Spoonie Head Logo Hoodie",
-     "handle": "spoonie-hollywood-hoodie-copy",
-     "type": "Hoodies & Pullovers",
-     "tags": [
-      "alt_text",
-      "AW26_NEW",
-      "mens",
-      "new",
-      "tops"
-     ],
-     "price": "44.99",
-     "published_at": "2026-10-05T15:37:20-05:00"
-    },
-    {
-     "title": "Spoonie Eqwader Quarter Zip",
-     "handle": "spoonie-eqwader-quarter-zip",
-     "type": "Jackets & Vests",
-     "tags": [
-      "alt_text",
-      "jackets-vests",
-      "mens",
-      "new"
-     ],
-     "price": "54.00",
-     "published_at": "2026-10-05T11:23:52-05:00"
-    },
-    {
-     "title": "Spoonie Hollywood Jacket",
-     "handle": "spoonie-hollywood-jacket",
-     "type": "Jackets & Vests",
-     "tags": [
-      "alt_text",
-      "AW26_NEW",
-      "jackets-vests",
-      "mens",
-      "new",
-      "top seller 2026"
-     ],
-     "price": "79.00",
-     "published_at": "2026-10-05T11:23:52-05:00"
     }
    ]
   },
@@ -2722,7 +2714,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2630000",
+     "price": "2629000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2735,7 +2727,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5261000",
+     "price": "5257000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2748,7 +2740,7 @@
       "retail",
       "wsc"
      ],
-     "price": "921000",
+     "price": "920000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -2761,7 +2753,7 @@
       "retail",
       "wsc"
      ],
-     "price": "921000",
+     "price": "920000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2772,7 +2764,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1578000",
+     "price": "1577000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2826,44 +2818,44 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Funny Duck in Beanie Hoodie",
-     "handle": "funny-duck-in-beanie-hoodie",
+     "title": "Deer Fuck Hoodie",
+     "handle": "deer-fuck-hoodie",
      "type": "",
      "tags": [],
      "price": "53.95",
-     "published_at": "2026-10-13T04:07:50-06:00"
+     "published_at": "2026-10-14T03:02:59-06:00"
     },
     {
-     "title": "Waterfowl Game Birds Hunting Hoodie",
-     "handle": "waterfowl-game-birds-hunting-hoodie",
+     "title": "Vintage Buck Forget Pumpkin Spice I want Backstrap rice Hoodie",
+     "handle": "vintage-buck-forget-pumpkin-spice-i-want-backstrap-rice-hoodie",
      "type": "",
      "tags": [],
      "price": "53.95",
-     "published_at": "2026-10-13T04:05:43-06:00"
+     "published_at": "2026-10-14T02:00:32-06:00"
     },
     {
-     "title": "Retro 90s Mallard Duck Mockneck Hoodie",
-     "handle": "retro-90s-mallard-duck-mockneck-hoodie",
+     "title": "Vintage Buck Doe Fawn Hoodie",
+     "handle": "vintage-buck-doe-fawn-hoodie",
      "type": "",
      "tags": [],
      "price": "53.95",
-     "published_at": "2026-10-13T04:00:00-06:00"
+     "published_at": "2026-10-14T01:55:05-06:00"
     },
     {
-     "title": "Vintage Pheasant Hunting Hoodie",
-     "handle": "vintage-pheasant-hunting-hoodie-rich-text-editor",
+     "title": "Funny Pheasantin Hunting Hoodie",
+     "handle": "funny-pheasantin-hunting-hoodie",
      "type": "",
      "tags": [],
      "price": "53.95",
-     "published_at": "2026-10-13T03:55:55-06:00"
+     "published_at": "2026-10-14T01:45:48-06:00"
     },
     {
-     "title": "Vintage Mallard Duck Moon Hoodie",
-     "handle": "vintage-mallard-duck-moon-hoodie",
+     "title": "Turkey Hunting Pattern Camouflage Hoodie",
+     "handle": "turkey-hunting-pattern-camouflage-hoodie",
      "type": "",
      "tags": [],
-     "price": "53.95",
-     "published_at": "2026-10-13T03:51:27-06:00"
+     "price": "69.99",
+     "published_at": "2026-10-14T01:41:08-06:00"
     }
    ]
   },
