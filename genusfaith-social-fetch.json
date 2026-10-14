@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-14",
- "fetched_at": "2026-10-14T04:15:02.695014+07:00",
+ "date": "2026-10-15",
+ "fetched_at": "2026-10-15T04:15:02.760073+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -16,6 +16,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x3ludd/blessed_carlo_acutis/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Vatican says the pope has lung cancer and the lower lobe of his right lung was removed",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x57sym/vatican_says_the_pope_has_lung_cancer_and_the/",
      "selftext_head": ""
     },
     {
@@ -46,24 +55,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Our Lady of the Rosary",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1wzskdy/our_lady_of_the_rosary/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Pope Leo: I will undergo surgery soon to remove nodule in my lung",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x3537c/pope_leo_i_will_undergo_surgery_soon_to_remove/",
-     "selftext_head": ""
-    },
-    {
      "title": "Feast of St. Carlo Acutis | 12 October",
      "score": null,
      "num_comments": null,
@@ -82,6 +73,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Pope Leo: I will undergo surgery soon to remove nodule in my lung",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x3537c/pope_leo_i_will_undergo_surgery_soon_to_remove/",
+     "selftext_head": ""
+    },
+    {
      "title": "My first work",
      "score": null,
      "num_comments": null,
@@ -97,6 +97,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x3yk5n/the_church_where_stcarlo_acutis_rests_in_gran/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Pope Leo XIV undergoes successful lung surgery",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x54vf7/pope_leo_xiv_undergoes_successful_lung_surgery/",
      "selftext_head": ""
     },
     {
@@ -127,21 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "October 7 — Feast of Our Lady of the Rosary and the Victory at Lepanto (1571)",
+     "title": "Happy 109th Anniversary of the Final Apparition of Our Lady of Fatima & The Miracle of the Sun",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x0hrl3/october_7_feast_of_our_lady_of_the_rosary_and_the/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Pope Leo XIV undergoes successful lung surgery",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x54vf7/pope_leo_xiv_undergoes_successful_lung_surgery/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x57gel/happy_109th_anniversary_of_the_final_apparition/",
      "selftext_head": ""
     }
    ]
@@ -158,8 +158,8 @@
    "catholic gift for women",
    "catholic gift for mom",
    "catholic gift for kids",
-   "catholic gift for baby",
-   "catholic gift for husband"
+   "catholic gift for wife",
+   "catholic gift for baby"
   ],
   "rosary bracelet": [
    "rosary bracelet",
@@ -219,7 +219,7 @@
    "catholic home decor reddit",
    "catholic home decor near me",
    "catholic home decor nearby",
-   "catholic home decor companies"
+   "catholic home decor store"
   ],
   "saint medal necklace": [
    "saint medal necklace",
@@ -259,6 +259,7 @@
   ],
   "christian tote bag": [
    "christian tote bag",
+   "christian tote bags for women",
    "christian tote bag ideas",
    "christian tote bag painting ideas",
    "christian tote bag with zipper",
@@ -292,16 +293,16 @@
   ]
  },
  "trends": [
-  "lamine yamal",
-  "thélyson orélien",
-  "adeyemi",
-  "abdulrahman alfozan",
-  "pope francis",
-  "delaware vs middle tennessee prediction",
-  "bayern de múnich",
-  "pablo torre",
-  "flashscore",
-  "gme"
+  "katie hobbs",
+  "erling haaland",
+  "rudiger",
+  "fire weather watch",
+  "arda güler",
+  "europa league",
+  "rklb",
+  "ferran torres",
+  "luna jack russell terrier yellowstone",
+  "east rutherford"
  ],
  "errors": []
 }
