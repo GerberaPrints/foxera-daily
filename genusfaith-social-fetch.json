@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-15",
- "fetched_at": "2026-10-15T04:15:02.760073+07:00",
+ "date": "2026-10-16",
+ "fetched_at": "2026-10-16T04:15:02.759598+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -55,21 +55,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Feast of St. Carlo Acutis | 12 October",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x3vy57/feast_of_st_carlo_acutis_12_october/",
-     "selftext_head": ""
-    },
-    {
      "title": "Today is Our Lady Aparecida feast day!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x44zwz/today_is_our_lady_aparecida_feast_day/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Feast of St. Carlo Acutis | 12 October",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x3vy57/feast_of_st_carlo_acutis_12_october/",
      "selftext_head": ""
     },
     {
@@ -118,6 +118,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Happy 109th Anniversary of the Final Apparition of Our Lady of Fatima & The Miracle of the Sun",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x57gel/happy_109th_anniversary_of_the_final_apparition/",
+     "selftext_head": ""
+    },
+    {
      "title": "Photo of a newly ordained Canon for the Institute of Christ the King Sovereign Priest taken in October 2025.📍 Rouen 🇨🇵",
      "score": null,
      "num_comments": null,
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x4amxv/politics_monday_pope_leo_xiv_calls_the_death/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Happy 109th Anniversary of the Final Apparition of Our Lady of Fatima & The Miracle of the Sun",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x57gel/happy_109th_anniversary_of_the_final_apparition/",
      "selftext_head": ""
     }
    ]
@@ -189,13 +189,13 @@
    "confirmation gifts",
    "confirmation gifts for girls",
    "confirmation gifts for boys",
+   "confirmation gifts of the holy spirit",
    "confirmation gift ideas",
    "confirmation gifts for teenage boys",
    "confirmation gifts catholic",
    "confirmation gifts for teen girls",
    "confirmation gifts for adults",
-   "confirmation gift ideas for girls",
-   "confirmation gifts of the holy spirit"
+   "confirmation gift ideas for girls"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -219,7 +219,7 @@
    "catholic home decor reddit",
    "catholic home decor near me",
    "catholic home decor nearby",
-   "catholic home decor store"
+   "catholic home decor companies"
   ],
   "saint medal necklace": [
    "saint medal necklace",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "katie hobbs",
-  "erling haaland",
-  "rudiger",
-  "fire weather watch",
-  "arda güler",
-  "europa league",
-  "rklb",
-  "ferran torres",
-  "luna jack russell terrier yellowstone",
-  "east rutherford"
+  "tyler ulrich injury",
+  "azusa fire",
+  "siameses",
+  "fire near me",
+  "ranabaali review",
+  "dinamo zagreb",
+  "europa league standings",
+  "varonis",
+  "green bay packers running back trade",
+  "mcdonalds boo buckets 2026"
  ],
  "errors": []
 }
