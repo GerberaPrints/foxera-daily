@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-15",
- "fetched_at": "2026-10-15T04:45:03.567193+07:00",
+ "date": "2026-10-16",
+ "fetched_at": "2026-10-16T04:45:03.741820+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -64,6 +64,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Fall Muni in Upstate NY",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x5cxm7/fall_muni_in_upstate_ny/",
+     "selftext_head": ""
+    },
+    {
      "title": "35+MPH Gusts today at the St. Andrews Links Collegiate",
      "score": null,
      "num_comments": null,
@@ -73,12 +82,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Fall Muni in Upstate NY",
+     "title": "Head down. Arm straight. Stay balanced.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x5cxm7/fall_muni_in_upstate_ny/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x6mjko/head_down_arm_straight_stay_balanced/",
      "selftext_head": ""
     },
     {
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x43wgn/photos_i_took_of_some_of_the_nicer_courses_ive/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Had a long \"walk-off\" putt in front of a wedding party. Not gonna lie, it felt pretty dope.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x448g7/had_a_long_walkoff_putt_in_front_of_a_wedding/",
      "selftext_head": ""
     }
    ]
@@ -281,25 +281,25 @@
    "hawaiian golf shirts for men",
    "hawaiian golf shirts for women",
    "hawaiian golf shirts amazon",
-   "hawaiian golf shirts ladies",
    "hawaiian golf shirts australia",
    "hawaiian golf shirts near me",
    "hawaiian golf shirts canada",
    "hawaiian golf shirt brand",
-   "hawaiian golf shirts nearby"
+   "hawaiian golf shirts nearby",
+   "hawaiian golf shirts for couples"
   ]
  },
  "trends": [
-  "keke palmer",
-  "troy jackson",
-  "atlético mineiro vs torque",
-  "atlético-mg x torque",
-  "junior vs deportivo pereira",
-  "classement as roma – real madrid",
-  "kristaps porzingis",
-  "college baseball",
-  "man city vs psg standings",
-  "posiciones de manchester city contra psg"
+  "jaylen waddle",
+  "bela bajaria",
+  "karl rove",
+  "old dominion football",
+  "dow jones industrial average",
+  "broncos schedule",
+  "west virginia new mushroom discovery",
+  "anthony joshua",
+  "azusa fire",
+  "fire near me"
  ],
  "errors": []
 }
