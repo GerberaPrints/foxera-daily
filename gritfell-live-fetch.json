@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-15",
- "fetched_at": "2026-10-15T04:30:02.706619+07:00",
+ "date": "2026-10-16",
+ "fetched_at": "2026-10-16T04:30:02.756019+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 187,
@@ -1927,6 +1927,22 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Ducks Unlimited x DC Canvas Crest Hat - Cypress Green",
+     "handle": "ducks-unlimited-x-dc-canvas-crest-hat-cypress-green",
+     "type": "",
+     "tags": [],
+     "price": "36.00",
+     "published_at": "2026-10-15T14:12:38-05:00"
+    },
+    {
+     "title": "Ducks Unlimited x DC Canvas Hat - Demitasse",
+     "handle": "ducks-unlimited-x-dc-canvas-hat-demitasse",
+     "type": "",
+     "tags": [],
+     "price": "36.00",
+     "published_at": "2026-10-15T14:12:31-05:00"
+    },
+    {
      "title": "Pheasants Forever Tee - Ivory",
      "handle": "pheasants-forever-tee-ivory",
      "type": "T-Shirt",
@@ -1988,33 +2004,6 @@
      ],
      "price": "36.00",
      "published_at": "2026-09-27T14:51:04-05:00"
-    },
-    {
-     "title": "Men's Terrain Guard Softshell Vest",
-     "handle": "mens-terrain-guard-softshell-vest",
-     "type": "Combined Product",
-     "tags": [],
-     "price": "169.00",
-     "published_at": "2026-09-22T10:44:49-05:00"
-    },
-    {
-     "title": "Men's Terrain Guard Softshell Vest - Moss",
-     "handle": "mens-terrain-guard-softshell-vest-moss",
-     "type": "Terrain Guard Vest",
-     "tags": [
-      "__label:new",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "hunt",
-      "mens",
-      "msrp",
-      "outerwear",
-      "terrain-guard",
-      "vest"
-     ],
-     "price": "169.00",
-     "published_at": "2026-09-22T10:43:14-05:00"
     }
    ]
   },
@@ -2413,6 +2402,29 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "5lb Raffia Grass Bundle",
+     "handle": "5lb-raffia-grass-bundle",
+     "type": "Sale_Field Essentials",
+     "tags": [
+      "2026 Pre-Season Sale",
+      "acs2024",
+      "AW24_New",
+      "BFCM2025",
+      "discount_25",
+      "Final Sale",
+      "FinalSale",
+      "PSS25",
+      "PSS26",
+      "spring wf clearance event",
+      "summer10",
+      "Super Sale 2025",
+      "waterfowl",
+      "waterfowl_new_arrivals"
+     ],
+     "price": "49.99",
+     "published_at": "2026-10-15T09:02:53-05:00"
+    },
+    {
      "title": "Youth Pop Art Wood Duck Sunglasses T-Shirt",
      "handle": "youth-pop-art-wood-duck-sunglasses-t-shirt-copy",
      "type": "T-Shirts",
@@ -2483,26 +2495,11 @@
       "casual_boots",
       "HOL_26 Flyer",
       "master_list_new_arrivals_26",
-      "new"
+      "new",
+      "top seller 2026"
      ],
      "price": "139.99",
      "published_at": "2026-10-13T09:35:28-05:00"
-    },
-    {
-     "title": "Ol' Tom Youth Tech Stretch Turkey Pants",
-     "handle": "ol-tom-tech-stretch-turkey-pants-copy",
-     "type": "Pants & Bibs",
-     "tags": [
-      "ol-tom",
-      "pants & bibs",
-      "Pants-Shorts",
-      "SS26 Catalog",
-      "SS26_New",
-      "SS27 Catalog",
-      "youth"
-     ],
-     "price": "89.99",
-     "published_at": "2026-10-08T10:37:36-05:00"
     }
    ]
   },
@@ -2579,6 +2576,48 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Flannel Shirt - Black Buffalo",
+     "handle": "flannel-black-buffalo",
+     "type": "Flannel Shirt",
+     "tags": [
+      "9/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "Flannel Shirt",
+      "Men's",
+      "Outerwear",
+      "retail",
+      "Season Fall25",
+      "Season Uncategorized",
+      "Tops",
+      "Warehouse Sale 2026",
+      "wholesale",
+      "WinterSale",
+      "WinterSale37.8%"
+     ],
+     "price": "74.00",
+     "published_at": "2026-10-15T14:55:39-05:00"
+    },
+    {
+     "title": "Can Cooler - Classic Deer Camo",
+     "handle": "koozie-classic-deer-camo",
+     "type": "Can Cooler",
+     "tags": [
+      "Accessories",
+      "B2B_Active",
+      "B2B_Sync",
+      "Can Cooler",
+      "hide-notify-btn",
+      "pdqreview",
+      "retail",
+      "Season Spring23",
+      "Season Uncategorized",
+      "wholesale"
+     ],
+     "price": "5.00",
+     "published_at": "2026-10-15T10:45:50-05:00"
+    },
+    {
      "title": "Duke Tech - Mid Layer - Pintail Camo",
      "handle": "duke-tech-mid-layer-pintail-camo",
      "type": "Duke Tech",
@@ -2649,52 +2688,6 @@
      ],
      "price": "109.00",
      "published_at": "2026-10-06T12:54:59-05:00"
-    },
-    {
-     "title": "Youth Mesh Training Shorts - Fowl Ball - Classic Deer Camo",
-     "handle": "youth-mesh-training-shorts-fowl-ball-classic-deer-camo",
-     "type": "Youth - Mesh Training Short",
-     "tags": [
-      "7/28/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "Bottoms",
-      "excludeblink",
-      "Mesh Short",
-      "Mesh Training Short",
-      "retail",
-      "Season Fall26",
-      "Season Summer26",
-      "Short Sleeve",
-      "Summer 26",
-      "wholesale",
-      "Youth"
-     ],
-     "price": "46.00",
-     "published_at": "2026-10-01T08:08:29-05:00"
-    },
-    {
-     "title": "Toddler + Youth Crocs Classic Clog - Classic Deer Camo",
-     "handle": "toddler-youth-crocs-classic-clog-classic-deer-camo",
-     "type": "Footwear",
-     "tags": [
-      "9/29/26",
-      "Accessories",
-      "B2B_Active",
-      "B2B_Sync",
-      "classic-deer-camo",
-      "Crocs",
-      "Footwear",
-      "pdqreview",
-      "retail",
-      "Toddler",
-      "wholesale",
-      "wrapped:blocks:include",
-      "Youth"
-     ],
-     "price": "44.99",
-     "published_at": "2026-09-29T17:30:42-05:00"
     }
    ]
   },
@@ -2714,7 +2707,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2629000",
+     "price": "2626000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2727,7 +2720,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5257000",
+     "price": "5252000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2740,7 +2733,7 @@
       "retail",
       "wsc"
      ],
-     "price": "920000",
+     "price": "919000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -2753,7 +2746,7 @@
       "retail",
       "wsc"
      ],
-     "price": "920000",
+     "price": "919000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2764,7 +2757,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1577000",
+     "price": "1576000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2818,6 +2811,14 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10124",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10124",
+     "type": "lam",
+     "tags": [],
+     "price": "27.95",
+     "published_at": "2026-10-15T04:08:23-06:00"
+    },
+    {
      "title": "Deer Fuck Hoodie",
      "handle": "deer-fuck-hoodie",
      "type": "",
@@ -2848,14 +2849,6 @@
      "tags": [],
      "price": "53.95",
      "published_at": "2026-10-14T01:45:48-06:00"
-    },
-    {
-     "title": "Turkey Hunting Pattern Camouflage Hoodie",
-     "handle": "turkey-hunting-pattern-camouflage-hoodie",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-14T01:41:08-06:00"
     }
    ]
   },
