@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-16",
- "fetched_at": "2026-10-16T04:30:02.756019+07:00",
+ "date": "2026-10-17",
+ "fetched_at": "2026-10-17T04:30:02.783271+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 187,
@@ -2112,6 +2112,42 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Conrad Fatigue Jacket",
+     "handle": "conrad-fatigue-jacket",
+     "type": "Outerwear",
+     "tags": [
+      "field sport",
+      "FW2026ZR",
+      "HUNTZR",
+      "MENZR",
+      "MFIELDZR",
+      "MJACKETZR",
+      "MNEWZR",
+      "MWAXZR",
+      "WAXZR"
+     ],
+     "price": "495.00",
+     "published_at": "2026-10-16T12:30:31-05:00"
+    },
+    {
+     "title": "Stanley Jacket",
+     "handle": "stanley-jacket",
+     "type": "Outerwear",
+     "tags": [
+      "field sport",
+      "FW2026ZR",
+      "HUNTZR",
+      "MENZR",
+      "MFIELDZR",
+      "MJACKETZR",
+      "MNEWZR",
+      "MWAXZR",
+      "WAXZR"
+     ],
+     "price": "495.00",
+     "published_at": "2026-10-16T10:53:49-05:00"
+    },
+    {
      "title": "Winston Dress Shirt",
      "handle": "winston-dress-shirt",
      "type": "Shirting",
@@ -2150,32 +2186,6 @@
      ],
      "price": "595.00",
      "published_at": "2026-09-30T15:10:07-05:00"
-    },
-    {
-     "title": "Red Wing Weekender Chelsea Boot",
-     "handle": "red-wing-weekender-chelsea-boot",
-     "type": "Footwear",
-     "tags": [
-      "FW2026ZR",
-      "MENZR",
-      "MFOOTZR",
-      "MNEWZR"
-     ],
-     "price": "279.99",
-     "published_at": "2026-09-17T15:32:39-05:00"
-    },
-    {
-     "title": "Red Wing Weekender Chukka Boot",
-     "handle": "red-wing-weekender-chukka-boot",
-     "type": "Footwear",
-     "tags": [
-      "FW2026ZR",
-      "MENZR",
-      "MFOOTZR",
-      "MNEWZR"
-     ],
-     "price": "269.99",
-     "published_at": "2026-09-17T15:24:24-05:00"
     }
    ]
   },
@@ -2195,7 +2205,8 @@
       "mens-shirts-collection",
       "new-arrivals-collection",
       "no-treet",
-      "published-online"
+      "published-online",
+      "western-collection"
      ],
      "price": "119.00",
      "published_at": "2026-10-13T08:43:35-05:00"
@@ -2576,6 +2587,21 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "BURLEBO Beanie - Black",
+     "handle": "burlebo-beanie-black",
+     "type": "Beanie",
+     "tags": [
+      "Beanie",
+      "BlinkAutoHide",
+      "Headwear",
+      "hide-notify-btn",
+      "hide-preorder-btn",
+      "retail"
+     ],
+     "price": "32.00",
+     "published_at": "2026-10-16T07:27:14-05:00"
+    },
+    {
      "title": "Flannel Shirt - Black Buffalo",
      "handle": "flannel-black-buffalo",
      "type": "Flannel Shirt",
@@ -2663,31 +2689,6 @@
      ],
      "price": "34.00",
      "published_at": "2026-10-06T15:21:18-05:00"
-    },
-    {
-     "title": "Duke Tech - Mid Layer - Gauge Camo",
-     "handle": "duke-tech-mid-layer-gauge-camo",
-     "type": "Duke Tech",
-     "tags": [
-      "9/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "BassPro",
-      "Duke Tech",
-      "Gauge Camo",
-      "hide-notify-btn",
-      "Men's",
-      "Outerwear",
-      "pdqreview",
-      "retail",
-      "Season Uncategorized",
-      "Warehouse Sale",
-      "wholesale",
-      "WinterSale",
-      "WinterSale37%"
-     ],
-     "price": "109.00",
-     "published_at": "2026-10-06T12:54:59-05:00"
     }
    ]
   },
@@ -2707,7 +2708,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2626000",
+     "price": "2628000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2720,7 +2721,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5252000",
+     "price": "5256000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2733,7 +2734,7 @@
       "retail",
       "wsc"
      ],
-     "price": "919000",
+     "price": "920000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -2746,7 +2747,7 @@
       "retail",
       "wsc"
      ],
-     "price": "919000",
+     "price": "920000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2757,7 +2758,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1576000",
+     "price": "1577000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2811,6 +2812,22 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Coyote Pattern Hunting Hoodie",
+     "handle": "coyote-pattern-hunting-hoodie",
+     "type": "",
+     "tags": [],
+     "price": "69.99",
+     "published_at": "2026-10-16T04:08:04-06:00"
+    },
+    {
+     "title": "Mule Deer Pattern Hunting Hoodie",
+     "handle": "mule-deer-pattern-hunting-hoodie",
+     "type": "",
+     "tags": [],
+     "price": "69.99",
+     "published_at": "2026-10-16T02:16:56-06:00"
+    },
+    {
      "title": "Fishing On Outdoor Cotton T-Shirt NL10124",
      "handle": "fishing-on-outdoor-cotton-t-shirt-nl10124",
      "type": "lam",
@@ -2833,28 +2850,56 @@
      "tags": [],
      "price": "53.95",
      "published_at": "2026-10-14T02:00:32-06:00"
-    },
-    {
-     "title": "Vintage Buck Doe Fawn Hoodie",
-     "handle": "vintage-buck-doe-fawn-hoodie",
-     "type": "",
-     "tags": [],
-     "price": "53.95",
-     "published_at": "2026-10-14T01:55:05-06:00"
-    },
-    {
-     "title": "Funny Pheasantin Hunting Hoodie",
-     "handle": "funny-pheasantin-hunting-hoodie",
-     "type": "",
-     "tags": [],
-     "price": "53.95",
-     "published_at": "2026-10-14T01:45:48-06:00"
     }
    ]
   },
   "Terrabound": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "Merino Wool Socks - Knee High Socks for Boots, Thermal",
+     "handle": "merino-wool-knee-high-socks",
+     "type": "Socks",
+     "tags": [
+      "boot socks",
+      "knee high socks",
+      "long socks",
+      "mens",
+      "merino wool",
+      "merino wool socks",
+      "socks",
+      "thermal socks",
+      "unisex",
+      "winter",
+      "winter socks",
+      "womens",
+      "wool socks"
+     ],
+     "price": "17.95",
+     "published_at": "2026-10-16T16:16:45+02:00"
+    },
+    {
+     "title": "Wool Socks - Thick Warm Winter Socks - Ribbed Mid-Calf for Boots",
+     "handle": "wool-socks-thick-warm-winter-socks",
+     "type": "Socks",
+     "tags": [
+      "activity:hiking",
+      "gender:mens",
+      "gender:unisex",
+      "gender:womens",
+      "mid-calf socks",
+      "socks",
+      "thick socks",
+      "type:socks",
+      "unisex",
+      "warm socks",
+      "winter",
+      "winter socks",
+      "wool socks"
+     ],
+     "price": "14.95",
+     "published_at": "2026-10-16T09:05:22+02:00"
+    },
     {
      "title": "Women's Dungarees - Canvas Bib Overalls - Work Overalls",
      "handle": "womens-canvas-dungarees-bib-overalls-work-overalls",
@@ -2908,33 +2953,6 @@
      ],
      "price": "29.95",
      "published_at": "2026-10-09T17:34:56+02:00"
-    },
-    {
-     "title": "Women's Puffer Jacket - Hooded Short Down Jacket for Winter",
-     "handle": "womens-puffer-jacket-hooded-short-down-jacket-for-winter",
-     "type": "Puffer Jacket",
-     "tags": [
-      "activity:autumn",
-      "activity:travel",
-      "activity:winter",
-      "gender:womens",
-      "type:jackets"
-     ],
-     "price": "79.95",
-     "published_at": "2026-10-09T17:22:20+02:00"
-    },
-    {
-     "title": "Men's Puffer Jacket - Colour Block Down Jacket - 700 Fill Power",
-     "handle": "mens-puffer-jacket-colour-block-down-jacket-700-fill-power",
-     "type": "Jacket",
-     "tags": [
-      "activity:hiking",
-      "activity:walking",
-      "gender:mens",
-      "type:jackets"
-     ],
-     "price": "89.95",
-     "published_at": "2026-10-09T16:15:28+02:00"
     }
    ]
   }
