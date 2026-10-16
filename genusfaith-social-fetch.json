@@ -2,13 +2,31 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-16",
- "fetched_at": "2026-10-16T04:15:02.759598+07:00",
+ "date": "2026-10-17",
+ "fetched_at": "2026-10-17T04:15:02.741841+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "Free Friday: I got married !",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x785qq/free_friday_i_got_married/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[Free Friday] Pope Leo offering Mass today in hospital (credit: the Vatican)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7ez2s/free_friday_pope_leo_offering_mass_today_in/",
+     "selftext_head": ""
+    },
     {
      "title": "Blessed Carlo Acutis",
      "score": null,
@@ -28,30 +46,12 @@
      "selftext_head": ""
     },
     {
-     "title": "I love this painting of Mary so muchㅤ♡ Artist is Ruben Zarculea (Free Friday)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x1nccs/i_love_this_painting_of_mary_so_muchㅤ_artist_is/",
-     "selftext_head": ""
-    },
-    {
      "title": "[Free Friday] Blessed Fulton Sheen and St. Mother Teresa",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x22leu/free_friday_blessed_fulton_sheen_and_st_mother/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Happy feast of Ven. Pius XII, Pope during WW2. Under his Papacy, the Vatican covertly saved 700,000 Jewish refugees by sheltering them in religious homes and issuing fake baptism certificates. More than any other country.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x1bjl8/happy_feast_of_ven_pius_xii_pope_during_ww2_under/",
      "selftext_head": ""
     },
     {
@@ -82,15 +82,6 @@
      "selftext_head": ""
     },
     {
-     "title": "My first work",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x1wpye/my_first_work/",
-     "selftext_head": ""
-    },
-    {
      "title": "The church where St.Carlo Acutis rests in Gran Turismo 4",
      "score": null,
      "num_comments": null,
@@ -106,6 +97,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x54vf7/pope_leo_xiv_undergoes_successful_lung_surgery/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Happy Feast Day of St. Teresa of Ávila",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x6pk3n/happy_feast_day_of_st_teresa_of_ávila/",
      "selftext_head": ""
     },
     {
@@ -127,21 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Photo of a newly ordained Canon for the Institute of Christ the King Sovereign Priest taken in October 2025.📍 Rouen 🇨🇵",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x1n5mf/photo_of_a_newly_ordained_canon_for_the_institute/",
-     "selftext_head": ""
-    },
-    {
      "title": "[Politics Monday] Pope Leo XIV Calls the Death Penalty ‘Inadmissible’ After Announcement of Public Execution in US",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x4amxv/politics_monday_pope_leo_xiv_calls_the_death/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Marian Procession in Japan Catholics in Japan gather to honor Our Lady through Marian processions and prayers. When does your parish hold Marian processions — in May or October? I’d love to hear about your traditions!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7233v/marian_procession_in_japan_catholics_in_japan/",
      "selftext_head": ""
     }
    ]
@@ -189,13 +189,13 @@
    "confirmation gifts",
    "confirmation gifts for girls",
    "confirmation gifts for boys",
-   "confirmation gifts of the holy spirit",
    "confirmation gift ideas",
    "confirmation gifts for teenage boys",
    "confirmation gifts catholic",
    "confirmation gifts for teen girls",
    "confirmation gifts for adults",
-   "confirmation gift ideas for girls"
+   "confirmation gift ideas for girls",
+   "confirmation gifts of the holy spirit"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -219,7 +219,7 @@
    "catholic home decor reddit",
    "catholic home decor near me",
    "catholic home decor nearby",
-   "catholic home decor companies"
+   "catholic home decor store"
   ],
   "saint medal necklace": [
    "saint medal necklace",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "tyler ulrich injury",
-  "azusa fire",
-  "siameses",
-  "fire near me",
-  "ranabaali review",
-  "dinamo zagreb",
-  "europa league standings",
-  "varonis",
-  "green bay packers running back trade",
-  "mcdonalds boo buckets 2026"
+  "timothy busfield",
+  "nor&apos;easter",
+  "devonta smith",
+  "tesla autopilot",
+  "washington vs purdue predictions",
+  "valley children&apos;s hospital",
+  "melissa mccarthy",
+  "jackie kennedy",
+  "cook political report",
+  "ohio state vs indiana"
  ],
  "errors": []
 }
