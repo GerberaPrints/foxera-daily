@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-17",
- "fetched_at": "2026-10-17T04:15:02.741841+07:00",
+ "date": "2026-10-18",
+ "fetched_at": "2026-10-18T04:15:03.111948+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -37,21 +37,21 @@
      "selftext_head": ""
     },
     {
+     "title": "[Free Friday] My uncle leading the NYC Eucharistic Procession",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7uust/free_friday_my_uncle_leading_the_nyc_eucharistic/",
+     "selftext_head": ""
+    },
+    {
      "title": "Vatican says the pope has lung cancer and the lower lobe of his right lung was removed",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x57sym/vatican_says_the_pope_has_lung_cancer_and_the/",
-     "selftext_head": ""
-    },
-    {
-     "title": "[Free Friday] Blessed Fulton Sheen and St. Mother Teresa",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x22leu/free_friday_blessed_fulton_sheen_and_st_mother/",
      "selftext_head": ""
     },
     {
@@ -109,21 +109,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Acrylic on canvas :)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x27w2g/acrylic_on_canvas/",
-     "selftext_head": ""
-    },
-    {
      "title": "Happy 109th Anniversary of the Final Apparition of Our Lady of Fatima & The Miracle of the Sun",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x57gel/happy_109th_anniversary_of_the_final_apparition/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[Free Friday] Saint Michael the Archangel through the eyes of a Japanese artist",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7kzx5/free_friday_saint_michael_the_archangel_through/",
      "selftext_head": ""
     },
     {
@@ -136,12 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Marian Procession in Japan Catholics in Japan gather to honor Our Lady through Marian processions and prayers. When does your parish hold Marian processions — in May or October? I’d love to hear about your traditions!",
+     "title": "(Free Friday) traditional Japanese artwork of Mary and Jesus",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7233v/marian_procession_in_japan_catholics_in_japan/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7ds24/free_friday_traditional_japanese_artwork_of_mary/",
      "selftext_head": ""
     }
    ]
@@ -189,13 +189,13 @@
    "confirmation gifts",
    "confirmation gifts for girls",
    "confirmation gifts for boys",
+   "confirmation gifts of the holy spirit",
    "confirmation gift ideas",
    "confirmation gifts for teenage boys",
    "confirmation gifts catholic",
    "confirmation gifts for teen girls",
    "confirmation gifts for adults",
-   "confirmation gift ideas for girls",
-   "confirmation gifts of the holy spirit"
+   "confirmation gift ideas for girls"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -219,7 +219,7 @@
    "catholic home decor reddit",
    "catholic home decor near me",
    "catholic home decor nearby",
-   "catholic home decor store"
+   "catholic home decor companies"
   ],
   "saint medal necklace": [
    "saint medal necklace",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "timothy busfield",
-  "nor&apos;easter",
-  "devonta smith",
-  "tesla autopilot",
-  "washington vs purdue predictions",
-  "valley children&apos;s hospital",
-  "melissa mccarthy",
-  "jackie kennedy",
-  "cook political report",
-  "ohio state vs indiana"
+  "auburn football",
+  "husker volleyball",
+  "star wars ahsoka season 2",
+  "france",
+  "bruce brown",
+  "atlético-mg x coritiba",
+  "husker volleyball schedule",
+  "one ui 9",
+  "christopher walken",
+  "jhonata diniz"
  ],
  "errors": []
 }
