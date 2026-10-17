@@ -2,13 +2,22 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-17",
- "fetched_at": "2026-10-17T04:45:03.202892+07:00",
+ "date": "2026-10-18",
+ "fetched_at": "2026-10-18T04:45:03.116779+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "😂🤣🤷‍♂️",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x7twjg/_/",
+     "selftext_head": ""
+    },
     {
      "title": "Had one of those moments today…",
      "score": null,
@@ -16,24 +25,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x4ido2/had_one_of_those_moments_today/",
-     "selftext_head": ""
-    },
-    {
-     "title": "golf etiquette with Mike Ditka",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x26isn/golf_etiquette_with_mike_ditka/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Right place at the right time on the course today",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x238ux/right_place_at_the_right_time_on_the_course_today/",
      "selftext_head": ""
     },
     {
@@ -73,6 +64,15 @@
      "selftext_head": ""
     },
     {
+     "title": "DP World Tour India Championship: Rory McIlroy eagles his first hole of the day",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x7k8x8/dp_world_tour_india_championship_rory_mcilroy/",
+     "selftext_head": ""
+    },
+    {
      "title": "35+MPH Gusts today at the St. Andrews Links Collegiate",
      "score": null,
      "num_comments": null,
@@ -91,39 +91,12 @@
      "selftext_head": ""
     },
     {
-     "title": "DP World Tour India Championship: Rory McIlroy eagles his first hole of the day",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x7k8x8/dp_world_tour_india_championship_rory_mcilroy/",
-     "selftext_head": ""
-    },
-    {
-     "title": "First ever hole-in-one yesterday",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x2f823/first_ever_holeinone_yesterday/",
-     "selftext_head": ""
-    },
-    {
      "title": "My wife put together this golf board for me. I think she might actually support my golf addiction 😂⛳️",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x2ut9a/my_wife_put_together_this_golf_board_for_me_i/",
-     "selftext_head": ""
-    },
-    {
-     "title": "The beautiful swing of LPGA Tour professional Atthaya \"Jeeno\" Thitikul",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x4y4zh/the_beautiful_swing_of_lpga_tour_professional/",
      "selftext_head": ""
     },
     {
@@ -136,12 +109,39 @@
      "selftext_head": ""
     },
     {
+     "title": "The beautiful swing of LPGA Tour professional Atthaya \"Jeeno\" Thitikul",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x4y4zh/the_beautiful_swing_of_lpga_tour_professional/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Never met my wife's grandfather. We named our son after him. Today her grandmother gave me these",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x7obs9/never_met_my_wifes_grandfather_we_named_our_son/",
+     "selftext_head": ""
+    },
+    {
      "title": "Photos I took of some of the nicer courses I've had the privilege of playing over the last couple of years!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x43wgn/photos_i_took_of_some_of_the_nicer_courses_ive/",
+     "selftext_head": ""
+    },
+    {
+     "title": "One of the Best Bang for Your Buck Tee Times in the USA",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x6npym/one_of_the_best_bang_for_your_buck_tee_times_in/",
      "selftext_head": ""
     }
    ]
@@ -199,14 +199,14 @@
   "custom golf polo": [
    "custom golf polos",
    "custom golf polos for men",
-   "custom golf polos with logo",
    "custom golf polo with face",
    "custom golf polo shirts",
    "custom golf polo shirts with logo",
    "custom golf polos no minimum",
    "custom golf polo with picture",
    "custom golf polo shirts uk",
-   "custom golf polos australia"
+   "custom golf polos australia",
+   "custom golf polos canada"
   ],
   "golf tournament gift": [
    "golf tournament gift ideas",
@@ -290,16 +290,16 @@
   ]
  },
  "trends": [
-  "tulane football",
-  "appalachian state football",
-  "anthony joshua",
-  "pat connaughton",
-  "nfl academy",
-  "ariel winter",
-  "jessica tarlov",
-  "opioid",
-  "brand risk boxing",
-  "timothy busfield"
+  "kyle whittingham",
+  "nicki minaj",
+  "steve sarkisian arch manning evaluation",
+  "frente frío",
+  "umich football",
+  "keke palmer",
+  "milan",
+  "washington st vs oregon state",
+  "tommy carr",
+  "aucas - ldu quito"
  ],
  "errors": []
 }
