@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-17",
- "fetched_at": "2026-10-17T04:30:02.783271+07:00",
+ "date": "2026-10-18",
+ "fetched_at": "2026-10-18T04:30:02.908219+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 187,
@@ -2812,44 +2812,47 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Coyote Pattern Hunting Hoodie",
-     "handle": "coyote-pattern-hunting-hoodie",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-16T04:08:04-06:00"
-    },
-    {
-     "title": "Mule Deer Pattern Hunting Hoodie",
-     "handle": "mule-deer-pattern-hunting-hoodie",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-16T02:16:56-06:00"
-    },
-    {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10124",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10124",
-     "type": "lam",
-     "tags": [],
-     "price": "27.95",
-     "published_at": "2026-10-15T04:08:23-06:00"
-    },
-    {
-     "title": "Deer Fuck Hoodie",
-     "handle": "deer-fuck-hoodie",
+     "title": "Fishing trout hunting Season Hoodie",
+     "handle": "fishing-trout-hunting-season-hoodie",
      "type": "",
      "tags": [],
      "price": "53.95",
-     "published_at": "2026-10-14T03:02:59-06:00"
+     "published_at": "2026-10-17T03:43:14-06:00"
     },
     {
-     "title": "Vintage Buck Forget Pumpkin Spice I want Backstrap rice Hoodie",
-     "handle": "vintage-buck-forget-pumpkin-spice-i-want-backstrap-rice-hoodie",
+     "title": "Pheasant Fieldwise Hoodie",
+     "handle": "pheasant-fieldwise-hoodie",
      "type": "",
      "tags": [],
      "price": "53.95",
-     "published_at": "2026-10-14T02:00:32-06:00"
+     "published_at": "2026-10-17T03:14:04-06:00"
+    },
+    {
+     "title": "Hunting Season Hoodie",
+     "handle": "hunting-season-hoodie",
+     "type": "",
+     "tags": [],
+     "price": "53.95",
+     "published_at": "2026-10-17T03:05:26-06:00"
+    },
+    {
+     "title": "Deer Skull Hunting Pattern Hoodie VC1710",
+     "handle": "deer-skull-hunting-pattern-hoodie-vc1710",
+     "type": "",
+     "tags": [],
+     "price": "69.99",
+     "published_at": "2026-10-17T02:18:36-06:00"
+    },
+    {
+     "title": "Fishing Blue pattern Polo Shirt VCE051033",
+     "handle": "fishing-blue-pattern-polo-shirt-vce051033",
+     "type": "Polo Shirt",
+     "tags": [
+      "Fishing",
+      "Polo Shirt"
+     ],
+     "price": "39.99",
+     "published_at": "2026-10-17T02:09:39-06:00"
     }
    ]
   },
