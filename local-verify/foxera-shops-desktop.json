@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "scanner_version": "v9",
   "provenance": "live_local_browser",
   "note": "Desktop CHI ghi file nay. Cloud doc va merge vao foxera-accounts-daily.json. v8 ghi de accounts-daily -> 2 nguoi ghi 1 file, da bo.",
@@ -1417,8 +1417,8 @@
       "shop": "DreamPineCo",
       "status": "not_selling",
       "sales": 5,
-      "rating": 5.0,
-      "reviews": 1,
+      "rating": 3.0,
+      "reviews": 2,
       "listings": null,
       "status_confirmed": true,
       "evidence": "cau trang thai nguyen van"
