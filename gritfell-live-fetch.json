@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-18",
- "fetched_at": "2026-10-18T04:30:02.908219+07:00",
+ "date": "2026-10-19",
+ "fetched_at": "2026-10-19T04:30:02.781822+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 187,
@@ -1927,18 +1927,93 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Ducks Unlimited x DC Sweatshirt - Demitasse",
+     "handle": "ducks-unlimited-dc-sweatshirt-demitasse",
+     "type": "Limited Release Sweatshirt",
+     "tags": [
+      "__label:Coming Soon",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "hats-tees",
+      "lifestyle",
+      "logowear",
+      "logowear-sweatshirt",
+      "mens",
+      "msrp",
+      "outerwear",
+      "top",
+      "womens"
+     ],
+     "price": "79.00",
+     "published_at": "2026-10-18T10:00:10-05:00"
+    },
+    {
+     "title": "Ducks Unlimited x DC Crest Tee - Ivory",
+     "handle": "ducks-unlimited-dc-crest-tee-ivory",
+     "type": "Limited Release T-shirt",
+     "tags": [
+      "__label:new",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "hats-tees",
+      "lifestyle",
+      "logowear",
+      "logowear-tees",
+      "mens",
+      "msrp",
+      "top",
+      "womens"
+     ],
+     "price": "39.00",
+     "published_at": "2026-10-18T09:49:06-05:00"
+    },
+    {
      "title": "Ducks Unlimited x DC Canvas Crest Hat - Cypress Green",
-     "handle": "ducks-unlimited-x-dc-canvas-crest-hat-cypress-green",
-     "type": "",
-     "tags": [],
+     "handle": "ducks-unlimited-dc-canvas-crest-hat-cypress-green",
+     "type": "Limited Release Hat",
+     "tags": [
+      "__label:new",
+      "accessory",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "hat",
+      "hats-tees",
+      "headwear",
+      "lifestyle",
+      "logowear",
+      "logowear-hats",
+      "mens",
+      "msrp",
+      "top",
+      "womens"
+     ],
      "price": "36.00",
      "published_at": "2026-10-15T14:12:38-05:00"
     },
     {
      "title": "Ducks Unlimited x DC Canvas Hat - Demitasse",
-     "handle": "ducks-unlimited-x-dc-canvas-hat-demitasse",
-     "type": "",
-     "tags": [],
+     "handle": "ducks-unlimited-dc-canvas-hat-demitasse",
+     "type": "Limited Release Hat",
+     "tags": [
+      "__label:new",
+      "accessory",
+      "collection-feature",
+      "dc-inventory-sync::OFF",
+      "F26",
+      "hat",
+      "hats-tees",
+      "headwear",
+      "lifestyle",
+      "logowear",
+      "logowear-hats",
+      "mens",
+      "msrp",
+      "top",
+      "womens"
+     ],
      "price": "36.00",
      "published_at": "2026-10-15T14:12:31-05:00"
     },
@@ -1959,51 +2034,6 @@
      ],
      "price": "19.50",
      "published_at": "2026-10-08T21:31:11-05:00"
-    },
-    {
-     "title": "Pheasants Forever x DC Tee - Ivory",
-     "handle": "pheasants-forever-dc-tee-ivory",
-     "type": "Limited Release T-shirt",
-     "tags": [
-      "__label:new",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "hats-tees",
-      "hunt",
-      "lifestyle",
-      "logowear",
-      "logowear-tees",
-      "mens",
-      "msrp",
-      "top",
-      "womens"
-     ],
-     "price": "39.00",
-     "published_at": "2026-09-27T14:51:58-05:00"
-    },
-    {
-     "title": "Pheasants Forever x DC Hat - Sagebrush",
-     "handle": "pheasants-forever-dc-hat",
-     "type": "Limited Release Hat",
-     "tags": [
-      "__label:new",
-      "accessory",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "game-series",
-      "hat",
-      "hats-tees",
-      "headwear",
-      "lifestyle",
-      "logowear",
-      "logowear-hats",
-      "mens",
-      "womens"
-     ],
-     "price": "36.00",
-     "published_at": "2026-09-27T14:51:04-05:00"
     }
    ]
   },
