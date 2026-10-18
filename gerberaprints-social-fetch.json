@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-18",
- "fetched_at": "2026-10-18T04:45:03.116779+07:00",
+ "date": "2026-10-19",
+ "fetched_at": "2026-10-19T04:45:03.156544+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -37,24 +37,6 @@
      "selftext_head": ""
     },
     {
-     "title": "19 year old Blades Brown shoots rounds of 68, 61, 68 and 69 to finish second at the Korn Ferry Tour Championship. The result means he finishes 9th on the points list and secures a full PGA Tour card for 2027",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x3jalt/19_year_old_blades_brown_shoots_rounds_of_68_61/",
-     "selftext_head": ""
-    },
-    {
-     "title": "I got to be that guy",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x3oi8y/i_got_to_be_that_guy/",
-     "selftext_head": ""
-    },
-    {
      "title": "Fall Muni in Upstate NY",
      "score": null,
      "num_comments": null,
@@ -73,12 +55,30 @@
      "selftext_head": ""
     },
     {
+     "title": "I got to be that guy",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x3oi8y/i_got_to_be_that_guy/",
+     "selftext_head": ""
+    },
+    {
      "title": "35+MPH Gusts today at the St. Andrews Links Collegiate",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x59pdn/35mph_gusts_today_at_the_st_andrews_links/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Always been a Primo Golf Apparel fan but their AI agent just absolutely cooked me.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x8od07/always_been_a_primo_golf_apparel_fan_but_their_ai/",
      "selftext_head": ""
     },
     {
@@ -91,12 +91,21 @@
      "selftext_head": ""
     },
     {
-     "title": "My wife put together this golf board for me. I think she might actually support my golf addiction 😂⛳️",
+     "title": "Rooftop DIY Putting Green",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x2ut9a/my_wife_put_together_this_golf_board_for_me_i/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x87r8s/rooftop_diy_putting_green/",
+     "selftext_head": ""
+    },
+    {
+     "title": "DP World Tour India Championship: Rory McIlroy holes out for an eagle from the bunker on the 14th hole",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x89upu/dp_world_tour_india_championship_rory_mcilroy/",
      "selftext_head": ""
     },
     {
@@ -109,15 +118,6 @@
      "selftext_head": ""
     },
     {
-     "title": "The beautiful swing of LPGA Tour professional Atthaya \"Jeeno\" Thitikul",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x4y4zh/the_beautiful_swing_of_lpga_tour_professional/",
-     "selftext_head": ""
-    },
-    {
      "title": "Never met my wife's grandfather. We named our son after him. Today her grandmother gave me these",
      "score": null,
      "num_comments": null,
@@ -127,21 +127,21 @@
      "selftext_head": ""
     },
     {
+     "title": "The beautiful swing of LPGA Tour professional Atthaya \"Jeeno\" Thitikul",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x4y4zh/the_beautiful_swing_of_lpga_tour_professional/",
+     "selftext_head": ""
+    },
+    {
      "title": "Photos I took of some of the nicer courses I've had the privilege of playing over the last couple of years!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x43wgn/photos_i_took_of_some_of_the_nicer_courses_ive/",
-     "selftext_head": ""
-    },
-    {
-     "title": "One of the Best Bang for Your Buck Tee Times in the USA",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x6npym/one_of_the_best_bang_for_your_buck_tee_times_in/",
      "selftext_head": ""
     }
    ]
@@ -199,14 +199,14 @@
   "custom golf polo": [
    "custom golf polos",
    "custom golf polos for men",
+   "custom golf polos with logo",
    "custom golf polo with face",
    "custom golf polo shirts",
    "custom golf polo shirts with logo",
    "custom golf polos no minimum",
    "custom golf polo with picture",
    "custom golf polo shirts uk",
-   "custom golf polos australia",
-   "custom golf polos canada"
+   "custom golf polos australia"
   ],
   "golf tournament gift": [
    "golf tournament gift ideas",
@@ -262,6 +262,7 @@
    "best golf.gift for.boss",
    "golf gift for manager",
    "gift for boss who likes golf",
+   "gift for boss who loves golf",
    "golf gift ideas for him"
   ],
   "golf apparel funny": [
@@ -290,16 +291,16 @@
   ]
  },
  "trends": [
-  "kyle whittingham",
-  "nicki minaj",
-  "steve sarkisian arch manning evaluation",
-  "frente frío",
-  "umich football",
-  "keke palmer",
-  "milan",
-  "washington st vs oregon state",
-  "tommy carr",
-  "aucas - ldu quito"
+  "unc basketball",
+  "parker messick",
+  "rays - guardians",
+  "cj gardner johnson",
+  "andrew armstrong",
+  "tyler higbee",
+  "kwity paye",
+  "justin herbert",
+  "brock bowers injury",
+  "jim nantz"
  ],
  "errors": []
 }
