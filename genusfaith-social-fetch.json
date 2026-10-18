@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-18",
- "fetched_at": "2026-10-18T04:15:03.111948+07:00",
+ "date": "2026-10-19",
+ "fetched_at": "2026-10-19T04:15:02.735653+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -73,15 +73,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Pope Leo: I will undergo surgery soon to remove nodule in my lung",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x3537c/pope_leo_i_will_undergo_surgery_soon_to_remove/",
-     "selftext_head": ""
-    },
-    {
      "title": "The church where St.Carlo Acutis rests in Gran Turismo 4",
      "score": null,
      "num_comments": null,
@@ -109,21 +100,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Happy 109th Anniversary of the Final Apparition of Our Lady of Fatima & The Miracle of the Sun",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x57gel/happy_109th_anniversary_of_the_final_apparition/",
-     "selftext_head": ""
-    },
-    {
      "title": "[Free Friday] Saint Michael the Archangel through the eyes of a Japanese artist",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7kzx5/free_friday_saint_michael_the_archangel_through/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Happy 109th Anniversary of the Final Apparition of Our Lady of Fatima & The Miracle of the Sun",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x57gel/happy_109th_anniversary_of_the_final_apparition/",
      "selftext_head": ""
     },
     {
@@ -142,6 +133,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7ds24/free_friday_traditional_japanese_artwork_of_mary/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Marian Procession in Japan Catholics in Japan gather to honor Our Lady through Marian processions and prayers. When does your parish hold Marian processions — in May or October? I’d love to hear about your traditions!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7233v/marian_procession_in_japan_catholics_in_japan/",
      "selftext_head": ""
     }
    ]
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "auburn football",
-  "husker volleyball",
-  "star wars ahsoka season 2",
-  "france",
-  "bruce brown",
-  "atlético-mg x coritiba",
-  "husker volleyball schedule",
-  "one ui 9",
-  "christopher walken",
-  "jhonata diniz"
+  "ladd mcconkey",
+  "jude bellingham",
+  "colby parkinson",
+  "tre tucker",
+  "iu basketball",
+  "dalton kincaid",
+  "maxx crosby",
+  "bahia vs flamengo",
+  "chicago fire",
+  "portland thorns vs bay fc"
  ],
  "errors": []
 }
