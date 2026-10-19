@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-19",
- "fetched_at": "2026-10-19T04:30:02.781822+07:00",
+ "date": "2026-10-20",
+ "fetched_at": "2026-10-20T04:30:02.999093+07:00",
  "feeds": {
   "GritFell": {
    "count_returned": 187,
@@ -2443,6 +2443,44 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Ghillie 12ft & 16ft Ground Pit Adjustable Top",
+     "handle": "ghillie-pit-blind-adjustable-top-16",
+     "type": "Sale_Field Essentials",
+     "tags": [
+      "- above $100",
+      "- blinds",
+      "- waterfowl",
+      "2026 Pre-Season Sale",
+      "acs2024",
+      "BFCM2023",
+      "BFCM2025",
+      "brand_hardgoods",
+      "brand_waterfowl",
+      "CTW_2025",
+      "decdeals_25",
+      "discount_50",
+      "EOS_JAN_26",
+      "field blinds",
+      "Final Sale",
+      "FinalSale",
+      "hard goods",
+      "Labor Day Sale 2024",
+      "Labor Day Sale 2026",
+      "NovSuperSale2024",
+      "Oct WHSE Sale",
+      "Oct WHSE Sale 26",
+      "PSS25",
+      "PSS26",
+      "summer10",
+      "Super Sale 2023",
+      "Super Sale 2025",
+      "YBlocklist",
+      "YGroup_ghillieground"
+     ],
+     "price": "149.99",
+     "published_at": "2026-10-19T14:15:56-05:00"
+    },
+    {
      "title": "5lb Raffia Grass Bundle",
      "handle": "5lb-raffia-grass-bundle",
      "type": "Sale_Field Essentials",
@@ -2520,27 +2558,11 @@
       "BFCM2026",
       "HOL_26 Flyer",
       "master_list_new_arrivals_26",
-      "new"
-     ],
-     "price": "69.99",
-     "published_at": "2026-10-14T09:02:26-05:00"
-    },
-    {
-     "title": "Leather Camp Deck Boot",
-     "handle": "leather-camp-deck-boot",
-     "type": "Footwear",
-     "tags": [
-      "alt_text",
-      "AW26_NEW",
-      "BFCM2026",
-      "casual_boots",
-      "HOL_26 Flyer",
-      "master_list_new_arrivals_26",
       "new",
       "top seller 2026"
      ],
-     "price": "139.99",
-     "published_at": "2026-10-13T09:35:28-05:00"
+     "price": "69.99",
+     "published_at": "2026-10-14T09:02:26-05:00"
     }
    ]
   },
@@ -2617,6 +2639,107 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Montana Vest - Multi Brown",
+     "handle": "montana-vest-multi-brown",
+     "type": "Montana Vest",
+     "tags": [
+      "9/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "FALL25",
+      "Men's",
+      "Montana Vest",
+      "Multi Brown",
+      "Outerwear",
+      "retail",
+      "Season Fall25",
+      "Warehouse Sale 2026",
+      "wholesale",
+      "WinterSale",
+      "WinterSale38%"
+     ],
+     "price": "79.00",
+     "published_at": "2026-10-19T14:49:33-05:00"
+    },
+    {
+     "title": "Cap - Patriotic Flying B Logo",
+     "handle": "cap-patriotic-flying-b-logo",
+     "type": "Cap",
+     "tags": [
+      "B2B_Active",
+      "B2B_Sync",
+      "Cap",
+      "Caps",
+      "Headwear",
+      "Patriotic Flying B Logo",
+      "retail",
+      "Sale",
+      "Season Uncategorized",
+      "Warehouse Sale 2026",
+      "wholesale",
+      "WinterSale",
+      "WinterSale$15"
+     ],
+     "price": "35.00",
+     "published_at": "2026-10-19T14:46:30-05:00"
+    },
+    {
+     "title": "Thermal Hoodie - Gauge Camo",
+     "handle": "thermal-hoodie-gauge-camo",
+     "type": "Thermal Hoodie",
+     "tags": [
+      "9/4",
+      "B2B_Active",
+      "B2B_Sync",
+      "Bass Pro",
+      "BassPro",
+      "Core",
+      "FALL CORE",
+      "FALL25",
+      "Gauge Camo",
+      "Men's",
+      "Outerwear",
+      "pdqreview",
+      "PREBOOK START: 08/01/2026",
+      "retail",
+      "Season Core",
+      "Season Fall25",
+      "Thermal Hoodie",
+      "Tops",
+      "wholesale"
+     ],
+     "price": "59.00",
+     "published_at": "2026-10-19T14:35:07-05:00"
+    },
+    {
+     "title": "Youth Pajama Set - BURLEBO Outdoors Christmas",
+     "handle": "youth-pajama-set-burlebo-outdoors-christmas",
+     "type": "Youth - Pajama",
+     "tags": [
+      "11/1",
+      "B2B_Active",
+      "B2B_Sync",
+      "Bass Pro",
+      "Bottoms",
+      "Christmas",
+      "Core",
+      "FALL CORE",
+      "FALL25",
+      "november",
+      "Pajama",
+      "PREBOOK START: 08/15/2026",
+      "retail",
+      "Season Core",
+      "Season Fall25",
+      "wholesale",
+      "WinterSale",
+      "WinterSale50%",
+      "Youth"
+     ],
+     "price": "49.00",
+     "published_at": "2026-10-19T13:32:52-05:00"
+    },
+    {
      "title": "BURLEBO Beanie - Black",
      "handle": "burlebo-beanie-black",
      "type": "Beanie",
@@ -2630,95 +2753,6 @@
      ],
      "price": "32.00",
      "published_at": "2026-10-16T07:27:14-05:00"
-    },
-    {
-     "title": "Flannel Shirt - Black Buffalo",
-     "handle": "flannel-black-buffalo",
-     "type": "Flannel Shirt",
-     "tags": [
-      "9/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "Flannel Shirt",
-      "Men's",
-      "Outerwear",
-      "retail",
-      "Season Fall25",
-      "Season Uncategorized",
-      "Tops",
-      "Warehouse Sale 2026",
-      "wholesale",
-      "WinterSale",
-      "WinterSale37.8%"
-     ],
-     "price": "74.00",
-     "published_at": "2026-10-15T14:55:39-05:00"
-    },
-    {
-     "title": "Can Cooler - Classic Deer Camo",
-     "handle": "koozie-classic-deer-camo",
-     "type": "Can Cooler",
-     "tags": [
-      "Accessories",
-      "B2B_Active",
-      "B2B_Sync",
-      "Can Cooler",
-      "hide-notify-btn",
-      "pdqreview",
-      "retail",
-      "Season Spring23",
-      "Season Uncategorized",
-      "wholesale"
-     ],
-     "price": "5.00",
-     "published_at": "2026-10-15T10:45:50-05:00"
-    },
-    {
-     "title": "Duke Tech - Mid Layer - Pintail Camo",
-     "handle": "duke-tech-mid-layer-pintail-camo",
-     "type": "Duke Tech",
-     "tags": [
-      "9/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "Duke Tech",
-      "hide-notify-btn",
-      "Men's",
-      "Outerwear",
-      "pdqreview",
-      "Pintail Camo",
-      "retail",
-      "Season Uncategorized",
-      "Warehouse Sale",
-      "wholesale",
-      "WinterSale",
-      "WinterSale37%"
-     ],
-     "price": "109.00",
-     "published_at": "2026-10-06T15:31:48-05:00"
-    },
-    {
-     "title": "Vintage Washed Tee - Midland Camo",
-     "handle": "vintage-washed-tee-midland-camo",
-     "type": "Vintage Washed Tee",
-     "tags": [
-      "8/13/26",
-      "B2B_Active",
-      "B2B_Sync",
-      "BassPro",
-      "Fall 26",
-      "Fall26",
-      "Mia Review",
-      "PREBOOK START: 07/15/2026",
-      "retail",
-      "Season Fall26",
-      "Short Sleeve",
-      "Tops",
-      "Vintage Washed Tee",
-      "wholesale"
-     ],
-     "price": "34.00",
-     "published_at": "2026-10-06T15:21:18-05:00"
     }
    ]
   },
@@ -2751,7 +2785,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5256000",
+     "price": "5257000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2797,44 +2831,44 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "All Men Are Created Equal Only The Strongest Can Go Duck Hunting In Their Seventies Hoodie – Funny Duck Hunter Gift for Grandpa",
+     "handle": "all-men-are-created-equal-only-the-strongest-can-go-duck-hunting-in-their-seventies-hoodie-funny-duck-hunter-gift-for-grandpa",
+     "type": "",
+     "tags": [],
+     "price": "29.95",
+     "published_at": "2026-10-19T02:06:13-07:00"
+    },
+    {
+     "title": "All Men Are Created Equal Only The Best Still Go Deer Hunting In Their Seventies Hoodie – Funny Deer Hunter Gift for Grandpa",
+     "handle": "all-men-are-created-equal-only-the-best-still-go-deer-hunting-in-their-seventies-hoodie-funny-deer-hunter-gift-for-grandpa",
+     "type": "",
+     "tags": [],
+     "price": "29.95",
+     "published_at": "2026-10-19T01:22:27-07:00"
+    },
+    {
+     "title": "I Just Want To Go Dove Hunting And Ignore All Of My Old Man Problems Hoodie – Funny Dove Hunter Gift for Dad, Grandpa",
+     "handle": "i-just-want-to-go-dove-hunting-and-ignore-all-of-my-old-man-problems-hoodie-funny-dove-hunter-gift-for-dad-grandpa",
+     "type": "",
+     "tags": [],
+     "price": "29.95",
+     "published_at": "2026-10-19T01:05:32-07:00"
+    },
+    {
+     "title": "Pheasant Hunting In Their Seventies — Funny Grandpa Gift T-Shirt, Sweatshirt or Hoodie",
+     "handle": "pheasant-hunting-in-their-seventies-funny-grandpa-gift-t-shirt-sweatshirt-or-hoodie",
+     "type": "",
+     "tags": [],
+     "price": "29.95",
+     "published_at": "2026-10-19T00:09:14-07:00"
+    },
+    {
      "title": "Mallard Duck Paisley Hoodie – Vintage Burgundy Duck Hunting All-Over Print Unisex Pullover, Duck Hunter Gift",
      "handle": "mallard-duck-paisley-hoodie-vintage-burgundy-duck-hunting-all-over-print-unisex-pullover-duck-hunter-gift",
      "type": "",
      "tags": [],
      "price": "69.95",
      "published_at": "2026-09-29T01:08:27-07:00"
-    },
-    {
-     "title": "Whitetail Deer Hoodie – Vintage Paisley Deer Hunting All-Over Print Unisex Pullover, Hunter Green, Deer Hunter Gift",
-     "handle": "whitetail-deer-hoodie-vintage-paisley-deer-hunting-all-over-print-unisex-pullover-hunter-green-deer-hunter-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-29T01:06:10-07:00"
-    },
-    {
-     "title": "Mallard Duck Hunting Hoodie – Cattail Marsh Camo All-Over Print Unisex Pullover, Duck Hunter Gift",
-     "handle": "mallard-duck-hunting-hoodie-cattail-marsh-camo-all-over-print-unisex-pullover-duck-hunter-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-29T00:59:44-07:00"
-    },
-    {
-     "title": "Crow Camo Hoodie – Black Crow Hunting Camouflage All-Over Print Unisex Pullover, Crow Hunter Gift",
-     "handle": "crow-camo-hoodie-black-crow-hunting-camouflage-all-over-print-unisex-pullover-crow-hunter-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-29T00:50:14-07:00"
-    },
-    {
-     "title": "Possum Hunting Camo Hoodie – Opossum Woodland Camouflage All-Over Print Unisex Pullover, Hunter Gift",
-     "handle": "possum-hunting-camo-hoodie-opossum-woodland-camouflage-all-over-print-unisex-pullover-hunter-gift",
-     "type": "",
-     "tags": [],
-     "price": "69.95",
-     "published_at": "2026-09-29T00:41:53-07:00"
     }
    ]
   },
@@ -2842,47 +2876,44 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Fishing trout hunting Season Hoodie",
-     "handle": "fishing-trout-hunting-season-hoodie",
+     "title": "Vintage Flying Mallard Duck Hunting Hoodie",
+     "handle": "whitetail-buck-waterfowl-hunter-hoodie-copy",
      "type": "",
      "tags": [],
      "price": "53.95",
-     "published_at": "2026-10-17T03:43:14-06:00"
+     "published_at": "2026-10-18T22:22:16-06:00"
     },
     {
-     "title": "Pheasant Fieldwise Hoodie",
-     "handle": "pheasant-fieldwise-hoodie",
+     "title": "Whitetail Buck & Waterfowl Hunter hoodie",
+     "handle": "whitetail-buck-waterfowl-hunter-hoodie",
      "type": "",
      "tags": [],
      "price": "53.95",
-     "published_at": "2026-10-17T03:14:04-06:00"
+     "published_at": "2026-10-18T22:18:40-06:00"
     },
     {
-     "title": "Hunting Season Hoodie",
-     "handle": "hunting-season-hoodie",
+     "title": "He hunting Hoodie Gift for Hunter",
+     "handle": "he-hunting-hoodie-gift-for-hunter",
      "type": "",
      "tags": [],
      "price": "53.95",
-     "published_at": "2026-10-17T03:05:26-06:00"
+     "published_at": "2026-10-18T22:16:48-06:00"
     },
     {
-     "title": "Deer Skull Hunting Pattern Hoodie VC1710",
-     "handle": "deer-skull-hunting-pattern-hoodie-vc1710",
+     "title": "Vintage Deer Hunting Hoodie",
+     "handle": "vintage-deer-hunting-hoodie",
      "type": "",
      "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-17T02:18:36-06:00"
+     "price": "53.95",
+     "published_at": "2026-10-18T22:15:07-06:00"
     },
     {
-     "title": "Fishing Blue pattern Polo Shirt VCE051033",
-     "handle": "fishing-blue-pattern-polo-shirt-vce051033",
-     "type": "Polo Shirt",
-     "tags": [
-      "Fishing",
-      "Polo Shirt"
-     ],
-     "price": "39.99",
-     "published_at": "2026-10-17T02:09:39-06:00"
+     "title": "Retro Mallard Waterfowl Hunting Graphic Hoodie",
+     "handle": "retro-mallard-waterfowl-hunting-graphic-hoodie",
+     "type": "",
+     "tags": [],
+     "price": "53.95",
+     "published_at": "2026-10-18T22:13:23-06:00"
     }
    ]
   },
