@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-19",
- "fetched_at": "2026-10-19T04:45:03.156544+07:00",
+ "date": "2026-10-20",
+ "fetched_at": "2026-10-20T04:45:03.275763+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -37,6 +37,15 @@
      "selftext_head": ""
     },
     {
+     "title": "I made a quilt for Uncle’s birthday 😊",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1x9h51a/i_made_a_quilt_for_uncles_birthday/",
+     "selftext_head": ""
+    },
+    {
      "title": "Fall Muni in Upstate NY",
      "score": null,
      "num_comments": null,
@@ -55,24 +64,6 @@
      "selftext_head": ""
     },
     {
-     "title": "I got to be that guy",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x3oi8y/i_got_to_be_that_guy/",
-     "selftext_head": ""
-    },
-    {
-     "title": "35+MPH Gusts today at the St. Andrews Links Collegiate",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x59pdn/35mph_gusts_today_at_the_st_andrews_links/",
-     "selftext_head": ""
-    },
-    {
      "title": "Always been a Primo Golf Apparel fan but their AI agent just absolutely cooked me.",
      "score": null,
      "num_comments": null,
@@ -82,12 +73,12 @@
      "selftext_head": ""
     },
     {
-     "title": "DP World Tour bans LIV Golf players, ending Ryder Cup eligibility",
+     "title": "35+MPH Gusts today at the St. Andrews Links Collegiate",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x42cd0/dp_world_tour_bans_liv_golf_players_ending_ryder/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x59pdn/35mph_gusts_today_at_the_st_andrews_links/",
      "selftext_head": ""
     },
     {
@@ -127,6 +118,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Zyn people, please don’t do this.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1xa4owf/zyn_people_please_dont_do_this/",
+     "selftext_head": ""
+    },
+    {
      "title": "The beautiful swing of LPGA Tour professional Atthaya \"Jeeno\" Thitikul",
      "score": null,
      "num_comments": null,
@@ -136,12 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Photos I took of some of the nicer courses I've had the privilege of playing over the last couple of years!",
+     "title": "One of the Best Bang for Your Buck Tee Times in the USA",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x43wgn/photos_i_took_of_some_of_the_nicer_courses_ive/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x6npym/one_of_the_best_bang_for_your_buck_tee_times_in/",
      "selftext_head": ""
     }
    ]
@@ -262,7 +262,6 @@
    "best golf.gift for.boss",
    "golf gift for manager",
    "gift for boss who likes golf",
-   "gift for boss who loves golf",
    "golf gift ideas for him"
   ],
   "golf apparel funny": [
@@ -282,25 +281,25 @@
    "hawaiian golf shirts for men",
    "hawaiian golf shirts for women",
    "hawaiian golf shirts amazon",
+   "hawaiian golf shirts ladies",
    "hawaiian golf shirts australia",
    "hawaiian golf shirts near me",
    "hawaiian golf shirts canada",
    "hawaiian golf shirt brand",
-   "hawaiian golf shirts nearby",
-   "hawaiian golf shirts for couples"
+   "hawaiian golf shirts nearby"
   ]
  },
  "trends": [
-  "unc basketball",
-  "parker messick",
-  "rays - guardians",
-  "cj gardner johnson",
-  "andrew armstrong",
-  "tyler higbee",
-  "kwity paye",
-  "justin herbert",
-  "brock bowers injury",
-  "jim nantz"
+  "mazi smith",
+  "lucero acosta",
+  "ice detainment us citizen california",
+  "luke mccaffrey",
+  "a i news",
+  "slotkin",
+  "minior pokemon go",
+  "kobie turner",
+  "trump zelensky",
+  "great allegheny passage"
  ],
  "errors": []
 }
