@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-19",
- "fetched_at": "2026-10-19T04:15:02.735653+07:00",
+ "date": "2026-10-20",
+ "fetched_at": "2026-10-20T04:15:03.103080+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -28,15 +28,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Blessed Carlo Acutis",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x3ludd/blessed_carlo_acutis/",
-     "selftext_head": ""
-    },
-    {
      "title": "[Free Friday] My uncle leading the NYC Eucharistic Procession",
      "score": null,
      "num_comments": null,
@@ -52,33 +43,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x57sym/vatican_says_the_pope_has_lung_cancer_and_the/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Today is Our Lady Aparecida feast day!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x44zwz/today_is_our_lady_aparecida_feast_day/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Feast of St. Carlo Acutis | 12 October",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x3vy57/feast_of_st_carlo_acutis_12_october/",
-     "selftext_head": ""
-    },
-    {
-     "title": "The church where St.Carlo Acutis rests in Gran Turismo 4",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x3yk5n/the_church_where_stcarlo_acutis_rests_in_gran/",
      "selftext_head": ""
     },
     {
@@ -118,15 +82,6 @@
      "selftext_head": ""
     },
     {
-     "title": "[Politics Monday] Pope Leo XIV Calls the Death Penalty ‘Inadmissible’ After Announcement of Public Execution in US",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x4amxv/politics_monday_pope_leo_xiv_calls_the_death/",
-     "selftext_head": ""
-    },
-    {
      "title": "(Free Friday) traditional Japanese artwork of Mary and Jesus",
      "score": null,
      "num_comments": null,
@@ -142,6 +97,51 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7233v/marian_procession_in_japan_catholics_in_japan/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Free Friday - Our Lady of Guadalupe",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7ukpx/free_friday_our_lady_of_guadalupe/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Priest Dies After Statue of Jesus Falls On Him During Mass Livestream",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x90kk4/priest_dies_after_statue_of_jesus_falls_on_him/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Mental state of Jesus",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x5q7g1/mental_state_of_jesus/",
+     "selftext_head": ""
+    },
+    {
+     "title": "October 16, 1978. 48 years ago today. Saint Pope John Paul II was elected as the Roman Pontiff",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x76e2a/october_16_1978_48_years_ago_today_saint_pope/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I finally got a job by God's grace",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x4vdsa/i_finally_got_a_job_by_gods_grace/",
      "selftext_head": ""
     }
    ]
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "ladd mcconkey",
-  "jude bellingham",
-  "colby parkinson",
-  "tre tucker",
-  "iu basketball",
-  "dalton kincaid",
-  "maxx crosby",
-  "bahia vs flamengo",
-  "chicago fire",
-  "portland thorns vs bay fc"
+  "brandon miller",
+  "great allegheny passage",
+  "mahmoud khalil",
+  "dalton knecht",
+  "kevin porter jr",
+  "walter clayton jr",
+  "is mike evans playing today",
+  "kitco news",
+  "al hilal sfc vs al-hazem f.c. standings",
+  "bob chapek"
  ],
  "errors": []
 }
