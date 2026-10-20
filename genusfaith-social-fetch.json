@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-20",
- "fetched_at": "2026-10-20T04:15:03.103080+07:00",
+ "date": "2026-10-21",
+ "fetched_at": "2026-10-21T04:15:02.716415+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -37,24 +37,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Vatican says the pope has lung cancer and the lower lobe of his right lung was removed",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x57sym/vatican_says_the_pope_has_lung_cancer_and_the/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Pope Leo XIV undergoes successful lung surgery",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x54vf7/pope_leo_xiv_undergoes_successful_lung_surgery/",
-     "selftext_head": ""
-    },
-    {
      "title": "Happy Feast Day of St. Teresa of Ávila",
      "score": null,
      "num_comments": null,
@@ -70,15 +52,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7kzx5/free_friday_saint_michael_the_archangel_through/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Happy 109th Anniversary of the Final Apparition of Our Lady of Fatima & The Miracle of the Sun",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x57gel/happy_109th_anniversary_of_the_final_apparition/",
      "selftext_head": ""
     },
     {
@@ -109,6 +82,15 @@
      "selftext_head": ""
     },
     {
+     "title": "‘I truly felt your support’ - Pope Leo XIV makes first public appearance after cancer surgery",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x9yxtp/i_truly_felt_your_support_pope_leo_xiv_makes/",
+     "selftext_head": ""
+    },
+    {
      "title": "Priest Dies After Statue of Jesus Falls On Him During Mass Livestream",
      "score": null,
      "num_comments": null,
@@ -127,6 +109,15 @@
      "selftext_head": ""
     },
     {
+     "title": "For the first time in 5 years, the number of priests worldwide rose",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xar678/for_the_first_time_in_5_years_the_number_of/",
+     "selftext_head": ""
+    },
+    {
      "title": "October 16, 1978. 48 years ago today. Saint Pope John Paul II was elected as the Roman Pontiff",
      "score": null,
      "num_comments": null,
@@ -136,12 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "I finally got a job by God's grace",
+     "title": "Today's the Feast of St. Luke. A convert from Hellenist polytheism he was one of the 72 Apostles (Luke 10) and was a Herald of Glad Tidings working closely with Saint Paul. He wrote the Scripture of the Acts of the Apostles, as well as the Gospel of Luke which he compiled from St. Paul's preaching.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x4vdsa/i_finally_got_a_job_by_gods_grace/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x930zw/todays_the_feast_of_st_luke_a_convert_from/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Pope Leo XIV cleared to leave hospital Saturday after successful surgery",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x86r99/pope_leo_xiv_cleared_to_leave_hospital_saturday/",
      "selftext_head": ""
     }
    ]
@@ -189,13 +189,13 @@
    "confirmation gifts",
    "confirmation gifts for girls",
    "confirmation gifts for boys",
-   "confirmation gifts of the holy spirit",
    "confirmation gift ideas",
    "confirmation gifts for teenage boys",
    "confirmation gifts catholic",
    "confirmation gifts for teen girls",
    "confirmation gifts for adults",
-   "confirmation gift ideas for girls"
+   "confirmation gift ideas for girls",
+   "confirmation gifts of the holy spirit"
   ],
   "baptism gift": [
    "baptism gifts",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "brandon miller",
-  "great allegheny passage",
-  "mahmoud khalil",
-  "dalton knecht",
-  "kevin porter jr",
-  "walter clayton jr",
-  "is mike evans playing today",
-  "kitco news",
-  "al hilal sfc vs al-hazem f.c. standings",
-  "bob chapek"
+  "lioness season 3 nielsen ratings",
+  "cisa",
+  "barca vs madrid",
+  "xbox game pass",
+  "2026 united states senate election in minnesota",
+  "barca vs real madrid",
+  "smci",
+  "rfk jr",
+  "ejército",
+  "spurs vs okc"
  ],
  "errors": []
 }
