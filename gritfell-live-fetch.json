@@ -2,12 +2,72 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-21",
- "fetched_at": "2026-10-21T04:30:03.154330+07:00",
+ "date": "2026-10-22",
+ "fetched_at": "2026-10-22T04:30:02.567256+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 187,
+   "count_returned": 193,
    "products": [
+    {
+     "title": "First Cast Light T-shirt",
+     "handle": "first-cast-light-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-20T19:25:41-07:00"
+    },
+    {
+     "title": "Chasing the Blue T-shirt",
+     "handle": "chasing-the-blue-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-20T19:14:09-07:00"
+    },
+    {
+     "title": "Still Talks About T-shirt",
+     "handle": "still-talks-about-t-shirt-copy",
+     "type": "T-Shirt",
+     "tags": [
+      "fishing"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-20T19:11:59-07:00"
+    },
+    {
+     "title": "Thanksgiving Blind Crew  T-shirt",
+     "handle": "thanksgiving-blind-crew-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-20T19:09:56-07:00"
+    },
+    {
+     "title": "Track By The Boot T-shirt",
+     "handle": "track-by-the-boot-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-20T19:08:43-07:00"
+    },
+    {
+     "title": "Cold Coffee Retriever T-shirt",
+     "handle": "cold-coffee-retriever-t-shirt",
+     "type": "T-Shirt",
+     "tags": [
+      "hunting"
+     ],
+     "price": "29.00",
+     "published_at": "2026-10-20T19:05:38-07:00"
+    },
     {
      "title": "Wild Bear",
      "handle": "wild-bear",
@@ -2142,6 +2202,33 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Canvas Carryall Bag in Mossy Oak Original Bottomland",
+     "handle": "canvas-carryall-bag-in-mossy-oak-original-bottomland",
+     "type": "Bags",
+     "tags": [
+      "BAGZR",
+      "CAMOZR",
+      "DAYBAGZR",
+      "field sport",
+      "FW2024ZR",
+      "GIFTS500ZR",
+      "MENZR",
+      "MOSSYZR",
+      "SPORTSMANGIFTZR",
+      "TRAVELZR",
+      "UPHUNTGIFTZR",
+      "UPLANDZR",
+      "WATERFOWLZR",
+      "WAXZR",
+      "WFIELDZR",
+      "WFOWLGIFTZR",
+      "WINGSHOOTZR",
+      "WOMENZR"
+     ],
+     "price": "325.00",
+     "published_at": "2026-10-21T06:58:53-05:00"
+    },
+    {
      "title": "Women's Camille Cropped Jacket",
      "handle": "womens-camille-cropped-jacket",
      "type": "Outerwear",
@@ -2205,24 +2292,6 @@
      ],
      "price": "495.00",
      "published_at": "2026-10-16T12:30:31-05:00"
-    },
-    {
-     "title": "Stanley Jacket",
-     "handle": "stanley-jacket",
-     "type": "Outerwear",
-     "tags": [
-      "field sport",
-      "FW2026ZR",
-      "HUNTZR",
-      "MENZR",
-      "MFIELDZR",
-      "MJACKETZR",
-      "MNEWZR",
-      "MWAXZR",
-      "WAXZR"
-     ],
-     "price": "495.00",
-     "published_at": "2026-10-16T10:53:49-05:00"
     }
    ]
   },
@@ -2450,120 +2519,142 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Non-Typical Quiet Blaze Vest",
-     "handle": "non-typical-quiet-blaze-vest",
-     "type": "Jackets & Vests",
+     "title": "Hole Shot Windproof Eqwader Vest",
+     "handle": "hole-shot-windproof-eqwader-vest",
+     "type": "Sale_Jackets & Vests",
      "tags": [
-      "alt_text",
-      "AW26_NEW",
+      "acs2024",
+      "AW24_New",
+      "bestseller_24",
+      "bestseller_nov",
       "BFCM2026",
-      "HOL_26 Flyer",
-      "jackets-vests",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new"
-     ],
-     "price": "29.99",
-     "published_at": "2026-10-20T13:21:45-05:00"
-    },
-    {
-     "title": "Non-Typical Pursuit Softshell Pant with Agion Active X2",
-     "handle": "non-typical-pursuit-softshell-pant-with-agion-active-x2",
-     "type": "Pants & Bibs",
-     "tags": [
-      "Agion Active X2",
-      "alt_text",
-      "AW26 Catalog",
-      "AW26 Price Tracking",
-      "AW26_NEW",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new",
-      "pants & bibs"
-     ],
-     "price": "149.99",
-     "published_at": "2026-10-20T13:17:06-05:00"
-    },
-    {
-     "title": "Drake X Ducks Unlimited LST BMF 3-in-1 Pit Jacket with Primaloft",
-     "handle": "lst-bmf-3-in-1-pit-jacket-with-primaloft-1",
-     "type": "Jackets & Vests",
-     "tags": [
-      "alt_text",
-      "AW25 Catalog",
-      "AW25_New",
-      "AW26 Catalog",
-      "AW26 Price Tracking",
-      "BFCM2025",
-      "Cold Weather Gear",
-      "DU Co-brand",
-      "DU X Drake Co-brand",
-      "DU-2025-Gear-List",
-      "Gifts For Waterfowler",
-      "insulated",
-      "jackets",
-      "jackets-vests",
+      "bundle_vest&cap",
+      "CTW_2025",
+      "decdeals_24",
+      "discount_50",
+      "Final Sale",
+      "FinalSale",
+      "Jackets & Vests",
       "Jackets_Vests_Hoodies",
       "mens",
-      "new",
-      "New_No_Coming_Soon",
-      "top seller 2025",
+      "Oct WHSE Sale",
+      "spring wf clearance event",
+      "summer10",
+      "Super Sale 2026",
+      "vests",
       "waterfowl",
-      "waterproof"
+      "waterfowl_new_arrivals"
      ],
-     "price": "499.99",
-     "published_at": "2026-10-20T08:58:59-05:00"
+     "price": "69.99",
+     "published_at": "2026-10-21T12:59:47-05:00"
     },
     {
-     "title": "Drake X Ducks Unlimited LST BMF Pit Bib with Primaloft",
-     "handle": "lst-bmf-pit-bib-with-primaloft-copy",
-     "type": "Pants & Bibs",
+     "title": "GORE-TEX® Jones Hat",
+     "handle": "gore-tex-jones-hat",
+     "type": "Headwear",
      "tags": [
-      "alt_text",
+      "- $25 - $50",
+      "- headwear",
+      "- under $50",
+      "- under $75",
+      "20171114-Cold-Weather-Accessories",
       "AW25 Catalog",
-      "AW25_New",
       "AW26 Catalog",
       "Cold Weather Gear",
-      "DU Co-brand",
-      "DU X Drake Co-brand",
-      "DU-2025-Gear-List",
-      "Gifts For Waterfowler",
+      "hats",
+      "hunting accessories",
+      "MEN",
       "mens",
-      "new",
-      "pants & bibs",
-      "waterfowl",
-      "waterproof"
-     ],
-     "price": "399.99",
-     "published_at": "2026-10-20T08:57:58-05:00"
-    },
-    {
-     "title": "Drake X Ducks Unlimited LST BMF Jacket with Primaloft",
-     "handle": "lst-bmf-jacket-with-primaloft-copy-1",
-     "type": "Jackets & Vests",
-     "tags": [
-      "alt_text",
-      "AW25 Catalog",
-      "AW25_New",
-      "AW26 Catalog",
-      "BFCM2025",
-      "Cold Weather Gear",
-      "DU Co-brand",
-      "DU X Drake Co-brand",
-      "DU-2025-Gear-List",
-      "Gifts For Waterfowler",
-      "insulated",
-      "jackets",
-      "jackets-vests",
-      "Jackets_Vests_Hoodies",
-      "mens",
-      "new",
-      "New_No_Coming_Soon",
-      "top seller 2025",
+      "r20",
+      "top rated",
       "waterfowl"
      ],
-     "price": "249.99",
-     "published_at": "2026-10-20T08:57:28-05:00"
+     "price": "34.99",
+     "published_at": "2026-10-21T11:59:31-05:00"
+    },
+    {
+     "title": "Non-Typical Windproof Fleece Beanie with Agion Active X2",
+     "handle": "non-typical-windproof-fleece-beanie-with-agion-active-x2",
+     "type": "Headwear",
+     "tags": [
+      "- headwear",
+      "- under $25",
+      "- under $75",
+      "- whitetail & big game",
+      "alt_text",
+      "AW26 Catalog",
+      "beanies-stocking-caps",
+      "BFCM2023",
+      "Gifts For Big Game",
+      "MEN",
+      "Men-Casual-Beanies",
+      "mens",
+      "nav_nontypical",
+      "Non-Typical - Midweight - Endurance",
+      "non-typical - stimulus",
+      "Nontypical",
+      "r69",
+      "YGroup_camobeanie"
+     ],
+     "price": "29.99",
+     "published_at": "2026-10-21T11:57:36-05:00"
+    },
+    {
+     "title": "Youth Endurance Full Zip Jacket with Hood",
+     "handle": "youth-endurance-full-zip-jacket-with-hood",
+     "type": "Jackets & Vests",
+     "tags": [
+      "ACS2025",
+      "alt_text",
+      "AW25 Show Special",
+      "AW25_New",
+      "AW26 Catalog",
+      "bfcm 2025",
+      "BFCM2025",
+      "BFCM2026",
+      "HOL_26 Flyer",
+      "jackets",
+      "jackets-vests",
+      "New_No_Coming_Soon",
+      "youth"
+     ],
+     "price": "109.99",
+     "published_at": "2026-10-21T11:53:06-05:00"
+    },
+    {
+     "title": "Camo Flat Bill Cap",
+     "handle": "camo-snapback-flat-bill-cap",
+     "type": "Headwear",
+     "tags": [
+      "- $25 - $50",
+      "- headwear",
+      "- under $50",
+      "- under $75",
+      "AW25 Catalog",
+      "AW26 Catalog",
+      "bestseller_24",
+      "bestseller_nov",
+      "caps",
+      "early season teal",
+      "est-early-season-technology",
+      "hunting accessories",
+      "lifestyle",
+      "logowear",
+      "MEN",
+      "Men WF Logo Items",
+      "Men-Casual-Caps",
+      "mens",
+      "r21",
+      "stocking stuffers",
+      "stocking stuffers - caps",
+      "stocking stuffers 21",
+      "top rated",
+      "warm weather gear list",
+      "waterfowl",
+      "waterfowl_logo_wear"
+     ],
+     "price": "29.99",
+     "published_at": "2026-10-21T11:48:13-05:00"
     }
    ]
   },
@@ -2640,21 +2731,20 @@
    "count_returned": 4,
    "products": [
     {
-     "title": "Cooler Backpack - Classic Deer Camo (FA26)",
-     "handle": "cooler-backpack-classic-deer-camo-fa26",
-     "type": "Cooler Backpack",
-     "tags": [
-      "Accessories",
-      "ACCFA26",
-      "B2B_Active",
-      "B2B_Sync",
-      "BassPro",
-      "FA26",
-      "Fall 2026",
-      "Season FALL26"
-     ],
-     "price": "109.00",
-     "published_at": "2026-10-20T15:20:16-05:00"
+     "title": "Long Sleeve Go To Tee - Classic Deer Camo",
+     "handle": "long-sleeve-go-to-tee-classic-deer-camo",
+     "type": "",
+     "tags": [],
+     "price": "48.00",
+     "published_at": "2026-10-21T09:53:07-05:00"
+    },
+    {
+     "title": "Long Sleeve Go To Tee - Black Camo",
+     "handle": "long-sleeve-go-to-tee-black-camo",
+     "type": "",
+     "tags": [],
+     "price": "48.00",
+     "published_at": "2026-10-21T09:52:03-05:00"
     },
     {
      "title": "Thermal Hoodie - Mallard Green",
@@ -2701,30 +2791,6 @@
      ],
      "price": "34.00",
      "published_at": "2026-10-20T08:15:31-05:00"
-    },
-    {
-     "title": "Long Sleeve Go To Tee - Black",
-     "handle": "long-sleeve-go-to-tee-black",
-     "type": "Long Sleeve Go To Tee",
-     "tags": [
-      "9/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "Black",
-      "BLB008LS",
-      "BlinkAutoHide",
-      "FALL25",
-      "Go To Tee",
-      "Long Sleeve",
-      "Long Sleeve Go To Tee",
-      "Men's",
-      "retail",
-      "Season Fall25",
-      "Tops",
-      "wholesale"
-     ],
-     "price": "48.00",
-     "published_at": "2026-10-20T08:11:56-05:00"
     }
    ]
   },
@@ -2744,7 +2810,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2626000",
+     "price": "2625000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2757,7 +2823,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5252000",
+     "price": "5249000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2794,7 +2860,7 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1576000",
+     "price": "1575000",
      "published_at": "2026-06-03T16:16:18-04:00"
     }
    ]
@@ -2848,44 +2914,44 @@
    "count_returned": 5,
    "products": [
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10133",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10133",
-     "type": "lam",
+     "title": "Vintage Freshwater Gamefishing Hoodie VC2116",
+     "handle": "vintage-freshwater-gamefishing-hoodie-vc2116",
+     "type": "",
      "tags": [],
-     "price": "27.95",
-     "published_at": "2026-10-19T22:30:14-06:00"
+     "price": "69.99",
+     "published_at": "2026-10-20T23:02:12-06:00"
     },
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10132",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10132",
-     "type": "lam",
+     "title": "Mallard Duck hunting Hoodie VC2115",
+     "handle": "mallard-duck-hunting-hoodie-vc2115",
+     "type": "",
      "tags": [],
-     "price": "27.95",
-     "published_at": "2026-10-19T22:28:05-06:00"
+     "price": "69.99",
+     "published_at": "2026-10-20T23:00:04-06:00"
     },
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10131",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10131",
-     "type": "lam",
+     "title": "Mule Deer hunting Hoodie VC2114",
+     "handle": "mule-deer-hunting-hoodie-vc2114",
+     "type": "",
      "tags": [],
-     "price": "27.95",
-     "published_at": "2026-10-19T22:24:20-06:00"
+     "price": "69.99",
+     "published_at": "2026-10-20T22:57:27-06:00"
     },
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10130",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10130",
-     "type": "lam",
+     "title": "Deer Hunting Hoodie VC2113",
+     "handle": "deer-hunting-hoodie-vc2113",
+     "type": "",
      "tags": [],
-     "price": "27.95",
-     "published_at": "2026-10-19T22:22:46-06:00"
+     "price": "69.99",
+     "published_at": "2026-10-20T22:54:46-06:00"
     },
     {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10128",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10128",
-     "type": "lam",
+     "title": "Bigfoot Fishing Hoodie- VC2112",
+     "handle": "bigfoot-fishing-hoodie-vc2112",
+     "type": "",
      "tags": [],
-     "price": "27.95",
-     "published_at": "2026-10-19T22:20:08-06:00"
+     "price": "69.99",
+     "published_at": "2026-10-20T22:52:40-06:00"
     }
    ]
   },
