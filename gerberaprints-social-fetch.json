@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-22",
- "fetched_at": "2026-10-22T04:45:02.868882+07:00",
+ "date": "2026-10-23",
+ "fetched_at": "2026-10-23T04:45:02.532560+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -16,15 +16,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x7twjg/_/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Head down. Arm straight. Stay balanced.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x6mjko/head_down_arm_straight_stay_balanced/",
      "selftext_head": ""
     },
     {
@@ -73,6 +64,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Gotta get in the rounds before Daylight Savings 😭",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1xcnhqk/gotta_get_in_the_rounds_before_daylight_savings/",
+     "selftext_head": ""
+    },
+    {
      "title": "Fred Astaire's 1938 golf dance. Astaire was an avid single-digit handicap golfer.",
      "score": null,
      "num_comments": null,
@@ -109,21 +109,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Oldheads reason when they hit a bad golf shot",
+     "title": "You Guys Wanted Pics When They Came In",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x6v732/oldheads_reason_when_they_hit_a_bad_golf_shot/",
-     "selftext_head": ""
-    },
-    {
-     "title": "One of the Best Bang for Your Buck Tee Times in the USA",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x6npym/one_of_the_best_bang_for_your_buck_tee_times_in/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1xc2y5n/you_guys_wanted_pics_when_they_came_in/",
      "selftext_head": ""
     },
     {
@@ -142,6 +133,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x9gw19/63year_old_vijay_singh_claims_the_sas/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Got my first ever eagle on a par 4!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1xa6h6r/got_my_first_ever_eagle_on_a_par_4/",
      "selftext_head": ""
     }
    ]
@@ -262,20 +262,19 @@
    "best golf.gift for.boss",
    "golf gift for manager",
    "gift for boss who likes golf",
-   "gift for boss who loves golf",
    "golf gift ideas for him"
   ],
   "golf apparel funny": [
    "golf apparel funny",
    "golf shirts funny",
+   "golf shirts funny men",
    "golf clothing funny",
    "golf shirt funny pattern",
    "golf shirts funny women",
    "golf shirts funny australia",
+   "golf shirts funny print",
    "golf shirts funny amazon",
-   "golf shirts funny sayings",
-   "golf shirt funny design",
-   "funny golf outfit ideas"
+   "golf shirts funny sayings"
   ],
   "hawaiian golf shirt": [
    "hawaiian golf shirts",
@@ -291,16 +290,16 @@
   ]
  },
  "trends": [
-  "taliesin west",
-  "dow jones industrial average",
-  "estados unidos",
-  "world war z",
-  "covid test",
-  "nasdaq composite",
-  "nfl start &apos;em, sit &apos;em week 7",
-  "taylor swift on george strait",
-  "air india ultra long haul route",
-  "nba league pass"
+  "patriots schedule",
+  "market correction",
+  "kayem hot dog and bacon recall",
+  "olympiacos f.c. vs sparta praha standings",
+  "toothpaste recall 2026",
+  "golf",
+  "armando gonzález",
+  "cathie wood bargain stocks bought",
+  "ajax",
+  "brian moynihan"
  ],
  "errors": []
 }

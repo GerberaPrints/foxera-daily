@@ -1,6 +1,6 @@
 {
  "schema_version": "1.3",
- "checked_at": "2026-10-23T04:40:59.647694+07:00",
+ "checked_at": "2026-10-23T04:46:14.565166+07:00",
  "date": "2026-10-23",
  "projects": [
   {
@@ -31,17 +31,18 @@
   {
    "project": "gerberaprints",
    "checks": [
-    "FAIL live-fetch cu: 2026-10-22 (hom nay 2026-10-23)",
-    "OK feed 10/10",
-    "FAIL social-fetch cu: 2026-10-22"
+    "OK live-fetch = hom nay",
+    "CANH BAO feed 6/10"
    ],
    "healed": [],
    "need_human": [
-    "gerberaprints: du lieu dung o 2026-10-22, task CO THAT (64 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
-    "gerberaprints: social dung o 2026-10-22 (hom nay 2026-10-23). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gerberaprints"
+    "gerberaprints: HTTP 429 'Bogey Bros' — bi rate-limit lien tuc — can dang ky app OAuth",
+    "gerberaprints: HTTP 429 'Swannies' — bi rate-limit lien tuc — can dang ky app OAuth",
+    "gerberaprints: HTTP 429 'Pins & Aces' — bi rate-limit lien tuc — can dang ky app OAuth",
+    "gerberaprints: HTTP 429 'U Suck' — bi rate-limit lien tuc — can dang ky app OAuth"
    ],
-   "status": "FAIL",
-   "feeds": "10/10",
+   "status": "OK",
+   "feeds": "6/10",
    "reddit": "1/1"
   },
   {
@@ -146,8 +147,10 @@
   "genusfaith: HTTP 429 'Feratia' — bi rate-limit lien tuc — can dang ky app OAuth",
   "genusfaith: HTTP 429 'Blessac' — bi rate-limit lien tuc — can dang ky app OAuth",
   "genusfaith: HTTP 429 'West Coast Catholic' — bi rate-limit lien tuc — can dang ky app OAuth",
-  "gerberaprints: du lieu dung o 2026-10-22, task CO THAT (64 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
-  "gerberaprints: social dung o 2026-10-22 (hom nay 2026-10-23). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gerberaprints",
+  "gerberaprints: HTTP 429 'Bogey Bros' — bi rate-limit lien tuc — can dang ky app OAuth",
+  "gerberaprints: HTTP 429 'Swannies' — bi rate-limit lien tuc — can dang ky app OAuth",
+  "gerberaprints: HTTP 429 'Pins & Aces' — bi rate-limit lien tuc — can dang ky app OAuth",
+  "gerberaprints: HTTP 429 'U Suck' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gritfell: HTTP 429 'Duck Camp' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gritfell: HTTP 429 'Howler Brothers' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gritfell: HTTP 429 'AFTCO' — bi rate-limit lien tuc — can dang ky app OAuth",
