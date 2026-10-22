@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-22",
- "fetched_at": "2026-10-22T04:15:02.414520+07:00",
+ "date": "2026-10-23",
+ "fetched_at": "2026-10-23T04:15:02.476878+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -37,6 +37,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Pope Leo XIV needs no further treatment after lung cancer surgery, Vatican says",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xbx7xa/pope_leo_xiv_needs_no_further_treatment_after/",
+     "selftext_head": ""
+    },
+    {
      "title": "[Free Friday] Saint Michael the Archangel through the eyes of a Japanese artist",
      "score": null,
      "num_comments": null,
@@ -46,21 +55,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Happy Feast Day of St. Teresa of Ávila",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x6pk3n/happy_feast_day_of_st_teresa_of_ávila/",
-     "selftext_head": ""
-    },
-    {
      "title": "For the first time in 5 years, the number of priests worldwide rose",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1xar678/for_the_first_time_in_5_years_the_number_of/",
+     "selftext_head": ""
+    },
+    {
+     "title": "October 22-Feast of Pope Saint John Paul II",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xc7fkf/october_22feast_of_pope_saint_john_paul_ii/",
      "selftext_head": ""
     },
     {
@@ -118,30 +127,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Learning to Paint Catholic Saints",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xc44lo/learning_to_paint_catholic_saints/",
+     "selftext_head": ""
+    },
+    {
      "title": "Today's the Feast of St. Luke. A convert from Hellenist polytheism he was one of the 72 Apostles (Luke 10) and was a Herald of Glad Tidings working closely with Saint Paul. He wrote the Scripture of the Acts of the Apostles, as well as the Gospel of Luke which he compiled from St. Paul's preaching.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x930zw/todays_the_feast_of_st_luke_a_convert_from/",
-     "selftext_head": ""
-    },
-    {
-     "title": "I had an uncomfortable incident during mass. Need advice on how to approach",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x9r3vv/i_had_an_uncomfortable_incident_during_mass_need/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Pope Leo XIV cleared to leave hospital Saturday after successful surgery",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x86r99/pope_leo_xiv_cleared_to_leave_hospital_saturday/",
      "selftext_head": ""
     }
    ]
@@ -190,11 +190,11 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gifts for teenage boys",
    "confirmation gifts catholic",
    "confirmation gifts for teen girls",
    "confirmation gifts for adults",
    "confirmation gift ideas for girls",
+   "confirmation gifts for teen boys",
    "confirmation gifts of the holy spirit"
   ],
   "baptism gift": [
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "walter clayton jr",
-  "vinícius júnior",
-  "survivor not here to get a pedicure",
-  "kylian mbappé",
-  "yan diomandé",
-  "will stein kentucky wildcats football",
-  "liev schreiber",
-  "diomande",
-  "broadchurch",
-  "show jumping"
+  "armando gonzález",
+  "ajax",
+  "brian moynihan",
+  "britt mchenry",
+  "walmart fruit cocktail lead recall",
+  "rashee rice",
+  "heated rivalry theaters",
+  "celtic fc",
+  "southern california healthcare fraud raids",
+  "butcher and blackbird"
  ],
  "errors": []
 }
