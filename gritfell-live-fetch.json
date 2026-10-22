@@ -2,11 +2,11 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-22",
- "fetched_at": "2026-10-22T04:30:02.567256+07:00",
+ "date": "2026-10-23",
+ "fetched_at": "2026-10-23T04:30:02.805265+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 193,
+   "count_returned": 192,
    "products": [
     {
      "title": "First Cast Light T-shirt",
@@ -1070,16 +1070,6 @@
      "published_at": "2026-08-11T01:07:35-07:00"
     },
     {
-     "title": "Driftline Boots",
-     "handle": "driftline-boots",
-     "type": "Boots",
-     "tags": [
-      "boots"
-     ],
-     "price": "89.00",
-     "published_at": "2026-08-11T01:05:56-07:00"
-    },
-    {
      "title": "Bait Ball Swim Short",
      "handle": "bait-ball-swim-short",
      "type": "Swim Short",
@@ -1983,120 +1973,6 @@
     }
    ]
   },
-  "Duck Camp": {
-   "count_returned": 5,
-   "products": [
-    {
-     "title": "Ducks Unlimited x DC Sweatshirt - Demitasse",
-     "handle": "ducks-unlimited-dc-sweatshirt-demitasse",
-     "type": "Limited Release Sweatshirt",
-     "tags": [
-      "__label:Coming Soon",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "hats-tees",
-      "lifestyle",
-      "logowear",
-      "logowear-sweatshirt",
-      "mens",
-      "msrp",
-      "outerwear",
-      "top",
-      "womens"
-     ],
-     "price": "79.00",
-     "published_at": "2026-10-18T10:00:10-05:00"
-    },
-    {
-     "title": "Ducks Unlimited x DC Crest Tee - Ivory",
-     "handle": "ducks-unlimited-dc-crest-tee-ivory",
-     "type": "Limited Release T-shirt",
-     "tags": [
-      "__label:new",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "hats-tees",
-      "lifestyle",
-      "logowear",
-      "logowear-tees",
-      "mens",
-      "msrp",
-      "top",
-      "womens"
-     ],
-     "price": "39.00",
-     "published_at": "2026-10-18T09:49:06-05:00"
-    },
-    {
-     "title": "Ducks Unlimited x DC Canvas Crest Hat - Cypress Green",
-     "handle": "ducks-unlimited-dc-canvas-crest-hat-cypress-green",
-     "type": "Limited Release Hat",
-     "tags": [
-      "__label:new",
-      "accessory",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "hat",
-      "hats-tees",
-      "headwear",
-      "lifestyle",
-      "logowear",
-      "logowear-hats",
-      "mens",
-      "msrp",
-      "top",
-      "womens"
-     ],
-     "price": "36.00",
-     "published_at": "2026-10-15T14:12:38-05:00"
-    },
-    {
-     "title": "Ducks Unlimited x DC Canvas Hat - Demitasse",
-     "handle": "ducks-unlimited-dc-canvas-hat-demitasse",
-     "type": "Limited Release Hat",
-     "tags": [
-      "__label:new",
-      "accessory",
-      "collection-feature",
-      "dc-inventory-sync::OFF",
-      "F26",
-      "hat",
-      "hats-tees",
-      "headwear",
-      "lifestyle",
-      "logowear",
-      "logowear-hats",
-      "mens",
-      "msrp",
-      "top",
-      "womens"
-     ],
-     "price": "36.00",
-     "published_at": "2026-10-15T14:12:31-05:00"
-    },
-    {
-     "title": "Pheasants Forever Tee - Ivory",
-     "handle": "pheasants-forever-tee-ivory",
-     "type": "T-Shirt",
-     "tags": [
-      "__label:50% off",
-      "F24",
-      "last call",
-      "lifestyle",
-      "mens",
-      "msrp",
-      "size-guide::t-shirts",
-      "top",
-      "womens"
-     ],
-     "price": "19.50",
-     "published_at": "2026-10-08T21:31:11-05:00"
-    }
-   ]
-  },
   "Marsh Wear": {
    "count_returned": 5,
    "products": [
@@ -2295,229 +2171,77 @@
     }
    ]
   },
-  "Howler Brothers": {
-   "count_returned": 5,
-   "products": [
-    {
-     "title": "Crosscut Deluxe Snapshirt - Sharp Dawn : Earth",
-     "handle": "crosscut-deluxe-longsleeve-sharp-dawn-earth",
-     "type": "Men's Shirts",
-     "tags": [
-      "__eligible-for-discount",
-      "everyday-wear",
-      "f26",
-      "f26-drop-3",
-      "mens-longsleeve-shirts-collection",
-      "mens-shirts-collection",
-      "new-arrivals-collection",
-      "no-treet",
-      "published-online",
-      "western-collection"
-     ],
-     "price": "119.00",
-     "published_at": "2026-10-13T08:43:35-05:00"
-    },
-    {
-     "title": "Machete Sun Snapback - Antique Black Corduroy",
-     "handle": "unstructured-snapback-hats-machete-sun-antique-black",
-     "type": "Hats",
-     "tags": [
-      "__eligible-for-discount",
-      "everyday-wear",
-      "f26",
-      "f26-drop-3",
-      "hats",
-      "hats-collection",
-      "new-arrivals-collection",
-      "no-treet",
-      "published-online",
-      "unstructured-snapback"
-     ],
-     "price": "35.00",
-     "published_at": "2026-10-13T08:43:34-05:00"
-    },
-    {
-     "title": "Frontside 5-Pocket Corduroy Pants - Dark Olive",
-     "handle": "frontside-5-pocket-corduroy-pants-dark-olive",
-     "type": "Men's Pants",
-     "tags": [
-      "__eligible-for-discount",
-      "everyday-wear",
-      "f26",
-      "f26-drop-3",
-      "mens-bottoms-collection",
-      "mens-pants-collection",
-      "new-arrivals-collection",
-      "no-treet",
-      "published-online"
-     ],
-     "price": "119.00",
-     "published_at": "2026-10-13T08:43:33-05:00"
-    },
-    {
-     "title": "Allegheny Fleece Overshirt - Camel / Duck Brown",
-     "handle": "allegheny-fleece-overshirt-camel-duck-brown",
-     "type": "Men's Outerwear",
-     "tags": [
-      "__eligible-for-discount",
-      "everyday-wear",
-      "f26",
-      "f26-drop-3",
-      "mens-fleece-collection",
-      "mens-outerwear-collection",
-      "new-arrivals-collection",
-      "no-treet",
-      "published-online"
-     ],
-     "price": "145.00",
-     "published_at": "2026-10-13T08:43:32-05:00"
-    },
-    {
-     "title": "Rodanthe Blanket Flannel - Nevers Plaid : Vetiver",
-     "handle": "rodanthe-blanket-flannel-nevers-plaid-vetiver",
-     "type": "Men's Shirts",
-     "tags": [
-      "__eligible-for-discount",
-      "everyday-wear",
-      "f26",
-      "f26-drop-3",
-      "mens-longsleeve-shirts-collection",
-      "mens-shirts-collection",
-      "new-arrivals-collection",
-      "no-treet",
-      "published-online"
-     ],
-     "price": "125.00",
-     "published_at": "2026-10-13T08:43:31-05:00"
-    }
-   ]
-  },
-  "AFTCO": {
-   "count_returned": 5,
-   "products": [
-    {
-     "title": "Ally Tech Hat",
-     "handle": "ally-tech-fishing-hat",
-     "type": "MENS HATS",
-     "tags": [
-      "__tab2:hats-size-chart-with-image-in-there",
-      "fishing-clothing",
-      "fishing-hats",
-      "Headwear",
-      "LABEL CHECK",
-      "mens-fishing-hats",
-      "MID-PROFILE-FIT",
-      "SP26"
-     ],
-     "price": "32.00",
-     "published_at": "2026-10-14T11:00:14-07:00"
-    },
-    {
-     "title": "Shoreline Tech Hat",
-     "handle": "shoreline-tech-fishing-hat",
-     "type": "MENS HATS",
-     "tags": [
-      "__tab2:hats-size-chart-with-image-in-there",
-      "fishing-clothing",
-      "fishing-hats",
-      "Headwear",
-      "LABEL CHECK",
-      "mens-fishing-hats",
-      "MID-PROFILE-FIT",
-      "SP26"
-     ],
-     "price": "32.00",
-     "published_at": "2026-10-14T10:59:35-07:00"
-    },
-    {
-     "title": "Flippin' Tech Hat",
-     "handle": "flippin-tech-fishing-hat-snapback",
-     "type": "MENS HATS",
-     "tags": [
-      "__tab2:hats-size-chart-with-image-in-there",
-      "accessories",
-      "FA25",
-      "filter::type:FISHING HATS",
-      "filter::type:HATS",
-      "fishing-clothing",
-      "fishing-hats",
-      "GG50",
-      "GG75",
-      "Headwear",
-      "LABEL CHECK",
-      "mens",
-      "mens-fishing-hats",
-      "MID-PROFILE-FIT",
-      "SP26"
-     ],
-     "price": "35.00",
-     "published_at": "2026-10-14T10:59:02-07:00"
-    },
-    {
-     "title": "Hermann Fisheries SS T-Shirt",
-     "handle": "hermann-fisheries-fishing-t-shirt",
-     "type": "MENS T-SHIRTS",
-     "tags": [
-      "__tab2:tops-mens-size-chart",
-      "filter::size:2X",
-      "filter::size:L",
-      "filter::size:M",
-      "filter::size:S",
-      "filter::size:XL",
-      "filter::type:Short Sleeve T-Shirts",
-      "fishing-clothing",
-      "fishing-t-shirts",
-      "fit-guide-mens-regular-fit",
-      "mens",
-      "mens-fishing-short-sleeve-t-shirts",
-      "mens-how-to-measure",
-      "mens-short-sleeve-t-shirts",
-      "mens-t-shirts",
-      "NEW",
-      "NEW-TAG",
-      "REGULARFIT",
-      "SHORT SLEEVE",
-      "T-Shirts"
-     ],
-     "price": "32.00",
-     "published_at": "2026-10-12T16:47:50-07:00"
-    },
-    {
-     "title": "Boatbar SS Button Down Shirt | Conch",
-     "handle": "boatbar-ss-button-down-shirt-conch",
-     "type": "MENS WOVENS",
-     "tags": [
-      "__tab2:tops-mens-size-chart",
-      "AFBLOCK-50",
-      "AFGUARD",
-      "AFLITE",
-      "DWR-STAIN-RESISTANCE",
-      "filter::size:2X",
-      "filter::size:3X",
-      "filter::size:L",
-      "filter::size:M",
-      "filter::size:S",
-      "filter::size:XL",
-      "filter::type:BUTTON DOWN SHIRTS",
-      "fit-guide-mens-regular-fit",
-      "LABEL CHECK",
-      "mens",
-      "mens-fit-guide",
-      "mens-how-to-measure",
-      "REGULARFIT",
-      "RGroup_Boatbar",
-      "sandbar",
-      "SP26",
-      "Wovens"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-15T06:36:58-07:00"
-    }
-   ]
-  },
   "Drake Waterfowl": {
    "count_returned": 5,
    "products": [
+    {
+     "title": "MST Youth CommandXT Softshell Pant",
+     "handle": "mst-youth-commandxt-softshell-pant",
+     "type": "Pants & Bibs",
+     "tags": [
+      "alt_text",
+      "AW26 Catalog",
+      "AW26 Price Tracking",
+      "AW26_NEW",
+      "master_list_new_arrivals_26",
+      "new",
+      "New_No_Coming_Soon",
+      "pants & bibs",
+      "Pants-Shorts",
+      "waterfowl",
+      "youth"
+     ],
+     "price": "119.99",
+     "published_at": "2026-10-22T15:23:40-05:00"
+    },
+    {
+     "title": "Delta Quilted Vest",
+     "handle": "delta-quilted-vest",
+     "type": "Jackets & Vests",
+     "tags": [
+      "alt_text",
+      "AW26 Catalog",
+      "AW26_NEW",
+      "jackets-vests",
+      "master_list_new_arrivals_26",
+      "mens",
+      "new"
+     ],
+     "price": "99.99",
+     "published_at": "2026-10-22T13:48:56-05:00"
+    },
+    {
+     "title": "Canvas Sherpa Lined Work Vest",
+     "handle": "canvas-sherpa-lined-work-vest",
+     "type": "Jackets & Vests",
+     "tags": [
+      "alt_text",
+      "AW26 Catalog",
+      "AW26 Work Wear",
+      "AW26_NEW",
+      "jackets-vests",
+      "master_list_new_arrivals_26",
+      "mens",
+      "new"
+     ],
+     "price": "99.99",
+     "published_at": "2026-10-22T09:45:03-05:00"
+    },
+    {
+     "title": "Drake Finisher Magnetic Retractor",
+     "handle": "drake-finisher-magnetic-retractor",
+     "type": "Field Essentials",
+     "tags": [
+      "alt_text",
+      "AW26_NEW",
+      "BFCM2026",
+      "HOL_26 Flyer",
+      "master_list_new_arrivals_26",
+      "new"
+     ],
+     "price": "25.00",
+     "published_at": "2026-10-22T09:09:43-05:00"
+    },
     {
      "title": "Hole Shot Windproof Eqwader Vest",
      "handle": "hole-shot-windproof-eqwader-vest",
@@ -2547,114 +2271,6 @@
      ],
      "price": "69.99",
      "published_at": "2026-10-21T12:59:47-05:00"
-    },
-    {
-     "title": "GORE-TEX® Jones Hat",
-     "handle": "gore-tex-jones-hat",
-     "type": "Headwear",
-     "tags": [
-      "- $25 - $50",
-      "- headwear",
-      "- under $50",
-      "- under $75",
-      "20171114-Cold-Weather-Accessories",
-      "AW25 Catalog",
-      "AW26 Catalog",
-      "Cold Weather Gear",
-      "hats",
-      "hunting accessories",
-      "MEN",
-      "mens",
-      "r20",
-      "top rated",
-      "waterfowl"
-     ],
-     "price": "34.99",
-     "published_at": "2026-10-21T11:59:31-05:00"
-    },
-    {
-     "title": "Non-Typical Windproof Fleece Beanie with Agion Active X2",
-     "handle": "non-typical-windproof-fleece-beanie-with-agion-active-x2",
-     "type": "Headwear",
-     "tags": [
-      "- headwear",
-      "- under $25",
-      "- under $75",
-      "- whitetail & big game",
-      "alt_text",
-      "AW26 Catalog",
-      "beanies-stocking-caps",
-      "BFCM2023",
-      "Gifts For Big Game",
-      "MEN",
-      "Men-Casual-Beanies",
-      "mens",
-      "nav_nontypical",
-      "Non-Typical - Midweight - Endurance",
-      "non-typical - stimulus",
-      "Nontypical",
-      "r69",
-      "YGroup_camobeanie"
-     ],
-     "price": "29.99",
-     "published_at": "2026-10-21T11:57:36-05:00"
-    },
-    {
-     "title": "Youth Endurance Full Zip Jacket with Hood",
-     "handle": "youth-endurance-full-zip-jacket-with-hood",
-     "type": "Jackets & Vests",
-     "tags": [
-      "ACS2025",
-      "alt_text",
-      "AW25 Show Special",
-      "AW25_New",
-      "AW26 Catalog",
-      "bfcm 2025",
-      "BFCM2025",
-      "BFCM2026",
-      "HOL_26 Flyer",
-      "jackets",
-      "jackets-vests",
-      "New_No_Coming_Soon",
-      "youth"
-     ],
-     "price": "109.99",
-     "published_at": "2026-10-21T11:53:06-05:00"
-    },
-    {
-     "title": "Camo Flat Bill Cap",
-     "handle": "camo-snapback-flat-bill-cap",
-     "type": "Headwear",
-     "tags": [
-      "- $25 - $50",
-      "- headwear",
-      "- under $50",
-      "- under $75",
-      "AW25 Catalog",
-      "AW26 Catalog",
-      "bestseller_24",
-      "bestseller_nov",
-      "caps",
-      "early season teal",
-      "est-early-season-technology",
-      "hunting accessories",
-      "lifestyle",
-      "logowear",
-      "MEN",
-      "Men WF Logo Items",
-      "Men-Casual-Caps",
-      "mens",
-      "r21",
-      "stocking stuffers",
-      "stocking stuffers - caps",
-      "stocking stuffers 21",
-      "top rated",
-      "warm weather gear list",
-      "waterfowl",
-      "waterfowl_logo_wear"
-     ],
-     "price": "29.99",
-     "published_at": "2026-10-21T11:48:13-05:00"
     }
    ]
   },
@@ -2734,7 +2350,9 @@
      "title": "Long Sleeve Go To Tee - Classic Deer Camo",
      "handle": "long-sleeve-go-to-tee-classic-deer-camo",
      "type": "",
-     "tags": [],
+     "tags": [
+      "Tops"
+     ],
      "price": "48.00",
      "published_at": "2026-10-21T09:53:07-05:00"
     },
@@ -2742,7 +2360,9 @@
      "title": "Long Sleeve Go To Tee - Black Camo",
      "handle": "long-sleeve-go-to-tee-black-camo",
      "type": "",
-     "tags": [],
+     "tags": [
+      "Tops"
+     ],
      "price": "48.00",
      "published_at": "2026-10-21T09:52:03-05:00"
     },
@@ -2810,7 +2430,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2625000",
+     "price": "2624000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2823,7 +2443,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5249000",
+     "price": "5248000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2914,6 +2534,14 @@
    "count_returned": 5,
    "products": [
     {
+     "title": "Fishing On Outdoor Cotton T-Shirt NL10134",
+     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10134",
+     "type": "lam",
+     "tags": [],
+     "price": "27.95",
+     "published_at": "2026-10-22T02:12:12-06:00"
+    },
+    {
      "title": "Vintage Freshwater Gamefishing Hoodie VC2116",
      "handle": "vintage-freshwater-gamefishing-hoodie-vc2116",
      "type": "",
@@ -2944,14 +2572,6 @@
      "tags": [],
      "price": "69.99",
      "published_at": "2026-10-20T22:54:46-06:00"
-    },
-    {
-     "title": "Bigfoot Fishing Hoodie- VC2112",
-     "handle": "bigfoot-fishing-hoodie-vc2112",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-20T22:52:40-06:00"
     }
    ]
   },
@@ -3062,24 +2682,24 @@
  "policies": {
   "GritFell": {
    "https://gritfell.com/policies/shipping-policy": [
-    "Continue shopping BUY 2 GET 1 FREE SITEWIDE Free Ground Shipping on Order $75+ Shipping policy At Gritfell, we strive to deliver your order as quickly and efficiently as possible.",
-    "Please review the information below regarding production times, shipping methods, delivery estimates, and shipping fees.",
-    "Clothing: Production typically takes 3 - 7 business days before shipment.",
-    "Embroidered Hats: Production typically takes 1- 3 business days before shipment.",
-    "Please note that production times may be slightly extended during holidays, peak seasons, or major promotional events.",
-    "Once your order has been completed, it will be shipped using the delivery method selected at checkout.",
-    "Shipping Times Delivery times below do not include production time.",
-    "Tracking updates may take 2-5 business days to appear after the carrier receives your package."
+    "All times are business days (Monday to Friday, excluding public holidays) and are estimates, not guarantees.",
+    "Where your order ships from Embroidered hats are made and shipped from Vietnam.",
+    "Clothing is made to order by our production partners in Vietnam or China, depending on the item, and ships from there; your tracking email shows the origin.",
+    "Hats are delivered in the US by USPS Ground Advantage.",
+    "Clothing is delivered by the carrier shown in your tracking email.",
+    "If your country is not shown at checkout, we cannot ship there yet.",
+    "Hats ship free when the hats in your order total $50 or more.",
+    "Clothing ships free when the clothing in your order totals $75 or more."
    ],
    "https://gritfell.com/policies/refund-policy": [
-    "Continue shopping BUY 2 GET 1 FREE SITEWIDE Free Ground Shipping on Order $75+ Refund policy At GritFell, we want you to be satisfied with your order.",
-    "If there is an issue with the product you received, please contact our Customer Support team at support@gritfell.com before returning any item.",
-    "60-Day Return Policy Eligible products may be returned within 60 days from the date of delivery.",
-    "Free Returns for Eligible Orders If your return is approved because the product is defective, damaged, incorrect, or the issue was caused by GritFell, there will be no return shipping cost to you.",
-    "Our Customer Support team will provide the appropriate return instructions after reviewing and approving your request.",
-    "How to Start a Return Do not automatically send your order back to the original shipping address, warehouse address, manufacturer, or the address shown on your package.",
-    "Returns sent without prior authorization or sent to an incorrect or unauthorized address are not our responsibility.",
-    "GritFell is not responsible for products that are lost, delayed, or undeliverable because they were returned without following our return instructions."
+    "Because of this, we accept returns only when there is a problem with the item.",
+    "You have 60 days from delivery to report a problem.",
+    "What we cover (60 days from delivery) defective or damaged item wrong item, design or color sent size received differs from the size on the order item damaged in transit For an approved claim we offer a free replacement or full refund to the original payment method.",
+    "You do not pay return shipping for an approved claim.",
+    "We email the return instructions.",
+    "What we do not accept change of mind wrong size chosen at checkout (item matches the order) items worn, washed, altered or damaged after delivery Please check the size guide on the product page before you order.",
+    "We reply with the next steps, and with the return address if we need the item back.",
+    "Please do not send an item to the address on the package: that address cannot accept returns."
    ]
   },
   "Duck Camp": {
@@ -3119,5 +2739,24 @@
    ]
   }
  },
- "errors": []
+ "errors": [
+  {
+   "kind": "feed",
+   "brand": "Duck Camp",
+   "code": "HTTP 429",
+   "err": "bi rate-limit (cham lai)"
+  },
+  {
+   "kind": "feed",
+   "brand": "Howler Brothers",
+   "code": "HTTP 429",
+   "err": "bi rate-limit (cham lai)"
+  },
+  {
+   "kind": "feed",
+   "brand": "AFTCO",
+   "code": "HTTP 429",
+   "err": "bi rate-limit (cham lai)"
+  }
+ ]
 }
