@@ -2,31 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-23",
- "fetched_at": "2026-10-23T04:15:02.476878+07:00",
+ "date": "2026-10-24",
+ "fetched_at": "2026-10-24T04:15:02.471449+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "Free Friday: I got married !",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x785qq/free_friday_i_got_married/",
-     "selftext_head": ""
-    },
-    {
-     "title": "[Free Friday] Pope Leo offering Mass today in hospital (credit: the Vatican)",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7ez2s/free_friday_pope_leo_offering_mass_today_in/",
-     "selftext_head": ""
-    },
     {
      "title": "[Free Friday] My uncle leading the NYC Eucharistic Procession",
      "score": null,
@@ -34,6 +16,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7uust/free_friday_my_uncle_leading_the_nyc_eucharistic/",
+     "selftext_head": ""
+    },
+    {
+     "title": "“Mary and Jesus” by Catholic artist Bernadette Carstensen (Free Friday)",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xd5fns/mary_and_jesus_by_catholic_artist_bernadette/",
      "selftext_head": ""
     },
     {
@@ -46,12 +37,12 @@
      "selftext_head": ""
     },
     {
-     "title": "[Free Friday] Saint Michael the Archangel through the eyes of a Japanese artist",
+     "title": "October 22-Feast of Pope Saint John Paul II",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7kzx5/free_friday_saint_michael_the_archangel_through/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xc7fkf/october_22feast_of_pope_saint_john_paul_ii/",
      "selftext_head": ""
     },
     {
@@ -64,39 +55,21 @@
      "selftext_head": ""
     },
     {
-     "title": "October 22-Feast of Pope Saint John Paul II",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xc7fkf/october_22feast_of_pope_saint_john_paul_ii/",
-     "selftext_head": ""
-    },
-    {
-     "title": "(Free Friday) traditional Japanese artwork of Mary and Jesus",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7ds24/free_friday_traditional_japanese_artwork_of_mary/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Marian Procession in Japan Catholics in Japan gather to honor Our Lady through Marian processions and prayers. When does your parish hold Marian processions — in May or October? I’d love to hear about your traditions!",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7233v/marian_procession_in_japan_catholics_in_japan/",
-     "selftext_head": ""
-    },
-    {
      "title": "Free Friday - Our Lady of Guadalupe",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7ukpx/free_friday_our_lady_of_guadalupe/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Learning to Paint Catholic Saints",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xc44lo/learning_to_paint_catholic_saints/",
      "selftext_head": ""
     },
     {
@@ -118,30 +91,57 @@
      "selftext_head": ""
     },
     {
-     "title": "October 16, 1978. 48 years ago today. Saint Pope John Paul II was elected as the Roman Pontiff",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x76e2a/october_16_1978_48_years_ago_today_saint_pope/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Learning to Paint Catholic Saints",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xc44lo/learning_to_paint_catholic_saints/",
-     "selftext_head": ""
-    },
-    {
      "title": "Today's the Feast of St. Luke. A convert from Hellenist polytheism he was one of the 72 Apostles (Luke 10) and was a Herald of Glad Tidings working closely with Saint Paul. He wrote the Scripture of the Acts of the Apostles, as well as the Gospel of Luke which he compiled from St. Paul's preaching.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x930zw/todays_the_feast_of_st_luke_a_convert_from/",
+     "selftext_head": ""
+    },
+    {
+     "title": "My whole life is a lie",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xd16kn/my_whole_life_is_a_lie/",
+     "selftext_head": ""
+    },
+    {
+     "title": "I had an uncomfortable incident during mass. Need advice on how to approach",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x9r3vv/i_had_an_uncomfortable_incident_during_mass_need/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Pope Leo XIV cleared to leave hospital Saturday after successful surgery",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x86r99/pope_leo_xiv_cleared_to_leave_hospital_saturday/",
+     "selftext_head": ""
+    },
+    {
+     "title": "A priest pauses the Eucharistic Mass to embrace and comfort a crying, distressed man",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xbsglt/a_priest_pauses_the_eucharistic_mass_to_embrace/",
+     "selftext_head": ""
+    },
+    {
+     "title": "WHY ARE SO MANY PEOPLE BECOMING CATHOLIC? 20 U.S. Catholic Dioceses Collaborate to Study Emerging Interest in the Catholic Church",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xbncgr/why_are_so_many_people_becoming_catholic_20_us/",
      "selftext_head": ""
     }
    ]
@@ -152,25 +152,25 @@
   "catholic gift for": [
    "catholic gift for new home",
    "catholic gift for baptism",
-   "catholic gift for funeral",
    "catholic gift for men",
-   "catholic gift for newborn",
    "catholic gift for women",
    "catholic gift for mom",
    "catholic gift for kids",
    "catholic gift for wife",
-   "catholic gift for baby"
+   "catholic gift for baby",
+   "catholic gift for husband",
+   "catholic gift for dad"
   ],
   "rosary bracelet": [
    "rosary bracelet",
-   "rosary bracelet women",
    "rosary bracelet mens",
+   "rosary bracelet women",
    "rosary bracelet gold",
-   "rosary bracelet silver",
+   "rosary bracelet catholic",
    "rosary bracelet magnetic",
+   "rosary bracelet silver",
    "rosary bracelet pattern",
    "rosary bracelet tattoo",
-   "rosary bracelet catholic",
    "rosary bracelet near me"
   ],
   "christian gift for her": [
@@ -190,22 +190,22 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
-   "confirmation gifts catholic",
+   "confirmation gifts for teenage boys",
    "confirmation gifts for teen girls",
-   "confirmation gifts for adults",
+   "confirmation gifts catholic",
    "confirmation gift ideas for girls",
-   "confirmation gifts for teen boys",
-   "confirmation gifts of the holy spirit"
+   "confirmation gifts for adults",
+   "confirmation gift from sponsor"
   ],
   "baptism gift": [
    "baptism gifts",
    "baptism gifts for boys",
-   "baptism gifts for girls",
    "baptism gifts for baby girl",
+   "baptism gift for girl",
    "baptism gift ideas",
    "baptism gifts for adults",
-   "baptism gifts for baby boy",
    "baptism gifts near me",
+   "baptism gifts for baby boy",
    "baptism gifts from godparents",
    "baptism gift from godmother"
   ],
@@ -237,8 +237,8 @@
    "first communion gifts",
    "first communion gifts for girls",
    "first communion gifts for boys",
-   "first communion gifts for boys catholic",
    "first communion gift ideas",
+   "first communion gifts for boys catholic",
    "first communion gifts near me",
    "first communion gift for boy non religious",
    "first communion gift ideas for boys",
@@ -258,21 +258,21 @@
    "catholic wedding gift for husband"
   ],
   "christian tote bag": [
-   "christian tote bag",
+   "christian tote bags",
    "christian tote bags for women",
    "christian tote bag ideas",
    "christian tote bag painting ideas",
-   "christian tote bag with zipper",
-   "christian tote bag amazon",
    "christian tote bags in bulk",
+   "christian tote bag with zipper",
    "christian tote bag designs",
    "christian tote bag design ideas",
+   "christian tote bag amazon",
    "christian dior tote bag cost"
   ],
   "faith based jewelry": [
    "faith based jewelry",
-   "faith based jewelry company",
    "faith based jewelry for women",
+   "faith based jewelry company",
    "faith based jewelry for men",
    "faith based jewelry brands",
    "faith based jewelry wholesale",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "armando gonzález",
-  "ajax",
-  "brian moynihan",
-  "britt mchenry",
-  "walmart fruit cocktail lead recall",
-  "rashee rice",
-  "heated rivalry theaters",
-  "celtic fc",
-  "southern california healthcare fraud raids",
-  "butcher and blackbird"
+  "jalen smith",
+  "ryan rollins",
+  "sean pedulla",
+  "pure xbox",
+  "accidente",
+  "shedeur sanders lost browns quarterback job",
+  "norman powell",
+  "faith hedgepeth",
+  "chicago bulls vs milwaukee bucks match player stats",
+  "anika rashaun"
  ],
  "errors": []
 }
