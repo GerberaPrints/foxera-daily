@@ -2,1974 +2,3960 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gritfell",
- "date": "2026-10-23",
- "fetched_at": "2026-10-23T04:30:02.805265+07:00",
+ "date": "2026-10-24",
+ "fetched_at": "2026-10-24T04:30:02.662465+07:00",
  "feeds": {
   "GritFell": {
-   "count_returned": 192,
+   "count_returned": 250,
    "products": [
     {
-     "title": "First Cast Light T-shirt",
-     "handle": "first-cast-light-t-shirt",
-     "type": "T-Shirt",
+     "title": "Custom Name Hiking Raccoon Backpack Forest Adventure Embroidered Quarter-Zip",
+     "handle": "custom-name-hiking-raccoon-backpack-forest-adventure-embroidered-quarter-zip",
+     "type": "Quarter-Zip",
      "tags": [
-      "fishing"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "quarter-zip"
      ],
-     "price": "29.00",
-     "published_at": "2026-10-20T19:25:41-07:00"
+     "price": "49.95",
+     "published_at": "2026-10-23T01:43:15-07:00"
     },
     {
-     "title": "Chasing the Blue T-shirt",
-     "handle": "chasing-the-blue-t-shirt",
-     "type": "T-Shirt",
+     "title": "Mama Goose Goslings Umbrella Boots Custom Name Embroidered Sweatshirt",
+     "handle": "mama-goose-goslings-umbrella-boots-custom-name-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "fishing"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "29.00",
-     "published_at": "2026-10-20T19:14:09-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:43:14-07:00"
     },
     {
-     "title": "Still Talks About T-shirt",
-     "handle": "still-talks-about-t-shirt-copy",
-     "type": "T-Shirt",
+     "title": "Mama Woodland Bear Cub Blossoms EST Year Embroidered Sweatshirt",
+     "handle": "mama-woodland-bear-cub-blossoms-est-year-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "fishing"
+      "es-ao-trong-nam",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "29.00",
-     "published_at": "2026-10-20T19:11:59-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:43:12-07:00"
     },
     {
-     "title": "Thanksgiving Blind Crew  T-shirt",
-     "handle": "thanksgiving-blind-crew-t-shirt",
-     "type": "T-Shirt",
+     "title": "Dad of a Silly Goose Ducklings Necktie Embroidered Sweatshirt",
+     "handle": "dad-of-a-silly-goose-ducklings-necktie-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "29.00",
-     "published_at": "2026-10-20T19:09:56-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:43:10-07:00"
     },
     {
-     "title": "Track By The Boot T-shirt",
-     "handle": "track-by-the-boot-t-shirt",
-     "type": "T-Shirt",
+     "title": "Just a Spooky Goose Four Costumes Embroidered Sweatshirt",
+     "handle": "just-a-spooky-goose-four-costumes-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "29.00",
-     "published_at": "2026-10-20T19:08:43-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:43:08-07:00"
     },
     {
-     "title": "Cold Coffee Retriever T-shirt",
-     "handle": "cold-coffee-retriever-t-shirt",
-     "type": "T-Shirt",
+     "title": "Trick or Treat Goose Pumpkin Custom Name Embroidered Sweatshirt",
+     "handle": "trick-or-treat-goose-pumpkin-custom-name-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "29.00",
-     "published_at": "2026-10-20T19:05:38-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:43:06-07:00"
     },
     {
-     "title": "Wild Bear",
-     "handle": "wild-bear",
+     "title": "Mama and Her Three Cubs Wildflower Pine Forest Embroidered Sweatshirt",
+     "handle": "mama-and-her-three-cubs-wildflower-pine-forest-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:43:05-07:00"
+    },
+    {
+     "title": "Custom Name Camping Ghost Lantern Backpack Embroidered Hat",
+     "handle": "custom-name-camping-ghost-lantern-backpack-embroidered-hat",
      "type": "Hat",
      "tags": [
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "34.00",
-     "published_at": "2026-10-07T19:29:54-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:43:03-07:00"
     },
     {
-     "title": "First Cast New Year T-shirt",
-     "handle": "first-cast-new-year-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T19:11:48-07:00"
-    },
-    {
-     "title": "Last Cold Week T-shirt",
-     "handle": "last-cold-week-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T19:09:04-07:00"
-    },
-    {
-     "title": "Claw Mark Hat",
-     "handle": "claw-mark-hat",
+     "title": "Custom Name Three Ghosts Campfire Smores Embroidered Hat",
+     "handle": "custom-name-three-ghosts-campfire-smores-embroidered-hat",
      "type": "Hat",
      "tags": [
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "34.00",
-     "published_at": "2026-10-07T19:03:45-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:43:02-07:00"
     },
     {
-     "title": "Buckmark",
-     "handle": "buckmark",
+     "title": "Reel Great Dad Largemouth Bass Lure Embroidered Hat",
+     "handle": "reel-great-dad-largemouth-bass-lure-embroidered-hat",
      "type": "Hat",
      "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-10-07T18:54:00-07:00"
-    },
-    {
-     "title": "Deer Anatomy T-shirt",
-     "handle": "deer-anatomy-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T02:22:55-07:00"
-    },
-    {
-     "title": "First Fish Lift T-shirt",
-     "handle": "first-fish-lift-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T02:20:26-07:00"
-    },
-    {
-     "title": "Piling Shadow Dawn T-shirt",
-     "handle": "piling-shadow-dawn-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T02:18:30-07:00"
-    },
-    {
-     "title": "Frozen Field Wait T-shirt",
-     "handle": "frozen-field-wait-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T02:16:26-07:00"
-    },
-    {
-     "title": "Creek Crossing Pause T-shirt",
-     "handle": "creek-crossing-pause-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T02:13:03-07:00"
-    },
-    {
-     "title": "Whitetail Pursuit T-shirt",
-     "handle": "whitetail-pursuit-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T02:10:52-07:00"
-    },
-    {
-     "title": "Ridge Line Bugle T-shirt",
-     "handle": "ridge-line-bugle-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T02:07:56-07:00"
-    },
-    {
-     "title": "Bird Dog Hunt T-shirt",
-     "handle": "bird-dog-hunt-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T01:01:08-07:00"
-    },
-    {
-     "title": "Wild Hunt T-shirt",
-     "handle": "wild-hunt-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T00:58:48-07:00"
-    },
-    {
-     "title": "Find Unseen Coastal Keepers T-shirt",
-     "handle": "find-unseen-coastal-keepers-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T00:53:45-07:00"
-    },
-    {
-     "title": "Hooked on Freedom T-shirt",
-     "handle": "hooked-on-freedom-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-07T00:51:32-07:00"
-    },
-    {
-     "title": "First Buck Tag T-shirt",
-     "handle": "first-buck-tag-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-05T18:21:38-07:00"
-    },
-    {
-     "title": "Piling Shadow Tripletail T-shirt",
-     "handle": "piling-shadow-tripletail-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-05T18:19:31-07:00"
-    },
-    {
-     "title": "Still Fishing T-shirt",
-     "handle": "still-fishing-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-05T18:18:49-07:00"
-    },
-    {
-     "title": "Dock Light Read T-shirt",
-     "handle": "dock-light-read-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-10-05T18:14:06-07:00"
-    },
-    {
-     "title": "The One He Let Walk T-shirt",
-     "handle": "the-one-he-let-walk-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-27T19:09:44-07:00"
-    },
-    {
-     "title": "Grass Edge Hold T-shirt",
-     "handle": "grass-edge-hold-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-27T19:07:26-07:00"
-    },
-    {
-     "title": "Grass Edge Turn Away T-shirt",
-     "handle": "grass-edge-turn-away-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-27T18:39:53-07:00"
-    },
-    {
-     "title": "Broke Off At The Piling T-shirt",
-     "handle": "broke-off-at-the-piling-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-27T18:36:58-07:00"
-    },
-    {
-     "title": "First Follow T-shirt",
-     "handle": "first-follow-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-27T18:33:53-07:00"
-    },
-    {
-     "title": "Tailgate Before Light Hold T-shirt",
-     "handle": "tailgate-before-light-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-27T18:30:53-07:00"
-    },
-    {
-     "title": "Fogline Camo Hoodie With Face Cover",
-     "handle": "fogline-camo-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
-     "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-24T02:42:30-07:00"
-    },
-    {
-     "title": "Marsh Pattern Swim Short",
-     "handle": "marsh-pattern-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-09-24T00:00:23-07:00"
-    },
-    {
-     "title": "Woodland Drift Swim Short",
-     "handle": "woodland-drift-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "hunting"
-     ],
-     "price": "39.00",
-     "published_at": "2026-09-23T23:58:04-07:00"
-    },
-    {
-     "title": "Blue Tide Swim Short",
-     "handle": "blue-tide-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-09-23T23:56:12-07:00"
-    },
-    {
-     "title": "Coastal Current Swim Short",
-     "handle": "coastal-current-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-09-23T23:53:59-07:00"
-    },
-    {
-     "title": "Fishing Is My Therapy T-shirt",
-     "handle": "fishing-is-my-therapy-t-shirt-copy",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-23T02:12:07-07:00"
-    },
-    {
-     "title": "Same Timber Opener T-shirt",
-     "handle": "same-timber-opener-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-23T02:08:34-07:00"
-    },
-    {
-     "title": "Mountain Water Hold T-shirt",
-     "handle": "mountain-water-hold-t-shirt-copy",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-23T02:06:57-07:00"
-    },
-    {
-     "title": "Nose Into Wind T-shirt",
-     "handle": "nose-into-windt-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-23T02:04:28-07:00"
-    },
-    {
-     "title": "First Run Marker T-shirt",
-     "handle": "first-run-marker-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-23T02:02:24-07:00"
-    },
-    {
-     "title": "Hung Up Tom T-shirt",
-     "handle": "hung-up-tom-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-23T02:00:16-07:00"
-    },
-    {
-     "title": "The One That Turned T-shirt",
-     "handle": "the-one-that-turned-t-shirt-copy",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-23T01:53:33-07:00"
-    },
-    {
-     "title": "The Unbothered Follow Hoodie With Face Cover",
-     "handle": "the-unbothered-follow-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
-     "tags": [
+      "es-mu-khong",
+      "es-v4",
       "fishing",
-      "hoodie"
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "nguon-kin"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:47:34-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:43:00-07:00"
     },
     {
-     "title": "Tide Turn Wait Hoodie With Face Cover",
-     "handle": "tide-turn-wait-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Reel Cool Dad Fishing Rod Embroidered Hat",
+     "handle": "reel-cool-dad-fishing-rod-embroidered-hat",
+     "type": "Hat",
      "tags": [
+      "es-mu-khong",
+      "es-v4",
       "fishing",
-      "hoodie"
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "nguon-kin"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:46:08-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:59-07:00"
     },
     {
-     "title": "First Light Watch Hoodie With Face Cover",
-     "handle": "first-light-watch-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "West Texas Desert Sunset Mountains EST 1845 Embroidered Hat",
+     "handle": "west-texas-desert-sunset-mountains-est-1845-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:34:30-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:57-07:00"
     },
     {
-     "title": "Timber First Light Hoodie With Face Cover",
-     "handle": "timber-first-light-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Lake Sunset Pine Forest Custom Name Embroidered Hat",
+     "handle": "lake-sunset-pine-forest-custom-name-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:32:39-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:56-07:00"
     },
     {
-     "title": "Moonrise Opener Hoodie With Face Cover",
-     "handle": "moonrise-opener-hoodie-with-face-cover-copy",
-     "type": "Hoodie With Face Cover",
+     "title": "Farmerish Duck Overalls Pitchfork Embroidered Hat",
+     "handle": "farmerish-duck-overalls-pitchfork-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:29:46-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:55-07:00"
     },
     {
-     "title": "Cut Corn Standoff Hoodie With Face Cover",
-     "handle": "cut-corn-standoff-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Sleeping Fox Moon Mushroom Forest Embroidered Hat",
+     "handle": "sleeping-fox-moon-mushroom-forest-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:28:01-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:54-07:00"
     },
     {
-     "title": "Catch Tally Hoodie With Face Cover",
-     "handle": "catch-tally-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Reel Cool Dad Trout Fishing Rod Embroidered Hat",
+     "handle": "reel-cool-dad-trout-fishing-rod-embroidered-hat",
+     "type": "Hat",
      "tags": [
+      "es-mu-khong",
+      "es-v4",
       "fishing",
-      "hoodie"
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:26:23-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:52-07:00"
     },
     {
-     "title": "Never Patterns Hoodie With Face Cover",
-     "handle": "never-patterns-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Mountain Range Pine Custom Name Line Art Embroidered Hat",
+     "handle": "mountain-range-pine-custom-name-line-art-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-mu-trong-ten",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:24:53-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:51-07:00"
     },
     {
-     "title": "Decoy Dawn Wait Hoodie With Face Cover",
-     "handle": "decoy-dawn-wait-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Camping Crew Goose Campfire Custom Name Embroidered Hat",
+     "handle": "camping-crew-goose-campfire-custom-name-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:23:17-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:49-07:00"
     },
     {
-     "title": "Confirm The Wingbeat Hoodie With Face Cover",
-     "handle": "confirm-the-wingbeat-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Banff National Park Sunrise Mountain Custom Name Embroidered Hat",
+     "handle": "banff-national-park-sunrise-mountain-custom-name-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:21:41-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:48-07:00"
     },
     {
-     "title": "Cut Corn Silhouette Hoodie With Face Cover",
-     "handle": "cut-corn-silhouette-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Personalized Rocky Mountain EST 1915 Elk Embroidered Hat",
+     "handle": "personalized-rocky-mountain-est-1915-elk-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:20:00-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:46-07:00"
     },
     {
-     "title": "Deep Current Hoodie With Face Cover",
-     "handle": "deep-current-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Personalized Just a Patriotic Goose Fourth of July Embroidered Sweatshirt",
+     "handle": "personalized-just-a-patriotic-goose-fourth-of-july-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:45-07:00"
+    },
+    {
+     "title": "Personalized Acadia National Park Lighthouse Embroidered Hat",
+     "handle": "personalized-acadia-national-park-lighthouse-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:43-07:00"
+    },
+    {
+     "title": "Father Mows Best Goose Lawn Mower Embroidered Sweatshirt",
+     "handle": "father-mows-best-goose-lawn-mower-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:42-07:00"
+    },
+    {
+     "title": "Personalized Reading Is Self Care Geese Embroidered Sweatshirt",
+     "handle": "personalized-reading-is-self-care-geese-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:40-07:00"
+    },
+    {
+     "title": "Personalized Off to Shelf Books Goose Embroidered Sweatshirt",
+     "handle": "personalized-off-to-shelf-books-goose-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:39-07:00"
+    },
+    {
+     "title": "Personalized Geese Reading Bookshelf Lamp Embroidered Sweatshirt",
+     "handle": "personalized-geese-reading-bookshelf-lamp-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:37-07:00"
+    },
+    {
+     "title": "Midnight Reader Goose Window Moon Embroidered Sweatshirt",
+     "handle": "midnight-reader-goose-window-moon-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:35-07:00"
+    },
+    {
+     "title": "Off to Make Reading Fun Bicycle Goose Embroidered Sweatshirt",
+     "handle": "off-to-make-reading-fun-bicycle-goose-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:34-07:00"
+    },
+    {
+     "title": "Personalized Graduation Goose Cap Gown Embroidered Sweatshirt",
+     "handle": "personalized-graduation-goose-cap-gown-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:32-07:00"
+    },
+    {
+     "title": "Personalized Classroom Goose Chalkboard Embroidered Sweatshirt",
+     "handle": "personalized-classroom-goose-chalkboard-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:30-07:00"
+    },
+    {
+     "title": "Off to Regulate Emotions Picnic Goose Embroidered Quarter-Zip",
+     "handle": "off-to-regulate-emotions-picnic-goose-embroidered-quarter-zip",
+     "type": "Quarter-Zip",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "quarter-zip"
+     ],
+     "price": "49.95",
+     "published_at": "2026-10-23T01:42:29-07:00"
+    },
+    {
+     "title": "Personalized Halloween Ghost Goose Campfire Embroidered Sweatshirt",
+     "handle": "personalized-halloween-ghost-goose-campfire-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:27-07:00"
+    },
+    {
+     "title": "Silly Teachers Build Character Teaching Ducks Embroidered Sweatshirt",
+     "handle": "silly-teachers-build-character-teaching-ducks-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:26-07:00"
+    },
+    {
+     "title": "Proud Dad American Trucker Eagle Exhaust Stacks Embroidered Hat",
+     "handle": "proud-dad-american-trucker-eagle-exhaust-stacks-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:25-07:00"
+    },
+    {
+     "title": "Proud Dad American Trucker Semi Truck Flag Eagle Embroidered Hat",
+     "handle": "proud-dad-american-trucker-semi-truck-flag-eagle-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:23-07:00"
+    },
+    {
+     "title": "Patriotic Dad Flag Letters Statue of Liberty Eagle Embroidered Hat",
+     "handle": "patriotic-dad-flag-letters-statue-of-liberty-eagle-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:22-07:00"
+    },
+    {
+     "title": "Proud American Dad Flag Letters Eagle Laurel Embroidered Hat",
+     "handle": "proud-american-dad-flag-letters-eagle-laurel-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:20-07:00"
+    },
+    {
+     "title": "Papa Off Duty Raising Tiny Humans Camp Embroidered Hat",
+     "handle": "papa-off-duty-raising-tiny-humans-camp-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:19-07:00"
+    },
+    {
+     "title": "Campfire Dad Otter Canoe Embroidered Hat",
+     "handle": "campfire-dad-otter-canoe-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:17-07:00"
+    },
+    {
+     "title": "Grandpas Lucky Lure Fishing Bait Embroidered Hat",
+     "handle": "grandpas-lucky-lure-fishing-bait-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
       "fishing",
-      "hoodie"
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:16:53-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:16-07:00"
     },
     {
-     "title": "First Light Field Hoodie With Face Cover",
-     "handle": "first-light-field-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Personalized Fall Geese Pumpkin Basket Latte Maple Leaves Embroidered Sweatshirt",
+     "handle": "personalized-fall-geese-pumpkin-basket-latte-maple-leaves-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:13:21-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:15-07:00"
     },
     {
-     "title": "Grey Light Marsh Hoodie With Face Cover",
-     "handle": "grey-light-marsh-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Grandmas Garden Mother Goose Two Ducklings Embroidered Sweatshirt",
+     "handle": "grandmas-garden-mother-goose-two-ducklings-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T01:11:10-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:13-07:00"
     },
     {
-     "title": "Trough Silhouette Hoodie With Face Cover",
-     "handle": "trough-silhouette-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Silly Teachers Build Character Ducks on Pencil Embroidered Sweatshirt",
+     "handle": "silly-teachers-build-character-ducks-on-pencil-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:12-07:00"
+    },
+    {
+     "title": "Silly Teachers Build Character Ducks Crayon Box Script Embroidered Sweatshirt",
+     "handle": "silly-teachers-build-character-ducks-crayon-box-script-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:10-07:00"
+    },
+    {
+     "title": "Personalized Halloween Three Ghosts Campfire Marshmallow Moon Stars Embroidered Hat",
+     "handle": "personalized-halloween-three-ghosts-campfire-marshmallow-moon-stars-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:09-07:00"
+    },
+    {
+     "title": "Personalized Grizzly Bear Mountain Pine Forest Embroidered Hat",
+     "handle": "personalized-grizzly-bear-mountain-pine-forest-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:08-07:00"
+    },
+    {
+     "title": "Saguaro National Park Cactus Desert Mesa Embroidered Hat",
+     "handle": "saguaro-national-park-cactus-desert-mesa-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:06-07:00"
+    },
+    {
+     "title": "Cute Whale Water Spout Little Fish Embroidered Hat",
+     "handle": "cute-whale-water-spout-little-fish-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
       "fishing",
-      "hoodie"
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T00:49:06-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:05-07:00"
     },
     {
-     "title": "Wash Blitz Crew Hoodie With Face Cover",
-     "handle": "wash-blitz-crew-hoodie-with-face-covers",
-     "type": "Hoodie With Face Cover",
+     "title": "Personalized Camping Tent Mountain Sunrise Pine Trees Embroidered Hat",
+     "handle": "personalized-camping-tent-mountain-sunrise-pine-trees-embroidered-hat",
+     "type": "Hat",
      "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:03-07:00"
+    },
+    {
+     "title": "My Favorite People Call Me Papa Camping Lantern Pine Trees Embroidered Hat",
+     "handle": "my-favorite-people-call-me-papa-camping-lantern-pine-trees-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:42:02-07:00"
+    },
+    {
+     "title": "Personalized Autumn Harvest Goose Pumpkin Truck Watering Can Four Frames Floral Sleeve Name Embroidered Sweatshirt",
+     "handle": "personalized-autumn-harvest-goose-pumpkin-truck-watering-can-four-frames-floral-sleeve-name-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:42:00-07:00"
+    },
+    {
+     "title": "Cute Fox Pine Tree Forest Woodland Scene Embroidered Hat",
+     "handle": "cute-fox-pine-tree-forest-woodland-scene-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "hat",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:58-07:00"
+    },
+    {
+     "title": "Bear Mountain Pine Tree Moon Wilderness Scene Embroidered Hat",
+     "handle": "bear-mountain-pine-tree-moon-wilderness-scene-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:57-07:00"
+    },
+    {
+     "title": "Personalized Fox Campfire Pine Tree Stars Night Embroidered Hat",
+     "handle": "personalized-fox-campfire-pine-tree-stars-night-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:55-07:00"
+    },
+    {
+     "title": "Fall Autumn Geese Pumpkin Leaves Acorns Cozy Sweater Scarf Hat Embroidered Sweatshirt",
+     "handle": "fall-autumn-geese-pumpkin-leaves-acorns-cozy-sweater-scarf-hat-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:54-07:00"
+    },
+    {
+     "title": "Fall Apple Picking Geese Autumn Cozy Sweater Scarf Wagon Embroidered Sweatshirt",
+     "handle": "fall-apple-picking-geese-autumn-cozy-sweater-scarf-wagon-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:52-07:00"
+    },
+    {
+     "title": "Personalized Cozy Season Goose Fall Autumn Leaves Acorns Coffee Embroidered Sweatshirt",
+     "handle": "personalized-cozy-season-goose-fall-autumn-leaves-acorns-coffee-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:51-07:00"
+    },
+    {
+     "title": "Personalized in My Christmas Nana Era Goose Chicken Teapot Shelf Embroidered Sweatshirt",
+     "handle": "personalized-in-my-christmas-nana-era-goose-chicken-teapot-shelf-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:50-07:00"
+    },
+    {
+     "title": "Personalized I Require Books Reading Bear with Knife Embroidered Sweatshirt",
+     "handle": "personalized-i-require-books-reading-bear-with-knife-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:48-07:00"
+    },
+    {
+     "title": "Personalized Christmas Goose Stamp Tree Gift Wreath Coquette Bow Holiday Embroidered Sweatshirt",
+     "handle": "personalized-christmas-goose-stamp-tree-gift-wreath-coquette-bow-holiday-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:47-07:00"
+    },
+    {
+     "title": "Personalized Teacup Goose Cherry Basket Floral Frames Cottagecore Embroidered Sweatshirt",
+     "handle": "personalized-teacup-goose-cherry-basket-floral-frames-cottagecore-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:46-07:00"
+    },
+    {
+     "title": "Grandpa Goose on the Loose Duckling Embroidered Sweatshirt",
+     "handle": "grandpa-goose-on-the-loose-duckling-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:44-07:00"
+    },
+    {
+     "title": "Reel Cool Grandpa Bass Fish Embroidered Sweatshirt",
+     "handle": "reel-cool-grandpa-bass-fish-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
       "fishing",
-      "hoodie"
+      "gr-nhap-18",
+      "nguon-kin",
+      "sweatshirt"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T00:47:10-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:42-07:00"
     },
     {
-     "title": "Moonrise Crossing Hoodie With Face Cover",
-     "handle": "moonrise-crossing-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Personalized Bread Baking Goose Chef Hat Apron Sourdough Starter Embroidered Sweatshirt",
+     "handle": "personalized-bread-baking-goose-chef-hat-apron-sourdough-starter-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T00:45:17-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:41-07:00"
     },
     {
-     "title": "Cut Corn Wait Hoodie With Face Cover",
-     "handle": "cut-corn-wait-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Personalized Baking Geese Chef Hat Apron Gingerbread Cinnamon Roll Christmas Embroidered Sweatshirt",
+     "handle": "personalized-baking-geese-chef-hat-apron-gingerbread-cinnamon-roll-christmas-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T00:44:03-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:39-07:00"
     },
     {
-     "title": "Grey Light Teal Hoodie With Face Cover",
-     "handle": "grey-light-teal-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Frog Fishing Hat Bucket Hat Fishing Rod Bobber Cute Frog Embroidered Hat",
+     "handle": "frog-fishing-hat-bucket-hat-fishing-rod-bobber-cute-frog-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-23T00:21:18-07:00"
-    },
-    {
-     "title": "Wash Blitz Crew Hoodie With Face Cover",
-     "handle": "wash-blitz-crew-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
-     "tags": [
+      "es-mu-khong",
+      "es-v4",
       "fishing",
-      "hoodie"
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T00:18:52-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:38-07:00"
     },
     {
-     "title": "Moonrise Buck Hoodie With Face Cover",
-     "handle": "moonrise-buck-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Personalized Christmas Geese Santa Workshop Toy Train Sleigh Checklist Funny Goose Embroidered Sweatshirt",
+     "handle": "personalized-christmas-geese-santa-workshop-toy-train-sleigh-checklist-funny-goose-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hoodie",
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T00:17:43-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:36-07:00"
     },
     {
-     "title": "Quick Strike Legacy Hoodie With Face Cover",
-     "handle": "quick-strike-legacy-hoodie-with-face-cover",
-     "type": "Hoodie With Face Cover",
+     "title": "Personalized Baker Geese Four Chef Hats Aprons Bread Croissant Pie Embroidered Sweatshirt",
+     "handle": "personalized-baker-geese-four-chef-hats-aprons-bread-croissant-pie-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:35-07:00"
+    },
+    {
+     "title": "Personalized Halloween Geese Four Costumes Witch Vampire Mummy Pumpkin Embroidered Sweatshirt",
+     "handle": "personalized-halloween-geese-four-costumes-witch-vampire-mummy-pumpkin-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:33-07:00"
+    },
+    {
+     "title": "Personalized Flying Mallard Duck Moon Stars Cattails Embroidered Hat",
+     "handle": "personalized-flying-mallard-duck-moon-stars-cattails-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:31-07:00"
+    },
+    {
+     "title": "Personalized Flying Mallard Duck Embroidered Hat",
+     "handle": "personalized-flying-mallard-duck-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:30-07:00"
+    },
+    {
+     "title": "Personalized Halloween Animals Trick or Treat Haunted House Fox Raccoon Bear Bunny Embroidered Sweatshirt",
+     "handle": "personalized-halloween-animals-trick-or-treat-haunted-house-fox-raccoon-bear-bunny-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:28-07:00"
+    },
+    {
+     "title": "Camping Raccoon Backpack Lantern Mountain Forest Adventure Embroidered Sweatshirt",
+     "handle": "camping-raccoon-backpack-lantern-mountain-forest-adventure-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:26-07:00"
+    },
+    {
+     "title": "Personalized Deer Buck Pine Trees Sunburst Forest Wilderness Embroidered Hat",
+     "handle": "personalized-deer-buck-pine-trees-sunburst-forest-wilderness-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:25-07:00"
+    },
+    {
+     "title": "Personalized Deer Pine Trees Mountain Sunset Wilderness Embroidered Hat",
+     "handle": "personalized-deer-pine-trees-mountain-sunset-wilderness-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:23-07:00"
+    },
+    {
+     "title": "Personalized Frog Camping Fishing Campfire Pine Trees Moon Stars Embroidered Hat",
+     "handle": "personalized-frog-camping-fishing-campfire-pine-trees-moon-stars-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
       "fishing",
-      "hoodie"
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-23T00:14:46-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:22-07:00"
     },
     {
-     "title": "I Suck At Fishing T-shirt",
-     "handle": "i-suck-at-fishing-t-shirt",
-     "type": "T-Shirt",
+     "title": "Reel Cool Dad Fishing Hook Embroidered Hat",
+     "handle": "reel-cool-dad-fishing-hook-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-22T21:27:35-07:00"
-    },
-    {
-     "title": "First Woodie T-shirt",
-     "handle": "first-woodie-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-22T21:25:52-07:00"
-    },
-    {
-     "title": "Teaching the Point T-shirt",
-     "handle": "teaching-the-point-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-22T21:23:46-07:00"
-    },
-    {
-     "title": "Grip And Release T-shirt",
-     "handle": "grip-and-release-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-22T21:22:01-07:00"
-    },
-    {
-     "title": "Dove Opener Badge T-shirt",
-     "handle": "dove-opener-badge-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-22T21:19:10-07:00"
-    },
-    {
-     "title": "First Run Marker T-shirt",
-     "handle": "first-run-marker-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-22T21:16:41-07:00"
-    },
-    {
-     "title": "First Light Five Bar T-shirt",
-     "handle": "first-light-five-bar-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-22T21:02:39-07:00"
-    },
-    {
-     "title": "Turkey Opener Badge T-shirt",
-     "handle": "turkey-opener-badge-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-22T20:59:39-07:00"
-    },
-    {
-     "title": "First Retrieve Timber T-shirt",
-     "handle": "first-retrieve-timber-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-22T20:55:38-07:00"
-    },
-    {
-     "title": "First Light Stand T-shirt",
-     "handle": "first-light-stand-t-shirt",
-     "type": "T-Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "29.00",
-     "published_at": "2026-09-22T20:36:10-07:00"
-    },
-    {
-     "title": "Ocean Camo Swim Short",
-     "handle": "ocean-camo-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-09-15T01:50:46-07:00"
-    },
-    {
-     "title": "Bluewater Drift Swim Short",
-     "handle": "bluewater-drift-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-09-15T01:48:54-07:00"
-    },
-    {
-     "title": "Waterline Swim Short",
-     "handle": "waterline-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-09-15T00:51:19-07:00"
-    },
-    {
-     "title": "Waterline Camo Sun Hoodie",
-     "handle": "waterline-camo-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
+      "es-mu-khong",
+      "es-v4",
       "fishing",
-      "hoodie"
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "nguon-kin"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-09T02:26:16-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:21-07:00"
     },
     {
-     "title": "Black Grouper Camo Sun Hoodie",
-     "handle": "black-grouper-camo-sun-hoodie",
-     "type": "Hoodie",
+     "title": "Sweet Motherhood Goose Duck Floral Boots Embroidered Sweatshirt",
+     "handle": "sweet-motherhood-goose-duck-floral-boots-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "fishing",
-      "hoodie"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "59.00",
-     "published_at": "2026-09-09T02:12:43-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:19-07:00"
     },
     {
-     "title": "Speckled Trout Camo Sun Hoodie",
-     "handle": "speckled-trout-camo-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "fishing",
-      "hoodie"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-09T01:53:45-07:00"
-    },
-    {
-     "title": "Sunset Drift Sun Hoodie",
-     "handle": "sunset-drift-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "fishing",
-      "hoodie"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-09T01:26:06-07:00"
-    },
-    {
-     "title": "Blue Relic Sun Hoodie",
-     "handle": "blue-relic-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "fishing",
-      "hoodie"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-08T21:28:54-07:00"
-    },
-    {
-     "title": "Bluewater Drift Sun Hoodie",
-     "handle": "bluewater-drift-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "fishing",
-      "hoodie"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-08T20:19:41-07:00"
-    },
-    {
-     "title": "Blaze Ridge Camo Sun Hoodie",
-     "handle": "blaze-ridge-camo-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-08T20:15:38-07:00"
-    },
-    {
-     "title": "Coastal Shadows Sun Hoodie",
-     "handle": "coastal-shadows-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "fishing",
-      "hoodie"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-03T21:48:29-07:00"
-    },
-    {
-     "title": "Deepwood Camo Sun Hoodie",
-     "handle": "deepwood-camo-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-02T19:49:34-07:00"
-    },
-    {
-     "title": "Topographic Map Sun Hoodie",
-     "handle": "topographic-map-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-02T19:41:25-07:00"
-    },
-    {
-     "title": "Sand Pixel Sun Hoodie",
-     "handle": "sand-pixel-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-09-02T19:36:15-07:00"
-    },
-    {
-     "title": "Marshland Camo Sun Hoodie",
-     "handle": "marshland-camo-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-08-27T21:17:37-07:00"
-    },
-    {
-     "title": "Ridgewater Camo Sun Hoodie",
-     "handle": "ridgewater-camo-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-08-27T21:14:32-07:00"
-    },
-    {
-     "title": "Deer Woods Sun Hoodie",
-     "handle": "camou-sun-hoodie-sample",
-     "type": "Hoodie",
-     "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-08-27T21:13:47-07:00"
-    },
-    {
-     "title": "Ocean Camo Sun Hoodie",
-     "handle": "ocean-camo-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "fishing",
-      "hoodie"
-     ],
-     "price": "59.00",
-     "published_at": "2026-08-27T21:07:55-07:00"
-    },
-    {
-     "title": "Woodland Camo Sun Hoodie",
-     "handle": "woodland-camo-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-08-27T20:02:35-07:00"
-    },
-    {
-     "title": "Marsh Hawk Camo Sun Hoodie",
-     "handle": "marsh-hawk-camo-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "hoodie",
-      "hunting"
-     ],
-     "price": "59.00",
-     "published_at": "2026-08-27T20:00:21-07:00"
-    },
-    {
-     "title": "Wave Sun Hoodie",
-     "handle": "wave-sun-hoodie",
-     "type": "Hoodie",
-     "tags": [
-      "fishing",
-      "hoodie"
-     ],
-     "price": "59.00",
-     "published_at": "2026-08-24T02:39:05-07:00"
-    },
-    {
-     "title": "Marshland Camo Polo",
-     "handle": "marshland-camo-polo",
-     "type": "Men's Polo",
-     "tags": [
-      "hunting"
-     ],
-     "price": "50.00",
-     "published_at": "2026-08-11T01:31:27-07:00"
-    },
-    {
-     "title": "Woodland Camo Polo",
-     "handle": "woodland-camo-polo",
-     "type": "Men's Polo",
-     "tags": [
-      "hunting"
-     ],
-     "price": "50.00",
-     "published_at": "2026-08-11T01:25:00-07:00"
-    },
-    {
-     "title": "Wave Polo",
-     "handle": "wave-polo",
-     "type": "Men's Polo",
-     "tags": [
-      "fishing"
-     ],
-     "price": "50.00",
-     "published_at": "2026-08-11T01:22:38-07:00"
-    },
-    {
-     "title": "Heritage Current Polo",
-     "handle": "heritage-current-polo",
-     "type": "Men's Polo",
-     "tags": [
-      "fishing"
-     ],
-     "price": "50.00",
-     "published_at": "2026-08-11T01:12:12-07:00"
-    },
-    {
-     "title": "Bluewater Frenzy Polo",
-     "handle": "bluewater-frenzy-polo",
-     "type": "Men's Polo",
-     "tags": [
-      "fishing"
-     ],
-     "price": "50.00",
-     "published_at": "2026-08-11T01:07:35-07:00"
-    },
-    {
-     "title": "Bait Ball Swim Short",
-     "handle": "bait-ball-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-07-21T18:50:52-07:00"
-    },
-    {
-     "title": "Bluewater Frenzy Swim Short",
-     "handle": "bluewater-frenzy-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-07-21T18:42:18-07:00"
-    },
-    {
-     "title": "Gone Fishin’ Swim Short",
-     "handle": "gone-fishin-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-07-13T21:37:59-07:00"
-    },
-    {
-     "title": "Marlin Swim Short",
-     "handle": "marlin-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-07-13T21:27:42-07:00"
-    },
-    {
-     "title": "Coastal Shadows Button Shirt",
-     "handle": "coastal-shadows-button-shirt",
-     "type": "Men's Button Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "55.00",
-     "published_at": "2026-07-13T00:28:45-07:00"
-    },
-    {
-     "title": "Coastal Shadows Swim Short",
-     "handle": "coastal-shadows-swim-shorts",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-07-03T02:42:05-07:00"
-    },
-    {
-     "title": "Tuna Season Swim Short",
-     "handle": "tuna-season-swim-shorts",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-07-03T02:39:57-07:00"
-    },
-    {
-     "title": "Tuna Season Button Shirt",
-     "handle": "tuna-season-button-shirt",
-     "type": "Men's Button Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "55.00",
-     "published_at": "2026-07-03T02:33:44-07:00"
-    },
-    {
-     "title": "The Sailfish Button Shirt",
-     "handle": "the-sailfish-button-shirt",
-     "type": "Men's Button Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "55.00",
-     "published_at": "2026-07-03T02:26:50-07:00"
-    },
-    {
-     "title": "Mallard Marsh Button Shirt",
-     "handle": "mallard-marsh-button-shirt",
-     "type": "Men's Button Shirt",
-     "tags": [
-      "hunting"
-     ],
-     "price": "55.00",
-     "published_at": "2026-07-03T02:17:23-07:00"
-    },
-    {
-     "title": "Bait Ball Button Shirt",
-     "handle": "bait-ball-button-shirt",
-     "type": "Men's Button Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "55.00",
-     "published_at": "2026-07-03T02:14:34-07:00"
-    },
-    {
-     "title": "Bluewater Run Button Shirt",
-     "handle": "bluewater-run-button-shirt",
-     "type": "Men's Button Shirt",
-     "tags": [
-      "fishing"
-     ],
-     "price": "55.00",
-     "published_at": "2026-07-03T02:13:58-07:00"
-    },
-    {
-     "title": "Mallard Marsh Polo",
-     "handle": "mallard-marsh-polo",
-     "type": "Men's Polo",
-     "tags": [
-      "hunting"
-     ],
-     "price": "50.00",
-     "published_at": "2026-07-02T02:04:41-07:00"
-    },
-    {
-     "title": "The Sailfish Polo",
-     "handle": "the-sailfish-polo",
-     "type": "Men's Polo",
-     "tags": [
-      "fishing"
-     ],
-     "price": "50.00",
-     "published_at": "2026-07-01T02:27:43-07:00"
-    },
-    {
-     "title": "Coastal Shadows Polo",
-     "handle": "coastal-shadows",
-     "type": "Men's Polo",
-     "tags": [
-      "fishing"
-     ],
-     "price": "50.00",
-     "published_at": "2026-07-01T02:17:13-07:00"
-    },
-    {
-     "title": "Bait Ball Polo",
-     "handle": "bait-ball-polo",
-     "type": "Men's Polo",
-     "tags": [
-      "fishing"
-     ],
-     "price": "50.00",
-     "published_at": "2026-07-01T01:58:39-07:00"
-    },
-    {
-     "title": "Smallmouth Strike",
-     "handle": "smallmouth-strike",
+     "title": "Wolf Howling Moon Mountain Pine Trees Pack Embroidered Hat",
+     "handle": "wolf-howling-moon-mountain-pine-trees-pack-embroidered-hat",
      "type": "Hat",
      "tags": [
-      "fishing"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "34.00",
-     "published_at": "2026-07-01T01:45:43-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:17-07:00"
     },
     {
-     "title": "Pheasant Opener",
-     "handle": "pheasant-opener",
+     "title": "Personalized Fall Geese Pumpkin Patch Wagon Harvest Flowers Embroidered Sweatshirt",
+     "handle": "personalized-fall-geese-pumpkin-patch-wagon-harvest-flowers-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:16-07:00"
+    },
+    {
+     "title": "Personalized Cottagecore Goose Tea Set Strawberry Scallop Medallion Custom Name Sleeve Embroidered Sweatshirt",
+     "handle": "personalized-cottagecore-goose-tea-set-strawberry-scallop-medallion-custom-name-sleeve-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:14-07:00"
+    },
+    {
+     "title": "Personalized Cottagecore Goose Teapot Strawberry Floral Oval Frames Embroidered Sweatshirt",
+     "handle": "personalized-cottagecore-goose-teapot-strawberry-floral-oval-frames-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:12-07:00"
+    },
+    {
+     "title": "My Favorite People Call Me Papa Camping Campfire Mountains Trees Embroidered Hat",
+     "handle": "my-favorite-people-call-me-papa-camping-campfire-mountains-trees-embroidered-hat",
      "type": "Hat",
      "tags": [
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "34.00",
-     "published_at": "2026-06-30T02:10:29-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:10-07:00"
     },
     {
-     "title": "Tail Water King",
-     "handle": "tail-water-king",
-     "type": "Rope Hat",
+     "title": "Oktoberfest Geese Accordion Pretzel Beer Dirndl Tuba Music Embroidered Sweatshirt",
+     "handle": "oktoberfest-geese-accordion-pretzel-beer-dirndl-tuba-music-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "fishing"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "34.00",
-     "published_at": "2026-06-29T21:53:33-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:09-07:00"
     },
     {
-     "title": "Grey Ghost",
-     "handle": "grey-ghost",
+     "title": "Personalized Duck Hunting Dad American Flag Mallard Embroidered Hat",
+     "handle": "personalized-duck-hunting-dad-american-flag-mallard-embroidered-hat",
      "type": "Hat",
      "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-29T21:51:31-07:00"
-    },
-    {
-     "title": "Loyal Retriever",
-     "handle": "loyal-retriever",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-29T21:48:58-07:00"
-    },
-    {
-     "title": "On Point Setter",
-     "handle": "on-point-setter",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-29T21:12:23-07:00"
-    },
-    {
-     "title": "Wild Boar",
-     "handle": "wild-boar",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-28T19:47:45-07:00"
-    },
-    {
-     "title": "Early Teal",
-     "handle": "early-teal",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-28T19:35:25-07:00"
-    },
-    {
-     "title": "Topwater Strike",
-     "handle": "topwater-strike",
-     "type": "Hat",
-     "tags": [
-      "fishing"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-28T19:30:30-07:00"
-    },
-    {
-     "title": "German Shorthair Pointer",
-     "handle": "german-shorthair",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-25T18:20:10-07:00"
-    },
-    {
-     "title": "Hand Tied",
-     "handle": "hand-tied",
-     "type": "Hat",
-     "tags": [
-      "fishing"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-25T18:17:08-07:00"
-    },
-    {
-     "title": "Rock The Catch",
-     "handle": "rock-the-catch",
-     "type": "Hat",
-     "tags": [
-      "fishing"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-25T18:15:02-07:00"
-    },
-    {
-     "title": "Brown Trout",
-     "handle": "brown-trout",
-     "type": "Hat",
-     "tags": [
-      "fishing"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-25T18:12:10-07:00"
-    },
-    {
-     "title": "Brookie King",
-     "handle": "brookie-king",
-     "type": "Hat",
-     "tags": [
-      "fishing"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-25T00:26:51-07:00"
-    },
-    {
-     "title": "Copper Tail Redfish",
-     "handle": "copper-tail-redfish",
-     "type": "Hat",
-     "tags": [
-      "fishing"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-25T00:23:33-07:00"
-    },
-    {
-     "title": "King Mackerel Strike",
-     "handle": "king-mackerel-strike",
-     "type": "Rope Hat",
-     "tags": [
-      "fishing"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-25T00:08:27-07:00"
-    },
-    {
-     "title": "Brittany Spaniel",
-     "handle": "brittany-spaniel",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-25T00:06:27-07:00"
-    },
-    {
-     "title": "Tarpon Season",
-     "handle": "tarpon-season",
-     "type": "Hat",
-     "tags": [
-      "fishing"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-25T00:04:50-07:00"
-    },
-    {
-     "title": "Greater Kudu",
-     "handle": "greater-kudu",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-25T00:01:01-07:00"
-    },
-    {
-     "title": "Rainbow Trout",
-     "handle": "rainbow-trout",
-     "type": "Hat",
-     "tags": [
-      "fishing"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-24T23:43:43-07:00"
-    },
-    {
-     "title": "Skinny Water",
-     "handle": "skinny-water",
-     "type": "Hat",
-     "tags": [
-      "fishing"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-24T23:38:40-07:00"
-    },
-    {
-     "title": "Boykin Spaniel",
-     "handle": "boykin-spaniel",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-24T21:52:49-07:00"
-    },
-    {
-     "title": "Black Lab Retrieve",
-     "handle": "black-lab-retrieve",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-24T21:47:36-07:00"
-    },
-    {
-     "title": "Golden Retriever",
-     "handle": "golden-retriever",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-24T21:45:26-07:00"
-    },
-    {
-     "title": "Stars & Scales",
-     "handle": "stars-scales",
-     "type": "Hat",
-     "tags": [
-      "fishing",
-      "patriotic"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-24T21:43:01-07:00"
-    },
-    {
-     "title": "Offshore Division",
-     "handle": "offshore-division",
-     "type": "Hat",
-     "tags": [
-      "fishing"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-24T21:25:01-07:00"
-    },
-    {
-     "title": "Offshore Marlin",
-     "handle": "offshore-marlin",
-     "type": "Hat",
-     "tags": [
-      "fishing"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-24T21:13:01-07:00"
-    },
-    {
-     "title": "The Sailfish Swim Short",
-     "handle": "the-sailfish-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-06-24T03:18:56-07:00"
-    },
-    {
-     "title": "Hooked on Trout Swim Short",
-     "handle": "hooked-on-trout-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-06-24T03:17:25-07:00"
-    },
-    {
-     "title": "Fly Fishing Swim Short",
-     "handle": "fly-fishing-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-06-24T03:16:26-07:00"
-    },
-    {
-     "title": "'Merica Swim Short",
-     "handle": "merica-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "patriotic"
-     ],
-     "price": "39.00",
-     "published_at": "2026-06-23T23:50:20-07:00"
-    },
-    {
-     "title": "Bluewater Run Swim Short",
-     "handle": "bluewater-run-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-06-23T21:30:38-07:00"
-    },
-    {
-     "title": "Off The Hook Swim Short",
-     "handle": "off-the-hook-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "fishing"
-     ],
-     "price": "39.00",
-     "published_at": "2026-06-23T20:54:27-07:00"
-    },
-    {
-     "title": "Timber Shadow Swim Short",
-     "handle": "timber-shadow-swim-short",
-     "type": "Swim Short",
-     "tags": [
-      "hunting"
-     ],
-     "price": "39.00",
-     "published_at": "2026-06-23T20:42:05-07:00"
-    },
-    {
-     "title": "Turkey Camp",
-     "handle": "turkey-camp-hat",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-23T03:05:52-07:00"
-    },
-    {
-     "title": "The Mallard",
-     "handle": "the-mallard-hat",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-23T03:00:19-07:00"
-    },
-    {
-     "title": "Pintail Drake",
-     "handle": "pintail-drake-hat",
-     "type": "Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-23T02:59:03-07:00"
-    },
-    {
-     "title": "Rut Vigil",
-     "handle": "rut-vigil-hat",
-     "type": "Rope Hat",
-     "tags": [
-      "hunting"
-     ],
-     "price": "34.00",
-     "published_at": "2026-06-23T02:57:35-07:00"
-    },
-    {
-     "title": "1776 Flyway",
-     "handle": "1776-flyway-hat",
-     "type": "Hat",
-     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
       "hunting",
-      "patriotic"
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "34.00",
-     "published_at": "2026-06-23T02:56:35-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:07-07:00"
     },
     {
-     "title": "English Cocker Flusher",
-     "handle": "english-cocker-flusher-hat",
+     "title": "Personalized Fishing Dad American Flag Bass Fish Captain Embroidered Hat",
+     "handle": "personalized-fishing-dad-american-flag-bass-fish-captain-embroidered-hat",
      "type": "Hat",
      "tags": [
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hb",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hb",
+      "nguon-kin"
      ],
-     "price": "34.00",
-     "published_at": "2026-06-23T02:55:32-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:41:06-07:00"
     },
     {
-     "title": "Coyote Moon",
-     "handle": "coyote-moon-hat",
+     "title": "Halloween Two Ghosts Campfire Marshmallow Tent Forest Moon Stars Embroidered Sweatshirt",
+     "handle": "halloween-two-ghosts-campfire-marshmallow-tent-forest-moon-stars-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:04-07:00"
+    },
+    {
+     "title": "Personalized Koi Fish Lotus Water Lily Lily Pad Stars Japanese Pond Embroidered Sweatshirt",
+     "handle": "personalized-koi-fish-lotus-water-lily-lily-pad-stars-japanese-pond-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "fishing",
+      "gr-nhap-18",
+      "nguon-kin",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:03-07:00"
+    },
+    {
+     "title": "Personalized Koi Fish Yin Yang Lotus Water Lily Japanese Pond Embroidered Sweatshirt",
+     "handle": "personalized-koi-fish-yin-yang-lotus-water-lily-japanese-pond-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "fishing",
+      "gr-nhap-18",
+      "nguon-kin",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:01-07:00"
+    },
+    {
+     "title": "Personalized Camping Geese Campfire Tent Fishing Embroidered Sweatshirt",
+     "handle": "personalized-camping-geese-campfire-tent-fishing-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "fishing",
+      "gr-nhap-18",
+      "nguon-kin",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:41:00-07:00"
+    },
+    {
+     "title": "Personalized Cool Grandma Club EST 2025 Goose Cooking Embroidered Sweatshirt",
+     "handle": "personalized-cool-grandma-club-est-2025-goose-cooking-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:58-07:00"
+    },
+    {
+     "title": "Personalized Halloween Witch Ghost Goose Pumpkin Black Cat Floral Embroidered Sweatshirt",
+     "handle": "personalized-halloween-witch-ghost-goose-pumpkin-black-cat-floral-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:56-07:00"
+    },
+    {
+     "title": "Fall Geese Trio Pumpkin Basket Floral Autumn Harvest Embroidered Sweatshirt",
+     "handle": "fall-geese-trio-pumpkin-basket-floral-autumn-harvest-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:55-07:00"
+    },
+    {
+     "title": "Personalized Fall Framed Fox Mushroom Goose Wildflower Jar Autumn Embroidered Sweatshirt",
+     "handle": "personalized-fall-framed-fox-mushroom-goose-wildflower-jar-autumn-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:53-07:00"
+    },
+    {
+     "title": "Personalized Fall Framed Goose Coffee Book Harvest Basket Autumn Embroidered Sweatshirt",
+     "handle": "personalized-fall-framed-goose-coffee-book-harvest-basket-autumn-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:52-07:00"
+    },
+    {
+     "title": "Personalized Engineer Duck Aerospace Rocket Satellite Embroidered Sweatshirt",
+     "handle": "personalized-engineer-duck-aerospace-rocket-satellite-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:51-07:00"
+    },
+    {
+     "title": "Personalized Baking Geese Four Baker Goose Whisk Rolling Pin Cupcake Flour Embroidered Sweatshirt",
+     "handle": "personalized-baking-geese-four-baker-goose-whisk-rolling-pin-cupcake-flour-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:49-07:00"
+    },
+    {
+     "title": "Personalized Aerospace Engineer Geese Submarine Robot Diver Embroidered Sweatshirt",
+     "handle": "personalized-aerospace-engineer-geese-submarine-robot-diver-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:48-07:00"
+    },
+    {
+     "title": "Floral Wolf Wildflower Botanical Nature Embroidered Sweatshirt",
+     "handle": "floral-wolf-wildflower-botanical-nature-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:47-07:00"
+    },
+    {
+     "title": "Halloween Geese Pumpkin Jack-O-Lantern Witch Hat Fall Leaves Moon Embroidered Sweatshirt",
+     "handle": "halloween-geese-pumpkin-jack-o-lantern-witch-hat-fall-leaves-moon-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:45-07:00"
+    },
+    {
+     "title": "Mama Duck Garden Ducklings Growing with Mama Embroidered Sweatshirt",
+     "handle": "mama-duck-garden-ducklings-growing-with-mama-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:44-07:00"
+    },
+    {
+     "title": "Personalized Halloween Geese Vampire Mummy Witch Pumpkin Floral Embroidered Sweatshirt",
+     "handle": "personalized-halloween-geese-vampire-mummy-witch-pumpkin-floral-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:42-07:00"
+    },
+    {
+     "title": "Personalized Mountain Forest River Pine Trees Scenic Landscape Embroidered Hat",
+     "handle": "personalized-mountain-forest-river-pine-trees-scenic-landscape-embroidered-hat",
      "type": "Hat",
      "tags": [
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "34.00",
-     "published_at": "2026-06-23T02:53:56-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:40:40-07:00"
     },
     {
-     "title": "Bass Strike",
-     "handle": "bass-strike",
+     "title": "Personalized Camping Geese Campfire Tent Hiking Embroidered Sweatshirt",
+     "handle": "personalized-camping-geese-campfire-tent-hiking-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:39-07:00"
+    },
+    {
+     "title": "Personalized Fall Autumn Geese Pumpkin Coffee Leaves Embroidered Sweatshirt",
+     "handle": "personalized-fall-autumn-geese-pumpkin-coffee-leaves-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:37-07:00"
+    },
+    {
+     "title": "Fishing Rod Fish Catch Outdoor Angler Embroidered Hat",
+     "handle": "fishing-rod-fish-catch-outdoor-angler-embroidered-hat",
      "type": "Hat",
      "tags": [
-      "fishing"
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "34.00",
-     "published_at": "2026-06-23T02:52:17-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:40:36-07:00"
     },
     {
-     "title": "Archery Elk",
-     "handle": "archery-elk-hat",
+     "title": "Personalized Bald Eagle Fly Free Custom Name Year Embroidered Hat",
+     "handle": "personalized-bald-eagle-fly-free-custom-name-year-embroidered-hat",
      "type": "Hat",
      "tags": [
-      "hunting"
+      "es-mu-trong-ten-nam",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "34.00",
-     "published_at": "2026-06-23T02:35:50-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:40:35-07:00"
     },
     {
-     "title": "Gone Fishin’ Button Shirt",
-     "handle": "gone-fishin-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Personalized Mallard Duck Catching Fish Cattail Marsh Embroidered Hat",
+     "handle": "personalized-mallard-duck-catching-fish-cattail-marsh-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "fishing"
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-22T00:31:46-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:40:33-07:00"
     },
     {
-     "title": "Marlin Button Shirt",
-     "handle": "marlin-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Personalized USA Land of the Free Bald Eagle Fireworks Stars Embroidered Sweatshirt",
+     "handle": "personalized-usa-land-of-the-free-bald-eagle-fireworks-stars-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "fishing"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-22T00:30:15-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:32-07:00"
     },
     {
-     "title": "Hooked on Trout Button Shirt",
-     "handle": "hooked-on-trout-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Personalized Two Frogs Fishing Dock Lake Scene Embroidered Hat",
+     "handle": "personalized-two-frogs-fishing-dock-lake-scene-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "fishing"
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-22T00:13:53-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:40:31-07:00"
     },
     {
-     "title": "Off The Hook Button Shirt",
-     "handle": "off-the-hook-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Floral Moose Wildflower Botanical Folk Art Embroidered Sweatshirt",
+     "handle": "floral-moose-wildflower-botanical-folk-art-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "fishing"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-22T00:12:26-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:29-07:00"
     },
     {
-     "title": "Forestbound Button Shirt",
-     "handle": "forestbound-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Thanksgiving Floral Turkey Autumn Leaves Wildflowers Embroidered Sweatshirt",
+     "handle": "thanksgiving-floral-turkey-autumn-leaves-wildflowers-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-22T00:08:26-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:27-07:00"
     },
     {
-     "title": "Marsh Hawk Camo Button Shirt",
-     "handle": "marsh-hawk-camo-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Floral Turkey Thanksgiving Wildflower Boho Embroidered Sweatshirt",
+     "handle": "floral-turkey-thanksgiving-wildflower-boho-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-21T23:47:34-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:25-07:00"
     },
     {
-     "title": "Timber Shadow Button Shirt",
-     "handle": "timber-shadow-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Koi Fish Yin Yang Cherry Blossom Embroidered Hat",
+     "handle": "koi-fish-yin-yang-cherry-blossom-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-21T21:56:47-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:40:24-07:00"
     },
     {
-     "title": "Buck Trail Button Shirt",
-     "handle": "buck-trail-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Cozy Cottage Goose Teacup Yarn Basket Pie Floral Stamp Embroidered Sweatshirt",
+     "handle": "cozy-cottage-goose-teacup-yarn-basket-pie-floral-stamp-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-21T21:55:14-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:22-07:00"
     },
     {
-     "title": "Wild Sign Button Shirt",
-     "handle": "wild-sign-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Personalized Bald Eagle American Flag Floral Wreath Patriotic Embroidered Hat",
+     "handle": "personalized-bald-eagle-american-flag-floral-wreath-patriotic-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "hat",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-21T21:48:59-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:40:20-07:00"
     },
     {
-     "title": "Bird Dog Button Shirt",
-     "handle": "bird-dog-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Personalized Firefighter Goose Squad Fire Hydrant Hose Ladder Rescue Dog Embroidered Sweatshirt",
+     "handle": "personalized-firefighter-goose-squad-fire-hydrant-hose-ladder-rescue-dog-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-21T21:44:28-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:19-07:00"
     },
     {
-     "title": "Marsh Flight Button Shirt",
-     "handle": "marsh-flight-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Halloween Geese Costumes Mummy Pumpkin Ghost Witch Floral Embroidered Sweatshirt",
+     "handle": "halloween-geese-costumes-mummy-pumpkin-ghost-witch-floral-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-21T21:41:18-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:17-07:00"
     },
     {
-     "title": "Loyal Friend Button Shirt",
-     "handle": "loyal-friend-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Personalized Halloween Geese Costumes Skeleton Scarecrow Ghost Witch Floral Embroidered Sweatshirt",
+     "handle": "personalized-halloween-geese-costumes-skeleton-scarecrow-ghost-witch-floral-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-21T21:02:07-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:16-07:00"
     },
     {
-     "title": "Buck Fever Button Shirt",
-     "handle": "buck-fever-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Personalized Halloween Geese Costumes Vampire Candy Corn Witch Bat Floral Embroidered Sweatshirt",
+     "handle": "personalized-halloween-geese-costumes-vampire-candy-corn-witch-bat-floral-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-21T20:59:07-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:14-07:00"
     },
     {
-     "title": "Marshland Button Shirt",
-     "handle": "marshland-button-shirt",
-     "type": "Men's Button Shirt",
+     "title": "Personalized Camping Pine Tree Campfire Backpack Mountain Moon Embroidered Sweatshirt",
+     "handle": "personalized-camping-pine-tree-campfire-backpack-mountain-moon-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "55.00",
-     "published_at": "2026-06-21T20:04:20-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:12-07:00"
     },
     {
-     "title": "Fly Fishing Polo",
-     "handle": "fly-fishing-polo",
-     "type": "Men's Polo",
+     "title": "Red Panda Holding Fish Cute Kawaii Embroidered Hat",
+     "handle": "red-panda-holding-fish-cute-kawaii-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "fishing"
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-21T19:51:06-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:40:10-07:00"
     },
     {
-     "title": "Bluewater Run Polo",
-     "handle": "bluewater-run-polo",
-     "type": "Men's Polo",
+     "title": "Otter Reading Book Floating River Cattails Leaves Embroidered Hat",
+     "handle": "otter-reading-book-floating-river-cattails-leaves-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "fishing"
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-21T19:47:42-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:40:09-07:00"
     },
     {
-     "title": "Tuna Season Polo",
-     "handle": "tuna-season-polo",
-     "type": "Men's Polo",
+     "title": "Gardening Geese Watering Can Flower Pot Shovel Wheelbarrow Embroidered Sweatshirt",
+     "handle": "gardening-geese-watering-can-flower-pot-shovel-wheelbarrow-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "fishing"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-21T19:45:01-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:07-07:00"
     },
     {
-     "title": "Gone Fishin’ Polo",
-     "handle": "gone-fishin",
-     "type": "Men's Polo",
+     "title": "Personalized Firefighter Geese Squad Hose Axe Ladder Fire Extinguisher Embroidered Sweatshirt",
+     "handle": "personalized-firefighter-geese-squad-hose-axe-ladder-fire-extinguisher-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "fishing"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-16T01:01:38-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:05-07:00"
     },
     {
-     "title": "Marlin Polo",
-     "handle": "marlin-polo",
-     "type": "Men's Polo",
+     "title": "Personalized Strawberry Goose Trio Jam Jar Cute Duck Embroidered Sweatshirt",
+     "handle": "personalized-strawberry-goose-trio-jam-jar-cute-duck-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "fishing"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-16T00:57:55-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:04-07:00"
     },
     {
-     "title": "Hooked on Trout Polo",
-     "handle": "hooked-on-trout",
-     "type": "Men's Polo",
+     "title": "Personalized Firefighter Duck Off to Fight Fires Hose Flames Embroidered Sweatshirt",
+     "handle": "personalized-firefighter-duck-off-to-fight-fires-hose-flames-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "fishing"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-11T20:49:52-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:40:02-07:00"
     },
     {
-     "title": "Timber Shadow Polo",
-     "handle": "timber-shadow",
-     "type": "Men's Polo",
+     "title": "Great Egret Catching Fish Crescent Moon Stars Marsh Reeds Embroidered Hat",
+     "handle": "great-egret-catching-fish-crescent-moon-stars-marsh-reeds-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-10T01:53:12-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:40:01-07:00"
     },
     {
-     "title": "Marsh Hawk Camo Polo",
-     "handle": "marsh-hawk-camo",
-     "type": "Men's Polo",
+     "title": "Sea Otter Holding Fish Water Ripple Embroidered Hat",
+     "handle": "sea-otter-holding-fish-water-ripple-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-10T01:31:41-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:40:00-07:00"
     },
     {
-     "title": "Wild Sign Polo",
-     "handle": "wild-sign",
-     "type": "Men's Polo",
+     "title": "Personalized Fishing Goose Vest Rod Dock Tackle Box Kayak Cooler Embroidered Sweatshirt",
+     "handle": "personalized-fishing-goose-vest-rod-dock-tackle-box-kayak-cooler-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "fishing",
+      "gr-nhap-18",
+      "nguon-kin",
+      "sweatshirt"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-10T01:25:51-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:58-07:00"
     },
     {
-     "title": "Off The Hook Polo",
-     "handle": "off-the-hook",
-     "type": "Men's Polo",
+     "title": "Personalized Winter Goose Snowshoe Cabin Fireplace Snowflakes Embroidered Sweatshirt",
+     "handle": "personalized-winter-goose-snowshoe-cabin-fireplace-snowflakes-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "fishing"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-10T00:32:12-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:57-07:00"
     },
     {
-     "title": "Bird Dog Polo",
-     "handle": "bird-dog",
-     "type": "Men's Polo",
+     "title": "Personalized Tropical Beach Seashell Starfish Hibiscus Pineapple Fish Sailboat Embroidered Sweatshirt",
+     "handle": "personalized-tropical-beach-seashell-starfish-hibiscus-pineapple-fish-sailboat-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "fishing",
+      "gr-nhap-18",
+      "nguon-kin",
+      "sweatshirt"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-10T00:25:43-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:55-07:00"
     },
     {
-     "title": "Forestbound Polo",
-     "handle": "forestbound",
-     "type": "Men's Polo",
+     "title": "Personalized Halloween Skeleton Fish Witch Hat Pumpkin Bats Spider Web Embroidered Sweatshirt",
+     "handle": "personalized-halloween-skeleton-fish-witch-hat-pumpkin-bats-spider-web-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "fishing",
+      "gr-nhap-18",
+      "nguon-kin",
+      "sweatshirt"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-10T00:20:25-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:54-07:00"
     },
     {
-     "title": "Marsh Flight Polo",
-     "handle": "marsh-flight",
-     "type": "Men's Polo",
+     "title": "Halloween Skeleton Fish Witch Hat Jack-o-Lantern Pumpkins Embroidered Hat",
+     "handle": "halloween-skeleton-fish-witch-hat-jack-o-lantern-pumpkins-embroidered-hat",
+     "type": "Hat",
      "tags": [
-      "hunting"
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-09T21:13:18-07:00"
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:52-07:00"
     },
     {
-     "title": "Loyal Friend Polo",
-     "handle": "loyal-friend",
-     "type": "Men's Polo",
+     "title": "Personalized Tennis Duck You Just Got Served Embroidered Sweatshirt",
+     "handle": "personalized-tennis-duck-you-just-got-served-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-09T21:10:08-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:50-07:00"
     },
     {
-     "title": "Buck Fever Polo",
-     "handle": "buck-fever",
-     "type": "Men's Polo",
+     "title": "Personalized Camping Pine Tree Tent Campfire Backpack Wildflower Embroidered Sweatshirt",
+     "handle": "personalized-camping-pine-tree-tent-campfire-backpack-wildflower-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-09T21:08:37-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:49-07:00"
     },
     {
-     "title": "Buck Trail Polo",
-     "handle": "buck-trail",
-     "type": "Men's Polo",
+     "title": "Personalized Camping Nature Acorn Tent Wildflower Hiking Boots Mushroom Embroidered Sweatshirt",
+     "handle": "personalized-camping-nature-acorn-tent-wildflower-hiking-boots-mushroom-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-09T20:56:22-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:48-07:00"
     },
     {
-     "title": "Marshland Polo",
-     "handle": "marshland",
-     "type": "Men's Polo",
+     "title": "Personalized Black Bear Butterfly Pine Trees Forest Scene Left Chest Embroidered Sweatshirt",
+     "handle": "personalized-black-bear-butterfly-pine-trees-forest-scene-left-chest-embroidered-sweatshirt",
+     "type": "Sweatshirt",
      "tags": [
-      "hunting"
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
      ],
-     "price": "50.00",
-     "published_at": "2026-06-04T03:11:44-07:00"
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:46-07:00"
+    },
+    {
+     "title": "Personalized Sewciopath Goose Sewing Machine Embroidered Sweatshirt",
+     "handle": "personalized-sewciopath-goose-sewing-machine-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:44-07:00"
+    },
+    {
+     "title": "Personalized Woodland Animals Bear Fox Bunny Squirrel Mouse Fireflies Moon Night Embroidered Sweatshirt",
+     "handle": "personalized-woodland-animals-bear-fox-bunny-squirrel-mouse-fireflies-moon-night-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:42-07:00"
+    },
+    {
+     "title": "Personalized Common Loon Lake Pine Trees Crescent Moon Embroidered Sweatshirt",
+     "handle": "personalized-common-loon-lake-pine-trees-crescent-moon-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:41-07:00"
+    },
+    {
+     "title": "Campfire Mama Raccoon Camping Chair Coffee Mug Pine Trees Embroidered Sweatshirt",
+     "handle": "campfire-mama-raccoon-camping-chair-coffee-mug-pine-trees-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:39-07:00"
+    },
+    {
+     "title": "Personalized Otter Reading Book Forest Log Embroidered Hat",
+     "handle": "personalized-otter-reading-book-forest-log-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:38-07:00"
+    },
+    {
+     "title": "Personalized Rainbow Trout Jumping Waves Fishing Embroidered Hat",
+     "handle": "personalized-rainbow-trout-jumping-waves-fishing-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hb",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hb",
+      "nguon-kin"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:36-07:00"
+    },
+    {
+     "title": "Personalized Grizzly Bear Pine Trees Forest Nature Embroidered Hat",
+     "handle": "personalized-grizzly-bear-pine-trees-forest-nature-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:35-07:00"
+    },
+    {
+     "title": "Personalized Rainbow Trout Duo Fly Fishing Waves Embroidered Hat",
+     "handle": "personalized-rainbow-trout-duo-fly-fishing-waves-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:33-07:00"
+    },
+    {
+     "title": "Personalized Black Bear Pine Forest Moon Night Scene Embroidered Two-Tone Hat",
+     "handle": "personalized-black-bear-pine-forest-moon-night-scene-embroidered-two-tone-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hp5",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hp5",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "32.95",
+     "published_at": "2026-10-23T01:39:32-07:00"
+    },
+    {
+     "title": "Personalized Fishing Trout Jumping Mountain Lake Sunset Scene Embroidered Two-Tone Hat",
+     "handle": "personalized-fishing-trout-jumping-mountain-lake-sunset-scene-embroidered-two-tone-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hp5",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hp5",
+      "nguon-kin"
+     ],
+     "price": "32.95",
+     "published_at": "2026-10-23T01:39:30-07:00"
+    },
+    {
+     "title": "Personalized Bear Mountain Forest Wilderness Scene Embroidered Hat",
+     "handle": "personalized-bear-mountain-forest-wilderness-scene-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:29-07:00"
+    },
+    {
+     "title": "Personalized Mountain Forest River Sun Pine Trees Nature Embroidered Hat",
+     "handle": "personalized-mountain-forest-river-sun-pine-trees-nature-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:27-07:00"
+    },
+    {
+     "title": "Personalized Raccoon Campfire Mountain Sunset Camping Embroidered Sweatshirt",
+     "handle": "personalized-raccoon-campfire-mountain-sunset-camping-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:26-07:00"
+    },
+    {
+     "title": "Personalized Raccoon Campfire Mountain Lake Sunset Camping Embroidered Sweatshirt",
+     "handle": "personalized-raccoon-campfire-mountain-lake-sunset-camping-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:25-07:00"
+    },
+    {
+     "title": "Out of Breath Hiking Society Raccoon Hiker Forest Embroidered Sweatshirt",
+     "handle": "out-of-breath-hiking-society-raccoon-hiker-forest-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:23-07:00"
+    },
+    {
+     "title": "Hiking Raccoon Backpack Pine Trees Nature Adventure Embroidered Sweatshirt",
+     "handle": "hiking-raccoon-backpack-pine-trees-nature-adventure-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:22-07:00"
+    },
+    {
+     "title": "Fox Mushroom Forest Cottagecore Woodland Embroidered Hat",
+     "handle": "fox-mushroom-forest-cottagecore-woodland-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hb",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hb",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:21-07:00"
+    },
+    {
+     "title": "Personalized Bass Fishing Rod Lake Pine Trees Scene Embroidered Sweatshirt",
+     "handle": "personalized-bass-fishing-rod-lake-pine-trees-scene-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "fishing",
+      "gr-nhap-18",
+      "nguon-kin",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:19-07:00"
+    },
+    {
+     "title": "Compass Rose Mountain Sunrise Adventure Embroidered Hat",
+     "handle": "compass-rose-mountain-sunrise-adventure-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:17-07:00"
+    },
+    {
+     "title": "Camping Tent Campfire Pine Trees Moon Night Scene Embroidered Hat",
+     "handle": "camping-tent-campfire-pine-trees-moon-night-scene-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:16-07:00"
+    },
+    {
+     "title": "Largemouth Bass Jumping Fishing Hook Splash Embroidered Hat",
+     "handle": "largemouth-bass-jumping-fishing-hook-splash-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:14-07:00"
+    },
+    {
+     "title": "Raccoon Hiking Backpack Pine Trees Outdoor Adventure Embroidered Hat",
+     "handle": "raccoon-hiking-backpack-pine-trees-outdoor-adventure-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hb",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hb",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:12-07:00"
+    },
+    {
+     "title": "Sleeping Fox Mushrooms Forest Nature Embroidered Hat",
+     "handle": "sleeping-fox-mushrooms-forest-nature-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:11-07:00"
+    },
+    {
+     "title": "Sleeping Fox Mushrooms Forest Cottagecore Embroidered Two-Tone Hat",
+     "handle": "sleeping-fox-mushrooms-forest-cottagecore-embroidered-two-tone-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hp5",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hp5",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "32.95",
+     "published_at": "2026-10-23T01:39:10-07:00"
+    },
+    {
+     "title": "Fox Mushroom Forest Nature Embroidered Hat",
+     "handle": "fox-mushroom-forest-nature-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hb",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hb",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:07-07:00"
+    },
+    {
+     "title": "Hiking Bear Backpack Pine Trees Sun Outdoor Adventure Embroidered Hat",
+     "handle": "hiking-bear-backpack-pine-trees-sun-outdoor-adventure-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:06-07:00"
+    },
+    {
+     "title": "Bear Campfire Pine Trees Crescent Moon Outdoor Camping Embroidered Hat",
+     "handle": "bear-campfire-pine-trees-crescent-moon-outdoor-camping-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:04-07:00"
+    },
+    {
+     "title": "Fox Campfire Pine Tree Woodland Outdoor Embroidered Hat",
+     "handle": "fox-campfire-pine-tree-woodland-outdoor-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:39:03-07:00"
+    },
+    {
+     "title": "Personalized Camping Otter Campfire Tent Forest Moon Stars Embroidered Sweatshirt",
+     "handle": "personalized-camping-otter-campfire-tent-forest-moon-stars-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:01-07:00"
+    },
+    {
+     "title": "Personalized Raccoon Hiker Camping Map Pine Trees Embroidered Sweatshirt",
+     "handle": "personalized-raccoon-hiker-camping-map-pine-trees-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:39:00-07:00"
+    },
+    {
+     "title": "Personalized Hiking Raccoon Backpack Forest Adventure Embroidered Sweatshirt",
+     "handle": "personalized-hiking-raccoon-backpack-forest-adventure-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:58-07:00"
+    },
+    {
+     "title": "Personalized Off-Road 4X4 Adventure Mountain Pine Trees Sun Embroidered Sweatshirt",
+     "handle": "personalized-off-road-4x4-adventure-mountain-pine-trees-sun-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:57-07:00"
+    },
+    {
+     "title": "Personalized Fox Botanical Wreath Mushroom Acorn Fall Embroidered Hat",
+     "handle": "personalized-fox-botanical-wreath-mushroom-acorn-fall-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:55-07:00"
+    },
+    {
+     "title": "Wild Camping Nature Scene Letter Fill Mountains Trees Tent Campfire Embroidered Sweatshirt",
+     "handle": "wild-camping-nature-scene-letter-fill-mountains-trees-tent-campfire-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:54-07:00"
+    },
+    {
+     "title": "Personalized Wild Nature Camping Mountains Forest Scene Letter Fill Embroidered Sweatshirt",
+     "handle": "personalized-wild-nature-camping-mountains-forest-scene-letter-fill-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:53-07:00"
+    },
+    {
+     "title": "Personalized Autumn Farmhouse Barn Mountain Sunset Falling Leaves Sleeve Name Embroidered Sweatshirt",
+     "handle": "personalized-autumn-farmhouse-barn-mountain-sunset-falling-leaves-sleeve-name-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:51-07:00"
+    },
+    {
+     "title": "Personalized Red Fox Wildflower Botanical Fall Embroidered Hat",
+     "handle": "personalized-red-fox-wildflower-botanical-fall-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:50-07:00"
+    },
+    {
+     "title": "Personalized Woodland Fox Owl Hedgehog Mushroom Moon Botanical Embroidered Hat",
+     "handle": "personalized-woodland-fox-owl-hedgehog-mushroom-moon-botanical-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:49-07:00"
+    },
+    {
+     "title": "Personalized Mountain Wildflower Meadow Sunrise Scenic Embroidered Hat",
+     "handle": "personalized-mountain-wildflower-meadow-sunrise-scenic-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:47-07:00"
+    },
+    {
+     "title": "Oktoberfest Geese Beer Pretzel Sausage Bavarian Dirndl Lederhosen Embroidered Sweatshirt",
+     "handle": "oktoberfest-geese-beer-pretzel-sausage-bavarian-dirndl-lederhosen-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:46-07:00"
+    },
+    {
+     "title": "Personalized Hunting Season Deer Duck Lab Dog Camo Hat Antlers Embroidered Sweatshirt",
+     "handle": "personalized-hunting-season-deer-duck-lab-dog-camo-hat-antlers-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "hunting",
+      "nguon-kin",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:44-07:00"
+    },
+    {
+     "title": "Personalized Autumn Cabin Mountain Landscape Falling Leaves Sleeve Name Embroidered Sweatshirt",
+     "handle": "personalized-autumn-cabin-mountain-landscape-falling-leaves-sleeve-name-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:43-07:00"
+    },
+    {
+     "title": "Respect the Locals Woodland Animals Bear Fox Owl Deer Rabbit Raccoon Squirrel Beaver Embroidered Sweatshirt",
+     "handle": "respect-the-locals-woodland-animals-bear-fox-owl-deer-rabbit-raccoon-squirrel-beaver-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:41-07:00"
+    },
+    {
+     "title": "America 1776 2026 Eagle Anchor Patriotic Nautical Embroidered Hat",
+     "handle": "america-1776-2026-eagle-anchor-patriotic-nautical-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-trong-nam",
+      "es-v4",
+      "gr-mu-hb",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hb",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:40-07:00"
+    },
+    {
+     "title": "Personalized Campfire & Chapters Ghost Reading Book Camping Fall Embroidered Sweatshirt",
+     "handle": "personalized-campfire-chapters-ghost-reading-book-camping-fall-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:38-07:00"
+    },
+    {
+     "title": "Off to Cozy Season Goose Riding Bicycle Fall Leaves Coffee Embroidered Sweatshirt",
+     "handle": "off-to-cozy-season-goose-riding-bicycle-fall-leaves-coffee-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:37-07:00"
+    },
+    {
+     "title": "Halloween Geese in Costumes Vampire Dracula Trick or Treat Pumpkin Lantern Bats Embroidered Sweatshirt",
+     "handle": "halloween-geese-in-costumes-vampire-dracula-trick-or-treat-pumpkin-lantern-bats-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:36-07:00"
+    },
+    {
+     "title": "Thanksgiving Black Cats Turkey Harvest Pumpkin Pie Fall Embroidered Sweatshirt",
+     "handle": "thanksgiving-black-cats-turkey-harvest-pumpkin-pie-fall-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:34-07:00"
+    },
+    {
+     "title": "Personalized Thanksgiving Turkey Pumpkin Pie Cranberry Cute Fall Foods Embroidered Sweatshirt",
+     "handle": "personalized-thanksgiving-turkey-pumpkin-pie-cranberry-cute-fall-foods-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:32-07:00"
+    },
+    {
+     "title": "Personalized Thanksgiving Turkey Pumpkin Pie Latte Cranberry Sauce Fall Leaves Embroidered Sweatshirt",
+     "handle": "personalized-thanksgiving-turkey-pumpkin-pie-latte-cranberry-sauce-fall-leaves-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:31-07:00"
+    },
+    {
+     "title": "Mallard Ducks Flying Autumn Marsh Cattails Fall Leaves Embroidered Two-Tone Hat",
+     "handle": "mallard-ducks-flying-autumn-marsh-cattails-fall-leaves-embroidered-two-tone-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hp5",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hp5",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "32.95",
+     "published_at": "2026-10-23T01:38:29-07:00"
+    },
+    {
+     "title": "Christmas Husky Dog Four Scenes Elf Hat Reindeer Antlers Gift Box Lights Embroidered Sweatshirt",
+     "handle": "christmas-husky-dog-four-scenes-elf-hat-reindeer-antlers-gift-box-lights-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:28-07:00"
+    },
+    {
+     "title": "Christmas Goose Santa Hat Sled Gifts Holly Snowflakes Embroidered Hat",
+     "handle": "christmas-goose-santa-hat-sled-gifts-holly-snowflakes-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:26-07:00"
+    },
+    {
+     "title": "Christmas Cozy Fox Wreath Hot Cocoa Holiday Embroidered Two-Tone Hat",
+     "handle": "christmas-cozy-fox-wreath-hot-cocoa-holiday-embroidered-two-tone-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hp5",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hp5",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "32.95",
+     "published_at": "2026-10-23T01:38:24-07:00"
+    },
+    {
+     "title": "Christmas Goose Reindeer Hat Santa Scarf Decorating Tree Embroidered Hat",
+     "handle": "christmas-goose-reindeer-hat-santa-scarf-decorating-tree-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:23-07:00"
+    },
+    {
+     "title": "Personalized Winter Deer Family Snow Pine Trees Christmas Embroidered Sweatshirt",
+     "handle": "personalized-winter-deer-family-snow-pine-trees-christmas-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:22-07:00"
+    },
+    {
+     "title": "Personalized Autumn Fox Pumpkins Wildflowers Fall Botanical Embroidered Hat",
+     "handle": "personalized-autumn-fox-pumpkins-wildflowers-fall-botanical-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:20-07:00"
+    },
+    {
+     "title": "Personalized Mountain Pine Trees Scenic Outdoor Embroidered Hat",
+     "handle": "personalized-mountain-pine-trees-scenic-outdoor-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-duoi-ten",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:19-07:00"
+    },
+    {
+     "title": "Woodland Fox Mushrooms Butterfly Nature Embroidered Hat",
+     "handle": "woodland-fox-mushrooms-butterfly-nature-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:17-07:00"
+    },
+    {
+     "title": "Personalized Mallard Duck Flying Wings Spread Embroidered Hat",
+     "handle": "personalized-mallard-duck-flying-wings-spread-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:16-07:00"
+    },
+    {
+     "title": "Personalized Mallard Duck Standing Driftwood Embroidered Hat",
+     "handle": "personalized-mallard-duck-standing-driftwood-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:14-07:00"
+    },
+    {
+     "title": "Personalized Raven Spreading Wings Forest Mushroom Tree Stump Moon Embroidered Hat",
+     "handle": "personalized-raven-spreading-wings-forest-mushroom-tree-stump-moon-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:13-07:00"
+    },
+    {
+     "title": "Personalized Grizzly Bear Mountain Forest Wilderness Embroidered Hat",
+     "handle": "personalized-grizzly-bear-mountain-forest-wilderness-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:11-07:00"
+    },
+    {
+     "title": "Personalized Reel American Patriotic Fish USA Flag Fishing Embroidered Hat",
+     "handle": "personalized-reel-american-patriotic-fish-usa-flag-fishing-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:10-07:00"
+    },
+    {
+     "title": "Personalized Autumn Fox Pumpkins Crescent Moon Bats Wildflowers Halloween Embroidered Hat",
+     "handle": "personalized-autumn-fox-pumpkins-crescent-moon-bats-wildflowers-halloween-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:08-07:00"
+    },
+    {
+     "title": "Bald Eagle Flying Mountains Sunrise Outdoor Embroidered Hat",
+     "handle": "bald-eagle-flying-mountains-sunrise-outdoor-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:07-07:00"
+    },
+    {
+     "title": "Personalized Halloween Costumed Geese Witch Ghost Pumpkin Wildflowers Embroidered Sweatshirt",
+     "handle": "personalized-halloween-costumed-geese-witch-ghost-pumpkin-wildflowers-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:05-07:00"
+    },
+    {
+     "title": "Personalized Common Loon Lake Scene Pine Trees Rocks Cattails Embroidered Hat",
+     "handle": "personalized-common-loon-lake-scene-pine-trees-rocks-cattails-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:04-07:00"
+    },
+    {
+     "title": "Mountain Lake Pine Trees Crescent Moon Stars Nature Landscape Embroidered Hat",
+     "handle": "mountain-lake-pine-trees-crescent-moon-stars-nature-landscape-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:38:02-07:00"
+    },
+    {
+     "title": "Personalized Life Is Better by the Campfire Camper Wildflowers Embroidered Sweatshirt",
+     "handle": "personalized-life-is-better-by-the-campfire-camper-wildflowers-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:38:00-07:00"
+    },
+    {
+     "title": "Personalized Grizzly Bear Mountain Forest Nature Scene Embroidered Hat",
+     "handle": "personalized-grizzly-bear-mountain-forest-nature-scene-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:37:59-07:00"
+    },
+    {
+     "title": "Personalized Gobble Gobble Till You Wobble Thanksgiving Turkey Pilgrim Hat Embroidered Sweatshirt",
+     "handle": "personalized-gobble-gobble-till-you-wobble-thanksgiving-turkey-pilgrim-hat-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:57-07:00"
+    },
+    {
+     "title": "Bear Family Forest Acorns Pine Trees Nature Wilderness Embroidered Sweatshirt",
+     "handle": "bear-family-forest-acorns-pine-trees-nature-wilderness-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:56-07:00"
+    },
+    {
+     "title": "Autumn Forest Stamps Fox Mushroom Acorn Cottagecore Embroidered Sweatshirt",
+     "handle": "autumn-forest-stamps-fox-mushroom-acorn-cottagecore-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:55-07:00"
+    },
+    {
+     "title": "Orca Whales Jumping Ocean Waves Fish Embroidered Hat",
+     "handle": "orca-whales-jumping-ocean-waves-fish-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:37:53-07:00"
+    },
+    {
+     "title": "Kingfisher Diving Into Water Fish Silhouette Embroidered Hat",
+     "handle": "kingfisher-diving-into-water-fish-silhouette-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "fishing",
+      "gr-mu-hb",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hb",
+      "nguon-kin"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:37:52-07:00"
+    },
+    {
+     "title": "Personalized Hiking Hair Don't Care Mountain Sunset Retro Embroidered Hat",
+     "handle": "personalized-hiking-hair-dont-care-mountain-sunset-retro-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:37:51-07:00"
+    },
+    {
+     "title": "Deer Butterfly Mushrooms Wildflowers Botanical Cottagecore Embroidered Hat",
+     "handle": "deer-butterfly-mushrooms-wildflowers-botanical-cottagecore-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:37:49-07:00"
+    },
+    {
+     "title": "Personalized Cottagecore Teapot Duck Thistle Strawberry Floral Frames Embroidered Sweatshirt",
+     "handle": "personalized-cottagecore-teapot-duck-thistle-strawberry-floral-frames-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:48-07:00"
+    },
+    {
+     "title": "Personalized Cottagecore Teapot Goose Tomatoes Strawberries Floral Frames Embroidered Sweatshirt",
+     "handle": "personalized-cottagecore-teapot-goose-tomatoes-strawberries-floral-frames-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:46-07:00"
+    },
+    {
+     "title": "Black Bear Cub Winter Mountain Pine Trees Snowflakes Together Embroidered Hat",
+     "handle": "black-bear-cub-winter-mountain-pine-trees-snowflakes-together-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:37:44-07:00"
+    },
+    {
+     "title": "Common Loon Lake Pine Trees Scenic Embroidered Hat",
+     "handle": "common-loon-lake-pine-trees-scenic-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:37:43-07:00"
+    },
+    {
+     "title": "Winter Magpie Snowy Pine Branch Snowflakes Red Berries Icicles Embroidered Hat",
+     "handle": "winter-magpie-snowy-pine-branch-snowflakes-red-berries-icicles-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:37:41-07:00"
+    },
+    {
+     "title": "Forest Mushroom Stump Fern Berry Cottagecore Embroidered Hat",
+     "handle": "forest-mushroom-stump-fern-berry-cottagecore-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:37:40-07:00"
+    },
+    {
+     "title": "Personalized in My Cottage Core Era Duck Rabbit Garden Flowers Embroidered Sweatshirt",
+     "handle": "personalized-in-my-cottage-core-era-duck-rabbit-garden-flowers-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:38-07:00"
+    },
+    {
+     "title": "Personalized Elk Deer Family Mountain Forest Scene Embroidered Sweatshirt",
+     "handle": "personalized-elk-deer-family-mountain-forest-scene-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:37-07:00"
+    },
+    {
+     "title": "1776 Eagle Feathers Patriotic Embroidered Hat",
+     "handle": "1776-eagle-feathers-patriotic-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:37:36-07:00"
+    },
+    {
+     "title": "Personalized Respect the Locals Woodland Animals Forest Bear Fox Owl Moose Embroidered Sweatshirt",
+     "handle": "personalized-respect-the-locals-woodland-animals-forest-bear-fox-owl-moose-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:34-07:00"
+    },
+    {
+     "title": "Brittany Spaniel Duck Hunting Dogs Botanical Embroidered Sweatshirt",
+     "handle": "brittany-spaniel-duck-hunting-dogs-botanical-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "hunting",
+      "nguon-kin",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:33-07:00"
+    },
+    {
+     "title": "Cottagecore Goose Cherry Mouse Mushroom Flower Basket Vintage Frames Embroidered Sweatshirt",
+     "handle": "cottagecore-goose-cherry-mouse-mushroom-flower-basket-vintage-frames-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:32-07:00"
+    },
+    {
+     "title": "Personalized Fall Pumpkin Truck Goose Bow Autumn Frames Embroidered Sweatshirt",
+     "handle": "personalized-fall-pumpkin-truck-goose-bow-autumn-frames-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:30-07:00"
+    },
+    {
+     "title": "Personalized Respect the Locals Mountain Wildlife Elk Goat Eagle Embroidered Sweatshirt",
+     "handle": "personalized-respect-the-locals-mountain-wildlife-elk-goat-eagle-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:29-07:00"
+    },
+    {
+     "title": "Cottagecore Deer Teacup Mushroom Snail Butterfly Framed Panels Embroidered Sweatshirt",
+     "handle": "cottagecore-deer-teacup-mushroom-snail-butterfly-framed-panels-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:27-07:00"
+    },
+    {
+     "title": "Personalized Believe Christmas Tree Reindeer Antlers Santa Hat Embroidered Sweatshirt",
+     "handle": "personalized-believe-christmas-tree-reindeer-antlers-santa-hat-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:26-07:00"
+    },
+    {
+     "title": "Halloween Duck Duck Boo Wizard Ghost Mummy Ducks Flying Embroidered Sweatshirt",
+     "handle": "halloween-duck-duck-boo-wizard-ghost-mummy-ducks-flying-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:24-07:00"
+    },
+    {
+     "title": "Personalized Thanksgiving Corgi Bunny Turkey Pilgrim Hat Fall Leaves Embroidered Sweatshirt",
+     "handle": "personalized-thanksgiving-corgi-bunny-turkey-pilgrim-hat-fall-leaves-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:23-07:00"
+    },
+    {
+     "title": "Personalized Cozy Season Goose Riding Bicycle Fall Leaves Coffee Embroidered Sweatshirt",
+     "handle": "personalized-cozy-season-goose-riding-bicycle-fall-leaves-coffee-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:21-07:00"
+    },
+    {
+     "title": "Christmas Reindeer Rudolph Antlers Red Nose Merry Christmas Embroidered Floral & Leopard Brim Hat",
+     "handle": "christmas-reindeer-rudolph-antlers-red-nose-merry-christmas-embroidered-floral-leopard-brim-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hp5",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hp5",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "32.95",
+     "published_at": "2026-10-23T01:37:20-07:00"
+    },
+    {
+     "title": "Thanksgiving Dancing Food Turkey Pie Mashed Potato Roll Thankful Embroidered Sweatshirt",
+     "handle": "thanksgiving-dancing-food-turkey-pie-mashed-potato-roll-thankful-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:18-07:00"
+    },
+    {
+     "title": "Thanksgiving Black Cat Turkey Harvest Pumpkin Pie Cozy Fall Embroidered Sweatshirt",
+     "handle": "thanksgiving-black-cat-turkey-harvest-pumpkin-pie-cozy-fall-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:17-07:00"
+    },
+    {
+     "title": "Christmas Geese Santa Hat Reindeer Antlers Wreath String Lights Holiday Embroidered Mock Neck Sweatshirt",
+     "handle": "christmas-geese-santa-hat-reindeer-antlers-wreath-string-lights-holiday-embroidered-mock-neck-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "47.95",
+     "published_at": "2026-10-23T01:37:15-07:00"
+    },
+    {
+     "title": "Halloween Four Geese Witch Skeleton Ghost Magician Costumes Spooky Embroidered Sweatshirt",
+     "handle": "halloween-four-geese-witch-skeleton-ghost-magician-costumes-spooky-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:14-07:00"
+    },
+    {
+     "title": "Halloween Camping Ghost Fishing Boat Lake Mountains Tent Campfire Moon Stars Embroidered Sweatshirt",
+     "handle": "halloween-camping-ghost-fishing-boat-lake-mountains-tent-campfire-moon-stars-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "fishing",
+      "gr-nhap-18",
+      "nguon-kin",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:12-07:00"
+    },
+    {
+     "title": "Thanksgiving Dachshund Pumpkin Pie Chef Turkey Costume Four Dogs Embroidered Sweatshirt",
+     "handle": "thanksgiving-dachshund-pumpkin-pie-chef-turkey-costume-four-dogs-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:11-07:00"
+    },
+    {
+     "title": "Bernese Mountain Dog Autumn Fall Leaves Playing Sitting Embroidered Sweatshirt",
+     "handle": "bernese-mountain-dog-autumn-fall-leaves-playing-sitting-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:09-07:00"
+    },
+    {
+     "title": "Bernese Mountain Dog Halloween Pumpkin Bats Embroidered Sweatshirt",
+     "handle": "bernese-mountain-dog-halloween-pumpkin-bats-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:07-07:00"
+    },
+    {
+     "title": "Halloween Fall Three Geese Pumpkin Costume Acorn Autumn Leaves Embroidered Two-Tone Hat",
+     "handle": "halloween-fall-three-geese-pumpkin-costume-acorn-autumn-leaves-embroidered-two-tone-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hp5",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hp5",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "32.95",
+     "published_at": "2026-10-23T01:37:06-07:00"
+    },
+    {
+     "title": "Cozy Season Ghost Campfire Pumpkin Autumn Leaves Embroidered Sweatshirt",
+     "handle": "cozy-season-ghost-campfire-pumpkin-autumn-leaves-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:04-07:00"
+    },
+    {
+     "title": "Just a Thankful Goose Fall Pumpkin Wreath Thanksgiving Embroidered Sweatshirt",
+     "handle": "just-a-thankful-goose-fall-pumpkin-wreath-thanksgiving-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:37:02-07:00"
+    },
+    {
+     "title": "Thankful for Music Thanksgiving Turkey Pumpkin Fall Band Embroidered Quarter-Zip",
+     "handle": "thankful-for-music-thanksgiving-turkey-pumpkin-fall-band-embroidered-quarter-zip",
+     "type": "Quarter-Zip",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "quarter-zip"
+     ],
+     "price": "49.95",
+     "published_at": "2026-10-23T01:37:01-07:00"
+    },
+    {
+     "title": "Coquette Autumn Goose Bicycle Pumpkin Pink Bow Floral Frames Embroidered Sweatshirt",
+     "handle": "coquette-autumn-goose-bicycle-pumpkin-pink-bow-floral-frames-embroidered-sweatshirt",
+     "type": "Sweatshirt",
+     "tags": [
+      "es-ao-khong",
+      "es-v4",
+      "gr-nhap-18",
+      "nguon-kin",
+      "outdoor",
+      "sweatshirt"
+     ],
+     "price": "44.95",
+     "published_at": "2026-10-23T01:36:59-07:00"
+    },
+    {
+     "title": "Hedgehog Daisy Acorn Floral Woodland Embroidered Hat",
+     "handle": "hedgehog-daisy-acorn-floral-woodland-embroidered-hat",
+     "type": "Hat",
+     "tags": [
+      "es-mu-khong",
+      "es-v4",
+      "gr-mu-hw",
+      "gr-nhap-18",
+      "hat",
+      "mu-dang-hw",
+      "nguon-kin",
+      "outdoor"
+     ],
+     "price": "29.95",
+     "published_at": "2026-10-23T01:36:58-07:00"
     }
    ]
   },
@@ -2171,109 +4157,6 @@
     }
    ]
   },
-  "Drake Waterfowl": {
-   "count_returned": 5,
-   "products": [
-    {
-     "title": "MST Youth CommandXT Softshell Pant",
-     "handle": "mst-youth-commandxt-softshell-pant",
-     "type": "Pants & Bibs",
-     "tags": [
-      "alt_text",
-      "AW26 Catalog",
-      "AW26 Price Tracking",
-      "AW26_NEW",
-      "master_list_new_arrivals_26",
-      "new",
-      "New_No_Coming_Soon",
-      "pants & bibs",
-      "Pants-Shorts",
-      "waterfowl",
-      "youth"
-     ],
-     "price": "119.99",
-     "published_at": "2026-10-22T15:23:40-05:00"
-    },
-    {
-     "title": "Delta Quilted Vest",
-     "handle": "delta-quilted-vest",
-     "type": "Jackets & Vests",
-     "tags": [
-      "alt_text",
-      "AW26 Catalog",
-      "AW26_NEW",
-      "jackets-vests",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new"
-     ],
-     "price": "99.99",
-     "published_at": "2026-10-22T13:48:56-05:00"
-    },
-    {
-     "title": "Canvas Sherpa Lined Work Vest",
-     "handle": "canvas-sherpa-lined-work-vest",
-     "type": "Jackets & Vests",
-     "tags": [
-      "alt_text",
-      "AW26 Catalog",
-      "AW26 Work Wear",
-      "AW26_NEW",
-      "jackets-vests",
-      "master_list_new_arrivals_26",
-      "mens",
-      "new"
-     ],
-     "price": "99.99",
-     "published_at": "2026-10-22T09:45:03-05:00"
-    },
-    {
-     "title": "Drake Finisher Magnetic Retractor",
-     "handle": "drake-finisher-magnetic-retractor",
-     "type": "Field Essentials",
-     "tags": [
-      "alt_text",
-      "AW26_NEW",
-      "BFCM2026",
-      "HOL_26 Flyer",
-      "master_list_new_arrivals_26",
-      "new"
-     ],
-     "price": "25.00",
-     "published_at": "2026-10-22T09:09:43-05:00"
-    },
-    {
-     "title": "Hole Shot Windproof Eqwader Vest",
-     "handle": "hole-shot-windproof-eqwader-vest",
-     "type": "Sale_Jackets & Vests",
-     "tags": [
-      "acs2024",
-      "AW24_New",
-      "bestseller_24",
-      "bestseller_nov",
-      "BFCM2026",
-      "bundle_vest&cap",
-      "CTW_2025",
-      "decdeals_24",
-      "discount_50",
-      "Final Sale",
-      "FinalSale",
-      "Jackets & Vests",
-      "Jackets_Vests_Hoodies",
-      "mens",
-      "Oct WHSE Sale",
-      "spring wf clearance event",
-      "summer10",
-      "Super Sale 2026",
-      "vests",
-      "waterfowl",
-      "waterfowl_new_arrivals"
-     ],
-     "price": "69.99",
-     "published_at": "2026-10-21T12:59:47-05:00"
-    }
-   ]
-  },
   "Free Fly": {
    "count_returned": 5,
    "products": [
@@ -2343,77 +4226,6 @@
     }
    ]
   },
-  "BURLEBO": {
-   "count_returned": 4,
-   "products": [
-    {
-     "title": "Long Sleeve Go To Tee - Classic Deer Camo",
-     "handle": "long-sleeve-go-to-tee-classic-deer-camo",
-     "type": "",
-     "tags": [
-      "Tops"
-     ],
-     "price": "48.00",
-     "published_at": "2026-10-21T09:53:07-05:00"
-    },
-    {
-     "title": "Long Sleeve Go To Tee - Black Camo",
-     "handle": "long-sleeve-go-to-tee-black-camo",
-     "type": "",
-     "tags": [
-      "Tops"
-     ],
-     "price": "48.00",
-     "published_at": "2026-10-21T09:52:03-05:00"
-    },
-    {
-     "title": "Thermal Hoodie - Mallard Green",
-     "handle": "thermal-hoodie-mallard-green",
-     "type": "Thermal Hoodie",
-     "tags": [
-      "9/4",
-      "B2B_Active",
-      "B2B_Sync",
-      "BlinkAutoHide",
-      "FALL25",
-      "Long Sleeve",
-      "Mallard Green",
-      "Men's",
-      "Outerwear",
-      "PREBOOK START: 08/01/2026",
-      "retail",
-      "Season Fall25",
-      "Thermal Hoodie",
-      "Tops",
-      "wholesale"
-     ],
-     "price": "59.00",
-     "published_at": "2026-10-20T08:36:06-05:00"
-    },
-    {
-     "title": "Go To Tee - Navy",
-     "handle": "go-to-tee-heather-navy",
-     "type": "Go To Tee",
-     "tags": [
-      "B2B_Active",
-      "B2B_Sync",
-      "Go To Tee",
-      "Heather Navy",
-      "Men's",
-      "pdqreview",
-      "retail",
-      "Season Uncategorized",
-      "Short Sleeve",
-      "spring25",
-      "Tops",
-      "Training",
-      "wholesale"
-     ],
-     "price": "34.00",
-     "published_at": "2026-10-20T08:15:31-05:00"
-    }
-   ]
-  },
   "DECOY Apparel": {
    "count_returned": 5,
    "products": [
@@ -2430,7 +4242,7 @@
       "heritage series",
       "retail"
      ],
-     "price": "2624000",
+     "price": "2623000",
      "published_at": "2026-07-22T15:11:42-04:00"
     },
     {
@@ -2443,7 +4255,7 @@
       "diver decoys",
       "wholesale"
      ],
-     "price": "5248000",
+     "price": "5246000",
      "published_at": "2026-07-22T15:11:14-04:00"
     },
     {
@@ -2456,7 +4268,7 @@
       "retail",
       "wsc"
      ],
-     "price": "919000",
+     "price": "918000",
      "published_at": "2026-07-22T15:10:16-04:00"
     },
     {
@@ -2469,7 +4281,7 @@
       "retail",
       "wsc"
      ],
-     "price": "919000",
+     "price": "918000",
      "published_at": "2026-07-22T15:10:03-04:00"
     },
     {
@@ -2480,201 +4292,8 @@
       "fall 26",
       "wholesale"
      ],
-     "price": "1575000",
+     "price": "1574000",
      "published_at": "2026-06-03T16:16:18-04:00"
-    }
-   ]
-  },
-  "Hunthide": {
-   "count_returned": 5,
-   "products": [
-    {
-     "title": "Late Season Only The Stubborn Are Still Out Here Shirt – Deer Hunting T-Shirt, Sweatshirt & Hoodie, Gift for Hunters",
-     "handle": "late-season-only-the-stubborn-are-still-out-here-shirt-deer-hunting-t-shirt-sweatshirt-hoodie-gift-for-hunters",
-     "type": "",
-     "tags": [],
-     "price": "29.95",
-     "published_at": "2026-10-20T02:10:13-07:00"
-    },
-    {
-     "title": "Never Underestimate An Old Man Who Loves Caribou Hunting Shirt – T-Shirt, Sweatshirt & Hoodie, Gift for Grandpa",
-     "handle": "never-underestimate-an-old-man-who-loves-caribou-hunting-shirt-t-shirt-sweatshirt-hoodie-gift-for-grandpa",
-     "type": "",
-     "tags": [],
-     "price": "29.95",
-     "published_at": "2026-10-20T00:36:28-07:00"
-    },
-    {
-     "title": "My Knees Crack Louder Than My Duck Call Hoodie – Funny Duck Hunting Gift for Dad, Grandpa",
-     "handle": "my-knees-crack-louder-than-my-duck-call-hoodie-funny-duck-hunting-gift-for-dad-grandpa",
-     "type": "",
-     "tags": [],
-     "price": "29.95",
-     "published_at": "2026-10-20T00:15:42-07:00"
-    },
-    {
-     "title": "Yes I Do Have A Retirement Plan I Plan On Duck Hunting Hoodie – Funny Duck Hunter Retirement Gift for Dad, Grandpa",
-     "handle": "yes-i-do-have-a-retirement-plan-i-plan-on-duck-hunting-hoodie-funny-duck-hunter-retirement-gift-for-dad-grandpa",
-     "type": "",
-     "tags": [],
-     "price": "29.95",
-     "published_at": "2026-10-20T00:07:18-07:00"
-    },
-    {
-     "title": "All Men Are Created Equal Only The Strongest Can Go Duck Hunting In Their Seventies Hoodie – Funny Duck Hunter Gift for Grandpa",
-     "handle": "all-men-are-created-equal-only-the-strongest-can-go-duck-hunting-in-their-seventies-hoodie-funny-duck-hunter-gift-for-grandpa",
-     "type": "",
-     "tags": [],
-     "price": "29.95",
-     "published_at": "2026-10-19T02:06:13-07:00"
-    }
-   ]
-  },
-  "Huntdad": {
-   "count_returned": 5,
-   "products": [
-    {
-     "title": "Fishing On Outdoor Cotton T-Shirt NL10134",
-     "handle": "fishing-on-outdoor-cotton-t-shirt-nl10134",
-     "type": "lam",
-     "tags": [],
-     "price": "27.95",
-     "published_at": "2026-10-22T02:12:12-06:00"
-    },
-    {
-     "title": "Vintage Freshwater Gamefishing Hoodie VC2116",
-     "handle": "vintage-freshwater-gamefishing-hoodie-vc2116",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-20T23:02:12-06:00"
-    },
-    {
-     "title": "Mallard Duck hunting Hoodie VC2115",
-     "handle": "mallard-duck-hunting-hoodie-vc2115",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-20T23:00:04-06:00"
-    },
-    {
-     "title": "Mule Deer hunting Hoodie VC2114",
-     "handle": "mule-deer-hunting-hoodie-vc2114",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-20T22:57:27-06:00"
-    },
-    {
-     "title": "Deer Hunting Hoodie VC2113",
-     "handle": "deer-hunting-hoodie-vc2113",
-     "type": "",
-     "tags": [],
-     "price": "69.99",
-     "published_at": "2026-10-20T22:54:46-06:00"
-    }
-   ]
-  },
-  "Terrabound": {
-   "count_returned": 5,
-   "products": [
-    {
-     "title": "Merino Wool Socks - Knee High Socks for Boots, Thermal",
-     "handle": "merino-wool-knee-high-socks",
-     "type": "Socks",
-     "tags": [
-      "boot socks",
-      "knee high socks",
-      "long socks",
-      "mens",
-      "merino wool",
-      "merino wool socks",
-      "socks",
-      "thermal socks",
-      "unisex",
-      "winter",
-      "winter socks",
-      "womens",
-      "wool socks"
-     ],
-     "price": "17.95",
-     "published_at": "2026-10-16T16:16:45+02:00"
-    },
-    {
-     "title": "Wool Socks - Thick Warm Winter Socks - Ribbed Mid-Calf for Boots",
-     "handle": "wool-socks-thick-warm-winter-socks",
-     "type": "Socks",
-     "tags": [
-      "activity:hiking",
-      "gender:mens",
-      "gender:unisex",
-      "gender:womens",
-      "mid-calf socks",
-      "socks",
-      "thick socks",
-      "type:socks",
-      "unisex",
-      "warm socks",
-      "winter",
-      "winter socks",
-      "wool socks"
-     ],
-     "price": "14.95",
-     "published_at": "2026-10-16T09:05:22+02:00"
-    },
-    {
-     "title": "Women's Dungarees - Canvas Bib Overalls - Work Overalls",
-     "handle": "womens-canvas-dungarees-bib-overalls-work-overalls",
-     "type": "Overalls",
-     "tags": [
-      "Bib Overalls",
-      "Canvas",
-      "Dungarees",
-      "Exclusive",
-      "Gardening",
-      "Women",
-      "Women's Dungarees",
-      "Women's Overalls",
-      "Work Overalls",
-      "Workwear"
-     ],
-     "price": "74.95",
-     "published_at": "2026-10-10T16:08:47+02:00"
-    },
-    {
-     "title": "Men's Puffer Body Warmer - Colour Block Down Gilet, 700 Fill Power",
-     "handle": "mens-puffer-body-warmer-colour-block-down-gilet-700-fill-power",
-     "type": "Gilets",
-     "tags": [
-      "activity:hiking",
-      "activity:walking",
-      "gender:mens",
-      "type:gilets"
-     ],
-     "price": "69.95",
-     "published_at": "2026-10-09T18:08:43+02:00"
-    },
-    {
-     "title": "Hiking Head Torch - USB Rechargeable Head Light Torch with Magnet",
-     "handle": "hiking-head-torch-usb-rechargeable-head-light-torch-with-magnet",
-     "type": "Head Torch",
-     "tags": [
-      "activity:camping",
-      "activity:fishing",
-      "activity:hiking",
-      "camping",
-      "dog walking",
-      "gender:unisex",
-      "head light torch",
-      "head torch",
-      "hiking head torch",
-      "magnetic",
-      "night fishing",
-      "type:tech",
-      "usb head torch"
-     ],
-     "price": "29.95",
-     "published_at": "2026-10-09T17:34:56+02:00"
     }
    ]
   }
@@ -2682,24 +4301,24 @@
  "policies": {
   "GritFell": {
    "https://gritfell.com/policies/shipping-policy": [
-    "All times are business days (Monday to Friday, excluding public holidays) and are estimates, not guarantees.",
-    "Where your order ships from Embroidered hats are made and shipped from Vietnam.",
-    "Clothing is made to order by our production partners in Vietnam or China, depending on the item, and ships from there; your tracking email shows the origin.",
-    "Hats are delivered in the US by USPS Ground Advantage.",
-    "Clothing is delivered by the carrier shown in your tracking email.",
-    "If your country is not shown at checkout, we cannot ship there yet.",
-    "Hats ship free when the hats in your order total $50 or more.",
-    "Clothing ships free when the clothing in your order totals $75 or more."
+    "Each line follows its own shipping, return and cancellation terms: Embroidered items (hats, sweatshirts and quarter-zips): stitched to order at our partner embroidery workshop in Da Nang, Vietnam.",
+    "Business days are Monday to Friday, excluding public holidays.",
+    "Where we ship Embroidered items: every address in the United States: all 50 states, Washington D.C., Puerto Rico and other U.S.",
+    "Orders to Alaska, Hawaii and Puerto Rico take 30-60 business days and can use Standard shipping only.",
+    "We do not ship printed items to other U.S.",
+    "We do not ship outside the United States.",
+    "Where your order ships from We hold no pre-made stock and we do not have a U.S.",
+    "Embroidered items are stitched in Da Nang, Vietnam, and shipped from Vietnam with a tracked international carrier."
    ],
    "https://gritfell.com/policies/refund-policy": [
-    "Because of this, we accept returns only when there is a problem with the item.",
-    "You have 60 days from delivery to report a problem.",
-    "What we cover (60 days from delivery) defective or damaged item wrong item, design or color sent size received differs from the size on the order item damaged in transit For an approved claim we offer a free replacement or full refund to the original payment method.",
-    "You do not pay return shipping for an approved claim.",
-    "We email the return instructions.",
-    "What we do not accept change of mind wrong size chosen at checkout (item matches the order) items worn, washed, altered or damaged after delivery Please check the size guide on the product page before you order.",
-    "We reply with the next steps, and with the return address if we need the item back.",
-    "Please do not send an item to the address on the package: that address cannot accept returns."
+    "Each line follows its own return terms: Embroidered items (hats, sweatshirts and quarter-zips): stitched to order at our partner embroidery workshop in Da Nang, Vietnam.",
+    "Business days are Monday to Friday, excluding public holidays.",
+    "Embroidered items: our 30-day promise Every embroidered item, personalized or not, is covered for 30 days from the day tracking shows your parcel delivered .",
+    "If we do need the item returned, we tell you how and cover the return postage.",
+    "Embroidered items without personalization: size, color or change of mind You can return the item for a refund, or exchange it for another size or color, within 30 days of delivery, as long as it is unworn, unwashed and in original condition.",
+    "Contact us first; we confirm eligibility and send the return instructions.",
+    "You cover the return postage; we cover postage on the replacement.",
+    "Refunds are issued once the item reaches our workshop and is checked."
    ]
   },
   "Duck Camp": {
@@ -2755,6 +4374,36 @@
   {
    "kind": "feed",
    "brand": "AFTCO",
+   "code": "HTTP 429",
+   "err": "bi rate-limit (cham lai)"
+  },
+  {
+   "kind": "feed",
+   "brand": "Drake Waterfowl",
+   "code": "HTTP 429",
+   "err": "bi rate-limit (cham lai)"
+  },
+  {
+   "kind": "feed",
+   "brand": "BURLEBO",
+   "code": "HTTP 429",
+   "err": "bi rate-limit (cham lai)"
+  },
+  {
+   "kind": "feed",
+   "brand": "Hunthide",
+   "code": "HTTP 429",
+   "err": "bi rate-limit (cham lai)"
+  },
+  {
+   "kind": "feed",
+   "brand": "Huntdad",
+   "code": "HTTP 429",
+   "err": "bi rate-limit (cham lai)"
+  },
+  {
+   "kind": "feed",
+   "brand": "Terrabound",
    "code": "HTTP 429",
    "err": "bi rate-limit (cham lai)"
   }
