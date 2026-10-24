@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-24",
- "fetched_at": "2026-10-24T04:45:02.623092+07:00",
+ "date": "2026-10-25",
+ "fetched_at": "2026-10-25T04:45:02.512471+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "😂🤣🤷‍♂️",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x7twjg/_/",
-     "selftext_head": ""
-    },
     {
      "title": "Gotta get in the rounds before Daylight Savings 😭",
      "score": null,
@@ -34,6 +25,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x9h51a/i_made_a_quilt_for_uncles_birthday/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Tiger Woods - single handicap at 5 years old",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1xdj74v/tiger_woods_single_handicap_at_5_years_old/",
      "selftext_head": ""
     },
     {
@@ -82,12 +82,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Rooftop DIY Putting Green",
+     "title": "Andrea Lee made a hole-in-one and won a brand-new car during the second round of the BMW Ladies Championship",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x87r8s/rooftop_diy_putting_green/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1xdfziy/andrea_lee_made_a_holeinone_and_won_a_brandnew/",
      "selftext_head": ""
     },
     {
@@ -100,30 +100,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Tiger Woods - single handicap at 5 years old",
+     "title": "Yep.",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1xdj74v/tiger_woods_single_handicap_at_5_years_old/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1xdvor5/yep/",
      "selftext_head": ""
     },
     {
-     "title": "DP World Tour India Championship: Rory McIlroy holes out for an eagle from the bunker on the 14th hole",
+     "title": "We Got One!!",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x89upu/dp_world_tour_india_championship_rory_mcilroy/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Andrea Lee made a hole-in-one and won a brand-new car during the second round of the BMW Ladies Championship",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1xdfziy/andrea_lee_made_a_holeinone_and_won_a_brandnew/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1xdmzdt/we_got_one/",
      "selftext_head": ""
     },
     {
@@ -142,6 +133,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1x9gw19/63year_old_vijay_singh_claims_the_sas/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Great job guys!",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1xb8146/great_job_guys/",
      "selftext_head": ""
     }
    ]
@@ -261,6 +261,7 @@
    "best golf.gift for.boss",
    "golf gift for manager",
    "gift for boss who likes golf",
+   "gift for boss who loves golf",
    "golf gift ideas for him"
   ],
   "golf apparel funny": [
@@ -289,16 +290,16 @@
   ]
  },
  "trends": [
-  "gold and silver price decline",
-  "ballon d or ranking 2026",
-  "dow jones industrial average",
-  "leonard miller",
-  "amber cox",
-  "micah peavy",
-  "donald trump mortgage executive order",
-  "kaylub giamanco opb interview",
-  "brad keselowski rfk racing bid",
-  "duke vs virginia prediction"
+  "paul bettany",
+  "robert griffin iii",
+  "apple tv",
+  "marines",
+  "devils",
+  "quinn hughes comments wild future",
+  "university of central florida",
+  "chivas vs monterrey",
+  "dalton smith",
+  "heat vs hornets"
  ],
  "errors": []
 }
