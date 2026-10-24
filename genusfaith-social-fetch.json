@@ -2,22 +2,13 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-24",
- "fetched_at": "2026-10-24T04:15:02.471449+07:00",
+ "date": "2026-10-25",
+ "fetched_at": "2026-10-25T04:15:02.444884+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
    "route": "R2-rss",
    "posts": [
-    {
-     "title": "[Free Friday] My uncle leading the NYC Eucharistic Procession",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7uust/free_friday_my_uncle_leading_the_nyc_eucharistic/",
-     "selftext_head": ""
-    },
     {
      "title": "“Mary and Jesus” by Catholic artist Bernadette Carstensen (Free Friday)",
      "score": null,
@@ -55,15 +46,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Free Friday - Our Lady of Guadalupe",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x7ukpx/free_friday_our_lady_of_guadalupe/",
-     "selftext_head": ""
-    },
-    {
      "title": "Learning to Paint Catholic Saints",
      "score": null,
      "num_comments": null,
@@ -73,12 +55,30 @@
      "selftext_head": ""
     },
     {
+     "title": "My whole life is a lie",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xd16kn/my_whole_life_is_a_lie/",
+     "selftext_head": ""
+    },
+    {
      "title": "‘I truly felt your support’ - Pope Leo XIV makes first public appearance after cancer surgery",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1x9yxtp/i_truly_felt_your_support_pope_leo_xiv_makes/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Korean martyrs",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xdebbe/korean_martyrs/",
      "selftext_head": ""
     },
     {
@@ -100,12 +100,21 @@
      "selftext_head": ""
     },
     {
-     "title": "My whole life is a lie",
+     "title": "[Free friday]Our Lady of Medjugorje, the place where Our Lady has been appearing for 45 years❤️",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xd16kn/my_whole_life_is_a_lie/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xdp5q8/free_fridayour_lady_of_medjugorje_the_place_where/",
+     "selftext_head": ""
+    },
+    {
+     "title": "[FREE FRIDAY] My Prayer Corner.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xdqy6r/free_friday_my_prayer_corner/",
      "selftext_head": ""
     },
     {
@@ -118,12 +127,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Pope Leo XIV cleared to leave hospital Saturday after successful surgery",
+     "title": "[Free Friday] My evangelical mom made me these Rosaries in support of me finding God in the Catholic Church",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x86r99/pope_leo_xiv_cleared_to_leave_hospital_saturday/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xdcb4j/free_friday_my_evangelical_mom_made_me_these/",
      "selftext_head": ""
     },
     {
@@ -133,15 +142,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1xbsglt/a_priest_pauses_the_eucharistic_mass_to_embrace/",
-     "selftext_head": ""
-    },
-    {
-     "title": "WHY ARE SO MANY PEOPLE BECOMING CATHOLIC? 20 U.S. Catholic Dioceses Collaborate to Study Emerging Interest in the Catholic Church",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xbncgr/why_are_so_many_people_becoming_catholic_20_us/",
      "selftext_head": ""
     }
    ]
@@ -156,10 +156,10 @@
    "catholic gift for women",
    "catholic gift for mom",
    "catholic gift for kids",
-   "catholic gift for wife",
    "catholic gift for baby",
    "catholic gift for husband",
-   "catholic gift for dad"
+   "catholic gift for dad",
+   "catholic gift for newborn"
   ],
   "rosary bracelet": [
    "rosary bracelet",
@@ -200,8 +200,8 @@
   "baptism gift": [
    "baptism gifts",
    "baptism gifts for boys",
+   "baptism gifts for girls",
    "baptism gifts for baby girl",
-   "baptism gift for girl",
    "baptism gift ideas",
    "baptism gifts for adults",
    "baptism gifts near me",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "jalen smith",
-  "ryan rollins",
-  "sean pedulla",
-  "pure xbox",
-  "accidente",
-  "shedeur sanders lost browns quarterback job",
-  "norman powell",
-  "faith hedgepeth",
-  "chicago bulls vs milwaukee bucks match player stats",
-  "anika rashaun"
+  "heat vs hornets",
+  "leanne gregory",
+  "appletv",
+  "f1 tv",
+  "boise state vs washington st",
+  "nigel durham",
+  "john harbaugh",
+  "palmeiras vs bragantino",
+  "christian kirk",
+  "inter miami vs rbny"
  ],
  "errors": []
 }
