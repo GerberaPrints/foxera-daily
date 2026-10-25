@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-25",
- "fetched_at": "2026-10-25T04:45:02.512471+07:00",
+ "date": "2026-10-26",
+ "fetched_at": "2026-10-26T04:45:02.902071+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -19,15 +19,6 @@
      "selftext_head": ""
     },
     {
-     "title": "I made a quilt for Uncle’s birthday 😊",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x9h51a/i_made_a_quilt_for_uncles_birthday/",
-     "selftext_head": ""
-    },
-    {
      "title": "Tiger Woods - single handicap at 5 years old",
      "score": null,
      "num_comments": null,
@@ -37,21 +28,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Always been a Primo Golf Apparel fan but their AI agent just absolutely cooked me.",
+     "title": "I made a quilt for Uncle’s birthday 😊",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x8od07/always_been_a_primo_golf_apparel_fan_but_their_ai/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Zyn people, please don’t do this.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1xa4owf/zyn_people_please_dont_do_this/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1x9h51a/i_made_a_quilt_for_uncles_birthday/",
      "selftext_head": ""
     },
     {
@@ -61,6 +43,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1xaxsid/whats_the_ruling_here/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Zyn people, please don’t do this.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1xa4owf/zyn_people_please_dont_do_this/",
      "selftext_head": ""
     },
     {
@@ -106,6 +97,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1xdvor5/yep/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Whoever said clean your hats in the dishwasher I hope you Ace every par 3 you play.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1xedfkq/whoever_said_clean_your_hats_in_the_dishwasher_i/",
      "selftext_head": ""
     },
     {
@@ -261,7 +261,6 @@
    "best golf.gift for.boss",
    "golf gift for manager",
    "gift for boss who likes golf",
-   "gift for boss who loves golf",
    "golf gift ideas for him"
   ],
   "golf apparel funny": [
@@ -290,16 +289,16 @@
   ]
  },
  "trends": [
-  "paul bettany",
-  "robert griffin iii",
-  "apple tv",
-  "marines",
-  "devils",
-  "quinn hughes comments wild future",
-  "university of central florida",
-  "chivas vs monterrey",
-  "dalton smith",
-  "heat vs hornets"
+  "sophie cunningham",
+  "martha stewart",
+  "frenkie de jong",
+  "lauri markkanen",
+  "matthew golden injury",
+  "ace bailey",
+  "savion williams",
+  "dumfries",
+  "where is the super bowl this year",
+  "mike washington jr."
  ],
  "errors": []
 }
