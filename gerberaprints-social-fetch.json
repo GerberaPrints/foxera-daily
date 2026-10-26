@@ -2,13 +2,22 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-26",
- "fetched_at": "2026-10-26T04:45:02.902071+07:00",
+ "date": "2026-10-27",
+ "fetched_at": "2026-10-27T04:45:02.543376+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
    "route": "R2-rss",
    "posts": [
+    {
+     "title": "First ever hole in one",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1xfjuxk/first_ever_hole_in_one/",
+     "selftext_head": ""
+    },
     {
      "title": "Gotta get in the rounds before Daylight Savings 😭",
      "score": null,
@@ -28,30 +37,12 @@
      "selftext_head": ""
     },
     {
-     "title": "I made a quilt for Uncle’s birthday 😊",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x9h51a/i_made_a_quilt_for_uncles_birthday/",
-     "selftext_head": ""
-    },
-    {
      "title": "What’s the ruling here?",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1xaxsid/whats_the_ruling_here/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Zyn people, please don’t do this.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1xa4owf/zyn_people_please_dont_do_this/",
      "selftext_head": ""
     },
     {
@@ -82,6 +73,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Whoever said clean your hats in the dishwasher I hope you Ace every par 3 you play.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1xedfkq/whoever_said_clean_your_hats_in_the_dishwasher_i/",
+     "selftext_head": ""
+    },
+    {
      "title": "You Guys Wanted Pics When They Came In",
      "score": null,
      "num_comments": null,
@@ -100,12 +100,12 @@
      "selftext_head": ""
     },
     {
-     "title": "Whoever said clean your hats in the dishwasher I hope you Ace every par 3 you play.",
+     "title": "Like that produced a 280-yard baby draw",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1xedfkq/whoever_said_clean_your_hats_in_the_dishwasher_i/",
+     "permalink": "https://www.reddit.com/r/golf/comments/1xf7hsq/like_that_produced_a_280yard_baby_draw/",
      "selftext_head": ""
     },
     {
@@ -118,21 +118,21 @@
      "selftext_head": ""
     },
     {
+     "title": "Smoked one at the range the other night. Wanted to share.",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1xes1hk/smoked_one_at_the_range_the_other_night_wanted_to/",
+     "selftext_head": ""
+    },
+    {
      "title": "Oldie but goodie [Funny Video]",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1xaa4sc/oldie_but_goodie_funny_video/",
-     "selftext_head": ""
-    },
-    {
-     "title": "63-year old Vijay Singh claims the SAS Championship to secure his 6th Champions Tour victory and becomes the 7th oldest winner in history on the circuit.",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1x9gw19/63year_old_vijay_singh_claims_the_sas/",
      "selftext_head": ""
     },
     {
@@ -266,14 +266,14 @@
   "golf apparel funny": [
    "golf apparel funny",
    "golf shirts funny",
-   "golf shirts funny men",
    "golf clothing funny",
    "golf shirt funny pattern",
    "golf shirts funny women",
    "golf shirts funny australia",
-   "golf shirts funny print",
    "golf shirts funny amazon",
-   "golf shirts funny sayings"
+   "golf shirts funny sayings",
+   "golf shirt funny design",
+   "funny golf outfit ideas"
   ],
   "hawaiian golf shirt": [
    "hawaiian golf shirts",
@@ -289,16 +289,16 @@
   ]
  },
  "trends": [
-  "sophie cunningham",
-  "martha stewart",
-  "frenkie de jong",
-  "lauri markkanen",
-  "matthew golden injury",
-  "ace bailey",
-  "savion williams",
-  "dumfries",
-  "where is the super bowl this year",
-  "mike washington jr."
+  "unai simon",
+  "cata coll",
+  "chad lowe",
+  "francis lawrence bioshock movie progress",
+  "elizabeth holmes deception expert analysis",
+  "luis de la fuente",
+  "james comey",
+  "openai 6.1 terra",
+  "mika godts",
+  "senny mayulu"
  ],
  "errors": []
 }
