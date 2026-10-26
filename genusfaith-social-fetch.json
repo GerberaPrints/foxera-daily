@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-26",
- "fetched_at": "2026-10-26T04:15:02.823780+07:00",
+ "date": "2026-10-27",
+ "fetched_at": "2026-10-27T04:15:02.505199+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -25,6 +25,15 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1xbx7xa/pope_leo_xiv_needs_no_further_treatment_after/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Blessed Feast of Christ the King",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xewr8l/blessed_feast_of_christ_the_king/",
      "selftext_head": ""
     },
     {
@@ -55,15 +64,6 @@
      "selftext_head": ""
     },
     {
-     "title": "Blessed Feast of Christ the King",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xewr8l/blessed_feast_of_christ_the_king/",
-     "selftext_head": ""
-    },
-    {
      "title": "[FREE FRIDAY] My Prayer Corner.",
      "score": null,
      "num_comments": null,
@@ -91,21 +91,21 @@
      "selftext_head": ""
     },
     {
-     "title": "‘I truly felt your support’ - Pope Leo XIV makes first public appearance after cancer surgery",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x9yxtp/i_truly_felt_your_support_pope_leo_xiv_makes/",
-     "selftext_head": ""
-    },
-    {
      "title": "[Free friday]Our Lady of Medjugorje, the place where Our Lady has been appearing for 45 years❤️",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1xdp5q8/free_fridayour_lady_of_medjugorje_the_place_where/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Movies in which “the Catholic Church” is portrayed as a positive force",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xemo59/movies_in_which_the_catholic_church_is_portrayed/",
      "selftext_head": ""
     },
     {
@@ -127,21 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "I had an uncomfortable incident during mass. Need advice on how to approach",
+     "title": "A priest pauses the Eucharistic Mass to embrace and comfort a crying, distressed man",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1x9r3vv/i_had_an_uncomfortable_incident_during_mass_need/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xbsglt/a_priest_pauses_the_eucharistic_mass_to_embrace/",
      "selftext_head": ""
     },
     {
-     "title": "Movies in which “the Catholic Church” is portrayed as a positive force",
+     "title": "WHY ARE SO MANY PEOPLE BECOMING CATHOLIC? 20 U.S. Catholic Dioceses Collaborate to Study Emerging Interest in the Catholic Church",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xemo59/movies_in_which_the_catholic_church_is_portrayed/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xbncgr/why_are_so_many_people_becoming_catholic_20_us/",
      "selftext_head": ""
     }
    ]
@@ -190,18 +190,18 @@
    "confirmation gifts for girls",
    "confirmation gifts for boys",
    "confirmation gift ideas",
+   "confirmation gifts of the holy spirit",
+   "confirmation gifts for teenage boys",
    "confirmation gifts for teen girls",
    "confirmation gifts catholic",
    "confirmation gift ideas for girls",
-   "confirmation gift for teen boy",
-   "confirmation gifts for adults",
-   "confirmation gift from sponsor"
+   "confirmation gifts for adults"
   ],
   "baptism gift": [
    "baptism gifts",
    "baptism gifts for boys",
+   "baptism gifts for girls",
    "baptism gifts for baby girl",
-   "baptism gift for girl",
    "baptism gift ideas",
    "baptism gifts for adults",
    "baptism gifts near me",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "marshawn lynch",
-  "posiciones de cd moquegua contra alianza lima",
-  "amon ra st brown",
-  "aidan hutchinson",
-  "aucas - barcelona sc",
-  "waymo",
-  "pentagon",
-  "davis allen",
-  "jameson williams",
-  "serbia"
+  "pere romeu",
+  "thierry henry",
+  "mnf tonight",
+  "kopa trophy",
+  "malik scott",
+  "troy aikman joe buck feud",
+  "bunny shaw",
+  "doxing",
+  "scarlett camberos",
+  "jim cramer stock pick anthropic"
  ],
  "errors": []
 }
