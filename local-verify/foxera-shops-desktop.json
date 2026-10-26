@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "scanner_version": "v9",
   "provenance": "live_local_browser",
   "note": "Desktop CHI ghi file nay. Cloud doc va merge vao foxera-accounts-daily.json. v8 ghi de accounts-daily -> 2 nguoi ghi 1 file, da bo.",
@@ -1021,8 +1021,8 @@
       "shop": "Aurevanelis",
       "status": "not_selling",
       "sales": 92,
-      "rating": 3.5,
-      "reviews": 17,
+      "rating": 3.0,
+      "reviews": 18,
       "listings": null,
       "status_confirmed": true,
       "evidence": "cau trang thai nguyen van"
