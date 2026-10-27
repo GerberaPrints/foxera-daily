@@ -1,129 +1,10 @@
 {
  "schema_version": "1.1",
  "source": "pc-local (gerbera_fetch.py, Task Scheduler)",
- "date": "2026-10-27",
- "fetched_at": "2026-10-27T06:45:03.299194+07:00",
+ "date": "2026-10-28",
+ "fetched_at": "2026-10-28T06:45:03.328945+07:00",
  "locale_note": "US/USD (products.json shop default) — máy quét ở VN, giá feed theo market mặc định shop",
- "feeds": {
-  "Swannies": {
-   "url": "https://swannies.co/products.json?limit=5",
-   "truncated": false,
-   "read_count": 5,
-   "products": [
-    {
-     "title": "McCann Hat",
-     "product_type": "Hat",
-     "handle": "mccann-hat",
-     "created_at": "2026-07-15T15:43:10-05:00",
-     "published_at": "2026-10-24T06:37:42-05:00",
-     "price_min": 35.0,
-     "price_max": 35.0,
-     "compare_at_max": null,
-     "variants_total": 1,
-     "variants_unavailable": [],
-     "sold_out_level": null
-    },
-    {
-     "title": "TRUE x Swannies Vacay Slide",
-     "product_type": "Footwear",
-     "handle": "true-x-swannies-vacay-slide",
-     "created_at": "2026-10-21T15:27:25-05:00",
-     "published_at": "2026-10-21T16:19:43-05:00",
-     "price_min": 75.0,
-     "price_max": 75.0,
-     "compare_at_max": null,
-     "variants_total": 18,
-     "variants_unavailable": [],
-     "sold_out_level": null
-    },
-    {
-     "title": "Cabin Polo",
-     "product_type": "Polo",
-     "handle": "cabin-polo",
-     "created_at": "2026-09-28T12:57:15-05:00",
-     "published_at": "2026-10-12T11:45:46-05:00",
-     "price_min": 75.0,
-     "price_max": 75.0,
-     "compare_at_max": null,
-     "variants_total": 5,
-     "variants_unavailable": [],
-     "sold_out_level": null
-    },
-    {
-     "title": "Timber Hat",
-     "product_type": "Hat",
-     "handle": "h30310",
-     "created_at": "2026-09-04T11:08:12-05:00",
-     "published_at": "2026-10-12T08:33:29-05:00",
-     "price_min": 35.0,
-     "price_max": 35.0,
-     "compare_at_max": null,
-     "variants_total": 1,
-     "variants_unavailable": [],
-     "sold_out_level": null
-    },
-    {
-     "title": "Alpine Pullover",
-     "product_type": "LAYERS",
-     "handle": "alpine-pullover",
-     "created_at": "2026-09-28T12:55:32-05:00",
-     "published_at": "2026-10-12T08:33:19-05:00",
-     "price_min": 119.0,
-     "price_max": 119.0,
-     "compare_at_max": null,
-     "variants_total": 5,
-     "variants_unavailable": [],
-     "sold_out_level": null
-    }
-   ]
-  },
-  "Pins & Aces": {
-   "url": "https://pinsandaces.com/products.json?limit=3",
-   "truncated": false,
-   "read_count": 3,
-   "products": [
-    {
-     "title": "Royal Collection '26 Headcover Set",
-     "product_type": "Headcover Sets",
-     "handle": "royal-collection-26-headcover-set",
-     "created_at": "2026-10-23T16:12:03-06:00",
-     "published_at": "2026-10-23T16:16:14-06:00",
-     "price_min": 121.98,
-     "price_max": 121.98,
-     "compare_at_max": 164.85,
-     "variants_total": 1,
-     "variants_unavailable": [],
-     "sold_out_level": null
-    },
-    {
-     "title": "The Bogey Supreme - Center Shaft Mallet Putter Cover",
-     "product_type": "Headcovers - Putter Mallet",
-     "handle": "the-bogey-supreme-center-shaft-mallet-putter-cover",
-     "created_at": "2026-01-14T13:31:41-07:00",
-     "published_at": "2026-10-02T11:48:40-06:00",
-     "price_min": 54.95,
-     "price_max": 54.95,
-     "compare_at_max": null,
-     "variants_total": 1,
-     "variants_unavailable": [],
-     "sold_out_level": null
-    },
-    {
-     "title": "Voodoo Doll - Driver Headcover",
-     "product_type": "Headcovers - Driver",
-     "handle": "voodoo-doll-driver-cover",
-     "created_at": "2025-05-12T10:56:59-06:00",
-     "published_at": "2026-09-22T16:53:35-06:00",
-     "price_min": 59.95,
-     "price_max": 59.95,
-     "compare_at_max": 59.95,
-     "variants_total": 1,
-     "variants_unavailable": [],
-     "sold_out_level": null
-    }
-   ]
-  }
- },
+ "feeds": {},
  "anchors": {
   "Bad Birdie": {
    "url": "https://badbirdiegolf.com/collections/polos/products.json?limit=250",
@@ -138,37 +19,486 @@
     "66.00": 12
    },
    "price_src": "core/collection products.json limit=250 (mode)"
+  },
+  "Swannies": {
+   "url": "https://swannies.co/collections/polos/products.json?limit=250",
+   "sku_count": 66,
+   "mode_price": 75.0,
+   "price_distribution": {
+    "75.00": 249,
+    "85.00": 126,
+    "65.00": 118,
+    "55.00": 24,
+    "95.00": 10
+   },
+   "price_src": "core/collection products.json limit=250 (mode)"
   }
  },
  "collections": {
+  "Bogey Bros": [
+   {
+    "title": "'Merica Collection",
+    "handle": "merica",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2026-06-17T00:45:06-05:00",
+    "products_count": 33
+   },
+   {
+    "title": "Accessories",
+    "handle": "accessories",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2024-04-29T12:24:09-05:00",
+    "products_count": 175
+   },
+   {
+    "title": "All",
+    "handle": "all",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2022-11-02T19:33:58-05:00",
+    "products_count": 633
+   },
+   {
+    "title": "Anniversary Sale Collection",
+    "handle": "anniversary-sale",
+    "updated_at": "2026-10-27T11:29:01-05:00",
+    "published_at": "2026-09-30T00:20:49-05:00",
+    "products_count": 140
+   },
+   {
+    "title": "Anniversary Sale Collection | Accessories",
+    "handle": "anniversary-sale-accessories",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2026-09-30T00:21:02-05:00",
+    "products_count": 47
+   },
+   {
+    "title": "Anniversary Sale Collection | Biggest Deals",
+    "handle": "anniversary-sale-biggest-deals",
+    "updated_at": "2026-10-27T11:29:11-05:00",
+    "published_at": "2026-09-30T00:21:02-05:00",
+    "products_count": 80
+   },
+   {
+    "title": "Anniversary Sale Collection | Hats",
+    "handle": "anniversary-sale-hats",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2026-09-30T00:21:02-05:00",
+    "products_count": 42
+   },
+   {
+    "title": "Anniversary Sale Collection | Men's Polos",
+    "handle": "anniversary-sale-mens-polos",
+    "updated_at": "2026-10-27T15:59:01-05:00",
+    "published_at": "2026-09-30T00:21:02-05:00",
+    "products_count": 31
+   },
+   {
+    "title": "Anniversary Sale Collection | Women's Polos",
+    "handle": "anniversary-sale-womens-polos",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2026-09-30T00:21:03-05:00",
+    "products_count": 20
+   },
+   {
+    "title": "Ball Markers",
+    "handle": "funny-golf-ball-markers",
+    "updated_at": "2026-10-27T14:19:01-05:00",
+    "published_at": "2022-09-23T08:41:34-05:00",
+    "products_count": 65
+   },
+   {
+    "title": "Best Sellers",
+    "handle": "best-sellers",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2023-10-10T13:44:03-05:00",
+    "products_count": 568
+   },
+   {
+    "title": "Birdie Finger",
+    "handle": "birdie-finger",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2024-09-03T14:07:46-05:00",
+    "products_count": 17
+   },
+   {
+    "title": "Bucket Hats",
+    "handle": "bucket-hats",
+    "updated_at": "2026-10-22T03:00:37-05:00",
+    "published_at": "2024-11-05T13:35:31-06:00",
+    "products_count": 6
+   },
+   {
+    "title": "Club Headcovers",
+    "handle": "headcovers",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2022-09-23T08:41:35-05:00",
+    "products_count": 53
+   },
+   {
+    "title": "Course Costumes",
+    "handle": "course-costumes",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2026-10-20T09:57:20-05:00",
+    "products_count": 28
+   },
+   {
+    "title": "Da 90's Collection",
+    "handle": "da-90s",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2025-05-01T14:09:40-05:00",
+    "products_count": 9
+   },
+   {
+    "title": "Dad hats",
+    "handle": "dad-hats",
+    "updated_at": "2026-10-27T06:14:45-05:00",
+    "published_at": "2026-02-19T11:22:44-06:00",
+    "products_count": 5
+   },
+   {
+    "title": "Dumpster Fire '26 Collection",
+    "handle": "dumpster-fire-26-collection",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2026-01-13T22:58:23-06:00",
+    "products_count": 11
+   },
+   {
+    "title": "Everything's Bigger",
+    "handle": "everythings-bigger",
+    "updated_at": "2026-10-27T08:14:01-05:00",
+    "published_at": "2026-07-17T00:42:39-05:00",
+    "products_count": 32
+   },
+   {
+    "title": "Eyes Up Here",
+    "handle": "eyes-up-here",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2025-04-15T08:46:21-05:00",
+    "products_count": 11
+   },
+   {
+    "title": "Geno's Picks",
+    "handle": "genos-picks",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2026-03-24T11:37:46-05:00",
+    "products_count": 9
+   },
+   {
+    "title": "Gettin' Lei'd",
+    "handle": "gettin-leid",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2025-12-04T08:47:42-06:00",
+    "products_count": 10
+   },
+   {
+    "title": "Gettin' Lucky",
+    "handle": "gettin-lucky",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2025-02-20T15:49:47-06:00",
+    "products_count": 9
+   },
+   {
+    "title": "Gifts Under $20",
+    "handle": "gifts-under-20",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2024-11-13T20:52:27-06:00",
+    "products_count": 85
+   },
+   {
+    "title": "Gifts Under $50",
+    "handle": "gifts-under-50",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2024-11-13T20:50:22-06:00",
+    "products_count": 340
+   },
+   {
+    "title": "Golf Gloves",
+    "handle": "golf-gloves",
+    "updated_at": "2026-10-27T18:29:01-05:00",
+    "published_at": "2025-02-10T10:32:24-06:00",
+    "products_count": 35
+   },
+   {
+    "title": "Hats",
+    "handle": "funny-golf-hats",
+    "updated_at": "2026-10-27T13:14:01-05:00",
+    "published_at": "2022-09-23T08:41:33-05:00",
+    "products_count": 130
+   },
+   {
+    "title": "Hats | Performance Golf Hat - Snapback",
+    "handle": "snapbacks",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2026-02-19T11:34:14-06:00",
+    "products_count": 86
+   },
+   {
+    "title": "Hats | Performance Golf Hat - Stretch Fit",
+    "handle": "stretch-fit",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2026-02-19T11:36:20-06:00",
+    "products_count": 14
+   },
+   {
+    "title": "Hats | Unstructured Flat Bill - Snapback",
+    "handle": "flat-bills",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2026-02-19T11:29:25-06:00",
+    "products_count": 22
+   },
+   {
+    "title": "Holiday Collection",
+    "handle": "holiday-collection",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2023-11-28T14:46:00-06:00",
+    "products_count": 12
+   },
+   {
+    "title": "Hoodies",
+    "handle": "hoodies",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2025-01-07T15:10:19-06:00",
+    "products_count": 8
+   },
+   {
+    "title": "Jägermeister Collection",
+    "handle": "jagermeister",
+    "updated_at": "2026-10-27T06:14:45-05:00",
+    "published_at": "2026-04-29T10:31:51-05:00",
+    "products_count": 4
+   },
+   {
+    "title": "Main Squeeze",
+    "handle": "main-squeeze",
+    "updated_at": "2026-10-27T06:14:45-05:00",
+    "published_at": "2026-05-20T07:53:03-05:00",
+    "products_count": 2
+   },
+   {
+    "title": "Men's Polos",
+    "handle": "mens-funny-golf-polos",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2024-05-29T10:42:15-05:00",
+    "products_count": 150
+   },
+   {
+    "title": "New Releases",
+    "handle": "new",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2022-11-30T10:31:49-06:00",
+    "products_count": 33
+   },
+   {
+    "title": "NSFW Polos",
+    "handle": "nsfw-polos",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2024-05-30T18:23:09-05:00",
+    "products_count": 92
+   },
+   {
+    "title": "Outerwear",
+    "handle": "outerwear",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2025-01-13T13:58:38-06:00",
+    "products_count": 16
+   },
+   {
+    "title": "PDP Upsell Ball Markers",
+    "handle": "best-selling-ball-markers",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2023-06-01T16:07:18-05:00",
+    "products_count": 65
+   },
+   {
+    "title": "Peasants '26",
+    "handle": "peasants-26",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2025-03-05T15:58:41-06:00",
+    "products_count": 14
+   },
+   {
+    "title": "Phat Tuesday Collection",
+    "handle": "phat-tuesday",
+    "updated_at": "2026-10-26T06:12:40-05:00",
+    "published_at": "2025-01-28T13:50:38-06:00",
+    "products_count": 4
+   },
+   {
+    "title": "Polo Shirts",
+    "handle": "funny-golf-polo-shirts",
+    "updated_at": "2026-10-27T15:04:02-05:00",
+    "published_at": "2022-09-23T08:41:35-05:00",
+    "products_count": 246
+   },
+   {
+    "title": "Q-Zips",
+    "handle": "q-zips",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2023-09-18T14:40:07-05:00",
+    "products_count": 27
+   },
+   {
+    "title": "Quick Order",
+    "handle": "quick-order",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2022-11-01T16:12:32-05:00",
+    "products_count": 632
+   },
+   {
+    "title": "Road Trippin'",
+    "handle": "road-trippin",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2025-06-17T09:46:13-05:00",
+    "products_count": 8
+   },
+   {
+    "title": "Sale",
+    "handle": "sale",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2023-09-12T09:47:51-05:00",
+    "products_count": 34
+   },
+   {
+    "title": "SFW Polos",
+    "handle": "sfw-polos",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2023-10-04T17:14:17-05:00",
+    "products_count": 47
+   },
+   {
+    "title": "SFW-ish Polos",
+    "handle": "sfw-ish-polos",
+    "updated_at": "2026-10-27T09:39:01-05:00",
+    "published_at": "2024-05-30T18:18:25-05:00",
+    "products_count": 98
+   },
+   {
+    "title": "Shenanigans",
+    "handle": "shenanigans",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2026-08-05T15:55:27-05:00",
+    "products_count": 17
+   },
+   {
+    "title": "Shop All",
+    "handle": "shop",
+    "updated_at": "2026-10-27T13:54:03-05:00",
+    "published_at": "2022-10-11T14:35:53-05:00",
+    "products_count": 630
+   },
+   {
+    "title": "Spring '26 Collection",
+    "handle": "spring-26",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2026-04-10T14:50:26-05:00",
+    "products_count": 35
+   },
+   {
+    "title": "Staff Picks",
+    "handle": "staff-picks",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2025-10-31T09:57:55-05:00",
+    "products_count": 12
+   },
+   {
+    "title": "T-Shirts",
+    "handle": "funny-golf-t-shirts",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2024-06-18T18:05:28-05:00",
+    "products_count": 19
+   },
+   {
+    "title": "Tequila Collection",
+    "handle": "tequila",
+    "updated_at": "2026-10-27T06:14:45-05:00",
+    "published_at": "2025-04-20T23:55:35-05:00",
+    "products_count": 4
+   },
+   {
+    "title": "The Cold Pack Collection",
+    "handle": "the-cold-pack",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2025-05-01T15:04:09-05:00",
+    "products_count": 18
+   },
+   {
+    "title": "The Links Collection",
+    "handle": "the-links-collection",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2025-08-12T07:29:14-05:00",
+    "products_count": 9
+   },
+   {
+    "title": "The Meister",
+    "handle": "the-meister",
+    "updated_at": "2026-10-27T06:14:45-05:00",
+    "published_at": "2026-03-02T15:29:38-06:00",
+    "products_count": 2
+   },
+   {
+    "title": "Towels",
+    "handle": "golf-towels",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2022-09-23T08:41:34-05:00",
+    "products_count": 22
+   },
+   {
+    "title": "Visors",
+    "handle": "visors",
+    "updated_at": "2026-10-26T20:14:01-05:00",
+    "published_at": "2024-11-05T13:35:07-06:00",
+    "products_count": 8
+   },
+   {
+    "title": "Whale Tail Collection",
+    "handle": "whale-tail",
+    "updated_at": "2026-10-27T06:14:49-05:00",
+    "published_at": "2025-02-14T12:29:14-06:00",
+    "products_count": 19
+   },
+   {
+    "title": "Wingin' It",
+    "handle": "wingin-it",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2026-03-31T13:38:28-05:00",
+    "products_count": 18
+   },
+   {
+    "title": "Women's Polos",
+    "handle": "womens-funny-golf-polos",
+    "updated_at": "2026-10-27T06:14:50-05:00",
+    "published_at": "2024-05-28T10:57:52-05:00",
+    "products_count": 91
+   }
+  ],
   "Bad Birdie": [
    {
     "title": "Accessories",
     "handle": "accessories",
-    "updated_at": "2026-10-26T06:04:46-07:00",
+    "updated_at": "2026-10-27T12:16:16-07:00",
     "published_at": "2023-10-04T12:48:25-07:00",
     "products_count": 640
    },
    {
     "title": "Accessories (No Hats)",
     "handle": "accessories-no-hats",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-21T15:20:37-07:00",
     "products_count": 127
    },
    {
     "title": "Active \"Bad\" Hat",
     "handle": "active-bad-hat",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2025-03-06T18:26:29-07:00",
     "products_count": 38
    },
    {
     "title": "Active Hat",
     "handle": "active-hat",
-    "updated_at": "2026-10-26T04:06:05-07:00",
+    "updated_at": "2026-10-27T04:03:08-07:00",
     "published_at": "2025-04-03T15:55:14-07:00",
-    "products_count": 72
+    "products_count": 64
    },
    {
     "title": "Active Mockneck",
@@ -180,7 +510,7 @@
    {
     "title": "Active Shorts",
     "handle": "active-shorts",
-    "updated_at": "2026-10-26T06:04:47-07:00",
+    "updated_at": "2026-10-27T06:04:57-07:00",
     "published_at": "2025-02-10T16:06:39-07:00",
     "products_count": 40
    },
@@ -194,30 +524,30 @@
    {
     "title": "All Men's Bottoms",
     "handle": "all-mens-bottoms",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-22T06:41:35-07:00",
     "products_count": 61
    },
    {
     "title": "All Products (Excluding Sale Items - Legacy Collection)",
     "handle": "all-products-excluding-sale-items",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T16:14:37-07:00",
     "published_at": "2023-12-06T14:43:47-07:00",
-    "products_count": 2312
+    "products_count": 2315
    },
    {
     "title": "All Products (Excluding Sale)",
     "handle": "all-products",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T16:14:37-07:00",
     "published_at": "2026-10-22T16:15:13-07:00",
-    "products_count": 2316
+    "products_count": 2319
    },
    {
     "title": "All Products excluding Redo",
     "handle": "all-products-excluding-redo",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T16:14:37-07:00",
     "published_at": "2024-07-24T12:26:28-07:00",
-    "products_count": 2945
+    "products_count": 2948
    },
    {
     "title": "Amateurs 2025",
@@ -236,14 +566,14 @@
    {
     "title": "Amateursland",
     "handle": "amateurs-2026",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2026-03-11T14:26:19-07:00",
     "products_count": 18
    },
    {
     "title": "amateursland hats",
     "handle": "amateursland-hats",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2026-03-26T09:18:01-07:00",
     "products_count": 6
    },
@@ -257,7 +587,7 @@
    {
     "title": "Arizona State University",
     "handle": "arizona-state-university",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-08-17T10:11:10-07:00",
     "products_count": 12
    },
@@ -271,14 +601,14 @@
    {
     "title": "Atmos and Stratus",
     "handle": "atmos-and-stratus",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2025-09-24T09:17:46-07:00",
     "products_count": 7
    },
    {
     "title": "Austin Rezzonico's Favorites",
     "handle": "austin-rezzonicos-favorites",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T15:40:15-07:00",
     "products_count": 20
    },
@@ -299,7 +629,7 @@
    {
     "title": "Back In Stock",
     "handle": "back-in-stock",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2025-03-24T09:32:15-07:00",
     "products_count": 42
    },
@@ -320,9 +650,9 @@
    {
     "title": "Bad Birdie New Arrivals",
     "handle": "bad-birdie-new-arrivals",
-    "updated_at": "2026-10-26T04:05:18-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2024-11-21T10:11:00-07:00",
-    "products_count": 25
+    "products_count": 26
    },
    {
     "title": "Bad Birdie x Four Peaks",
@@ -334,28 +664,28 @@
    {
     "title": "Bad Birdie x Payntr",
     "handle": "bad-birdie-x-payntr",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2026-06-08T17:51:17-07:00",
     "products_count": 3
    },
    {
     "title": "Bad Birdie x Sun Mountain",
     "handle": "bad-birdie-x-sun-mountain",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2025-10-30T13:17:15-07:00",
     "products_count": 6
    },
    {
     "title": "Bad Elements",
     "handle": "bad-elements",
-    "updated_at": "2026-10-26T06:04:45-07:00",
+    "updated_at": "2026-10-27T06:04:55-07:00",
     "published_at": "2025-03-11T11:00:18-07:00",
     "products_count": 85
    },
    {
     "title": "Bad Elements Cooling",
     "handle": "bad-elements-cooling",
-    "updated_at": "2026-10-26T06:04:46-07:00",
+    "updated_at": "2026-10-27T06:04:57-07:00",
     "published_at": "2025-03-12T10:18:51-07:00",
     "products_count": 29
    },
@@ -369,7 +699,7 @@
    {
     "title": "Bad Elements Rain",
     "handle": "bad-elements-rain",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2024-11-12T10:17:54-07:00",
     "products_count": 22
    },
@@ -390,21 +720,21 @@
    {
     "title": "Bad Elements Windbreakers",
     "handle": "bad-elements-windbreakers",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2025-09-17T16:17:01-07:00",
     "products_count": 18
    },
    {
     "title": "Bad Elements Winter 2026",
     "handle": "bad-elements-1",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2026-10-13T14:30:05-07:00",
     "products_count": 3
    },
    {
     "title": "Bad Elements: Engineered for Extremes",
     "handle": "bad-elements-engineered-for-extremes",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2025-03-12T12:08:05-07:00",
     "products_count": 38
    },
@@ -425,23 +755,23 @@
    {
     "title": "Bad Weekend",
     "handle": "bad-weekend",
-    "updated_at": "2026-10-26T06:04:44-07:00",
+    "updated_at": "2026-10-27T12:16:16-07:00",
     "published_at": "2025-04-15T15:58:26-07:00",
     "products_count": 60
    },
    {
     "title": "Bad Weekend Women's",
     "handle": "bad-weekend-womens",
-    "updated_at": "2026-10-26T06:04:47-07:00",
+    "updated_at": "2026-10-27T06:04:57-07:00",
     "published_at": "2025-04-21T14:27:38-07:00",
     "products_count": 23
    },
    {
     "title": "Best Sellers",
     "handle": "best-sellers",
-    "updated_at": "2026-10-26T06:04:46-07:00",
+    "updated_at": "2026-10-27T06:04:57-07:00",
     "published_at": "2024-11-21T10:25:19-07:00",
-    "products_count": 99
+    "products_count": 98
    },
    {
     "title": "Bird's Nest Bad Saloon",
@@ -460,7 +790,7 @@
    {
     "title": "Birdie Snapbacks",
     "handle": "birdie-snapbacks",
-    "updated_at": "2026-10-26T06:04:44-07:00",
+    "updated_at": "2026-10-27T06:04:56-07:00",
     "published_at": "2025-04-28T12:18:15-07:00",
     "products_count": 50
    },
@@ -495,21 +825,21 @@
    {
     "title": "Bree Williams' Favorites",
     "handle": "bree-williams-favorites",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-10-17T13:00:50-07:00",
     "products_count": 20
    },
    {
     "title": "Brian Del Prado's Favorites",
     "handle": "brian-del-prados-favorites",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T15:26:26-07:00",
     "products_count": 23
    },
    {
     "title": "Bucket Hats",
     "handle": "bucket-hats",
-    "updated_at": "2026-09-25T04:04:15-07:00",
+    "updated_at": "2026-10-26T18:03:11-07:00",
     "published_at": "2024-11-08T10:55:17-07:00",
     "products_count": 9
    },
@@ -537,49 +867,49 @@
    {
     "title": "Caden Olson's Favorites",
     "handle": "caden-olsons-favorites",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-10-16T16:15:54-07:00",
     "products_count": 20
    },
    {
     "title": "Caleb Griffin's Favorites",
     "handle": "caleb-griffins-favorites",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-10-19T12:01:36-07:00",
     "products_count": 22
    },
    {
     "title": "Callum Tarren's Favorites",
     "handle": "callum-tarrens-favorites",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2024-08-28T10:42:34-07:00",
     "products_count": 3
    },
    {
     "title": "Camo Collection",
     "handle": "camo-collection",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-01-09T13:38:11-07:00",
     "products_count": 10
    },
    {
     "title": "Carmella Carlisi's Favorites",
     "handle": "carmella-carlisis-favorites",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T15:10:38-07:00",
     "products_count": 20
    },
    {
     "title": "CLASS OF BAD WINTER 2026",
     "handle": "class-of-bad",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-10-02T14:33:10-07:00",
     "products_count": 21
    },
    {
     "title": "Classic \"Bad\" Hat",
     "handle": "classic-bad-hat",
-    "updated_at": "2026-10-26T06:04:46-07:00",
+    "updated_at": "2026-10-27T06:04:56-07:00",
     "published_at": "2025-03-06T18:25:52-07:00",
     "products_count": 51
    },
@@ -614,7 +944,7 @@
    {
     "title": "Core Performance Polo",
     "handle": "core-performance-polo",
-    "updated_at": "2026-10-26T14:38:23-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2025-01-20T23:53:39-07:00",
     "products_count": 419
    },
@@ -642,21 +972,21 @@
    {
     "title": "Dad Hat",
     "handle": "dad-hat",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:03:16-07:00",
     "published_at": "2025-04-03T15:59:36-07:00",
-    "products_count": 16
+    "products_count": 14
    },
    {
     "title": "Derek Chaudury's Favorites",
     "handle": "derek-chaudurys-favorites",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-10-19T11:47:04-07:00",
     "products_count": 21
    },
    {
     "title": "Desert Heat",
     "handle": "desertheat",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2025-02-26T16:31:02-07:00",
     "products_count": 105
    },
@@ -670,7 +1000,7 @@
    {
     "title": "Double Down Skorts",
     "handle": "double-down-skorts",
-    "updated_at": "2026-10-26T06:04:44-07:00",
+    "updated_at": "2026-10-27T06:04:55-07:00",
     "published_at": "2025-02-21T16:15:57-07:00",
     "products_count": 35
    },
@@ -684,14 +1014,14 @@
    {
     "title": "Duel in the Desert",
     "handle": "officially-licensed-collegiate",
-    "updated_at": "2026-10-26T14:38:23-07:00",
+    "updated_at": "2026-10-27T06:04:57-07:00",
     "published_at": "2025-10-29T15:54:37-07:00",
     "products_count": 79
    },
    {
     "title": "Eion Lee's Favorites",
     "handle": "eion-lees-favorites",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T14:57:15-07:00",
     "products_count": 20
    },
@@ -705,7 +1035,7 @@
    {
     "title": "Elijah Jacksons Favorites",
     "handle": "elijah-jacksons-favorites",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T14:26:49-07:00",
     "products_count": 20
    },
@@ -719,21 +1049,21 @@
    {
     "title": "Exec Skorts",
     "handle": "exec-skorts",
-    "updated_at": "2026-10-25T04:04:37-07:00",
+    "updated_at": "2026-10-26T18:13:52-07:00",
     "published_at": "2025-02-21T16:19:14-07:00",
     "products_count": 29
    },
    {
     "title": "Fall Collection",
     "handle": "fall-collection",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2024-08-20T13:48:23-07:00",
     "products_count": 148
    },
    {
     "title": "Father's Day Gift Guide",
     "handle": "fathers-day-gift-guide",
-    "updated_at": "2026-10-26T06:04:46-07:00",
+    "updated_at": "2026-10-27T12:16:16-07:00",
     "published_at": "2024-05-23T21:34:11-07:00",
     "products_count": 31
    },
@@ -754,126 +1084,126 @@
    {
     "title": "Frostbite Core Performance Polos",
     "handle": "mens-core-performance-polo-frostbite",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-03-30T12:12:46-07:00",
     "products_count": 6
    },
    {
     "title": "Frostbite Core Performance Polos",
     "handle": "frostbite",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-03-31T09:30:12-07:00",
     "products_count": 9
    },
    {
     "title": "Gabby Barker's Favorites",
     "handle": "gabby-barkers-favorites",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T15:54:56-07:00",
     "products_count": 20
    },
    {
     "title": "Gifts For Everything and Her",
     "handle": "gifts-for-everything-and-her",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-21T16:28:29-07:00",
     "products_count": 11
    },
    {
     "title": "Gifts for fam and kids",
     "handle": "gifts-for-fam-and-kids",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-21T16:59:12-07:00",
     "products_count": 142
    },
    {
     "title": "Gifts for Her",
     "handle": "gifts-for-her",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-13T12:25:11-07:00",
     "products_count": 37
    },
    {
     "title": "Gifts for Kids",
     "handle": "gifts-for-kids",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-01T12:27:04-07:00",
     "products_count": 117
    },
    {
     "title": "Gifts for Off-the-Course",
     "handle": "gifts-for-off-the-course",
-    "updated_at": "2026-10-23T04:03:12-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2024-11-13T12:26:40-07:00",
     "products_count": 34
    },
    {
     "title": "Gifts for the Classic Golfer",
     "handle": "gifts-for-the-classic-guy",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-13T12:24:08-07:00",
     "products_count": 35
    },
    {
     "title": "Gifts for the Fam",
     "handle": "gifts-for-the-family-1",
-    "updated_at": "2026-10-26T04:02:43-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2024-11-14T16:16:03-07:00",
     "products_count": 41
    },
    {
     "title": "Gifts For The Golfer Who Has Everything",
     "handle": "gifts-golfers-really-want",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2024-11-13T12:23:19-07:00",
     "products_count": 23
    },
    {
     "title": "Gifts for the Goodtime Golfer",
     "handle": "gifts-for-the-goodtime-golfer",
-    "updated_at": "2026-10-26T04:02:43-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2024-11-13T12:24:24-07:00",
     "products_count": 58
    },
    {
     "title": "Gifts Off Course and Stocking Stuffers",
     "handle": "gifts-off-course-and-stocking-stuffers",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-21T16:39:32-07:00",
     "products_count": 11
    },
    {
     "title": "Golf Accessories",
     "handle": "golf-accessories",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2025-02-03T18:39:44-07:00",
     "products_count": 109
    },
    {
     "title": "Golf Gifts for Her",
     "handle": "golf-gifts-for-her",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T09:22:59-07:00",
     "published_at": "2024-10-22T12:31:56-07:00",
     "products_count": 1370
    },
    {
     "title": "Golf Gifts for Him",
     "handle": "golf-gifts-for-him",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2024-10-22T12:19:00-07:00",
     "products_count": 2051
    },
    {
     "title": "Golf Gifts under $50",
     "handle": "golf-gifts-under-50",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-10-22T12:32:42-07:00",
     "products_count": 1162
    },
    {
     "title": "Golf Glove",
     "handle": "golf-glove",
-    "updated_at": "2026-10-26T04:02:43-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2025-01-21T16:54:55-07:00",
     "products_count": 6
    },
@@ -887,35 +1217,35 @@
    {
     "title": "Golf Pants",
     "handle": "golf-pants",
-    "updated_at": "2026-10-26T06:04:47-07:00",
+    "updated_at": "2026-10-27T06:04:55-07:00",
     "published_at": "2025-02-04T17:24:45-07:00",
     "products_count": 23
    },
    {
     "title": "Golf Polos",
     "handle": "polos",
-    "updated_at": "2026-10-26T15:06:01-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2017-11-24T00:39:17-07:00",
     "products_count": 135
    },
    {
     "title": "Golf Rain Gear",
     "handle": "golf-rain-gear",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-14T11:19:09-07:00",
     "products_count": 9
    },
    {
     "title": "Golf Shorts",
     "handle": "golf-shorts",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2025-02-04T17:31:52-07:00",
     "products_count": 20
    },
    {
     "title": "Golf Towels",
     "handle": "golf-towels",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:05:24-07:00",
     "published_at": "2025-02-25T19:33:53-07:00",
     "products_count": 18
    },
@@ -929,21 +1259,21 @@
    {
     "title": "Hats",
     "handle": "hats",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2017-11-24T00:18:54-07:00",
     "products_count": 370
    },
    {
     "title": "Hats & Socks",
     "handle": "hats-socks",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2025-01-16T17:11:00-07:00",
     "products_count": 435
    },
    {
     "title": "Hazards Collection",
     "handle": "hazards-collection",
-    "updated_at": "2026-10-23T04:03:08-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-01-16T11:29:27-07:00",
     "products_count": 8
    },
@@ -957,14 +1287,14 @@
    {
     "title": "Holiday Fleece",
     "handle": "holiday-fleece",
-    "updated_at": "2026-10-23T04:03:12-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2024-11-07T17:50:11-07:00",
     "products_count": 22
    },
    {
     "title": "Holiday Gift Guide",
     "handle": "gift-guide",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-01T10:49:02-07:00",
     "products_count": 545
    },
@@ -992,7 +1322,7 @@
    {
     "title": "Hoodies & Sweatshirts",
     "handle": "sweatshirts",
-    "updated_at": "2026-10-26T06:04:46-07:00",
+    "updated_at": "2026-10-27T06:04:55-07:00",
     "published_at": "2025-01-31T17:48:18-07:00",
     "products_count": 94
    },
@@ -1027,49 +1357,49 @@
    {
     "title": "Jackets & Golf Vests",
     "handle": "jackets",
-    "updated_at": "2026-10-26T06:04:46-07:00",
+    "updated_at": "2026-10-27T06:04:56-07:00",
     "published_at": "2025-01-31T18:21:35-07:00",
     "products_count": 27
    },
    {
     "title": "Jamie Byron's Favorites",
     "handle": "jamie-byrons-favorites",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-10-20T09:38:43-07:00",
     "products_count": 21
    },
    {
     "title": "Jeff Sullivan's Favorites",
     "handle": "jeff-sullivans-favorites",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T13:12:08-07:00",
     "products_count": 20
    },
    {
     "title": "Jesse Hernandez's Favorites",
     "handle": "jesse-hernandezs-favorites",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-10-17T13:28:42-07:00",
     "products_count": 20
    },
    {
     "title": "Joggers",
     "handle": "joggers",
-    "updated_at": "2026-10-26T04:02:43-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2023-07-26T09:15:07-07:00",
     "products_count": 16
    },
    {
     "title": "Kevin Sarreal's Favorites",
     "handle": "kevin-sarreals-favorites",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T16:13:08-07:00",
     "products_count": 20
    },
    {
     "title": "Kinetic Wind Pullover",
     "handle": "kinetic-wind-pullover",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2025-03-11T10:06:46-07:00",
     "products_count": 7
    },
@@ -1083,14 +1413,14 @@
    {
     "title": "Kyle Hall's Favorites",
     "handle": "kyle-halls-favorites",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-10-17T14:19:41-07:00",
     "products_count": 21
    },
    {
     "title": "Laziz Baldwin's Favorites",
     "handle": "laziz-baldwins-favorites",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-10-17T14:51:02-07:00",
     "products_count": 21
    },
@@ -1118,14 +1448,14 @@
    {
     "title": "Marcus Tran's Favorites",
     "handle": "marcus-trans-favorites",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T11:17:48-07:00",
     "products_count": 20
    },
    {
     "title": "Mary Malloy's Favorites",
     "handle": "mary-malloys-favorites",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T08:44:06-07:00",
     "products_count": 20
    },
@@ -1146,35 +1476,35 @@
    {
     "title": "Match Play - Team USA",
     "handle": "match-play-team-usa",
-    "updated_at": "2026-10-24T04:03:12-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-06-04T11:06:49-07:00",
     "products_count": 2
    },
    {
     "title": "Match Play Collection",
     "handle": "match-play-collection",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-06-01T10:07:09-07:00",
     "products_count": 14
    },
    {
     "title": "Matching Polos",
     "handle": "matching-polos",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2025-03-31T13:33:26-07:00",
     "products_count": 20
    },
    {
     "title": "Mechanism Quarterzip",
     "handle": "mechanism-quarterzip",
-    "updated_at": "2026-10-26T06:04:44-07:00",
+    "updated_at": "2026-10-27T06:04:55-07:00",
     "published_at": "2025-02-21T10:14:54-07:00",
     "products_count": 9
    },
    {
     "title": "Mei Brennan's Favorites",
     "handle": "mei-brennans-favorites",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T16:02:20-07:00",
     "products_count": 20
    },
@@ -1188,42 +1518,42 @@
    {
     "title": "Men + Women Quarterzips",
     "handle": "all-quarterzips",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2023-09-14T09:09:00-07:00",
     "products_count": 200
    },
    {
     "title": "Men's",
     "handle": "mens",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2025-02-04T15:13:30-07:00",
-    "products_count": 920
+    "products_count": 918
    },
    {
     "title": "Men's Bad Tee's",
     "handle": "bad-tee",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-12-03T12:01:35-07:00",
     "products_count": 30
    },
    {
     "title": "Men's Best Sellers",
     "handle": "mens-best-sellers",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-21T13:29:50-07:00",
     "products_count": 63
    },
    {
     "title": "Men's Best Selling Golf Polos",
     "handle": "mens-best-selling-golf-polos",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-12-11T13:59:52-07:00",
     "products_count": 20
    },
    {
     "title": "Men's Bottoms",
     "handle": "mens-bottoms",
-    "updated_at": "2026-10-26T06:04:44-07:00",
+    "updated_at": "2026-10-27T06:04:57-07:00",
     "published_at": "2025-02-04T16:23:25-07:00",
     "products_count": 165
    },
@@ -1244,49 +1574,49 @@
    {
     "title": "Men's Gifts for Golfers",
     "handle": "mens-gifts-for-golfers",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-21T16:02:35-07:00",
     "products_count": 11
    },
    {
     "title": "Men's Golf Accessories",
     "handle": "mens-golf-accessories",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-14T11:14:50-07:00",
     "products_count": 31
    },
    {
     "title": "Men's Golf Apparel",
     "handle": "mens2",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2024-07-23T12:19:30-07:00",
     "products_count": 1364
    },
    {
     "title": "Men's Golf Bottoms",
     "handle": "mens-golf-bottoms",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2024-11-14T09:50:05-07:00",
     "products_count": 18
    },
    {
     "title": "Men's Golf Jackets and Vests",
     "handle": "mens-golf-jackets-and-vest",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2024-11-14T10:30:22-07:00",
     "products_count": 14
    },
    {
     "title": "Men's Golf Quarterzips",
     "handle": "mens-golf-quarterzips",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-07-18T11:50:15-07:00",
     "products_count": 111
    },
    {
     "title": "Men's Golf Second Layer",
     "handle": "men-s-golf-second-layer",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-14T10:26:21-07:00",
     "products_count": 44
    },
@@ -1300,14 +1630,14 @@
    {
     "title": "Men's Graphic Tees",
     "handle": "mens-graphic-tees",
-    "updated_at": "2026-10-25T04:03:19-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2025-01-23T17:37:46-07:00",
     "products_count": 50
    },
    {
     "title": "Men's Hoodies",
     "handle": "mens-hoodies",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T12:16:16-07:00",
     "published_at": "2024-10-08T19:59:55-07:00",
     "products_count": 45
    },
@@ -1321,7 +1651,7 @@
    {
     "title": "Men's Hybrid Jogger",
     "handle": "mens-hybrid-jogger",
-    "updated_at": "2026-10-26T04:02:43-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2025-11-04T16:42:33-07:00",
     "products_count": 6
    },
@@ -1342,21 +1672,21 @@
    {
     "title": "Men's New Arrival Polos",
     "handle": "mens-new-arrival-polos",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2024-11-14T09:37:27-07:00",
     "products_count": 22
    },
    {
     "title": "Men's New Arrivals",
     "handle": "mens-new-arrivals",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2024-11-18T16:26:50-07:00",
     "products_count": 99
    },
    {
     "title": "Men's Printed Polos",
     "handle": "mens-print-polos",
-    "updated_at": "2026-10-26T14:38:23-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2024-11-14T09:31:44-07:00",
     "products_count": 323
    },
@@ -1370,7 +1700,7 @@
    {
     "title": "Men's Shorts",
     "handle": "mens-shorts",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-05-20T20:32:43-07:00",
     "products_count": 96
    },
@@ -1384,7 +1714,7 @@
    {
     "title": "Men's Spring 2026",
     "handle": "spring-26-mens",
-    "updated_at": "2026-10-26T06:04:47-07:00",
+    "updated_at": "2026-10-27T06:04:57-07:00",
     "published_at": "2026-02-25T11:03:19-07:00",
     "products_count": 139
    },
@@ -1398,28 +1728,28 @@
    {
     "title": "Men's Summer 2026 Restock",
     "handle": "mens-summer-2026-restock",
-    "updated_at": "2026-10-26T06:04:47-07:00",
+    "updated_at": "2026-10-27T06:04:55-07:00",
     "published_at": "2026-04-23T11:46:38-07:00",
     "products_count": 40
    },
    {
     "title": "Men's Top Sellers",
     "handle": "top-selling-golf-apparel-for-men",
-    "updated_at": "2026-10-26T06:04:45-07:00",
+    "updated_at": "2026-10-27T06:04:57-07:00",
     "published_at": "2024-11-14T10:42:18-07:00",
-    "products_count": 61
+    "products_count": 59
    },
    {
     "title": "Men's Tops",
     "handle": "mens-tops",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2025-02-04T16:14:35-07:00",
     "products_count": 1076
    },
    {
     "title": "Mens Tops & Outerwear",
     "handle": "mens-tops-outerwear",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2025-01-16T15:48:47-07:00",
     "products_count": 668
    },
@@ -1433,7 +1763,7 @@
    {
     "title": "Michael Caan's Favorites",
     "handle": "sheldons-favorites-copy",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T14:15:34-07:00",
     "products_count": 22
    },
@@ -1447,14 +1777,14 @@
    {
     "title": "MINI MOOD",
     "handle": "mini-mood",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2026-04-07T16:35:52-07:00",
     "products_count": 3
    },
    {
     "title": "Modern Florals",
     "handle": "modern-florals",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2026-03-10T15:01:37-07:00",
     "products_count": 13
    },
@@ -1482,56 +1812,56 @@
    {
     "title": "New Arrivals",
     "handle": "new",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2024-12-03T10:49:15-07:00",
-    "products_count": 137
+    "products_count": 138
    },
    {
     "title": "New Best Selling Polos",
     "handle": "new-best-selling-polos",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T12:16:16-07:00",
     "published_at": "2026-05-14T14:44:54-07:00",
     "products_count": 69
    },
    {
     "title": "New Golf Pants Inseams",
     "handle": "new-golf-pants-inseams",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2025-02-27T18:46:49-07:00",
     "products_count": 7
    },
    {
     "title": "New Hats",
     "handle": "new-hats",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2024-11-08T11:10:22-07:00",
     "products_count": 25
    },
    {
     "title": "New Men's Golf Apparel",
     "handle": "new-mens-golf-apparel",
-    "updated_at": "2026-10-26T15:04:39-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2023-05-23T20:05:54-07:00",
     "products_count": 66
    },
    {
     "title": "New Polos",
     "handle": "new-polos",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2026-10-21T09:48:33-07:00",
-    "products_count": 27
+    "products_count": 32
    },
    {
     "title": "New Women's Golf Apparel",
     "handle": "new-womens-golf-apparel",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T09:22:59-07:00",
     "published_at": "2024-04-18T07:33:58-07:00",
-    "products_count": 35
+    "products_count": 37
    },
    {
     "title": "NEW: Fall/Winter 2025",
     "handle": "fall-winter-2025",
-    "updated_at": "2026-10-26T06:04:47-07:00",
+    "updated_at": "2026-10-27T12:16:16-07:00",
     "published_at": "2025-08-06T12:40:40-07:00",
     "products_count": 150
    },
@@ -1545,14 +1875,14 @@
    {
     "title": "Officially Licensed Tailgate Collection",
     "handle": "tailgate",
-    "updated_at": "2026-10-26T14:38:23-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-08-17T09:33:16-07:00",
     "products_count": 35
    },
    {
     "title": "On-Course Polos",
     "handle": "on-course-polos",
-    "updated_at": "2026-10-26T14:38:23-07:00",
+    "updated_at": "2026-10-27T09:34:04-07:00",
     "published_at": "2025-01-17T12:27:21-07:00",
     "products_count": 529
    },
@@ -1566,49 +1896,49 @@
    {
     "title": "Outerwear",
     "handle": "outerwear",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2023-09-07T05:40:14-07:00",
     "products_count": 27
    },
    {
     "title": "PAINT SPLATTER",
     "handle": "paint-splatter",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-02-25T14:05:03-07:00",
     "products_count": 11
    },
    {
     "title": "Paint Splatter Core Performance Polo",
     "handle": "paint-splatter-mens",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-02-27T15:21:18-07:00",
     "products_count": 9
    },
    {
     "title": "Paint Splatter From the Ground Up",
     "handle": "paint-splatter-from-the-ground-up",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-07-16T16:41:33-07:00",
     "products_count": 8
    },
    {
     "title": "Paint Splatter Women's",
     "handle": "paint-splatter-womens",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-02-27T15:15:56-07:00",
     "products_count": 10
    },
    {
     "title": "Pants",
     "handle": "pants",
-    "updated_at": "2026-10-26T06:04:46-07:00",
+    "updated_at": "2026-10-27T06:04:57-07:00",
     "published_at": "2025-02-03T18:16:57-07:00",
     "products_count": 51
    },
    {
     "title": "Performance Collection",
     "handle": "performance-collection",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2022-11-16T07:40:06-07:00",
     "products_count": 102
    },
@@ -1622,21 +1952,21 @@
    {
     "title": "Performance Mock Necks",
     "handle": "mock-necks",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2026-10-22T12:37:09-07:00",
     "products_count": 7
    },
    {
     "title": "Performance Skorts",
     "handle": "performance-skorts",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2025-02-21T16:32:20-07:00",
     "products_count": 9
    },
    {
     "title": "Pique Performance Polo",
     "handle": "pique-performance-polo",
-    "updated_at": "2026-10-26T06:04:44-07:00",
+    "updated_at": "2026-10-27T06:04:57-07:00",
     "published_at": "2026-01-29T14:03:54-07:00",
     "products_count": 75
    },
@@ -1650,7 +1980,7 @@
    {
     "title": "Play Your Greens",
     "handle": "play-your-greens-1",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-08-06T14:37:44-07:00",
     "products_count": 8
    },
@@ -1671,7 +2001,7 @@
    {
     "title": "Plum Wine Collection",
     "handle": "plum-wine-collection",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-08-06T14:35:34-07:00",
     "products_count": 9
    },
@@ -1692,14 +2022,14 @@
    {
     "title": "Quarterzips",
     "handle": "quarterzips",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2022-09-06T17:41:28-07:00",
     "products_count": 110
    },
    {
     "title": "Quarterzips and Hoodies",
     "handle": "quarterzips-and-hoodies",
-    "updated_at": "2026-10-26T06:04:44-07:00",
+    "updated_at": "2026-10-27T06:04:57-07:00",
     "published_at": "2025-12-01T15:15:31-07:00",
     "products_count": 164
    },
@@ -1713,14 +2043,14 @@
    {
     "title": "Rain Jacket",
     "handle": "rain-jacket",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2025-02-21T10:06:18-07:00",
     "products_count": 9
    },
    {
     "title": "Ramplaysgolf's Favorites",
     "handle": "ramplaysgolfs-favorites",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-10-19T10:08:51-07:00",
     "products_count": 21
    },
@@ -1741,14 +2071,14 @@
    {
     "title": "Rec League Hoodie",
     "handle": "rec-league-hoodie",
-    "updated_at": "2026-10-26T06:04:47-07:00",
+    "updated_at": "2026-10-27T12:16:16-07:00",
     "published_at": "2025-03-11T10:15:30-07:00",
     "products_count": 16
    },
    {
     "title": "Rec League Hoodies and Sweats",
     "handle": "rec-league-sweats",
-    "updated_at": "2026-10-26T06:04:45-07:00",
+    "updated_at": "2026-10-27T06:04:55-07:00",
     "published_at": "2025-09-29T13:14:29-07:00",
     "products_count": 29
    },
@@ -1762,28 +2092,28 @@
    {
     "title": "Red, White & Bad",
     "handle": "red-white-and-bad",
-    "updated_at": "2026-10-25T04:03:15-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2025-05-13T15:41:41-07:00",
     "products_count": 12
    },
    {
     "title": "Restocked",
     "handle": "restocked",
-    "updated_at": "2026-10-26T06:04:47-07:00",
+    "updated_at": "2026-10-27T06:04:56-07:00",
     "published_at": "2026-02-06T09:23:45-07:00",
     "products_count": 60
    },
    {
     "title": "Ridge and Pique Performance Polos",
     "handle": "ridge-and-pique-performance-polos",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-03-17T10:29:15-07:00",
     "products_count": 39
    },
    {
     "title": "Ridge Performance Polo",
     "handle": "ridge-performance-polo",
-    "updated_at": "2026-10-26T06:04:44-07:00",
+    "updated_at": "2026-10-27T06:04:55-07:00",
     "published_at": "2025-11-17T09:14:58-07:00",
     "products_count": 56
    },
@@ -1797,7 +2127,7 @@
    {
     "title": "Rope Hats",
     "handle": "rope-hats",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-26T18:03:07-07:00",
     "published_at": "2025-03-14T11:12:41-07:00",
     "products_count": 55
    },
@@ -1811,21 +2141,21 @@
    {
     "title": "Sale",
     "handle": "sale",
-    "updated_at": "2026-10-26T04:02:48-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-08-18T15:53:08-07:00",
     "products_count": 83
    },
    {
     "title": "SALT SHAKER",
     "handle": "salt-shaker",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-04-07T10:36:34-07:00",
     "products_count": 6
    },
    {
     "title": "Salt Shaker Core Performance Polos",
     "handle": "salt-shaker-core-performance-polos",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-04-01T15:46:54-07:00",
     "products_count": 3
    },
@@ -1839,28 +2169,28 @@
    {
     "title": "Sheldon's Favorites",
     "handle": "sheldons-favorites",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2026-09-24T10:55:52-07:00",
     "products_count": 24
    },
    {
     "title": "Shorts",
     "handle": "shorts",
-    "updated_at": "2026-10-26T06:04:47-07:00",
+    "updated_at": "2026-10-27T06:04:56-07:00",
     "published_at": "2025-02-03T17:58:03-07:00",
     "products_count": 52
    },
    {
     "title": "Shorts x",
     "handle": "shortsx",
-    "updated_at": "2026-10-26T04:02:47-07:00",
+    "updated_at": "2026-10-27T04:02:10-07:00",
     "published_at": "2022-10-07T14:16:21-07:00",
     "products_count": 136
    },
    {
     "title": "Si Woo Kim",
     "handle": "si-woo-kim",
-    "updated_at": "2026-10-25T04:03:19-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2024-07-29T13:45:27-07:00",
     "products_count": 4
    },
@@ -1874,14 +2204,14 @@
    {
     "title": "Snapback Hats",
     "handle": "snapback-hats",
-    "updated_at": "2026-10-21T04:04:33-07:00",
+    "updated_at": "2026-10-27T04:02:07-07:00",
     "published_at": "2024-11-08T10:23:15-07:00",
     "products_count": 30
    },
    {
     "title": "Socks",
     "handle": "socks",
-    "updated_at": "2026-10-26T06:04:44-07:00",
+    "updated_at": "2026-10-27T06:04:55-07:00",
     "published_at": "2023-10-31T12:45:53-07:00",
     "products_count": 58
    },
@@ -1906,6 +2236,16 @@
    "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
+   "brand": "Swannies",
+   "url": "https://swannies.co/products.json?limit=5",
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+   "brand": "Pins & Aces",
+   "url": "https://pinsandaces.com/products.json?limit=3",
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
    "brand": "Shank It",
    "url": "https://shankitgolf.com/products.json?limit=5",
    "error": "HTTPError: HTTP Error 429: Too Many Requests"
@@ -1918,16 +2258,6 @@
   {
    "brand": "Bogey Bros",
    "url": "https://bogeybros.co/collections/shop/products.json?limit=250",
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "brand": "Swannies",
-   "url": "https://swannies.co/collections/polos/products.json?limit=250",
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "brand": "Bogey Bros",
-   "url": "https://bogeybros.co/collections.json?limit=250",
    "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
