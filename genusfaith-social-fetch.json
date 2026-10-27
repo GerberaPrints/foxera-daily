@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "genusfaith",
- "date": "2026-10-27",
- "fetched_at": "2026-10-27T04:15:02.505199+07:00",
+ "date": "2026-10-28",
+ "fetched_at": "2026-10-28T04:15:02.905746+07:00",
  "reddit": {
   "Catholicism": {
    "sub_niche": "faith",
@@ -16,15 +16,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/Catholicism/comments/1xd5fns/mary_and_jesus_by_catholic_artist_bernadette/",
-     "selftext_head": ""
-    },
-    {
-     "title": "Pope Leo XIV needs no further treatment after lung cancer surgery, Vatican says",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xbx7xa/pope_leo_xiv_needs_no_further_treatment_after/",
      "selftext_head": ""
     },
     {
@@ -46,12 +37,12 @@
      "selftext_head": ""
     },
     {
-     "title": "For the first time in 5 years, the number of priests worldwide rose",
+     "title": "Pope Leo XIV needs no further treatment after lung cancer surgery, Vatican says",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xar678/for_the_first_time_in_5_years_the_number_of/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xbx7xa/pope_leo_xiv_needs_no_further_treatment_after/",
      "selftext_head": ""
     },
     {
@@ -127,6 +118,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Pope Leo cleared for South America trip just weeks after cancer surgery",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xg15bw/pope_leo_cleared_for_south_america_trip_just/",
+     "selftext_head": ""
+    },
+    {
      "title": "A priest pauses the Eucharistic Mass to embrace and comfort a crying, distressed man",
      "score": null,
      "num_comments": null,
@@ -136,12 +136,12 @@
      "selftext_head": ""
     },
     {
-     "title": "WHY ARE SO MANY PEOPLE BECOMING CATHOLIC? 20 U.S. Catholic Dioceses Collaborate to Study Emerging Interest in the Catholic Church",
+     "title": "Pontifical Mass on the feast of Christ the King in the traditional calendar, celebrated by His Excellency Bishop Marian Eleganti OSB. (For the big Christ the King Youth Group (FSSP) weekend in Switzerland)",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
-     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xbncgr/why_are_so_many_people_becoming_catholic_20_us/",
+     "permalink": "https://www.reddit.com/r/Catholicism/comments/1xfec7d/pontifical_mass_on_the_feast_of_christ_the_king/",
      "selftext_head": ""
     }
    ]
@@ -201,13 +201,13 @@
    "baptism gifts",
    "baptism gifts for boys",
    "baptism gifts for girls",
+   "baptism gift for 8 year old boy",
+   "baptism gift ideas for baby girl",
    "baptism gifts for baby girl",
+   "baptism gifts for girls near me",
    "baptism gift ideas",
    "baptism gifts for adults",
-   "baptism gifts near me",
-   "baptism gifts for baby boy",
-   "baptism gifts from godparents",
-   "baptism gift from godmother"
+   "baptism gifts near me"
   ],
   "catholic home decor": [
    "catholic home decor",
@@ -293,16 +293,16 @@
   ]
  },
  "trends": [
-  "pere romeu",
-  "thierry henry",
-  "mnf tonight",
-  "kopa trophy",
-  "malik scott",
-  "troy aikman joe buck feud",
-  "bunny shaw",
-  "doxing",
-  "scarlett camberos",
-  "jim cramer stock pick anthropic"
+  "victor julian duque fbi most wanted",
+  "mein schiff 3 canary islands cancelled",
+  "danny masterson",
+  "garrett wilson",
+  "johnny manziel",
+  "bolsonaro flavio",
+  "brush buddies crayola toothpaste recall",
+  "arsenal vs",
+  "at&amp;t american airlines",
+  "pat sajak 80th birthday"
  ],
  "errors": []
 }
