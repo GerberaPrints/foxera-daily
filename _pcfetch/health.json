@@ -1,6 +1,6 @@
 {
  "schema_version": "1.3",
- "checked_at": "2026-10-28T04:16:06.257067+07:00",
+ "checked_at": "2026-10-28T04:42:21.468849+07:00",
  "date": "2026-10-28",
  "projects": [
   {
@@ -60,29 +60,25 @@
   {
    "project": "gritfell",
    "checks": [
-    "FAIL live-fetch cu: 2026-10-27 (hom nay 2026-10-28)",
-    "CANH BAO feed 1/13",
-    "FAIL social-fetch cu: 2026-10-27"
+    "OK live-fetch = hom nay",
+    "CANH BAO feed 2/13"
    ],
    "healed": [],
    "need_human": [
-    "gritfell: du lieu dung o 2026-10-27, task CO THAT (71 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
-    "gritfell: social dung o 2026-10-27 (hom nay 2026-10-28). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gritfell",
-    "gritfell: HTTP 429 'GritFell' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gritfell: HTTP 429 'Duck Camp' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gritfell: HTTP 429 'Marsh Wear' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gritfell: HTTP 429 'Tom Beckbe' — bi rate-limit lien tuc — can dang ky app OAuth",
-    "gritfell: HTTP 429 'Howler Brothers' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gritfell: HTTP 429 'AFTCO' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gritfell: HTTP 429 'Drake Waterfowl' — bi rate-limit lien tuc — can dang ky app OAuth",
+    "gritfell: HTTP 429 'Free Fly' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gritfell: HTTP 429 'BURLEBO' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gritfell: HTTP 429 'DECOY Apparel' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gritfell: HTTP 429 'Hunthide' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gritfell: HTTP 429 'Huntdad' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gritfell: HTTP 429 'Terrabound' — bi rate-limit lien tuc — can dang ky app OAuth"
    ],
-   "status": "FAIL",
-   "feeds": "1/13",
+   "status": "OK",
+   "feeds": "2/13",
    "reddit": "10/10"
   },
   {
@@ -186,15 +182,12 @@
   "gerberaprints: HTTP 429 'Swannies collections' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gerberaprints: HTTP 429 'Shank It collections' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gerberaprints: HTTP 429 'U Suck collections' — bi rate-limit lien tuc — can dang ky app OAuth",
-  "gritfell: du lieu dung o 2026-10-27, task CO THAT (71 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
-  "gritfell: social dung o 2026-10-27 (hom nay 2026-10-28). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gritfell",
-  "gritfell: HTTP 429 'GritFell' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gritfell: HTTP 429 'Duck Camp' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gritfell: HTTP 429 'Marsh Wear' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gritfell: HTTP 429 'Tom Beckbe' — bi rate-limit lien tuc — can dang ky app OAuth",
-  "gritfell: HTTP 429 'Howler Brothers' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gritfell: HTTP 429 'AFTCO' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gritfell: HTTP 429 'Drake Waterfowl' — bi rate-limit lien tuc — can dang ky app OAuth",
+  "gritfell: HTTP 429 'Free Fly' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gritfell: HTTP 429 'BURLEBO' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gritfell: HTTP 429 'DECOY Apparel' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gritfell: HTTP 429 'Hunthide' — bi rate-limit lien tuc — can dang ky app OAuth",
