@@ -1,0 +1,50 @@
+{
+  "project": "gerberaprints",
+  "out_live": "gerberaprints-live-fetch.json",
+  "out_social": "gerberaprints-social-fetch.json",
+
+  "_nguon_domain": "Lay tu gerbera-local-fetch/gerbera_fetch.py dang chay tren may. Ban cu quet 3 lop: doi thu (limit 5), collection sau cua doi thu (limit 250), va collections.json. Ca 3 lop deu duoc giu.",
+
+  "feeds": {
+    "GerberaPrints":        "https://gerberaprints.com/products.json?limit=250",
+    "Bogey Bros":           "https://bogeybros.co/products.json?limit=5",
+    "Bad Birdie":           "https://badbirdiegolf.com/products.json?limit=5",
+    "Swannies":             "https://swannies.co/products.json?limit=5",
+    "Pins & Aces":          "https://pinsandaces.com/products.json?limit=3",
+    "Shank It":             "https://shankitgolf.com/products.json?limit=5",
+    "U Suck":               "https://usuckatgolf.com/products.json?limit=5",
+
+    "Bogey Bros SHOP sau":  "https://bogeybros.co/collections/shop/products.json?limit=250",
+    "Bad Birdie POLOS sau": "https://badbirdiegolf.com/collections/polos/products.json?limit=250",
+    "Swannies POLOS sau":   "https://swannies.co/collections/polos/products.json?limit=250"
+  },
+
+  "policies": {
+    "GerberaPrints": ["https://gerberaprints.com/policies/shipping-policy",
+                      "https://gerberaprints.com/policies/refund-policy"]
+  },
+
+  "extras": {
+    "Bogey Bros collections":  "https://bogeybros.co/collections.json?limit=250",
+    "Bad Birdie collections":  "https://badbirdiegolf.com/collections.json?limit=250",
+    "Swannies collections":    "https://swannies.co/collections.json?limit=250",
+    "Pins & Aces collections": "https://pinsandaces.com/collections.json?limit=250",
+    "Shank It collections":    "https://shankitgolf.com/collections.json?limit=250",
+    "U Suck collections":      "https://usuckatgolf.com/collections.json?limit=250"
+  },
+
+  "_ghi_chu_social": "Chi dien sub da kiem la co that. Them sub moi thi mo reddit.com/r/<ten> tren trinh duyet truoc.",
+
+  "social": {
+    "enabled": true,
+    "trends_geo": "US",
+    "subs": { "golf": ["golf"] },
+    "youtube": [],
+    "suggest_seeds": [
+      "funny golf polo", "golf gift for him", "golf bachelor party shirt",
+      "golf dad hat", "custom golf polo", "golf tournament gift",
+      "golf koozie", "golf towel funny", "bachelor party golf",
+      "golf gift for boss", "golf apparel funny", "hawaiian golf shirt"
+    ]
+  }
+}
