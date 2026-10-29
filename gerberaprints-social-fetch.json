@@ -2,8 +2,8 @@
  "schema_version": "1.1",
  "producer": "DESKTOP",
  "project": "gerberaprints",
- "date": "2026-10-28",
- "fetched_at": "2026-10-28T04:45:02.541466+07:00",
+ "date": "2026-10-29",
+ "fetched_at": "2026-10-29T08:19:32.828909+07:00",
  "reddit": {
   "golf": {
    "sub_niche": "golf",
@@ -46,6 +46,15 @@
      "selftext_head": ""
     },
     {
+     "title": "Territorial Mammals",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1xh1ksa/territorial_mammals/",
+     "selftext_head": ""
+    },
+    {
      "title": "What is /u/RebelLord's handicap?",
      "score": null,
      "num_comments": null,
@@ -70,15 +79,6 @@
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1xedfkq/whoever_said_clean_your_hats_in_the_dishwasher_i/",
-     "selftext_head": ""
-    },
-    {
-     "title": "You Guys Wanted Pics When They Came In",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1xc2y5n/you_guys_wanted_pics_when_they_came_in/",
      "selftext_head": ""
     },
     {
@@ -127,21 +127,21 @@
      "selftext_head": ""
     },
     {
-     "title": "Territorial Mammals",
-     "score": null,
-     "num_comments": null,
-     "flair": null,
-     "created_utc": null,
-     "permalink": "https://www.reddit.com/r/golf/comments/1xh1ksa/territorial_mammals/",
-     "selftext_head": ""
-    },
-    {
      "title": "My club’s GM secretly holds 3 hours of prime weekend tee times for buddies",
      "score": null,
      "num_comments": null,
      "flair": null,
      "created_utc": null,
      "permalink": "https://www.reddit.com/r/golf/comments/1xg9rin/my_clubs_gm_secretly_holds_3_hours_of_prime/",
+     "selftext_head": ""
+    },
+    {
+     "title": "Golf in Japan is something else 🇯🇵",
+     "score": null,
+     "num_comments": null,
+     "flair": null,
+     "created_utc": null,
+     "permalink": "https://www.reddit.com/r/golf/comments/1xdv3cj/golf_in_japan_is_something_else/",
      "selftext_head": ""
     }
    ]
@@ -189,11 +189,11 @@
    "golf dad hat barstool",
    "golf dad hat near me",
    "golf dad hat style",
+   "golf dad hat nearby",
    "golf dad hat canada",
+   "golf dad hat pga superstore",
    "golf daddy hat",
-   "golf daddy hat paddington",
-   "golf daddy hat no laying up",
-   "golf daddy hat australia"
+   "golf daddy hat paddington"
   ],
   "custom golf polo": [
    "custom golf polos",
@@ -223,13 +223,13 @@
    "golf koozie",
    "golf koozie ideas",
    "golf koozies personalized",
-   "golf koozie designs",
    "golf koozies bulk",
+   "golf koozie designs",
    "golf koozie nearby",
-   "golf koozie with tee holder",
-   "golf koozie sleeve",
    "golf koozie near me",
-   "golf koozie funny"
+   "golf koozie with tee holder",
+   "golf koozie custom",
+   "golf koozie sleeve"
   ],
   "golf towel funny": [
    "golf towel funny",
@@ -237,11 +237,11 @@
    "golf towel fun",
    "golf ball towel funny",
    "golf bag towel funny",
-   "amazon golf towel funny",
-   "disc golf towel funny",
    "magnetic golf towel funny",
+   "amazon golf towel funny",
    "golf towels with funny sayings",
-   "best golf.towels funny"
+   "funny golf towel designs",
+   "funny golf towel for men"
   ],
   "bachelor party golf": [
    "bachelor party golf trips",
@@ -267,38 +267,38 @@
    "golf apparel funny",
    "golf shirts funny",
    "golf shirts funny men",
-   "golf clothing funny",
    "golf shirt funny pattern",
+   "golf clothing funny",
    "golf shirts funny women",
-   "golf shirts funny australia",
+   "golf shirts funny sayings",
    "golf shirts funny print",
-   "golf shirts funny amazon",
-   "golf shirts funny sayings"
+   "golf shirts funny australia",
+   "golf shirts funny amazon"
   ],
   "hawaiian golf shirt": [
    "hawaiian golf shirts",
    "hawaiian golf shirts for men",
    "hawaiian golf shirts for women",
    "hawaiian golf shirts amazon",
+   "hawaiian golf shirts ladies",
    "hawaiian golf shirts australia",
    "hawaiian golf shirts near me",
-   "hawaiian golf shirts canada",
    "hawaiian golf shirt brand",
-   "hawaiian golf shirts nearby",
-   "hawaiian golf shirts for couples"
+   "hawaiian golf shirts canada",
+   "hawaiian golf shirt company"
   ]
  },
  "trends": [
-  "como",
-  "danielle parton",
-  "inundación",
-  "mein schiff 3 canary islands cancelled",
-  "gta 6 size",
-  "victor julian duque fbi most wanted",
-  "danny masterson",
-  "garrett wilson",
-  "johnny manziel",
-  "bolsonaro flavio"
+  "kalshi",
+  "brooks nader",
+  "contreras brewers",
+  "kingston flemings",
+  "espn nba scores",
+  "internacional de bogotá - medellín",
+  "glen powell",
+  "yandy diaz",
+  "diaz tampa bay rays",
+  "lonzo ball"
  ],
  "errors": []
 }

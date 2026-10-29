@@ -1,6 +1,6 @@
 {
  "schema_version": "1.3",
- "checked_at": "2026-10-29T04:16:05.981187+07:00",
+ "checked_at": "2026-10-29T08:21:19.933979+07:00",
  "date": "2026-10-29",
  "projects": [
   {
@@ -33,26 +33,28 @@
   {
    "project": "gerberaprints",
    "checks": [
-    "FAIL live-fetch cu: 2026-10-28 (hom nay 2026-10-29)",
-    "CANH BAO feed 5/10",
-    "FAIL social-fetch cu: 2026-10-28"
+    "OK live-fetch = hom nay",
+    "CANH BAO feed 2/10"
    ],
    "healed": [],
    "need_human": [
-    "gerberaprints: du lieu dung o 2026-10-28, task CO THAT (70 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
-    "gerberaprints: social dung o 2026-10-28 (hom nay 2026-10-29). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gerberaprints",
+    "gerberaprints: HTTP 429 'GerberaPrints' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gerberaprints: HTTP 429 'Bad Birdie' — bi rate-limit lien tuc — can dang ky app OAuth",
+    "gerberaprints: HTTP 429 'Swannies' — bi rate-limit lien tuc — can dang ky app OAuth",
+    "gerberaprints: HTTP 429 'Pins & Aces' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gerberaprints: HTTP 429 'Shank It' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gerberaprints: HTTP 429 'U Suck' — bi rate-limit lien tuc — can dang ky app OAuth",
-    "gerberaprints: HTTP 429 'Bogey Bros SHOP sau' — bi rate-limit lien tuc — can dang ky app OAuth",
+    "gerberaprints: HTTP 429 'Bad Birdie POLOS sau' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gerberaprints: HTTP 429 'Swannies POLOS sau' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gerberaprints: HTTP 429 'Bogey Bros collections' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gerberaprints: HTTP 429 'Bad Birdie collections' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gerberaprints: HTTP 429 'Swannies collections' — bi rate-limit lien tuc — can dang ky app OAuth",
-    "gerberaprints: HTTP 429 'Shank It collections' — bi rate-limit lien tuc — can dang ky app OAuth"
+    "gerberaprints: HTTP 429 'Pins & Aces collections' — bi rate-limit lien tuc — can dang ky app OAuth",
+    "gerberaprints: HTTP 429 'Shank It collections' — bi rate-limit lien tuc — can dang ky app OAuth",
+    "gerberaprints: HTTP 429 'U Suck collections' — bi rate-limit lien tuc — can dang ky app OAuth"
    ],
-   "status": "FAIL",
-   "feeds": "5/10",
+   "status": "OK",
+   "feeds": "2/10",
    "reddit": "1/1"
   },
   {
@@ -64,7 +66,7 @@
    ],
    "healed": [],
    "need_human": [
-    "gritfell: du lieu dung o 2026-10-28, task CO THAT (72 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
+    "gritfell: du lieu dung o 2026-10-28, task CO THAT (73 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
     "gritfell: social dung o 2026-10-28 (hom nay 2026-10-29). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gritfell",
     "gritfell: HTTP 429 'Duck Camp' — bi rate-limit lien tuc — can dang ky app OAuth",
     "gritfell: HTTP 429 'Marsh Wear' — bi rate-limit lien tuc — can dang ky app OAuth",
@@ -170,18 +172,21 @@
   "genusfaith: HTTP 429 'Venxara' — bi rate-limit lien tuc — can dang ky app OAuth",
   "genusfaith: HTTP 429 'Catholight (leather)' — bi rate-limit lien tuc — can dang ky app OAuth",
   "genusfaith: HTTP 429 'GenusFaith collections' — bi rate-limit lien tuc — can dang ky app OAuth",
-  "gerberaprints: du lieu dung o 2026-10-28, task CO THAT (70 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gerberaprints\" /V /FO LIST | findstr \"Last Result\"",
-  "gerberaprints: social dung o 2026-10-28 (hom nay 2026-10-29). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gerberaprints",
+  "gerberaprints: HTTP 429 'GerberaPrints' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gerberaprints: HTTP 429 'Bad Birdie' — bi rate-limit lien tuc — can dang ky app OAuth",
+  "gerberaprints: HTTP 429 'Swannies' — bi rate-limit lien tuc — can dang ky app OAuth",
+  "gerberaprints: HTTP 429 'Pins & Aces' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gerberaprints: HTTP 429 'Shank It' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gerberaprints: HTTP 429 'U Suck' — bi rate-limit lien tuc — can dang ky app OAuth",
-  "gerberaprints: HTTP 429 'Bogey Bros SHOP sau' — bi rate-limit lien tuc — can dang ky app OAuth",
+  "gerberaprints: HTTP 429 'Bad Birdie POLOS sau' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gerberaprints: HTTP 429 'Swannies POLOS sau' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gerberaprints: HTTP 429 'Bogey Bros collections' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gerberaprints: HTTP 429 'Bad Birdie collections' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gerberaprints: HTTP 429 'Swannies collections' — bi rate-limit lien tuc — can dang ky app OAuth",
+  "gerberaprints: HTTP 429 'Pins & Aces collections' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gerberaprints: HTTP 429 'Shank It collections' — bi rate-limit lien tuc — can dang ky app OAuth",
-  "gritfell: du lieu dung o 2026-10-28, task CO THAT (72 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
+  "gerberaprints: HTTP 429 'U Suck collections' — bi rate-limit lien tuc — can dang ky app OAuth",
+  "gritfell: du lieu dung o 2026-10-28, task CO THAT (73 ngay trong log) nhung dang fail. Kiem: schtasks /Query /TN \"FoxEra PC Fetch - gritfell\" /V /FO LIST | findstr \"Last Result\"",
   "gritfell: social dung o 2026-10-28 (hom nay 2026-10-29). Task co the dang chay script khac khong quet social. Chay tay de xac nhan: _pcfetch\\run_pc_fetch.bat gritfell",
   "gritfell: HTTP 429 'Duck Camp' — bi rate-limit lien tuc — can dang ky app OAuth",
   "gritfell: HTTP 429 'Marsh Wear' — bi rate-limit lien tuc — can dang ky app OAuth",
