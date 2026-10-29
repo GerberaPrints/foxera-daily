@@ -1,7 +1,7 @@
 @echo off
 setlocal
 REM ============================================================
-REM run_pc_fetch.bat — CHAY FETCH cho MOT du an.   v1.1 (17/08/2026)
+REM run_pc_fetch.bat - CHAY FETCH cho MOT du an.   v1.2 (29/10/2026)
 REM
 REM     run_pc_fetch.bat <ten_du_an>
 REM     vi du:  run_pc_fetch.bat gritfell
@@ -75,6 +75,10 @@ REM    exit 1 CHI khi toan bo feed bat buoc chet. Social hong van exit 0.
 python "_pcfetch\pcfetch.py" %PROJ%
 if errorlevel 1 (
   echo [%PROJ%] FETCH FAIL toan bo - khong push, cloud se chay che do suy giam
+  REM v1.2 29/10/2026: tra lai DUNG 2 file dau ra cua job nay. Ban cu de file ban lai
+  REM -> cay git ban -> job ke tiep DUNG o buoc 2 (sang 29/10: gritfell 0/13 chan
+  REM    gerberaprints 04:45 va Gerbera 06:45). Chi dung file cua %PROJ%, khong dung file job khac.
+  git checkout -- "%PROJ%-live-fetch.json" "%PROJ%-social-fetch.json" 2>nul
   exit /b 1
 )
 
