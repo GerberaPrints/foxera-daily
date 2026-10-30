@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "scanner_version": "v9",
   "provenance": "live_local_browser",
   "note": "Desktop CHI ghi file nay. Cloud doc va merge vao foxera-accounts-daily.json. v8 ghi de accounts-daily -> 2 nguoi ghi 1 file, da bo.",
@@ -56,7 +56,7 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": false,
+      "status_confirmed": true,
       "evidence": "cau trang thai nguyen van"
     },
     {
@@ -100,7 +100,7 @@
       "rating": 5.0,
       "reviews": 1,
       "listings": null,
-      "status_confirmed": false,
+      "status_confirmed": true,
       "evidence": "cau trang thai nguyen van"
     },
     {
@@ -139,13 +139,13 @@
     {
       "code": "E127",
       "shop": "Xaloryva",
-      "status": "rate_limited",
+      "status": "not_selling",
       "sales": null,
-      "rating": null,
-      "reviews": null,
+      "rating": 5.0,
+      "reviews": 1,
       "listings": null,
-      "status_confirmed": true,
-      "evidence": "http 429 - Etsy siet toc do"
+      "status_confirmed": false,
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E128",
@@ -177,7 +177,7 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": false,
+      "status_confirmed": true,
       "evidence": "botwall marker: captcha"
     },
     {
@@ -227,13 +227,13 @@
     {
       "code": "E138",
       "shop": "auviramarket",
-      "status": "rate_limited",
+      "status": "blocked",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
       "status_confirmed": false,
-      "evidence": "http 429 - Etsy siet toc do"
+      "evidence": "botwall marker: captcha"
     },
     {
       "code": "E140",
@@ -260,13 +260,13 @@
     {
       "code": "E146",
       "shop": "LUNAVEXOR",
-      "status": "not_selling",
+      "status": "rate_limited",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": true,
-      "evidence": "cau trang thai nguyen van"
+      "status_confirmed": false,
+      "evidence": "http 429 - Etsy siet toc do"
     },
     {
       "code": "E147",
@@ -304,24 +304,24 @@
     {
       "code": "E150",
       "shop": "Elvarixo",
-      "status": "not_selling",
-      "sales": null,
-      "rating": null,
-      "reviews": null,
-      "listings": null,
-      "status_confirmed": true,
-      "evidence": "cau trang thai nguyen van"
-    },
-    {
-      "code": "E152",
-      "shop": "kalverixo",
-      "status": "blocked",
+      "status": "rate_limited",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
       "status_confirmed": false,
-      "evidence": "botwall marker: captcha"
+      "evidence": "http 429 - Etsy siet toc do"
+    },
+    {
+      "code": "E152",
+      "shop": "kalverixo",
+      "status": "rate_limited",
+      "sales": null,
+      "rating": null,
+      "reviews": null,
+      "listings": null,
+      "status_confirmed": false,
+      "evidence": "http 429 - Etsy siet toc do"
     },
     {
       "code": "E155",
@@ -348,13 +348,13 @@
     {
       "code": "E163",
       "shop": "zenvorilax",
-      "status": "rate_limited",
+      "status": "not_selling",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
       "status_confirmed": false,
-      "evidence": "http 429 - Etsy siet toc do"
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E165",
@@ -524,13 +524,13 @@
     {
       "code": "E190",
       "shop": "Avenorhomely",
-      "status": "rate_limited",
+      "status": "not_selling",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
       "status_confirmed": false,
-      "evidence": "http 429 - Etsy siet toc do"
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E192",
@@ -546,13 +546,13 @@
     {
       "code": "E193",
       "shop": "HoanElly",
-      "status": "blocked",
+      "status": "rate_limited",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": true,
-      "evidence": "botwall marker: captcha"
+      "status_confirmed": false,
+      "evidence": "http 429 - Etsy siet toc do"
     },
     {
       "code": "E194",
@@ -584,7 +584,7 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": false,
+      "status_confirmed": true,
       "evidence": "http 429 - Etsy siet toc do"
     },
     {
@@ -595,7 +595,7 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": false,
+      "status_confirmed": true,
       "evidence": "cau trang thai nguyen van"
     },
     {
@@ -645,13 +645,13 @@
     {
       "code": "E202",
       "shop": "NorviqueStudio",
-      "status": "not_selling",
+      "status": "rate_limited",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
       "status_confirmed": false,
-      "evidence": "cau trang thai nguyen van"
+      "evidence": "http 429 - Etsy siet toc do"
     },
     {
       "code": "E203",
@@ -711,13 +711,13 @@
     {
       "code": "E208",
       "shop": "VirelloCraftLab",
-      "status": "rate_limited",
+      "status": "not_selling",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
       "status_confirmed": false,
-      "evidence": "http 429 - Etsy siet toc do"
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E217",
@@ -815,30 +815,30 @@
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": false,
+      "status_confirmed": true,
       "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E238",
       "shop": "VantixoArtHouse",
-      "status": "rate_limited",
+      "status": "not_selling",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
       "status_confirmed": false,
-      "evidence": "http 429 - Etsy siet toc do"
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E239",
       "shop": "OrvynCraftStudio",
-      "status": "rate_limited",
+      "status": "not_selling",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
-      "status_confirmed": true,
-      "evidence": "http 429 - Etsy siet toc do"
+      "status_confirmed": false,
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E24",
@@ -865,17 +865,6 @@
     {
       "code": "E243",
       "shop": "PebloWorks",
-      "status": "rate_limited",
-      "sales": null,
-      "rating": null,
-      "reviews": null,
-      "listings": null,
-      "status_confirmed": false,
-      "evidence": "http 429 - Etsy siet toc do"
-    },
-    {
-      "code": "E244",
-      "shop": "MorbixLab",
       "status": "not_selling",
       "sales": null,
       "rating": null,
@@ -883,6 +872,17 @@
       "listings": null,
       "status_confirmed": false,
       "evidence": "cau trang thai nguyen van"
+    },
+    {
+      "code": "E244",
+      "shop": "MorbixLab",
+      "status": "rate_limited",
+      "sales": null,
+      "rating": null,
+      "reviews": null,
+      "listings": null,
+      "status_confirmed": false,
+      "evidence": "http 429 - Etsy siet toc do"
     },
     {
       "code": "E245",
@@ -997,13 +997,13 @@
     {
       "code": "E257",
       "shop": "VintagebyTung",
-      "status": "rate_limited",
+      "status": "blocked",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
       "status_confirmed": false,
-      "evidence": "http 429 - Etsy siet toc do"
+      "evidence": "botwall marker: captcha"
     },
     {
       "code": "E258",
@@ -1558,13 +1558,13 @@
     {
       "code": "E55",
       "shop": "NovaBirchStudio",
-      "status": "not_selling",
+      "status": "rate_limited",
       "sales": null,
       "rating": null,
       "reviews": null,
       "listings": null,
       "status_confirmed": false,
-      "evidence": "cau trang thai nguyen van"
+      "evidence": "http 429 - Etsy siet toc do"
     },
     {
       "code": "E56",
@@ -1745,13 +1745,13 @@
     {
       "code": "E85",
       "shop": "NOVIXRA",
-      "status": "rate_limited",
-      "sales": null,
-      "rating": null,
-      "reviews": null,
+      "status": "not_selling",
+      "sales": 2,
+      "rating": 5.0,
+      "reviews": 1,
       "listings": null,
       "status_confirmed": false,
-      "evidence": "http 429 - Etsy siet toc do"
+      "evidence": "cau trang thai nguyen van"
     },
     {
       "code": "E92",
