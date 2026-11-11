@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "scanner_version": "v9",
   "provenance": "live_local_browser",
   "note": "Desktop CHI ghi file nay. Cloud doc va merge vao foxera-accounts-daily.json. v8 ghi de accounts-daily -> 2 nguoi ghi 1 file, da bo.",
@@ -1021,7 +1021,7 @@
       "shop": "Aurevanelis",
       "status": "not_selling",
       "sales": 92,
-      "rating": 3.0,
+      "rating": 3.2,
       "reviews": 18,
       "listings": null,
       "status_confirmed": true,

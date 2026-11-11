@@ -1,6 +1,6 @@
 {
   "project": "foxera",
-  "verified_at": "2026-11-11",
+  "verified_at": "2026-11-12",
   "scanner_version": "v9",
   "provenance": "live_local_browser",
   "counts": {
@@ -30,7 +30,7 @@
       "reviews": 113,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E100",
@@ -116,7 +116,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E114",
@@ -131,7 +131,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E119",
@@ -284,7 +284,7 @@
       "reviews": 3,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E136",
@@ -549,7 +549,7 @@
       "reviews": 1,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E171",
@@ -1145,7 +1145,7 @@
       "reviews": 17,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E240",
@@ -1358,7 +1358,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E258",
@@ -1381,11 +1381,11 @@
       "quote": "Aurevanelis is currently not selling on Etsy",
       "http_status": 200,
       "sales": 92,
-      "rating": 3.0,
+      "rating": 3.2,
       "reviews": 18,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E260",
@@ -1704,7 +1704,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E3",
@@ -1794,7 +1794,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E40",
@@ -1821,7 +1821,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E43",
@@ -1836,7 +1836,7 @@
       "reviews": 2,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E44",
@@ -1890,7 +1890,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E48",
@@ -2268,7 +2268,7 @@
       "reviews": null,
       "listings": null,
       "status_confirmed": true,
-      "verified_at": "2026-11-11"
+      "verified_at": "2026-11-12"
     },
     {
       "code": "E85",
