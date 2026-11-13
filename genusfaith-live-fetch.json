@@ -1,8 +1,8 @@
 {
  "schema_version": "1.0",
  "source": "genusfaith_fetch.py",
- "date": "2026-11-12",
- "fetched_at": "2026-11-12T04:05:03.806906+07:00",
+ "date": "2026-11-13",
+ "fetched_at": "2026-11-13T04:05:04.397686+07:00",
  "locale_note": "US/USD theo market mac dinh cua tung shop (products.json khong tra currency). May quet o VN. Gia khong parse duoc -> None + note trong product.",
  "provenance": "live_local_http_feed",
  "brands": {},
@@ -11,7 +11,7 @@
   "removed_products": [],
   "price_changes": [],
   "stock_flips": [],
-  "compared_against": "2026-11-11T04:05:03.703617+07:00",
+  "compared_against": "2026-11-12T04:05:03.806906+07:00",
   "brands_compared": []
  },
  "errors": [
