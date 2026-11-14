@@ -1,6 +1,6 @@
 @echo off
 REM ============================================================
-REM run_genusfaith_fetch.bat - PC-side FETCH GenusFaith   v6.2 (11/09/2026)
+REM run_genusfaith_fetch.bat - PC-side FETCH GenusFaith   v6.3 (14/11/2026)
 REM
 REM === QUAN TRONG: MAY NAY CO HAI CLONE ===
 REM   C:\gerbera\foxera-daily       <- job gerbera chay o day (log 55 dong + commit rieng)
@@ -57,6 +57,9 @@ REM 4) Chay job fetch
 python genusfaith-local-fetch\genusfaith_fetch.py
 if errorlevel 1 (
   echo [genusfaith_fetch] FETCH FAIL toan bo - khong push, cloud se chay che do suy giam
+  REM v6.3 (14/11): commit ngay 2 file cua job nay (khong push) -> shopscan 04:00 hom sau khong bi DIRTY_TREE
+  git add genusfaith-live-fetch.json genusfaith-local-fetch/fetch_log.txt 2>nul
+  git commit -m "genusfaith pc-fetch fail-leftover" 2>nul
   call :log FETCH_FAILED
   exit /b 1
 )
