@@ -113,6 +113,19 @@ TLS_USED = {}  # url -> mode
 def http_get(url, retries=1):
     """Trả (text, err). Lỗi cert → tụt bậc TLS ngay; lỗi khác → thoát vòng context."""
     last = None
+    # FX-CONG-SHOP 1.2 (14/11/2026): storefront Shopify di qua cong chung (nhip 8s, chan 429 chung moi job, cache 20h).
+    # Khong co cong (may khac) -> chay duong cu ben duoi.
+    try:
+        if r"D:\FoxEra\tools" not in sys.path: sys.path.insert(0, r"D:\FoxEra\tools")
+        import fx_cong_shop as CS
+    except ImportError:
+        CS = None
+    if CS is not None:
+        st, body, _c = CS.lay(url, headers=UA, timeout=TIMEOUT, cho_toi_da=300)
+        if st == 200:
+            TLS_USED[url] = "cong-shop"
+            return body.decode("utf-8", errors="replace"), None
+        return None, "HTTPError %s: FX-CONG-SHOP" % st
     for _ in range(retries + 1):
         for mode, ctx in _CTXS:
             try:
